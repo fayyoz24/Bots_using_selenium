@@ -8,7 +8,7 @@ options = Options()
 options.add_argument("user-data-dir=C:\\Users\\Username\\AppData\\Local\\Google\\Chrome\\User Data")
 driver = webdriver.Chrome(options=options)
 # 'Mathematics and Bachelor words are used as a default, it is changeble
-driver.get('https://www.google.com/search?q=site:nl.linkedin.com/in/+AND+%22Mathematics%22+AND+%22Bachelor%27s&sxsrf=ALiCzsbOTqrA98wDQf3mtEB03kA_O7eCbQ:1668686082134&ei=AiF2Y4vwB-3JrgS9gpd4&start=50&sa=N&ved=2ahUKEwiL-aqJlLX7AhXtpIsKHT3BBQ84KBDy0wN6BAgBEA0&biw=920&bih=625&dpr=1')
+driver.get('https://www.google.com/search?q=site:nl.linkedin.com/in/+AND+%22Mathematics%22+AND+%22Bachelor%27s+AND+%22Amsterdam&sxsrf=ALiCzsbOTqrA98wDQf3mtEB03kA_O7eCbQ:1668686082134&ei=AiF2Y4vwB-3JrgS9gpd4&start=50&sa=N&ved=2ahUKEwiL-aqJlLX7AhXtpIsKHT3BBQ84KBDy0wN6BAgBEA0&biw=920&bih=625&dpr=1')
 time.sleep(10) # to make slower 
 
 def URLget(n): # n is the number of pages
