@@ -43,7 +43,7 @@ import pandas as pd
 #         print(e)
 
 options = Options()
-options.add_argument("user-data-dir=C:\\Users\\Username\\AppData\\Local\\Google\\Chrome\\User Data")
+options.add_argument("user-data-dir=C:\\Users\\dell\\AppData\\Local\\Google\\Chrome\\User Data")
 driver = webdriver.Chrome(options=options)
 
 # driver.get(site)
