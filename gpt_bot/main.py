@@ -12,7 +12,6 @@ from selenium.webdriver.support import expected_conditions as EC
 
 chrome_options = Options()
 chrome_options.add_argument("user-data-dir=C:\\Users\\Username\\AppData\\Local\\Google\\Chrome\\User Data")
-chrome_options.add_argument("profile-directory=Profile 3")
 # chrome_options.add_argument('--headless')
 # chrome_options.add_argument('--no-sandbox')
 # chrome_options.add_argument('--disable-dev-shm-usage')
