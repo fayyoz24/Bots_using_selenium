@@ -1,0 +1,267 @@
+{
+    "profile_id": "tommasobarbugli",
+    "first_name": "Tommaso",
+    "last_name": "Barbugli",
+    "sub_title": "CTO at GetStream.io",
+    "profile_picture": "https://media.licdn.com/dms/image/C4D03AQEU5Wos1p0Nww/profile-displayphoto-shrink_800_800/0/1517072566137?e=1697673600&v=beta&t=MVK2BvlqMo4JSKtHW2rsWyhJrc7DyMxwYOJTrqWuUnM",
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAAAUKKVwBWsxaS2vUnf1vvXl5wCH2za4naz0",
+    "object_urn": 84552028,
+    "birth_date": null,
+    "summary": "Tommaso is an enthusiastic software developer; he discovered programming at a young age using an old Amstrad CPC464, since then he never stopped learning and creating new programs. While studying at high school he started focusing on web development; he started his own software company right after his studies when he was 19. Before founding Stream he worked together with Thierry at Fashiolista as Lead Engineer for a few years, where he co-authored the open source Stream-Framework library and others related to Python, Django and Apache Cassandra.",
+    "location": {
+        "country": "Netherlands",
+        "short": "Amsterdam, North Holland",
+        "city": "Amsterdam",
+        "state": "North Holland",
+        "default": "Amsterdam, North Holland, Netherlands"
+    },
+    "premium": true,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "Dutch",
+                "proficiency": "LIMITED_WORKING"
+            },
+            {
+                "name": "English",
+                "proficiency": "FULL_PROFESSIONAL"
+            },
+            {
+                "name": "Italian",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ]
+    },
+    "industry": "Computer Software",
+    "education": [],
+    "patents": [],
+    "awards": [],
+    "certifications": [],
+    "organizations": [],
+    "projects": [],
+    "publications": [],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 5338728,
+                "name": "Stream.io Inc - Techstars NY 2015",
+                "logo": "https://media.licdn.com/dms/image/C560BAQF7gE8TiGXk_g/company-logo_400_400/0/1519908249069?e=1700092800&v=beta&t=e2Dr-ZBwnFya1qMDIOq6IjAnoTXTJ0gGOwL_8j3eCtk",
+                "url": "https://www.linkedin.com/company/getstream/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amsterdam Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2014
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Stream",
+                    "description": "Stream (Techstars NYC 15) is a new kind of data store designed for building, scaling and personalizing feeds. Stream uses big data and machine learning to improve how information is connected and discovered online. The company is founded by the authors of the popular open source Stream-Framework, which has over 250,000 downloads.\n\nMore than 500,000 apps are still building and maintaining their own feed technology. All these companies go through the same struggle and reinvent the same technology. Stream enables developers to build feeds in days instead of months. Feeds are intelligently aggregated and re-ranked based on relevancy. \n\nStream came out of BETA in February. We're now approaching 100 companies that have integrated Stream and are relying on our API. Several larger companies are currently integrating. Our angel investors include the founders of Crashlytics, the head of developer experience at Twitter, the founders of KeenIO, the CTO of HubSpot and the CTO of Thomson Reuters.",
+                    "title": "Co-Founder/ CTO",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Fashiolista.com",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2011
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2014
+                        }
+                    },
+                    "company": "Fashiolista.com",
+                    "description": null,
+                    "title": "Lead Engineer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Think Wize",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2010
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2011
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2010
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2011
+                        }
+                    },
+                    "company": "Think Wize",
+                    "description": null,
+                    "title": "Python / Django web developer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Fix di Tommaso Barbugli",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2007
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2010
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Italy",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2007
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2010
+                        }
+                    },
+                    "company": "Fix di Tommaso Barbugli",
+                    "description": "Software development, web development, IT consultant",
+                    "title": "Owner",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Django",
+        "Python",
+        "PostgreSQL",
+        "jQuery",
+        "AJAX",
+        "MySQL",
+        "JavaScript",
+        "Web Applications",
+        "HTML 5",
+        "Web Development",
+        "PHP",
+        "CSS",
+        "Linux",
+        "Apache",
+        "Redis",
+        "Open Source",
+        "Git",
+        "LAMP",
+        "REST",
+        "XML"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

@@ -1,0 +1,453 @@
+{
+    "profile_id": "michieljespers",
+    "first_name": "Michiel",
+    "last_name": "Jespers",
+    "sub_title": "Senior Software Developer at Netcompany",
+    "profile_picture": "https://media.licdn.com/dms/image/C5603AQHdSEXtKc-jKg/profile-displayphoto-shrink_800_800/0/1562253786120?e=1697673600&v=beta&t=jqjVplYlYlHE2jSuaQLAV6fFkQbd7L14ZLkzdlf8clo",
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAACJvr9gB69w8JDzQOhMIdXa17AkhILFd6mQ",
+    "object_urn": 577744856,
+    "birth_date": null,
+    "summary": "Software developer with a background in mathematics. Experience in the .NET framework for general purpose programming and C/CUDA and Python for high-performance computing.",
+    "location": {
+        "country": "Netherlands",
+        "short": "Leiden, South Holland",
+        "city": "Leiden",
+        "state": "South Holland",
+        "default": "Leiden, South Holland, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": []
+    },
+    "industry": "Computer Software",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "school": {
+                "name": "Leiden University",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQEFlK1wNecYbA/company-logo_400_400/0/1519855876129?e=1700697600&v=beta&t=KwFN5kUM6lyLgjAXaylWnuNQ6g0XLwvWDjTK4Ug_mEg",
+                "url": "https://www.linkedin.com/school/leiden-university/"
+            },
+            "degree_name": "Master's degree",
+            "field_of_study": "Mathematics"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2010
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "school": {
+                "name": "Leiden University",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQEFlK1wNecYbA/company-logo_400_400/0/1519855876129?e=1700697600&v=beta&t=KwFN5kUM6lyLgjAXaylWnuNQ6g0XLwvWDjTK4Ug_mEg",
+                "url": "https://www.linkedin.com/school/leiden-university/"
+            },
+            "degree_name": "Bachelor's degree",
+            "field_of_study": "Mathematics"
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "Fractal zoom GUI",
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "description": "Tetration fractal in a Gtk GUI. To get good performance, the calculation is offloaded to a GPU. Colors are applied by frequency. The application can also be used to make videos with automatic scaling. Later I added the Mandelbrot Set a bonus.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Michiel",
+                    "last_name": "Jespers",
+                    "name": null,
+                    "headline": "Senior Software Developer at Netcompany"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Tycho",
+                    "last_name": "Neve",
+                    "name": null,
+                    "headline": "Docent Wiskunde"
+                }
+            ]
+        },
+        {
+            "title": "Game of amazons - Online",
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "description": "Inspired by the amazing video by Numberphile with the mathematician Elwyn Berlekamp (https://www.youtube.com/watch?v=kjSOSeRZVNg), this project entails a browser variation of the Game of amazons, allowing anyone to play the game together.\n\nUrl to the github repo:\nhttps://github.com/Aschwins/webapp_amazons",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Michiel",
+                    "last_name": "Jespers",
+                    "name": null,
+                    "headline": "Senior Software Developer at Netcompany"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Aschwin",
+                    "last_name": "Schilperoort",
+                    "name": null,
+                    "headline": "Data Scientist bij DSM"
+                }
+            ]
+        }
+    ],
+    "publications": [
+        {
+            "name": "Chern\u2013Weil Theory for Line Bundles with the Family Arakelov Metric",
+            "publisher": "Michigan Mathematical Journal",
+            "url": "https://projecteuclid.org/euclid.mmj/1564711314",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2019
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Michiel",
+                    "last_name": "Jespers",
+                    "name": null,
+                    "headline": "Senior Software Developer at Netcompany"
+                }
+            ]
+        }
+    ],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 215128,
+                "name": "Netcompany",
+                "logo": "https://media.licdn.com/dms/image/C560BAQGk7oWAPxq-Pw/company-logo_400_400/0/1623341030738?e=1700697600&v=beta&t=gqLUbfkC-YvxHOjZ5O4okl3BHStTbtLDcTcBSnZ8GVo",
+                "url": "https://www.linkedin.com/company/netcompany-a-s/",
+                "employees": {
+                    "start": 5001,
+                    "end": 10000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2023
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Netcompany",
+                    "description": "Full-stack development:\n* LCSH 01/01/2023-01/07/2023",
+                    "title": "Senior Software Developer - Team CIBG",
+                    "employment_type": "Part-time"
+                },
+                {
+                    "location": "Delft, South Holland, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2023
+                        }
+                    },
+                    "company": "Netcompany",
+                    "description": "Development of the Schatkistbankieren application. I do mostly back-end development.",
+                    "title": "Senior Software Developer - Team SKB",
+                    "employment_type": "Full-time"
+                },
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "Netcompany",
+                    "description": "Starting in June I joined the project team for Webdiensten Vfpf, which entails further\ndevelopment of the MijnVF and MijnPF websites. On team Vfpf I mainly focus on\nfront-end development to further develop my skills in ReactJS, while employing my expertise in back-end development to assist the team in reaching our goals.",
+                    "title": "Senior Software Developer - Team Vfpf",
+                    "employment_type": "Full-time"
+                },
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2021
+                        }
+                    },
+                    "company": "Netcompany",
+                    "description": "Same as below, but in a senior role.",
+                    "title": "Senior Software Developer - Team APS",
+                    "employment_type": "Full-time"
+                },
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2021
+                        }
+                    },
+                    "company": "Netcompany",
+                    "description": "Netcompany NL was known as QDelft until June 2019.\n\nWorking on diverse projects within the public sector as a software developer.\n\nProjects include administrative systems, prognosis models, datawarehouses and more.\n\nActivities range over requirement analysis, development, client contact and more. As part of my tasks I have set up CI/CD pipelines for a few of the projects.\n\nList of projects I have worked on:\n\n* Datawarehouse BZK\n* Verkiezingsuitslagen.nl\n* NVM Online Bieden\n* NUFFIC Delta\n* CASSYS\n* RADON\n* more...\n\nTechnologies: C#, ASP.NET MVC, WCF, WebApi, OData, Bootstrap, JQuery, Websockets, TFS, Octopus Deploy, more...",
+                    "title": "Software Developer - Team APS",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 49143884,
+                "name": "MODSIM Pharma AB",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQGM2c__ebU7cg/company-logo_400_400/0/1588762660015?e=1700697600&v=beta&t=Xu9RU6tsI-whSmT1_ZFNhYo9RiHmWWfquV9jeRy-fYo",
+                "url": "https://www.linkedin.com/company/mod4sim-pharma-ab/",
+                "employees": {
+                    "start": 0,
+                    "end": 1
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2021
+                        }
+                    },
+                    "company": "MODSIM Pharma AB",
+                    "description": "Continuation of the HPC project below. In August new funding was secured for this project, which we used to further improve our test suite, port over features and work on aforementioned optimizations.",
+                    "title": "HPC Engineer",
+                    "employment_type": "Freelance"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 157321,
+                "name": "Uppsala University",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQE7ERkqy7WU_w/company-logo_400_400/0/1519886318380?e=1700697600&v=beta&t=51OMzVYsKTtBbPaflp0ap1x9UO2ZtaZPohaYvr2qn9E",
+                "url": "https://www.linkedin.com/school/uppsala-university/",
+                "employees": {
+                    "start": 5001,
+                    "end": 10000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2020
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2020
+                        }
+                    },
+                    "company": "Uppsala University",
+                    "description": "Optimization and rewrite of the molecular dynamics library Q as a freelancer. Project consisted of porting the library to a combination of C and Python while offloading parts of the calculation to CUDA. Preliminary results are that a 10x speed-up will be achieved, with paths towards further improvement.\n\nTechnologies: Python, C, CUDA",
+                    "title": "HPC Engineer",
+                    "employment_type": "Freelance"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 28462,
+                "name": "DSW Zorgverzekeraar",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQG7eVvmXLJTKA/company-logo_400_400/0/1575565882936?e=1700697600&v=beta&t=12hCKUWniDLKEGvqChTDakKhlL-fI0HSAg7sONRsRf0",
+                "url": "https://www.linkedin.com/company/dsw-zorgverzekeraar/",
+                "employees": {
+                    "start": 501,
+                    "end": 1000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Schiedam, South Holland, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2018
+                        }
+                    },
+                    "company": "DSW Zorgverzekeraar",
+                    "description": "Working on systems for acquiring healthcare as a software developer on a SCRUM team. System consisted of WPF screens, batch jobs and WCF services connecting to the rest of the company (Service Oriented Architecture). Later a website was built connecting to aforementioned WCF services. My activites included implementing new parts of the system and changes to the system according to the specs, writing unit tests, writing and implementing SpecFlow tests, all within a relatively standard, but companymade DTAP strategy with CI/CD pipelines.\n\nTechnologies: C#, TFS, SQL Server, WCF, WPF, SpecFlow, ASP.NET MVC, Bootstrap, JQuery",
+                    "title": "Software Developer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "C++",
+        "C#",
+        "Microsoft SQL Server",
+        "Set Theory",
+        "Abstract Algebra",
+        "Algebraic Geometry",
+        "Differential Geometry",
+        "Python",
+        "LaTeX",
+        "BSP",
+        "Category Theory",
+        "Algorithm Design",
+        "Linux",
+        "Matlab",
+        "SAGE"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

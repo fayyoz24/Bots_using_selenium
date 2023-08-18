@@ -1,0 +1,816 @@
+{
+    "profile_id": "martenvannieuwkoop",
+    "first_name": "Marten",
+    "last_name": "van Nieuwkoop",
+    "sub_title": "Adviseur Ruimtelijke Ordening, Milieu & Archeologie bij Omgevingsdienst West-Holland",
+    "profile_picture": null,
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAAB1hoK4BMMg6L5FMG18IPOZ_kyKIqxE8k4Y",
+    "object_urn": 492937390,
+    "birth_date": null,
+    "summary": null,
+    "location": {
+        "country": "Netherlands",
+        "short": "Leiden, South Holland",
+        "city": "Leiden",
+        "state": "South Holland",
+        "default": "Leiden, South Holland, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "NL",
+            "language": "nl"
+        },
+        "supported_locales": [
+            {
+                "country": "NL",
+                "language": "nl"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "Engels",
+                "proficiency": null
+            },
+            {
+                "name": "Nederlands",
+                "proficiency": null
+            }
+        ]
+    },
+    "industry": "Pharmaceuticals",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "school": {
+                "name": "Leiden University",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQEFlK1wNecYbA/company-logo_400_400/0/1519855876129?e=1700092800&v=beta&t=_Ka1xca3IfdCHmeD7q7WGgDYObpZ56ZjJTvjnjfwxW0",
+                "url": "https://www.linkedin.com/school/leiden-university/"
+            },
+            "degree_name": "Master of Arts (M.A.)",
+            "field_of_study": "Archeologie (Archeology)"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2010
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "school": {
+                "name": "Leiden University",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQEFlK1wNecYbA/company-logo_400_400/0/1519855876129?e=1700092800&v=beta&t=_Ka1xca3IfdCHmeD7q7WGgDYObpZ56ZjJTvjnjfwxW0",
+                "url": "https://www.linkedin.com/school/leiden-university/"
+            },
+            "degree_name": "Bachelor of Arts (B.A.)",
+            "field_of_study": "Archeologie (Archeology)"
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [
+        {
+            "name": "VCA-VOL",
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "VCA",
+            "url": null,
+            "license_number": null,
+            "display_source": null,
+            "company": null
+        },
+        {
+            "name": "BHV",
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "authority": "BHV",
+            "url": null,
+            "license_number": null,
+            "display_source": null,
+            "company": null
+        },
+        {
+            "name": "RAAP Academie - Fysische Geografie",
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "RAAP",
+            "url": null,
+            "license_number": null,
+            "display_source": null,
+            "company": {
+                "id": null,
+                "name": "RAAP",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQHKXJbMo3nC1Q/company-logo_400_400/0/1519903009188?e=1700092800&v=beta&t=txdQG7IcVISAIrecj9lmWHcPK-FGSTbf4frzYkPaFeM",
+                "url": null
+            }
+        },
+        {
+            "name": "RAAP Academie - Q-GIS basis",
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "RAAP",
+            "url": null,
+            "license_number": null,
+            "display_source": null,
+            "company": {
+                "id": null,
+                "name": "RAAP",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQHKXJbMo3nC1Q/company-logo_400_400/0/1519903009188?e=1700092800&v=beta&t=txdQG7IcVISAIrecj9lmWHcPK-FGSTbf4frzYkPaFeM",
+                "url": null
+            }
+        },
+        {
+            "name": "RAAP Academie - Voorbereiding Veldwerk",
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "RAAP",
+            "url": null,
+            "license_number": null,
+            "display_source": null,
+            "company": {
+                "id": null,
+                "name": "RAAP",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQHKXJbMo3nC1Q/company-logo_400_400/0/1519903009188?e=1700092800&v=beta&t=txdQG7IcVISAIrecj9lmWHcPK-FGSTbf4frzYkPaFeM",
+                "url": null
+            }
+        },
+        {
+            "name": "Basisveiligheid VCA",
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": null,
+            "url": null,
+            "license_number": null,
+            "display_source": null,
+            "company": null
+        },
+        {
+            "name": "Veilig Werken langs de Weg Totaal",
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "authority": null,
+            "url": null,
+            "license_number": null,
+            "display_source": null,
+            "company": null
+        }
+    ],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "The Wadi al Jizzi Archaeological Project, Oman",
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "description": "Intensive archaeological fieldwork in the Wadi al Jizzi, Oman, including guiding and supervising students in several activities related to pottery analysis of multiple time periods.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Marten",
+                    "last_name": "van Nieuwkoop",
+                    "name": null,
+                    "headline": "Adviseur Ruimtelijke Ordening, Milieu & Archeologie bij Omgevingsdienst West-Holland"
+                }
+            ]
+        },
+        {
+            "title": "The Byzantine Archaeology and Material Culture Project in Chalcis, Greece",
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "description": "Analysing the Middle Byzantine Coarse Wares (ca. 10th to 12th/early 13th century AD) found during an excavation in the historical centre of Chalkis, Greece. The results will be published in a peer-reviewed book by BREPOLS PUBLISHERS.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Marten",
+                    "last_name": "van Nieuwkoop",
+                    "name": null,
+                    "headline": "Adviseur Ruimtelijke Ordening, Milieu & Archeologie bij Omgevingsdienst West-Holland"
+                }
+            ]
+        },
+        {
+            "title": "The Wadi al Jizzi Project, Oman",
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "description": "Intensive archaeological fieldwork in the Wadi al Jizzi, Oman, including guiding and supervising students in several activities related to pottery analysis of multiple time periods.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Marten",
+                    "last_name": "van Nieuwkoop",
+                    "name": null,
+                    "headline": "Adviseur Ruimtelijke Ordening, Milieu & Archeologie bij Omgevingsdienst West-Holland"
+                }
+            ]
+        },
+        {
+            "title": "The Umm Qays/Bany Kinana Hinterland Survey, Jordan",
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "description": "Pottery analysis of Hellenistic, Roman, Byzantine, and Early Islamic ceramics.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Marten",
+                    "last_name": "van Nieuwkoop",
+                    "name": null,
+                    "headline": "Adviseur Ruimtelijke Ordening, Milieu & Archeologie bij Omgevingsdienst West-Holland"
+                }
+            ]
+        },
+        {
+            "title": "The Byzantine Archaeology and Material Culture Project in Chalcis, Greece",
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "description": "Guiding and supervising students in several activities related to the project, including the creation of an up-to-date typo-chronological framework of Middle Byzantine ceramics (ca. 10th to 12th/early 13th century AD)",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Marten",
+                    "last_name": "van Nieuwkoop",
+                    "name": null,
+                    "headline": "Adviseur Ruimtelijke Ordening, Milieu & Archeologie bij Omgevingsdienst West-Holland"
+                }
+            ]
+        },
+        {
+            "title": "The Wadi al Jizzi Project, Oman",
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "description": "Intensive archaeological fieldwork in the Wadi al Jizzi, Oman, including pottery analysis of multiple time periods.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Marten",
+                    "last_name": "van Nieuwkoop",
+                    "name": null,
+                    "headline": "Adviseur Ruimtelijke Ordening, Milieu & Archeologie bij Omgevingsdienst West-Holland"
+                }
+            ]
+        },
+        {
+            "title": "The 26th International Archaeological Summercamp Xanten, Germany",
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "description": "Excavating parta of a Roman insula (house block), using multiple techniques.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Marten",
+                    "last_name": "van Nieuwkoop",
+                    "name": null,
+                    "headline": "Adviseur Ruimtelijke Ordening, Milieu & Archeologie bij Omgevingsdienst West-Holland"
+                }
+            ]
+        },
+        {
+            "title": "The Byzantine Archaeology and Material Culture Project in Chalcis, Greece",
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "description": "Analysis of Middle Byzantine ceramics (10th to 12th/early 13th century AD)",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Marten",
+                    "last_name": "van Nieuwkoop",
+                    "name": null,
+                    "headline": "Adviseur Ruimtelijke Ordening, Milieu & Archeologie bij Omgevingsdienst West-Holland"
+                }
+            ]
+        },
+        {
+            "title": "The Udhruh Field Survey Project, Jordan",
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "description": "Intensive archaeological and geomorphological fieldwork with the aid of GPS in the vicinity of Udhruh, Jordan",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Marten",
+                    "last_name": "van Nieuwkoop",
+                    "name": null,
+                    "headline": "Adviseur Ruimtelijke Ordening, Milieu & Archeologie bij Omgevingsdienst West-Holland"
+                }
+            ]
+        },
+        {
+            "title": "The Ancient Cities of Boeotia Project, Greece",
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "description": "Geomorphological fieldwork with the aid of differential GPS, and digitising and recording previously found pottery (Archaic, Greek, Roman, Byzantine, and Ottoman) from several archaeological sites.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Marten",
+                    "last_name": "van Nieuwkoop",
+                    "name": null,
+                    "headline": "Adviseur Ruimtelijke Ordening, Milieu & Archeologie bij Omgevingsdienst West-Holland"
+                }
+            ]
+        },
+        {
+            "title": "Project Nieuw Rhijngeest-Zuid, the Netherlands",
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2011
+                }
+            },
+            "description": "Excavation of a Merovingian settlement (probably harbour) from circa 500-750 AD in Oegstgeest, the Netherlands. Also evidence for Iron Age, Roman and Medieval occupation.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Marten",
+                    "last_name": "van Nieuwkoop",
+                    "name": null,
+                    "headline": "Adviseur Ruimtelijke Ordening, Milieu & Archeologie bij Omgevingsdienst West-Holland"
+                }
+            ]
+        }
+    ],
+    "publications": [
+        {
+            "name": "On Vessels and Viands: Cooking and consuming during the Late Byzantine/Frankish period in the Aegean (ca. 1200-1500 AD)",
+            "publisher": "Leiden University Repository",
+            "url": "https://openaccess.leidenuniv.nl/handle/1887/35509",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2015
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Marten",
+                    "last_name": "van Nieuwkoop",
+                    "name": null,
+                    "headline": "Adviseur Ruimtelijke Ordening, Milieu & Archeologie bij Omgevingsdienst West-Holland"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "J.A.C. Vroom",
+                    "headline": null
+                }
+            ]
+        },
+        {
+            "name": "Verborgen Water in een Zee van Zand: Kenmerken van de Verspreiding van Qanat Water Management Systemen in Jordani\u00eb en Omgeving tussen de 3de Eeuw voor Chr. en de 6de Eeuw na Chr.",
+            "publisher": "Leiden University Repository",
+            "url": "https://openaccess.leidenuniv.nl/handle/1887/21481",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2013
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Marten",
+                    "last_name": "van Nieuwkoop",
+                    "name": null,
+                    "headline": "Adviseur Ruimtelijke Ordening, Milieu & Archeologie bij Omgevingsdienst West-Holland"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Mark",
+                    "last_name": "Driessen",
+                    "name": null,
+                    "headline": "Assistant Professor in Archaeology at Leiden University"
+                }
+            ]
+        },
+        {
+            "name": "A Matter of Taste: The Experiment of a 'Byzantine Food-Lab'\u200b placed in Socio-Historical Context",
+            "publisher": "Brepols Publishers: Medieval and Post-Modieval Mediterranean Archaeology",
+            "url": "http://www.brepols.net/Pages/ShowProduct.aspx?prod_id=IS-9782503575797-1",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": null
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Marten",
+                    "last_name": "van Nieuwkoop",
+                    "name": null,
+                    "headline": "Adviseur Ruimtelijke Ordening, Milieu & Archeologie bij Omgevingsdienst West-Holland"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Joanita Vroom",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Mink van IJzendoorn",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Katelin Post",
+                    "headline": null
+                }
+            ]
+        }
+    ],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 600366,
+                "name": "Omgevingsdienst West-Holland",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQFg-TZynPEEWA/company-logo_400_400/0/1633697007903?e=1700092800&v=beta&t=NJCjlPylKpVX6CqpjFrizP6n8FCdssxSQlOPq1ST8Zc",
+                "url": "https://www.linkedin.com/company/omgevingsdienst-west-holland/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Leiden, Zuid-Holland, Nederland",
+                    "date": {
+                        "start": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2020
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Omgevingsdienst West-Holland",
+                    "description": null,
+                    "title": "Adviseur Ruimtelijke Ordening, Milieu & Archeologie",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 478509,
+                "name": "BAAC bv",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQHxLWoN4lha6Q/company-logo_400_400/0/1681288991787?e=1700092800&v=beta&t=UWjnyoemufjSoJD7qme3XvVCw2vDNZOmmtWZXBciQDI",
+                "url": "https://www.linkedin.com/company/baac-bv/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2020
+                        }
+                    },
+                    "company": "BAAC bv",
+                    "description": null,
+                    "title": "Projectleider Prospectie",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 750715,
+                "name": "RAAP",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQHKXJbMo3nC1Q/company-logo_400_400/0/1519903009188?e=1700092800&v=beta&t=txdQG7IcVISAIrecj9lmWHcPK-FGSTbf4frzYkPaFeM",
+                "url": "https://www.linkedin.com/company/raap-archeologisch-adviesbureau/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Leiden",
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2018
+                        }
+                    },
+                    "company": "RAAP",
+                    "description": null,
+                    "title": "Projectmedewerker",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 5117047,
+                "name": "Mosadex Groep",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQHYjFIe2O1wcw/company-logo_400_400/0/1599655602856?e=1700092800&v=beta&t=gjN-xYO68DUyUCDl4C38oYbBYaMGfK7YCc47lu0m8S4",
+                "url": "https://www.linkedin.com/company/mosadex-groep/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Leiden, the Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2014
+                        },
+                        "end": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2016
+                        }
+                    },
+                    "company": "Mosadex Groep",
+                    "description": null,
+                    "title": "Logistiek medewerker",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Archeologie",
+        "Ruimtelijke ordening",
+        "Milieuadvies",
+        "Nederlands",
+        "Tekstverwerking"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

@@ -1,0 +1,454 @@
+{
+    "profile_id": "guido-maria-maiga-7b642911a",
+    "first_name": "Guido Maria",
+    "last_name": "Maiga",
+    "sub_title": "Data Scientist @ Uber | Ex Data Scientist @ Sony Music | ETH Ing. Infk",
+    "profile_picture": "https://media.licdn.com/dms/image/C4D03AQHZLyZ4rmD8jg/profile-displayphoto-shrink_800_800/0/1518710200295?e=1697673600&v=beta&t=Duz2V0Y9VcgNxshGGaCnYwh2D5FzoS0kDlv1vW0xPIc",
+    "background_image": "https://media.licdn.com/dms/image/C4D16AQE9gbG2NULEgQ/profile-displaybackgroundimage-shrink_350_1400/0/1518713716799?e=1697673600&v=beta&t=jNCDeuhMbg7AlSIS6IjcLqWUOnL_VP9BJZU09fu23_M",
+    "profile_type": "personal",
+    "entity_urn": "ACoAAB2bczoBWq1hzooFh89c78kEZVapLOctemI",
+    "object_urn": 496726842,
+    "birth_date": null,
+    "summary": "Guido Maria Maiga, 29 years old.\nData Scientist @ Uber\nEx Data Scientist @ Sony Music Entertainment Continental Europe & Africa/Benelux.\nMSc in Computer Science @ Swiss Federal Institute Of Technology (ETHZ) with a focus on Machine Learning, Computer Vision and Computer Graphics.\n\nMaster Thesis: Scene Completion with 3D Variational Adversarial Autoencoder Generative Adversarial Network (https://github.com/maigag/3DVAAEGAN).",
+    "location": {
+        "country": "Netherlands",
+        "short": "Amsterdam, North Holland",
+        "city": "Amsterdam",
+        "state": "North Holland",
+        "default": "Amsterdam, North Holland, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "English",
+                "proficiency": "FULL_PROFESSIONAL"
+            },
+            {
+                "name": "French",
+                "proficiency": "LIMITED_WORKING"
+            },
+            {
+                "name": "German",
+                "proficiency": "PROFESSIONAL_WORKING"
+            },
+            {
+                "name": "Italian",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ]
+    },
+    "industry": "Computer Software",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "school": {
+                "name": "ETH Z\u00fcrich",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQHpkHDwYhEoiQ/company-logo_400_400/0/1588930627216?e=1700697600&v=beta&t=8aFauBAPAWJI6MkMF07lXCodPZ9SvcOCUVCuI_CWayA",
+                "url": "https://www.linkedin.com/school/eth-zurich/"
+            },
+            "degree_name": "Master's degree",
+            "field_of_study": "Computer Science"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "school": {
+                "name": "ETH Z\u00fcrich",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQHpkHDwYhEoiQ/company-logo_400_400/0/1588930627216?e=1700697600&v=beta&t=8aFauBAPAWJI6MkMF07lXCodPZ9SvcOCUVCuI_CWayA",
+                "url": "https://www.linkedin.com/school/eth-zurich/"
+            },
+            "degree_name": "Bachelor's degree",
+            "field_of_study": "Computer Science"
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "text sentiment classification (CIL 2017)",
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "description": "The use of microblogging and text messaging as a media of communication has greatly increased over the past 10 years. Such large volumes of data amplifies the need for automatic methods to understand the opinion conveyed in a text.\n\n",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Guido Maria",
+                    "last_name": "Maiga",
+                    "name": null,
+                    "headline": "Data Scientist @ Uber | Ex Data Scientist @ Sony Music | ETH Ing. Infk"
+                }
+            ]
+        },
+        {
+            "title": "Classifying brain health status from MR images",
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "description": "In this project you will classify a person's cognitive health status only from an MR scan of their brain.\n\nThe problem is to diagnose a person's cognitive health status using a set of expert-labeled training images. These labels are typically acquired by performing several time-consuming neuro-psychological tests (labels: 1 = healthy, 0 = diseased). Replacing these tests with an automatically analysed MRI scan would save a considerable amount of resources.\n\nHow well can you train a machine to automatically perform the diagnosis which is typically the task of a trained human neurologist?",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Guido Maria",
+                    "last_name": "Maiga",
+                    "name": null,
+                    "headline": "Data Scientist @ Uber | Ex Data Scientist @ Sony Music | ETH Ing. Infk"
+                }
+            ]
+        }
+    ],
+    "publications": [
+        {
+            "name": "Evaluating Accessible Graphical Interfaces for Building Story Worlds",
+            "publisher": "International Conference on Interactive Digital Storytelling (ICIDS) 2016",
+            "url": "https://www.disneyresearch.com/publication/evaluating-accessible-graphical-interfaces-for-building-story-worlds/",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2016
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Guido Maria",
+                    "last_name": "Maiga",
+                    "name": null,
+                    "headline": "Data Scientist @ Uber | Ex Data Scientist @ Sony Music | ETH Ing. Infk"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Steven Poulakos",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Mubbasir Kapadia",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Fabio Zund",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Markus Gross",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Bob Sumner",
+                    "headline": null
+                }
+            ]
+        }
+    ],
+    "courses": [
+        {
+            "name": "Computational Intelligence Lab",
+            "number": "263-0008-00L"
+        },
+        {
+            "name": "Computer Graphics",
+            "number": "252-0543-01L"
+        },
+        {
+            "name": "Computer Vision",
+            "number": "263-5902-00L"
+        },
+        {
+            "name": "Game Programming Laboratory",
+            "number": "252-0570-00L"
+        },
+        {
+            "name": "Introduction to Machine Learning (LIS)",
+            "number": "252-0220-00L"
+        },
+        {
+            "name": "Machine Learning",
+            "number": "252-0535-00L"
+        },
+        {
+            "name": "Physically-Based Simulation in Computer Graphics ",
+            "number": "252-0546-00L"
+        },
+        {
+            "name": "Probabilistic Artificial Intelligence",
+            "number": "263-5210-00L"
+        },
+        {
+            "name": "Shape Modeling and Geometry Processing",
+            "number": "252-0538-00L"
+        },
+        {
+            "name": "Visual Computing",
+            "number": "252-0206-00S"
+        }
+    ],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 1815218,
+                "name": "Uber",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQFiYnR1Mbtxdg/company-logo_400_400/0/1538169321193?e=1700697600&v=beta&t=NrURy4_VYmB-vcxLfbSyie5bxOGZgjhT-kst2CpcKpk",
+                "url": "https://www.linkedin.com/company/uber-com/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2023
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amsterdam, North Holland, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2023
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Uber",
+                    "description": null,
+                    "title": "Data Scientist",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 3039,
+                "name": "Sony Music Entertainment",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQE9rvU-3ig-jg/company-logo_400_400/0/1604099587507?e=1700697600&v=beta&t=CT--gZMuVCppskOlQs3KtZLNGmy1ENaVIPBSlNqTL-U",
+                "url": "https://www.linkedin.com/company/sony-music-entertainment/",
+                "employees": {
+                    "start": 5001,
+                    "end": 10000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amsterdam, North Holland, Netherlands + Berlin, Germany",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "Sony Music Entertainment",
+                    "description": "I am responsible for developing models, tools, visualizations, reports, and strategies that allow the transformation of raw data into meaningful business insights in order to achieve data-driven decision-making and planning.",
+                    "title": "Data Scientist Continental Europe & Africa",
+                    "employment_type": "Full-time"
+                },
+                {
+                    "location": "Amsterdam, North Holland, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2020
+                        },
+                        "end": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "Sony Music Entertainment",
+                    "description": null,
+                    "title": "Data Scientist BNLX Area",
+                    "employment_type": null
+                },
+                {
+                    "location": "Z\u00fcrich Area, Switzerland",
+                    "date": {
+                        "start": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2020
+                        }
+                    },
+                    "company": "Sony Music Entertainment",
+                    "description": null,
+                    "title": "Data Scientist Switzerland",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1080391,
+                "name": "Disney Research",
+                "logo": "https://media.licdn.com/dms/image/C510BAQHCkI7KsIgDOA/company-logo_400_400/0/1519898574377?e=1700697600&v=beta&t=9-R1jyavaHeonDMJPm-Fc94gEf9QV8bC0CIGl53ddCY",
+                "url": "https://www.linkedin.com/company/disney-research/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Z\u00fcrich Area, Switzerland",
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2016
+                        }
+                    },
+                    "company": "Disney Research",
+                    "description": "I worked at Disney Research Zuerich as a research intern, working on a project with the aim of using computational intelligence to assist in the narrative generation. We published a paper at the International Conference on Interactive Digital Storytelling (ICIDS) 2016.",
+                    "title": "Research Intern",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Web Scraping",
+        "Tableau",
+        "Project Management",
+        "Python (Programming Language)",
+        "Machine Learning",
+        "Computer Vision",
+        "C++",
+        "Matlab",
+        "Python",
+        "Computer Graphics",
+        "Artificial Intelligence",
+        "Music Production",
+        "Software Development",
+        "C#",
+        "Java",
+        "Propellerheads Reason",
+        "Programming",
+        "Git",
+        "LaTeX",
+        "Algorithms"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

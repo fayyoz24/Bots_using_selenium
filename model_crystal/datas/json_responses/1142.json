@@ -1,0 +1,293 @@
+{
+    "profile_id": "arthur-hoornweg-791b3123",
+    "first_name": "Arthur",
+    "last_name": "Hoornweg",
+    "sub_title": "Senior Software Engineer R&D, Geologist",
+    "profile_picture": "https://media.licdn.com/dms/image/D4E03AQFKoDcpyxuY0A/profile-displayphoto-shrink_800_800/0/1670830007323?e=1697673600&v=beta&t=zCjsEN4V4yBwb9X8tsginsmSjTnEuLXY40LJpBo7KUU",
+    "background_image": "https://media.licdn.com/dms/image/D4E16AQHfeYNCJU2FjA/profile-displaybackgroundimage-shrink_350_1400/0/1670830654843?e=1697673600&v=beta&t=3vJIzOjpjm8j23vst6lHvtG8wgk-EMa6Q_L0e7kqrsc",
+    "profile_type": "personal",
+    "entity_urn": "ACoAAAT48h0BExenYEsL2GJIzODpOeQNNJsT_-c",
+    "object_urn": 83423773,
+    "birth_date": null,
+    "summary": "Software developer with over 30 years of experience building software in the field of surface data logging  on oil-, gas- and geothermal wells.  High affinity with technology and communication. Polyglot (fluent in 3 languages, happy to converse in 3 more).  Using the Delphi programming language since its invention. \n\nMy expertise involves the creation of:\n\n\u2022\tA software suite for the acquisition, integration, visualization and correlation of geological,  geophysical, mechanical, directional, lab- and sensor data on drilling sites in a multi-user environment.  This software is used on-site by mudloggers, wellsite geologists, mud engineers, toolpushers and MWD/LWD engineers. It is also licensed to several oil companies.\n\u2022\tThe necessary database (MS-SQL), capable of integrating numerical data with geological data such as petrography, analyses, attachments, and written reports.\n\u2022\tHigh-quality graphical output of logs that combine geology with user-defined curves of numerical data (including MWD/LWD, gas chromatography, sensor data, directional data etc.), alongside borehole- and casing geometry, annotations and descriptions. \n\u2022\tCalculating the 3D spatial trajectory of the curved wellbore and using if for pressure calculations and for outputting logs against TVD.\n\u2022\tCalculating fluid pressures, pressure losses and kick tolerance in the borehole using drilling fluid rheology, flow rate and motion of the drill string.\n\u2022\tCalculating overburden-, fracture- and pore pressure gradient in the surrounding formation using information obtained from leakoff tests, cuttings density analysis and Poisson ratio, trend lines etc. \n\u2022\tEstablishing trend lines for lithology compaction indicators such as DxC exponent, density log, porosity log etc.\n\u2022\tHydrocarbon ratio analysis (wh, bh, ch) from gas chromatography data\n\u2022\tData export- and import modules for common oil field digital data exchange formats.\n\u2022\tA web site offering depth-based visualization of the aforementioned graphical logs, also showing the drill string elements inside the casing and lithology.\n\u2022\tA Data Replication System (client/server) that mirrors all databases via the internet to the customer\u2019s office with low latency.\n\u2022\tA Data Replication system that continuously streams/converts the SQL data to a WitsML server.\n\u2022\tMany other software packages.  LinkedIn\u2019s limitation of 2600 characters in this section prevents me from mentioning these here.",
+    "location": {
+        "country": "Netherlands",
+        "short": "Arnhem-Nijmegen Region",
+        "city": null,
+        "state": null,
+        "default": "Arnhem-Nijmegen Region"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "DE",
+            "language": "de"
+        },
+        "supported_locales": [
+            {
+                "country": "DE",
+                "language": "de"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "Dutch",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "English",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "French",
+                "proficiency": "LIMITED_WORKING"
+            },
+            {
+                "name": "German",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "Italian",
+                "proficiency": "LIMITED_WORKING"
+            },
+            {
+                "name": "Spanish",
+                "proficiency": "LIMITED_WORKING"
+            }
+        ]
+    },
+    "industry": "Oil & Energy",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 1982
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 1988
+                }
+            },
+            "school": {
+                "name": "Utrecht University",
+                "logo": "https://media.licdn.com/dms/image/C510BAQG6HfmPTdJKXw/company-logo_400_400/0/1519884681258?e=1700092800&v=beta&t=QmNHoENF2Y_jlRACSsZ9TEtxi26_FphbWXhv1lZ3mrE",
+                "url": "https://www.linkedin.com/school/universiteit-utrecht/"
+            },
+            "degree_name": "M.Sc",
+            "field_of_study": "Geology/Sedimentology"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 1981
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 1981
+                }
+            },
+            "school": {
+                "name": "Eindhoven University of Technology",
+                "logo": "https://media.licdn.com/dms/image/C560BAQG4PGSYiNG4CA/company-logo_400_400/0/1642150189320?e=1700092800&v=beta&t=48AC3C1gmzW3ltIyCtofr1mZeQZXAHRPlR6IgbkQolg",
+                "url": "https://www.linkedin.com/school/eindhoven-university-of-technology/"
+            },
+            "degree_name": null,
+            "field_of_study": "Electrical and Electronics Engineering"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 1975
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 1981
+                }
+            },
+            "school": {
+                "name": "Gymnasium Bernrode",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "VWO Gymnasium, Beta",
+            "field_of_study": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 1970
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 1975
+                }
+            },
+            "school": {
+                "name": "Sint Jozefschool",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": null,
+            "field_of_study": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [],
+    "organizations": [],
+    "projects": [],
+    "publications": [],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 2496821,
+                "name": "GEO-data, Gesellschaft f\u00fcr Logging-Service mbH",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQH0ldH7Es0Mmw/company-logo_400_400/0/1519904515622?e=1700092800&v=beta&t=wwGyEOH0oaVZhPo9YEuc_W7TNv6vaAHIeaUmIMNA2_8",
+                "url": "https://www.linkedin.com/company/geo-data-gesellschagging-service-mbhft-fuer-lo/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 1990
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Veenendaal, The Netherlands. Working remotely.",
+                    "date": {
+                        "start": {
+                            "month": 3,
+                            "day": null,
+                            "year": 1998
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "GEO-data, Gesellschaft f\u00fcr Logging-Service mbH",
+                    "description": "Developing software and databases for processing and visualization of geological, geophysical, directional and various other kinds of numerical data. Developing many types of communications and data acquisition software.",
+                    "title": "Senior Software Engineer, R&D",
+                    "employment_type": "Full-time"
+                },
+                {
+                    "location": "Garbsen, Lower Saxony, Germany",
+                    "date": {
+                        "start": {
+                            "month": 3,
+                            "day": null,
+                            "year": 1990
+                        },
+                        "end": {
+                            "month": 3,
+                            "day": null,
+                            "year": 1998
+                        }
+                    },
+                    "company": "GEO-data, Gesellschaft f\u00fcr Logging-Service mbH",
+                    "description": "Developing software for processing, visualization and printing of geological and geophysical data fur use in mud logging field laboratories.",
+                    "title": "Software Engineer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Petrolog International BV",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 1988
+                },
+                "end": {
+                    "month": 3,
+                    "day": null,
+                    "year": 1990
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 1988
+                        },
+                        "end": {
+                            "month": 3,
+                            "day": null,
+                            "year": 1990
+                        }
+                    },
+                    "company": "Petrolog International BV",
+                    "description": "Working as a mud logging and wellsite geologist on oil rigs, onshore and offshore.\nSoftware development of a masterlog printing program (LithoPrint). \nWriting of software manuals.",
+                    "title": "Mud logging and well site geologist, software development",
+                    "employment_type": "Freelance"
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "English",
+        "Microsoft SQL Server",
+        "Network Architecture",
+        "Windows System Administration",
+        "Windows Services",
+        "Troubleshooting",
+        "SQL",
+        "Delphi",
+        "MongoDB",
+        "WitsML",
+        "Internet Protocol Suite (TCP/IP)",
+        "Turbo Pascal",
+        "Borland Delphi",
+        "Pascal",
+        "Software Development",
+        "Geology",
+        "Drilling",
+        "Petroleum",
+        "Logging",
+        "Geophysics"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

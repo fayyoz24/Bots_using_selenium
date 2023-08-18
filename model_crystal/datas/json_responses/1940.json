@@ -1,0 +1,786 @@
+{
+    "profile_id": "brunodb3",
+    "first_name": "Bruno",
+    "last_name": "Duarte Brito",
+    "sub_title": "I make cool software",
+    "profile_picture": "https://media.licdn.com/dms/image/C4E03AQFW7H9P8yfxrw/profile-displayphoto-shrink_800_800/0/1567442399722?e=1697673600&v=beta&t=2fVpLEkIdsQPEFLknk96rb163ZdqvjklZWPqj7-lTdk",
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAABmgMH0B0VJ1h3Etc6L2eijSKhaj0CQFLtw",
+    "object_urn": 429928573,
+    "birth_date": null,
+    "summary": "I\u2019m a thinker, passionate about solving puzzles and challenging myself everyday with something new. I create tailored experiences by transforming TypeScript into functionality. My focus is on Web Technologies and integrating scalable tools into the projects I work with. Fluent in Node.JS, Angular, TypeScript, Python, with know-how on NoSQL databases such as MongoDB and DynamoDB. Amazon Web Services is my platform of choice, followed by Azure DevOps. Certified by IBM on Docker and private Blockchain Hyperledger Fabric.",
+    "location": {
+        "country": "Netherlands",
+        "short": "The Hague, South Holland",
+        "city": "The Hague",
+        "state": "South Holland",
+        "default": "The Hague, South Holland, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "BR",
+            "language": "pt"
+        },
+        "supported_locales": [
+            {
+                "country": "BR",
+                "language": "pt"
+            },
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "Ingl\u00eas",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "Portugu\u00eas",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ]
+    },
+    "industry": "Computer Games",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "school": {
+                "name": "Col\u00e9gio Cotemig - Ensino M\u00e9dio T\u00e9cnico em Inform\u00e1tica",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "IT Technician",
+            "field_of_study": "Information Technology"
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [
+        {
+            "name": "HackerRank Problem Solving (Basic)",
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "HackerRank",
+            "url": "https://www.hackerrank.com/certificates/88b2c59df963",
+            "license_number": "88b2c59df963",
+            "display_source": "hackerrank.com",
+            "company": {
+                "id": null,
+                "name": "HackerRank",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQHYemd2p7TxeQ/company-logo_400_400/0/1673333565608?e=1700092800&v=beta&t=9FwGFkUd4cC9G1zgphrufZqSG977Fk_o-MFAeC81Pg0",
+                "url": null
+            }
+        },
+        {
+            "name": "HackerRank REST API - Intermediate",
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "HackerRank",
+            "url": "https://www.hackerrank.com/certificates/0f5067e85b51",
+            "license_number": "0f5067e85b51",
+            "display_source": "hackerrank.com",
+            "company": {
+                "id": null,
+                "name": "HackerRank",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQHYemd2p7TxeQ/company-logo_400_400/0/1673333565608?e=1700092800&v=beta&t=9FwGFkUd4cC9G1zgphrufZqSG977Fk_o-MFAeC81Pg0",
+                "url": null
+            }
+        },
+        {
+            "name": "Docker Essentials: A Developer Introduction",
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "IBM",
+            "url": "https://www.youracclaim.com/badges/616e9784-1c28-4b7f-b3ed-50026be19ca8/linked_in_profile",
+            "license_number": "616e9784-1c28-4b7f-b3ed-50026be19ca8",
+            "display_source": "youracclaim.com",
+            "company": {
+                "id": null,
+                "name": "IBM",
+                "logo": "https://media.licdn.com/dms/image/D560BAQGiz5ecgpCtkA/company-logo_400_400/0/1688684715427?e=1700092800&v=beta&t=pDX0Iy4Fh9eNOSXplhoSAhxaeDWOz5uFPCwqI_BDVtk",
+                "url": null
+            }
+        },
+        {
+            "name": "IBM Cloud Essentials",
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "IBM",
+            "url": "https://www.youracclaim.com/badges/c4987342-e34c-4fcc-b5d1-64b47bd40998/linked_in_profile",
+            "license_number": "c4987342-e34c-4fcc-b5d1-64b47bd40998",
+            "display_source": "youracclaim.com",
+            "company": {
+                "id": null,
+                "name": "IBM",
+                "logo": "https://media.licdn.com/dms/image/D560BAQGiz5ecgpCtkA/company-logo_400_400/0/1688684715427?e=1700092800&v=beta&t=pDX0Iy4Fh9eNOSXplhoSAhxaeDWOz5uFPCwqI_BDVtk",
+                "url": null
+            }
+        },
+        {
+            "name": "IBM Blockchain Essentials",
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "IBM",
+            "url": "https://www.youracclaim.com/badges/d3837dc6-784a-4e4e-a31f-87b74ffde9e8/linked_in_profile",
+            "license_number": "d3837dc6-784a-4e4e-a31f-87b74ffde9e8",
+            "display_source": "youracclaim.com",
+            "company": {
+                "id": null,
+                "name": "IBM",
+                "logo": "https://media.licdn.com/dms/image/D560BAQGiz5ecgpCtkA/company-logo_400_400/0/1688684715427?e=1700092800&v=beta&t=pDX0Iy4Fh9eNOSXplhoSAhxaeDWOz5uFPCwqI_BDVtk",
+                "url": null
+            }
+        },
+        {
+            "name": "IBM Blockchain Foundation Developer",
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "IBM",
+            "url": "https://www.youracclaim.com/badges/8daddd36-8dc9-4de4-bc9a-ca7821ef03e8/linked_in_profile",
+            "license_number": "8daddd36-8dc9-4de4-bc9a-ca7821ef03e8",
+            "display_source": "youracclaim.com",
+            "company": {
+                "id": null,
+                "name": "IBM",
+                "logo": "https://media.licdn.com/dms/image/D560BAQGiz5ecgpCtkA/company-logo_400_400/0/1688684715427?e=1700092800&v=beta&t=pDX0Iy4Fh9eNOSXplhoSAhxaeDWOz5uFPCwqI_BDVtk",
+                "url": null
+            }
+        }
+    ],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "Content Creator",
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "description": "Dwelling into the world of content creation on Twitch and YouTube. Achieved \"affiliate\" status on Twitch within 2 months, gathering thousands of live views every month. Learning how to operate tools and platforms such as OBS, StreamElements and Touch Portal, to provide automation to my stream in new and creative ways.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Bruno",
+                    "last_name": "Duarte Brito",
+                    "name": null,
+                    "headline": "I make cool software"
+                }
+            ]
+        },
+        {
+            "title": "Sentidos do Nascer",
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "description": "Video synchronization for multiple screens via Raspberry Pi boards. Acted as a full-stack developer and project manager, alongside UFMG (Universidade Federal de Minas Gerais - the Federal University of the state of Minas Gerais). The tools used were NodeJS and OMXPlayer.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Bruno",
+                    "last_name": "Duarte Brito",
+                    "name": null,
+                    "headline": "I make cool software"
+                }
+            ]
+        },
+        {
+            "title": "Processaber",
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "description": "Video synchronization for multiple screens via Raspberry Pi boards. Acted as a full-stack developer and project manager, alongside UFMG (Universidade Federal de Minas Gerais - the Federal University of the state of Minas Gerais). The tools used were NodeJS and OMXPlayer.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Bruno",
+                    "last_name": "Duarte Brito",
+                    "name": null,
+                    "headline": "I make cool software"
+                }
+            ]
+        }
+    ],
+    "publications": [],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 77055376,
+                "name": "My Neighbor Alice",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQG_8B9urtlfRQ/company-logo_400_400/0/1638309548080?e=1700092800&v=beta&t=GubeGuCtplZEChTF2pO1f0COpE-LqTBZSSzKXEM-8JY",
+                "url": "https://www.linkedin.com/company/my-neighbor-alice/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "My Neighbor Alice",
+                    "description": "Leading the My Neighbor Alice marketplace development, working to create a seamless experience for new and veteran players alike.",
+                    "title": "Full Stack Engineer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Pixie Interactive",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "Pixie Interactive",
+                    "description": "Northern Guilds was an ambitious MMORPG based on viking lore and mythology, which integrated NFTs and blockchain technology into its core. I joined Pixie at an early stage of development, where I helped implement features into the tech demo and led the creation of Viking Ball, a football/soccer minigame to test different concepts and frameworks/tools to be used on the final product. Created a full 8-directional kinematic movement system for 2D games from scratch, leading to a rudimentary 2D physics engine as a JS library. Worked with Pixi.JS and MatterJS to create the front-end for Viking Ball. Vue3 was used to create the user interface and navigation, with Colyseus and NodeJS as the back-end. The minigame was deployed on DigitalOcean with automatic deploys on every merged pull request.",
+                    "title": "Senior Software Engineer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 18603927,
+                "name": "LTO Network",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQGC-oF5f8-dww/company-logo_400_400/0/1638518427729?e=1700092800&v=beta&t=BCPiywuQhmTBimKevlMp4Qs64I50HtVi4-b3W1f_AOo",
+                "url": "https://www.linkedin.com/company/ltonetwork/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "LTO Network",
+                    "description": "Helped LTO to upgrade and maintain one of Europe's leading blockchains. Here I built the trust network system that allows for verifying of credentials and their issuers based on node configuration, improved automated testing on multiple repositories, assuring better trust and confidence while developing new features and implemented a graph database for saving associations on the indexer project, allowing clients to retrieve transaction information in a more flexible manner.",
+                    "title": "Senior Blockchain Developer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1756,
+                "name": "HCL Technologies",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQF-RIoeeMTMKQ/company-logo_400_400/0/1664197007563?e=1700092800&v=beta&t=Hv7tDhK_syKdjM0wReaH2R6wHo8mzp40Ba1c69WHg2U",
+                "url": "https://www.linkedin.com/company/hcltech/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Den Haag, North Brabant Province, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2021
+                        }
+                    },
+                    "company": "HCLTech",
+                    "description": "Technical Lead for HCL, where I inspired and motivated the digital solutions teams. Through HCL, I provided services for Aegon, as a Senior Software Engineer, spearheading the development of new features and experiences on the mortgages platform.",
+                    "title": "Technical Lead",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 3256,
+                "name": "Aegon",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQEFgmrp93Zmdw/company-logo_400_400/0/1656652580203?e=1700092800&v=beta&t=rLLvUGtQUjCVzr0C6uqpdZnrCyG5Okk_rFXr3JHPUrw",
+                "url": "https://www.linkedin.com/company/aegon/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Den Haag, North Brabant Province, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2021
+                        }
+                    },
+                    "company": "Aegon",
+                    "description": "Contributed to the success of the intermediary mortgage solutions at Aegon, working with Angular and AWS to create serverless applications. Engineer at a team that brings new features and experiences to the market, by applying proven technologies and experimenting with new concepts.",
+                    "title": "Senior Software Engineer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 10456788,
+                "name": "CAMSS Group",
+                "logo": "https://media.licdn.com/dms/image/C560BAQH380xbqj9tPg/company-logo_400_400/0/1519910820219?e=1700092800&v=beta&t=ZLyph1a2fC5OJGuGl2ZFcIptq9bBbuUzaQF80CLQsI0",
+                "url": "https://www.linkedin.com/company/camss-group/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Belo Horizonte Area, Brazil",
+                    "date": {
+                        "start": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "CAMSS Group",
+                    "description": "Acting as a software engineer, creating disruptive and innovative applications in partnership with IBM, working with blockchain and Watson APIs.",
+                    "title": "Software Engineer at Hop, a company from CAMSS Group",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 16191125,
+                "name": "Midhaz",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQEKJgIRt_Bo8w/company-logo_400_400/0/1563496820209?e=1700092800&v=beta&t=WSWXs4i1Trgy8x1BRQIp_XzoKeMIhW9vMeya-Fu8AdQ",
+                "url": "https://www.linkedin.com/company/midhaz/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Belo Horizonte Area, Brazil",
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2018
+                        }
+                    },
+                    "company": "Midhaz",
+                    "description": "Back-end developer working primarily with Python and Flask to create and maintain the RESTful API at Midhaz",
+                    "title": "Back-end developer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 986208,
+                "name": "Freelance Web Development",
+                "logo": null,
+                "url": "https://www.linkedin.com/company/freelance-web-development/",
+                "employees": {
+                    "start": 0,
+                    "end": 1
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Belo Horizonte Area, Brazil",
+                    "date": {
+                        "start": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2018
+                        }
+                    },
+                    "company": "Freelance Web Development",
+                    "description": "Working with multiple clients to create web applications, using primarily JavaScript (MEAN stack), continuing my job from Ideware as a contractor.",
+                    "title": "Freelancer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 10450508,
+                "name": "Ideware Sistemas",
+                "logo": "https://media.licdn.com/dms/image/C560BAQF420PSGmwD-g/company-logo_400_400/0/1607354349155?e=1700092800&v=beta&t=3Iz7izXNGfxMhfIKFPMbNQHIweHTI7c72ZSbAG2melk",
+                "url": "https://www.linkedin.com/company/idewaresistemas/",
+                "employees": {
+                    "start": 2,
+                    "end": 10
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Belo Horizonte Area, Brazil",
+                    "date": {
+                        "start": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2018
+                        }
+                    },
+                    "company": "Ideware Sistemas",
+                    "description": "Leading the development team for the software house, working in multiple projects such as ChatBots, e-commerces and financial apps, using primarily frameworks like Angular 2+ and NodeJS.",
+                    "title": "Software development leader and CTO",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Netxpert Sistemas",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Belo Horizonte Area, Brazil",
+                    "date": {
+                        "start": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2016
+                        }
+                    },
+                    "company": "Netxpert Sistemas",
+                    "description": "Developing hybrid mobile applications using Ionic and AngularJS for LPG resellers.",
+                    "title": "Junior software developer",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "React.js",
+        "Game Development",
+        "Vue.js",
+        "Blockchain",
+        "TypeScript",
+        "Angular",
+        "Pixi.js",
+        "Amazon Web Services (AWS)",
+        "Docker Products",
+        "Ionic",
+        "Linux",
+        "Node.js",
+        "Javascript",
+        "Git",
+        "MongoDB",
+        "BitBucket",
+        "Heroku",
+        "Firebase",
+        "Python",
+        "ReactJS"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

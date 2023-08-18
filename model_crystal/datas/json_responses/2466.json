@@ -1,0 +1,520 @@
+{
+    "profile_id": "adrian-szatmari-b0318960",
+    "first_name": "Adrian",
+    "last_name": "Szatmari",
+    "sub_title": "Computer vision researcher and mathematician / Open for work.",
+    "profile_picture": "https://media.licdn.com/dms/image/C4E03AQFmqsG3ONNF1w/profile-displayphoto-shrink_800_800/0/1661865349999?e=1697673600&v=beta&t=B_RIogoeTB8PxKWtHb8U04666XAOdkLbqPPk8H5R-y8",
+    "background_image": "https://media.licdn.com/dms/image/C4E16AQFitd-mv7A_bg/profile-displaybackgroundimage-shrink_350_1400/0/1598001173623?e=1697673600&v=beta&t=NCAXzPIdnnHUu0D6AK0iR8cgONQ1ef0uPLpima013Kg",
+    "profile_type": "personal",
+    "entity_urn": "ACoAAAzXFvMB7SCqt8nGlKc4PkW1n0A_YBlzSGE",
+    "object_urn": 215422707,
+    "birth_date": null,
+    "summary": "Mathematician writing code that codes code.",
+    "location": {
+        "country": "Germany",
+        "short": "Berlin Metropolitan Area",
+        "city": null,
+        "state": null,
+        "default": "Berlin Metropolitan Area"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [
+        {
+            "url": "https://github.com/szat",
+            "title": "szat (Adrian Szatmari)",
+            "description": "This is my Github account. Some functions and projects on which I have worked. \nMore coming!",
+            "image": "https://media.licdn.com/dms/image/sync/C5627AQHKNSULwcrj6Q/articleshare-shrink_800/0/1692004211772?e=1692936000&v=beta&t=QLVyv4h6W74tzC2ttR3Xlpj-WJ5T4P3VSK4ayvhXlRQ"
+        }
+    ],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "English",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "French",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "Hungarian",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ]
+    },
+    "industry": "Computer Software",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "school": {
+                "name": "Leiden University",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQEFlK1wNecYbA/company-logo_400_400/0/1519855876129?e=1700697600&v=beta&t=KwFN5kUM6lyLgjAXaylWnuNQ6g0XLwvWDjTK4Ug_mEg",
+                "url": "https://www.linkedin.com/school/leiden-university/"
+            },
+            "degree_name": "Master's degree",
+            "field_of_study": "Applied Mathematics"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2009
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "school": {
+                "name": "McGill University",
+                "logo": "https://media.licdn.com/dms/image/C510BAQFvv1npMZWzKA/company-logo_400_400/0/1519855882412?e=1700697600&v=beta&t=nr8v7zmB2WrylsUOzl4-SxPXTtkrljlvzeSZ_ekYueA",
+                "url": "https://www.linkedin.com/school/mcgill-university/"
+            },
+            "degree_name": "Bachelors",
+            "field_of_study": "Mathematics and Computer Science"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2007
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2009
+                }
+            },
+            "school": {
+                "name": "Coll\u00e8ge Jean De Br\u00e9beuf",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "IBO ",
+            "field_of_study": "Applied Sciences"
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "Octree Surface Distance Function",
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "description": "This is a lean C++ implementation of the Surface Distance Function (SDF). The SDF measures the closest next point on a 3D shape, to a source point on the surface, in the normal direction. This implementations features:\n-C++ only, header project, no libraries,\n-Real time performance,\n-Multithreaded tree build and queries,\n-Octree implementation,\n-MIT license. \nThe project is available on my Github page: https://github.com/szat/OctreeSDF",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Adrian",
+                    "last_name": "Szatmari",
+                    "name": null,
+                    "headline": "Computer vision researcher and mathematician / Open for work."
+                }
+            ]
+        },
+        {
+            "title": "Synchronise Arbitrary Many Signals in Linear Time",
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "description": "A simple algorithm based on xcorr and a recurrence relation to synchronise many signals simultaneously. Big O in number of signals. ",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Adrian",
+                    "last_name": "Szatmari",
+                    "name": null,
+                    "headline": "Computer vision researcher and mathematician / Open for work."
+                }
+            ]
+        },
+        {
+            "title": "Unsupervised Curve Morphing",
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "description": "A morphing algorithm for contours (sequence of 2D points) based the the Smith-Waterman algorithm. Loosely based on Jiang's, Bunke's, Abegglen's and Kandel's \"Curve Morphing by Weighted Mean of Strings\".",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Adrian",
+                    "last_name": "Szatmari",
+                    "name": null,
+                    "headline": "Computer vision researcher and mathematician / Open for work."
+                }
+            ]
+        },
+        {
+            "title": "Regularized Subpixel Contour Extraction",
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "description": "A fast algorithm to create contours with a specified number of points or a specified mean distance (between points). Does not get confused when the contour has appendices of only one pixel thick.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Adrian",
+                    "last_name": "Szatmari",
+                    "name": null,
+                    "headline": "Computer vision researcher and mathematician / Open for work."
+                }
+            ]
+        },
+        {
+            "title": "Concurrent Path-Planning for Robotic Arms",
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "description": "The n-arm robot problem is presented, where a robot composed of several jointed arms tries to plan and to move. We find that the n-arm robot problem reduces to a concurrent competition for the space in which the arms evolve. This competition for space reduces to the classical reader/writers problem.\nMoving in space is equivalent to writing and sensing in space is equivalent to reading. ",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Adrian",
+                    "last_name": "Szatmari",
+                    "name": null,
+                    "headline": "Computer vision researcher and mathematician / Open for work."
+                }
+            ]
+        }
+    ],
+    "publications": [
+        {
+            "name": "Symmetry Analysis of a System of Modified Shallow-Water Equations",
+            "publisher": "Communications in Nonlinear Science and Numerical Simulation",
+            "url": "https://www.sciencedirect.com/science/article/pii/S1007570413002992",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2014
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Adrian",
+                    "last_name": "Szatmari",
+                    "name": null,
+                    "headline": "Computer vision researcher and mathematician / Open for work."
+                }
+            ]
+        }
+    ],
+    "courses": [
+        {
+            "name": "Advanced Real Analysis",
+            "number": "564"
+        },
+        {
+            "name": "Algorithm Design",
+            "number": "260"
+        },
+        {
+            "name": "Bayesian Networks",
+            "number": null
+        },
+        {
+            "name": "Concurrency Theory",
+            "number": null
+        },
+        {
+            "name": "Continuous Optimization",
+            "number": null
+        },
+        {
+            "name": "Deep Leaning Specialization",
+            "number": null
+        },
+        {
+            "name": "Geometry and Topology",
+            "number": "576"
+        },
+        {
+            "name": "High-Dimensional Data Analysis",
+            "number": null
+        },
+        {
+            "name": "Honours Differential Geometry",
+            "number": "380"
+        },
+        {
+            "name": "Honours Matrix Numerical Analysis",
+            "number": "397"
+        },
+        {
+            "name": "Honours PDEs",
+            "number": "375"
+        },
+        {
+            "name": "Honours Probability",
+            "number": "356"
+        },
+        {
+            "name": "Honours Statistics",
+            "number": "Math 357"
+        },
+        {
+            "name": "Information Theoretic Learning (MDL)",
+            "number": null
+        },
+        {
+            "name": "Multimedia Systems",
+            "number": null
+        },
+        {
+            "name": "Neural Networks",
+            "number": null
+        },
+        {
+            "name": "Numerical Analysis 1",
+            "number": "578"
+        },
+        {
+            "name": "Numerical Analysis 2",
+            "number": "579"
+        },
+        {
+            "name": "Numerical Computing",
+            "number": "350"
+        },
+        {
+            "name": "Numerical Differential Equations",
+            "number": "579"
+        }
+    ],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 10598867,
+                "name": "Asaphus Vision GmbH",
+                "logo": "https://media.licdn.com/dms/image/C510BAQF8wPGlFiAY_Q/company-logo_400_400/0/1519894016577?e=1700697600&v=beta&t=s0GHXaa4wN1-5Zv3ml4fsy3DhcXacYCRc3KJL0sj9Os",
+                "url": "https://www.linkedin.com/company/asaphus-vision-gmbh/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Berlin, Germany",
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "Asaphus Vision GmbH",
+                    "description": "Deep Learning\n-Trained and analyzed DL models in Caffe.\n-Suggested several solutions to solve the eye-gaze problem. \n\nBackend:\n-Ported the main database to MongoDB, 30x speedup. \n-Added features to several GUIs written in Qt.",
+                    "title": "Deep Learning Engineer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 57458,
+                "name": "Thinkwell Group",
+                "logo": "https://media.licdn.com/dms/image/C560BAQHkH2ojtgeBjQ/company-logo_400_400/0/1656365880212?e=1700697600&v=beta&t=24WebHgy7GiftDRe5NsEx4Br6qhhKOyXZZwpGMylrWw",
+                "url": "https://www.linkedin.com/company/thinkwell_57458/",
+                "employees": {
+                    "start": 201,
+                    "end": 500
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Montreal, Quebec, Canada",
+                    "date": {
+                        "start": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2020
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2021
+                        }
+                    },
+                    "company": "Thinkwell Group (A TAIT Company)",
+                    "description": "-Develop camera / projector simulator in Blender.\n-Multiple projector alignment algorithm with structured light.\n-Python speed optimization .\n-Camera positioning and calibration algorithms.",
+                    "title": "Research And Development Engineer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 6748,
+                "name": "Fugro",
+                "logo": "https://media.licdn.com/dms/image/C560BAQHg3VjvnoShqQ/company-logo_400_400/0/1559309136763?e=1700697600&v=beta&t=Gm_dhd5sy_fWZqfmwVGkv5bcUbCBRKxfKk9-UaM8hSA",
+                "url": "https://www.linkedin.com/company/fugro/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2020
+                        }
+                    },
+                    "company": "Fugro",
+                    "description": "Computer vision:\n-Driver for FLIR cameras, 4K, 30 fps. \n-Gstreamer 180ms latency glass to glass pipeline. \n-CNN Gstreamer plugin.\n-Video stitching, 4K, 60 fps. \n-Camera calibration.  \n\nRobotics:\n-ROS2/Linux driver for Sidus stepper motor via serial.\n-ROS2/Linux driver for industrial thrusters.\n-ROS2/Linux mixer (convert PID control to thruster action), both FPI and Generalized Inverse approach, with thruster deadzone avoidance.\n-Metaprogramming for module generation.",
+                    "title": "Software Engineer",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Mathematica",
+        "Matlab",
+        "C++",
+        "Java",
+        "LaTeX",
+        "Microsoft Word",
+        "Algorithm Design",
+        "Parallel Algorithms",
+        "Artificial Intelligence",
+        "Neural Networks",
+        "Numerical Simulation",
+        "Numerical Linear Algebra",
+        "Statistics",
+        "Computational Mathematics",
+        "Applied Probability",
+        "Social Entrepreneurship",
+        "Microsoft Office",
+        "CUDA",
+        "Research",
+        "TensorFlow"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

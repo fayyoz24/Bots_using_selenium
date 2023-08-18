@@ -1,0 +1,582 @@
+{
+    "profile_id": "gabrielsmatos",
+    "first_name": "Gabriel",
+    "last_name": "M.",
+    "sub_title": "Software Engineer",
+    "profile_picture": "https://media.licdn.com/dms/image/C4E03AQFXyf6Jo-DByg/profile-displayphoto-shrink_800_800/0/1568933351764?e=1697673600&v=beta&t=hcR4izjQAMtM8LE0JCYPK6Tj8XWwsO0b1lUhKDJBnns",
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAACImgzoBNGLOGQv0T5qUqXB1dp9ccV1Y7KA",
+    "object_urn": 572949306,
+    "birth_date": null,
+    "summary": null,
+    "location": {
+        "country": "Netherlands",
+        "short": "Eindhoven, North Brabant",
+        "city": "Eindhoven",
+        "state": "North Brabant",
+        "default": "Eindhoven, North Brabant, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "BR",
+            "language": "pt"
+        },
+        "supported_locales": [
+            {
+                "country": "BR",
+                "language": "pt"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "English",
+                "proficiency": "FULL_PROFESSIONAL"
+            },
+            {
+                "name": "French",
+                "proficiency": "PROFESSIONAL_WORKING"
+            },
+            {
+                "name": "German",
+                "proficiency": "LIMITED_WORKING"
+            },
+            {
+                "name": "Portuguese",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ]
+    },
+    "industry": "Computer Software",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "school": {
+                "name": "Universidade Federal de Santa Catarina",
+                "logo": "https://media.licdn.com/dms/image/D4D0BAQEYdcwFk4bZUw/company-logo_400_400/0/1684347559635?e=1700092800&v=beta&t=W38crhWqbwBohQuvK7BucIvXzBCGINymE9h3gjkB3DM",
+                "url": "https://www.linkedin.com/school/ufsc/"
+            },
+            "degree_name": "Master's degree",
+            "field_of_study": "Metrology and Instrumentation"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2009
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "school": {
+                "name": "Universidade Federal de Santa Catarina",
+                "logo": "https://media.licdn.com/dms/image/D4D0BAQEYdcwFk4bZUw/company-logo_400_400/0/1684347559635?e=1700092800&v=beta&t=W38crhWqbwBohQuvK7BucIvXzBCGINymE9h3gjkB3DM",
+                "url": "https://www.linkedin.com/school/ufsc/"
+            },
+            "degree_name": "Bachelor's degree",
+            "field_of_study": "Mechanical Engineering"
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [],
+    "organizations": [],
+    "projects": [],
+    "publications": [
+        {
+            "name": "Underwater Laser Triangulation Sensor Model With Flat Refractive Interfaces",
+            "publisher": "IEEE Journal of Oceanic Engineering",
+            "url": "https://ieeexplore.ieee.org/abstract/document/8644043",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2019
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Gabriel",
+                    "last_name": "M.",
+                    "name": null,
+                    "headline": "Software Engineer"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Pedro",
+                    "last_name": "Buschinelli",
+                    "name": null,
+                    "headline": "Senior Computer vision engineer | C++/C# Software engineer | R&D | PM"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Tiago Loureiro Figaro Da Costa Pinto",
+                    "headline": null
+                }
+            ]
+        },
+        {
+            "name": "Robotic tool positioning process using a multi-line off-axis laser triangulation sensor",
+            "publisher": "Journal of Physics: Conference Series",
+            "url": "http://iopscience.iop.org/article/10.1088/1742-6596/975/1/012076",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2018
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Gabriel",
+                    "last_name": "M.",
+                    "name": null,
+                    "headline": "Software Engineer"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Tiago Pinto",
+                    "headline": null
+                }
+            ]
+        },
+        {
+            "name": "Underwater 3D shape measurement using inverse triangulation through two flat refractive surfaces",
+            "publisher": "OCEANS 2016 MTS/IEEE Monterey",
+            "url": "http://ieeexplore.ieee.org/document/7761231/",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2016
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Gabriel",
+                    "last_name": "M.",
+                    "name": null,
+                    "headline": "Software Engineer"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Pedro Buschinelli",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Tiago Pinto",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Armando Albertazzi",
+                    "headline": null
+                }
+            ]
+        },
+        {
+            "name": "Underwater laser triangulation sensor calibration method with refraction",
+            "publisher": "OCEANS 2016 MTS/IEEE Monterey",
+            "url": "http://ieeexplore.ieee.org/document/7761235/",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2016
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Gabriel",
+                    "last_name": "M.",
+                    "name": null,
+                    "headline": "Software Engineer"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Pedro Buschinelli",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Tiago Pinto",
+                    "headline": null
+                }
+            ]
+        }
+    ],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 543049,
+                "name": "HEIDENHAIN NUMERIC EINDHOVEN B.V.",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQEdri20GWnbMw/company-logo_400_400/0/1519910918650?e=1700092800&v=beta&t=tsgyShBwW_RWRjIixj2PhbMb7VVEz27pSobVG6GU0tY",
+                "url": "https://www.linkedin.com/company/heidenhain/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Eindhoven, North Brabant, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "HEIDENHAIN NUMERIC B.V.",
+                    "description": null,
+                    "title": "Software Engineer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 6575,
+                "name": "YER",
+                "logo": "https://media.licdn.com/dms/image/C560BAQHBKG7E3oZOMg/company-logo_400_400/0/1567584180715?e=1700092800&v=beta&t=L9oSKUFYFIUjN92S15vNQk2nqnIbF3SjDV2f-a9jpqc",
+                "url": "https://www.linkedin.com/company/yer/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "YER",
+                    "description": null,
+                    "title": "Software Engineer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 4809883,
+                "name": "Hexagon Agriculture",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQETxA6rpekLlA/company-logo_400_400/0/1582136405285?e=1700092800&v=beta&t=XK67EycGw_yfMWP-KwdkGuMHbMUzUSpL61p3_M2ErXU",
+                "url": "https://www.linkedin.com/company/hexagon-agriculture/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2021
+                        }
+                    },
+                    "company": "Hexagon Agriculture",
+                    "description": null,
+                    "title": "Software Developer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 667059,
+                "name": "AltoQi Tecnologia em Inform\u00e1tica",
+                "logo": "https://media.licdn.com/dms/image/D560BAQHwxmRz2xn8dw/company-logo_400_400/0/1681131934921?e=1700092800&v=beta&t=ncxURnkSKCQVSvGmNRBPhHC-HdF_u4IQuNFDiFT0c3A",
+                "url": "https://www.linkedin.com/company/altoqi-tecnologia/",
+                "employees": {
+                    "start": 201,
+                    "end": 500
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "AltoQi",
+                    "description": "Main tools: C++, Qt, CMake, GTest, SVN, Jenkins, SQLite, Visual Studio\n\nSolutions to civil engineering problems and web API integration through TDD and OO design patterns in a SCRUM environment.",
+                    "title": "Software Developer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 17959,
+                "name": "Universidade Federal de Santa Catarina",
+                "logo": "https://media.licdn.com/dms/image/D4D0BAQEYdcwFk4bZUw/company-logo_400_400/0/1684347559635?e=1700092800&v=beta&t=W38crhWqbwBohQuvK7BucIvXzBCGINymE9h3gjkB3DM",
+                "url": "https://www.linkedin.com/school/ufsc/",
+                "employees": {
+                    "start": 5001,
+                    "end": 10000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Florian\u00f3polis Area, Brazil",
+                    "date": {
+                        "start": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2017
+                        }
+                    },
+                    "company": "Universidade Federal de Santa Catarina",
+                    "description": "Development of a laser sensor from mechanical and optical project to measurement and calibration algorithms. \nThe sensor was designed aiming underwater pipelines inspections for the oil and gas industry. \nLabView and MatLab were applied during development. Afterwards, the code was written in C++ with UI in Qt.\nDuring this research I have also helped to develop another work which employed stereo vision for underwater application.",
+                    "title": "Graduate Researcher",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 17959,
+                "name": "Universidade Federal de Santa Catarina",
+                "logo": "https://media.licdn.com/dms/image/D4D0BAQEYdcwFk4bZUw/company-logo_400_400/0/1684347559635?e=1700092800&v=beta&t=W38crhWqbwBohQuvK7BucIvXzBCGINymE9h3gjkB3DM",
+                "url": "https://www.linkedin.com/school/ufsc/",
+                "employees": {
+                    "start": 5001,
+                    "end": 10000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2014
+                        },
+                        "end": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2015
+                        }
+                    },
+                    "company": "Universidade Federal de Santa Catarina",
+                    "description": "This research was a part of the Advanced Industrial Engineering Network for the Oil and Gas Industry, a national project. \nThe sensor is a  laser triangulation system used to plan friction welding operations. The main tasks were assembling, calibrating the sensor and algorithms improvement.\nDuring this research a method to align a robot arm\u2019s tool center point with a surface\u2019s normal was also developed.",
+                    "title": "Graduate Researcher",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1722159,
+                "name": "Cecrisa Revestimentos Cer\u00e2micos S.A.",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQGDJj1sf_1tHA/company-logo_400_400/0/1519906080953?e=1700092800&v=beta&t=1yhyrRJTV55R46Ea7E3GfcVcwPkX7PHhu-TXOQHMJw4",
+                "url": "https://www.linkedin.com/company/cecrisa-revestimentos-cer-micos/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Crici\u00fama Area, Brazil",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2014
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2014
+                        }
+                    },
+                    "company": "Cecrisa Revestimentos Cer\u00e2micos S.A.",
+                    "description": "Use of continuous improvement methods, such as Ishikawa diagram and PDCA, to reduce unproductive time in production lines.",
+                    "title": "Internship",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "C++",
+        "Test Driven Development",
+        "Python",
+        "Design Patterns",
+        "Metrology",
+        "Image Processing",
+        "Computer Vision",
+        "Unit Testing",
+        "Android Development",
+        "Software Development",
+        "Matlab",
+        "LabVIEW",
+        "SolidWorks",
+        "LaTeX",
+        "Linux",
+        "Git",
+        "SVN",
+        "Jenkins",
+        "SQL",
+        "Embedded Software"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

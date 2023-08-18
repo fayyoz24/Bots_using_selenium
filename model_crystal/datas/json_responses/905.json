@@ -1,0 +1,649 @@
+{
+    "profile_id": "xuanli1020",
+    "first_name": "Xuan",
+    "last_name": "Li",
+    "sub_title": "Modeling Analyst at \u767e\u5206\u70b9-Baifendian",
+    "profile_picture": null,
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAAByjLGoBlAWdyXaN1l0ezjNaQHIPD2RWNus",
+    "object_urn": 480455786,
+    "birth_date": null,
+    "summary": "Specialties: \nFinancial Modeling\nData Analysis (Stata, Matlab, R)\nProgramming (Python)\nData Management (SQL)\nMicrosoft Offices\n",
+    "location": {
+        "country": "Netherlands",
+        "short": "Tilburg, North Brabant",
+        "city": "Tilburg",
+        "state": "North Brabant",
+        "default": "Tilburg, North Brabant, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "Chinese",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "Dutch",
+                "proficiency": "ELEMENTARY"
+            },
+            {
+                "name": "English",
+                "proficiency": "PROFESSIONAL_WORKING"
+            }
+        ]
+    },
+    "industry": "Internet",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "school": {
+                "name": "Tilburg University",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQHNJkPAcEjYEg/company-logo_400_400/0/1631003396114?e=1700092800&v=beta&t=n7TCzdjT5B9CFG_ZjZPaJM67HarplWNfj8D1LaRp0rk",
+                "url": "https://www.linkedin.com/school/tilburg-university/"
+            },
+            "degree_name": "Master of Science (MSc)",
+            "field_of_study": "Quantitative Finance and Actuarial Science"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "school": {
+                "name": "Tilburg University",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQHNJkPAcEjYEg/company-logo_400_400/0/1631003396114?e=1700092800&v=beta&t=n7TCzdjT5B9CFG_ZjZPaJM67HarplWNfj8D1LaRp0rk",
+                "url": "https://www.linkedin.com/school/tilburg-university/"
+            },
+            "degree_name": "Master of Science (MSc)",
+            "field_of_study": "Econometrics and Mathematical Economics"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2009
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "school": {
+                "name": "Renmin University of China",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQHTgVS0r0-Klg/company-logo_400_400/0/1519902451387?e=1700092800&v=beta&t=aZvJ8fAQbO-oWIUMMuqxdf11jZw8ytxpbk52olJUzWk",
+                "url": "https://www.linkedin.com/school/renmin-university-of-china/"
+            },
+            "degree_name": "Bachelor of Economics",
+            "field_of_study": "National Economics and Management"
+        }
+    ],
+    "patents": [],
+    "awards": [
+        {
+            "title": "Scholarship, Renmin University",
+            "description": null,
+            "issuer": "School of Economics, RUC",
+            "date": {
+                "month": 4,
+                "day": null,
+                "year": 2012
+            }
+        },
+        {
+            "title": "Outstanding Student Leader",
+            "description": null,
+            "issuer": "School of Economics, RUC",
+            "date": {
+                "month": 6,
+                "day": null,
+                "year": 2011
+            }
+        }
+    ],
+    "certifications": [],
+    "organizations": [
+        {
+            "name": "Daily Enlightenment Club of RUC",
+            "position": "President(2011-2012)",
+            "date_start": {
+                "month": 9,
+                "day": null,
+                "year": 2009
+            },
+            "date_end": {
+                "month": 6,
+                "day": null,
+                "year": 2013
+            }
+        },
+        {
+            "name": "Student Union, School of Economics, RUC",
+            "position": "Vice President of Academic Department",
+            "date_start": {
+                "month": 6,
+                "day": null,
+                "year": 2010
+            },
+            "date_end": {
+                "month": 6,
+                "day": null,
+                "year": 2011
+            }
+        }
+    ],
+    "projects": [
+        {
+            "title": "Data Mining Project on Amazon Review Data",
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "description": "\u2022 Worked with R, Python and Spark (Scala)\n\u2022 Manipulated and analyzed million-scale Amazon Review Data \n\u2022 Explored relationships between reviews characteristic, received helpfulness, price and product categories\n\u2022 Visualized analysis results by ggplot2 in R",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Xuan",
+                    "last_name": "Li",
+                    "name": null,
+                    "headline": "Modeling Analyst at \u767e\u5206\u70b9-Baifendian"
+                }
+            ]
+        },
+        {
+            "title": "2012 USA Consortium for Mathematics and Its Application (COMAP)",
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "description": "\u2022 Won Honorable Prize (awarded to the Top 48% among 1329 teams from 6 countries)\n\u2022 Applied Dynamic Programming and Semantic Analysis in Modeling for Crime Busting\n\u2022 Quantified and standardized the original information collected from the language text, and developed the model by eliminating innocent people using semantic analysis.\n",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Xuan",
+                    "last_name": "Li",
+                    "name": null,
+                    "headline": "Modeling Analyst at \u767e\u5206\u70b9-Baifendian"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Yuehan Bai",
+                    "headline": null
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "YU",
+                    "last_name": "QIAO",
+                    "name": null,
+                    "headline": "Associate at China Bond Insurance Co., Ltd."
+                }
+            ]
+        },
+        {
+            "title": "2011 USA Consortium for Mathematics and Its Application (COMAP)",
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2011
+                }
+            },
+            "description": "\u2022 Won Honorable Prize (awarded to the Top 40% among 735 teams from 4 countries)\n\u2022 Demand-supply analysis of feasibility and practicability of the wide use of electric vehicles\n\u2022 Applied an AHP model, a dynamic optimal model, and a singular point model of economy adjustment to realize the optimal point of electronic vehicle use\n ",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Xuan",
+                    "last_name": "Li",
+                    "name": null,
+                    "headline": "Modeling Analyst at \u767e\u5206\u70b9-Baifendian"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Junlong",
+                    "last_name": "Feng",
+                    "name": null,
+                    "headline": "Assistant Professor at HKUST"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Siyao Wang",
+                    "headline": null
+                }
+            ]
+        },
+        {
+            "title": "Credit Fraud Detection Algorithm Development and Evaluation",
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "description": "\u2022 Worked with R and Python\n\u2022 Reviewed algorithms of credit fraud detection and time-series anomaly detection\n\u2022 Applied algorithms in detecting credit frauds on synthesis time-series credit data\n",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Xuan",
+                    "last_name": "Li",
+                    "name": null,
+                    "headline": "Modeling Analyst at \u767e\u5206\u70b9-Baifendian"
+                }
+            ]
+        },
+        {
+            "title": "National Undergraduate Innovation Test Program",
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "description": "\u2022Project: Mechanism and Influence of \u201cFree Rider\u201d in Farmers' Specialized Cooperative\n\u2022Supported by University Research Grant (3000 RMB)\n",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Xuan",
+                    "last_name": "Li",
+                    "name": null,
+                    "headline": "Modeling Analyst at \u767e\u5206\u70b9-Baifendian"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Kai Wu",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Changdong Liu",
+                    "headline": null
+                }
+            ]
+        }
+    ],
+    "publications": [],
+    "courses": [
+        {
+            "name": "Asset Liability Management",
+            "number": null
+        },
+        {
+            "name": "Dynamic Models and Applications",
+            "number": null
+        },
+        {
+            "name": "Dynamic Real Investment",
+            "number": null
+        },
+        {
+            "name": "Economic and Finance of Pension",
+            "number": null
+        },
+        {
+            "name": "Empirical Finance",
+            "number": null
+        },
+        {
+            "name": "Financial Econometrcis",
+            "number": null
+        },
+        {
+            "name": "Financial Models",
+            "number": null
+        },
+        {
+            "name": "Games and Cooperative Behavior",
+            "number": null
+        },
+        {
+            "name": "Management Science",
+            "number": null
+        },
+        {
+            "name": "Microeconometrics",
+            "number": null
+        },
+        {
+            "name": "Nonlinear and Robust Optimization",
+            "number": null
+        },
+        {
+            "name": "Panal Data Analysis of Microeconomic Decisions",
+            "number": null
+        },
+        {
+            "name": "Pension System Design",
+            "number": null
+        }
+    ],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": null,
+                "name": "\u767e\u5206\u70b9-Baifendian",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Beijing City, China",
+                    "date": {
+                        "start": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2017
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "\u767e\u5206\u70b9-Baifendian",
+                    "description": null,
+                    "title": "Modeling Analyst",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 5029000,
+                "name": "Open Risk",
+                "logo": "https://media.licdn.com/dms/image/C560BAQHeUUsazPgZdg/company-logo_400_400/0/1519861493476?e=1700092800&v=beta&t=pvBKwSRF_36qr1ojwynzFnw8KbZlbNx_aqKxJ11M7-8",
+                "url": "https://www.linkedin.com/company/openrisk/",
+                "employees": {
+                    "start": 2,
+                    "end": 10
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amsterdam Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2016
+                        }
+                    },
+                    "company": "Open Risk",
+                    "description": "\u2022 Worked with R, applied machine learning technique Bayesian Network Models\n\u2022 Reviewed banking regulations of Basel II & III, executed Basel II single factor model and its adjusted multi-factor model in evaluating portfolio credit risk\n\u2022 Modelled unsystematic risks in Basel II factor models by Bayesian Network Models\n\u2022 Validated and compared performances of different models based on simulated loss distributions",
+                    "title": "Internship",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 9181328,
+                "name": "China Petroleum & Chemical Co., Ltd.",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQFSOxQVNaPlig/company-logo_400_400/0/1519872980571?e=1700092800&v=beta&t=L362K-9h7siThxA0GSADGGrxYHtm24mJFUI5ISnAE2I",
+                "url": "https://www.linkedin.com/company/china-petroleum-&-chemical-co-ltd-/",
+                "employees": {
+                    "start": 0,
+                    "end": 1
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Beijing City, China",
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2012
+                        },
+                        "end": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2012
+                        }
+                    },
+                    "company": "China Petroleum & Chemical Co., Ltd.",
+                    "description": "\u2022 Organized fund management, coordinated the company and banks in fundraising\n\u2022 Collected data of international capital flows and exchange of petrol, analyzed financial data using internal accounting system\n\u2022 Assisted crisis management in international payment transactions",
+                    "title": "Internship at Financial Department",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 363097,
+                "name": "China Youth Action Climate Network",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQEIQfIa9cPhSA/company-logo_400_400/0/1519883671888?e=1700092800&v=beta&t=TVie3joRNtAj6PAzdLTPqLS6EIuZ5RaxD--Vw42862o",
+                "url": "https://www.linkedin.com/company/china-youth-action-climate-network/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2011
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Beijing City, China",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2011
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2011
+                        }
+                    },
+                    "company": "China Youth Action Climate Network",
+                    "description": "\u2022 Designed organization infrastructure \n\u2022 Wrote targeted advertising copywriting for different social network sites \n\u2022 Edited Annul Report of the organization independently",
+                    "title": "Internship of Operational Department",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [
+        {
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "role": "Translator",
+            "company": {
+                "id": null,
+                "name": "Translation Project of Harry Potter and Method of Rationality",
+                "logo": null,
+                "url": null
+            },
+            "cause": "ARTS_AND_CULTURE",
+            "description": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "role": "Support Teacher of Aid Education",
+            "company": {
+                "id": null,
+                "name": "Renmin University of China",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQHTgVS0r0-Klg/company-logo_400_400/0/1519902451387?e=1700092800&v=beta&t=aZvJ8fAQbO-oWIUMMuqxdf11jZw8ytxpbk52olJUzWk",
+                "url": "https://www.linkedin.com/school/renmin-university-of-china/"
+            },
+            "cause": "CHILDREN",
+            "description": "\u2022 Taught geography and math,  and advised adolescents\u2019 psychological issues"
+        }
+    ],
+    "skills": [
+        "Data Analysis",
+        "R",
+        "Financial Modeling",
+        "Financial Risk Management",
+        "Python",
+        "MySQL",
+        "Matlab",
+        "Hadoop",
+        "Scala",
+        "Econometric Modeling",
+        "Stata",
+        "LaTeX",
+        "Econometrics",
+        "Panel Data Analysis",
+        "Pension Systems",
+        "SQL",
+        "Microsoft Office",
+        "Microsoft Excel",
+        "Research",
+        "Statistics"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

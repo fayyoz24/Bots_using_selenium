@@ -1,0 +1,796 @@
+{
+    "profile_id": "georg-summer",
+    "first_name": "Georg",
+    "last_name": "Summer",
+    "sub_title": "Software Architect and Product Owner",
+    "profile_picture": "https://media.licdn.com/dms/image/C4D03AQHdwS5GSFEqmg/profile-displayphoto-shrink_800_800/0/1517597040068?e=1697673600&v=beta&t=jAlCKTmPqKq1bvwpvDXVKp9q1LcJrvbHOPdgu8xHzz8",
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAAAYfsJ0BEO6EXGDzdfDfmmH2pUt4Sbm6l_o",
+    "object_urn": 102740125,
+    "birth_date": null,
+    "summary": "Key interests: software development, bioinformatics, data science, network biology, computational biology, graph theory, data management and mining, machine learning, finding connections, open source development",
+    "location": {
+        "country": "Netherlands",
+        "short": "Maastricht, Limburg",
+        "city": "Maastricht",
+        "state": "Limburg",
+        "default": "Maastricht, Limburg, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "Dutch",
+                "proficiency": "ELEMENTARY"
+            },
+            {
+                "name": "English",
+                "proficiency": "FULL_PROFESSIONAL"
+            },
+            {
+                "name": "German",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ]
+    },
+    "industry": "Information Technology & Services",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2008
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2010
+                }
+            },
+            "school": {
+                "name": "Hagenberg Campus - FH Upper Austria",
+                "logo": "https://media.licdn.com/dms/image/C560BAQGsYBJoRke84A/company-logo_400_400/0/1544390019532?e=1700092800&v=beta&t=RBFrfkL5NH7QewCiZmJprbbZz0mlLvsxJRK0QKWTVJw",
+                "url": "https://www.linkedin.com/school/hagenberg-campus-fhooe/"
+            },
+            "degree_name": "MSc",
+            "field_of_study": "Bio- and Medical Informatics"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2005
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2008
+                }
+            },
+            "school": {
+                "name": "Hagenberg Campus - FH Upper Austria",
+                "logo": "https://media.licdn.com/dms/image/C560BAQGsYBJoRke84A/company-logo_400_400/0/1544390019532?e=1700092800&v=beta&t=RBFrfkL5NH7QewCiZmJprbbZz0mlLvsxJRK0QKWTVJw",
+                "url": "https://www.linkedin.com/school/hagenberg-campus-fhooe/"
+            },
+            "degree_name": "BSc",
+            "field_of_study": "Bioinformatics"
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "NetworkLibrary",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "description": "Motivation: Much of the biological knowledge accumulated over the last decades is stored in different databases governed by various organizations and institutes. Integrating and connecting these vast knowledge repositories is an extremely useful method to support life sciences research and help formulate novel hypotheses.\nResults: We developed the Network Library (NL), a framework and toolset to rapidly integrate different knowledge sources to build a network biology resource that matches a specific research question. As a use-case we explore the interactions of genes related to heart failure with miRNAs and diseases through the integration of 6 databases.\nAvailability and Implementation: The NL is open-source, developed in Java and available on Github (https://github.com/gsummer ).\n\n#java #maven #github #neo4j #opensource",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Georg",
+                    "last_name": "Summer",
+                    "name": null,
+                    "headline": "Software Architect and Product Owner"
+                }
+            ]
+        },
+        {
+            "title": "cyNeo4j",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "description": "Summary: We developed cyNeo4j, a Cytoscape App to link Cytoscape and Neo4j databases to utilize the performance and storage capacities Neo4j offers. We implemented a Neo4j NetworkAnalyzer, ForceAtlas2 layout and Cypher component to demonstrate the possibilities a distributed setup of Cytoscape and Neo4j have.\nAvailability and implementation: The app is available from the Cytoscape App Store at http://apps.cytoscape.org/apps/cyneo4j, the Neo4j plugins at www.github.com/gsummer/cyneo4j-parent and the community and commercial editions of Neo4j can be found at http://www.neo4j.com.\n\n#java #osgi #cytoscape #neo4j #opensource #github",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Georg",
+                    "last_name": "Summer",
+                    "name": null,
+                    "headline": "Software Architect and Product Owner"
+                }
+            ]
+        }
+    ],
+    "publications": [
+        {
+            "name": "A novel 72-kDa leukocyte-derived osteoglycin enhances the activation of toll-like receptor 4 and exacerbates cardiac inflammation during viral myocarditis.",
+            "publisher": "Cellular and Molecular Life Sciences",
+            "url": "http://dx.doi.org/10.1007/s00018-016-2423-7",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2017
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Georg",
+                    "last_name": "Summer",
+                    "name": null,
+                    "headline": "Software Architect and Product Owner"
+                }
+            ]
+        },
+        {
+            "name": "The Network Library: a framework to rapidly integrate network biology resources",
+            "publisher": "Bioinformatics",
+            "url": "http://dx.doi.org/10.1093/bioinformatics/btw436",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2016
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Georg",
+                    "last_name": "Summer",
+                    "name": null,
+                    "headline": "Software Architect and Product Owner"
+                }
+            ]
+        },
+        {
+            "name": "RNA Profiling in Human and Murine Transplanted Hearts: Identification and Validation of Therapeutic Targets for Acute Cardiac and Renal Allograft Rejection",
+            "publisher": "American Journal of Transplantation",
+            "url": "http://dx.doi.org/10.1111/ajt.13421",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2016
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Georg",
+                    "last_name": "Summer",
+                    "name": null,
+                    "headline": "Software Architect and Product Owner"
+                }
+            ]
+        },
+        {
+            "name": "cyNeo4j: connecting Neo4j and Cytoscape",
+            "publisher": "Bioinformatics",
+            "url": "http://www.dx.doi.org/10.1093/bioinformatics/btv460",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2015
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Georg",
+                    "last_name": "Summer",
+                    "name": null,
+                    "headline": "Software Architect and Product Owner"
+                }
+            ]
+        },
+        {
+            "name": "The microRNA-221/-222 cluster balances the antiviral and inflammatory response in viral myocarditis",
+            "publisher": "European Heart Journal",
+            "url": "http://dx.doi.org/10.1093/eurheartj/ehv321",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2015
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Georg",
+                    "last_name": "Summer",
+                    "name": null,
+                    "headline": "Software Architect and Product Owner"
+                }
+            ]
+        },
+        {
+            "name": "White adipose tissue reference network: a knowledge resource for exploring health-relevant relations",
+            "publisher": "Genes & Nutrition",
+            "url": "http://dx.doi.org/10.1007/s12263-014-0439-x",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2015
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Georg",
+                    "last_name": "Summer",
+                    "name": null,
+                    "headline": "Software Architect and Product Owner"
+                }
+            ]
+        },
+        {
+            "name": "MicroRNA profiling identifies microRNA-155 as an adverse mediator of cardiac injury and dysfunction during acute viral myocarditis",
+            "publisher": "Circulation Research",
+            "url": "http://dx.doi.org/10.1161/CIRCRESAHA.112.267443",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2012
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Georg",
+                    "last_name": "Summer",
+                    "name": null,
+                    "headline": "Software Architect and Product Owner"
+                }
+            ]
+        },
+        {
+            "name": "Functional data analysis for identifying nonlinear models of gene regulatory networks",
+            "publisher": "BMC Genomics",
+            "url": "http://dx.doi.org/10.1186/1471-2164-11-S4-S18",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2010
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Georg",
+                    "last_name": "Summer",
+                    "name": null,
+                    "headline": "Software Architect and Product Owner"
+                }
+            ]
+        },
+        {
+            "name": "Concept and application of a computational vaccinology workflow",
+            "publisher": "Immunome Research",
+            "url": "http://dx.doi.org/10.1186/1745-7580-6-S2-S7",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2010
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Georg",
+                    "last_name": "Summer",
+                    "name": null,
+                    "headline": "Software Architect and Product Owner"
+                }
+            ]
+        }
+    ],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 10852658,
+                "name": "ZONTAL",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQFIEWmCZZiyyA/company-logo_400_400/0/1548408534633?e=1700092800&v=beta&t=qjVtju9DzfSbQJl664b7sg-yTI6TrVLyxoE4ItSfncA",
+                "url": "https://www.linkedin.com/company/zontal/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Germany",
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "ZONTAL",
+                    "description": null,
+                    "title": "Software Architect",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "OSTHUS",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2017
+                        },
+                        "end": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "OSTHUS",
+                    "description": null,
+                    "title": "Senior Software Developer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 164802,
+                "name": "Maastricht University",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQFA1gR1FvG8aQ/company-logo_400_400/0/1588059465102?e=1700092800&v=beta&t=GS0as2VwEDw7-R9Dp9mEUJxdykBIwgfhtdx_vvylGdc",
+                "url": "https://www.linkedin.com/school/maastricht-university/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Maastricht, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2013
+                        },
+                        "end": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2017
+                        }
+                    },
+                    "company": "Maastricht University",
+                    "description": "Development and application of network biology and bioinformatics approaches in heart and liver failure research. Shared position at Maastricht University (Department of Cardiology) and TNO (Microbiology & Systems Biology).\n\n#java #cytoscape #neo4j #cyneo4j #networklibrary #R #eclipse #maven #github #git #couchDb #inkscape",
+                    "title": "PhD Researcher",
+                    "employment_type": null
+                },
+                {
+                    "location": "Maastricht, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2011
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2013
+                        }
+                    },
+                    "company": "Maastricht University",
+                    "description": "Data analysis of biomedical data in the field of cardiology, data visualization, development of bioinformatics tools and methods. Involved in FP7 MEDIA and FP7 HOMAGE EU projects.\n\n#R #java #cytoscape #pathvisio #datavisualization",
+                    "title": "Scientist at Department of Cardiology",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 3614,
+                "name": "TNO",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQFobKDECbgbEQ/company-logo_400_400/0/1688455653111?e=1700092800&v=beta&t=ho1ffvJJOaiufyZS54sM9jND_CnKpQ7s15LCXPTNO0Q",
+                "url": "https://www.linkedin.com/company/tno/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Zeist, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2013
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2017
+                        }
+                    },
+                    "company": "TNO",
+                    "description": "Development and application of network biology and bioinformatics approaches in heart and liver failure research. Shared position at Maastricht University (Department of Cardiology) and TNO (Microbiology & Systems Biology).\n\n#java #cytoscape #neo4j #cyneo4j #networklibrary #R #eclipse #maven #github #git #couchDb #inkscape",
+                    "title": "PhD Researcher",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "National Resource for Network Biology",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2014
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2014
+                        }
+                    },
+                    "company": "National Resource for Network Biology",
+                    "description": "Development of the cyNeo4j app for Cytoscape (http://www.cytoscape.org) to connect to a Neo4j database and execute extensions of the Neo4j database.\n\n#java #osgi #cytoscape #neo4j #cyneo4j #maven #github",
+                    "title": "Google Summer of Code Student",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 514595,
+                "name": "Ottawa Hospital Research Institute",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQFvirzeANltRQ/company-logo_400_400/0/1644606380454?e=1700092800&v=beta&t=4JYyExormmXr6jDUVOw25NtJNiuaFPmpbWoUESLgcWM",
+                "url": "https://www.linkedin.com/company/ottawa-hospital-research-institute/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2009
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2010
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Ottawa, Canada",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2009
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2010
+                        }
+                    },
+                    "company": "Ottawa Hospital Research Institute",
+                    "description": "Master thesis research on functional data analysis for identifying nonlinear models of gene regulatory networks. Supervisor:  Dr. Perkins (http://www.perkinslab.ca)\n\n#matlab",
+                    "title": "Research Assistant",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 8564270,
+                "name": "Emergentec Biodevelopment GmbH",
+                "logo": null,
+                "url": "https://www.linkedin.com/company/emergentec-biodevelopment-gmbh/",
+                "employees": {
+                    "start": 2,
+                    "end": 10
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2008
+                },
+                "end": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2009
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Vienna, Austria",
+                    "date": {
+                        "start": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2008
+                        },
+                        "end": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2009
+                        }
+                    },
+                    "company": "Emergentec Biodevelopment GmbH",
+                    "description": "Development of a workflow and data visualization system for computational vaccinology\n\n#java",
+                    "title": "Bioinformatician/Developer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 15098420,
+                "name": "Hagenberg Campus - FH Upper Austria",
+                "logo": "https://media.licdn.com/dms/image/C560BAQGsYBJoRke84A/company-logo_400_400/0/1544390019532?e=1700092800&v=beta&t=RBFrfkL5NH7QewCiZmJprbbZz0mlLvsxJRK0QKWTVJw",
+                "url": "https://www.linkedin.com/school/hagenberg-campus-fhooe/",
+                "employees": {
+                    "start": 201,
+                    "end": 500
+                }
+            },
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2007
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2009
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Hagenberg, Austria",
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "day": null,
+                            "year": 2008
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": 2009
+                        }
+                    },
+                    "company": "Hagenberg Campus - FH Upper Austria",
+                    "description": "Tutorship in the software engineering course (2nd year bachelor bioinformatics)\n\n#C++ #java #algorithms",
+                    "title": "Tutor for Software Engineering",
+                    "employment_type": null
+                },
+                {
+                    "location": "Hagenberg, Austria",
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "day": null,
+                            "year": 2007
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": 2008
+                        }
+                    },
+                    "company": "Hagenberg Campus - FH Upper Austria",
+                    "description": "Creating a primer database and management tool, including a sequence user interface for the Clinical Institute of the Department of Virology at the University of Vienna in Austria\n\n#java",
+                    "title": "Student project",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 166631,
+                "name": "University of Calgary",
+                "logo": "https://media.licdn.com/dms/image/D560BAQGDff93yDy-dg/company-logo_400_400/0/1664728985838?e=1700092800&v=beta&t=dMnoaDjIIDVAY5RznDd1dZi3IVE1L1hzx2oZULbc9dA",
+                "url": "https://www.linkedin.com/school/ucalgary/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2007
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2007
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Calgary, Canada",
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2007
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2007
+                        }
+                    },
+                    "company": "University of Calgary",
+                    "description": "Development of an Proliferation 3D Visualization Software at the Sun Center of Excellence for Visual Genomics (COE) at University of Calgary\n\n#java",
+                    "title": "Intern",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Amazon Web Services (AWS)",
+        "Software Development",
+        "Network Biology",
+        "Bioinformatics",
+        "Data Science",
+        "R",
+        "Graph Databases",
+        "Java",
+        "Neo4j",
+        "NoSQL",
+        "Microarray Analysis",
+        "Machine Learning",
+        "Lifesciences",
+        "Genomics",
+        "Genetics",
+        "Computational Biology",
+        "Cell Biology",
+        "Systems Biology",
+        "Sequencing",
+        "Biochemistry"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

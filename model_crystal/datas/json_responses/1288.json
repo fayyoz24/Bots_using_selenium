@@ -1,0 +1,996 @@
+{
+    "profile_id": "alex-brandsen",
+    "first_name": "Alex",
+    "last_name": "Brandsen",
+    "sub_title": "I'm an archaeologist by original intention and a computer scientist by final decision.",
+    "profile_picture": null,
+    "background_image": "https://media.licdn.com/dms/image/C5616AQEIjt-O7B7Oyw/profile-displaybackgroundimage-shrink_350_1400/0/1642500746528?e=1697673600&v=beta&t=mIPpXAK5X8ob4nSp-8TXPV61lILJ0tnEhzoGSky4KfM",
+    "profile_type": "personal",
+    "entity_urn": "ACoAAARMS6gBbkkPt_o7MzYSSylZl9jlm90MN84",
+    "object_urn": 72108968,
+    "birth_date": null,
+    "summary": "I studied archaeology for my BA and MSc, but always focused on digital techniques and web technologies specifically. After my studies I pursued a career in web development, working on front- and backend as well as server maintenance and client liaison for 6 years. In 2022, I completed my PhD in Digital Archaeology at Leiden University, researching the use of text mining in archaeological grey literature, specifically the Malta reports archived by DANS and the RCE. I'm currently a postdoc in the EXALT project, further building on my PhD research.",
+    "location": {
+        "country": "Netherlands",
+        "short": "Leiden, South Holland",
+        "city": "Leiden",
+        "state": "South Holland",
+        "default": "Leiden, South Holland, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "Dutch",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "English",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "Spanish",
+                "proficiency": "ELEMENTARY"
+            }
+        ]
+    },
+    "industry": "Computer Software",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2009
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2010
+                }
+            },
+            "school": {
+                "name": "University of York",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQHN-tZE9f_fkg/company-logo_400_400/0/1519856050172?e=1700092800&v=beta&t=tHjEMxIFNHVDyQdOiKs6G4cVadJ6o6LEQ4sJzmdihwE",
+                "url": "https://www.linkedin.com/school/uniofyork/"
+            },
+            "degree_name": "MSc",
+            "field_of_study": "Archaeological Information Systems"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2005
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2009
+                }
+            },
+            "school": {
+                "name": "Leiden University",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQEFlK1wNecYbA/company-logo_400_400/0/1519855876129?e=1700092800&v=beta&t=_Ka1xca3IfdCHmeD7q7WGgDYObpZ56ZjJTvjnjfwxW0",
+                "url": "https://www.linkedin.com/school/leiden-university/"
+            },
+            "degree_name": "BA",
+            "field_of_study": "Archaeology"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 1999
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2005
+                }
+            },
+            "school": {
+                "name": "Werenfridus",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "VWO",
+            "field_of_study": "Economics and Society"
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "Brinkeys - using Artificial Intelligence to generate metadata",
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "description": "Participated in the ICT with industry Lorentz Workshop, where I worked with the National Library and other researchers to automatically generate metadata using machine learning. A demo can be found at http://www.kbresearch.nl/brinkeys/",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Alex",
+                    "last_name": "Brandsen",
+                    "name": null,
+                    "headline": "I'm an archaeologist by original intention and a computer scientist by final decision."
+                }
+            ]
+        },
+        {
+            "title": "AGNES (Archaeological Grey-literature Named Entity Search)",
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "description": "Over 60.000 archaeological reports have been produced in the Netherlands over the last 20 years; a collection of texts too vast to comprehend. The currently available search systems for these documents only allow you to search on metadata (or the keywords about a document). \n\nAGNES is a new system that will allow you to search through all the text in these documents in an intelligent way, unlocking the knowledge hidden in these reports.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Alex",
+                    "last_name": "Brandsen",
+                    "name": null,
+                    "headline": "I'm an archaeologist by original intention and a computer scientist by final decision."
+                }
+            ]
+        }
+    ],
+    "publications": [
+        {
+            "name": "A burning question \u2013 Using an intelligent grey literature search engine to change our views on early medieval burial practices in the Netherlands",
+            "publisher": "Journal of Archaeological Science",
+            "url": "https://doi.org/10.1016/j.jas.2021.105456",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2021
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Alex",
+                    "last_name": "Brandsen",
+                    "name": null,
+                    "headline": "I'm an archaeologist by original intention and a computer scientist by final decision."
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Femke",
+                    "last_name": "Lippok",
+                    "name": null,
+                    "headline": "PhD at Leiden University"
+                }
+            ]
+        },
+        {
+            "name": "Labelling the past: data set creation and multi-label classification of Dutch archaeological excavation reports",
+            "publisher": "Language Resources and Evaluation",
+            "url": "https://doi.org/10.1007/s10579-021-09552-6",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2021
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Alex",
+                    "last_name": "Brandsen",
+                    "name": null,
+                    "headline": "I'm an archaeologist by original intention and a computer scientist by final decision."
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Martin",
+                    "last_name": "Koole",
+                    "name": null,
+                    "headline": "Junior Developer at DEARhealth"
+                }
+            ]
+        },
+        {
+            "name": "Creating a Dataset for Named Entity Recognition in the Archaeology Domain",
+            "publisher": "Proceedings of the 12th Language Resources and Evaluation Conference",
+            "url": "http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.562.pdf",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2020
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Alex",
+                    "last_name": "Brandsen",
+                    "name": null,
+                    "headline": "I'm an archaeologist by original intention and a computer scientist by final decision."
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Suzan",
+                    "last_name": "Verberne",
+                    "name": null,
+                    "headline": "Associate Professor bij Leiden Institute of Advanced Computer Science (LIACS)"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Karsten",
+                    "last_name": "Lambers",
+                    "name": null,
+                    "headline": "Associate Professor, Leiden University - Faculty of Archaeology"
+                }
+            ]
+        },
+        {
+            "name": "User Requirement Solicitation for an Information Retrieval System Applied to Dutch Grey Literature in the Archaeology Domain",
+            "publisher": "Journal of Computer Applications in Archaeology",
+            "url": "http://doi.org/10.5334/jcaa.33",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2019
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Alex",
+                    "last_name": "Brandsen",
+                    "name": null,
+                    "headline": "I'm an archaeologist by original intention and a computer scientist by final decision."
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Karsten",
+                    "last_name": "Lambers",
+                    "name": null,
+                    "headline": "Associate Professor, Leiden University - Faculty of Archaeology"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Suzan",
+                    "last_name": "Verberne",
+                    "name": null,
+                    "headline": "Associate Professor bij Leiden Institute of Advanced Computer Science (LIACS)"
+                }
+            ]
+        },
+        {
+            "name": "Searching in Archaeological Texts, problems and solutions using an artificial intelligence approach",
+            "publisher": "PalArch\u2019s Journal of Archaeology of Egypt/Egyptology, 7(2) (2010)",
+            "url": "http://www.palarch.nl/2010/03/hans-paijmans-alex-brandsen-2010-searching-in-archaeological-texts-problems-and-solutions-using-an-arti%EF%AC%81cial-intelligence-approach-%E2%80%93-palarch%E2%80%99s-journal-of-archaeology-of-eg/",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2010
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Alex",
+                    "last_name": "Brandsen",
+                    "name": null,
+                    "headline": "I'm an archaeologist by original intention and a computer scientist by final decision."
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "hans",
+                    "last_name": "paijmans",
+                    "name": null,
+                    "headline": "Senior Technical Advisor at Gcorner-glass"
+                }
+            ]
+        },
+        {
+            "name": "What is in a name: Recognizing monument names from free-text monument descriptions",
+            "publisher": "Proceedings of the 18th Annual Belgian-Dutch Conference on Machine Learning (Benelearn)",
+            "url": "http://www.academia.edu/download/5547340/new.pdf",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2009
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Alex",
+                    "last_name": "Brandsen",
+                    "name": null,
+                    "headline": "I'm an archaeologist by original intention and a computer scientist by final decision."
+                }
+            ]
+        }
+    ],
+    "courses": [
+        {
+            "name": "Analysis and visualisation of archaeological information",
+            "number": null
+        },
+        {
+            "name": "Current issues in Computer Applications in Archaeology",
+            "number": null
+        },
+        {
+            "name": "Data- and Project Management",
+            "number": null
+        },
+        {
+            "name": "Database design and implementation",
+            "number": null
+        },
+        {
+            "name": "Digital publication and web technologies",
+            "number": null
+        },
+        {
+            "name": "Effective Communication",
+            "number": null
+        },
+        {
+            "name": "Geographical information systems (GIS)",
+            "number": null
+        },
+        {
+            "name": "Information Retrieval & Text Analytics",
+            "number": null
+        },
+        {
+            "name": "Text Mining",
+            "number": null
+        },
+        {
+            "name": "Virtual reality modelling",
+            "number": null
+        },
+        {
+            "name": "Working on the web",
+            "number": null
+        }
+    ],
+    "test_scores": [
+        {
+            "name": "BKE",
+            "score": "C2",
+            "date": {
+                "month": 12,
+                "day": null,
+                "year": 2017
+            }
+        },
+        {
+            "name": "IELTS",
+            "score": "8.5",
+            "date": {
+                "month": 8,
+                "day": null,
+                "year": 2009
+            }
+        }
+    ],
+    "position_groups": [
+        {
+            "company": {
+                "id": 6077,
+                "name": "Leiden University",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQEFlK1wNecYbA/company-logo_400_400/0/1519855876129?e=1700092800&v=beta&t=_Ka1xca3IfdCHmeD7q7WGgDYObpZ56ZjJTvjnjfwxW0",
+                "url": "https://www.linkedin.com/school/leiden-university/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Leiden, South Holland, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Leiden University",
+                    "description": "Postdoc in the EXALT project: Excavating Archaeological Literature - Enabling scientific discovery by applying multilingual text mining to archaeological document. \n\nWe'll be upgrading AGNES to also include other types of documents and multiple languages, leading to multilingual semantic search.",
+                    "title": "Postdoctoral Researcher",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Warhorns Festival",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Yorkshire, United Kingdom",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Warhorns Festival",
+                    "description": null,
+                    "title": "Drum Technician / Stage Manager",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 6077,
+                "name": "Leiden University",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQEFlK1wNecYbA/company-logo_400_400/0/1519855876129?e=1700092800&v=beta&t=_Ka1xca3IfdCHmeD7q7WGgDYObpZ56ZjJTvjnjfwxW0",
+                "url": "https://www.linkedin.com/school/leiden-university/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Leiden",
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2017
+                        },
+                        "end": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2021
+                        }
+                    },
+                    "company": "Leiden University",
+                    "description": "Using text mining to access the hidden knowledge in archaeological grey literature.",
+                    "title": "PhD Candidate",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 10100607,
+                "name": "The Wrapped Agency",
+                "logo": "https://media.licdn.com/dms/image/D560BAQH2g_7DhvE1mA/company-logo_400_400/0/1663690716913?e=1700092800&v=beta&t=bSVxIX07eiOY17e5_LNFTQmhlS4miN9wHvdK2jeC9oY",
+                "url": "https://www.linkedin.com/company/the-wrapped-agency/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Leeds, United Kingdom",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2017
+                        },
+                        "end": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2021
+                        }
+                    },
+                    "company": "Wrapped Agency",
+                    "description": "Working remotely. \nDevelop sites on the Magento eCommerce and Concrete5 CMS platforms, as well as designing and developing custom applications.",
+                    "title": "Web Developer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Space Creative & Associates Ltd",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "York, United Kingdom",
+                    "date": {
+                        "start": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2011
+                        },
+                        "end": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2017
+                        }
+                    },
+                    "company": "Space Creative & Associates Ltd",
+                    "description": "Develop sites on the Magento eCommerce and Concrete5 CMS platforms, as well as designing and developing custom applications.",
+                    "title": "Web Developer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Impulse Media",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2010
+                },
+                "end": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2011
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "York, United Kingdom",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2010
+                        },
+                        "end": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2011
+                        }
+                    },
+                    "company": "Impulse Media",
+                    "description": "Freelance web design/development work, mainly at Impulse Media (York), but also on vWorker.com and other projects.",
+                    "title": "Freelance Web Designer / Developer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "BioArch, University of York",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2010
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2010
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "York, United Kingdom",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2010
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2010
+                        }
+                    },
+                    "company": "BioArch, University of York",
+                    "description": "\u00b7 Assisted David Harker in developing SHAARKWeb, a web-based user interface that inputs and processes information from users of the NEAAR lab.\n\u00b7 Used Object-Oriented PHP, Propel, XHTML and CSS to develop parts of the system; mainly the login system, AJAX dropdown boxes populated by external database queries and programmatically importing MS Excel spreadsheets into the database.",
+                    "title": "Assistant Web Developer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Antiquity Journal",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2009
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2009
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "York, United Kingdom",
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2009
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2009
+                        }
+                    },
+                    "company": "Antiquity Journal",
+                    "description": "\u00b7 Assisted Patrick Gibbs in creating a new Project Gallery Archive homepage.\n\u00b7 Converted Project Gallery articles from older Antiquity styles into the new for-",
+                    "title": "Assistant Web Designer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Leiden University, Department of Archaeology",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2009
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2009
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Leiden, The Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2009
+                        },
+                        "end": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2009
+                        }
+                    },
+                    "company": "Leiden University, Department of Archaeology",
+                    "description": "\u00b7 Supervised the practical on the use of the Total Station for first year archaeology students.\n\u00b7 Marked assignments.",
+                    "title": "Student Supervisor",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "The Open Boek Project, at the RCE",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2008
+                },
+                "end": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2009
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amersfoort, The Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2008
+                        },
+                        "end": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2009
+                        }
+                    },
+                    "company": "The Open Boek Project, at the RCE",
+                    "description": "\u00b7 Assisted in making the smart index- and search engine 'Open Boek' usable by archaeologists.\n\u00b7 Prepared the system for implementation in the DANS system.\n\u00b7 Adapted the system to be able to process Dutch texts as well as English texts.\n\u00b7 Gained experience with LaTeX, MySQL, PHP, AWK and Bash-shell scripting.",
+                    "title": "Assistant Web/Software Developer",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [
+        {
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "role": "Outreach Officer",
+            "company": {
+                "id": null,
+                "name": "CAA NL-FL",
+                "logo": null,
+                "url": null
+            },
+            "cause": null,
+            "description": "Outreach officer for the Dutch/Flemish chapter of the CAA. Responsible for all social media channels, newsletters and all other outgoing communications, as well as general board duties such as organising meetings/conferences."
+        },
+        {
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "role": "Board Member",
+            "company": {
+                "id": null,
+                "name": "Digital Archaeology Group",
+                "logo": null,
+                "url": null
+            },
+            "cause": null,
+            "description": "Organising monthly lectures on digital archaeology at the University of Leiden. Main activities include finding speakers, maintaining social media channels and creating newsletters.\nWe also organise yearly workshops and the occasional additional lecture."
+        },
+        {
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "role": "Organiser",
+            "company": {
+                "id": null,
+                "name": "Dutch-Flemish Information Retrieval workshop 2018",
+                "logo": null,
+                "url": null
+            },
+            "cause": null,
+            "description": "Helping to organise DIR2018, including general organisation and specifically maintaining social media channels and creating the DIR2018 website (http://dir2018.nl/)"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "role": "Organiser",
+            "company": {
+                "id": null,
+                "name": "Digital Archaeology Workshops Netherlands-Flanders",
+                "logo": null,
+                "url": null
+            },
+            "cause": null,
+            "description": "Main organiser of DAWN 2018; building and updating the website (http://digarchgroup.nl/dawn/), communicating with participants, steering the session subjects, organising catering, etc."
+        },
+        {
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2007
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2009
+                }
+            },
+            "role": "Assessor / Chairman",
+            "company": {
+                "id": null,
+                "name": "Study association for Science Based Archaeology and Prehistory \"Johan Picardt\"",
+                "logo": null,
+                "url": null
+            },
+            "cause": "SCIENCE_AND_TECHNOLOGY",
+            "description": "Board member; Assessor. September 2007 - August 2008 \nLead committees. \nPlanned and organised educational activities. \nOther related activities such as administration.\n\nChairman of the archaeological trip committee. December 2007 - May 2008 \nResponsible for the planning, organising and leading an archaeological and educational roadtrip through Germany, Poland and the Czech Republic, with 30 students from Leiden University."
+        }
+    ],
+    "skills": [
+        "PHP",
+        "Cascading Style Sheets (CSS)",
+        "Python",
+        "Web Development",
+        "Database Design",
+        "Web Design",
+        "Web Applications",
+        "OOP",
+        "Machine Learning",
+        "Academic Writing",
+        "CSS",
+        "MySQL",
+        "HTML",
+        "jQuery",
+        "JavaScript",
+        "XHTML",
+        "CMS",
+        "SQL",
+        "Databases",
+        "AJAX"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}
