@@ -1,0 +1,1263 @@
+{
+    "profile_id": "kasunraj",
+    "first_name": "Kasun",
+    "last_name": "Rajapakse",
+    "sub_title": "Microsoft MVP - Azure | CKA CKS CKAD | 6x Azure Certified | 3x AWS Certified | GCP Certified |  1x HashiCorp | Trainer | Cloud Architect \u2601\u2601\u00a0\ud83c\uddf3\ud83c\uddf1\ud83c\uddf1\ud83c\uddf0",
+    "profile_picture": "https://media.licdn.com/dms/image/D4E03AQGQqX6CDA4SUg/profile-displayphoto-shrink_800_800/0/1691870288774?e=1697673600&v=beta&t=0oJBbCggsGO5E27Iv_T3GsT1b_I49i6HFFeFJnHd_94",
+    "background_image": "https://media.licdn.com/dms/image/C5616AQEpVAyiyjEG6w/profile-displaybackgroundimage-shrink_350_1400/0/1658508418300?e=1697673600&v=beta&t=BqGdY_1P7PKZM5H_XW-vAA_-MYuugoIVFRiSv-Qcoyw",
+    "profile_type": "personal",
+    "entity_urn": "ACoAAA2hPa8BUHJNuiFf9g-ZcjZ-Eb8oPUqRhMg",
+    "object_urn": 228670895,
+    "birth_date": null,
+    "summary": "Kasun Rajapakse is a cloud enthusiast from Sri Lanka and currently, works as a DevOps Engineer at Robeco Nederland. He has more than 8 years of experience in cloud technologies, he is well versed in multiple cloud technologies, and has a special interest in everything Kubernetes. He writes technical blogs about Kubernetes, Terraform, DevOps, monitoring, and many more for his blog https://www.infrakloud.com/  & kasunrajapakse.me. \n\nHe actively contributes to the community by speaking in user groups, conferences, and content creating. Kasun is also Microsoft Certified Trainer, Microsoft Most Valuable Professional, Certified Kubernetes Administrator, and holds several cloud certifications from Microsoft, AWS,  and Google Cloud.",
+    "location": {
+        "country": "Netherlands",
+        "short": "Rotterdam, South Holland",
+        "city": "Rotterdam",
+        "state": "South Holland",
+        "default": "Rotterdam, South Holland, Netherlands"
+    },
+    "premium": true,
+    "influencer": false,
+    "treasury_media": [
+        {
+            "url": "https://kasunrajapakse.me/unleashing-the-power-of-resilience-exploring-azure-backup-solutions-for-azure-kubernetes-service-1515dbb965c4",
+            "title": "Unleashing the Power of Resilience: Exploring Azure Backup Solutions for Azure Kubernetes Service",
+            "description": "Azure Kubernetes Service (AKS) backup is a simple, cloud-native way to back up and restore containerized apps and data running in AKS clusters. You can regularly set up backups for the cluster state and application data (persistent volumes on CSI driver-based Azure Disks).",
+            "image": "https://media.licdn.com/dms/image/sync/D4E27AQGk7UiU89lTnQ/articleshare-shrink_1280_800/0/1692297422904?e=1692961200&v=beta&t=YKcZggKOgRxhUlGzf6i44D2oPuPxsNbX9VilDgtN1vY"
+        },
+        {
+            "url": "https://enlear.academy/getting-started-with-argo-cd-24359cd96d8a",
+            "title": "Getting started with Argo CD",
+            "description": "Argo CD is a powerful GitOps tool that helps manage the release of applications on Kubernetes. With Argo CD, you can handle the deployment of your applications, keep them up-to-date with the latest changes, and make sure they always run smoothly.",
+            "image": "https://media.licdn.com/dms/image/sync/D4E27AQGdJLlFQPOKMA/articleshare-shrink_1280_800/0/1692297397284?e=1692961200&v=beta&t=9l9wt97yyV36PKj-mQ2tj-Z7p6oItFy0nOd-YP7w3r8"
+        },
+        {
+            "url": "https://enlear.academy/mastering-argo-cd-your-first-application-deployment-on-kubernetes-64dbb4ab46e9",
+            "title": "Mastering Argo CD: Your First Application Deployment on Kubernetes",
+            "description": "Welcome back to our Argo CD journey! In our previous blog post, \u201cGetting Started with Argo CD\u201d we looked at the basics of Argo CD and how it revolutionizes Kubernetes application deployments. It\u2019s time to go on to the next step and deploy our first application utilizing Argo CD.",
+            "image": "https://media.licdn.com/dms/image/sync/D4E27AQFV7VhLfn8VSw/articleshare-shrink_1280_800/0/1692297351451?e=1692961200&v=beta&t=-Qko1YEXACopckRbpQufQi7pFn5z6vGB4anKIbvGHFk"
+        },
+        {
+            "url": "https://enlear.academy/checkov-now-supports-scan-bicep-bicep-checkov-azure-devops-8e9573e6502d",
+            "title": "Checkov now supports scan Bicep- Bicep + Checkov + Azure DevOps",
+            "description": "Use Checkov to scan Bicep templates",
+            "image": "https://media.licdn.com/dms/image/sync/D5627AQFQJbPtIUphiQ/articleshare-shrink_1280_800/0/1692029681032?e=1692961200&v=beta&t=R73yyOzGSvaJ48FuHeu1G_PGcdzf4kobemyK9v837RQ"
+        },
+        {
+            "url": "https://www.squadcast.com/blog/demystifying-kubernetes-rbac",
+            "title": "Demystifying Kubernetes RBAC | Squadcast",
+            "description": "The more prominent and complex Kubernetes deployments become, the more important it is to define strict access controls and tighter security. In this blog, Kasun has explained how RBAC can be implemented in Kubernetes clusters to restrict user...",
+            "image": "https://media.licdn.com/dms/image/sync/C5627AQFtQleP3Nfr9A/articleshare-shrink_1280_800/0/1691605568562?e=1692961200&v=beta&t=xgOMGolp58CbiBJ4n0yjvZissB1VeXAYk23UjtgPBrs"
+        },
+        {
+            "url": null,
+            "title": "Using GitHub Container Registry in Practice",
+            "description": "Exploring the New Capabilities of GitHub Container Registry",
+            "image": null
+        },
+        {
+            "url": null,
+            "title": "INFRAKLOUD.COM",
+            "description": "Personal Blog about Tech ",
+            "image": null
+        },
+        {
+            "url": "https://blog.bitsrc.io/best-practices-for-writing-a-dockerfile-68893706c3",
+            "title": "Best Practices for Writing a Dockerfile",
+            "description": "Optimize your Docker Image by following these best practices from day one.",
+            "image": "https://media.licdn.com/dms/image/sync/D5627AQGGRCwibaI_nQ/articleshare-shrink_1280_800/0/1691437712334?e=1692961200&v=beta&t=-A-eRTSVb9CYILYkY4RARFc4or-3qPLscOQARxXvY2g"
+        },
+        {
+            "url": null,
+            "title": "GitHub CLI is Now Available: Here\u2019s Why You Should Be Excited",
+            "description": "GitHub CLI is finally out. Find out what it offers to boost your productivity and automate everyday operations with ease.",
+            "image": null
+        },
+        {
+            "url": "https://blog.bitsrc.io/using-github-actions-with-azure-app-services-for-web-apps-1d3333c391d4",
+            "title": "Using Github Actions with Azure App Services for Web Apps",
+            "description": "In the modern development environment, automated application deployment plays a vital role in the organization's software development\u2026",
+            "image": "https://media.licdn.com/dms/image/sync/C5627AQG7wVEnNSUq3A/articleshare-shrink_1280_800/0/1691490349915?e=1692961200&v=beta&t=Up1FTSgT9qtQKbEQ4ypvFkNviRnZej5W0KAj_4wl8a0"
+        }
+    ],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "English",
+                "proficiency": "PROFESSIONAL_WORKING"
+            },
+            {
+                "name": "Sinhalese",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ]
+    },
+    "industry": "Information Technology & Services",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "school": {
+                "name": "NetAssist International",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "Microsoft Certified Solution Associate",
+            "field_of_study": "Network and System Administration/Administrator"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "school": {
+                "name": "NetAssist International",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "Microsoft Certified Solution Associate (Windows 8.1)",
+            "field_of_study": "Network and System Administration/Administrator"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2010
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "school": {
+                "name": "Institute of Chartered Accountants of Sri Lanka",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "Certified in Accounting and Business 2 (Part Qualify)",
+            "field_of_study": "Accounting and Business/Management"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 1996
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2009
+                }
+            },
+            "school": {
+                "name": "St.Joseph's College, Colombo",
+                "logo": "https://media.licdn.com/dms/image/C510BAQFpNCQgIX45Rg/company-logo_400_400/0/1544127280981?e=1700697600&v=beta&t=tJxo0l9LdB66x1S0fwiksnMn0wXnJk2epSl5FKyKZoA",
+                "url": "https://www.linkedin.com/school/stjosephscollegelk/"
+            },
+            "degree_name": null,
+            "field_of_study": "Accounting and Finance"
+        }
+    ],
+    "patents": [],
+    "awards": [
+        {
+            "title": "Microsoft Most Valuable Professional 2020",
+            "description": "For more than two decades, the Microsoft MVP Award is our way of saying \"Thanks!\" to outstanding community leaders. The contributions MVPs make to the community, ranging from speaking engagements to social media posts, to writing books, to helping others in online communities, have an incredible impact.\n ",
+            "issuer": "Microsoft",
+            "date": {
+                "month": 4,
+                "day": null,
+                "year": 2020
+            }
+        },
+        {
+            "title": "Microsoft Certified Trainer ",
+            "description": null,
+            "issuer": "Microsoft",
+            "date": {
+                "month": 3,
+                "day": null,
+                "year": 2016
+            }
+        }
+    ],
+    "certifications": [
+        {
+            "name": "2023 Microsoft Most Valuable Professional (MVP)",
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2023
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Microsoft",
+            "url": "https://www.credly.com/badges/a1bb998c-ba1c-468f-a7bc-ae1541bc344f/linked_in_profile",
+            "license_number": null,
+            "display_source": "credly.com",
+            "company": {
+                "id": null,
+                "name": "Microsoft",
+                "logo": "https://media.licdn.com/dms/image/C560BAQE88xCsONDULQ/company-logo_400_400/0/1618231291419?e=1700697600&v=beta&t=gohrejCATVB1ukPwpEYzd2garcSVcEoHmQjS3W-NJk8",
+                "url": null
+            }
+        },
+        {
+            "name": "Microsoft Certified: Cybersecurity Architect Expert",
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2023
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2024
+                }
+            },
+            "authority": "Microsoft",
+            "url": "https://www.credly.com/badges/17233090-5166-4e60-8187-b6b55525415c/linked_in_profile",
+            "license_number": null,
+            "display_source": "credly.com",
+            "company": {
+                "id": null,
+                "name": "Microsoft",
+                "logo": "https://media.licdn.com/dms/image/C560BAQE88xCsONDULQ/company-logo_400_400/0/1618231291419?e=1700697600&v=beta&t=gohrejCATVB1ukPwpEYzd2garcSVcEoHmQjS3W-NJk8",
+                "url": null
+            }
+        },
+        {
+            "name": "AZ-305: Designing Microsoft Azure Infrastructure Solutions",
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Microsoft",
+            "url": "https://www.credly.com/badges/e27dde18-1132-484c-ba55-9b1425b156c0/linked_in_profile",
+            "license_number": null,
+            "display_source": "credly.com",
+            "company": {
+                "id": null,
+                "name": "Microsoft",
+                "logo": "https://media.licdn.com/dms/image/C560BAQE88xCsONDULQ/company-logo_400_400/0/1618231291419?e=1700697600&v=beta&t=gohrejCATVB1ukPwpEYzd2garcSVcEoHmQjS3W-NJk8",
+                "url": null
+            }
+        },
+        {
+            "name": "Cilium Getting Started",
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Isovalent",
+            "url": "https://www.credly.com/badges/43c5d320-e074-4962-8a8c-fa4c05b9ed36/linked_in_profile",
+            "license_number": null,
+            "display_source": "credly.com",
+            "company": {
+                "id": null,
+                "name": "Isovalent",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQE9WqoMUx2-gw/company-logo_400_400/0/1679590337558?e=1700697600&v=beta&t=rUrE88z9A5LYi078o7st0pcEBq1l1geKlfxt_lf_Y8U",
+                "url": null
+            }
+        },
+        {
+            "name": "(ISC)\u00b2 Candidate",
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2023
+                }
+            },
+            "authority": "(ISC)\u00b2",
+            "url": "https://www.credly.com/badges/285a9e0d-3df8-4d09-a940-5fa0f639c75f/linked_in_profile",
+            "license_number": null,
+            "display_source": "credly.com",
+            "company": {
+                "id": null,
+                "name": "(ISC)\u00b2",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQEANDNp1O78-g/company-logo_400_400/0/1692269546180?e=1700697600&v=beta&t=r0n799YOw7NSkg3pys31bxMrb4eiyHSkJBqgTreVIvw",
+                "url": null
+            }
+        },
+        {
+            "name": "Microsoft Certified: DevOps Engineer Expert",
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2023
+                }
+            },
+            "authority": "Microsoft",
+            "url": "https://www.credly.com/badges/604d1405-1cea-49dc-8635-a539374fa828?source=linked_in_profile",
+            "license_number": null,
+            "display_source": "credly.com",
+            "company": {
+                "id": null,
+                "name": "Microsoft",
+                "logo": "https://media.licdn.com/dms/image/C560BAQE88xCsONDULQ/company-logo_400_400/0/1618231291419?e=1700697600&v=beta&t=gohrejCATVB1ukPwpEYzd2garcSVcEoHmQjS3W-NJk8",
+                "url": null
+            }
+        },
+        {
+            "name": "HashiCorp Certified: Terraform Associate",
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2023
+                }
+            },
+            "authority": "HashiCorp",
+            "url": "https://www.credly.com/badges/02b60721-8b52-4986-9fad-b5d5705f3d88?source=linked_in_profile",
+            "license_number": null,
+            "display_source": "credly.com",
+            "company": {
+                "id": null,
+                "name": "HashiCorp",
+                "logo": "https://media.licdn.com/dms/image/D560BAQEnMb6VZz2LDw/company-logo_400_400/0/1688229275729?e=1700697600&v=beta&t=682GyTTZVgI7nirJIlwHRVccuV5mp3KG8By1laCESS4",
+                "url": null
+            }
+        },
+        {
+            "name": "CKS: Certified Kubernetes Security Specialist",
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2023
+                }
+            },
+            "authority": "The Linux Foundation",
+            "url": "https://www.credly.com/badges/ad8dd444-ff4f-4fe4-9f21-65df360b7bca?source=linked_in_profile",
+            "license_number": null,
+            "display_source": "credly.com",
+            "company": {
+                "id": null,
+                "name": "The Linux Foundation",
+                "logo": "https://media.licdn.com/dms/image/C560BAQEXYSSWEvEL9g/company-logo_400_400/0/1657565841755?e=1700697600&v=beta&t=gNy99WCriCbm5DbqWDSa9w8PevQ_b3ezSM6O5dauR1Q",
+                "url": null
+            }
+        },
+        {
+            "name": "CKAD: Certified Kubernetes Application Developer",
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2024
+                }
+            },
+            "authority": "The Linux Foundation",
+            "url": "https://www.credly.com/badges/771986e1-cd3b-412d-9409-19db3ca652a0?source=linked_in_profile",
+            "license_number": null,
+            "display_source": "credly.com",
+            "company": {
+                "id": null,
+                "name": "The Linux Foundation",
+                "logo": "https://media.licdn.com/dms/image/C560BAQEXYSSWEvEL9g/company-logo_400_400/0/1657565841755?e=1700697600&v=beta&t=gNy99WCriCbm5DbqWDSa9w8PevQ_b3ezSM6O5dauR1Q",
+                "url": null
+            }
+        },
+        {
+            "name": "CKA: Certified Kubernetes Administrator",
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2023
+                }
+            },
+            "authority": "The Linux Foundation",
+            "url": "https://www.youracclaim.com/badges/7479cb27-2e81-4107-b349-0e7d10312f29?source=linked_in_profile",
+            "license_number": null,
+            "display_source": "youracclaim.com",
+            "company": {
+                "id": null,
+                "name": "The Linux Foundation",
+                "logo": "https://media.licdn.com/dms/image/C560BAQEXYSSWEvEL9g/company-logo_400_400/0/1657565841755?e=1700697600&v=beta&t=gNy99WCriCbm5DbqWDSa9w8PevQ_b3ezSM6O5dauR1Q",
+                "url": null
+            }
+        },
+        {
+            "name": "Microsoft 365 Certified Fundamentals",
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Microsoft",
+            "url": "https://www.youracclaim.com/badges/5b4b689d-3b4e-48c4-8208-d2a9edeeb6eb/linked_in_profile",
+            "license_number": null,
+            "display_source": "youracclaim.com",
+            "company": {
+                "id": null,
+                "name": "Microsoft",
+                "logo": "https://media.licdn.com/dms/image/C560BAQE88xCsONDULQ/company-logo_400_400/0/1618231291419?e=1700697600&v=beta&t=gohrejCATVB1ukPwpEYzd2garcSVcEoHmQjS3W-NJk8",
+                "url": null
+            }
+        },
+        {
+            "name": "Microsoft Certified: Azure Solutions Architect Expert",
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2023
+                }
+            },
+            "authority": "Microsoft",
+            "url": "https://www.youracclaim.com/badges/57abe1e9-a91d-48b6-94be-3a4f2aa53514/linked_in_profile",
+            "license_number": null,
+            "display_source": "youracclaim.com",
+            "company": {
+                "id": null,
+                "name": "Microsoft",
+                "logo": "https://media.licdn.com/dms/image/C560BAQE88xCsONDULQ/company-logo_400_400/0/1618231291419?e=1700697600&v=beta&t=gohrejCATVB1ukPwpEYzd2garcSVcEoHmQjS3W-NJk8",
+                "url": null
+            }
+        },
+        {
+            "name": "Exam 535: Architecting Microsoft Azure Solutions",
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "authority": "Microsoft",
+            "url": "https://www.youracclaim.com/badges/ceed9fb2-96c0-4755-a244-528acc171cf8/public_url",
+            "license_number": null,
+            "display_source": "youracclaim.com",
+            "company": {
+                "id": null,
+                "name": "Microsoft",
+                "logo": "https://media.licdn.com/dms/image/C560BAQE88xCsONDULQ/company-logo_400_400/0/1618231291419?e=1700697600&v=beta&t=gohrejCATVB1ukPwpEYzd2garcSVcEoHmQjS3W-NJk8",
+                "url": null
+            }
+        },
+        {
+            "name": "AWS Certified SysOps Administrator - Associate ",
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "authority": "Amazon Web Services",
+            "url": "https://www.certmetrics.com/amazon/public/badge.aspx?i=3&t=c&d=2018-01-29&ci=AWS00199338",
+            "license_number": "7LDX4T4CJMEQ1NGY",
+            "display_source": "certmetrics.com",
+            "company": {
+                "id": null,
+                "name": "Amazon Web Services (AWS)",
+                "logo": "https://media.licdn.com/dms/image/C560BAQER_QnUTXrPJw/company-logo_400_400/0/1670264050886?e=1700697600&v=beta&t=DicqTgSOApjcw6M2A27i8tCXwAo3s8o37qQro1v859s",
+                "url": null
+            }
+        },
+        {
+            "name": "AWS Certified Developer - Associate (DVA)",
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "authority": "Amazon Web Services",
+            "url": "https://www.certmetrics.com/amazon/public/badge.aspx?i=2&t=c&d=2017-10-20&ci=AWS00199338",
+            "license_number": "Q5DMN2QC2NVQ1QSK",
+            "display_source": "certmetrics.com",
+            "company": {
+                "id": null,
+                "name": "Amazon Web Services (AWS)",
+                "logo": "https://media.licdn.com/dms/image/C560BAQER_QnUTXrPJw/company-logo_400_400/0/1670264050886?e=1700697600&v=beta&t=DicqTgSOApjcw6M2A27i8tCXwAo3s8o37qQro1v859s",
+                "url": null
+            }
+        },
+        {
+            "name": "MCSA: Windows Server 2016 ",
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Microsoft",
+            "url": "https://www.youracclaim.com/badges/1092ab14-b48c-4fed-86d7-24405ed995c9/linked_in_profile",
+            "license_number": null,
+            "display_source": "youracclaim.com",
+            "company": {
+                "id": null,
+                "name": "Microsoft",
+                "logo": "https://media.licdn.com/dms/image/C560BAQE88xCsONDULQ/company-logo_400_400/0/1618231291419?e=1700697600&v=beta&t=gohrejCATVB1ukPwpEYzd2garcSVcEoHmQjS3W-NJk8",
+                "url": null
+            }
+        },
+        {
+            "name": "MCSE: Cloud Platform and Infrastructure ",
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "authority": "Microsoft",
+            "url": "https://www.youracclaim.com/badges/8452c159-4a11-47ed-9ad6-df63daae9b2c/linked_in_profile",
+            "license_number": null,
+            "display_source": "youracclaim.com",
+            "company": {
+                "id": null,
+                "name": "Microsoft",
+                "logo": "https://media.licdn.com/dms/image/C560BAQE88xCsONDULQ/company-logo_400_400/0/1618231291419?e=1700697600&v=beta&t=gohrejCATVB1ukPwpEYzd2garcSVcEoHmQjS3W-NJk8",
+                "url": null
+            }
+        },
+        {
+            "name": "AWS Certified Solutions Architect \u2013 Associate",
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2023
+                }
+            },
+            "authority": "Amazon Web Services (AWS)",
+            "url": "https://www.youracclaim.com/badges/f87f9e97-2b9a-4269-9e32-47c4862f7a7a?source=linked_in_profile",
+            "license_number": null,
+            "display_source": "youracclaim.com",
+            "company": {
+                "id": null,
+                "name": "Amazon Web Services (AWS)",
+                "logo": "https://media.licdn.com/dms/image/C560BAQER_QnUTXrPJw/company-logo_400_400/0/1670264050886?e=1700697600&v=beta&t=DicqTgSOApjcw6M2A27i8tCXwAo3s8o37qQro1v859s",
+                "url": null
+            }
+        },
+        {
+            "name": "Microsoft Certified Trainer (MCT)",
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Microsoft",
+            "url": null,
+            "license_number": null,
+            "display_source": null,
+            "company": {
+                "id": null,
+                "name": "Microsoft",
+                "logo": "https://media.licdn.com/dms/image/C560BAQE88xCsONDULQ/company-logo_400_400/0/1618231291419?e=1700697600&v=beta&t=gohrejCATVB1ukPwpEYzd2garcSVcEoHmQjS3W-NJk8",
+                "url": null
+            }
+        },
+        {
+            "name": "MCSA: Cloud Platform",
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "authority": "Microsoft",
+            "url": "https://www.youracclaim.com/badges/0e541534-921a-4c11-8a10-f28162db1670/linked_in_profile",
+            "license_number": null,
+            "display_source": "youracclaim.com",
+            "company": {
+                "id": null,
+                "name": "Microsoft",
+                "logo": "https://media.licdn.com/dms/image/C560BAQE88xCsONDULQ/company-logo_400_400/0/1618231291419?e=1700697600&v=beta&t=gohrejCATVB1ukPwpEYzd2garcSVcEoHmQjS3W-NJk8",
+                "url": null
+            }
+        }
+    ],
+    "organizations": [],
+    "projects": [],
+    "publications": [],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 5009,
+                "name": "Robeco",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQHw96taljsYCg/company-logo_400_400/0/1636531130186?e=1700697600&v=beta&t=hGxi-QbF4Bg1JG0htpippwXL_mF0LPZEnAuWKcG_JuA",
+                "url": "https://www.linkedin.com/company/robeco/",
+                "employees": {
+                    "start": 501,
+                    "end": 1000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Rotterdam, South Holland, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Robeco",
+                    "description": null,
+                    "title": "DevOps Engineer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 162807,
+                "name": "Brunel",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQHLdgv4dmCReA/company-logo_400_400/0/1657521306559?e=1700697600&v=beta&t=Qp-21EMhqwfgYKMho1C8bYJI4HN13zpkJe731A5_rRQ",
+                "url": "https://www.linkedin.com/company/brunel/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Rotterdam, South Holland, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Brunel",
+                    "description": null,
+                    "title": "IT Specialist",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 840292,
+                "name": "University of Sri Jayewardenepura",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQEIyBWI38ZHpw/company-logo_400_400/0/1606325530465?e=1700697600&v=beta&t=EmQk5a7AGY7541DYo6Exz8AezX0GaZ_PufAbbku80Vk",
+                "url": "https://www.linkedin.com/school/university-of-sri-jayewardenepura/",
+                "employees": {
+                    "start": 501,
+                    "end": 1000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Colombo, Western Province, Sri Lanka",
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "University of Sri Jayewardenepura",
+                    "description": null,
+                    "title": "Visiting Lecturer",
+                    "employment_type": "Part-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 13254472,
+                "name": "Ascentic",
+                "logo": "https://media.licdn.com/dms/image/D560BAQGc5K14184swg/company-logo_400_400/0/1685953664036?e=1700697600&v=beta&t=Dmqr0ROkaB6BCWIy5b0UgQUglWToGuExh5MyY2PnW54",
+                "url": "https://www.linkedin.com/company/ascentic/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Sri Lanka",
+                    "date": {
+                        "start": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "Ascentic",
+                    "description": null,
+                    "title": "Associate DevOps Lead",
+                    "employment_type": "Full-time"
+                },
+                {
+                    "location": "Colombo, Western, Sri Lanka",
+                    "date": {
+                        "start": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "Ascentic",
+                    "description": "- Responsible for providing technical expertise on cloud migrations\n- Implementing of automating Azure infrastructure provisioning\n- Guide on DevOps practices in organization\n- Implementing Azure DevOps pipelines for customer application\n- Securing cloud assets with Azure security services\n- Training organization staff on DevOps tools and best practices\n- Troubleshooting pipelines and CI/CD\n- Design cloud infrastructure\n- Architecting cloud solutions for Ascentic clients",
+                    "title": "Senior DevOps Engineer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 3775551,
+                "name": "Sana Commerce Sri Lanka",
+                "logo": "https://media.licdn.com/dms/image/C560BAQF2M_1N-4uk2w/company-logo_400_400/0/1641435808800?e=1700697600&v=beta&t=-MS9EfFAVdMMifLndfwrUB3DD_eRRXDO7qR373Kd70E",
+                "url": "https://www.linkedin.com/company/sana-commerce-sri-lanka/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Colombo",
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2021
+                        }
+                    },
+                    "company": "Sana Commerce Sri Lanka",
+                    "description": "- Azure technical background in architecture infrastructure, deploying, and managing applications.\n- Application migration to cloud infrastructure\n- Preparation of costing for internal and client deployments\n- Automating Infrastructure deployment using PowerShell, ARM Templates\n- Design monitoring system for Kubernetes and microservices applications\n- Enabling security for customer environment and configure RBACs for accessing\nresources\n- Managing cloud governance and security\n- Working with AKS and implement application deployment through CI/CD pipeline\n- Providing training on Azure, Kubernetes, and cloud technologies for the company",
+                    "title": "Senior System / Automation Engineer ",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1138533,
+                "name": "NetAssist International",
+                "logo": "https://media.licdn.com/dms/image/C560BAQFNoniz1RI5ew/company-logo_400_400/0/1550827848351?e=1700697600&v=beta&t=RmYqrVt_-RfLweWyYQpDTJP789fMnh020d2KhDBHmOc",
+                "url": "https://www.linkedin.com/school/netassist-international/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Sri Lanka",
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "ANC - NetAssist International",
+                    "description": null,
+                    "title": "Visiting Lecturer",
+                    "employment_type": "Part-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 95441,
+                "name": "Thakral One",
+                "logo": "https://media.licdn.com/dms/image/C560BAQGg6Rgf9nW_MA/company-logo_400_400/0/1649672845624?e=1700697600&v=beta&t=hn2cEyBnfRFKxCfZJfCgZcC1rM3bwK03BZcqYWoCMbk",
+                "url": "https://www.linkedin.com/company/thakralone/",
+                "employees": {
+                    "start": 501,
+                    "end": 1000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Sri Lanka",
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2017
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "Thakral One",
+                    "description": "- Lead the Azure, AWS Cloud-related projects within the company.\n- Played a key role in evaluating, establishing and conducting proof of concepts for Azure,AWS, etc.\n- Produced comprehensive architecture strategy for environment mapping in Azure/AWS\nthat involved EC2, Load Balances, ARM Templates, etc.\n- Produced a comprehensive security strategy using AWS Identity and Access\nManagement (IAM), Azure RBAC & Security Center.\n- Developed strategy for cloud/virtualization migration and implementation of best practices\n- Helped to develop backup and recovery strategies for applications and databases on the cloud.\n- Experienced in building private, public cloud networking, hybrid connections.\nResolve any client or sales concerns and revise proposals if necessary.",
+                    "title": "Technical Consultant",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 795910,
+                "name": "Infront Consulting Group",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQHbBUMB45nQNQ/company-logo_400_400/0/1531773003225?e=1700697600&v=beta&t=25cMKNpSAAqX04vq6STbRiAmrpozEqIf6qqEmKYkIF4",
+                "url": "https://www.linkedin.com/company/infront-consulting-group/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Colombo",
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2017
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2017
+                        }
+                    },
+                    "company": "Infront Consulting Group",
+                    "description": null,
+                    "title": "System Engineer",
+                    "employment_type": null
+                },
+                {
+                    "location": "Colombo",
+                    "date": {
+                        "start": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2017
+                        }
+                    },
+                    "company": "Infront Consulting Group",
+                    "description": "\u2022\tKey resource person and Specialist for Microsoft Azure, System Center Operations Manager within the company.\n\u2022\tProviding architectural guidance and oversight to ensure that solutions are scalable, secure, available, and operationally sound.\n\u2022\tPlanning, designing & deploying Enterprise scale cloud solutions and System Center Operation Manager solutions.\n\u2022\tKey responsible person in design and creation of hybrid cloud infrastructure, customer-specific cloud solutions leveraging Microsoft Azure.\n\u2022\tProviding technical training for partners, internal staff, clients on the newest trends and technologies with regards to Microsoft Cloud.\n\u2022\tConducting Proof-of-Concept scenarios to drive cloud adaption among potential customers.",
+                    "title": "Associate System Engineer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 2718125,
+                "name": "Eyepax IT Consulting (Pvt) Ltd.",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQGmdCWfZj-70Q/company-logo_400_400/0/1519905867850?e=1700697600&v=beta&t=R1002I6DRLCuCLgvKGk_niEbKu0L9JNJx8cYx_-Q0LY",
+                "url": "https://www.linkedin.com/company/eyepax/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Colombo",
+                    "date": {
+                        "start": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2015
+                        }
+                    },
+                    "company": "Eyepax",
+                    "description": "-Active Directory administration\n-Network Troubleshooting\n-Configuring Servers \n-Help Desk Support for Users",
+                    "title": "Trainee Network Administrator",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1990959,
+                "name": "Datamation Systems (Pvt) Limited",
+                "logo": "https://media.licdn.com/dms/image/C560BAQGrs3qDa74yUw/company-logo_400_400/0/1594053225663?e=1700697600&v=beta&t=FiSmJdS6xTM0PzC_DY2f767Mb5aituhJ8HTEk77W9WY",
+                "url": "https://www.linkedin.com/company/datamationlk/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Colombo",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2014
+                        },
+                        "end": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2015
+                        }
+                    },
+                    "company": "Datamation Systems (Pvt) Limited",
+                    "description": "- Responsible for Troubleshooting the  ERP System \n- Help Desk Support for the ERP Clients \n- Implementation of ERP System \n- Training the ERP Users",
+                    "title": "ERP Implementation",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [
+        {
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "role": "Volunteer",
+            "company": {
+                "id": null,
+                "name": "Kubernetes Sri Lanka",
+                "logo": "https://media.licdn.com/dms/image/C560BAQHQzZdYZerN7Q/company-logo_400_400/0/1672337000035?e=1700697600&v=beta&t=YqytJMWGhwp_R2rjmZ2P7GGGob53IdHbe7Kk76Mdxds",
+                "url": "https://www.linkedin.com/company/k8ssrilanka/"
+            },
+            "cause": "EDUCATION",
+            "description": null
+        }
+    ],
+    "skills": [
+        "Linux",
+        "Docker Products",
+        "Security",
+        "Azure Sentinel",
+        "Cloud Security",
+        "DevSecOps",
+        "Training",
+        "Teaching",
+        "Microsoft Azure",
+        "Azure DevOps",
+        "Kubernetes",
+        "DHCP",
+        "DNS",
+        "Shell Scripting",
+        "Storage",
+        "Version Control",
+        "Software Project Management",
+        "Amazon Web Services (AWS)",
+        "Windows Server",
+        "Active Directory"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

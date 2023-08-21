@@ -1,0 +1,614 @@
+{
+    "profile_id": "sigrok",
+    "first_name": "Sigitas",
+    "last_name": "Rokas",
+    "sub_title": "Cyber security at NATO Communications and Information Agency (NCI Agency)",
+    "profile_picture": null,
+    "background_image": "https://media.licdn.com/dms/image/C4D16AQE7RJYWiA6IvA/profile-displaybackgroundimage-shrink_350_1400/0/1636572943350?e=1697673600&v=beta&t=WXSBhlClSaBvnKNzgJ4E1CA6sxeqjpUDK-XErV6KGrc",
+    "profile_type": "personal",
+    "entity_urn": "ACoAAADhBMQBG5sDrDEyDsnlCz_jSwhFER1nNxo",
+    "object_urn": 14746820,
+    "birth_date": null,
+    "summary": ".",
+    "location": {
+        "country": null,
+        "short": "Netherlands",
+        "city": null,
+        "state": null,
+        "default": "Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "English",
+                "proficiency": "FULL_PROFESSIONAL"
+            },
+            {
+                "name": "German",
+                "proficiency": "LIMITED_WORKING"
+            },
+            {
+                "name": "Lithuanian",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "Russian",
+                "proficiency": "PROFESSIONAL_WORKING"
+            }
+        ]
+    },
+    "industry": "Computer & Network Security",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2002
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2004
+                }
+            },
+            "school": {
+                "name": "VILNIUS TECH - Vilnius Gediminas Technical University",
+                "logo": "https://media.licdn.com/dms/image/C560BAQFH0KjVMJKa6w/company-logo_400_400/0/1645701911319?e=1700697600&v=beta&t=QGVtEA_9mkJTkoz5TYg8SUkQmW5qbjjs1pBROJzu840",
+                "url": "https://www.linkedin.com/school/vilniustech/"
+            },
+            "degree_name": "Master of science",
+            "field_of_study": "engineering informatics"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 1998
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2002
+                }
+            },
+            "school": {
+                "name": "VILNIUS TECH - Vilnius Gediminas Technical University",
+                "logo": "https://media.licdn.com/dms/image/C560BAQFH0KjVMJKa6w/company-logo_400_400/0/1645701911319?e=1700697600&v=beta&t=QGVtEA_9mkJTkoz5TYg8SUkQmW5qbjjs1pBROJzu840",
+                "url": "https://www.linkedin.com/school/vilniustech/"
+            },
+            "degree_name": "Bachelor",
+            "field_of_study": "engineering informatics"
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [
+        {
+            "name": "SIM3 Certified Auditor",
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "The Open CSIRT Foundation (OCF) ",
+            "url": "https://opencsirt.org/maturity/auditors/",
+            "license_number": null,
+            "display_source": "opencsirt.org",
+            "company": null
+        },
+        {
+            "name": "CISM (Chief Information Security Manager)",
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "ISACA",
+            "url": null,
+            "license_number": null,
+            "display_source": null,
+            "company": {
+                "id": null,
+                "name": "ISACA",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQEbgaF0IMoyIw/company-logo_400_400/0/1580742431409?e=1700697600&v=beta&t=Kx_-xoTRoNHDTBI1mfQFydxLS0FooASZ_5df-KMWuqY",
+                "url": null
+            }
+        },
+        {
+            "name": "Information Security Management Systems Lead Auditor (based on ISO 27001:2013 standard)",
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Bureau Veritas",
+            "url": null,
+            "license_number": "IS/15/LT/2612",
+            "display_source": null,
+            "company": {
+                "id": null,
+                "name": "Bureau Veritas Group",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQGedV2n5hbUNA/company-logo_400_400/0/1519918464110?e=1700697600&v=beta&t=9d9mWmCQ8uQQyJJaxdILFGSG5NXDbbrW4BBcWhvJq6c",
+                "url": null
+            }
+        },
+        {
+            "name": "Quality Management Systems Lead Auditor (based on ISO 9001:2008 standard)",
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Bureau Veritas",
+            "url": null,
+            "license_number": "LA2/11/LA/37952",
+            "display_source": null,
+            "company": {
+                "id": null,
+                "name": "Bureau Veritas Group",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQGedV2n5hbUNA/company-logo_400_400/0/1519918464110?e=1700697600&v=beta&t=9d9mWmCQ8uQQyJJaxdILFGSG5NXDbbrW4BBcWhvJq6c",
+                "url": null
+            }
+        }
+    ],
+    "organizations": [
+        {
+            "name": "Forum of Incident Response and Security Teams (FIRST)",
+            "position": "Liaison member",
+            "date_start": {
+                "month": 10,
+                "day": null,
+                "year": 2021
+            },
+            "date_end": null
+        },
+        {
+            "name": "ISACA",
+            "position": null,
+            "date_start": {
+                "month": 4,
+                "day": null,
+                "year": 2015
+            },
+            "date_end": null
+        }
+    ],
+    "projects": [
+        {
+            "title": "Information security implementation program",
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "description": "Developing and maintaining information security strategy and implementing of corporate information security strengthening program based on information security risk assessment results, compliance requirements and critical security controls.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Sigitas",
+                    "last_name": "Rokas",
+                    "name": null,
+                    "headline": "Cyber security at NATO Communications and Information Agency (NCI Agency)"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Andrius",
+                    "last_name": "Adamonis",
+                    "name": null,
+                    "headline": "Growing expertise in payments and blockchain solutions for financial industry"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Laurynas",
+                    "last_name": "Glamba",
+                    "name": null,
+                    "headline": "Global Information Security Officer at Intrum"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Ram\u016bnas",
+                    "last_name": "K.",
+                    "name": null,
+                    "headline": "Information security manager at SEB Lietuva"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Nerijus",
+                    "last_name": "Slu\u0161nys",
+                    "name": null,
+                    "headline": "IT security expert at Koncernas ACHEMOS GRUP\u0116"
+                }
+            ]
+        }
+    ],
+    "publications": [
+        {
+            "name": "Contribution of Investment Projects to the European Security Initiative - Cybersecurity",
+            "publisher": "European Investment Bank",
+            "url": "https://eiah.eib.org/publications/attachments/cyber-technical-report.pdf",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2021
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Sigitas",
+                    "last_name": "Rokas",
+                    "name": null,
+                    "headline": "Cyber security at NATO Communications and Information Agency (NCI Agency)"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Rimtautas",
+                    "last_name": "Cerniauskas",
+                    "name": null,
+                    "headline": "CIRT Solutions Architect, Consultantat at NRD Cyber Security"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Prashanth",
+                    "last_name": "Pattabiraman",
+                    "name": null,
+                    "headline": "Sr. Cloud and Cybersecurity Architect | Entrepreneur"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Akvil\u0117",
+                    "last_name": "Giniotien\u0117",
+                    "name": null,
+                    "headline": "Head of Cyber and New Technologies Unit, Programme Management Officer at United Nation Office of Counter-Terrorism/ UN Counter-Terrorism Centre"
+                }
+            ]
+        },
+        {
+            "name": "Computer Security Incident Response Team (CSIRT) Services Framework",
+            "publisher": "Forum of Incident Response and Security Teams (FIRST.Org)",
+            "url": "https://www.first.org/standards/frameworks/csirts/csirt_services_framework_v2.1",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2019
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Sigitas",
+                    "last_name": "Rokas",
+                    "name": null,
+                    "headline": "Cyber security at NATO Communications and Information Agency (NCI Agency)"
+                }
+            ]
+        }
+    ],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 2609111,
+                "name": "NATO Communications and Information Agency (NCI Agency)",
+                "logo": "https://media.licdn.com/dms/image/C560BAQFzG4wQDMjVbg/company-logo_400_400/0/1649329139021?e=1700697600&v=beta&t=yiPIfPQ95MrSQWryuGVGIqKd1TxVHkXbxMOBhQL-FDY",
+                "url": "https://www.linkedin.com/company/nato-communications-and-information-agency-nciagency-/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2020
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "NATO Communications and Information Agency (NCI Agency)",
+                    "description": null,
+                    "title": "Cyber security",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 5022873,
+                "name": "NRD Cyber Security",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQEI2KZWkCTpsA/company-logo_400_400/0/1519871949549?e=1700697600&v=beta&t=sA2J_AZoektN-M-D4S0zqAPmvRC87QhYcpC5quydlxU",
+                "url": "https://www.linkedin.com/company/nrd-cs/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2020
+                        }
+                    },
+                    "company": "NRD Cyber Security",
+                    "description": "Information security advisory and international projects management.\nInformation security domain architecture for governments and organizations. \nBusiness development in Asia region.\n\nKey projects:\n1. Establishment cyber sensors in CIIs in Bangladesh\n2. Establishment of BGD e-GOV CIRT in Bangladesh\n3. Establishment of BtCIRT in Bhutan\n4. Establishment of national CSIRT in Cyprus\n5. Establishment and execution of infosec/cybersec related training programs for Govs and LEAs\n6. ISO 27001 implementation projects\n7. Infosec risk assessment and compliance audits including delivery of related methodologies. References mostly within CIIs (Energy sector)\n8. Maturing UCT-CSIRT operations and introducing to FIRST.Org (2019), Cape Town, South Africa. \n9. Outsourced CISO for fintech bank in Lithuania.",
+                    "title": "Information security advisory,  international security projects management",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Lietuvos Energija, UAB",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2008
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2008
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2015
+                        }
+                    },
+                    "company": "Lietuvos Energija, UAB",
+                    "description": "Information security leadership, governance and management with the results in Lithuanian energy sector: \n1. Implementation and compliance with the obligatory external information security requirements\n2. Implementation of IT security hardening program: infrastructure and network monitoring, encryption, whitelisting, data collection and reporting automation (based on risk profile and critical security controls).\n3. Establishment of repeatable information security risk management process (including ICS environment/area) and integrating it with the corporate ERM framework (Initiator and framework author).\n4. Establishment of steering committee on information security and creating IT security policy and internal baseline requirements.\n\nMember of the corporate IT steering committee.",
+                    "title": "Chief information security officer (CISO)",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 5049,
+                "name": "Swedbank",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQGIwfzke6i5bQ/company-logo_400_400/0/1607079180023?e=1700697600&v=beta&t=H9tDMTfk6cGJyaIB5g0QdY6JDM204Wbcqy0zbCPy_7Y",
+                "url": "https://www.linkedin.com/company/swedbank/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2007
+                },
+                "end": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2008
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2007
+                        },
+                        "end": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2008
+                        }
+                    },
+                    "company": "Swedbank",
+                    "description": "Implementing MiFID requirements in IT applications and coordinating cross-Baltic IT projects in custody services (Billing, Reporting services, Integration architecture).",
+                    "title": "Project Manager",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 432205,
+                "name": "Affecto Lietuva",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQEMYEzUspkyxg/company-logo_400_400/0/1519927804634?e=1700697600&v=beta&t=Ud8YN8Y4shtyaH2fTTVjD0XI2_dyjqikH_K4ZJtSvkw",
+                "url": "https://www.linkedin.com/company/affecto-lietuva/",
+                "employees": {
+                    "start": 201,
+                    "end": 500
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2002
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2007
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Lithuania",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2002
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2007
+                        }
+                    },
+                    "company": "Affecto Lietuva",
+                    "description": "Implementing various and complex IT projects. Business requirements analysis and documentation. Project management, communication with clients, change and issues management.",
+                    "title": "Project Manager",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [
+        {
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "role": "Civil cyber security expert in energy sector, Industrial Resources and Communications Services Group",
+            "company": {
+                "id": null,
+                "name": "NATO",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQEK47w4j4i5SQ/company-logo_400_400/0/1554461066550?e=1700697600&v=beta&t=EuIw6fvVhF_wUpLd6FGrB5pL4P4TK9TRzPFHw2L5aC4",
+                "url": "https://www.linkedin.com/company/nato/"
+            },
+            "cause": null,
+            "description": null
+        }
+    ],
+    "skills": [
+        "Document Management",
+        "Information Security Management",
+        "Quality Assurance",
+        "Requirements Analysis",
+        "Software Project Management",
+        "IT Management",
+        "Quality Management",
+        "Project Management",
+        "Business Process",
+        "IT Strategy",
+        "Project Planning",
+        "ISO 27001 Lead Auditor",
+        "Information Security",
+        "Business Analysis",
+        "Consulting",
+        "Management Consulting",
+        "Business Intelligence",
+        "Integration",
+        "Risk Management",
+        "Management"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

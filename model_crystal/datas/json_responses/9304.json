@@ -1,0 +1,572 @@
+{
+    "profile_id": "kirill-volkov-8477448a",
+    "first_name": "Kirill",
+    "last_name": "Volkov",
+    "sub_title": "CTO at KEK Entertainment",
+    "profile_picture": null,
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAABL5l7cBT1dGU1jsIF6NYdCiCEO1ETe7Hp0",
+    "object_urn": 318347191,
+    "birth_date": null,
+    "summary": "I started my PC journey when I was 12 years old. It was love at first sight. Year after year I develop simple apps, games and tools for myself. Like many \"geeks\" of that time, I researched operating systems, compressors and viruses and tried to write my own. Three volumes of Donald Knuth took pride of place on my bookshelf. After graduating from high school, I took up commercial development. I enjoy solving complex and demanding tasks. I am 40 but I still continue to learn and constantly find something new. By studying various programming paradigms, you can sometimes find really interesting solutions in their hybrid application, raising your and your company's productivity to a new level, often no matter what programming language or stack you use.",
+    "location": {
+        "country": "Cyprus",
+        "short": "Limassol",
+        "city": null,
+        "state": null,
+        "default": "Limassol, Cyprus"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [
+        {
+            "url": "https://github.com/volkovku/NUrumi",
+            "title": "NUrumi ECS Engine",
+            "description": "ECS engine with aiming to extensibility, balanced performance and free from codegeneration",
+            "image": "https://media.licdn.com/dms/image/sync/D4E27AQHvp9t4LuGQ9Q/articleshare-shrink_1280_800/0/1691644626412?e=1692954000&v=beta&t=TIB5vaJNyWsJqoWyRfFL6qNGV5X6dVAFnUj64lMrDpI"
+        }
+    ],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": []
+    },
+    "industry": "Mobile Games",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2003
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2009
+                }
+            },
+            "school": {
+                "name": "Moscow State Institute of Radio Engineering, Electronics and Automation (MIREA)",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "Master's Degree",
+            "field_of_study": "Faculty of Computing Machines and Networks"
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [],
+    "organizations": [],
+    "projects": [],
+    "publications": [],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 76573042,
+                "name": "KEK Entertainment",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQHVpt2xAiQ00w/company-logo_400_400/0/1635352999212?e=1700697600&v=beta&t=kiLEUQAsuyev4BY1qJmF45ucT8-GqFRZnimURgbPtbw",
+                "url": "https://www.linkedin.com/company/kek-entertainment/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Limassol, Cyprus",
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "KEK Entertainment",
+                    "description": "Build team from scratch. As a first tech-employer design, arhictect and implement both client and server sides of core game play of 3rd PVP mutilplayer shooter:\n- character controllers of different form-factors (mech, hover, tank, spiders);\n- weapons (different shooting modes, lot of trajectories, homing missiles);\n- dozen of simple and complex abilties (jumps, dots, roots, dashes and etc);\n- hi-preformance multi-threading server;\n- network syncronization, fragmentation, delta-compression;\n- client interpolation and extrapolation;\n- semi-authority client-server architecture;\n- AI for PvE elements and some kind of abilities;\n- performance optimizations.\n\n (Unity3D, C#, .Net Core 5, LiteNetLib, Entitas ECS).\n\nhttps://venturebeat.com/2021/11/01/kek-entertainment-raises-3-million-to-make-mobile-action-games/",
+                    "title": "Chief Technology Officer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Municorn",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Moscow, Moscow City, Russia",
+                    "date": {
+                        "start": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2020
+                        },
+                        "end": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2021
+                        }
+                    },
+                    "company": "Municorn",
+                    "description": "Design architecture and implemention of analytics solution for cohort LTV predictions based on Shifted-Beta-Geometrics algo.\n\nC#, Python, .Net Core 5, BigQuery, Postgres, Vue.js 2, Kubernetes.",
+                    "title": "Chief Technology Officer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1519079,
+                "name": "Pixonic",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQF8YOZNjQ5TSg/company-logo_400_400/0/1682670194920?e=1700697600&v=beta&t=n5hrOSBCd7OvPBQlMhe5DzkKbuotiu1HfGaA5A0iY80",
+                "url": "https://www.linkedin.com/company/pixonic/",
+                "employees": {
+                    "start": 201,
+                    "end": 500
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Moscow, Russian Federation",
+                    "date": {
+                        "start": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2017
+                        },
+                        "end": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2020
+                        }
+                    },
+                    "company": "Pixonic",
+                    "description": "Main responsibilities: \n- manage several server teams;\n- hiring;\n- budgets;\n- desing and implementation tactical and strategic plans to gain department capabilities.\n\nMy greates achievement on this position is an implementation from idea to production ready solution which allows to create meta-gameplay code fast and easy.\nKey points of solution:\n- distributed hi-performance server side (Orleans, PostgresSQL with sharding);\n- code sharing between client and server (allows reduce code dupliction and reduce product devepoment time);\n- hi-level abstractions which allows to isolate low-level implementation details from developers like network, database integration, transaction and etc. It's allows to involve client-side developers to implement meta-gameplay features. Thies means that one man can build all feature from scratch. It drastically reduce development time and errors;\n- a lot of power tools to achieve delivery, monitoring and configuring solution whithout developers.",
+                    "title": "Head of Server Development Department",
+                    "employment_type": null
+                },
+                {
+                    "location": "Moscow, Russian Federation",
+                    "date": {
+                        "start": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2017
+                        }
+                    },
+                    "company": "Pixonic",
+                    "description": "Architecture development and implementation of WWR game (server side). Decision making, project development planning and chosen technologies control.\n\nUsed technologies: C#, .Net 4.0, Visual Studio 2013, Photon Server, PostgreSQL 9, NHibernate, NUnit, Git, Asp.Net MVC, Redis, Scala",
+                    "title": "Team Lead",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1172655,
+                "name": "Svyaznoy",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQH9t4Se_K4-TQ/company-logo_400_400/0/1519904128396?e=1700697600&v=beta&t=xIyQ4CJqCiEWVFZ7lXiEjn1ZbVyjYpgjC4fi3UfOwZA",
+                "url": "https://www.linkedin.com/company/svyaznoy/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Moscow, Russian Federation",
+                    "date": {
+                        "start": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2014
+                        },
+                        "end": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2015
+                        }
+                    },
+                    "company": "Svyaznoy",
+                    "description": "Design and implementation both server and client of application \"Mobile Helper\"\u200b. \"Mobile Helper\" is an electronic catalog on a tablet which provides information about products like: product specifications, remains on POS and etc. Application allows to find products by specifications and heuristics. Also application allow make a sale from tablet.\n\nUsed technologies: Java 6 (Android 4.4), Java 7 (ESB WSO2), MySQL 5",
+                    "title": "Team Lead",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 3505793,
+                "name": "Starcard",
+                "logo": null,
+                "url": "https://www.linkedin.com/company/starcard/",
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Moscow, Russian Federation",
+                    "date": {
+                        "start": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2012
+                        },
+                        "end": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2014
+                        }
+                    },
+                    "company": "Starcard",
+                    "description": "Main responsibilities: design and implementing server-side components of a system (web applications, services, database, storages), design and implementing self-service and table-service client applications (POS-terminals).\nUsed technologies: C#, .Net 4.0, Visual Studio 2012, Azure, MS SQL 2012 (Azure), EF 4, NHibernate 3,  CastleWindsor, NUnit, Git, Asp.Net MVC, Asp.Net Web API, IOS (PhoneGap), Xamarin.",
+                    "title": "Software Architect",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Deutsche Bank",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Moscow, Russian Federation",
+                    "date": {
+                        "start": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2011
+                        },
+                        "end": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2012
+                        }
+                    },
+                    "company": "Deutsche Bank",
+                    "description": "Main responsibilities: refactoring and extending exists GUI application for tracking automated trading strategies.\nUsed technologies: C#, .Net 3.5, WPF, Oracle 10g, BL Toolkit, CastleWindsor.",
+                    "title": "Senior Software Engineer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Sitronics Telecom Solutions",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2010
+                },
+                "end": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2011
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Moscow, Russian Federation",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2010
+                        },
+                        "end": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2011
+                        }
+                    },
+                    "company": "Sitronics Telecom Solutions",
+                    "description": "Main responsibilities: implementing server-side component of National Corporate Assistant (this is MTS company web-application which allows corporate users manage billing hierarchy, accounts and services).\nUsed technologies: C#, .Net 4.0, Asp.Net MVC, Oracle 10g, BL Toolkit, Spring.Net",
+                    "title": "Senior Software Engineer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "CNet Content Solutions",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2007
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2010
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Moscow, Russian Federation",
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2007
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2010
+                        }
+                    },
+                    "company": "CNet Content Solutions",
+                    "description": "Main responsibilities: design and implementing a lot of internal applications and services (Partner Access \u2013 web-application which allows customer users track orders progress and claim suggestions; Wolverine \u2013 windows service which process huge data sheets from manufacturers and puts data in internal storages; Security System \u2013 security system for manage internal users rights; and other parts of a system)\nUsed technologies: C#, .Net 2.0, .Net 3.5, Windows Forms, Windows Services, Asp.Net WebForms, Asp.Net MVC, Asp.Net WebServices, MS SQL 2005, XSLT.",
+                    "title": "Principal Software Engineer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Investment Financial Company \u201cSOLID\u201d",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2006
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2007
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Moscow, Russian Federation",
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2006
+                        },
+                        "end": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2007
+                        }
+                    },
+                    "company": "Investment Financial Company \u201cSOLID\u201d",
+                    "description": "Main responsibilities: migrate back-end system (web-application and services) from Oracle Forms/Database to Asp.Net WebForms and MS SQL 2005.\nUsed technologies: C#, .Net 2.0, MS SQL Server 2005, Asp.Net, Oracle 8i, Oracle Forms 6.",
+                    "title": "Software Engineer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "State Education Institution of Higher Professional Education \u201cMoscow State Law Academy\u201d",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2005
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2006
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Moscow, Russian Federation",
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2005
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2006
+                        }
+                    },
+                    "company": "State Education Institution of Higher Professional Education \u201cMoscow State Law Academy\u201d",
+                    "description": "Main responsibilities: design and implementing system for manage personal and education data of students.\nUsed technologies: Delphi, MS SQL 2000.",
+                    "title": "Software Engineer",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Agile Methodologies",
+        "C#",
+        "Software Development",
+        "XML",
+        "Web Services",
+        ".NET",
+        "ASP.NET MVC",
+        "Microsoft SQL Server",
+        "Visual Studio",
+        "WPF",
+        "WinForms",
+        "XSLT",
+        "Databases",
+        "ASP.NET",
+        "Web Applications",
+        "SQL",
+        "Git",
+        "Software Project Management",
+        "Scrum",
+        "NUnit"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

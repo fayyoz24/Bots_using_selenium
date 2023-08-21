@@ -1,0 +1,461 @@
+{
+    "profile_id": "mark-wilson-8632581b",
+    "first_name": "Mark",
+    "last_name": "Wilson",
+    "sub_title": "Data Analyst and BI Reporting",
+    "profile_picture": "https://media.licdn.com/dms/image/C4E03AQEzpDaQqRL0NQ/profile-displayphoto-shrink_800_800/0/1655715577949?e=1697673600&v=beta&t=yFV-X_4bf3V38zq2bnrwwz0hi-DOfu16vunvogBM7ms",
+    "background_image": "https://media.licdn.com/dms/image/D4E16AQEEPjRG5uacJw/profile-displaybackgroundimage-shrink_350_1400/0/1680003586499?e=1697673600&v=beta&t=PzbyQ2AaBMNtFZKUaS9bZIeMaXtA5Z9Zg-oEg22wWq0",
+    "profile_type": "personal",
+    "entity_urn": "ACoAAAQhV8sBWc1QszfF7UXbBvTd71TTHZsSrYs",
+    "object_urn": 69294027,
+    "birth_date": null,
+    "summary": "As a data enthusiast with a passion for problem-solving, I bring a unique perspective to the table. My expertise lies in leveraging Python and SQL to extract meaningful insights from complex data sets. With over three years of experience in data analysis and visualization, I have honed my skills in manipulating data using SQL queries and Python scripts, and creating interactive visualizations using Tableau and Excel. I am always eager to learn and collaborate with others to tackle challenging data-driven problems.\n\nSELECT candidate_name, candidate_skillset \nFROM candidates \nWHERE candidate_experience >= 3 \nAND candidate_personality = 'fun and energetic' \nAND candidate_skillset LIKE '%Python%' \nAND candidate_skillset LIKE '%SQL%' \nORDER BY candidate_ambition DESC \nLIMIT 1;",
+    "location": {
+        "country": "Netherlands",
+        "short": "Blaricum, North Holland",
+        "city": "Blaricum",
+        "state": "North Holland",
+        "default": "Blaricum, North Holland, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "Afrikaans",
+                "proficiency": "PROFESSIONAL_WORKING"
+            },
+            {
+                "name": "Dutch",
+                "proficiency": "ELEMENTARY"
+            },
+            {
+                "name": "English",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ]
+    },
+    "industry": "Information Technology & Services",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "school": {
+                "name": "University of South Africa/Universiteit van Suid-Afrika",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQEgJnUP09rW9w/company-logo_400_400/0/1674543275315?e=1700697600&v=beta&t=gY9sUhn49TPkR8QwkSim9hFHKh1iN5NHWhVaKahWsZg",
+                "url": "https://www.linkedin.com/school/unisa/"
+            },
+            "degree_name": "Bachelor of Commerce (BCom)",
+            "field_of_study": "Business Administration and Management, General"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 1994
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 1994
+                }
+            },
+            "school": {
+                "name": "VZAP",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "Computer Programming",
+            "field_of_study": "Databases, COBOL"
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [
+        {
+            "name": "Tableau Desktop [3-Course Bundle]",
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2023
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Udemy",
+            "url": "http://ude.my/c02b6b17-07b8-4b3f-82f0-be0cd1c9b859",
+            "license_number": "c02b6b17-07b8-4b3f-82f0-be0cd1c9b859",
+            "display_source": "ude.my",
+            "company": {
+                "id": null,
+                "name": "Udemy",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQFQr9e68bBOPQ/company-logo_400_400/0/1626275253364?e=1700697600&v=beta&t=NbESr4MHBCDFYGXOE7Q6_FRU7VTOES62r3OtQt9nvCo",
+                "url": null
+            }
+        },
+        {
+            "name": "Data Analysis with R Programming",
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2023
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Coursera",
+            "url": "https://www.coursera.org/account/accomplishments/certificate/UT5F2UL5JQ29",
+            "license_number": "UT5F2UL5JQ29",
+            "display_source": "coursera.org",
+            "company": {
+                "id": null,
+                "name": "Coursera",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQGexnfBxeEG-g/company-logo_400_400/0/1608039227697?e=1700697600&v=beta&t=oKIt6loOByFMfTbXJsSV0MxzKtgkMvIZ2QTzkZrNq70",
+                "url": null
+            }
+        },
+        {
+            "name": "Google Data Analytics Specialization",
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2023
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Coursera",
+            "url": "https://www.coursera.org/account/accomplishments/specialization/certificate/EM7A72N39LUT",
+            "license_number": "EM7A72N39LUT",
+            "display_source": "coursera.org",
+            "company": {
+                "id": null,
+                "name": "Coursera",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQGexnfBxeEG-g/company-logo_400_400/0/1608039227697?e=1700697600&v=beta&t=oKIt6loOByFMfTbXJsSV0MxzKtgkMvIZ2QTzkZrNq70",
+                "url": null
+            }
+        },
+        {
+            "name": "Prepare Data for Exploration",
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2023
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Coursera",
+            "url": "https://www.coursera.org/account/accomplishments/certificate/DLMV9UELR8S6",
+            "license_number": "DLMV9UELR8S6",
+            "display_source": "coursera.org",
+            "company": {
+                "id": null,
+                "name": "Coursera",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQGexnfBxeEG-g/company-logo_400_400/0/1608039227697?e=1700697600&v=beta&t=oKIt6loOByFMfTbXJsSV0MxzKtgkMvIZ2QTzkZrNq70",
+                "url": null
+            }
+        },
+        {
+            "name": "Process Data from Dirty to Clean",
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2023
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Coursera",
+            "url": "https://www.coursera.org/account/accomplishments/certificate/LKY3H3D3CSP5",
+            "license_number": "LKY3H3D3CSP5",
+            "display_source": "coursera.org",
+            "company": {
+                "id": null,
+                "name": "Coursera",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQGexnfBxeEG-g/company-logo_400_400/0/1608039227697?e=1700697600&v=beta&t=oKIt6loOByFMfTbXJsSV0MxzKtgkMvIZ2QTzkZrNq70",
+                "url": null
+            }
+        },
+        {
+            "name": "Share Data Through the Art of Visualization",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2023
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Coursera",
+            "url": "https://www.coursera.org/account/accomplishments/certificate/YAMTWCGQTBDH",
+            "license_number": "YAMTWCGQTBDH",
+            "display_source": "coursera.org",
+            "company": {
+                "id": null,
+                "name": "Coursera",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQGexnfBxeEG-g/company-logo_400_400/0/1608039227697?e=1700697600&v=beta&t=oKIt6loOByFMfTbXJsSV0MxzKtgkMvIZ2QTzkZrNq70",
+                "url": null
+            }
+        }
+    ],
+    "organizations": [],
+    "projects": [],
+    "publications": [],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": null,
+                "name": null,
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Blaricum, North Holland, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": null,
+                    "description": "Freelance positions with various clients in the fields of Data Cleaning, Data Analysis, Data Visualization. Regular use of the following software tools: Tableau, R, Python, Microsoft Excel, Sheets and more.",
+                    "title": "Freelance Data Analyst",
+                    "employment_type": "Freelance"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Tallypro People Counting",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "City of Johannesburg, Gauteng, South Africa",
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "day": null,
+                            "year": 2017
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "Tallypro People Counting",
+                    "description": "I was responsible for all the data related activities. These included Microsoft SQL Server database design and maintenance. Writing SQL queries for reports. Creating data visualizations in Microsoft Excel and Tableau. Data analysis and visualization in R. Embedded C code in the IoT devices. The data was presented on the web using .NET based web generated by ASPRunner SaaS.",
+                    "title": "Data Manager",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Security-Store Web Store",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Johannesburg Area, South Africa",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2021
+                        }
+                    },
+                    "company": "Security-Store Web Store",
+                    "description": "Managed and operated a web store based on Shopmania SaaS initially and transitioned to a WordPress self-hosted solution. I handled all aspects of the backend including product updates, integration with logistics companies, integration with accounting system, user management, backups etc.",
+                    "title": "Webstore Webmaster",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Home Security Centre",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2010
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "City of Johannesburg, Gauteng, South Africa",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2010
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2015
+                        }
+                    },
+                    "company": "Home Security Centre",
+                    "description": "Operated a bricks and mortar retail store. Implemented transition from paper-based invoicing to computerized accounting and inventory system for all stores in the group. Designed and coded a repairs management database based on Symantec Q&A DBMS",
+                    "title": "Retail Manager",
+                    "employment_type": "Full-time"
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "WordPress",
+        "Accounting",
+        "Distribution Logistics",
+        "Web Design",
+        "Calculation and analysis in SQL and spreadsheets",
+        "Data-driven Decision Making",
+        "Data Integrity",
+        "Data Analytics",
+        "SQL",
+        "Databases",
+        "English",
+        "Google Sheets",
+        "Data Visualization",
+        "Tableau",
+        "R (Programming Language)",
+        "Data Analysis",
+        "Data Cleaning",
+        "Zoho",
+        "PHP",
+        "Visual Basic for Applications (VBA)"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

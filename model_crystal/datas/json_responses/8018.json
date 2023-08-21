@@ -1,0 +1,519 @@
+{
+    "profile_id": "todorstefanov",
+    "first_name": "Todor",
+    "last_name": "Stefanov",
+    "sub_title": "Associate Professor at Leiden University",
+    "profile_picture": null,
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAAAF973sBo_ImAPCwigC55-k2AT_5KioyfMU",
+    "object_urn": 25030523,
+    "birth_date": null,
+    "summary": null,
+    "location": {
+        "country": "Netherlands",
+        "short": "The Hague, South Holland",
+        "city": "The Hague",
+        "state": "South Holland",
+        "default": "The Hague, South Holland, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": []
+    },
+    "industry": "Research",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2000
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2004
+                }
+            },
+            "school": {
+                "name": "Leiden University",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQEFlK1wNecYbA/company-logo_400_400/0/1519855876129?e=1700697600&v=beta&t=KwFN5kUM6lyLgjAXaylWnuNQ6g0XLwvWDjTK4Ug_mEg",
+                "url": "https://www.linkedin.com/school/leiden-university/"
+            },
+            "degree_name": "PhD",
+            "field_of_study": "Computer Science"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 1993
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 1998
+                }
+            },
+            "school": {
+                "name": null,
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "MSc",
+            "field_of_study": "Computer Engineering"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 1988
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 1993
+                }
+            },
+            "school": {
+                "name": "Vocational High Technical School of Microprocessor Engineering",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "Specialist in Microprocessor Engineering",
+            "field_of_study": "Computer Engineering"
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "DaedalusRT",
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2009
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "description": "System-level framework for programming streaming applications on embedded multi-core platforms\n\n1) parallelization \n2) hard real-time scheduling\n3) code generation",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Todor",
+                    "last_name": "Stefanov",
+                    "name": null,
+                    "headline": "Associate Professor at Leiden University"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Hristo",
+                    "last_name": "Nikolov",
+                    "name": null,
+                    "headline": "R&D Manager at Honeywell Process Solutions"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Teddy",
+                    "last_name": "Zhai",
+                    "name": null,
+                    "headline": "software, automotive, networking stack"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Mohamed",
+                    "last_name": "Bamakhrama",
+                    "name": null,
+                    "headline": "Senior HW System Architect at Renesas Electronics"
+                }
+            ]
+        }
+    ],
+    "publications": [
+        {
+            "name": "Exploiting Just-enough Parallelism when Mapping Streaming Applications in Hard Real-time Systems",
+            "publisher": "Accepted for publication in proceedings of the 50th Design Automation Conference (DAC 2013)",
+            "url": null,
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2013
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Todor",
+                    "last_name": "Stefanov",
+                    "name": null,
+                    "headline": "Associate Professor at Leiden University"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Mohamed",
+                    "last_name": "Bamakhrama",
+                    "name": null,
+                    "headline": "Senior HW System Architect at Renesas Electronics"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Teddy",
+                    "last_name": "Zhai",
+                    "name": null,
+                    "headline": "software, automotive, networking stack"
+                }
+            ]
+        },
+        {
+            "name": "A Methodology for Automated Design of Hard-Real-Time Embedded Streaming Systems",
+            "publisher": null,
+            "url": null,
+            "date": {
+                "month": null,
+                "day": null,
+                "year": null
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Todor",
+                    "last_name": "Stefanov",
+                    "name": null,
+                    "headline": "Associate Professor at Leiden University"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Mohamed",
+                    "last_name": "Bamakhrama",
+                    "name": null,
+                    "headline": "Senior HW System Architect at Renesas Electronics"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Teddy",
+                    "last_name": "Zhai",
+                    "name": null,
+                    "headline": "software, automotive, networking stack"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Hristo",
+                    "last_name": "Nikolov",
+                    "name": null,
+                    "headline": "R&D Manager at Honeywell Process Solutions"
+                }
+            ]
+        }
+    ],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 6077,
+                "name": "Leiden University",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQEFlK1wNecYbA/company-logo_400_400/0/1519855876129?e=1700697600&v=beta&t=KwFN5kUM6lyLgjAXaylWnuNQ6g0XLwvWDjTK4Ug_mEg",
+                "url": "https://www.linkedin.com/school/leiden-university/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2008
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2014
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Leiden University",
+                    "description": "I'm the head of the Leiden Embedded Research Center (LERC) of the Leiden Institute of Advanced Computer Science (LIACS) at Leiden University.\nLERC is a medium-size research group which has a strong track record in the area of system-level modelling and synthesis, programming, and implementation of (real-time) heterogeneous embedded systems.",
+                    "title": "Associate Professor",
+                    "employment_type": null
+                },
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2008
+                        },
+                        "end": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2014
+                        }
+                    },
+                    "company": "Leiden University",
+                    "description": null,
+                    "title": "Assistant Professor",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 166529,
+                "name": "Delft University of Technology",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQFwaGpwaod9mQ/company-logo_400_400/0/1670699851986?e=1700697600&v=beta&t=x0gehJn4urFszU2u5SdBucc2zlxk3Ja4h8oWEtjCIYo",
+                "url": "https://www.linkedin.com/school/tudelft/",
+                "employees": {
+                    "start": 5001,
+                    "end": 10000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2007
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2008
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2007
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2008
+                        }
+                    },
+                    "company": "Delft University of Technology",
+                    "description": null,
+                    "title": "Senior Researcher",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 6077,
+                "name": "Leiden University",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQEFlK1wNecYbA/company-logo_400_400/0/1519855876129?e=1700697600&v=beta&t=KwFN5kUM6lyLgjAXaylWnuNQ6g0XLwvWDjTK4Ug_mEg",
+                "url": "https://www.linkedin.com/school/leiden-university/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2000
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2007
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2004
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2007
+                        }
+                    },
+                    "company": "Leiden University",
+                    "description": null,
+                    "title": "PostDoc Researcher",
+                    "employment_type": null
+                },
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2000
+                        },
+                        "end": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2004
+                        }
+                    },
+                    "company": "Leiden University",
+                    "description": null,
+                    "title": "Research Assistant",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Innovative Micro Systems Ltd., Sofia, Bulgaria",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 1997
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2000
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 12,
+                            "day": null,
+                            "year": 1997
+                        },
+                        "end": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2000
+                        }
+                    },
+                    "company": "Innovative Micro Systems Ltd., Sofia, Bulgaria",
+                    "description": null,
+                    "title": "Reserach & Development Engineer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "ELSIEL Ltd., Sofia, Bulgaria",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 1995
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 1997
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 1995
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 1997
+                        }
+                    },
+                    "company": "ELSIEL Ltd., Sofia, Bulgaria",
+                    "description": null,
+                    "title": "HW/SW Designer of Digital Electronic Devices",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Parallel Computing",
+        "LaTeX",
+        "Algorithms",
+        "High Performance Computing",
+        "Computer Science",
+        "Java",
+        "Eclipse",
+        "Image Processing",
+        "Artificial Intelligence",
+        "Software Development",
+        "C++",
+        "Embedded Systems",
+        "XML",
+        "Programming",
+        "Matlab",
+        "Signal Processing",
+        "C"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

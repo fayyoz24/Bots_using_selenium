@@ -1,0 +1,649 @@
+{
+    "profile_id": "emanuele-vannacci",
+    "first_name": "Emanuele ",
+    "last_name": "Vannacci",
+    "sub_title": "PhD student at Vrije Universiteit Amsterdam",
+    "profile_picture": "https://media.licdn.com/dms/image/C5603AQHWgtKzPtpzGg/profile-displayphoto-shrink_800_800/0/1560937224716?e=1697673600&v=beta&t=06QWh9w5tvqoJUxL6abGdSzb_zqbKxyTs7FeRg69WvA",
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAAB4A5bMBUco_wpmecnhb7honk9Q2EQslpGc",
+    "object_urn": 503375283,
+    "birth_date": null,
+    "summary": "I joined VUSec as a PhD student. I investigate the security aspects of modern hardware and software systems. Currently, I work on compiler-based solutions for memory safety.",
+    "location": {
+        "country": "Netherlands",
+        "short": "Amsterdam, North Holland",
+        "city": "Amsterdam",
+        "state": "North Holland",
+        "default": "Amsterdam, North Holland, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "IT",
+            "language": "it"
+        },
+        "supported_locales": [
+            {
+                "country": "IT",
+                "language": "it"
+            },
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": []
+    },
+    "industry": "Computer & Network Security",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "school": {
+                "name": "University of Rome Tor Vergata",
+                "logo": "https://media.licdn.com/dms/image/D4D0BAQFVv-OmZpf_7g/company-logo_400_400/0/1688459881941?e=1700697600&v=beta&t=YiGlQqZgdNaTK6RJctA0C6APnuFL2hmnIjT6_qw4y1E",
+                "url": "https://www.linkedin.com/school/unitorvergata/"
+            },
+            "degree_name": "Master's degree",
+            "field_of_study": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "school": {
+                "name": "University of Rome Tor Vergata",
+                "logo": "https://media.licdn.com/dms/image/D4D0BAQFVv-OmZpf_7g/company-logo_400_400/0/1688459881941?e=1700697600&v=beta&t=YiGlQqZgdNaTK6RJctA0C6APnuFL2hmnIjT6_qw4y1E",
+                "url": "https://www.linkedin.com/school/unitorvergata/"
+            },
+            "degree_name": "Bachelor's degree",
+            "field_of_study": "Computer Engineering"
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "The Lord of the DIMMs: Detection and Analysis of Hardware-based Rowhammer Mitigations",
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "description": "Evaluation of the effectiveness of hardware-based defenses against Rowhammer attacks. The project has involved the memory controller reverse-engineering for the Intel Kaby Lake CPU. Side channel exploitation for DRAM refresh operations. Testing DDR3 and DDR4 DRAM DIMMs implementing Rowhammer mitigations.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Emanuele ",
+                    "last_name": "Vannacci",
+                    "name": null,
+                    "headline": "PhD student at Vrije Universiteit Amsterdam"
+                }
+            ]
+        },
+        {
+            "title": "Big Data batch processing and analytics for smart plugs sensor data with Apache Spark on Google DataProc",
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "description": "The aim of the application is the batch processing of data originating from sensors placed on smart plugs in different houses. The measurement data is injected into a distributed file system using a data processing and distribution framework. The so created data lake is later used for answering three specific queries mostly about time windowed descriptive statistics using a fault-tolerant framework capable of processing massive amounts of data. The results are stored on the same distributed storage system and later redirected and saved on a NoSQL database.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Emanuele ",
+                    "last_name": "Vannacci",
+                    "name": null,
+                    "headline": "PhD student at Vrije Universiteit Amsterdam"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Laura",
+                    "last_name": "Trivelloni",
+                    "name": null,
+                    "headline": "Software Quality Engineer presso Red Hat"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Ovidiu Daniel",
+                    "last_name": "Barba",
+                    "name": null,
+                    "headline": "Senior Software Engineer @ Kindred Group plc"
+                }
+            ]
+        },
+        {
+            "title": "Greedy algorithm for scheduling orders",
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "description": null,
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Emanuele ",
+                    "last_name": "Vannacci",
+                    "name": null,
+                    "headline": "PhD student at Vrije Universiteit Amsterdam"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Ovidiu Daniel",
+                    "last_name": "Barba",
+                    "name": null,
+                    "headline": "Senior Software Engineer @ Kindred Group plc"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Laura",
+                    "last_name": "Trivelloni",
+                    "name": null,
+                    "headline": "Software Quality Engineer presso Red Hat"
+                }
+            ]
+        },
+        {
+            "title": "CINI challenge - Smart Cities",
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "description": null,
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Emanuele ",
+                    "last_name": "Vannacci",
+                    "name": null,
+                    "headline": "PhD student at Vrije Universiteit Amsterdam"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Laura",
+                    "last_name": "Trivelloni",
+                    "name": null,
+                    "headline": "Software Quality Engineer presso Red Hat"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Ovidiu Daniel",
+                    "last_name": "Barba",
+                    "name": null,
+                    "headline": "Senior Software Engineer @ Kindred Group plc"
+                }
+            ]
+        },
+        {
+            "title": "Adaptive Web Server",
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "description": "Web Server developed in C using the Berkeley API",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Emanuele ",
+                    "last_name": "Vannacci",
+                    "name": null,
+                    "headline": "PhD student at Vrije Universiteit Amsterdam"
+                }
+            ]
+        },
+        {
+            "title": "Parsec",
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "description": "Web Application for the management and display of data from satellites. Use of JPA, JDBC and Hibernate. Database Management and PostgreSQL.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Emanuele ",
+                    "last_name": "Vannacci",
+                    "name": null,
+                    "headline": "PhD student at Vrije Universiteit Amsterdam"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Laura",
+                    "last_name": "Trivelloni",
+                    "name": null,
+                    "headline": "Software Quality Engineer presso Red Hat"
+                }
+            ]
+        }
+    ],
+    "publications": [
+        {
+            "name": "SMASH: Synchronized Many-sided Rowhammer Attacks From JavaScript.",
+            "publisher": "USENIX Sec",
+            "url": "https://download.vusec.net/papers/smash_sec21.pdf",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2021
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Emanuele ",
+                    "last_name": "Vannacci",
+                    "name": null,
+                    "headline": "PhD student at Vrije Universiteit Amsterdam"
+                }
+            ]
+        },
+        {
+            "name": "TRRespass: Exploiting the Many Sides of Target Row Refresh",
+            "publisher": "IEEE S&P 2020",
+            "url": "https://arxiv.org/abs/2004.01807",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2020
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Emanuele ",
+                    "last_name": "Vannacci",
+                    "name": null,
+                    "headline": "PhD student at Vrije Universiteit Amsterdam"
+                }
+            ]
+        }
+    ],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 5570,
+                "name": "Vrije Universiteit Amsterdam (VU Amsterdam)",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQGFG964atm3Ow/company-logo_400_400/0/1682661887840?e=1700697600&v=beta&t=bmk2N5LswEoQY_WJO0VySuxsWNNlfjU6XyPjkGaINeo",
+                "url": "https://www.linkedin.com/school/vrije-universiteit-amsterdam/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amsterdam Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Vrije Universiteit Amsterdam (VU Amsterdam)",
+                    "description": "PhD student in system security @VUSec.\n- Author of TRRespass, the first black-box fuzzer that targets DRAM chips and test them against the Rowhammer bug.\n- I investigate memory safety solutions for modern applications that can be integrated into compiler infrastructures. \n- Teaching-assistant for \"Operating Systems\" at the bachelor level.",
+                    "title": "PhD Student",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1035,
+                "name": "Microsoft",
+                "logo": "https://media.licdn.com/dms/image/C560BAQE88xCsONDULQ/company-logo_400_400/0/1618231291419?e=1700697600&v=beta&t=gohrejCATVB1ukPwpEYzd2garcSVcEoHmQjS3W-NJk8",
+                "url": "https://www.linkedin.com/company/microsoft/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "Microsoft",
+                    "description": null,
+                    "title": "Security Research Intern",
+                    "employment_type": "Internship"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 5570,
+                "name": "Vrije Universiteit Amsterdam (VU Amsterdam)",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQGFG964atm3Ow/company-logo_400_400/0/1682661887840?e=1700697600&v=beta&t=bmk2N5LswEoQY_WJO0VySuxsWNNlfjU6XyPjkGaINeo",
+                "url": "https://www.linkedin.com/school/vrije-universiteit-amsterdam/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amsterdam Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "Vrije Universiteit Amsterdam (VU Amsterdam)",
+                    "description": "I made research on the field of hardware vulnerabilities about my Master's thesis at the Computer Science department of the Vrije University Amsterdam. I collaborated with the VUsec group working on Rowhammer attacks and defenses.",
+                    "title": "Visiting Student",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 10372340,
+                "name": "Plan Adv",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQHYfX0eFWgxpg/company-logo_400_400/0/1533145797128?e=1700697600&v=beta&t=IiUvH7XCjCFevSu6YqS8mBD_tAjS11RveDgWK4hancM",
+                "url": "https://www.linkedin.com/company/plan-adv/",
+                "employees": {
+                    "start": 2,
+                    "end": 10
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Roma",
+                    "date": {
+                        "start": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "Plan Adv",
+                    "description": "I work as backend and Android developer. \n-  I collect user stories and translate them into requirements.  \n- Design and Implementation of software system that include an Android App and RESTful service backend.",
+                    "title": "Develoer",
+                    "employment_type": "Freelance"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 15190,
+                "name": "University of Rome Tor Vergata",
+                "logo": "https://media.licdn.com/dms/image/D4D0BAQFVv-OmZpf_7g/company-logo_400_400/0/1688459881941?e=1700697600&v=beta&t=YiGlQqZgdNaTK6RJctA0C6APnuFL2hmnIjT6_qw4y1E",
+                "url": "https://www.linkedin.com/school/unitorvergata/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Rome, Italy",
+                    "date": {
+                        "start": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2017
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2018
+                        }
+                    },
+                    "company": "University of Rome Tor Vergata",
+                    "description": "I am responsible for practical part of the course in Algorithms Engineering at the BSc in Computer Engineering. \n- I carried out practical lectures on Python and algorithms.\n - I run online tutoring service for students \n- I drafted and evaluated lab assignments",
+                    "title": "Assistant Teaching",
+                    "employment_type": "Contract"
+                },
+                {
+                    "location": "Rome, Italy",
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2017
+                        },
+                        "end": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2018
+                        }
+                    },
+                    "company": "University of Rome Tor Vergata",
+                    "description": "I am assistant teaching for the course \"Foundations of Informatics\" at the BSc in Computer Engineering.",
+                    "title": "Assistant Teaching",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 10468191,
+                "name": "TEDx TorVergataU",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQESGcxi1D817w/company-logo_400_400/0/1519917607785?e=1700697600&v=beta&t=5zZnLbCZHF2eoTVKLK3w2kxp7kCu4qNlTH74xRJaz9w",
+                "url": "https://www.linkedin.com/company/tedx-torvergatauniversity/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Rome",
+                    "date": {
+                        "start": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2016
+                        }
+                    },
+                    "company": "TEDx TorVergataUniversity",
+                    "description": "I designed and developed the official Android app for th event \"TEDx TorVergataUniversity\".",
+                    "title": "Software Developer",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Android Development",
+        "Spring MVC",
+        "Spring Boot",
+        "SQLite",
+        "MongoDB",
+        "C++",
+        "C",
+        "Python",
+        "Java",
+        "Sistemi distribuiti",
+        "Sistemi operativi",
+        "Linux",
+        "SQL",
+        "Node.js",
+        "apache storm",
+        "Database Management System (DBMS)",
+        "Amazon Web Services",
+        "Cloud computing",
+        "Sviluppo Android",
+        "Android"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

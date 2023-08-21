@@ -1,0 +1,546 @@
+{
+    "profile_id": "fedor-zorin-a8641210b",
+    "first_name": "Fedor",
+    "last_name": "Zorin",
+    "sub_title": "Electrical & Electronic Engineer",
+    "profile_picture": null,
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAABulxIYBNWHxrECVJ6sb1toons9iexvnd84",
+    "object_urn": 463848582,
+    "birth_date": null,
+    "summary": "A resourceful and analytically minded electronic engineer with a proactive mentality, and strong enthusiasm for learning and seeking new challenges. Experienced in the field of embedded systems design, electrical hardware design, integrated circuit design and software design. Possess an intuitive understanding of coding languages and computer architecture. In love with the creative aspect of engineering and software design.",
+    "location": {
+        "country": "Cyprus",
+        "short": "Limassol",
+        "city": null,
+        "state": null,
+        "default": "Limassol, Cyprus"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "English",
+                "proficiency": "FULL_PROFESSIONAL"
+            },
+            {
+                "name": "Russian",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ]
+    },
+    "industry": "Electrical & Electronic Manufacturing",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "school": {
+                "name": "Fontys University of Applied Sciences",
+                "logo": "https://media.licdn.com/dms/image/C560BAQHoPshjTmIrAg/company-logo_400_400/0/1519856033175?e=1700697600&v=beta&t=0qGzAv6PuQje0RGiJ7HkFVuTY5RW0pmusC4QImvaao4",
+                "url": "https://www.linkedin.com/school/fontys-hogescholen/"
+            },
+            "degree_name": "Bachelor\u2019s Degree",
+            "field_of_study": "Electrical and Electronics Engineering"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2007
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "school": {
+                "name": "The Herritage Private School",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "High School",
+            "field_of_study": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "Automated Gardener",
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "description": "A semester-7 university half-year project with the premise to create an automated gardener prototype with a budget of just 200 euros. The prototype was supposed to continuously monitor plants, provide them with water and nutrients and report on the condition of the garden to a user. The team consisted of 5 engineering students: 3 mechanical, 1 mechatronic and 1 electrical. My role as an electrical embedded engineer was to implement a system for periodically identifying the growing state of the plant as well its health condition based on the color of its skin. For this implementation I used a raspberry pi and a Sony Playstation 2 camera. I performed a literature research on the video analysis software based on color and shapes and later composed and integrated the software with desired functionality into a raspberry pi. The final product was capable of identifying the ripeness of the plant based on its size and health condition based on its color as expected.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Fedor",
+                    "last_name": "Zorin",
+                    "name": null,
+                    "headline": "Electrical & Electronic Engineer"
+                }
+            ]
+        },
+        {
+            "title": "Digital Design: Digital Audio Systems Project",
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "description": "This assignment was about working with a system through which audio signals would be sent at a bandwidth of 2MHz. The system was build in FPGA and featured both transmitter and receiver and had one channel for audio stereo signal, and another channel for speech, both encoded through HDB3. Every student was supposed to do a detailed research on every element of the assignment and realize it in HDL Designer.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Fedor",
+                    "last_name": "Zorin",
+                    "name": null,
+                    "headline": "Electrical & Electronic Engineer"
+                }
+            ]
+        },
+        {
+            "title": "EXPO: Pillbox Reminder",
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "description": "This project's aim was about building an electronic pill container-dispenser, with automatic reminder feature. The results would later be documented and presented to the first year students as a second semester project. The tasks of designing each part of the device were split between the members of the group, which would later collaborate in order to make them work all together. My role was to design a functional software application, with direct access to the device, for which i have chosen Python for it's simple syntax and functionality on every major operating system.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Fedor",
+                    "last_name": "Zorin",
+                    "name": null,
+                    "headline": "Electrical & Electronic Engineer"
+                }
+            ]
+        },
+        {
+            "title": "EXPO: Wireless Bedroom Light",
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "description": "This project's aim was to design and test a lighting system with multiple switches, with a brightness regulator, all connecting to a master switch through a wireless connection. This system was supposed to be able to be easily integrated into a common house lighting circuitry. My major role in the group work was to design a circuit through which an Arduino would directly control the brightness of the light with just PWM output. As well as that i was responsible for designing and printing the PCBs for every circuit in the system.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Fedor",
+                    "last_name": "Zorin",
+                    "name": null,
+                    "headline": "Electrical & Electronic Engineer"
+                }
+            ]
+        },
+        {
+            "title": "Embedded Connectivity: Hexapod Mini Project",
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "description": "In this project two teams working on either server or a robot spider were supposed to collaborate in order to make the spider move by commands send to it from the webpage via wireless communication. The spider was also supposed to be able to send back the ranging distance to the server. Being part of the server team, my task was to create the webpage, with implemented ajax, and allow it to communicate with the first microcontroller, which would use Bluetooth to later talk to the robot. ",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Fedor",
+                    "last_name": "Zorin",
+                    "name": null,
+                    "headline": "Electrical & Electronic Engineer"
+                }
+            ]
+        },
+        {
+            "title": "EXPO: GAPV Electric Steering Part",
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "description": "This assignment was given to us by a dutch startup company GAPV. As a group of 4 mechanical 2 electrical engineers we had design an electrical steering mechanism for an electric three wheel vehicle. By the end of 10 weeks, we were able to build and test a smaller size prototype, which has satisfied the customer's initial requirements. As a Reporter/Presenter, i was responsible for demonstrating and explaining the final result to the customer, as well as publicly presenting it to the public.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Fedor",
+                    "last_name": "Zorin",
+                    "name": null,
+                    "headline": "Electrical & Electronic Engineer"
+                }
+            ]
+        },
+        {
+            "title": "IOT: Jamesville",
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "description": "This project simulation was designed in a way to give first year students some experience about problems which a real company would face. As a newly formed team of young engineers we were supposed to save and stabilize the economy of an American bicycle company branch, situated in Netherlands. As a sales engineer, i was responsible for all negotiations with customers and suppliers, as well as any interested party from outside of the company.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Fedor",
+                    "last_name": "Zorin",
+                    "name": null,
+                    "headline": "Electrical & Electronic Engineer"
+                }
+            ]
+        }
+    ],
+    "publications": [],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 208647,
+                "name": "Prodrive Technologies",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQFLdOv17bPbmw/company-logo_400_400/0/1615202775557?e=1700697600&v=beta&t=bXOPFtP_rEOTHXR95hTFPY7CiDq5ONVeGu5RM1hN3lg",
+                "url": "https://www.linkedin.com/company/prodrivetechnologies/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Eindhoven, North Brabant, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "Prodrive Technologies",
+                    "description": null,
+                    "title": "Embedded Software Designer",
+                    "employment_type": "Full-time"
+                },
+                {
+                    "location": "Eindhoven Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2020
+                        }
+                    },
+                    "company": "Prodrive Technologies",
+                    "description": null,
+                    "title": "FPGA Designer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 8694,
+                "name": "Fontys University of Applied Sciences",
+                "logo": "https://media.licdn.com/dms/image/C560BAQHoPshjTmIrAg/company-logo_400_400/0/1519856033175?e=1700697600&v=beta&t=0qGzAv6PuQje0RGiJ7HkFVuTY5RW0pmusC4QImvaao4",
+                "url": "https://www.linkedin.com/school/fontys-hogescholen/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Eindhoven Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "Fontys University of Applied Sciences",
+                    "description": null,
+                    "title": "Project/Research Assistant",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 10915808,
+                "name": "ARION",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQFCte9C4syRAA/company-logo_400_400/0/1628494573792?e=1700697600&v=beta&t=mfSvMc-CY91qjPZS4msefJZTIBQipJxJNhLXAax-GvM",
+                "url": "https://www.linkedin.com/company/ato-gear/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Eindhoven Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2017
+                        },
+                        "end": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2018
+                        }
+                    },
+                    "company": "ARION",
+                    "description": null,
+                    "title": "Electrical Engineering Graduation Intern",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 10915808,
+                "name": "ARION",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQFCte9C4syRAA/company-logo_400_400/0/1628494573792?e=1700697600&v=beta&t=mfSvMc-CY91qjPZS4msefJZTIBQipJxJNhLXAax-GvM",
+                "url": "https://www.linkedin.com/company/ato-gear/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Eindhoven Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2017
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2017
+                        }
+                    },
+                    "company": "ARION",
+                    "description": null,
+                    "title": "Embedded System Engineer (Part time)",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1088,
+                "name": "NXP Semiconductors",
+                "logo": "https://media.licdn.com/dms/image/C510BAQFopDEhRcpz9g/company-logo_400_400/0/1519855915315?e=1700697600&v=beta&t=-zPjMD2Hs2AtI3vtvQgv9NaE_uNvi4UlCq_LataCqvo",
+                "url": "https://www.linkedin.com/company/nxp-semiconductors/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Eindhoven Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2016
+                        }
+                    },
+                    "company": "NXP Semiconductors",
+                    "description": null,
+                    "title": "Engineering Intern",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Embedded Systems",
+        "C",
+        "VHDL",
+        "Python",
+        "Electronics",
+        "CAN bus",
+        "LIN bus",
+        "Teamwork",
+        "Research",
+        "Presentation Skills",
+        "HTML",
+        "PHP",
+        "NI Multisim",
+        "Doxygen",
+        "C#",
+        "Linux",
+        "SQLite",
+        "Eagle PCB",
+        "System Testing",
+        "LabVIEW"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

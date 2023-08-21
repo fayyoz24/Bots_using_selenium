@@ -1,0 +1,795 @@
+{
+    "profile_id": "nestor-aguirre-4189a4171",
+    "first_name": "Nestor",
+    "last_name": "Aguirre",
+    "sub_title": "Scientific Software Developer at Software for Chemistry & Materials",
+    "profile_picture": "https://media.licdn.com/dms/image/C4E03AQGetCeEo9JYUA/profile-displayphoto-shrink_800_800/0/1588427005565?e=1697673600&v=beta&t=f-tePjXgvVuiK2rk3jRdjcgy6l4TIbFXamHjdpfctcE",
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAACjnQ1QBbxkhMg54Dcam5W-3eSgLNoOkJZY",
+    "object_urn": 686244692,
+    "birth_date": null,
+    "summary": "My background includes a strong proficiency in developing mathematical models and writing large computer codes applied to physical and chemical models. My programming skills include C/C++, Java, Python, Fortran (77-2013) languages, with considerable experience in high-performance computing. I have a large experience in software development to simulate a wide variety of physical problems, which span across electronic structure calculations, massive gene expression data analysis, structure-activity relationships, molecular fragmentation, laser-surfaces interactions and developing models for global optimization. I am very familiar with writing technical reports and scientific articles (20 papers with 270 citations to date), creating and giving technical presentations for international conferences and mentoring people. \n",
+    "location": {
+        "country": "Netherlands",
+        "short": "Amsterdam, North Holland",
+        "city": "Amsterdam",
+        "state": "North Holland",
+        "default": "Amsterdam, North Holland, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "English",
+                "proficiency": "FULL_PROFESSIONAL"
+            },
+            {
+                "name": "Spanish",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ]
+    },
+    "industry": "Computer Software",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2008
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "school": {
+                "name": "Universidad Aut\u00f3noma de Madrid",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQEvmivAb4xnSA/company-logo_400_400/0/1564727866871?e=1700697600&v=beta&t=z3ZiR7TB6ITxEE6mZxgyH48m7_GgfF7nQo0ihb7iSc4",
+                "url": "https://www.linkedin.com/school/universidad-autonoma-de-madrid/"
+            },
+            "degree_name": "Doctor of Philosophy - PhD",
+            "field_of_study": "Physical Chemistry"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2006
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2008
+                }
+            },
+            "school": {
+                "name": "Universidad Nacional de Colombia",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQH2fxFDcpvbGw/company-logo_400_400/0/1689003876228?e=1700697600&v=beta&t=qBUJsbELaDG7cfVpF-v6OMncXDWwHvSt9dapTyddh0k",
+                "url": "https://www.linkedin.com/school/universidadnacionaldecolombia/"
+            },
+            "degree_name": "Master of Science - MS",
+            "field_of_study": "Physical Chemistry"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2000
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2006
+                }
+            },
+            "school": {
+                "name": "Universidad Nacional de Colombia",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQH2fxFDcpvbGw/company-logo_400_400/0/1689003876228?e=1700697600&v=beta&t=qBUJsbELaDG7cfVpF-v6OMncXDWwHvSt9dapTyddh0k",
+                "url": "https://www.linkedin.com/school/universidadnacionaldecolombia/"
+            },
+            "degree_name": "Bachelor of Science - BS",
+            "field_of_study": "Chemistry"
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "WPP: Propagation of 3D wave packets with time-dependent potentials.",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "description": "This is a package designed to simulate the dynamics of a wave-packet interacting with a time-dependent potential. The time-dependent Schr\u00f6dinger equation is solved in a three-dimensional spatial grid by using a strategy based on the split operator method. It allows among other properties, the diagonalization of Hamiltonians up to 3 dimensions in the  SAE approximation. It includes, algorithms like imaginary time evolution, Lanczos diagonalization and filtering diagonalization. It allows the calculation of several observables such as, energy, dipole moment, average position, among others, to analyze obtained results.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Nestor",
+                    "last_name": "Aguirre",
+                    "name": null,
+                    "headline": "Scientific Software Developer at Software for Chemistry & Materials"
+                }
+            ]
+        },
+        {
+            "title": "M3C: A software package designed to describe statistical fragmentation of molecules.",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "description": "The M3C (Microcanonical Metropolis Monte-Carlo) is a software package designed in the field of Computational Chemistry. It allows to study fragmentation processes induced by irradiation with high-energy beams of ions, electrons or photons, which is based on an semi-classical statistical mechanical description in combination with structural quantities from standard electronic-structure methods. It allows to obtain channels/species distributions (breaking graphs), theoretical mass spectra, among others.\n",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Nestor",
+                    "last_name": "Aguirre",
+                    "name": null,
+                    "headline": "Scientific Software Developer at Software for Chemistry & Materials"
+                }
+            ]
+        },
+        {
+            "title": "ccdyn: Classical dynamics of helium nanodroplets",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "description": "This application allows to represent the helium droplets such as classical particles interacting through pairwise potential models, it is possible to include external potentials in order to simulate their interaction with surfaces by using periodic potential energy functions.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Nestor",
+                    "last_name": "Aguirre",
+                    "name": null,
+                    "headline": "Scientific Software Developer at Software for Chemistry & Materials"
+                }
+            ]
+        },
+        {
+            "title": "SciFT: Scientific Fortran Tools",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2008
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "description": "The Scientific Fortran Tools (SciFT) is a numerical library for Fortran programmers. The library provides a wide range of mathematical routines such as random number generators, special functions, least-squares fitting, and several data structures like linked lists, vectors, maps, and graphs. It is fully written following an oriented object design, which allows to extend it easily for other applications. In particular, the projects WPP, M3C, and ccdyn use this library extensively to carry out the most expensive and complex calculations.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Nestor",
+                    "last_name": "Aguirre",
+                    "name": null,
+                    "headline": "Scientific Software Developer at Software for Chemistry & Materials"
+                }
+            ]
+        }
+    ],
+    "publications": [
+        {
+            "name": "Furan Fragmentation in the Gas Phase: New Insights from Statistical and Molecular Dynamics Calculations.",
+            "publisher": "J. Phys. Chem. A",
+            "url": "https://pubs.acs.org/doi/10.1021/acs.jpca.8b00881",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2018
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Nestor",
+                    "last_name": "Aguirre",
+                    "name": null,
+                    "headline": "Scientific Software Developer at Software for Chemistry & Materials"
+                }
+            ]
+        },
+        {
+            "name": "Semiempirical breakdown curves of C2N(+) and C3N(+) molecules; application to products branching ratios predictions of physical and chemical processes involving these adducts",
+            "publisher": "Mol. Astrophys.",
+            "url": "https://www.sciencedirect.com/science/article/pii/S2405675818300125",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2018
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Nestor",
+                    "last_name": "Aguirre",
+                    "name": null,
+                    "headline": "Scientific Software Developer at Software for Chemistry & Materials"
+                }
+            ]
+        },
+        {
+            "name": "M3C: A Software Package Designed to Describe Statistical Fragmentation of Excited Molecules.",
+            "publisher": "J. Chem. Theory Comput.",
+            "url": "https://pubs.acs.org/doi/abs/10.1021/acs.jctc.6b00984",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2017
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Nestor",
+                    "last_name": "Aguirre",
+                    "name": null,
+                    "headline": "Scientific Software Developer at Software for Chemistry & Materials"
+                }
+            ]
+        },
+        {
+            "name": "Structure, Ionization and Fragmentation of Neutral and Positively Charged Hydrogenated Carbon Clusters: CnHmq+ (n=1-5, m=1-4, q=0-3)",
+            "publisher": "J. Phys. Chem. A",
+            "url": "https://pubs.acs.org/doi/abs/10.1021/acs.jpca.5b10143",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2016
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Nestor",
+                    "last_name": "Aguirre",
+                    "name": null,
+                    "headline": "Scientific Software Developer at Software for Chemistry & Materials"
+                }
+            ]
+        },
+        {
+            "name": "Tuning High-Harmonic Generation by Controlled Deposition of Ultrathin Ionic Layers on Metal Surfaces.",
+            "publisher": "Phys. Rev. B ",
+            "url": "https://journals.aps.org/prb/abstract/10.1103/PhysRevB.94.245423",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2016
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Nestor",
+                    "last_name": "Aguirre",
+                    "name": null,
+                    "headline": "Scientific Software Developer at Software for Chemistry & Materials"
+                }
+            ]
+        },
+        {
+            "name": "A Full-Configuration-Interaction Nuclear Orbital approach and application for small doped He clusters.",
+            "publisher": "AIP Conference Proceedings ",
+            "url": "https://aip.scitation.org/doi/abs/10.1063/1.4906632",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2015
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Nestor",
+                    "last_name": "Aguirre",
+                    "name": null,
+                    "headline": "Scientific Software Developer at Software for Chemistry & Materials"
+                }
+            ]
+        },
+        {
+            "name": "Gene2Path: A Data Analysis Tool to Study Fish Gene Pathways by Automatic Search of Orthologous Genes",
+            "publisher": "J. Aquac. Res. Development ",
+            "url": "https://www.omicsonline.org/open-access/gene2path-a-data-analysis-tool-to-study-fish-gene-pathways-by-automatic-search-of-orthologous-genes-2155-9546-1000329.php?aid=47057",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2015
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Nestor",
+                    "last_name": "Aguirre",
+                    "name": null,
+                    "headline": "Scientific Software Developer at Software for Chemistry & Materials"
+                }
+            ]
+        },
+        {
+            "name": "Potential energy surface and bound states of the (X4Sigma)KRb-K complex.",
+            "publisher": "Int. J. Quant. Chem.",
+            "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/qua.24759",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2015
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Nestor",
+                    "last_name": "Aguirre",
+                    "name": null,
+                    "headline": "Scientific Software Developer at Software for Chemistry & Materials"
+                }
+            ]
+        },
+        {
+            "name": "Unraveling the 4He droplet-mediated soft-landing from ab initio-assisted and time-resolved density functional simulations: Au@4He300/TiO2(110)",
+            "publisher": "J. Chem. Phys.",
+            "url": "https://aip.scitation.org/doi/full/10.1063/1.4916955",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2015
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Nestor",
+                    "last_name": "Aguirre",
+                    "name": null,
+                    "headline": "Scientific Software Developer at Software for Chemistry & Materials"
+                }
+            ]
+        },
+        {
+            "name": "Bonding in exohedral metal\u2013fullerene cationic complexes.",
+            "publisher": "RSC Adv.",
+            "url": "http://pubs.rsc.org/en/content/articlelanding/2014/ra/c4ra10776d#!divAbstract",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2014
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Nestor",
+                    "last_name": "Aguirre",
+                    "name": null,
+                    "headline": "Scientific Software Developer at Software for Chemistry & Materials"
+                }
+            ]
+        },
+        {
+            "name": "LOWDIN: The Any Particle Molecular Orbital Code.",
+            "publisher": "Int. J. Quant. Chem.",
+            "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/qua.24500",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2014
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Nestor",
+                    "last_name": "Aguirre",
+                    "name": null,
+                    "headline": "Scientific Software Developer at Software for Chemistry & Materials"
+                }
+            ]
+        },
+        {
+            "name": "Including nuclear quantum effects into highly correlated electronic structure calculations of weakly bound systems",
+            "publisher": "J. Chem. Phys.",
+            "url": "https://aip.scitation.org/doi/abs/10.1063/1.4803546?journalCode=jcp",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2013
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Nestor",
+                    "last_name": "Aguirre",
+                    "name": null,
+                    "headline": "Scientific Software Developer at Software for Chemistry & Materials"
+                }
+            ]
+        },
+        {
+            "name": "Solvent States and Spectroscopy of Doped Helium Clusters as a Quantum-Chemistry-like Problem.",
+            "publisher": "Phys. Chem. Chem. Phys.",
+            "url": "https://pubs.rsc.org/en/content/articlelanding/2013/cp/c3cp50282a#!divAbstract",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2013
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Nestor",
+                    "last_name": "Aguirre",
+                    "name": null,
+                    "headline": "Scientific Software Developer at Software for Chemistry & Materials"
+                }
+            ]
+        },
+        {
+            "name": "Unravelling Coriolis temperature-dependent effects on doped helium clusters: Vib-rotational Raman spectra of (3,4He)4\u2013Cl2(X)",
+            "publisher": "Chem. Phys. Lett.",
+            "url": "https://www.sciencedirect.com/science/article/abs/pii/S0009261412012158",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2013
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Nestor",
+                    "last_name": "Aguirre",
+                    "name": null,
+                    "headline": "Scientific Software Developer at Software for Chemistry & Materials"
+                }
+            ]
+        },
+        {
+            "name": "Helium mediated deposition: Modeling the He-TiO2(110)-(1x1) interaction potential and application to the collision of a helium droplet from density functional calculations",
+            "publisher": "J. Chem. Phys. ",
+            "url": "https://aip.scitation.org/doi/10.1063/1.3698173",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2012
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Nestor",
+                    "last_name": "Aguirre",
+                    "name": null,
+                    "headline": "Scientific Software Developer at Software for Chemistry & Materials"
+                }
+            ]
+        },
+        {
+            "name": "Physisorption of helium on a TiO2(110) surface: Periodic and finite cluster approaches",
+            "publisher": "Chem. Phys.",
+            "url": "https://www.sciencedirect.com/science/article/pii/S0301010411003168",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2011
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Nestor",
+                    "last_name": "Aguirre",
+                    "name": null,
+                    "headline": "Scientific Software Developer at Software for Chemistry & Materials"
+                }
+            ]
+        },
+        {
+            "name": "Quantum solvent states and rovibrational spectra of small doped 3He clusters through the full-configuration-interaction nuclear orbital approach: The 3HeN-Cl2(X) case (N<=4)",
+            "publisher": "J. Chem. Phys.",
+            "url": "https://aip.scitation.org/doi/10.1063/1.3425997",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2010
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Nestor",
+                    "last_name": "Aguirre",
+                    "name": null,
+                    "headline": "Scientific Software Developer at Software for Chemistry & Materials"
+                }
+            ]
+        },
+        {
+            "name": "A Graph Theoretical Similarity Approach to Compare Molecular Electrostatic Potentials.",
+            "publisher": "J. Chem. Inf. Model.",
+            "url": "https://pubs.acs.org/doi/abs/10.1021/ci7001878",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2008
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Nestor",
+                    "last_name": "Aguirre",
+                    "name": null,
+                    "headline": "Scientific Software Developer at Software for Chemistry & Materials"
+                }
+            ]
+        },
+        {
+            "name": "APMO: A software package for nuclear quantum effects using electronic and non-electronic molecular orbital theory",
+            "publisher": "Rev. Col. Quim.",
+            "url": "http://www.scielo.org.co/scielo.php?script=sci_abstract&pid=S0120-28042008000100008",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2008
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Nestor",
+                    "last_name": "Aguirre",
+                    "name": null,
+                    "headline": "Scientific Software Developer at Software for Chemistry & Materials"
+                }
+            ]
+        },
+        {
+            "name": "Theoretical investigation of isotope effects: The Any-Particle Molecular Orbital code.",
+            "publisher": "Int. J. Quant. Chem.",
+            "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/qua.21584",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2008
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Nestor",
+                    "last_name": "Aguirre",
+                    "name": null,
+                    "headline": "Scientific Software Developer at Software for Chemistry & Materials"
+                }
+            ]
+        }
+    ],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 2922082,
+                "name": "Software for Chemistry & Materials",
+                "logo": "https://media.licdn.com/dms/image/C560BAQHYNFC0LFLgoQ/company-logo_400_400/0/1519907007458?e=1700697600&v=beta&t=iTZH-qD7Qv8_MXfs3VHSg-SOQ8Lt0qqznkxeRT4sAPU",
+                "url": "https://www.linkedin.com/company/software-for-chemistry-&-materials/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amsterdam Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Software for Chemistry & Materials",
+                    "description": null,
+                    "title": "Scientific Software Developer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 5327,
+                "name": "Los Alamos National Laboratory",
+                "logo": "https://media.licdn.com/dms/image/C560BAQGht4Sj0VvhWA/company-logo_400_400/0/1631646695260?e=1700697600&v=beta&t=xNTskE0Gfk-FYDFjGrfAcRTZD_H1POrfbzd8Z1ERMZ0",
+                "url": "https://www.linkedin.com/company/los-alamos-national-laboratory/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2017
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "Los Alamos National Laboratory",
+                    "description": null,
+                    "title": "Postdoctoral Research Associate",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 166613,
+                "name": "Universidad Aut\u00f3noma de Madrid",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQEvmivAb4xnSA/company-logo_400_400/0/1564727866871?e=1700697600&v=beta&t=z3ZiR7TB6ITxEE6mZxgyH48m7_GgfF7nQo0ihb7iSc4",
+                "url": "https://www.linkedin.com/school/universidad-autonoma-de-madrid/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Madrid Area, Spain",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2013
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2016
+                        }
+                    },
+                    "company": "Universidad Aut\u00f3noma de Madrid",
+                    "description": null,
+                    "title": "Postdoctoral Researcher",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 13732,
+                "name": "Consejo Superior de Investigaciones Cient\u00edficas",
+                "logo": "https://media.licdn.com/dms/image/D4D0BAQHdcG38YcSn-g/company-logo_400_400/0/1689779467608?e=1700697600&v=beta&t=LsfktOoc9LLf4axHr8crkZ9j7zxXt9BqEMlGhKjAJk0",
+                "url": "https://www.linkedin.com/company/csic/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2008
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Madrid, Spain",
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "day": null,
+                            "year": 2008
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": 2012
+                        }
+                    },
+                    "company": "CSIC",
+                    "description": null,
+                    "title": "Researcher PHD Student",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Science",
+        "Software Development",
+        "Physical Chemistry",
+        "Theoretical Chemistry",
+        "Computational Physics",
+        "Nanoparticles"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

@@ -1,0 +1,429 @@
+{
+    "profile_id": "andyeee",
+    "first_name": "Andrei",
+    "last_name": "Yermakovich",
+    "sub_title": "Researcher, developer, freelancer",
+    "profile_picture": "https://media.licdn.com/dms/image/C4E03AQHXJEKYIbhgAA/profile-displayphoto-shrink_800_800/0/1535061147340?e=1697673600&v=beta&t=n0lQB1vKVrkm6hm9Wnb6UKfEQQ73kQFrxpFRhaq4-eU",
+    "background_image": "https://media.licdn.com/dms/image/C5616AQG97Txs00NvJg/profile-displaybackgroundimage-shrink_350_1400/0/1592224969257?e=1697673600&v=beta&t=0Dii5k2D1WdPa8CrBtb3SiTgB9ufsnMzNXutz7vpDW8",
+    "profile_type": "personal",
+    "entity_urn": "ACoAAB05jfMBwj1MjceSDFrB1Tc8fc8OLz8tTN8",
+    "object_urn": 490311155,
+    "birth_date": null,
+    "summary": null,
+    "location": {
+        "country": null,
+        "short": "Netherlands",
+        "city": null,
+        "state": null,
+        "default": "Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "RU",
+            "language": "ru"
+        },
+        "supported_locales": [
+            {
+                "country": "RU",
+                "language": "ru"
+            }
+        ],
+        "profile_languages": []
+    },
+    "industry": "Internet",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "school": {
+                "name": "Belarusian State University",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQH7DTCk5iDqFw/company-logo_400_400/0/1666876000191?e=1700697600&v=beta&t=HqF4TtQPKnfKjU0W2HPSEDg_l0yONCooYCpmguIk2-k",
+                "url": "https://www.linkedin.com/school/belarusian-state-university/"
+            },
+            "degree_name": "Master's degree",
+            "field_of_study": "Economics and management of national economy"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2008
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "school": {
+                "name": "Belarusian State University",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQH7DTCk5iDqFw/company-logo_400_400/0/1666876000191?e=1700697600&v=beta&t=HqF4TtQPKnfKjU0W2HPSEDg_l0yONCooYCpmguIk2-k",
+                "url": "https://www.linkedin.com/school/belarusian-state-university/"
+            },
+            "degree_name": "Bachelor's degree",
+            "field_of_study": "Radiophysics"
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "Inbrights",
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "description": "I tried and failed the project Inbrights. \n\nProblem:\nThere are a lot of cases when people may need to think up phrases and texts. Examples: New Year wishes, and greetings, poems, tweets, recipes, jokes.\n\nSolution:\nThe set of mobile applications for generating short smart texts (from poems to new year wishes and greetings). Based on neural networks.\n\nStage:\nFailed due to lack of resources, tech instability in results.\n\nTech Stack:\nLanguages: Python, Swift, JS, Objective-C.\nML: Keras, Tensorflow, CoreML.\nOther: Web-scraping\n\n",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Andrei",
+                    "last_name": "Yermakovich",
+                    "name": null,
+                    "headline": "Researcher, developer, freelancer"
+                }
+            ]
+        }
+    ],
+    "publications": [],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 4827017,
+                "name": "Upwork",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQFAvA55uI9RQQ/company-logo_400_400/0/1620158724382?e=1700697600&v=beta&t=In8bmqydABUKYWbH_RR6mQmxOECcnrq86diuO0sqnDI",
+                "url": "https://www.linkedin.com/company/upwork/",
+                "employees": {
+                    "start": 501,
+                    "end": 1000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Belarus",
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2017
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Upwork",
+                    "description": null,
+                    "title": "Freelance Software Engineer",
+                    "employment_type": "Freelance"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 65967307,
+                "name": "The One Hot News",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQG_sp-mCubp5g/company-logo_400_400/0/1591393156399?e=1700697600&v=beta&t=n-KYBLAvAbenYvjjKBfkZar7FZjPTuQFhdUsn4p_6xo",
+                "url": "https://www.linkedin.com/company/the-one-hot-news/",
+                "employees": {
+                    "start": 2,
+                    "end": 10
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "\u041c\u0438\u043d\u0441\u043a, \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0411\u0435\u043b\u0430\u0440\u0443\u0441\u044c",
+                    "date": {
+                        "start": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2020
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "The One Hot News",
+                    "description": null,
+                    "title": "Founder",
+                    "employment_type": "Part-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 28480584,
+                "name": "Znach Co",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQE4pxHHqL0qyg/company-logo_400_400/0/1569069351419?e=1700697600&v=beta&t=KSC4uKn8hNUsegaIn_ytbpIE2Z5FQGrLf5MEbwSEyFM",
+                "url": "https://www.linkedin.com/company/znachco/",
+                "employees": {
+                    "start": 0,
+                    "end": 1
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "\u041c\u0438\u043d\u0441\u043a, \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0411\u0435\u043b\u0430\u0440\u0443\u0441\u044c",
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Znach Co",
+                    "description": null,
+                    "title": "Research And Development Engineer",
+                    "employment_type": "Part-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 18795549,
+                "name": "Inbrights",
+                "logo": "https://media.licdn.com/dms/image/C560BAQH8sr8-ZjtZLg/company-logo_400_400/0/1536109579710?e=1700697600&v=beta&t=gb-wFRXmsZtYAKQir7JmlmoMA97bnymS25tcfq98zJc",
+                "url": "https://www.linkedin.com/company/inbrights/",
+                "employees": {
+                    "start": 0,
+                    "end": 1
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "\u041c\u0438\u043d\u0441\u043a, \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0411\u0435\u043b\u0430\u0440\u0443\u0441\u044c",
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2017
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2018
+                        }
+                    },
+                    "company": "Inbrights",
+                    "description": null,
+                    "title": "Founder",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 4972,
+                "name": "EPAM Systems",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQEE73wQBVodMQ/company-logo_400_400/0/1677598469595?e=1700697600&v=beta&t=H_8_WKlh9Bxlz6E4RgTutcPulmYheomdUo-iFMDFyAU",
+                "url": "https://www.linkedin.com/company/epam-systems/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Belarus",
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2017
+                        }
+                    },
+                    "company": "EPAM Systems",
+                    "description": null,
+                    "title": "Software Developer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 10065257,
+                "name": "\u041e\u0410\u041e \"\u0411\u0430\u043d\u043a \u0411\u0435\u043b\u0412\u042d\u0411\"\u200b",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQHhNi1-9sd3SA/company-logo_400_400/0/1601621789859?e=1700697600&v=beta&t=UR6Vl1nGWR-hi4GuDL4Xgi42cZODQU15zNo05u1-Szo",
+                "url": "https://www.linkedin.com/company/%D0%BE%D0%B0%D0%BE-%D0%B1%D0%B0%D0%BD%D0%BA-%D0%B1%D0%B5%D0%BB%D0%B2%D1%8D%D0%B1-/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Belarus",
+                    "date": {
+                        "start": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2013
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2016
+                        }
+                    },
+                    "company": "Bank BelVEB OJSC",
+                    "description": null,
+                    "title": "Software engineer",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [
+        {
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "role": "Lead Software Engineer, Software Engineer",
+            "company": {
+                "id": null,
+                "name": "Falanster ",
+                "logo": null,
+                "url": null
+            },
+            "cause": "SCIENCE_AND_TECHNOLOGY",
+            "description": "http://mapa.falanster.by\n\n"
+        }
+    ],
+    "skills": [
+        "\u0410\u0440\u0445\u0438\u0442\u0435\u043a\u0442\u0443\u0440\u0430 \u0440\u0435\u0448\u0435\u043d\u0438\u0439",
+        "\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u0440\u0435\u0448\u0435\u043d\u0438\u0439",
+        "\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u043d\u044b\u0435 \u0440\u0435\u0448\u0435\u043d\u0438\u044f",
+        "\u0412\u0435\u0431-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430",
+        "\u0412\u0435\u0431-\u0441\u0435\u0440\u0432\u0438\u0441\u044b",
+        "\u0412\u0435\u0431-\u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u044f",
+        "\u0422\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u0440\u0435\u0448\u0435\u043d\u0438\u044f",
+        "\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u041f\u041e",
+        "\u041f\u0440\u0435\u0434\u043f\u0440\u0438\u043d\u0438\u043c\u0430\u0442\u0435\u043b\u044c\u0441\u0442\u0432\u043e",
+        "\u041d\u0430\u0443\u0447\u043d\u043e-\u0438\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u0442\u0435\u043b\u044c\u0441\u043a\u0430\u044f \u0434\u0435\u044f\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u044c",
+        "\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u043c\u043e\u0431\u0438\u043b\u044c\u043d\u044b\u0445 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0439",
+        "\u041a\u043e\u043d\u0441\u0443\u043b\u044c\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

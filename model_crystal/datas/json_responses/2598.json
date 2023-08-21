@@ -1,0 +1,583 @@
+{
+    "profile_id": "amberelbers",
+    "first_name": "Amber",
+    "last_name": "Elbers",
+    "sub_title": "Data Scientist | Detecting Financial Crime at ABN AMRO Bank N.V.",
+    "profile_picture": "https://media.licdn.com/dms/image/D4E03AQE4E68Tzs0HkQ/profile-displayphoto-shrink_800_800/0/1677437715969?e=1697673600&v=beta&t=rwchEfna3QFENiO49HcW-iqP6disWXfXwfQm-Wgi0Gs",
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAAA-kOmcBBTiyPE7ey0tzBFL75Z1uFuvCs5s",
+    "object_urn": 262421095,
+    "birth_date": null,
+    "summary": null,
+    "location": {
+        "country": "Netherlands",
+        "short": "Amsterdam, North Holland",
+        "city": "Amsterdam",
+        "state": "North Holland",
+        "default": "Amsterdam, North Holland, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "NL",
+            "language": "nl"
+        },
+        "supported_locales": [
+            {
+                "country": "NL",
+                "language": "nl"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "Engels",
+                "proficiency": "PROFESSIONAL_WORKING"
+            },
+            {
+                "name": "Nederlands",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ]
+    },
+    "industry": "Information Technology & Services",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "school": {
+                "name": "Erasmus School of Economics",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQGFOUO373bNEw/company-logo_400_400/0/1519911463569?e=1700697600&v=beta&t=cRo8ju_X_hi_QIGQIJ2E-RaX0gnd-RjLv9wBwtKVou8",
+                "url": "https://www.linkedin.com/school/erasmus-school-of-economics/"
+            },
+            "degree_name": "Master of Science (MSc)",
+            "field_of_study": "Econometrics and Management Science"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "school": {
+                "name": "University of Amsterdam",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQEfHBj_we-_kw/company-logo_400_400/0/1659945104460?e=1700697600&v=beta&t=k8egLWP3eIqIloLFULSmlLPZQR7cvpzTKHpzgtnWaBI",
+                "url": "https://www.linkedin.com/school/university-of-amsterdam/"
+            },
+            "degree_name": "Bachelor of Science (B.Sc.)",
+            "field_of_study": "Econometrics"
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [
+        {
+            "name": "Intro to TensorFlow",
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Coursera",
+            "url": "https://www.coursera.org/account/accomplishments/verify/H642BUUFCFLL",
+            "license_number": "H642BUUFCFLL",
+            "display_source": "coursera.org",
+            "company": null
+        },
+        {
+            "name": "Google Cloud Platform Big Data and Machine Learning Fundamentals",
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Coursera",
+            "url": "https://www.coursera.org/account/accomplishments/verify/SMTABLUXQBAX",
+            "license_number": "SMTABLUXQBAX",
+            "display_source": "coursera.org",
+            "company": {
+                "id": null,
+                "name": "Coursera",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQGexnfBxeEG-g/company-logo_400_400/0/1608039227697?e=1700697600&v=beta&t=oKIt6loOByFMfTbXJsSV0MxzKtgkMvIZ2QTzkZrNq70",
+                "url": null
+            }
+        },
+        {
+            "name": "Serverless Machine Learning with Tensorflow on Google Cloud Platform",
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Coursera",
+            "url": "https://www.coursera.org/account/accomplishments/verify/2XZU7KKTEBB9",
+            "license_number": "2XZU7KKTEBB9",
+            "display_source": "coursera.org",
+            "company": {
+                "id": null,
+                "name": "Coursera",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQGexnfBxeEG-g/company-logo_400_400/0/1608039227697?e=1700697600&v=beta&t=oKIt6loOByFMfTbXJsSV0MxzKtgkMvIZ2QTzkZrNq70",
+                "url": null
+            }
+        },
+        {
+            "name": "Summercourse Math B (analysis and geometry)",
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Korteweg-de Vries Instituut",
+            "url": null,
+            "license_number": null,
+            "display_source": null,
+            "company": null
+        }
+    ],
+    "organizations": [],
+    "projects": [],
+    "publications": [],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 1173,
+                "name": "ABN AMRO Bank N.V.",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQGbBCf7qCSy2g/company-logo_400_400/0/1691390775038?e=1700697600&v=beta&t=wE33PKUL3l-8qHpOHrIvhYNiCrFbLHuQq0viRNpnl6g",
+                "url": "https://www.linkedin.com/company/abn-amro/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2023
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amsterdam, Noord-Holland, Nederland",
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2023
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "ABN AMRO Bank N.V.",
+                    "description": null,
+                    "title": "Data Scientist, Detecting Financial Crime",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 5245470,
+                "name": "NEWCRAFT",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQH3LFl269ML_w/company-logo_400_400/0/1593530639477?e=1700697600&v=beta&t=_WGFohzyqfSU7s33f_AdPdaE19Mgv_NGFuUWMSctlFM",
+                "url": "https://www.linkedin.com/company/newcraft/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2023
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amsterdam, Noord-Holland, Nederland",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2020
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2023
+                        }
+                    },
+                    "company": "NEWCRAFT",
+                    "description": "Responsible for leading data science projects and translating business needs into new metrics and data-driven solutions for a variety of industries and domains.",
+                    "title": "Senior Data Scientist",
+                    "employment_type": null
+                },
+                {
+                    "location": "Amsterdam",
+                    "date": {
+                        "start": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2017
+                        },
+                        "end": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2020
+                        }
+                    },
+                    "company": "NEWCRAFT",
+                    "description": "Responsible for helping clients to see and understand the value data can bring to their organisation. Developing fitting data-driven solutions and running projects end-to-end. Some examples:\n\n\u25c6 RFM segmentation for customer value and loyalty\n\u25c6 Crowd prediction for customer experience\n\u25c6 Market basket analysis for assortment optimization\n\u25c6 Attribution modelling for media efficiency\n\nOn those projects I work closely together with other data scientists, engineers, strategists, digital marketers, and creatives which ensures a fast-paced learning environment and I enjoy being part of it!",
+                    "title": "Data Scientist",
+                    "employment_type": null
+                },
+                {
+                    "location": "Amsterdam",
+                    "date": {
+                        "start": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2017
+                        }
+                    },
+                    "company": "NEWCRAFT",
+                    "description": "The Crafthunter data science traineeship at Newcraft took my gained knowledge at the university one step further to become an independent Data Science consultant. \n\nIt is focused on creating, implementing and automating data science solutions to provide clients with insights that improve their decision making. Some of my first projects:\n\n\u25c6 look-a-like segments for retention and acquisition at for Greetz B2B\n\n\u25c6 Gall & Gall cardholders segmentation to determine distinctive order behaviour and demographics\n\n\nI was trained to write production ready code in Python, SQL and bash commands - using tooling such as: \n\n\u2713 PyCharm\n\u2713 Jupyter Notebook\n\u2713 Github\n\u2713 Postico\n\u2713 Tableau\n\u2713 Jenkins\n\nAs part of the traineeship, I also organised the annual 24 Hour Data Challenge - a datathon for students to get familiarised with (one of) our clients and what it's like to start working as a data science consultant!",
+                    "title": "Data Science trainee",
+                    "employment_type": null
+                },
+                {
+                    "location": "Amsterdam",
+                    "date": {
+                        "start": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2016
+                        }
+                    },
+                    "company": "NEWCRAFT",
+                    "description": "Topic: Personalising deliveries by predicting the optimal delivery window. My study describes an empirical comparison of classification algorithms, including state-of-the-art machine learning techniques, in order to find the best performing model. The results can be used to increase the delivery hit rate and, in that way, improve delivery service and lower costs.",
+                    "title": "Master Thesis Intern",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1038,
+                "name": "Deloitte Nederland",
+                "logo": "https://media.licdn.com/dms/image/C560BAQGNtpblgQpJoQ/company-logo_400_400/0/1662120927694?e=1700697600&v=beta&t=n7VJdkStQwpgnGL7fb3Osu6DyQ3zuX3PPtOiDGQNVLI",
+                "url": "https://www.linkedin.com/company/deloitte/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amsterdam en omgeving, Nederland",
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2016
+                        }
+                    },
+                    "company": "Deloitte",
+                    "description": null,
+                    "title": "Student Trainee",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Sempre Avanti",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amsterdam en omgeving, Nederland",
+                    "date": {
+                        "start": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2015
+                        }
+                    },
+                    "company": "Sempre Avanti",
+                    "description": null,
+                    "title": "Research Analyst",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 737660,
+                "name": "Databas B.V.",
+                "logo": "https://media.licdn.com/dms/image/C560BAQH7gcvpj85Yww/company-logo_400_400/0/1519884270632?e=1700697600&v=beta&t=daYeIoDZdHzYaJCkXj2Jk2Jqetv2wkuQoRGe1MeoEuo",
+                "url": "https://www.linkedin.com/company/databas-bv/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amsterdam en omgeving, Nederland",
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2012
+                        },
+                        "end": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2012
+                        }
+                    },
+                    "company": "Databas BV",
+                    "description": null,
+                    "title": "Office Manager",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 38157,
+                "name": "TKB - Trust Krediet Beheer B.V.",
+                "logo": "https://media.licdn.com/dms/image/C510BAQEpG9kFBO_enQ/company-logo_400_400/0/1519856949231?e=1700697600&v=beta&t=mOB_IOYSQhV76rdp5wqTJ4n1ubpZwQYMXP0uxsajS4c",
+                "url": "https://www.linkedin.com/company/tkb/",
+                "employees": {
+                    "start": 201,
+                    "end": 500
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2010
+                },
+                "end": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2010
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amsterdam en omgeving, Nederland",
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2010
+                        },
+                        "end": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2010
+                        }
+                    },
+                    "company": "TKB - Trust Krediet Beheer B.V.",
+                    "description": null,
+                    "title": "Outsource employee",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [
+        {
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "role": "Penningmeester van de Raad van Toezicht",
+            "company": {
+                "id": null,
+                "name": "Stichting M.O.E.T.",
+                "logo": "https://media.licdn.com/dms/image/C560BAQFyycM4q0MMjA/company-logo_400_400/0/1633421066186?e=1700697600&v=beta&t=Fs5oOwUfNlavx3lr1shFVJoo-fjWELpuDKTUBoonM_Y",
+                "url": "https://www.linkedin.com/company/stichting-m-o-e-t-/"
+            },
+            "cause": "EDUCATION",
+            "description": "Stichting M.O.E.T. (Met Onderwijs Een Toekomst) is in 2006 opgericht op initiatief van studenten. Wij ondersteunen onderwijs in Burkina Faso. Zowel een ambachtsschool en een landbouwschool zijn door ons opgebouwd en nu onder ons beheer. Ook willen we de studenten in Amsterdam bewuster maken van het proces van ontwikkelingshulp en ze de mogelijkheid bieden zich hier actief voor in te zetten. \n\nDe Raad van Toezicht garandeert de continu\u00efteit van Stichting M.O.E.T. Ik ben verantwoordelijk voor het behoud van financi\u00eble stabiliteit en beslis over grote financi\u00eble transacties. Daarnaast ondersteun ik de penningmeester van het actieve bestuur."
+        },
+        {
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "role": "Penningmeester",
+            "company": {
+                "id": null,
+                "name": "Stichting M.O.E.T.",
+                "logo": "https://media.licdn.com/dms/image/C560BAQFyycM4q0MMjA/company-logo_400_400/0/1633421066186?e=1700697600&v=beta&t=Fs5oOwUfNlavx3lr1shFVJoo-fjWELpuDKTUBoonM_Y",
+                "url": "https://www.linkedin.com/company/stichting-m-o-e-t-/"
+            },
+            "cause": "EDUCATION",
+            "description": "Als onderdeel van het actieve bestuur ben ik verantwoordelijk geweest voor de dagelijkse operaties van stichting M.O.E.T. Samen met mijn bestuursgenoten rapporteerde ik eens per maand aan de Raad van Toezicht. Ik beheerde de totale begroting van \u20ac200.000,-.\n\nOm processen te versnellen en de samenwerking tussen Nederland en Burkina Faso te versterken, gaat door het jaar heen drie keer een delegaties van het bestuur op werkbezoek naar Burkina Faso. In Nederland organiseren we diverse geldinzamelingsacties zoals een Symposium, Marathon en M.O.E.T.-week. \n\nMijn persoonlijke milestone: Ik heb een fondsenwerving van \u20ac100.000,- gerealiseerd om te kunnen starten met de bouw van onze tweede school, de landbouwschool."
+        }
+    ],
+    "skills": [
+        "Datastorytelling",
+        "Datawetenschappen",
+        "Statistieken",
+        "Quantitative Analytics",
+        "Big Data",
+        "Teamwork",
+        "Econometrics",
+        "Statistical Modeling",
+        "Problem Solving",
+        "Machine Learning",
+        "Results-oriented",
+        "Tableau"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

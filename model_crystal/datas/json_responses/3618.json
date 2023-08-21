@@ -1,0 +1,708 @@
+{
+    "profile_id": "ronaldvanloon",
+    "first_name": "Ronald",
+    "last_name": "van Loon",
+    "sub_title": "Software Engineering Manager bij Booking.com",
+    "profile_picture": "https://media.licdn.com/dms/image/C4D03AQFRP8g5y0ovgg/profile-displayphoto-shrink_800_800/0/1516238370531?e=1697673600&v=beta&t=rHMW8AsYXQfE25TFQKPdOX5ZkQtraYEMrApf6hqrnnM",
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAAAATmOwBinsFpTHLPTkvU-nZGHGjG5fs7TA",
+    "object_urn": 1284332,
+    "birth_date": null,
+    "summary": "I am well versed in all aspects of the Software Development Lifecycle (SDLC), meaning I can be a:\n- Business Analyst (gathering and interpreting business need and convert them to requirements)\n- Software Architect (translating those requirement in a High-Level Design)\n- Software Engineer (implementing the Design)\n- Software Tester/Validator (validating the implementation against the requirements)\n- Release Manager (Ensuring the successful transition through the Software Lifecycle of a product or service)\n- Second / Thirdline Support (As Subject Matter Expert (SME), troubleshooting where necessary)\n\nnote: there is an obious difference between could be, should be and want to be. At the current point in my career, technical leadership is more of interest than pure development. Sure, I will do whatever the situation might require, but technical leadership in a position that requires insight and can drive innovation, leading to practical solutions would be the most optimal use of my talents and potential .\n\nI am  very gifted in the ability to translate technical jargon into executive and workfloor-friendly metaphors and vice-versa.\n\nThis technical prowess is coupled with an ability to formulate solutions to any problem on short-term, middle to long term, taking into account the business context (budget, time, material, resources).\n\nThis also means that I have a strong knowledge and theoretical background of algorithms, and I am an accomplished programmer in languages like C, C++ and Java, and can adapt to and learn new technology in a very short amount of time.\n\nI have the ability to motivate people and nudge them gently out of their comfort zone. I am a leader by consensus, meaning that all team members are equally important, and each opinion is weighed on the base of its own merit. When tough decision have to be made, I am not afraid to make them. \n\nBottom-Line: I am a Solution Provider, where Solutions take into account the complete context, rather than just the technical. For me, it is not a matter of thinking outside the box. I was not thinking in terms of boxes to begin with. I will tell you like it is - or how I perceive it is, what the dangers and risks are of any given proposal and I will leave the decisionmaking based on my assessments to you. Unless of course you delegate the decision-making to me.\n\nFinally, while my profile says 'Hengelo' I am currently in the process of finding something a little bit more closer to my town of birth, Amersfoort. If you are reading this from outside of the Netherlands: yes, I am willing to relocate.",
+    "location": {
+        "country": "Netherlands",
+        "short": "Maastricht, Limburg",
+        "city": "Maastricht",
+        "state": "Limburg",
+        "default": "Maastricht, Limburg, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            },
+            {
+                "country": "NL",
+                "language": "nl"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "Dutch",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "English",
+                "proficiency": "FULL_PROFESSIONAL"
+            },
+            {
+                "name": "French",
+                "proficiency": "ELEMENTARY"
+            },
+            {
+                "name": "German",
+                "proficiency": "PROFESSIONAL_WORKING"
+            }
+        ]
+    },
+    "industry": "Information Technology & Services",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 1987
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 1994
+                }
+            },
+            "school": {
+                "name": "Utrecht University",
+                "logo": "https://media.licdn.com/dms/image/C510BAQG6HfmPTdJKXw/company-logo_400_400/0/1519884681258?e=1700697600&v=beta&t=i09IbD7RibJlZYVNrl7o5pIy-Ip7_0I2XZqXZA9kXUI",
+                "url": "https://www.linkedin.com/school/universiteit-utrecht/"
+            },
+            "degree_name": "MSc",
+            "field_of_study": "Computer Science"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 1981
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 1987
+                }
+            },
+            "school": {
+                "name": "Corderius College",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "VWO",
+            "field_of_study": "Gymnasium"
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "Convoy Track Dissemination in ISAF",
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2010
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2010
+                }
+            },
+            "description": "Goal: to disseminate convoy tracks from commercial companies to ISAF NATO systems in Afghanistan.\n\nThe Theater Movement Coordination Cell (TMCC) of the ISAF in Afghanistan requires situational awareness regarding the movement of convoys in Afghanistan. Commercial companies track their convoys using satellite transponders. This location data must be delivered to particular NATO systems in Afghanistan in a standardized format. The NATO track dissemination architecture is ISAF was extended for this purpose. \n\nRole: Technical lead for software development, hardware procurement, and deployment in ISAF, which includes accreditation. In short, everything related to NIRIS. This work also included interviews and selection of contractors for executing work in ISAF. ",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Ronald",
+                    "last_name": "van Loon",
+                    "name": null,
+                    "headline": "Software Engineering Manager bij Booking.com"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "David",
+                    "last_name": "Lindeijer",
+                    "name": null,
+                    "headline": "Freelance Software & Solution Architect"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Merve",
+                    "last_name": "Dirim",
+                    "name": null,
+                    "headline": "Principal Scientist"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Jelle",
+                    "last_name": "van Zeijl",
+                    "name": null,
+                    "headline": "Chief Scientific Assistent at NCIA"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Pablo",
+                    "last_name": "Esteban",
+                    "name": null,
+                    "headline": "Integration System Engineer at NATO Communications and Information Agency (NCI Agency)"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Armand",
+                    "last_name": "Helberg",
+                    "name": null,
+                    "headline": "Systems Analyst at NATO Communications and Information Agency (NCIAgency)"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Dario",
+                    "last_name": "Cadamuro",
+                    "name": null,
+                    "headline": "DAS | C2 Service Line |Enabling Services Group Lead at NATO Communications and Information Agency"
+                }
+            ]
+        },
+        {
+            "title": "Motif++",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 1992
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2000
+                }
+            },
+            "description": "Motif++ was a library written in C++, originally developed at the University of Lowell. However, that library implementation was incomplete, as well as not completely consistent. I added the possibility to have C++ virtual functions be called by the X11-framework. As proof-of-concept, a number of sample programs were included, among which a solver of Logigrams, a logic puzzle still popular today. With Motif becoming less prevalent in industry, my involvement with Motif++ ended.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Ronald",
+                    "last_name": "van Loon",
+                    "name": null,
+                    "headline": "Software Engineering Manager bij Booking.com"
+                }
+            ]
+        }
+    ],
+    "publications": [
+        {
+            "name": "Professional Linux Programming",
+            "publisher": "WROX",
+            "url": "https://www.amazon.com/Computers-Technology-Ronald-van-Loon-Books",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2000
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Ronald",
+                    "last_name": "van Loon",
+                    "name": null,
+                    "headline": "Software Engineering Manager bij Booking.com"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Neil Matthews",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Richard Stones",
+                    "headline": null
+                }
+            ]
+        }
+    ],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 11348,
+                "name": "Booking.com",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQEgzF5azm3fNA/company-logo_400_400/0/1628510256914?e=1700697600&v=beta&t=oaxCkHySuLgrEFLXxw_Q9XDv1cHJeWHoyplnre8Oexo",
+                "url": "https://www.linkedin.com/company/booking.com/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amsterdam, North Holland, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Booking.com",
+                    "description": null,
+                    "title": "Software Engineering Manager",
+                    "employment_type": "Permanent"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 79111,
+                "name": "ADLINK Technology",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQGwrv9aPJZLQg/company-logo_400_400/0/1657504998681?e=1700697600&v=beta&t=_8v4wEG4QQp0u7trea8-2QYUeUKM_xwO262YMd8XagM",
+                "url": "https://www.linkedin.com/company/adlink-technology/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Hengelo, The Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2021
+                        }
+                    },
+                    "company": "ADLINK Technology",
+                    "description": null,
+                    "title": "Edge Solutions Architect",
+                    "employment_type": "Permanent"
+                },
+                {
+                    "location": "Hengelo, The Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "ADLINK Technology",
+                    "description": null,
+                    "title": "Development Manager",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 2609111,
+                "name": "NATO Communications and Information Agency (NCI Agency)",
+                "logo": "https://media.licdn.com/dms/image/C560BAQFzG4wQDMjVbg/company-logo_400_400/0/1649329139021?e=1700697600&v=beta&t=yiPIfPQ95MrSQWryuGVGIqKd1TxVHkXbxMOBhQL-FDY",
+                "url": "https://www.linkedin.com/company/nato-communications-and-information-agency-nciagency-/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Genk, Belgium",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2018
+                        }
+                    },
+                    "company": "NATO Communications and Information Agency (NCI Agency)",
+                    "description": "I have been in the following roles:\n- I was a member of the ACCS Data Implementation team, responsible for the development of tools for successful distribution of ACCS related databases.\n- I was a member of the ASIM Scrum Team. As such responsible for maintenance of the product, analysis of ECPs, development of required features and overall improvement of the product.",
+                    "title": "Software Engineer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 5634,
+                "name": "NCI Agency - Nato Programming Centre",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQFIazqu_C6Nbw/company-logo_400_400/0/1519856132129?e=1700697600&v=beta&t=sMdsjTOMDHb7bLuupeR4rcQbBBceehInuZZBUnMws60",
+                "url": "https://www.linkedin.com/company/nato-c3-agency/",
+                "employees": {
+                    "start": 501,
+                    "end": 1000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2004
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Glons, Belgium",
+                    "date": {
+                        "start": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2011
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2014
+                        }
+                    },
+                    "company": "NATO C3 Agency",
+                    "description": "As a Lead Engineer I was fulltime responsible for the quality and release of the NIRIS application software to over 200 NATO sites, as well as Second Line Support for problem tickets. This job entailed handling and analysis of Engineering Change Proposals to drive product enhancements, as well as the handling of product defects. Other parts of the job dealt with the software build process, the creation of documentation and product presentations (also at conferences). Save for the actual product development, pretty much the entire software lifecycle. \n- During my time at NPC, I restructured the way software was developed and built by introducing the Maven software build tool. Following a restructure of the NIRIS software repository, this resulted in a reduction of overhead, reducing built time for the entire NIRIS product to about 2,5 hours, and a turn-around time from handover to customer release from months to weeks.",
+                    "title": "NIRIS Leading Engineer",
+                    "employment_type": null
+                },
+                {
+                    "location": "The Hague Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2004
+                        },
+                        "end": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2011
+                        }
+                    },
+                    "company": "NATO C3 Agency",
+                    "description": "I was involved in a number of projects, such as\n- COALITION SHARED DATABASE (CSD): The CSD is a key interoperability component of the MAJIIC nations. I was the chief architect of the new CSD metadata-model, now part of STANAG 4559, edition 3. On my own initiative, I wrote several documents with respect to the use of this model and its implications for existing and new CSD clients and servers for the MAJIIC community. Some of these documents were included in the Interface Design Document for the CSD. On the development side, I acted as the Technical Team Lead for the design and implementation of the proposed new metadata model. New priorities in the Agency necessitated a transfer to the PSR INT004A team. Even after moving, I continued to give guidance and troubleshoot major and minor issues in the CSD development process to ensure a successful MAJEX08 exercise.\n- PSR INT004A (FULL MOTION VIDEO FOR ISAF): I was one of the key designers of the PSR INT 004A FMV DSAR solution. I have contributed to the Type B Cost Estimate (TBCE) as well its GM mandated revision, which was subsequently approved by the IC committee. I acted as a liaison to industry in this phase of the project. I have worked on both the Notification of Intent (NOI) as well as the Statement of Work (SOW).\n- STANAG MEETINGS: I have attended one STANAG 4559 meeting where I introduced the new metadata model as proposed for the MAJIIC CSD. I also attended and contributed to two STANAG 4609 (Full Motion Video) meetings.\n- EXERCISE AND DEMONSTRATION SUPPORT: I provided technical support during the Enterprise Challenge 2008 exercise as well as during MAJEX 2008. I also acted a facilitator and subject matter expert for a joint NC3A-TNO NEC demonstration. \n- NIRIS: I was part of the development team for NIRIS, alternating between Deputy Technical\nLead and Team Production Member as needed.",
+                    "title": "Scientist",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1009,
+                "name": "IBM",
+                "logo": "https://media.licdn.com/dms/image/D560BAQGiz5ecgpCtkA/company-logo_400_400/0/1688684715427?e=1700697600&v=beta&t=u5Re06Myc9BstE2M6qN9MMORKODl8XmTlCBTPMoVtXk",
+                "url": "https://www.linkedin.com/company/ibm/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2000
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2004
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amsterdam Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2000
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2004
+                        }
+                    },
+                    "company": "IBM",
+                    "description": "I have worked within various units of IBM. I will now list each unit in turn.\n- 1/2002-2004: IBM Learning Services, EMEA Development: Courseware developer and Project Team Lead for WebSphere Foundation products: Virtual assignment for IBM Learning Services EMEA, to create courseware as a Subject Matter Expert on the WebSphere Commerce and Foundation family of products, as well as \u201ccore\u201d skills, such as J2EE. The following job roles and activities were performed:\n  * Worked on a course on Enterprise Integration, WebSphere Process Choreographer and WebSphere Studio, Application Developer Integration Edition 5.0, WF371. This course dealt with WebServices and Business Integration using WebServices. Also taught part of this course at customer engagements.\n  * Served as Project Team Lead, as well as created the Lab Exercises for WF351, a popular Learning Services course on J2EE EJBs.\n  * Participated in a course on XML Development and WebServices (XM381)\n  * Created a course on development forWebSphere Commerce, Business Edition (programmer course)\n  * Received certification for development for WebSphere Commerce, Business Edition\n  * Received certification for development for Enterprise Connectivity with J2EE v1.3\n  * Updating a course on Basic Store Programming for WebSphere Commerce, Business Edition (programmer course)\n  * 4 courses on the use of WebSphere Commerce Suite Accelerator, Pro 5.1 (end-user courses).\n9/2000-1/2001 e-Business Solutions: IT Architect, pre-sales consultant:  Member of a small pre-sales task force. Together with another IT Architect responsible for the technical aspects of presales work; my job focused on application architecture, his job on network and hardware-related infrastructure. My primary focus was on WebSphere Commerce Suite.",
+                    "title": "IT Architect",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 9758,
+                "name": "NOB",
+                "logo": null,
+                "url": "https://www.linkedin.com/company/nob/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 1998
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2000
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Hilversum, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 11,
+                            "day": null,
+                            "year": 1998
+                        },
+                        "end": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2000
+                        }
+                    },
+                    "company": "NOB",
+                    "description": "Roles: Projectleader, IT Architect, C++ Programmer, Technical Support\n\nProjects:\n- TMF Cyberchoice: TMF Cyberchoice is an interactive, stand-alone video playout system. It follows a certain format of clips rotation that can be influenced by an external telephone system and/or internet. By voting either by phone or through a web interface, viewers can influence the order of play. The video item that receives the most votes, will be played, if certain conditions are fulfilled. These conditions can include the amount of time that has elapsed since it was last played, or whether a clip by the same artist was played. My job was designing the system, building parts of the system in C++, system testing, function as the intermediate between the NOB and TMF, and provide technical support for the system.\nThe system relies on in-memory attributes of Microsoft's COM technology, combined with common TCP-IP protocols.\n- MPEG-2 Projects: As part of the \u201cInnovation\u201d team I was also responsible for the maintenance and rewrite of the Pantheon system \u2013 an in-house developed system to automate the encoding of public broadcasting stations to MPEG-1 and MPEG-2 and its subsequent transcoding to other formats, such as Windows Media and Real Video. I designed a new C++ framework that would handle the various metadata that floated around in the system, as well as writing a number of utilities and libraries that would accomplish the various tasks.",
+                    "title": "Senior System Engineer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 11739,
+                "name": "AND",
+                "logo": null,
+                "url": "https://www.linkedin.com/company/associated-new-media/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 1996
+                },
+                "end": {
+                    "month": 11,
+                    "day": null,
+                    "year": 1998
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 1996
+                        },
+                        "end": {
+                            "month": 11,
+                            "day": null,
+                            "year": 1998
+                        }
+                    },
+                    "company": "Associated New Media",
+                    "description": "have worked for two different units. I will describe the work for each unit in turn.\nUnit: Travel and Transport: During my work period for the Travel and Transport unit, I have maintained the MapLibrary, a C++ library that was used throughout the department in various routeplanning software. I also developed and maintained the MapControl, an ActiveX control that allowed for easy inclusion of the Map-Library functionality in AND software. Next to the actual software development, I also produced several version control and cleanroom testing and building procedures for the libraries and ActiveX controls written by me as well as others.\nUnit: Operations Research: During my work for the Operations Research unit I have contributed to the development of several libraries, ranging from multi-modality routeplanning (a routeplanning engine that allows you to use several means of transportation when going from A to B) to GUIs that were to be used within the various planning packages. I also developed some courseware that demonstrated the concepts of linear programming.",
+                    "title": "Senior Software Engineer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "SPC Vision",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 1994
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 1996
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 3,
+                            "day": null,
+                            "year": 1994
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 1996
+                        }
+                    },
+                    "company": "SPC Vision",
+                    "description": "SPC/Vision was a company that concerned itself with the production of multi-media titles on CD-i and CD-ROM. CD-i was a settop machine that ran the OS9 operating system and was one of the first set-top machines of its era. \n\nDuring my SPC period I have worked on the following projects:\nEncyclopedia Engine: The Encyclopedia Engine was produced for Philips Media, who needed a smash hit for the Dutch market to promote their CD-i product. I developed an encyclopedia engine from scratch that could produce automated parsers for (S)GML formatted source material. Those parsers would then produce output that would be linked against a dictionary and a list of parsed items, also making use of stemming techniques for the language used. For the source material used to test the engine, there were 1.5 million hyperlinks, on 50 megabytes of raw text data. Only 5 % of the words and phrases were not hyperlinked (mostly foreign language references)\n- Image Libraries: The CD-i environment used a number of device-specific image formats not normally found in graphical tools like Adobe Photoshop. I therefore developed a number of image conversion and processing libraries, that would read and write Photoshop files (including layers and paths) and produce the correct output files.\n- Automated GUI generator : The CD-i environment did not come with a built-in GUI system.\nI developed a menu system that would allow the work of the graphical artist to drive most of the GUI. This also took care of the programmer having to determine coordinates of items on the screen: the\ngraphical artist provided that information as part of his work. The menu generator would then include that information as part of the build process and the programmer only needed to program the actions.\n- HTML/HTTP parser: One of the final projects I worked on was one of the first HTML browsers\nto work on a set-top box. This was in 1994, when the web was still in its infancy.",
+                    "title": "Senior Software Engineer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "University Medical Centre, Utrecht",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 1992
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 1994
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Utrecht Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 1992
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": 1994
+                        }
+                    },
+                    "company": "University Medical Centre, Utrecht",
+                    "description": "I worked on the CoViRa project, which was part of the Advanced Informatics in Medicine program of the European Community. The project dealt with all kinds of aspects of medical imaging, and I concerned myself with volume visualization in medical imaging. During my work, I developed several\nGUI related software for display of 24-bit RGB-images on any kind of X terminal (including monochrome and palette based), as well as a movie player for generated images. I also developed a generic STL-like library for use within the consortium.",
+                    "title": "Scientific Researcher",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "System Architecture",
+        "Software Design",
+        "Software Engineering",
+        "Software Development",
+        "Distributed Systems",
+        "Systems Engineering",
+        "Software Project Management",
+        "Requirements Analysis",
+        "Integration",
+        "Requirements Management",
+        "Computer Science",
+        "Agile Methodologies",
+        "Programming",
+        "System Design",
+        "Algorithms",
+        "Design Patterns",
+        "Software design",
+        "Solution Architecture",
+        "Software Development Life Cycle (SDLC)",
+        "Software Documentation"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

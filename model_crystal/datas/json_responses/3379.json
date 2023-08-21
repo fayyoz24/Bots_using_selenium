@@ -1,0 +1,363 @@
+{
+    "profile_id": "francois-blanchy-9352481",
+    "first_name": "Francois",
+    "last_name": "Blanchy",
+    "sub_title": "Software Engineer Staff at Juniper Networks (JNCIE-SP#1466, CCIE#12987 R&S+SP)",
+    "profile_picture": null,
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAAAA2pzkB9DJovcSpUQIM2t3MjzSNvJTEZDA",
+    "object_urn": 3581753,
+    "birth_date": null,
+    "summary": "After graduating a Master degree in Engineering (spec. Computer Sciences) from the university of Liege, I worked as a researcher for 2 years in the Networking Unit of Professor Guy Leduc.\n\nI joined Cisco in July 2003 and have been working in the TAC (3rd level technical support) in the Core Architecture Team for 3 years. \n\nIn May 2006, I decided to leave Cisco for Juniper, where I worked as a Premier Account Engineer for broadband solutions and later (end 2007) for core. In May 2011 I was promoted to Escalation Engineer for broadband solutions.\n\nIn september 2012, still within Juniper, I moved to a software engineering group, tasked with maintaing service cards for MX platforms. This was a fully self-contained, embedded platform that had me working at a fairly low level (as an example, I had to write a heurestic stack unwind for mips) as well as application level (carrier grade NAT was the main use for those cards).\n\nIn 2016, I was assigned to take care of LACP common code, which involved a fair amount of embedded work again (I was tasked to move LACP pdus transmission to the hardware, so-called \"inlining\") and some BSD kernel work.\n\nSince 2019 I have been the lead engineer responsible for implementing TWAMP and RPM on Junos EVO from scratch for various platforms and bringing those to feature parity with legacy Junos.\n\nNetworking:\n- Double CCIE (Cisco Certified Internetworking Engineer #12987) for the Routing and Switching as well as Service Provider tracks, with excellent knowledge of IOS.\n- JNCIE-SP (#1466) and JNCIP-E (#97) certifications, with excellent knowledge of Junos and JunosE..\n- Experience in most relevant networking protocols (routing, management) as well as in designing, maintaining and troubleshooting networks.\n\nCoding:\n- C, C++, x86/MIPS assembly, Perl, Python, ...\n- Occasional involvement as an open source developper.\n- Used to debugging with various tools (GDB, objdump, valgrind,...).\n\nGeneral Skills:\n- Voice over IP (founder of www.myglobalconference.com)\n- Linux system administration\n- Network operations\n- Machine learning (university thesis in that field, more specifically regression trees)\n",
+    "location": {
+        "country": "Netherlands",
+        "short": "Amsterdam, North Holland",
+        "city": "Amsterdam",
+        "state": "North Holland",
+        "default": "Amsterdam, North Holland, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "English",
+                "proficiency": null
+            },
+            {
+                "name": "French",
+                "proficiency": null
+            },
+            {
+                "name": "German",
+                "proficiency": null
+            }
+        ]
+    },
+    "industry": "Computer Networking",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 1995
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2005
+                }
+            },
+            "school": {
+                "name": "University of Li\u00e8ge",
+                "logo": "https://media.licdn.com/dms/image/C560BAQEFiXfLC9g8IQ/company-logo_400_400/0/1519899178180?e=1700697600&v=beta&t=vnzmhBK0SsyknsWmEEA1mGERAshvnjPQg3AcPoMm0m0",
+                "url": "https://www.linkedin.com/school/university-of-liege/"
+            },
+            "degree_name": "Master in Engineering",
+            "field_of_study": "Computer Science"
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [
+        {
+            "name": "CCIE R&S",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Cisco Systems",
+            "url": null,
+            "license_number": "12987",
+            "display_source": null,
+            "company": null
+        },
+        {
+            "name": "CCIE SP",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Cisco Systems",
+            "url": null,
+            "license_number": "12987",
+            "display_source": null,
+            "company": null
+        },
+        {
+            "name": "JNCIE-SP",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Juniper Networks",
+            "url": null,
+            "license_number": "1466",
+            "display_source": null,
+            "company": null
+        },
+        {
+            "name": "JNCIP-E",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Juniper Networks",
+            "url": null,
+            "license_number": "97",
+            "display_source": null,
+            "company": null
+        }
+    ],
+    "organizations": [],
+    "projects": [],
+    "publications": [],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 2240,
+                "name": "Juniper Networks",
+                "logo": "https://media.licdn.com/dms/image/D560BAQHs1l2oz4krEw/company-logo_400_400/0/1686866547867?e=1700697600&v=beta&t=ygsMSpFkV5InX-VG6PpOs4VnDMk1H2Q-WV8oeLlPGtQ",
+                "url": "https://www.linkedin.com/company/juniper-networks/",
+                "employees": {
+                    "start": 5001,
+                    "end": 10000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2006
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2012
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Juniper Networks",
+                    "description": null,
+                    "title": "Software Engineer Senior Staff",
+                    "employment_type": null
+                },
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2011
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2012
+                        }
+                    },
+                    "company": "Juniper Networks",
+                    "description": null,
+                    "title": "Escalation engineer",
+                    "employment_type": null
+                },
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2006
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2011
+                        }
+                    },
+                    "company": "Juniper Networks",
+                    "description": null,
+                    "title": "Premier Account Engineer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1063,
+                "name": "Cisco",
+                "logo": "https://media.licdn.com/dms/image/D560BAQFVQnYFvzs9jw/company-logo_400_400/0/1688482473599?e=1700697600&v=beta&t=MYuiOCftTSeuCz3ROb1J2SpKxybb6Ar2ANn30cf3KKo",
+                "url": "https://www.linkedin.com/company/cisco/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2003
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2006
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2003
+                        },
+                        "end": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2006
+                        }
+                    },
+                    "company": "Cisco",
+                    "description": null,
+                    "title": "Customer support engineer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "University of Liege Belgium",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2001
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2003
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2001
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2003
+                        }
+                    },
+                    "company": "University of Liege Belgium",
+                    "description": null,
+                    "title": "Research Engineer",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Routing",
+        "Cisco IOS",
+        "CCIE",
+        "JUNOS",
+        "IPv6",
+        "QoS",
+        "BGP",
+        "OSPF",
+        "Juniper",
+        "Multicast",
+        "MPLS",
+        "HSRP",
+        "MPLS VPN",
+        "IP",
+        "Routing Protocols",
+        "EIGRP",
+        "Network Architecture",
+        "VLAN",
+        "Load Balancing",
+        "ISIS"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

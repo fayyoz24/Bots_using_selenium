@@ -1,0 +1,469 @@
+{
+    "profile_id": "sarah-alsharif-",
+    "first_name": "Sarah",
+    "last_name": "Alsharif",
+    "sub_title": "Software Engineer @ Adyen",
+    "profile_picture": "https://media.licdn.com/dms/image/D4D03AQHvHxBRe_j2fQ/profile-displayphoto-shrink_800_800/0/1667562436320?e=1697673600&v=beta&t=0ie-J5OsMlo6ywG_oqF3fV_bKUbJOemBx_7MH0BzTMw",
+    "background_image": "https://media.licdn.com/dms/image/C5616AQFapF1deTH8fw/profile-displaybackgroundimage-shrink_350_1400/0/1609959457495?e=1697673600&v=beta&t=xRHDk25uOrobyxLd2TvP9w03_d8HTHkoUxoWzE7LLas",
+    "profile_type": "personal",
+    "entity_urn": "ACoAADOtApABccScXre76U85VyCMG2lW2WigDVE",
+    "object_urn": 866976400,
+    "birth_date": {
+        "month": 1,
+        "day": 6,
+        "year": null
+    },
+    "summary": null,
+    "location": {
+        "country": "Netherlands",
+        "short": "Amsterdam, North Holland",
+        "city": "Amsterdam",
+        "state": "North Holland",
+        "default": "Amsterdam, North Holland, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "Arabic",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "English",
+                "proficiency": "FULL_PROFESSIONAL"
+            }
+        ]
+    },
+    "industry": "Information Technology & Services",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2023
+                }
+            },
+            "school": {
+                "name": "Palestine Polytechnic University",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQGFQHrX0uQkZw/company-logo_400_400/0/1636461279234?e=1700697600&v=beta&t=bNr3tIijaikUglkQPoOCx86CaHWVp5URq2TNBDpzyks",
+                "url": "https://www.linkedin.com/school/palestine-polytechnic-university/"
+            },
+            "degree_name": "Bachelor's degree",
+            "field_of_study": "Computer Science"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "school": {
+                "name": "Mohammad Ali Al-Mohtaseb High School",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "General Secondary Education",
+            "field_of_study": "Scientific Stream"
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [
+        {
+            "name": "Manara-Certified Software Engineer",
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Manara",
+            "url": "https://www.credly.com/badges/ef0a92d1-c37c-4a71-905f-04636490428a",
+            "license_number": "ef0a92d1-c37c-4a71-905f-04636490428a",
+            "display_source": "credly.com",
+            "company": {
+                "id": null,
+                "name": "Manara",
+                "logo": "https://media.licdn.com/dms/image/C560BAQGgzOCb7D3Jyg/company-logo_400_400/0/1599576863253?e=1700697600&v=beta&t=YtkhJSTWsOVd_v-CVJIiVP6nigLLGW2O7E-YriepqM8",
+                "url": null
+            }
+        },
+        {
+            "name": "Grokking the Coding Interview: Patterns for Coding Questions",
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Educative, Inc.",
+            "url": "https://www.educative.io/verify-certificate/ovykgD5jjxrh8P3qo8ryvBt7OowvyyWkvTq",
+            "license_number": "ovykgD5jjxrh8P3qo8ryvBt7OowvyyWkvTq",
+            "display_source": "educative.io",
+            "company": {
+                "id": null,
+                "name": "Educative, Inc.",
+                "logo": "https://media.licdn.com/dms/image/C560BAQHRAnQV-eupnA/company-logo_400_400/0/1675887524478?e=1700697600&v=beta&t=rgPVwc5TwWPd2Jep7wlCne_ugF91VS91wsPiQcJR1Gk",
+                "url": null
+            }
+        }
+    ],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "Friends Book",
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "description": "The project represents a website similar to Facebook, where users can post to their feeds, add friends, message them, and interact with their posts.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Sarah",
+                    "last_name": "Alsharif",
+                    "name": null,
+                    "headline": "Software Engineer @ Adyen"
+                }
+            ]
+        },
+        {
+            "title": "1D Particles Filter with Monte Carlo Localization",
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "description": "A visualization of 1-D particles filter localization in 2-D space using sensor readings curve. A robot is located on a long corridor (1 dimensional) and is moving along it. It uses sensor information that helps it find its location.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Sarah",
+                    "last_name": "Alsharif",
+                    "name": null,
+                    "headline": "Software Engineer @ Adyen"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Suhair",
+                    "last_name": "Shareef",
+                    "name": null,
+                    "headline": "Software Engineer"
+                }
+            ]
+        },
+        {
+            "title": "Movies App",
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "description": "A mobile application that allows users to browse through movies with their information, search through them, and add movies to their watch list, with the movies being classified into categories.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Sarah",
+                    "last_name": "Alsharif",
+                    "name": null,
+                    "headline": "Software Engineer @ Adyen"
+                }
+            ]
+        },
+        {
+            "title": "Search Engine - Pubmed Articles",
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "description": "A search engine that allows users to search through articles and the information of their authors, with the ability to filter the search results. It has a variety of features like facets, pagination, and auto-completion.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Sarah",
+                    "last_name": "Alsharif",
+                    "name": null,
+                    "headline": "Software Engineer @ Adyen"
+                }
+            ]
+        }
+    ],
+    "publications": [],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 279565,
+                "name": "Adyen",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQGCuaSq8TqalA/company-logo_400_400/0/1664880075658?e=1700697600&v=beta&t=qtuxXlU0UUvn3JvXu5Y3Z-G6plU5zCGnZRv7PlBLs6s",
+                "url": "https://www.linkedin.com/company/adyen/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2023
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amsterdam, North Holland, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2023
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Adyen",
+                    "description": null,
+                    "title": "C++ Application Engineer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 15836939,
+                "name": "Sada Intelligence Solutions",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQGlTi06DmbdmA/company-logo_400_400/0/1564431126492?e=1700697600&v=beta&t=OB5FvM34hXBJVgTgPMVlnF75kmjU9Ms3YheZhlNsk3w",
+                "url": "https://www.linkedin.com/company/sadasol/",
+                "employees": {
+                    "start": 2,
+                    "end": 10
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2023
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Hebron, West Bank",
+                    "date": {
+                        "start": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2023
+                        }
+                    },
+                    "company": "Sada Intelligence Solutions",
+                    "description": null,
+                    "title": "Full-stack Developer",
+                    "employment_type": "Internship"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "PSEU",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Hebron, West Bank",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "PSEU",
+                    "description": "An advanced coding training focused on building autonomous software engineers ready for any job in the tech industry. Using coding skills to build projects while learning new technology on the fly\nDeveloped web applications by applying basic software engineering concepts such as library system, city tour app, doctor appointment, and currency converter.\nWorked in teams, demonstrating real-life software companies and applying Agile methodologies.",
+                    "title": "Software Engineer",
+                    "employment_type": "Internship"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 3234032,
+                "name": "Gaza Sky Geeks",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQGm87mmHA-2Qw/company-logo_400_400/0/1633591458430?e=1700697600&v=beta&t=5W9tfAlNCHmGGV5bN1mEAhe1pcUVdN6UKJrj2Cx2HS0",
+                "url": "https://www.linkedin.com/company/gaza-sky-geeks/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Hebron, West Bank",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2020
+                        }
+                    },
+                    "company": "Gaza Sky Geeks",
+                    "description": "Foundations training that provides comprehensive introductions to web development fundamentals and the professional skills needed to succeed in a global, digital economy. Gained effective teamwork skills, and presentation skills.",
+                    "title": "Web Developer",
+                    "employment_type": "Internship"
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "360 Feedback",
+        "Analytic Problem Solving",
+        "Communication",
+        "Programming",
+        "Algorithms",
+        "Data Structures",
+        "NestJS",
+        "MongoDB",
+        "HTML5",
+        "Git",
+        "GitHub",
+        "PHP",
+        "NoSQL",
+        "React.js",
+        "Node.js",
+        "MySQL",
+        "Jira",
+        "Bitbucket",
+        "Computer Science",
+        "HTML"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}
