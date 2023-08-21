@@ -1,0 +1,676 @@
+{
+    "profile_id": "leomdg",
+    "first_name": "Leonardo",
+    "last_name": "Del Gesso",
+    "sub_title": "Sr. Software Engineer",
+    "profile_picture": "https://media.licdn.com/dms/image/C4E03AQFYBh1FR2351Q/profile-displayphoto-shrink_800_800/0/1642086957307?e=1697673600&v=beta&t=_IoFq8MeQmOTQXQ6PHF9zqvoXlPKp6vszO-gN1-4wGU",
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAAARo_60BeYCeLW5cI6wa-odpyF1ZxPCBlPI",
+    "object_urn": 73990061,
+    "birth_date": null,
+    "summary": "Computer Science Engineer focused on the study, analysis, specification, planning, architecting and development of applications supported by cloud infrastructures.\n\nHaving been part of several projects over the past fifteen years, both in company positions and through independent contracts, as engineer and/or technological leader, new interests start to arise.",
+    "location": {
+        "country": "Netherlands",
+        "short": "Amsterdam, North Holland",
+        "city": "Amsterdam",
+        "state": "North Holland",
+        "default": "Amsterdam, North Holland, Netherlands"
+    },
+    "premium": true,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "English",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "German",
+                "proficiency": "ELEMENTARY"
+            },
+            {
+                "name": "Spanish",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ]
+    },
+    "industry": "Computer Software",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2004
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2011
+                }
+            },
+            "school": {
+                "name": "Universidad Nacional de La Plata",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQHYXHfAmHJs7w/company-logo_400_400/0/1519866754211?e=1700697600&v=beta&t=bePmV_V17TQwvUDB1iDgtVMMjOXf54IPbsnLRA9Ss4A",
+                "url": "https://www.linkedin.com/school/universidad-nacional-de-la-plata/"
+            },
+            "degree_name": null,
+            "field_of_study": "Computer Science"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2003
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2003
+                }
+            },
+            "school": {
+                "name": "Universidad Nacional de La Plata",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQHYXHfAmHJs7w/company-logo_400_400/0/1519866754211?e=1700697600&v=beta&t=bePmV_V17TQwvUDB1iDgtVMMjOXf54IPbsnLRA9Ss4A",
+                "url": "https://www.linkedin.com/school/universidad-nacional-de-la-plata/"
+            },
+            "degree_name": "Economic Sciences",
+            "field_of_study": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "Industrial Equipment Maintenance Administration (COOPERTEi)",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "description": "As Project/Tech Leader and developer, in charge of the coordination and lead of a group of mechaincal engineers working towards, and for the course of several months, of specification.\n\nThe application is capable of auditioning the process which industrial equipment go through, mainly related to refineries such as YPF.\n\nIts main feature is the creation of complex task plans, which offer a way to stay updated in relation to the equipment being constructed/repaired as well as the human and machine resources being implemented in the (sub)tasks of said plan.\nSecondary capabilities include the classic management of users, roles, employees, equipment, materials stock and basic a query interface for employee productivity (including graphs), along with an alerts system for the users.\nAnother interesting feature is the way the application offers information to the company's clients through an alert system alongside a timeline, which shows the advances in the task plans.\n\nSingle-page, partially real-time, fully asynchronic web application.\n[AWS, NodeJS, Express, Socket.io, Browserify, OOP JavaScript, Backbone, etc.]\n\nhttps://github.com/leomdg/coopsys",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Leonardo",
+                    "last_name": "Del Gesso",
+                    "name": null,
+                    "headline": "Sr. Software Engineer"
+                }
+            ]
+        },
+        {
+            "title": "General Finances Management Application",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2009
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2009
+                }
+            },
+            "description": "Single-page, fully asynchronic and JSON-driven closed network web application.\n\nCapable of managing partners and their investments in a simple way as well as clients and their loans, alongside simple statistics and printing of bills.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Leonardo",
+                    "last_name": "Del Gesso",
+                    "name": null,
+                    "headline": "Sr. Software Engineer"
+                }
+            ]
+        },
+        {
+            "title": "Hospital Sbarra CRM",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2006
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2006
+                }
+            },
+            "description": "In cooperation with the UNLP and the Sbarra Hospital of La Plata, for the construction of an CRM aimed at both the administration of the institution as well as the evolution of patients through their clinical history and vaccination scheduling for children.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Leonardo",
+                    "last_name": "Del Gesso",
+                    "name": null,
+                    "headline": "Sr. Software Engineer"
+                }
+            ]
+        }
+    ],
+    "publications": [
+        {
+            "name": "Industrial Equipment Management Application",
+            "publisher": null,
+            "url": "https://github.com/leomdg/coopsys",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": null
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Leonardo",
+                    "last_name": "Del Gesso",
+                    "name": null,
+                    "headline": "Sr. Software Engineer"
+                }
+            ]
+        }
+    ],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 28590268,
+                "name": "ThreatFabric",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQFl87Ytx9EQAg/company-logo_400_400/0/1616798246221?e=1700697600&v=beta&t=bDL8gPmmueK19qQCrAdzQ3K3xSJjI4MTMUPBZPzwcT8",
+                "url": "https://www.linkedin.com/company/threatfabric/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amsterdam, North Holland, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "ThreatFabric",
+                    "description": null,
+                    "title": "Sr. Software Engineer ",
+                    "employment_type": "Permanent"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 19028197,
+                "name": "Founda",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQEJmv8badOT_w/company-logo_400_400/0/1631192795357?e=1700697600&v=beta&t=cIec7G7uZnVOBeOCZBMzota1Mv9Hr3f5yUSsA-XvwH8",
+                "url": "https://www.linkedin.com/company/founda/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amsterdam, North Holland, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "Founda",
+                    "description": "Healthcare interconnectivity hub system for data providers and consumers, composed of its own standards of data transfer based on FHIR.",
+                    "title": "Sr. Software Engineer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 18559884,
+                "name": "Reynen Court Inc.",
+                "logo": "https://media.licdn.com/dms/image/C560BAQGZo8z4FeOgJQ/company-logo_400_400/0/1617709026921?e=1700697600&v=beta&t=GKZ5kvPWt2pt6RAvkkLwS3dwvx1lDh7HPBtuFM2OT3A",
+                "url": "https://www.linkedin.com/company/reynen-court-llc/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amsterdam, North Holland, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2021
+                        }
+                    },
+                    "company": "Reynen Court Inc.",
+                    "description": "IaaS & PaaS solution for cloud provider agnostic deployment of Docker containerized and Helmized vendor applications for Tier-1 law firms.\n\nhttp://www.reynencourt.com/",
+                    "title": "Sr. Software Engineer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 3216472,
+                "name": "Qardio, Inc.",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQHSZuENYcAEJA/company-logo_400_400/0/1618840955223?e=1700697600&v=beta&t=V_n-Gwvj2p1GNgP_YSc0gBbapFUirU7Cte62VyDqStw",
+                "url": "https://www.linkedin.com/company/qardio/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amsterdam, North Holland, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "Qardio, Inc.",
+                    "description": "Remote patient monitoring of ECG/BP/Weight information for health institutions through an end-to-end IoT infrastructure.\n\nhttps://www.getqardio.com/qardiomd-heart-health/",
+                    "title": "Sr. Software Engineer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 3289061,
+                "name": "TurismoCity",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQH1KhzJZqo4lQ/company-logo_400_400/0/1658858284375?e=1700697600&v=beta&t=BeF5zqkb4X_tW8vE_pHNhj1kRBy3njECiSR9o9RrQ3k",
+                "url": "https://www.linkedin.com/company/turismocity/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "City of Buenos Aires, Argentina",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2016
+                        }
+                    },
+                    "company": "Turismocity",
+                    "description": "Tooling for the compilation and semantical evaluation of flight and hotels information to feed a price comparison portal.\n\nhttps://www.turismocity.com/",
+                    "title": "Sr. Software Engineer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 164401,
+                "name": "Inter-American Development Bank",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQFSx1RhXSYJuA/company-logo_400_400/0/1677187298585?e=1700697600&v=beta&t=q9Xl_vaqKR-6i9HuZTczx2EXzdLLDos34VKFwBrQxSY",
+                "url": "https://www.linkedin.com/company/inter-american-development-bank/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "City of Buenos Aires, Argentina",
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2016
+                        }
+                    },
+                    "company": "Inter-American Development Bank",
+                    "description": "External consultant as Principal Engineer for the construction of an administration and publication pipeline for projects founded by the IDB.\n\nhttp://www.iirsa.org/Infographic\nhttps://www.iadb.org/",
+                    "title": "Sr. Software Engineer",
+                    "employment_type": "Part-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Syntaxia",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "City of Buenos Aires, Argentina",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2016
+                        }
+                    },
+                    "company": "Syntaxia",
+                    "description": "External consultant as Principal Engineer for the construction of a Kindergarten CRM focused on following the development of Students through the years, Teacher-Parent communication and events organization.\n\nhttps://www.syntaxia.net/",
+                    "title": "Sr. Software Engineer",
+                    "employment_type": "Part-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 104150,
+                "name": "Modus",
+                "logo": "https://media.licdn.com/dms/image/D560BAQHwECcIVUKPAQ/company-logo_400_400/0/1688675839273?e=1700697600&v=beta&t=jrltBItVaqzNuLQqT7SjLWUzOKOq6rJ7AvOGbtRPaZk",
+                "url": "https://www.linkedin.com/company/modus-made/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "City of Buenos Aires, Argentina",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2013
+                        },
+                        "end": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2014
+                        }
+                    },
+                    "company": "Modus",
+                    "description": "Real Estate CRM aimed at helping brokers and agencies audition the process of high demand properties in the US.\n\nMoody's: Application provider of information and insight on company ratings through several different visualization tools.\n\nhttps://www.modus-made.com/",
+                    "title": "Sr. Software Engineer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 510511,
+                "name": "CMD - Grupo Clar\u00edn",
+                "logo": "https://media.licdn.com/dms/image/C560BAQEuRxF0thceMQ/company-logo_400_400/0/1519867408216?e=1700697600&v=beta&t=mKku0HrSGaywXp2YlWmE64Gf24N6qBAKaDHOujLHkQ0",
+                "url": "https://www.linkedin.com/company/clarin-global---cmd/",
+                "employees": {
+                    "start": 201,
+                    "end": 500
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "City of Buenos Aires, Argentina",
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2012
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2013
+                        }
+                    },
+                    "company": "Clarin Global - CMD",
+                    "description": "Applications surrounding an online gaming platform with an elevated userbase.",
+                    "title": "Sr. Software Engineer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 581667,
+                "name": "Onapsis Inc.",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQGVRZTnNQr68A/company-logo_400_400/0/1623068175074?e=1700697600&v=beta&t=2cgttQ1A1KMCNdMsWLTMPfaYtWCC8ojYs4W_bLZG3Yk",
+                "url": "https://www.linkedin.com/company/onapsis/",
+                "employees": {
+                    "start": 201,
+                    "end": 500
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2010
+                },
+                "end": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2010
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "City of Buenos Aires, Argentina",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2010
+                        },
+                        "end": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2010
+                        }
+                    },
+                    "company": "Onapsis",
+                    "description": "Tooling for the audition and pen-testing of system infrastructures for cybersecurity threats.\n\nhttps://www.onapsis.com/",
+                    "title": "Software Engineer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Object-Oriented Programming (OOP)",
+        "Linux",
+        "Technical Leadership",
+        "Requirements Analysis",
+        "Data Structures",
+        "Test Driven Development",
+        "Project Management",
+        "Product Development",
+        "Continuous Integration",
+        "Amazon Web Services (AWS)",
+        "Terraform",
+        "Helm",
+        "Python",
+        "Node.js",
+        "REST",
+        "SQL",
+        "NoSQL",
+        "Docker",
+        "Docker Compose",
+        "UML"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

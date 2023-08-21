@@ -1,0 +1,892 @@
+{
+    "profile_id": "ali-bayramov",
+    "first_name": "Ali",
+    "last_name": "Bayramov",
+    "sub_title": "Senior Security Architect",
+    "profile_picture": "https://media.licdn.com/dms/image/C5603AQHcpM0FDPE4EQ/profile-displayphoto-shrink_800_800/0/1664188960372?e=1697673600&v=beta&t=D6lMmEjrAJRsU4JF3-I-Ga07nhzQnOvHflchfPNTM20",
+    "background_image": "https://media.licdn.com/dms/image/D4D16AQGSRlaXsvBj2Q/profile-displaybackgroundimage-shrink_350_1400/0/1671644841785?e=1697673600&v=beta&t=l11hiULu0n31TzMQaKB5_kJgq9yF3W_bXx9djcT9ZgE",
+    "profile_type": "personal",
+    "entity_urn": "ACoAAArKz3YBVv3_SlvtOzEuBSHiAFGF_UDdFFg",
+    "object_urn": 181063542,
+    "birth_date": null,
+    "summary": "With a wealth of experience in the field of cybersecurity, I have specialized knowledge in SIEM/SOC implementation and management. Throughout my career, I have successfully deployed and fine-tuned cutting- edge SIEM solutions, harnessing their power to detect and respond to security incidents effectively. My expertise extends to developing robust security architectures that encompass defense-in-depth strategies, secure network segmentation, and advanced access controls. I am well-versed in conducting thorough security assessments, identifying vulnerabilities, and recommending targeted remediation measures to enhance overall security posture. I possess extensive expertise in successfully transitioning XDR Cortex to ngSIEM. To achieve this, I have set up a dedicated broker VM to collect specific event IDs through Windows Event Collection. These events are classified based on official Windows EventIDs, ensuring accurate and targeted log collection.\n\nTo enhance the security posture, I have employed the DB Collector to monitor behavior connections and identify outliers. This allows for early detection of potential security incidents and prompt response.\n\nLeveraging the files and folders function, I have effectively controlled and managed access to sensitive data, mitigating the risk of unauthorized access.\n\nMoreover, I have integrated over 6-7 Threat Intelligence (TI) platforms into Cortex XDR, bolstering the platform with valuable IOCs and enabling efficient correlation in my archive. By incorporating IOCs, I can promptly detect and respond to emerging threats.\n\nFurthermore, I have honed my skills in creating BIOC (Behavioral Indicators of Compromise) rules for advanced correlations. These rules play a crucial role in identifying sophisticated attack patterns and malicious activities, contributing to the overall security posture.\n\nThrough my extensive experience and comprehensive skill set, I have successfully implemented ngSIEM while harnessing the full capabilities of XDR Cortex, bolstering the organization's security posture and incident response capabilities.",
+    "location": {
+        "country": "Netherlands",
+        "short": "Amsterdam, North Holland",
+        "city": "Amsterdam",
+        "state": "North Holland",
+        "default": "Amsterdam, North Holland, Netherlands"
+    },
+    "premium": true,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "English",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ]
+    },
+    "industry": "Higher Education",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "school": {
+                "name": "SANS Technology Institute",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQEtC5h1L4hi6A/company-logo_400_400/0/1519907149184?e=1700697600&v=beta&t=d08fyRVTmD9zhj_DOoEatS6e1dgA7Nk9AyvV4Wea8Rc",
+                "url": "https://www.linkedin.com/school/sans-technology-institute/"
+            },
+            "degree_name": null,
+            "field_of_study": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2006
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2010
+                }
+            },
+            "school": {
+                "name": "Computer College",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "Finance",
+            "field_of_study": "Major"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 1994
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2003
+                }
+            },
+            "school": {
+                "name": "School 8",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "Baku Computer College",
+            "field_of_study": "Computer Programming"
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [
+        {
+            "name": "Digital Forensics Incident Response",
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "SANS Institute",
+            "url": null,
+            "license_number": null,
+            "display_source": null,
+            "company": {
+                "id": null,
+                "name": "SANS Institute",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQFXP6rIfo489A/company-logo_400_400/0/1524076923596?e=1700697600&v=beta&t=7Wd3HruvCns1tcZOpNzphTfUb3KOhUB4_kS0ziqzCKY",
+                "url": null
+            }
+        },
+        {
+            "name": "MGT551: Building and Leading Security Operations Centers",
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "SANS Institute",
+            "url": null,
+            "license_number": null,
+            "display_source": null,
+            "company": {
+                "id": null,
+                "name": "SANS Institute",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQFXP6rIfo489A/company-logo_400_400/0/1524076923596?e=1700697600&v=beta&t=7Wd3HruvCns1tcZOpNzphTfUb3KOhUB4_kS0ziqzCKY",
+                "url": null
+            }
+        },
+        {
+            "name": "SEC555 SIEM with Tactical Analytics",
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "SANS Institute",
+            "url": null,
+            "license_number": null,
+            "display_source": null,
+            "company": {
+                "id": null,
+                "name": "SANS Institute",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQFXP6rIfo489A/company-logo_400_400/0/1524076923596?e=1700697600&v=beta&t=7Wd3HruvCns1tcZOpNzphTfUb3KOhUB4_kS0ziqzCKY",
+                "url": null
+            }
+        },
+        {
+            "name": "Certified Ethical Hacking V9 (312-50)",
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "EC-Council",
+            "url": null,
+            "license_number": null,
+            "display_source": null,
+            "company": {
+                "id": null,
+                "name": "EC-Council",
+                "logo": "https://media.licdn.com/dms/image/C560BAQHPon7g_XjJpA/company-logo_400_400/0/1519901653038?e=1700697600&v=beta&t=e6n01j63gt1ObEqpJE0bt_6dQSwe5R7GMurtEPRZK1M",
+                "url": null
+            }
+        },
+        {
+            "name": "VMWare Certified Associate - Cloud Computing",
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "VMware",
+            "url": "http://vmware.com/go/verifycert",
+            "license_number": "12097929-8FF6-67B14871E9FE",
+            "display_source": "vmware.com",
+            "company": {
+                "id": null,
+                "name": "VMware",
+                "logo": "https://media.licdn.com/dms/image/C560BAQGRwuYZeI6aaA/company-logo_400_400/0/1588094413060?e=1700697600&v=beta&t=98rw54eKYH45EB2ORSXfM_JXXl7DhC95-0lfNR6PN3Q",
+                "url": null
+            }
+        },
+        {
+            "name": "VMWare Certified Associate - Data Center Virtualization",
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "VMware",
+            "url": "http://vmware.com/go/verifycert",
+            "license_number": "11653031-A30B-C0C4FB87D8A0",
+            "display_source": "vmware.com",
+            "company": {
+                "id": null,
+                "name": "VMware",
+                "logo": "https://media.licdn.com/dms/image/C560BAQGRwuYZeI6aaA/company-logo_400_400/0/1588094413060?e=1700697600&v=beta&t=98rw54eKYH45EB2ORSXfM_JXXl7DhC95-0lfNR6PN3Q",
+                "url": null
+            }
+        },
+        {
+            "name": "Windows Server 2008 Active Directory - Configuration",
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Microsoft",
+            "url": null,
+            "license_number": null,
+            "display_source": null,
+            "company": {
+                "id": null,
+                "name": "Microsoft",
+                "logo": "https://media.licdn.com/dms/image/C560BAQE88xCsONDULQ/company-logo_400_400/0/1618231291419?e=1700697600&v=beta&t=gohrejCATVB1ukPwpEYzd2garcSVcEoHmQjS3W-NJk8",
+                "url": null
+            }
+        }
+    ],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "Implementation of Symantec Endpoint Security",
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "description": "I have managed implementation of Antivirus and ESD Control System, based on Symantec Endpoint Protection. Created users groups, distributes their access to ESD using created security policy. ",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Ali",
+                    "last_name": "Bayramov",
+                    "name": null,
+                    "headline": "Senior Security Architect"
+                }
+            ]
+        },
+        {
+            "title": "Global CCTV system",
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "description": "Created global CCTV system for Bank, based on:\no\tVideonet CCTV system (120 IP cameras and 8 IP servers)\no\tEcastle CCTV system,(more, than 600 analog cameras and more, than 50 DVR systems)\no\tIntellect CCTV system for ATM\u2019s (more, than 90 analog cameras and 46 systems)\n",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Ali",
+                    "last_name": "Bayramov",
+                    "name": null,
+                    "headline": "Senior Security Architect"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Elshan",
+                    "last_name": "Akhundov",
+                    "name": null,
+                    "headline": "Solution Design & Configuration unit /  senior engineer at Azercell Telecom LLC"
+                }
+            ]
+        },
+        {
+            "title": "Global CCTV system",
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "description": "Created global CCTV system for Bank, based on:\no\tVideonet CCTV system (120 IP cameras and 8 IP servers)\no\tEcastle CCTV system,(more, than 600 analog cameras and more, than 50 DVR systems)\no\tIntellect CCTV system for ATM\u2019s (more, than 90 analog cameras and 46 systems)\n",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Ali",
+                    "last_name": "Bayramov",
+                    "name": null,
+                    "headline": "Senior Security Architect"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Elshan",
+                    "last_name": "Akhundov",
+                    "name": null,
+                    "headline": "Solution Design & Configuration unit /  senior engineer at Azercell Telecom LLC"
+                }
+            ]
+        },
+        {
+            "title": "Global CCTV system",
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "description": "Created global CCTV system for Bank, based on:\no\tVideonet CCTV system (120 IP cameras and 8 IP servers)\no\tEcastle CCTV system,(more, than 600 analog cameras and more, than 50 DVR systems)\no\tIntellect CCTV system for ATM\u2019s (more, than 90 analog cameras and 46 systems)\n",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Ali",
+                    "last_name": "Bayramov",
+                    "name": null,
+                    "headline": "Senior Security Architect"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Elshan",
+                    "last_name": "Akhundov",
+                    "name": null,
+                    "headline": "Solution Design & Configuration unit /  senior engineer at Azercell Telecom LLC"
+                }
+            ]
+        },
+        {
+            "title": "Security Systems for Bank branches",
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2006
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "description": "From 2006 up to date I have designed, developed, implemented and delivered security systems (CCTV, Fire, Alarm and Access Control) in more, than 50 branches of Unibank",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Ali",
+                    "last_name": "Bayramov",
+                    "name": null,
+                    "headline": "Senior Security Architect"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Elshan",
+                    "last_name": "Akhundov",
+                    "name": null,
+                    "headline": "Solution Design & Configuration unit /  senior engineer at Azercell Telecom LLC"
+                }
+            ]
+        },
+        {
+            "title": "Security Systems for Bank branches",
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2006
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "description": "From 2006 up to date I have designed, developed, implemented and delivered security systems (CCTV, Fire, Alarm and Access Control) in more, than 50 branches of Unibank",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Ali",
+                    "last_name": "Bayramov",
+                    "name": null,
+                    "headline": "Senior Security Architect"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Elshan",
+                    "last_name": "Akhundov",
+                    "name": null,
+                    "headline": "Solution Design & Configuration unit /  senior engineer at Azercell Telecom LLC"
+                }
+            ]
+        },
+        {
+            "title": "Computer Information Leaking Prevention System",
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2010
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2010
+                }
+            },
+            "description": "I has managed a project of creation, implementation and operation of Computer Information Leaking Prevention System, based on IP Guard",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Ali",
+                    "last_name": "Bayramov",
+                    "name": null,
+                    "headline": "Senior Security Architect"
+                }
+            ]
+        }
+    ],
+    "publications": [],
+    "courses": [
+        {
+            "name": "SEC555 SIEM with Tactical Analytics",
+            "number": "D01_04_SF-5645"
+        },
+        {
+            "name": "VMWare vSphere : Install , Configure, Manage [ICM 5.1]",
+            "number": null
+        }
+    ],
+    "test_scores": [
+        {
+            "name": "Certified Ethical Hacker",
+            "score": "90%",
+            "date": {
+                "month": 9,
+                "day": null,
+                "year": 2016
+            }
+        },
+        {
+            "name": "Certified Ethical Hacker - Hacking and Penetration Testing",
+            "score": "100%",
+            "date": {
+                "month": 9,
+                "day": null,
+                "year": 2016
+            }
+        }
+    ],
+    "position_groups": [
+        {
+            "company": {
+                "id": 88906094,
+                "name": "PRO-ACADEMY",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQHPIYUwcxc-ng/company-logo_400_400/0/1664458198519?e=1700697600&v=beta&t=n5416B9RjKmMTIDocse99TE2qYIJdICsILySSct4Q3w",
+                "url": "https://www.linkedin.com/school/prooacademy/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "PRO-ACADEMY",
+                    "description": "Cyber Security instructor at Azerbaijan State Oil and Industry University\nFaculty - Digital Forensics and Incident Response",
+                    "title": "Sr. Instructor",
+                    "employment_type": "Contract"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 19192559,
+                "name": "Prosol CJSC",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQFSUnrctlq_6w/company-logo_400_400/0/1654605590938?e=1700697600&v=beta&t=HAJYV32t9Smo0brycpxG5VmfegBDn5eqoPZ8W8WiUd8",
+                "url": "https://www.linkedin.com/company/prosol-az/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Baku, Azerbaijan",
+                    "date": {
+                        "start": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "PROSOL",
+                    "description": "\u2022  Development and design of security architecture \n\u2022  Develop understanding of architecture of systems with current security issues and risks \n\u2022  Leads security analysis utilizing trends, threat analysis, and current business understanding. From this analysis diagnose or make recommendations for security improvements and risk mitigation \n\u2022  Understand future business growth needs and determines impacts and risks to the security architecture \n\u2022  Understand project or release requirements and determine impacts and risks to the system security \n\u2022  Provide cost effective architecture recommendations to support the security system\u2019s growth, maintain stability and provide a good user performance experience \n\u2022  Research and Identify new technologies to improve system/data confidentiality, integrity, and availability. \n\u2022  Leads or assists technology and product assessments, performing evaluations as required and making acquisition recommendations. \n\u2022  Create and maintain architecture related strategies for existing and new solutions. \n\u2022  Identifies and develops improvements to procedures and processes to satisfy security architecture requirements and streamline operations. \n\u2022  Serves as a business wide leader in project execution and design of new or existing security architectures \n\u2022  Conduct requirements gathering/design sessions for new functionality and customizations \n\u2022  Test custom applications \n\u2022  Gathers and documents complex requirements for business needs and independently determines complex solution designs across multiple functional/systems/module areas \n\u2022  Develops project documentation including statements of work, detailed project plans, architecture designs, detailed implementation plans, deployment plans, project test plans and operational training materials",
+                    "title": "Senior Security Architect",
+                    "employment_type": "Full-time"
+                },
+                {
+                    "location": "Baki, Azerbaijan",
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2020
+                        },
+                        "end": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "PROSOL",
+                    "description": "\u2022Build, develop and manage a Security Operations Center\n\u2022Manage all day to day activities within the SOC to ensure effective operation of intrusion detection and incident response\n\u2022Be accountable of all security incident management \n\u2022Ensure proper integration and handover of security services within the monitoring and detection capability of the SOC\n\u2022Conduct information security investigations as a result of security incidents identified by the tier 1/ 2 security analysts who are monitoring the security consoles from various SOC entry channels\n\u2022Act as a point of escalation for tier 1 and 2 SOC security analysts in support of information\n\u2022Conduct security investigations to provide guidance and oversight on incident resolution and containment techniques\n\u2022Mentor security analysts regarding risk management, information security controls, incident analysis, incident response, security monitoring, and other operational tasks in support of technologies managed by the Security Operations Centrer.\n\u2022Document incidents from initial detection through final resolution.\n\u2022Participate in security incident management and vulnerability management processes\n\u2022Participate in evaluating, recommending, implementing, and troubleshooting security solutions and evaluating IT security of the new IT Infrastructure systems.\n\u2022Works as part of a team to ensure that corporate data and technology platform components are safeguarded from known threats\n\u2022Communicate effectively with customers, teammates, and management\n\u2022Prepare Monthly Executive Summary Reports for managed clients and continuously improve their content and presentation\n\u2022Provide recommendations in tuning and optimization of security systems, SOC security process, procedures and policies\n\u2022Define, create and maintain correlation rules, customer build documents, security process and procedures\n\u2022Staying up-to-date with emerging security threats including applicable regulatory security requirements",
+                    "title": "Head of Cyber Analytics - Security Operations Center",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 266798,
+                "name": "PASHA Bank OJSC",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQGdGx9j9IHDYA/company-logo_400_400/0/1673851232619?e=1700697600&v=beta&t=FMW2DwjxEz6RQ7sv_86htue5Isr-Ftu3KBydUzohiAU",
+                "url": "https://www.linkedin.com/company/pasha-bank/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Pasha Bank",
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2020
+                        }
+                    },
+                    "company": "PASHA Bank OJSC",
+                    "description": "* Consuming logs using files or network ports\n* Finding ways to take \"ordinary\" logs and augment them to advanced detection capabilities\n* Develop visualizations and dashboards to find the adversary activity lurking within massive amounts of data\n* Centralize NIDS and HIDS alerts\n* Analyze endpoint security logs\n* Analyze vulnerability information\n* Correlate CVE, OSVDB, and other unique IDs with IDS alerts\n* Prioritize IDS alerts based on vulnerability context\n* Correlate malware sandbox logs with other systems to identify victims across enterprise\n* Monitor Firewall Activity\n* Identify scanning activity on inbound denies\n* Find unexpected outbound traffic\n* Baseline allow/denies to identify unexpected changes\n* Apply techniques to filter out noise in denied traffic\n* Configure systems to generate early log alerts after compromise\n* Identify file and folder scan activity\n* Identify malicious domains and IPs\n* Look for beaconing activity\n* Identifying recon\n* Find DNS C2 channels",
+                    "title": "Cyber Security Engineer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "MambaX LLC",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Azerbaijan",
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2018
+                        }
+                    },
+                    "company": "MambaX LLC",
+                    "description": "Web Application Analysis:\n   *Research and development of new web vulnerability detection techniques\n   *Developing attack signatures and heuristic models for the known security vulnerabilities\n   *Writing vulnerable test cases for each added security check\n   *Diagnosing security check bugs\n\n Penetration Testing\n   *Perform formal penetration tests on web-based applications, networks and computer systems\n   *Conduct physical security assessments of servers, systems and network devices\n   *Probe for vulnerabilities in web applications, fat/thin client applications and standard applications\n   *Pinpoint methods that attackers could use to exploit weaknesses and logic flaws\n   *Incorporate business considerations (e.g. loss of earnings due to downtime, cost of engagement, etc.) into security strategies\n   *Research, document and discuss security findings with management and IT teams\n   *Review and define requirements for information security solutions\n   *Work on improvements for security services, including the continuous enhancement of existing methodology material and supporting assets\n   *Provide feedback and verification as an organization fixes security",
+                    "title": "Penetration Tester",
+                    "employment_type": "Part-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 562466,
+                "name": "Unibank",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQGJ63ZuWtZw5g/company-logo_400_400/0/1663656413769?e=1700697600&v=beta&t=-fzzvgRHbKRvY4G-oM5P8_S9OFtdqo3N7St47D0Hux8",
+                "url": "https://www.linkedin.com/company/unibankazerbaijan/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Unibank",
+                    "date": {
+                        "start": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2012
+                        },
+                        "end": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2015
+                        }
+                    },
+                    "company": "Unibank",
+                    "description": "- Design and implement cyber security measures, requirements and data recovery plans\n- Identify potential cyber security weaknesses and ways to eliminate them\n- Ensure accurate security tools are running properly\n- Mitigate attacks, intrusions, and unusual, unauthorized or illegal activity\n- Identity and access management, including monitoring abuse of permissions by unauthorized users\n- Cooperate with various teams across the company in relation to cyber security issues\n- Research and evaluate emerging cyber security threats and ways to manage them\n- Stay up-to-date with cyber security practices\n- Give advice and guidance to staff on cyber security matters, i.e. spam and unwanted/malicious email",
+                    "title": "Information Security Administrator",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1389,
+                "name": "BP",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQED9BWwfHGKsA/company-logo_400_400/0/1688374636117?e=1700697600&v=beta&t=zcVP4u2SHxh2CpZSpa4hCSKVZrSczBi2jTDXB0unJwU",
+                "url": "https://www.linkedin.com/company/bp/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Villa Petrolea",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2011
+                        },
+                        "end": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2012
+                        }
+                    },
+                    "company": "bp",
+                    "description": "\u2022 Managed accounts , groups and controlling access in Insors Servers\n\u2022 Testing and installing new patch for Server Kernel (OS RedHat)\n\u2022 Upgrading and maintaining videoconference servers\n\u2022 Set up the new Video Conference Rooms , installing software, hardware,\nmanaging license\n\u2022 Set up the Polycom HD 5500 in OCO\n\u2022 Support the Microsoft Lync Server 2010\n\u2022 Support all services videoconference application",
+                    "title": "IT&S",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1060640,
+                "name": "BestComp Group",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQEniObyzwbyUg/company-logo_400_400/0/1575895624663?e=1700697600&v=beta&t=aEKyRbzBwtWUokeEXVyiYA9gVfTC9Pbf3RvmMWvXiTs",
+                "url": "https://www.linkedin.com/company/bestcompgroup/",
+                "employees": {
+                    "start": 201,
+                    "end": 500
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2008
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2011
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2008
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2011
+                        }
+                    },
+                    "company": "Bestcomp Group",
+                    "description": "\u2022 Provision of technical support for hardware/software configurations and\napplications.\n\u2022 Administration and support of local/LAN printers\n\u2022 Administration / provision of troubleshooting for Exchange protocols and\nMS Outlook\n\u2022 Maintained technical knowledge in networking area; operation system\n(Server & PC)\n\u2022 LAN administration : added users ; printers; removed users; controlling\naccess right list\n\u2022 Responsible for creating , testing PC images using Ghost Solution\n\u2022 Support of more than 50-100 users in different places , and remote users in\nAzerbaijan (Ganja)\n\u2022 Backup Administration",
+                    "title": "Network Engineer",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Analytical Skills",
+        "Cyber Defense",
+        "Cyber Threat Hunting (CTH)",
+        "Cyber Threat Intelligence (CTI)",
+        "Vulnerability Assessment",
+        "Penetration Testing",
+        "Cybersecurity Incident Response",
+        "Security Operations Center",
+        "VMware",
+        "Virtualization",
+        "Data Center",
+        "Network Security",
+        "Windows Server",
+        "Security",
+        "Red Hat Linux",
+        "Troubleshooting",
+        "VPN",
+        "Firewalls",
+        "DNS",
+        "Information Gathering"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

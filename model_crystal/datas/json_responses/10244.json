@@ -1,0 +1,976 @@
+{
+    "profile_id": "orkunonurgil",
+    "first_name": "Orkun",
+    "last_name": "Onurgil",
+    "sub_title": "Senior Backend Engineer at Jumbo Supermarkten",
+    "profile_picture": null,
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAABT8YrMBh1PIBHjZxG-RNLqAkxK4bu7HJRA",
+    "object_urn": 352084659,
+    "birth_date": null,
+    "summary": "Dedicated software engineer with 8 years of work experience developing high-quality software applications. Team player with excellent social abilities, and always supportive in the work environment. Has the necessary skills to lead a project to meet the customer needs.",
+    "location": {
+        "country": "Netherlands",
+        "short": "Eindhoven, North Brabant",
+        "city": "Eindhoven",
+        "state": "North Brabant",
+        "default": "Eindhoven, North Brabant, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "TR",
+            "language": "tr"
+        },
+        "supported_locales": [
+            {
+                "country": "TR",
+                "language": "tr"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "Frans\u0131zca",
+                "proficiency": "ELEMENTARY"
+            },
+            {
+                "name": "\u0130ngilizce",
+                "proficiency": "FULL_PROFESSIONAL"
+            }
+        ]
+    },
+    "industry": "Computer Software",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "school": {
+                "name": "TOBB Ekonomi ve Teknoloji \u00dcniversitesi",
+                "logo": "https://media.licdn.com/dms/image/D4D0BAQEvYmtVbcVoOg/company-logo_400_400/0/1683290218584?e=1700697600&v=beta&t=_TUeIJUVgdqj3URfpGdDFYFjsq6tKlaImItRsZvxGQk",
+                "url": "https://www.linkedin.com/school/tobb-ekonomi-ve-teknoloji-%C3%BCniversitesi/"
+            },
+            "degree_name": "Bachelor's degree",
+            "field_of_study": "Bilgisayar M\u00fchendisli\u011fi"
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [
+        {
+            "name": "SAFe 5 Practitioner Certification",
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Scaled Agile, Inc.",
+            "url": null,
+            "license_number": "45854642-3087",
+            "display_source": null,
+            "company": {
+                "id": null,
+                "name": "Scaled Agile, Inc.",
+                "logo": "https://media.licdn.com/dms/image/C560BAQFti5SCrDfBWA/company-logo_400_400/0/1668017354645?e=1700697600&v=beta&t=KGAKulUhd4KRj0fc1jhvJFUDQ4jo1plycE-UZ4qm7cA",
+                "url": null
+            }
+        }
+    ],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "Radar Network (RADNET)",
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "description": "\u2022\tImplemented the message interface of the new Radar from  IDD documents with using  C++.\n\u2022\tImplemented the user interface of the new Radar with using  Qt Designer in the Fedora operating system along with Makefile scripts.\n\u2022\tDiscovered a bug that always reads two bytes from the byte buffer which results in additional spare bits in the message.\n",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Orkun",
+                    "last_name": "Onurgil",
+                    "name": null,
+                    "headline": "Senior Backend Engineer at Jumbo Supermarkten"
+                }
+            ]
+        },
+        {
+            "title": "Checkers Game",
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "description": "We programmed a checkers game with AI(Artificial Intelligence) with JAVA. In every new game program was finding the best and fastest way to victory but while encountering new moves it was also restoring these moves in it's DB. More you play with the program more it was learning how to play.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Orkun",
+                    "last_name": "Onurgil",
+                    "name": null,
+                    "headline": "Senior Backend Engineer at Jumbo Supermarkten"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "\u0130hsan",
+                    "last_name": "Kahramano\u011flu",
+                    "name": null,
+                    "headline": "Mobile Software Architect | SAFe 5.1 Practitioner"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Merve S\u00fcsl\u00fc",
+                    "headline": null
+                }
+            ]
+        },
+        {
+            "title": "Grid Control Software",
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "description": "Full Stack Developer on Grid Control software. SAFe 5.1, Java 11, Spring Boot, Kafka, Druid, GraphQL, PostgreSQL, PostGIS, Geoserver, Websocket, Traefik, IAM, Helm, Gitlab CI, Docker, Kubernetes, Angular, NGXS, Storybook, MapboxGL, DeckGL, Micro-frontend, BDD, Teamscale, Unit Testing, Integration Testing, Jasmine, Karma, Mockito, JUnit, E2E\n(Selenium, Sikuli)\n\n- Worked globally to create product using SAFe 5.1. Communicated with the teams that is located in Germany, Romania and Italy through iterations.\n- Implemented stories with Angular Storybook to visualize, test components and give an architectural\nguideline for the components. Created UI with Angular Material.\n- Implemented Back-end services with REST, GraphQL endpoints.\n- Used Websocket to receive notification events from UI through GraphQL Subscription.\n- Handled DeckGL layers on the top of the MapboxGL map with using Geoserver and PostGIS.\n- Used Kafka for producing messages to the topic and receiving from the topic.\n- Used Kafka Streams for aggregation, filtering and storing purposes.\n- Used Helm to create Docker images for services & UI with providing configurations. \n-Used IAM for user roles & scopes. Used Apache Druid as a real-time database to store events. \n- Used GitlabCI to provide CI/CD throughout the product. \n- Used Kubernetes and ArgoCD to control the running product.\n- Implemented Unit, Integration, Feature & E2E tests for the product. \n- Maintained Code coverage, coding rules for the product.\n- Joined Quality Guild willingly to improve processes & the overall quality of the product.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Orkun",
+                    "last_name": "Onurgil",
+                    "name": null,
+                    "headline": "Senior Backend Engineer at Jumbo Supermarkten"
+                }
+            ]
+        },
+        {
+            "title": "MIDAS",
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "description": "Malignant and benign object detection on mammograms.\n\n- Contributed to image fetching infastructure from hospital PACS by updating DICOM service (query/retrieve)\n- Contributed to the assembly of Workstation and the installation of the conda environment.\n- Contributed to image enchancement and deep neural network algorithms.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Orkun",
+                    "last_name": "Onurgil",
+                    "name": null,
+                    "headline": "Senior Backend Engineer at Jumbo Supermarkten"
+                }
+            ]
+        },
+        {
+            "title": "Mobile X-RAY",
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "description": "Key contributor for Mobil X-RAY\u00a0project:\n\n\u2022\tRefactored some of the key aspects of the project for optimization.\n\u2022\tProvided ELK support for handling SQL table logs, and log4j logs. Integrated custom chromium browser for the application, to visualize ELK dashboards. Built Kibana for a dashboard-only user experience.\u00a0\u00a0\n\u2022\tProvided support with image processing operations, integrating OpenCV-python with CUDA, and TensorFlow-GPU.\n\u2022\tWorking with tight deadlines in a remote working environment.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Orkun",
+                    "last_name": "Onurgil",
+                    "name": null,
+                    "headline": "Senior Backend Engineer at Jumbo Supermarkten"
+                }
+            ]
+        },
+        {
+            "title": "MADE (Medical Application Development Environment)",
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "description": "Key contributor for an R&D project which is called MADE(Medical Application Development Environment). Custom Eclipse IDE created with the following features:\n\n\u2022\tIHE workflow selection in the creation of the project which links MWL, PPS, Store, Storage Commitment, Print, Dose Report, and Query Retrieve services.\n\u2022\tAdds DICOM support for communicating with the services.\n\u2022\tCustom DICOM Viewer, which can enhance the image using a custom image processing library in docker and add custom tags for the analysis operation.\n\u2022\tIntegrated Swing and FX Designer.\n\u2022\tIntegrated Design-Pattern Helper.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Orkun",
+                    "last_name": "Onurgil",
+                    "name": null,
+                    "headline": "Senior Backend Engineer at Jumbo Supermarkten"
+                }
+            ]
+        },
+        {
+            "title": "Decoy Launching System Software ",
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "description": "\u2022\tBuilt central control software which operates the on-board decoy launchers in a frigate warship with 4 other development team members using Java.\n\u2022\tImplemented software modules of OSGi application using the Blueprint\nContainer specification.\n\u2022\tWorked alongside customers to analyze customer needs and planned agile sprints that includes tasks for their necessities.\n\u2022\tManaged, merged and updated code through  Git.\n",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Orkun",
+                    "last_name": "Onurgil",
+                    "name": null,
+                    "headline": "Senior Backend Engineer at Jumbo Supermarkten"
+                }
+            ]
+        },
+        {
+            "title": "Big Data Research Project",
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "description": "\u2022\tImplemented two common Big Data processing technologies (Apache Kafka with Apache Storm) for data parsing with Docker infrastructure in the Linux operating system.\n\u2022\tCreated shell scripts for building, and running the project.\n",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Orkun",
+                    "last_name": "Onurgil",
+                    "name": null,
+                    "headline": "Senior Backend Engineer at Jumbo Supermarkten"
+                }
+            ]
+        },
+        {
+            "title": "Central Control Software Between Platform Software and Integrated Softwares",
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "description": "The software provides messaging interface between integrated softwares and the platform software. The software is capable of determining the top prioritized threats and providing the integrated test results to the platform software. The software is developed using C++(Eclipse), VxWorks.\n\u2022\tPrepared software requirements from customer's technical specifications and created JIRA Agile worklist that covers project needs with Sprints.\n\u2022\tImplemented supervisor modules for integrated units in  C++.\n\u2022\tIntegrated the software to the system with the customer using  VxWorks.\n\u2022\tImplemented test scenarios with the customer test tool.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Orkun",
+                    "last_name": "Onurgil",
+                    "name": null,
+                    "headline": "Senior Backend Engineer at Jumbo Supermarkten"
+                }
+            ]
+        },
+        {
+            "title": "Remote Controlled Jamming System Software",
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "description": "The jamming software is the sub software of a main jamming control software. The software is developed with using Java (Maven). The jamming control software has the ability of jamming, deception, management and the full capability of hardware communication controls. Also with the scanning ability it provides full control of the jamming frequencies with graphical measurements.\n\u2022\tImplemented the central jammer control software with jamming, deception, and search abilities with Java(Maven-OSGi).\n\u2022\tIntegrated external customer libraries to the project modules and implemented interface modules for the external control of the software.\n\u2022\tInitiated dry run tests with each release and carried out integrated project meetings with the customer.\n\u2022\tPrepared requirements and test steps with IBM Doors.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Orkun",
+                    "last_name": "Onurgil",
+                    "name": null,
+                    "headline": "Senior Backend Engineer at Jumbo Supermarkten"
+                }
+            ]
+        },
+        {
+            "title": " Single Enclosure GNSS/INS Receiver Software",
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "description": "The navigation software provides navigational data from the receiver and supplies the data to the other softwares with their format, and also with the external interface; error conditions are supplied to the external software. The sofware is developed using Java (OSGI). \n\u2022\tImplemented the message parser and provided received data from the GNSS/INS hardware to the external library with common message format.\n\u2022\tDesigned and implemented modules with Java(OSGi).\n\u2022\tImplemented a built-in test interface module for reporting error conditions to the externally connected units.\n\u2022\tPrepared customer documents and carried out project closure with the integrated software tests.\n",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Orkun",
+                    "last_name": "Onurgil",
+                    "name": null,
+                    "headline": "Senior Backend Engineer at Jumbo Supermarkten"
+                }
+            ]
+        },
+        {
+            "title": "Inertial Navigation Systems (INS) Software",
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "description": "Communication protocol of the hardware is developed using Java(osgi). The navigational data from the receiver is supplied to another software with their format, and also with the external interface; error conditions are supplied to the external software.\n\u2022\tImplemented the provider interface for the incoming data from serial message parser.\n\u2022\tDesigned, and implemented the processing and management modules for the project with Java(OSGi).\n\u2022\tPrepared customer documents and carried out project closure with the integrated software tests.\n",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Orkun",
+                    "last_name": "Onurgil",
+                    "name": null,
+                    "headline": "Senior Backend Engineer at Jumbo Supermarkten"
+                }
+            ]
+        },
+        {
+            "title": "Integrated INS/GPS/ADAHRS/flight Navigation Software",
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "description": "The navigation software provides navigational data from the receiver and supplies the data to the other softwares with their format, and also with the external interface; error conditions are supplied to the external software. The sofware is developed using Java (OSGI). \n\u2022\tSupported the project team about the GPS system domain knowledge.\n\u2022\tImplemented general message parsing infrastructure with Java.\n\u2022\tDesigned the structure of the core modules of the project.\n",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Orkun",
+                    "last_name": "Onurgil",
+                    "name": null,
+                    "headline": "Senior Backend Engineer at Jumbo Supermarkten"
+                }
+            ]
+        },
+        {
+            "title": "RF Jammer Central Control Software",
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "description": "Central control software is developed for jamming systems with using Java(OSGI). The project mainly consists of a central management (all units, group units,  only unit structure) of the jammers.\n\u2022\tImplemented central jamming control software project with Java(OSGi) that controls jamming units from the parent, group and single node.\n\u2022\tIntegrated the software to the system with the system engineers in customer integration environment.\n\u2022\tPrepared customer documents for the project closure. (Software Requirements Specification, Software Test Description, Software Product Specification, and User Manual).\n",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Orkun",
+                    "last_name": "Onurgil",
+                    "name": null,
+                    "headline": "Senior Backend Engineer at Jumbo Supermarkten"
+                }
+            ]
+        },
+        {
+            "title": "Ground Navigational Systems",
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "description": "Integrated software for inertial navigation systems with using IBM Rational Rhapsody C++ programming software. All the alignment conditions are automatized with the software.\n\u2022\tImplemented inertial navigational system abilities and alignment scenarios of the hardware with IBM Rational Rhapsody C++.\n\u2022\tImplemented test simulator for the project with  C#.\n\u2022\tIntegrated the software to the system with VxWorks.\n\u2022\tExecuted acceptance test with the customer.\n",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Orkun",
+                    "last_name": "Onurgil",
+                    "name": null,
+                    "headline": "Senior Backend Engineer at Jumbo Supermarkten"
+                }
+            ]
+        },
+        {
+            "title": "Electro Optic Sensor System Software",
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "description": "Integrated software developed for 2 units with using IBM Rational Rhapsody C++ programming software. These systems composed of Thermal Camera, CCD Camera and Laser Range Finder.\n\u2022\tImplemented thermal/CCD camera and laser rangefinder abilities for two different electro-optic systems with IBM Rational Rhapsody C++.\n\u2022\tIntegrated the software to the system with VxWorks.\nMessage Simulator Test Software Project:\n\u2022\tImplemented dynamic message parsing ability to the ongoing project with  Java.\n\u2022\tExecuted dry run tests along with the quality engineers to ensure the products all functionalities working as before.\n\u2022\tImplemented new test script examples for dynamic parsing ability with  Python.\n",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Orkun",
+                    "last_name": "Onurgil",
+                    "name": null,
+                    "headline": "Senior Backend Engineer at Jumbo Supermarkten"
+                }
+            ]
+        },
+        {
+            "title": "Crypto Voice Call Software ",
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "description": "\u2022\tImplemented C++ crypto library for the Android application of the voice call project with using the combination of RSA public-key cryptography and AES symmetric-key algorithm.\n\u2022\tImplemented the user interface of the android application with Java.\n\u2022\tConducted a lecture in the company about leading cryptographic algorithms to the software team.\n",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Orkun",
+                    "last_name": "Onurgil",
+                    "name": null,
+                    "headline": "Senior Backend Engineer at Jumbo Supermarkten"
+                }
+            ]
+        },
+        {
+            "title": "Message Simulator Test Software",
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "description": "General message simulator test software is developed for all the message based communication projects for the company. Python and Java are used for the software development.\n\u2022\tImplemented dynamic message parsing ability to the ongoing project with  Java.\n\u2022\tExecuted dry run tests along with the quality engineers to ensure the products all functionalities working as before.\n\u2022\tImplemented new test script examples for dynamic parsing ability with  Python.\n",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Orkun",
+                    "last_name": "Onurgil",
+                    "name": null,
+                    "headline": "Senior Backend Engineer at Jumbo Supermarkten"
+                }
+            ]
+        },
+        {
+            "title": "SPx ECDIS Test Client",
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "description": "C++ library wrapped into Java library with using SWIG. Then, the main gui and its functions implemented.\n\u2022\tImplemented C++ radar library project interface for Java project using  SWIG wrapper and JNI.\n\u2022\tImplemented the user interface of the radar kit test project with  Swing. \n",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Orkun",
+                    "last_name": "Onurgil",
+                    "name": null,
+                    "headline": "Senior Backend Engineer at Jumbo Supermarkten"
+                }
+            ]
+        }
+    ],
+    "publications": [],
+    "courses": [],
+    "test_scores": [
+        {
+            "name": "IELTS Academic",
+            "score": "Band 7.0",
+            "date": {
+                "month": 12,
+                "day": null,
+                "year": 2021
+            }
+        },
+        {
+            "name": "TOEFL IBT",
+            "score": "82",
+            "date": {
+                "month": 2,
+                "day": null,
+                "year": 2017
+            }
+        },
+        {
+            "name": "TOEFL ITP",
+            "score": "533",
+            "date": {
+                "month": 1,
+                "day": null,
+                "year": 2011
+            }
+        }
+    ],
+    "position_groups": [
+        {
+            "company": {
+                "id": 27641,
+                "name": "Jumbo Supermarkten",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQHhEIWiva3_1g/company-logo_400_400/0/1589814420883?e=1700697600&v=beta&t=0vPpyU525Msi4MvdeWyB5vbuxGgxUrM6IHaIx_4X8jg",
+                "url": "https://www.linkedin.com/company/jumbo-supermarkten/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Veghel, North Brabant, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Jumbo Supermarkten",
+                    "description": null,
+                    "title": "Senior Backend Engineer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1043,
+                "name": "Siemens",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQHYr4M_PHhGdg/company-logo_400_400/0/1688363990057?e=1700697600&v=beta&t=GZiv1LAzF9QGLmpTyP093UKapT4KZ_EvWYlN4AGUf2g",
+                "url": "https://www.linkedin.com/company/siemens/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Ankara, T\u00fcrkiye",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "Siemens",
+                    "description": "Full Stack Developer on Grid Control software.\n\nSAFe 5.1, Java 11, Spring Boot, Kafka, Druid, GraphQL, PostgreSQL, PostGIS, Geoserver, Websocket, Traefik, IAM, Helm, Gitlab CI, Docker, Kubernetes, Angular, NGXS, Storybook,\u00a0 MapboxGL, DeckGL, Micro-frontend, BDD, Teamscale, Unit Testing, Integration Testing, Jasmine, Karma, Mockito, JUnit, E2E (Selenium, Sikuli)",
+                    "title": "Full Stack Developer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 3109776,
+                "name": "ICterra Information and Communication Technologies",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQFrxjrn4XeuuQ/company-logo_400_400/0/1679920705491?e=1700697600&v=beta&t=WKS7ewzZHxeJTneVQvrfTe8hM9lX8CYeFmToCfGBgNQ",
+                "url": "https://www.linkedin.com/company/icterra/",
+                "employees": {
+                    "start": 201,
+                    "end": 500
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Ankara, Turkey",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "ICterra Information and Communication Technologies",
+                    "description": null,
+                    "title": "Senior Software Engineer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 35614,
+                "name": "AYESA\u015e",
+                "logo": "https://media.licdn.com/dms/image/C560BAQELLHLmziMpOw/company-logo_400_400/0/1679636106056?e=1700697600&v=beta&t=YYKpZ2rYe_4HRpjNuawIjgz8DQ2F5Zyr1jkTZCtFuGM",
+                "url": "https://www.linkedin.com/company/ayesas/",
+                "employees": {
+                    "start": 201,
+                    "end": 500
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "AYESA\u015e",
+                    "description": "Worked with a small group of teams and alone in 3 projects which includes: \n- Decoy Launching System Software\n- Central Control Software Between Platform Software and Integrated Softwares\n- Big Data Research Project\nTook part in development and project management activities that required to work along-side with the customer in a software integration environment. Provided the customer with requirements, test, and product specification documents. Results:\n- Key contributor in the project management, design, development, testing, and support of the projects.\n- Created work lists for the projects and planned Agile sprints to meet the customer's software release plan.\n- Created continuous integration and delivery environment for a reliable and verified software.\n- Created requirements and test requirements with their traceability to validate customer requirements.\n- Planned recurrent project meetings with the customer to adapt the project to the continuously changing customer requirements.\n- Used issue and project tracking software to follow the plan throughout the development cycle.\n- Prepared software integration environment.\u00a0Created the network infrastructure of the customer's integration environment and device images for the installation of the software to the newly produced devices.\n- Provided project design, requirement, test, and product specification documents along with user manuals.",
+                    "title": "Senior Software Engineer",
+                    "employment_type": null
+                },
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2018
+                        }
+                    },
+                    "company": "AYESA\u015e",
+                    "description": "Worked with a small group of teams and alone in 6 projects which includes:\n- Remote Controlled Jamming System Software\n- Single Enclosure GNSS/INS Receiver Software\n- Inertial Navigation Systems Software\n- Integrated INS/GPS/ADAHRS/flight Navigation Software\n- RF Jammer Central Control Software\n- Ground Navigational Systems Software",
+                    "title": "Software Engineer",
+                    "employment_type": null
+                },
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2015
+                        }
+                    },
+                    "company": "AYESA\u015e",
+                    "description": "",
+                    "title": "Intern",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1347251,
+                "name": "Locksmith Software Technologies",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQHtnBaCOdsZww/company-logo_400_400/0/1538120963909?e=1700697600&v=beta&t=poP_s_6n_PPpT7ucfLCZSU6PQHnwoZ1dv75YqXkAVuw",
+                "url": "https://www.linkedin.com/company/locksmith-software-technologies/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2015
+                        }
+                    },
+                    "company": "Locksmith Software Technologies",
+                    "description": "",
+                    "title": "Intern",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 35614,
+                "name": "AYESAS",
+                "logo": "https://media.licdn.com/dms/image/C560BAQELLHLmziMpOw/company-logo_400_400/0/1679636106056?e=1700697600&v=beta&t=YYKpZ2rYe_4HRpjNuawIjgz8DQ2F5Zyr1jkTZCtFuGM",
+                "url": "https://www.linkedin.com/company/ayesas/",
+                "employees": {
+                    "start": 201,
+                    "end": 500
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2015
+                        }
+                    },
+                    "company": "AYESA\u015e",
+                    "description": "",
+                    "title": "Parttime Employee",
+                    "employment_type": null
+                },
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2014
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2014
+                        }
+                    },
+                    "company": "AYESA\u015e",
+                    "description": "",
+                    "title": "Intern",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Java",
+        "Spring Boot",
+        "E2E",
+        "Unit Testing",
+        "Integration Testing",
+        "Scaled Agile Framework",
+        "AngularJS",
+        "Helm Charts",
+        "Apache Druid",
+        "Apache Kafka",
+        "Kafka Streams",
+        "Kubernetes",
+        "PostGIS",
+        "PostgreSQL",
+        "C++",
+        "Modular Programming",
+        "Customer-focused Service",
+        "C#",
+        "Image Processing",
+        "Big Data"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

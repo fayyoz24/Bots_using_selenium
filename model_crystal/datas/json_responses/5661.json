@@ -1,0 +1,988 @@
+{
+    "profile_id": "rvmaretto",
+    "first_name": "Raian",
+    "last_name": "V. Maretto",
+    "sub_title": "Assistant Professor @ ITC - University of Twente. Developing Artificial Intelligence methods to help in understanding the world.",
+    "profile_picture": "https://media.licdn.com/dms/image/C4D03AQHJLcIdrCV5dQ/profile-displayphoto-shrink_800_800/0/1585324190872?e=1697673600&v=beta&t=dTjXZ5DCUoWsPc16-1i7QQEnvzbK6DBlLE2HQUrKPnk",
+    "background_image": "https://media.licdn.com/dms/image/C4D16AQFGXCwrXTL1Sw/profile-displaybackgroundimage-shrink_350_1400/0/1573684221135?e=1697673600&v=beta&t=Gb_MRDxa6CoZnOghvOZUWSLbmTGnOMtBnlIymdcWmfY",
+    "profile_type": "personal",
+    "entity_urn": "ACoAAAIuf8oB2KF5E3Nv3NVe_qz0AxgOfIEJ8HQ",
+    "object_urn": 36601802,
+    "birth_date": null,
+    "summary": "PhD in Applied Computing (2020) and MSc in Remote Sensing (2011) by the Instituto Nacional de Pesquisas Espaciais (Brazilian National Institute for Space Research, INPE), and Bachelor's in Computer Science (2008) by the Universidade Federal de Ouro Preto (Federal University of Ouro Preto, UFOP). Specialized in the application of Deep Learning, Machine Learning, and Data Mining methods to geospatial data. Currently, I am working as a consultant and research assistant at INPE, in the context of the FIP-Cerrrado project, developing methods based on Deep Learning to automatically map deforested areas, agriculture and vegetation types in the Brazilian Cerrado and Amazon biomes. I have 13 years of experience in the development of Geographic Information Systems (GIS) and Remote Sensing image processing algorithms and software, participating on large software development teams following agile software development methods and working with languages like C++, Python, Lua, R and Java. I have participated in the development of the following systems: TerraLib library, TerraView, TerraME, GeoDMA, and recently the DeepGeo package. \nMore informations:\nORCID: https://orcid.org/0000-0002-4983-2700\nCurriculum Lattes: http://lattes.cnpq.br/7874296760531038",
+    "location": {
+        "country": "Netherlands",
+        "short": "Enschede, Overijssel",
+        "city": "Enschede",
+        "state": "Overijssel",
+        "default": "Enschede, Overijssel, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [
+        {
+            "url": "https://www.youtube.com/watch?v=1hPLlnf_zHE",
+            "title": "PhD Defense - A Deep Learning based approach to map deforested areas",
+            "description": "This video shows the presentation of my PhD defense, with the title: Automating Land Cover Change mapping: A Deep Learning based approach to map deforested a...",
+            "image": "https://media.licdn.com/dms/image/sync/C4D27AQHaQXul1C9VcA/articleshare-shrink_1280_800/0/1691735822151?e=1692946800&v=beta&t=Wt_awibf_ki1KkA3WbBgEyXzunMA1S2EQ7ewwsgtBWI"
+        }
+    ],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            },
+            {
+                "country": "BR",
+                "language": "pt"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "English",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "Italian",
+                "proficiency": "ELEMENTARY"
+            },
+            {
+                "name": "Portuguese",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "Spanish",
+                "proficiency": "ELEMENTARY"
+            }
+        ]
+    },
+    "industry": "Research",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "school": {
+                "name": "National Institute for Space Research (INPE, Brazil)",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "Doctor of Philosophy - PhD in Applied Computing",
+            "field_of_study": "Applied Computer Science, Remote Sensing, Deep Learning, Artificial Intelligence"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2009
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2011
+                }
+            },
+            "school": {
+                "name": "National Institute for Space Research (INPE)",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "Master of Science - MS",
+            "field_of_study": "Remote Sensing, Geographic Information Systems, Environmental Modeling"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2005
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2008
+                }
+            },
+            "school": {
+                "name": "UFOP - Universidade Federal de Ouro Preto",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQFFkWX04OZBbw/company-logo_400_400/0/1579529178867?e=1700697600&v=beta&t=CDqv9H8GotufH8jgZoLcbU6PFqay8WgtyixffC3MrE4",
+                "url": "https://www.linkedin.com/school/ufop/"
+            },
+            "degree_name": "Graduate",
+            "field_of_study": "Computer Science"
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "GeoDMA - Geographic Data Mining Analyst",
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "description": "GeoDMA is a toolbox for integrating remote sensing imagery analysis methods with data mining techniques producing a user-centered, extensible, rich computational environment for information extraction and knowledge discovery over large geographic databases.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Raian",
+                    "last_name": "V. Maretto",
+                    "name": null,
+                    "headline": "Assistant Professor @ ITC - University of Twente. Developing Artificial Intelligence methods to help in understanding the world."
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Thales",
+                    "last_name": "Sehn K\u00f6rting",
+                    "name": null,
+                    "headline": "Pesquisador no INPE"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Emiliano Ferreira Castejon",
+                    "headline": null
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Leila",
+                    "last_name": "Fonseca",
+                    "name": null,
+                    "headline": "Senior Tecnologist at the  National Institute for Space Research (INPE)"
+                }
+            ]
+        },
+        {
+            "title": "Urbaniza\u00e7\u00e3o & Vulnerabilidade Socioespacial: Modelos de Simula\u00e7\u00e3o Computacional como Objetos Mediadores para Discutir a Quest\u00e3o Urbana",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "description": null,
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Raian",
+                    "last_name": "V. Maretto",
+                    "name": null,
+                    "headline": "Assistant Professor @ ITC - University of Twente. Developing Artificial Intelligence methods to help in understanding the world."
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Ant\u00f4nio Miguel Vieira Monteiro",
+                    "headline": null
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Fl\u00e1via",
+                    "last_name": "Feitosa",
+                    "name": null,
+                    "headline": "Center for Engineering, Modeling and Applied Social Sciences, Federal University of ABC (CECS/UFABC)"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Roberta",
+                    "last_name": "Rosemback",
+                    "name": null,
+                    "headline": "Arquiteta Urbanista, Dem\u00f3grafa, mestre em Sensoriamento Remoto e Geoinforma\u00e7\u00e3o."
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Leonardo Freire de Mello",
+                    "headline": null
+                }
+            ]
+        },
+        {
+            "title": "MSA: Monitoramento Ambiental por Sat\u00e9lite no Bioma Amaz\u00f4nia",
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "description": "Sub-projeto 5: Estudo das trajet\u00f3rias de padr\u00f5es e processos na caracteriza\u00e7\u00e3o de din\u00e2micas do desmatamento na Amaz\u00f4nia A compreens\u00e3o e a descri\u00e7\u00e3o dos componentes ambientais e populacionais, bem como a descri\u00e7\u00e3o de seus processos e seus atores, s\u00e3o de grande import\u00e2ncia para o desenvolvimento de novas a\u00e7\u00f5es e para a avalia\u00e7\u00e3o das pol\u00edticas de redu\u00e7\u00e3o do desmatamento. A observa\u00e7\u00e3o do processo de convers\u00e3o da cobertura florestal e dos usos da terra, em conjunto com o arranjo espacial da popula\u00e7\u00e3o, permitem estabelecer tipologias e descrever trajet\u00f3rias de padr\u00f5es de desmatamento associados \u00e0s diferentes formas est\u00e1gios e din\u00e2micas de ocupa\u00e7\u00e3o. Este subprojeto tem como objetivo realizar diagn\u00f3sticos a partir da an\u00e1lise e descri\u00e7\u00e3o de diferentes padr\u00f5es espaciais de desmatamento e de sua evolu\u00e7\u00e3o, caracterizando os componentes relacionados \u00e0 popula\u00e7\u00e3o, ao uso e cobertura da terra e \u00e0s din\u00e2micas de ocupa\u00e7\u00e3o das antigas e novas fronteiras de ocupa\u00e7\u00e3o humana da Amaz\u00f4nia. O estudo est\u00e1 dividido em duas linhas de a\u00e7\u00e3o: Caracteriza\u00e7\u00e3o de padr\u00f5es de cobertura da terra, por meio da utiliza\u00e7\u00e3o de mapas de uso da terra e de desmatamento e degrada\u00e7\u00e3o florestal, de censos demogr\u00e1ficos, e de dados de compartimentos ambientais definidos a partir de modelos digitais de eleva\u00e7\u00e3o. Din\u00e2mica Populacional da Amaz\u00f4nia ? caracteriza\u00e7\u00e3o de padr\u00f5es de uso urbano e suas evolu\u00e7\u00f5es, abordados a partir das mudan\u00e7as espaciais relativas aos processos de urbaniza\u00e7\u00e3o na regi\u00e3o. Ser\u00e3o utilizados dados de censos demogr\u00e1ficos complementados com novos dados de sensoriamento remoto, incluindo Radar e Alta Resolu\u00e7\u00e3o, e trabalhos de campo orientados \u00e0 an\u00e1lise de conectividade e de acessibilidade na escala local, visando descrever e caracterizar uma Tipologia dos Fluxos.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Raian",
+                    "last_name": "V. Maretto",
+                    "name": null,
+                    "headline": "Assistant Professor @ ITC - University of Twente. Developing Artificial Intelligence methods to help in understanding the world."
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Ant\u00f4nio Miguel Vieira Monteiro",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Maria Isabel Sobral Escada",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Silvana Amaral Kampel",
+                    "headline": null
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Thales",
+                    "last_name": "Sehn K\u00f6rting",
+                    "name": null,
+                    "headline": "Pesquisador no INPE"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Emiliano Ferreira Castejon",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Leila Maria Garcia Fonseca",
+                    "headline": null
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Etore",
+                    "last_name": "Marcari Jr.",
+                    "name": null,
+                    "headline": "Specialist Software Developer at TerraMagna"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Adriana",
+                    "last_name": "Affonso",
+                    "name": null,
+                    "headline": "looking for a new opportunity"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Dalton Valeriano",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Sidnei Jo\u00e3o Siqueira Sant'Anna",
+                    "headline": null
+                }
+            ]
+        },
+        {
+            "title": "TerraME - Terra Modeling Environment",
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2007
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "description": "TerraME is a programming environment for spatial dynamical modelling. It supports cellular automata, agent-based models, and network models running in 2D cell spaces. TerraME provides an interface to TerraLib geographical database, allowing models direct access to geospatial data. Its modelling language has in-built functions that makes it easier to develop multi-scale and multi-paradigm models for environmental applications. Two important innovations in TerraME are its use of anisotropic spaces and of hybrid automata models. Anisotropic spaces arise when modeling natural and human-related phenomena. For example, land settlers in a new area do not occupy all places at the same time. They follow roads and rivers, leading to an anisotropic pattern. Anisotropic spaces are implemented in TerraME using Generalized Proximity Matrices (GPM). The GPM is an extension of the usual definition of the spatial relations and include a combination of neighborhood measures in the absolute space and in the relative space.\nA hybrid automaton is an abstract model for a system whose behavior has discrete and continuous parts. It extends the idea of finite automata to allow continuous change to take place between transitions. Adopting hybrid automata in spatial dynamical models allows complex models which include critical transitions.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Raian",
+                    "last_name": "V. Maretto",
+                    "name": null,
+                    "headline": "Assistant Professor @ ITC - University of Twente. Developing Artificial Intelligence methods to help in understanding the world."
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Tiago Garcia de Senna Carneiro",
+                    "headline": null
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Pedro",
+                    "last_name": "Andrade",
+                    "name": null,
+                    "headline": "Researcher at INPE"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Gilberto C\u00e2mara",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Ant\u00f4nio Miguel Vieira Monteiro",
+                    "headline": null
+                }
+            ]
+        }
+    ],
+    "publications": [
+        {
+            "name": "Experiences with a Socio-Environmental Modeling Course.",
+            "publisher": "Modelling in Science Education and Learning",
+            "url": "https://polipapers.upv.es/index.php/MSEL/article/view/2811",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2015
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Raian",
+                    "last_name": "V. Maretto",
+                    "name": null,
+                    "headline": "Assistant Professor @ ITC - University of Twente. Developing Artificial Intelligence methods to help in understanding the world."
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Pedro",
+                    "last_name": "Andrade",
+                    "name": null,
+                    "headline": "Researcher at INPE"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Gilberto C\u00e2mara",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Ant\u00f4nio Miguel Vieira Monteiro",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Tiago Garcia de Senna Carneiro",
+                    "headline": null
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Fl\u00e1via",
+                    "last_name": "Feitosa",
+                    "name": null,
+                    "headline": "Center for Engineering, Modeling and Applied Social Sciences, Federal University of ABC (CECS/UFABC)"
+                }
+            ]
+        },
+        {
+            "name": "Spectral Attributes Selection based on Data Mining for Remote Sensing Image Classification.",
+            "publisher": "XVI Brazilian Symposium on GeoInformatics, GEOINFO 2015",
+            "url": "https://www.researchgate.net/publication/286929239_Spectral_Attributes_Selection_based_on_Data_Mining_for_Remote_Sensing_Image_Classification",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2015
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Raian",
+                    "last_name": "V. Maretto",
+                    "name": null,
+                    "headline": "Assistant Professor @ ITC - University of Twente. Developing Artificial Intelligence methods to help in understanding the world."
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Thales",
+                    "last_name": "Sehn K\u00f6rting",
+                    "name": null,
+                    "headline": "Pesquisador no INPE"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Emiliano Ferreira Castejon",
+                    "headline": null
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Leila",
+                    "last_name": "Fonseca",
+                    "name": null,
+                    "headline": "Senior Tecnologist at the  National Institute for Space Research (INPE)"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Rafael Santos",
+                    "headline": null
+                }
+            ]
+        },
+        {
+            "name": "Urbis-caragu\u00e1: um modelo de simula\u00e7\u00e3o computacional para a investiga\u00e7\u00e3o de din\u00e2micas de ocupa\u00e7\u00e3o urbana em Caraguatatuba, SP.",
+            "publisher": "XIX Encontro Nacional de Estudos Populacionais",
+            "url": "http://www.abep.org.br/publicacoes/index.php/anais/article/view/2195",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2014
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Raian",
+                    "last_name": "V. Maretto",
+                    "name": null,
+                    "headline": "Assistant Professor @ ITC - University of Twente. Developing Artificial Intelligence methods to help in understanding the world."
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Fl\u00e1via",
+                    "last_name": "Feitosa",
+                    "name": null,
+                    "headline": "Center for Engineering, Modeling and Applied Social Sciences, Federal University of ABC (CECS/UFABC)"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Ant\u00f4nio Miguel Vieira Monteiro",
+                    "headline": null
+                }
+            ]
+        },
+        {
+            "name": "Developing a Framework for Modeling and Simulating Aedes aegypti and Dengue Fever Dynamics.",
+            "publisher": "XIV Brazilian Symposium on GeoInformatics, GEOINFO 2013",
+            "url": "http://www.geoinfo.info/geoinfo2013/papers/TiagoLima.pdf",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2013
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Raian",
+                    "last_name": "V. Maretto",
+                    "name": null,
+                    "headline": "Assistant Professor @ ITC - University of Twente. Developing Artificial Intelligence methods to help in understanding the world."
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Tiago Fran\u00e7a M. Lima",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Tiago Garcia de Senna Carneiro",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Raquel Martins Lana",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Cl\u00e1udia T. Code\u00e7o",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Liliam Cesar de Castro Medeiros",
+                    "headline": null
+                }
+            ]
+        },
+        {
+            "name": "Urbaniza\u00e7\u00e3o e Vulnerabilidade Social em Zonas Costeiras: A Constru\u00e7\u00e3o de um Modelo de Simula\u00e7\u00e3o das Din\u00e2mcias Residenciais de Caraguatatuba, SP.",
+            "publisher": "XVIII Encontro Nacional de Estudos Populacionais, ABEP 2012",
+            "url": "http://www.abep.org.br/publicacoes/index.php/anais/article/viewFile/1908/1866",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2012
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Raian",
+                    "last_name": "V. Maretto",
+                    "name": null,
+                    "headline": "Assistant Professor @ ITC - University of Twente. Developing Artificial Intelligence methods to help in understanding the world."
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Fl\u00e1via",
+                    "last_name": "Feitosa",
+                    "name": null,
+                    "headline": "Center for Engineering, Modeling and Applied Social Sciences, Federal University of ABC (CECS/UFABC)"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Ant\u00f4nio Miguel Vieira Monteiro",
+                    "headline": null
+                }
+            ]
+        },
+        {
+            "name": "A Susceptible-Infected Model for Exploring the Effects of Neighborhood Structures on Epidemic Processes \u2013 A Segregation Analysis",
+            "publisher": "XII Brazilian Symposium on GeoInformatics, 2011",
+            "url": "http://www.geoinfo.info/proceedings_geoinfo2011.split/proceedings_geoinfo2011.92-103.pdf",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2011
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Raian",
+                    "last_name": "V. Maretto",
+                    "name": null,
+                    "headline": "Assistant Professor @ ITC - University of Twente. Developing Artificial Intelligence methods to help in understanding the world."
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Leonardo L. B. Santos",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Liliam Cesar de Castro Medeiros",
+                    "headline": null
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Fl\u00e1via",
+                    "last_name": "Feitosa",
+                    "name": null,
+                    "headline": "Center for Engineering, Modeling and Applied Social Sciences, Federal University of ABC (CECS/UFABC)"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Ant\u00f4nio Miguel Vieira Monteiro",
+                    "headline": null
+                }
+            ]
+        },
+        {
+            "name": "Simulating Urban Growth and Residential Segregation through Agent-Based Modeling",
+            "publisher": "IEEE - The Institute of Electrical and Electronics Engineers",
+            "url": "http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6030014&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D6030014",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2011
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Raian",
+                    "last_name": "V. Maretto",
+                    "name": null,
+                    "headline": "Assistant Professor @ ITC - University of Twente. Developing Artificial Intelligence methods to help in understanding the world."
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Andr\u00e9",
+                    "last_name": "G.",
+                    "name": null,
+                    "headline": "Sales Engineer at Maxar Technologies"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Talita ",
+                    "last_name": "Oliveira Assis",
+                    "name": null,
+                    "headline": "Especialista em ESG na EXAME"
+                }
+            ]
+        },
+        {
+            "name": "Irregular Cellular Spaces: Supporting Realistic Spatial Dynamic Modeling over Geographical Databases.",
+            "publisher": "X Brazilian Symposium on Geoinformatics, GEOINFO 2008",
+            "url": "https://www.researchgate.net/publication/220913370_Irregular_Cellular_Spaces_Supporting_Realistic_Spatial_Dynamic_Modeling_over_Geographical_Databases",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2008
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Raian",
+                    "last_name": "V. Maretto",
+                    "name": null,
+                    "headline": "Assistant Professor @ ITC - University of Twente. Developing Artificial Intelligence methods to help in understanding the world."
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Tiago Garcia de Senna Carneiro",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Gilberto C\u00e2mara",
+                    "headline": null
+                }
+            ]
+        }
+    ],
+    "courses": [
+        {
+            "name": "Deep Learning Summer School 2017, Mila, Centre de Recherches Math\u00e9matiques, Universit\u00e9 de Montr\u00e9al, Canad\u00e1",
+            "number": null
+        },
+        {
+            "name": "Minicurso Introdu\u00e7\u00e3o ao Definiens. Instituto Nacional de Pesquisas Espaciais",
+            "number": null
+        },
+        {
+            "name": "Minicurso em \"Design Patterns\". Universidade Federal de Lavras, UFLA, Brasil.",
+            "number": null
+        },
+        {
+            "name": "Ontologies and Models for Multiple-scale Processes. Vespucci Institutes on Geographic Information Science, VIGIS, It\u00e1lia.",
+            "number": null
+        },
+        {
+            "name": "Treinamento \"Fundamentos do ERDAS IMAGINE I e II\". Santiago & Cintra Consultoria, SCCON, Brasil",
+            "number": null
+        }
+    ],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 15149565,
+                "name": "Faculty of Geo-Information Science and Earth Observation (ITC) of the University of Twente",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQE1n3rjSxihHQ/company-logo_400_400/0/1519952527692?e=1700697600&v=beta&t=xei1rcPcDBfRJjTIu6fSV_fKY6Adn_97_ix2L9jvg6Y",
+                "url": "https://www.linkedin.com/school/faculty-of-geo-information-science-and-earth-observation/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Enschede, Overijssel, Pa\u00edses Baixos",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2020
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Faculty of Geo-Information Science and Earth Observation (ITC) of the University of Twente",
+                    "description": null,
+                    "title": "Assistant Professor",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 552334,
+                "name": "Instituto Nacional de Pesquisas Espaciais",
+                "logo": "https://media.licdn.com/dms/image/C560BAQFswviR_8NmSw/company-logo_400_400/0/1519865537913?e=1700697600&v=beta&t=oL3hXFs_UqfXLM37DuFLcNo2n-r33dK2xvxQa7HCx7s",
+                "url": "https://www.linkedin.com/company/instituto-nacional-de-pesquisas-espaciais/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "S\u00e3o Jos\u00e9 dos Campos",
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2020
+                        }
+                    },
+                    "company": "Instituto Nacional de Pesquisas Espaciais",
+                    "description": "Development of Deep Learning (Artificial Intelligence) based techniques to Land Cover classification on Remote Sensing Images",
+                    "title": "Research Assistant and Consultant Deep Learning and Remote Sensing ",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1415912,
+                "name": "Funcate",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQHYlWOmL5-xRw/company-logo_400_400/0/1519866818804?e=1700697600&v=beta&t=hKdAQy9_p0449fk8FWFKzoDTYVB9Vzdu0pOVfF48brI",
+                "url": "https://www.linkedin.com/company/funcate/",
+                "employees": {
+                    "start": 201,
+                    "end": 500
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "S\u00e3o Jos\u00e9 dos Campos Area, Brazil",
+                    "date": {
+                        "start": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2018
+                        }
+                    },
+                    "company": "Funcate",
+                    "description": "- Development of a platform for Remote Sensing Image Processing based on Data Mining, Machine Learning, and Artificial Inteligence.\n- Development and maintenance of new version of GeoDMA platform (http://wiki.dpi.inpe.br/doku.php?id=geodma).",
+                    "title": "Software Developer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 552334,
+                "name": "Instituto Nacional de Pesquisas Espaciais",
+                "logo": "https://media.licdn.com/dms/image/C560BAQFswviR_8NmSw/company-logo_400_400/0/1519865537913?e=1700697600&v=beta&t=oL3hXFs_UqfXLM37DuFLcNo2n-r33dK2xvxQa7HCx7s",
+                "url": "https://www.linkedin.com/company/instituto-nacional-de-pesquisas-espaciais/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2009
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "S\u00e3o Jos\u00e9 dos Campos Area, Brazil",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2013
+                        },
+                        "end": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2015
+                        }
+                    },
+                    "company": "Instituto Nacional de Pesquisas Espaciais",
+                    "description": "- Software Development for Environmental Modeling and Simulation (TerraME - www.terrame.org)\n- Development of Land Use and Cover Change (LUCC) models, disease spreading models, urban models, agent based models, and Social Simulations.\n- Development of GIS (Geographic Information Systems), and Geospatial data processing. \n- Development of Remote Sensing Image Processing systems.",
+                    "title": "Associated Researcher (Finacial support from PCI/CNPq program)",
+                    "employment_type": null
+                },
+                {
+                    "location": "S\u00e3o Jos\u00e9 dos Campos Area, Brazil",
+                    "date": {
+                        "start": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2011
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2013
+                        }
+                    },
+                    "company": "Instituto Nacional de Pesquisas Espaciais",
+                    "description": "- Software Development for Environmental Modeling and Simulation (TerraME - www.terrame.org)\n- Development of Land Use and Cover Change (LUCC) models, disease spreading models, urban models, agent based models, and Social Simulations.\n- Development of GIS (Geographic Information Systems), and Geospatial data processing. \n- Development of Remote Sensing Image Processing systems.",
+                    "title": "Associated Researcher (Finacial support from project TerraME - CNPq/DTI-B)",
+                    "employment_type": null
+                },
+                {
+                    "location": "S\u00e3o Jos\u00e9 dos Campos e Regi\u00e3o, Brasil",
+                    "date": {
+                        "start": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2009
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2011
+                        }
+                    },
+                    "company": "Instituto Nacional de Pesquisas Espaciais",
+                    "description": "MsC Student in Remote Sensing. C++ and LUA programmer. \nInteresting Areas: \n\n* Software Engineering\n* Dynamical modelling and computational simulation. \n* Geoprocessing\n* Image Processing",
+                    "title": "MsC Student in Remote Sensing",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Remote Sensing",
+        "Sensoriamento remoto",
+        "Spatial Analysis",
+        "Geoprocessing",
+        "C++",
+        "An\u00e1lise espacial",
+        "Processamento de imagem",
+        "Dynamic Modeling",
+        "Programa\u00e7\u00e3o de computadores",
+        "Image Processing",
+        "Geoprocessamento",
+        "Lua",
+        "Ci\u00eancia da computa\u00e7\u00e3o",
+        "Simula\u00e7\u00f5es",
+        "Python",
+        "Software Design Patterns",
+        "ArcGIS",
+        "Microsoft Office",
+        "Simulations",
+        "Computer Science"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

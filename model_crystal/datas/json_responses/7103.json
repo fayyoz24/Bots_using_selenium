@@ -1,0 +1,357 @@
+{
+    "profile_id": "ignajtorres",
+    "first_name": "Ignacio J.",
+    "last_name": "Torres",
+    "sub_title": "Computer Engineer | Full stack Developer",
+    "profile_picture": "https://media.licdn.com/dms/image/C4D03AQFY_iIdm4ertw/profile-displayphoto-shrink_800_800/0/1599665018141?e=1697673600&v=beta&t=3K9RFRpanfquieEaQ_yvmS_2SRnmAKjGsvWh9m_BOJA",
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAAAcYD3MBCWVrqolLtm7vdYCPtT21SEizOcw",
+    "object_urn": 119017331,
+    "birth_date": null,
+    "summary": "I use programming languages as tools for resolving real world problems, understanding the solution have to be designed before writing a single line of code. We all know that requirements change over time, so I use continuous integration methods like version control (Git), tickets (Jira) and SOLID design. As for coding, I use Python, PHP or Go for backend systems, and Javascript (React, Redux) for the frontend, both ends communicating through Rest APIs. Databases are a must so I always try to keep the models clean and organized whatever working with SQL or NoSql ddbbs.\nAside from web development, I always like to make personals projects with computer vision (OpenCV) and machine learning tools (PyTorch), improving really fast.\n\nAs for my attitude, I have passion for finding solutions and design them no matter what kind of problem I am dealing with, keeping in mind that there are always deadline to meet. Love to learn new technologies and further improve the ones that I already know.",
+    "location": {
+        "country": "Netherlands",
+        "short": "Amsterdam, North Holland",
+        "city": "Amsterdam",
+        "state": "North Holland",
+        "default": "Amsterdam, North Holland, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "ES",
+            "language": "es"
+        },
+        "supported_locales": [
+            {
+                "country": "ES",
+                "language": "es"
+            },
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "Alem\u00e1n",
+                "proficiency": "ELEMENTARY"
+            },
+            {
+                "name": "Espa\u00f1ol",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "Ingl\u00e9s",
+                "proficiency": "FULL_PROFESSIONAL"
+            }
+        ]
+    },
+    "industry": "Computer Software",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2009
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "school": {
+                "name": "Universidad nacional de la plata",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "Ingenieria en computaci\u00f3n",
+            "field_of_study": "Electrical, Electronics and Communications Engineering"
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [],
+    "organizations": [],
+    "projects": [],
+    "publications": [],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 279565,
+                "name": "Adyen",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQGCuaSq8TqalA/company-logo_400_400/0/1664880075658?e=1700697600&v=beta&t=qtuxXlU0UUvn3JvXu5Y3Z-G6plU5zCGnZRv7PlBLs6s",
+                "url": "https://www.linkedin.com/company/adyen/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amsterdam, North Holland, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Adyen",
+                    "description": null,
+                    "title": "Frontend Engineer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Hatch",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amsterdam Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2021
+                        }
+                    },
+                    "company": "Hatch",
+                    "description": null,
+                    "title": "Front End Developer",
+                    "employment_type": null
+                },
+                {
+                    "location": "Amsterdam Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2021
+                        }
+                    },
+                    "company": "Hatch",
+                    "description": null,
+                    "title": "Front End Developer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Self-Employed",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "La Plata",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2013
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2018
+                        }
+                    },
+                    "company": "Self-Employed",
+                    "description": "Responsive websites with javascript, html and css as frontend and php (framework Laravel), MySql as backend.",
+                    "title": "Full Stack Web Developer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 290558,
+                "name": "Edrans",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQFshbYxTecnjQ/company-logo_400_400/0/1584327657195?e=1700697600&v=beta&t=DfGpd-T5l7_J_SOsQkElFjc_1WLjOfKVQCVJwRrSj8s",
+                "url": "https://www.linkedin.com/company/edrans/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Capital Federal",
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2016
+                        }
+                    },
+                    "company": "Edrans",
+                    "description": null,
+                    "title": "Linux System Administrator",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 728787,
+                "name": "UNLP-Universidad Nacional de La Plata",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQHYXHfAmHJs7w/company-logo_400_400/0/1519866754211?e=1700697600&v=beta&t=bePmV_V17TQwvUDB1iDgtVMMjOXf54IPbsnLRA9Ss4A",
+                "url": "https://www.linkedin.com/school/universidad-nacional-de-la-plata/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "La Plata",
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2015
+                        }
+                    },
+                    "company": "Universidad Nacional de La Plata",
+                    "description": "Analyze integration viability of the industrial computer, CIAA, into  national market",
+                    "title": "Researcher",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "React.js",
+        "Go",
+        "TypeScript",
+        "Distributed Systems",
+        "Network Engineering",
+        "JavaScript",
+        "Next.js",
+        "Git",
+        "Docker",
+        "C++",
+        "css",
+        "HTML 5",
+        "linux",
+        "Embedded Systems",
+        "HTML5",
+        "SQL",
+        "redux",
+        "webpack",
+        "English",
+        "Microservices"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

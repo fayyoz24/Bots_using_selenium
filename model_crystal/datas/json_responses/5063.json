@@ -1,0 +1,680 @@
+{
+    "profile_id": "lalita-kurshakova",
+    "first_name": "Lalita",
+    "last_name": "Kurshakova",
+    "sub_title": "Java Software Developer at Booking.com",
+    "profile_picture": null,
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAABFtTFwBN9I3r0gifTC0Yqsnkm4qeTmJvFk",
+    "object_urn": 292375644,
+    "birth_date": null,
+    "summary": null,
+    "location": {
+        "country": null,
+        "short": "Netherlands",
+        "city": null,
+        "state": null,
+        "default": "Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "RU",
+            "language": "ru"
+        },
+        "supported_locales": [
+            {
+                "country": "RU",
+                "language": "ru"
+            },
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "Belarusian",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "English",
+                "proficiency": "PROFESSIONAL_WORKING"
+            },
+            {
+                "name": "Russian",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ]
+    },
+    "industry": "Computer Software",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2009
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "school": {
+                "name": "Belarusian State University",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQH7DTCk5iDqFw/company-logo_400_400/0/1666876000191?e=1700697600&v=beta&t=HqF4TtQPKnfKjU0W2HPSEDg_l0yONCooYCpmguIk2-k",
+                "url": "https://www.linkedin.com/school/belarusian-state-university/"
+            },
+            "degree_name": "Bachelor's degree",
+            "field_of_study": "Computer science"
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "Power market trading",
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "description": "Responsibilities:\n\n - Design and implementation of several micro services of the system\n - Gathering requirements from technical and business sides\n - RESTful services development (via JSON)\n - Refactoring and unit-testing\n - Code review",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Artsiom",
+                    "last_name": "Peravoznikau",
+                    "name": null,
+                    "headline": "Engineering Executive & Professional Coach | Uniting Technology and Team Performance for Outstanding Results"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Lalita",
+                    "last_name": "Kurshakova",
+                    "name": null,
+                    "headline": "Java Software Developer at Booking.com"
+                }
+            ]
+        },
+        {
+            "title": "PowaTag",
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "description": "Responsibilities:\n\n - Participated in the design of modules architecture\n - Gathering requirements from business side and providing technical user stories\n - RESTful micro services development\n - Daily standups and weekly planning participation as a part of Agile scrum methodology\n - Deep refactoring of several modules\n - Unit tests as a part of the development process\n - Code review\n",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Svetlana",
+                    "last_name": "Lopato",
+                    "name": null,
+                    "headline": "Lead Software Engineer"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Lalita",
+                    "last_name": "Kurshakova",
+                    "name": null,
+                    "headline": "Java Software Developer at Booking.com"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Ihar",
+                    "last_name": "Bylitski",
+                    "name": null,
+                    "headline": "Head Test Automation Practice at EPAM"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "yuri kuchko",
+                    "headline": null
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Bartosz",
+                    "last_name": "Gosiewski",
+                    "name": null,
+                    "headline": "Product Owner (PSPO I) , SCRUM Master (PSM I)"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Pavel",
+                    "last_name": "Jakimov",
+                    "name": null,
+                    "headline": "Co-founder, Director of Software Engineering at Distributed Computing Technologies"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Robin Rajura",
+                    "headline": null
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Tomasz",
+                    "last_name": "Simon",
+                    "name": null,
+                    "headline": "Software Engineer at London Metal Exchange"
+                }
+            ]
+        },
+        {
+            "title": "Internal configuration services",
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "description": "Responsibilities:\n\n - Implementation of the system components\n - Code review\n - Frontend layout implementation based on designer\u2019s mockups\n - Several browsers support on FE\n - Minor features implementation on FE\n - Bug fixing both on FE and BE sides\n",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Pavel",
+                    "last_name": "Jakimov",
+                    "name": null,
+                    "headline": "Co-founder, Director of Software Engineering at Distributed Computing Technologies"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Svetlana",
+                    "last_name": "Lopato",
+                    "name": null,
+                    "headline": "Lead Software Engineer"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Lalita",
+                    "last_name": "Kurshakova",
+                    "name": null,
+                    "headline": "Java Software Developer at Booking.com"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Ihar",
+                    "last_name": "Bylitski",
+                    "name": null,
+                    "headline": "Head Test Automation Practice at EPAM"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Bartosz",
+                    "last_name": "Gosiewski",
+                    "name": null,
+                    "headline": "Product Owner (PSPO I) , SCRUM Master (PSM I)"
+                }
+            ]
+        },
+        {
+            "title": "Administration tool",
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "description": "Responsibilities:\n\n - Pages markup creation\n - Development of FE logic according to the BE API provided\n - Communication with the team to clarify requirements and FE design features ",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Lalita",
+                    "last_name": "Kurshakova",
+                    "name": null,
+                    "headline": "Java Software Developer at Booking.com"
+                }
+            ]
+        },
+        {
+            "title": "Tax management system",
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "description": "Responsibilities:\n\n - Refactoring of the previous prototype application version\n - PL/SQL procedures fixes and creation\n - Bash scripts development\n - Integration of the messaging system\n",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Lalita",
+                    "last_name": "Kurshakova",
+                    "name": null,
+                    "headline": "Java Software Developer at Booking.com"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Igor",
+                    "last_name": "Leonov",
+                    "name": null,
+                    "headline": "Senior/Lead Software Engineer"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Anton",
+                    "last_name": "Garansky",
+                    "name": null,
+                    "headline": "Software Engineer at Telenor"
+                }
+            ]
+        },
+        {
+            "title": "Athletic injury reporting system",
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "description": "Responsibilities:\n\n - Backend development\n - Bug fixes\n - GWT components development\n",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Lalita",
+                    "last_name": "Kurshakova",
+                    "name": null,
+                    "headline": "Java Software Developer at Booking.com"
+                }
+            ]
+        },
+        {
+            "title": "Product reviews datamining service",
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "description": "Responsibilities:\n\n - Pages markup creation\n - AngularJS directives development\n - Integrating the BE with FE\n - Bug fixing\n",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Igor",
+                    "last_name": "Leonov",
+                    "name": null,
+                    "headline": "Senior/Lead Software Engineer"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Vasily",
+                    "last_name": "Posudevsky",
+                    "name": null,
+                    "headline": "Lead Software Engineer at Coherent Solutions"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Dmitry",
+                    "last_name": "Zuev",
+                    "name": null,
+                    "headline": "Senior Software Engineer at Exadel"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Lalita",
+                    "last_name": "Kurshakova",
+                    "name": null,
+                    "headline": "Java Software Developer at Booking.com"
+                }
+            ]
+        }
+    ],
+    "publications": [],
+    "courses": [
+        {
+            "name": "RigaDevDay conference",
+            "number": null
+        },
+        {
+            "name": "iTechArt Java courses",
+            "number": null
+        }
+    ],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 11348,
+                "name": "Booking.com",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQEgzF5azm3fNA/company-logo_400_400/0/1628510256914?e=1700697600&v=beta&t=oaxCkHySuLgrEFLXxw_Q9XDv1cHJeWHoyplnre8Oexo",
+                "url": "https://www.linkedin.com/company/booking.com/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amsterdam Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Booking.com",
+                    "description": null,
+                    "title": "Java Software Developer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Wargaming Bellevue",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Bellevue, WA",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2017
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "Wargaming Bellevue",
+                    "description": null,
+                    "title": "Software Engineer 2",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 213304,
+                "name": "Oxagile",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQEwdB20sqO0NA/company-logo_400_400/0/1662132516996?e=1700697600&v=beta&t=6w8Acut-WNO3taZOdQlizAjat2iidORJSlCpZfo4Um4",
+                "url": "https://www.linkedin.com/company/oxagile/",
+                "employees": {
+                    "start": 201,
+                    "end": 500
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2014
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2016
+                        }
+                    },
+                    "company": "Oxagile",
+                    "description": "Technologies used:\nJava 8, Spring Boot, Spring, Dropwizard, Google Guice, Spring AMQP, JPA, JDBC, JAXB, Liquibase, Lmax, Swagger, MS SQL, PostgreSQL, Couchbase (noSQL), Trove, RabbitMq, Jackson, Mockito, Junit, XML, JSON, Maven, Gradle, Bamboo, SonarCube, Quartz, BackboneJS, AngularJS, HTML + CSS, Bootstrap, GIT, Stash, JMeter, Scrum",
+                    "title": "Software Developer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 401173,
+                "name": "iTechArt Group",
+                "logo": "https://media.licdn.com/dms/image/C560BAQFg4IH1KEbKbg/company-logo_400_400/0/1628120860663?e=1700697600&v=beta&t=5La8HSqwHTphKFpHNUMSRGK0lR1S_NkyUb58RVQVol0",
+                "url": "https://www.linkedin.com/company/itechart-group/",
+                "employees": {
+                    "start": 0,
+                    "end": 1
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2013
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2014
+                        }
+                    },
+                    "company": "iTechArt Group",
+                    "description": "Technologies used:\nJava 7, Spring JMS, GWT, Hibernate, Vert.x, Oracle, MongoDB, Maven, Bash, PL/SQL, AngularJS, HTML+CSS, Bootstrap, Git, CVS, SVN",
+                    "title": "Software Developer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Rulimony",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2011
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2013
+                        }
+                    },
+                    "company": "Rulimony",
+                    "description": null,
+                    "title": "QA Tester",
+                    "employment_type": null
+                },
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2012
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2013
+                        }
+                    },
+                    "company": "Rulimony",
+                    "description": null,
+                    "title": "Moderator",
+                    "employment_type": null
+                },
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2012
+                        },
+                        "end": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2012
+                        }
+                    },
+                    "company": "Rulimony",
+                    "description": null,
+                    "title": "Project Manager",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Java",
+        "Spring Boot",
+        "Spring",
+        "Dropwizard",
+        "REST",
+        "JDBC",
+        "Hibernate",
+        "Guice",
+        "Rabbitmq",
+        "Liquibase",
+        "JUnit",
+        "Linux",
+        "swagger",
+        "Oracle",
+        "MySQL",
+        "MongoDB",
+        "Couchbase",
+        "Gradle",
+        "Maven",
+        "AngularJS"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

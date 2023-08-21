@@ -1,0 +1,572 @@
+{
+    "profile_id": "frenk-dragar",
+    "first_name": "Frenk",
+    "last_name": "Dragar",
+    "sub_title": "MSc Artificial Intelligence Student",
+    "profile_picture": "https://media.licdn.com/dms/image/C4E03AQEbLQDxYFXsRw/profile-displayphoto-shrink_800_800/0/1620510813329?e=1697673600&v=beta&t=NpQv5_89SdsJaVyu0FYd4KydDYSlhLHaXWbilSKmlL8",
+    "background_image": "https://media.licdn.com/dms/image/C4E16AQEysLGuuKRhJw/profile-displaybackgroundimage-shrink_350_1400/0/1655818822544?e=1697673600&v=beta&t=wOdHfbipV0SQfzVfNyU2hJXepPwBWW2psGV90qcucic",
+    "profile_type": "personal",
+    "entity_urn": "ACoAACa1TscBg1wFJEuf32IiWde0toBpqUKR3fg",
+    "object_urn": 649416391,
+    "birth_date": null,
+    "summary": "Artificial Intelligence MSc student at Utrecht University, the Netherlands. Interested in creating digital products with an emphasis on data.",
+    "location": {
+        "country": "Netherlands",
+        "short": "Utrecht, Utrecht",
+        "city": "Utrecht",
+        "state": "Utrecht",
+        "default": "Utrecht, Utrecht, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "English",
+                "proficiency": "FULL_PROFESSIONAL"
+            },
+            {
+                "name": "German",
+                "proficiency": "ELEMENTARY"
+            },
+            {
+                "name": "Slovenian",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ]
+    },
+    "industry": "Computer Software",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2024
+                }
+            },
+            "school": {
+                "name": "Utrecht University",
+                "logo": "https://media.licdn.com/dms/image/C510BAQG6HfmPTdJKXw/company-logo_400_400/0/1519884681258?e=1700697600&v=beta&t=i09IbD7RibJlZYVNrl7o5pIy-Ip7_0I2XZqXZA9kXUI",
+                "url": "https://www.linkedin.com/school/universiteit-utrecht/"
+            },
+            "degree_name": "Master's degree",
+            "field_of_study": "Artificial Intelligence"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "school": {
+                "name": "University of Ljubljana, Faculty of Computer and Information Science",
+                "logo": "https://media.licdn.com/dms/image/C560BAQHv03Njz-oWaQ/company-logo_400_400/0/1552388156194?e=1700697600&v=beta&t=5NwWoXstNHehadBIleOnkUJjegpl1PC_EAQEKToT2Jk",
+                "url": "https://www.linkedin.com/school/ulfri/"
+            },
+            "degree_name": "Bachelor's degree",
+            "field_of_study": "Mathematics and Computer Science"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "school": {
+                "name": "I. gimnazija v Celju",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "High School Diploma",
+            "field_of_study": null
+        }
+    ],
+    "patents": [],
+    "awards": [
+        {
+            "title": "1st place: EESTEC Machine Learning Hackathon - International Round (Milan)",
+            "description": "This was the second stage of the EESTEC Challenge - after winning the Slovenian local round, myself and Janez Justin moved onto the international stage in Milan. We developed a deep learning algorithm which is able to count (classify) the number of people in front of an Infineon radar chip.",
+            "issuer": "EESTEC",
+            "date": {
+                "month": 5,
+                "day": null,
+                "year": 2022
+            }
+        },
+        {
+            "title": "1st place: EESTEC Machine Learning Hackathon - Local Round (Ljubljana)",
+            "description": "1st place - NLP solution based on OpenAI's GPT-3 model APIs.",
+            "issuer": "EESTEC LC Ljubljana",
+            "date": {
+                "month": 4,
+                "day": null,
+                "year": 2022
+            }
+        },
+        {
+            "title": "2nd Place and Most Useful Hack - Dragonhack 2021",
+            "description": "Developed a Covid-19 vaccine information application and won 2nd place overall, as well as Most useful hack (Presented by HYCU)\nhttps://github.com/jjustin/dragonhack2021\nhttps://dragonhack2021.trivial.group",
+            "issuer": "Dragonhack",
+            "date": {
+                "month": 5,
+                "day": null,
+                "year": 2021
+            }
+        },
+        {
+            "title": "1st place: EESTEC Cybersecurity Hackathon - Local Round (Ljubljana)",
+            "description": "Krka Challenge and absolute hackathon winners. We developed a port scanning solution and beat 15 other teams.",
+            "issuer": "EESTEC LC Ljubljana",
+            "date": {
+                "month": 3,
+                "day": null,
+                "year": 2021
+            }
+        },
+        {
+            "title": "Funniest Hack - Dragonhack 2020",
+            "description": "Developed software to emulate a human at Zoom meetings (automatic text responses and video clips based on participants in a video meeting) using Google Cloud API voice recognition.",
+            "issuer": "DragonHack, Oryx Gaming",
+            "date": {
+                "month": 10,
+                "day": null,
+                "year": 2020
+            }
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Toefl IBT 117/120 (C2)",
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2024
+                }
+            },
+            "authority": "TOEFL\u00ae",
+            "url": null,
+            "license_number": null,
+            "display_source": null,
+            "company": {
+                "id": null,
+                "name": "TOEFL",
+                "logo": "https://media.licdn.com/dms/image/D4D0BAQEioLdeVJq-rw/company-logo_400_400/0/1692109938365?e=1700697600&v=beta&t=FOASTZZt6kd9qodJY23FtMkZ5trmav6FNscS7lusrSQ",
+                "url": null
+            }
+        },
+        {
+            "name": "React/JS Development Course",
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Infinum Academy",
+            "url": null,
+            "license_number": null,
+            "display_source": null,
+            "company": {
+                "id": null,
+                "name": "Infinum Academy",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQHCf3feanFCvg/company-logo_400_400/0/1682499612194?e=1700697600&v=beta&t=dFJaGDhQyJh1KUq6p9tME44H3vp0m1QkO8lT2vDy9xQ",
+                "url": null
+            }
+        },
+        {
+            "name": "Quantum Programming Workshop",
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Qlatvia",
+            "url": "https://qsoftware.lu.lv/",
+            "license_number": null,
+            "display_source": "lu.lv",
+            "company": null
+        }
+    ],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "Dragonhack 2022 Sponsorship",
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "description": "Coorganised Plume Design Inc\u2019s first hackathon appearance in Slovenia at Dragonhack 2022. It greatly increased the brand recognition among computer science students and other companies in the region, as well as directly leading to at least 3 student hires from the event. Lead a team of 10 people along with another coworker.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Frenk",
+                    "last_name": "Dragar",
+                    "name": null,
+                    "headline": "MSc Artificial Intelligence Student"
+                }
+            ]
+        },
+        {
+            "title": "SloBench: Slovenian Natural Language Processing Benchmark",
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "description": null,
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Frenk",
+                    "last_name": "Dragar",
+                    "name": null,
+                    "headline": "MSc Artificial Intelligence Student"
+                }
+            ]
+        },
+        {
+            "title": "Clustering users based on mouse movements",
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "description": "Working on a project in a team of 3 as part of the Data Science @FRI initiative.\nThe project theme is \"Clustering users based on mouse movements\".\nWe used advanced machine learning methods, extracted features from a large dataset and visualised examples.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Frenk",
+                    "last_name": "Dragar",
+                    "name": null,
+                    "headline": "MSc Artificial Intelligence Student"
+                }
+            ]
+        }
+    ],
+    "publications": [],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 86642252,
+                "name": "CryoCloud",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQF96Wg-S1g7Hg/company-logo_400_400/0/1656684105635?e=1700697600&v=beta&t=eDht2FTWo-nRD-FzbkCQBQyq4IRhKJrrp0k4plN8c-M",
+                "url": "https://www.linkedin.com/company/cryocloud/",
+                "employees": {
+                    "start": 2,
+                    "end": 10
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2023
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2023
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2023
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2023
+                        }
+                    },
+                    "company": "CryoCloud",
+                    "description": null,
+                    "title": "Software Engineer",
+                    "employment_type": "Part-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 10536381,
+                "name": "Plume Design, Inc",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQEc8W6bX-86Ew/company-logo_400_400/0/1519866414153?e=1700697600&v=beta&t=dWiFWOXe7CLr8IkPT0yG4v2XmXEhvHfbHCy2XbwUsMc",
+                "url": "https://www.linkedin.com/company/plume-wifi/",
+                "employees": {
+                    "start": 501,
+                    "end": 1000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Ljubljana, Slovenia",
+                    "date": {
+                        "start": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "Plume Design, Inc",
+                    "description": "- Developed and maintained Apache Spark jobs and underlying infrastructure for various data pipelines, supporting analytics and standalone digital data products\n- Implemented Spark Structured Streaming jobs into the company\u2019s Spark stack, lowering latency of certain data ingestion pipelines from minutes to miliseconds\n- Developed a custom unit and end-to-end testing framework for Apache Spark jobs based on mocked data, which enabled local development, build testing and debugging of Spark jobs\n- Helped migrate legacy Apache Airflow tasks to an improved environment which sped up deployment cycles significantly",
+                    "title": "Data Engineer",
+                    "employment_type": "Part-time"
+                },
+                {
+                    "location": "Ljubljana, Slovenia",
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2021
+                        }
+                    },
+                    "company": "Plume Design, Inc",
+                    "description": "- Worked on an internal QA project aimed at improving firmware release cycles using deployment statistics\n- Developed Tableau and Google Data Studio dashboards which enabled stakeholders to perform data driven decisions",
+                    "title": "Data Analyst",
+                    "employment_type": "Part-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 532559,
+                "name": "Vlada Republike Slovenije",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQFDmGrlGKbIcg/company-logo_400_400/0/1678339085257?e=1700697600&v=beta&t=aadf8un_6Zcn5y3dCnfsr-xqFHCz_FJPKy_irczcv-8",
+                "url": "https://www.linkedin.com/company/the-government-of-republic-of-slovenia/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Ljubljana, Slovenia",
+                    "date": {
+                        "start": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2021
+                        }
+                    },
+                    "company": "Vlada Republike Slovenije",
+                    "description": "Worked as a liaison officer as part of the Slovenian Presidency of the Council of the EU 2021, with the Swiss, Icelandic and Romanian delegations at various events.\n\nResponsibilities included:\n- communicating with the police, embassies, delegations and state officials from various countries\n- arranging transport, bilateral meetings and tending to unforseen events before and during the presidency",
+                    "title": "Liaison Officer",
+                    "employment_type": "Part-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 13016,
+                "name": "Jozef Stefan Institute",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQGUx4HQsK01Uw/company-logo_400_400/0/1519856051271?e=1700697600&v=beta&t=UQ_xqrTAHSsAnyN_sFjO5GkHAn60uNsfQn6q04ch8PU",
+                "url": "https://www.linkedin.com/company/jozef-stefan-institute/",
+                "employees": {
+                    "start": 501,
+                    "end": 1000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Ljubljana",
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2021
+                        }
+                    },
+                    "company": "Jozef Stefan Institute",
+                    "description": "Worked at E9 (Intelligent Systems Lab) at IJS.\nDeveloped an optimization algorithm for use in underground tunneling design using genetic algorithms.\nCoauthored a scientific paper about the project.",
+                    "title": "Student Intern",
+                    "employment_type": "Internship"
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [
+        {
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "role": "Scout Lead",
+            "company": {
+                "id": null,
+                "name": "Zveza tabornikov Slovenije | Scout Association of Slovenia",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQHqPCtAn-xMkQ/company-logo_400_400/0/1519890692790?e=1700697600&v=beta&t=dL92kGp10piyafXcJB5y4WxYGNWSMboW8c6H3VLq0vU",
+                "url": "https://www.linkedin.com/company/zveza-tabornikov-slovenije-scout-association-of-slovenia-/"
+            },
+            "cause": "EDUCATION",
+            "description": null
+        }
+    ],
+    "skills": [
+        "Leadership",
+        "Machine Learning",
+        "Amazon Web Services (AWS)",
+        "Artificial Intelligence (AI)",
+        "Software Development",
+        "Python (Programming Language)",
+        "Business Development",
+        "Mathematics",
+        "Data Structures",
+        "Algorithms",
+        "Deep Learning",
+        "Genetic Algorithms",
+        "International Relations",
+        "Evolutionary Algorithms",
+        "Optimization",
+        "Scala",
+        "Apache Airflow",
+        "Computer Vision",
+        "Data Science",
+        "Pandas"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}
