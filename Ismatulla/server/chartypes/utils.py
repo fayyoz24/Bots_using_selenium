@@ -1,0 +1,16 @@
+disc_map = {
+    range(241, 254): 'Driver (Di)',
+    range(254, 267): 'Supporter (S)',
+    range(267, 280): 'Skeptic (Cd)',
+    range(280, 293): 'Initiator (DI)',
+    range(293, 306): 'Captain (D)',
+    range(306, 319): 'Influencer (Id)',
+    range(319, 332): 'Motivator (I)',
+    range(332, 345): 'Analyst (C)',
+    range(345, 358): 'Encourager (Is)',
+    range(358, 371): 'Questioner (CD)',
+    range(371, 384): 'Harmonizer (IS)',
+    range(384, 397): 'Planner (Sc)',
+    range(397, 410): 'Editor (Cs)',
+    range(410, 423): 'Architect (Dc)',
+}
