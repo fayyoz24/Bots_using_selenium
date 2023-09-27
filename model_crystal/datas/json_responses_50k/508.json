@@ -1,0 +1,654 @@
+{
+    "profile_id": "verapissarenko",
+    "first_name": "Vera",
+    "last_name": "Pissarenko",
+    "sub_title": "Psychologist at PsyQ",
+    "profile_picture": "https://media.licdn.com/dms/image/C4D03AQEniQHXw0BqXQ/profile-displayphoto-shrink_800_800/0/1634820301647?e=1701302400&v=beta&t=tPff7WYc5jHIO3E6fw7GiQK9UYhIdEPlGFCStylS-iE",
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAACrID4QBvxPFVZOhxGHhmti20bQRkHckPAw",
+    "object_urn": 717754244,
+    "birth_date": null,
+    "summary": null,
+    "location": {
+        "country": "Netherlands",
+        "short": "Utrecht, Utrecht",
+        "city": "Utrecht",
+        "state": "Utrecht",
+        "default": "Utrecht, Utrecht, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "NL",
+            "language": "nl"
+        },
+        "supported_locales": [
+            {
+                "country": "NL",
+                "language": "nl"
+            },
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "Engels",
+                "proficiency": "PROFESSIONAL_WORKING"
+            },
+            {
+                "name": "Nederlands",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ]
+    },
+    "industry": "Mental Health Care",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "school": {
+                "name": "Utrecht University",
+                "logo": "https://media.licdn.com/dms/image/C510BAQG6HfmPTdJKXw/company-logo_400_400/0/1519884681258?e=1703721600&v=beta&t=dip0JQLPHIafltY09rUwsjeZiPiJpmfD6vJeMHxW-84",
+                "url": "https://www.linkedin.com/school/universiteit-utrecht/"
+            },
+            "degree_name": "Master's degree",
+            "field_of_study": "Clinical Psychology",
+            "grade": "8.1"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "school": {
+                "name": "Lund University",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQGZdRyM61SwOw/company-logo_400_400/0/1531232538246?e=1703721600&v=beta&t=siJksgKXhCRkV4AeiBxJs3WDERAl7YER8br1cMkAmpk",
+                "url": "https://www.linkedin.com/school/lunduniversity/"
+            },
+            "degree_name": "Bachelor degree",
+            "field_of_study": "Clinical Psychology",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "school": {
+                "name": "Utrecht University",
+                "logo": "https://media.licdn.com/dms/image/C510BAQG6HfmPTdJKXw/company-logo_400_400/0/1519884681258?e=1703721600&v=beta&t=dip0JQLPHIafltY09rUwsjeZiPiJpmfD6vJeMHxW-84",
+                "url": "https://www.linkedin.com/school/universiteit-utrecht/"
+            },
+            "degree_name": "Bachelor degree",
+            "field_of_study": "Clinical Psychology",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "school": {
+                "name": "Hogeschool Leiden",
+                "logo": "https://media.licdn.com/dms/image/C560BAQHIPvWbdvh9dw/company-logo_400_400/0/1609754719761?e=1703721600&v=beta&t=PcRnk67VS-OqnWzV04Eyfn7HKdtY5NFou4sGWzTggc4",
+                "url": "https://www.linkedin.com/school/hogeschool-leiden/"
+            },
+            "degree_name": "Propedeuse",
+            "field_of_study": "Applied Psychology",
+            "grade": "8"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2010
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "school": {
+                "name": "St. Bonifatiuscollege Utrecht",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "Havo diploma",
+            "field_of_study": null,
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2009
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2010
+                }
+            },
+            "school": {
+                "name": "Oranje Nassauschool Bilthoven",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "VMBO",
+            "field_of_study": null,
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [
+        {
+            "name": "Motiverende gespreksvoering - basis",
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Parnassia Groep",
+            "url": null,
+            "license_number": null,
+            "display_source": null,
+            "company": {
+                "id": null,
+                "name": "Parnassia Groep",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQGUPIYtWhA3JQ/company-logo_400_400/0/1537425268984?e=1703721600&v=beta&t=wKhmQq4s8DK89BQGOoIW193HCoVVHybfxWixG9bQ-H8",
+                "url": null
+            }
+        },
+        {
+            "name": "Slaap en cognitieve gedragstherapie bij insomnie (CGT-i)",
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Parnassia Groep",
+            "url": null,
+            "license_number": null,
+            "display_source": null,
+            "company": {
+                "id": null,
+                "name": "Parnassia Groep",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQGUPIYtWhA3JQ/company-logo_400_400/0/1537425268984?e=1703721600&v=beta&t=wKhmQq4s8DK89BQGOoIW193HCoVVHybfxWixG9bQ-H8",
+                "url": null
+            }
+        },
+        {
+            "name": "LOGO-verklaring",
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2027
+                }
+            },
+            "authority": "Vereniging Landelijk Overleg Geestelijke Gezondheidszorg Opleidingsinstellingen (vLOGO)",
+            "url": null,
+            "license_number": "22516684",
+            "display_source": null,
+            "company": null
+        },
+        {
+            "name": "Su\u00efcidepreventie training",
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Parnassia Groep",
+            "url": null,
+            "license_number": null,
+            "display_source": null,
+            "company": {
+                "id": null,
+                "name": "Parnassia Groep",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQGUPIYtWhA3JQ/company-logo_400_400/0/1537425268984?e=1703721600&v=beta&t=wKhmQq4s8DK89BQGOoIW193HCoVVHybfxWixG9bQ-H8",
+                "url": null
+            }
+        },
+        {
+            "name": "Su\u00efcide preventie training basismodule",
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "113 Zelfmoordpreventie",
+            "url": null,
+            "license_number": null,
+            "display_source": null,
+            "company": {
+                "id": null,
+                "name": "113 Zelfmoordpreventie",
+                "logo": "https://media.licdn.com/dms/image/C560BAQGWg_-uCoIwaQ/company-logo_400_400/0/1564988181570?e=1703721600&v=beta&t=DfRSVprPoaFnJ46NKdi31bwlgYyW0RxHlHUkixGASy8",
+                "url": null
+            }
+        },
+        {
+            "name": "Online Linquistic Support (Erasmus+) level C1",
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Erasmus+ (Eu program for education, training, youth and sport)",
+            "url": null,
+            "license_number": null,
+            "display_source": null,
+            "company": null
+        },
+        {
+            "name": "General English course proficiency",
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Malvern house London",
+            "url": null,
+            "license_number": null,
+            "display_source": null,
+            "company": null
+        }
+    ],
+    "organizations": [],
+    "projects": [],
+    "publications": [],
+    "courses": [
+        {
+            "name": "General English Course advanced (Malvern House London)",
+            "number": null
+        }
+    ],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 1182698,
+                "name": "PsyQ",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQGtVICGMtrL2g/company-logo_400_400/0/1537425290845?e=1703721600&v=beta&t=ekDBC65335CR97zCLWJMkRTJc0V5LgaZijHGZyW4fac",
+                "url": "https://www.linkedin.com/company/psyq/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2023
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Den Hague, South-Holland, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2023
+                        }
+                    },
+                    "company": "PsyQ",
+                    "description": "Home-afdeling:\nOp deze afdeling worden mensen geholpen met verschillende psychische stoornissen. Ik heb onder andere individuele Cognitieve Gedragstherapie gegeven, en groepstherapie waaronder Acceptance and Commitment Therapy en slaaptherapie.",
+                    "title": "Psychologist",
+                    "employment_type": "Full-time"
+                },
+                {
+                    "location": "Den Hague, South-Holland, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "PsyQ",
+                    "description": null,
+                    "title": "Psychologist in training",
+                    "employment_type": "Internship"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 539766,
+                "name": "113 Suicideprevention",
+                "logo": "https://media.licdn.com/dms/image/C560BAQGWg_-uCoIwaQ/company-logo_400_400/0/1564988181570?e=1703721600&v=beta&t=DfRSVprPoaFnJ46NKdi31bwlgYyW0RxHlHUkixGASy8",
+                "url": "https://www.linkedin.com/company/113zelfmoordpreventie/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amsterdam and surrounding, the Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2020
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2020
+                        }
+                    },
+                    "company": "113 Zelfmoordpreventie",
+                    "description": "As a practical intern at 113 I work in the helpline to help people regarding suicidality by chat and telephone. The main goal is to make suicidality an active topic for discussion, in addition to offering a good listening ear.",
+                    "title": "Practical internship",
+                    "employment_type": "Internship"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 2737122,
+                "name": "B4 Solutions Psycholoog Nederland",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQG6m1gvVagqQg/company-logo_400_400/0/1519869268932?e=1703721600&v=beta&t=IM-u8l1cxLL6ar6IuUsIFPXdMxD7lgPjbSLLgoXiw7Q",
+                "url": "https://www.linkedin.com/company/b4solutions/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Hilversum and surrounding, the Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2020
+                        },
+                        "end": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2020
+                        }
+                    },
+                    "company": "B4 solutions (Psycholoog Nederland)",
+                    "description": "Psycholoog Nederland is a mental healthcare institution with treatments in basic mental healthcare and specialized mental healthcare. This institution aims to have no waiting lists and to treat disorders such as fears, somatoform complaints, depression and mild addictions. There are several locations in the Netherlands.\n\nAs a front office employee at Psycholoog Nederland I was responsible for making telephone contact with clients: screening for mental health issues, making decisions for basic mental health care or specialized mental health care, scheduling appointments with psychologists, checking referral letters from general practitioners and checking insurance policies.",
+                    "title": "Front Office administrator",
+                    "employment_type": "Part-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 18197252,
+                "name": "Het Gegeven Paard",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQFmbS2jmrJmUQ/company-logo_400_400/0/1519921989410?e=1703721600&v=beta&t=NlhdNiWo7kEyuNsK-PDsJ6hbxlT9SiviJHFM0zBo0GI",
+                "url": "https://www.linkedin.com/company/het-gegeven-paard/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Utrecht Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "Het Gegeven Paard",
+                    "description": "Het Gegeven Paard (The Given Horse) is a bustling and well-known grand caf\u00e9 that is located in the Tivolivredenbrug concert hall in Utrecht.\n\nIn this grand caf\u00e9 I work as an all-round employee; as a waitress, hostess and bartender.",
+                    "title": "Waitress & bartender",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 765549,
+                "name": "JoHo Foundation",
+                "logo": "https://media.licdn.com/dms/image/C560BAQGBdOGiIf4iZw/company-logo_400_400/0/1519911738415?e=1703721600&v=beta&t=iJQpjdFH_16Ey47OqVImlCihHllOFUVKSTCC7EY8OQ8",
+                "url": "https://www.linkedin.com/company/joho-foundation/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Utrecht Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2017
+                        },
+                        "end": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2018
+                        }
+                    },
+                    "company": "JoHo Foundation",
+                    "description": "Joho is a development organization that enables people and organizations to contribute to a tolerant and sustainable world. Via online platforms and physical support centers, support is given for personal development and international development is encouraged.\n\nWithin the function as JoHo Summary Supporter I have shared information about the study Psychology; from compulsory material to exam tips. In addition, I helped with PR via social media and flyer campaigns and I actively expanded the student network to arrange and distribute the summaries. For a short time I started as a JoHo Summary Supporter Coach to recruit students who want to work at JoHo as a summary supporter.",
+                    "title": "JoHo Summary Supporter (Coach)",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 47038112,
+                "name": "It's a present!",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQHXAJKfhVy_fQ/company-logo_400_400/0/1617991807517?e=1703721600&v=beta&t=Y0_wqMJpYa902o3bwDsqcejWoEetwzJFZ6bVkAyzU_A",
+                "url": "https://www.linkedin.com/company/it-s-a-present/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Utrecht Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2013
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2016
+                        }
+                    },
+                    "company": "It's a present!",
+                    "description": "It's a Present is a popular gift shop for original gifts, located in Utrecht and Amsterdam.\n\nI worked here as a saleswoman; working as a cashier, wrapping presents, stocking shelves and regularly working independently in the store including opening the store by myself/ closing by myself / cashing up the store etc.",
+                    "title": "Sales",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

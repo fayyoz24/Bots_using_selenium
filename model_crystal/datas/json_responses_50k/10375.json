@@ -1,0 +1,1261 @@
+{
+    "profile_id": "hboyce",
+    "first_name": "Hunter",
+    "last_name": "Boyce, PhD",
+    "sub_title": "Bioinformatics | Statistics | Machine Learning | etc.",
+    "profile_picture": "https://media.licdn.com/dms/image/C5603AQGcoJoMTNGf3g/profile-displayphoto-shrink_800_800/0/1547679175183?e=1701302400&v=beta&t=xXtady02r_CeW4Q2ZPvm6zRdKsI4I9IWnmXIlyWawiE",
+    "background_image": "https://media.licdn.com/dms/image/C4E16AQG1EBtvV2UJ_A/profile-displaybackgroundimage-shrink_350_1400/0/1516842619280?e=1701302400&v=beta&t=Xbr9kGFs0BAGgFhmr8gKl2B3K1ORwj6DNyF3TCaHYM0",
+    "profile_type": "personal",
+    "entity_urn": "ACoAABFKXSMBPlC0-88K8YfprDrpF40oTzOI-p8",
+    "object_urn": 290086179,
+    "birth_date": null,
+    "summary": "I am interested in the application of statistical modeling and machine learning to integrate multi-omic data in order to understand the molecular underpinnings of disease and disease progression. I am also broadly interested in human-computer interaction and reproducibility in science.",
+    "location": {
+        "country": "Netherlands",
+        "short": "The Hague, South Holland",
+        "city": "The Hague",
+        "state": "South Holland",
+        "default": "The Hague, South Holland, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": []
+    },
+    "industry": "Biotechnology",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "school": {
+                "name": "Stanford University",
+                "logo": "https://media.licdn.com/dms/image/C560BAQHr9suxyJBXMw/company-logo_400_400/0/1635534378574?e=1703721600&v=beta&t=vzUq74RHOVse47Wqg7TNJu8L29Z1UV1hr2f3US43Yck",
+                "url": "https://www.linkedin.com/school/stanford-university/"
+            },
+            "degree_name": "Doctor of Philosophy (PhD)",
+            "field_of_study": "Biomedical Informatics",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "school": {
+                "name": "UC San Diego",
+                "logo": "https://media.licdn.com/dms/image/C560BAQHQYa-3EY_aaQ/company-logo_400_400/0/1565645519512?e=1703721600&v=beta&t=1YpgIwgFZm5zw3rB_MwGtB4QYvFWwSrZvkECce_F32A",
+                "url": "https://www.linkedin.com/school/ucsandiego/"
+            },
+            "degree_name": "Bachelor of Science (BS)",
+            "field_of_study": "Bioinformatics",
+            "grade": "Magna Cum Laude"
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [],
+    "organizations": [
+        {
+            "name": "Stanford Biosciences Student Association",
+            "position": "Home Program Representative",
+            "date_start": {
+                "month": 8,
+                "day": null,
+                "year": 2016
+            },
+            "date_end": {
+                "month": 8,
+                "day": null,
+                "year": 2017
+            }
+        },
+        {
+            "name": "Biomedical Computation at Stanford (BCATS)",
+            "position": "Conference Organizer",
+            "date_start": {
+                "month": 6,
+                "day": null,
+                "year": 2016
+            },
+            "date_end": {
+                "month": 6,
+                "day": null,
+                "year": 2017
+            }
+        },
+        {
+            "name": "American Chemical Society",
+            "position": "Member",
+            "date_start": {
+                "month": 3,
+                "day": null,
+                "year": 2014
+            },
+            "date_end": {
+                "month": 12,
+                "day": null,
+                "year": 2015
+            }
+        },
+        {
+            "name": "Blue Devils Drum and Bugle Corps",
+            "position": "Mellophone",
+            "date_start": {
+                "month": null,
+                "day": null,
+                "year": 2006
+            },
+            "date_end": {
+                "month": null,
+                "day": null,
+                "year": 2007
+            }
+        }
+    ],
+    "projects": [
+        {
+            "title": "Poster: Spatial analysis of multiplex immunohistochemistry data enables systems analysis of hypoxia and improved stratification of lung cancer patient outcomes",
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "description": "Presented at:\nBiomedical Informatics Retreat 2018: Pacific Grove, California\nThe Early Detection of Cancer Conference 2018: Portland, Oregon\n\nAbstract:\nA major challenge in early detection is not just knowing that disease is present, by also predicting the tumor's likely trajectory. Recent evidence has suggested that hypoxia, which occurs in a majority of cancers, may be a driver of aggressivity and poor outcomes. Understanding the complex interactions intrinsic to hypoxia is critical for understanding what molecular features drive tumor progression and stratifying patient risk for early stages of cancer. Here, we used a multiplexed immunohistochemistry platform to measure the single-cell expression of 29 proteins in a tumor microarray of 252 formalin-fixed paraffin-embedded non-small cell lung carcinoma (NSCLC) samples. These data establish NSCLC histology-specific molecular subtypes that dominate tumor samples from patients with poor prognosis. Utilizing a density-based spatial clustering approach, we identified and characterized contiguous regions of hypoxia in tumor tissues. Hypoxic stress in the tissue results in a concurrent average increase of protein expression and decrease in protein pair correlations compared to normoxic tissue. Spatially derived hypoxic features better predicted 5-year survival (AUC=0.72) compared to non-spatially derived features (AUC=0.49) in a held-out test set. Additionally, the total area of defined hypoxic regions was better able to distinguish patients with poor outcomes in a Kaplan-Meier survival analysis (p=0.024) compared to standard percent positivity measures (p=0.268). Our results highlight the utility of highly multiplexed spatial analysis in understanding complex cancer phenotypes and demonstrate the clinical significance of the spatial organization of phenotypic cancer drivers.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Hunter",
+                    "last_name": "Boyce, PhD",
+                    "name": null,
+                    "headline": "Bioinformatics | Statistics | Machine Learning | etc."
+                }
+            ]
+        },
+        {
+            "title": "Poster: Analysis of spatially segmented hypoxic regions in multiplexed lung cancer image data",
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "description": "Presented at:\nCanary Symposium 2017: Woodside, California\nCenter for Cancer Systems Biology Symposium 2017: Stanford, California\nBiomedical Informatics Retreat 2017: Pacific Grove, California\n\nAbstract:\nRecently, several studies have noted the extensive genetic and environmental heterogeneity present within tumors.  This heterogeneity drives tumor behaviors ranging from drug resistance to metastasis.  For example, hypoxia may lead to activation of diverse signaling pathways that enable cells to alter their metabolism and undergo EMT.  Historically, studies linking microenvironmental cues, spatial-patterns within tumors and cell signaling has been difficult as technologies for measuring both spatial patterns and protein expression (e.g. immunofluorescence on pathology sections) have been limited to measuring 3-4 protein markers. Using data from a newly developed highly multiplexed immunofluorescence platform, we are able examine links between hypoxic regions of tumors and dozens of proteins. I will present; 1) an algorithm for segmenting hypoxic regions through spatial density in multiplexed lung cancer image data; 2) an analysis of the differential expression and correlation between hypoxic and normoxic conditions; and 3) the usefulness of the spatial component in stratifying patient survival.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Hunter",
+                    "last_name": "Boyce, PhD",
+                    "name": null,
+                    "headline": "Bioinformatics | Statistics | Machine Learning | etc."
+                }
+            ]
+        },
+        {
+            "title": "Poster: Identifying spatial biomodules within high-dimensional molecular pathology data",
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "description": "Presented at:\nBiomedical Informatics Retreat 2016: Pacific Grove, California\n\nAbstract:\nThe role of tumor micro-heterogeneity in driving cells\u2019 molecular phenotype and how that phenotype contributes to cancer is not well understood. We hypothesize that spatially defined micro-environments lead to the creation of protein co-expression biomodules which, in turn, drive tumor behavior. Traditional methods of identifying protein biomodules are agnostic of the spatial structure of the data and ignore similarities in expression from spatially proximal cells. Here we apply a spatially aware shrunken centroid method to data from a tumor microarray constructed from 289 lung cancer samples to identify spatially defined patterns of protein expression and the subset of proteins that characterize these patterns.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Hunter",
+                    "last_name": "Boyce, PhD",
+                    "name": null,
+                    "headline": "Bioinformatics | Statistics | Machine Learning | etc."
+                }
+            ]
+        },
+        {
+            "title": "Poster: Automating Proteogenomic Analysis Using a Semantic Workflow Approach",
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "description": "Presented at:\nBiomedical Computation at Stanford 2016: Stanford, California\nCanary Summit 2016: Palo Alto, California\n\nAbstract:\nThe development of tools to analyze and integrate the avalanche of heterogeneous, multi-omic data from recently developed genomics, transcriptomics, ChIP-seq, and proteomics tools, are necessary to translate \u201cbig data\u201d into critical knowledge that enables disease prevention, detection, and personalized management. Unfortunately, the multi-omic analysis required to discover important disease mechanisms is exponentially more challenging than single-ome analysis and thus is intractable for the majority of the biological community. To address the challenges of multi-omic analysis we are developing an open-source workflow platform: the Workflow INstance Generation and Selection MultiOmic Discovery Engine (WINGS-MDE).  WINGS-MDE will enable the creation, management, distribution and effective use of multi-omic workflows. We aim to 1) create semantic workflows for performing multi-omic analysis; 2) Develop a multi-omic discovery meta-workflow engine; and 3) develop an inter-lab workflow repository that supports the annotation and dissemination of public datasets. By developing tools to reduce the barrier to integrating multiple types of heterogenous data we anticipate that it will become more possible for the broader biological community to uncover the mechanistic consequences of genetic mutations on biochemical function and accordingly the better understand the complex relationship between the genome and the functioning or malfunctioning of cells. \n",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Hunter",
+                    "last_name": "Boyce, PhD",
+                    "name": null,
+                    "headline": "Bioinformatics | Statistics | Machine Learning | etc."
+                }
+            ]
+        },
+        {
+            "title": "Poster: Prediction of clinical outcomes in breast invasive carcinoma",
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "description": "Presented at:\nCS 229 Poster Session 2015: Stanford, California\n\nBreast cancer is a highly heterogeneous disease that is classified into multiple clonal subtypes. Despite recent improvements in targeted treatment and clonal subtype detection methods, the complex genetics of tumor diversity remain poorly understood. This project examines genetic substructure in a population of breast cancer patients from The Cancer Genome Atlas (TCGA), and identifies networks of genes that correlate with specific clinical outcomes.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Hunter",
+                    "last_name": "Boyce, PhD",
+                    "name": null,
+                    "headline": "Bioinformatics | Statistics | Machine Learning | etc."
+                }
+            ]
+        },
+        {
+            "title": "Talk: Using information about the influence of nutrient diffusion on tumor evolution to enhance learning of patient trajectories",
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "description": "Presented at:\nAAAI: Physics-guided AI for Accelerating Scientific Discovery Symposium: Virtual\n\nAbstract:\nLung cancers have particularly poor outcomes due, in part, to disease being diagnosed primarily at late stages. Aggressivity is commonly acquired though tumoral microheterogeneity resulting in spatially-constrained ecological niches in which available resources are low. Characterization of hypoxia, an ecological niche of particular interest, is important in both understanding differential cancer progression and for accurately prognosing patients. Here we have developed a novel algorithm for leveraging spatial context to identify hypoxia in the tissue across a cohort of 254 non-small cell lung cancer samples. We utilize a hyperplex imaging platform to simultaneously quantify 29 protein biomarkers to evaluate how hypoxic stress affects key lung cancer pathways and overall survival. Our analysis reveals a differential response to hypoxia across histological subtypes and demonstrates the clinical utility of a spatially-aware approach.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Hunter",
+                    "last_name": "Boyce, PhD",
+                    "name": null,
+                    "headline": "Bioinformatics | Statistics | Machine Learning | etc."
+                }
+            ]
+        },
+        {
+            "title": "Talk: Geostatistical visualization of ecological interactions in tumors",
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "description": "Presented at:\nIEEE International Conference on Bioinformatics and Biomedicine: San Diego, California\n\nAbstract:\nRecent advances in our understanding of cancer progression have highlighted the roles played by molecular heterogeneity and by the tumor microenvironment in driving drug resistance and metastasis. The coupling of single-cell measurement technologies with algorithms, such as t-sne and SPADE, have enabled deep investigation of tumor heterogeneity. However, such techniques only capture molecular heterogeneity and do not enable the quantification nor visualization of intercellular interactions . They additionally do not allow the visualization of ecological niches that are critical to understanding tumor behavior. Novel computational tools to quantify and visualize spatial patterns in the tumor microenvironment are critically needed. Here, we take a tumor ecology perspective  to examine how predation, mutualism, commensalism, and parasitism may impact tumor development and spatial patterning.  We  additionally quantify local spatial heterogeneity and the emergent global spatial behavior of the models using geostatistics. By visualizing emergent spatial patterns we demonstrate the  potential utility of a geostatistical analysis in differentiating amongst cell-cell interactions in the tumor microenvironment. These studies introduce both an ecological framework for characterizing inter-cellular interactions in cancer and a novel way of quantifying and visualizing spatial patterns in cancer.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Hunter",
+                    "last_name": "Boyce, PhD",
+                    "name": null,
+                    "headline": "Bioinformatics | Statistics | Machine Learning | etc."
+                }
+            ]
+        },
+        {
+            "title": "Poster: Uncovering ecological niches in tumor hyperplex data",
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "description": "Presented at:\nThe Early Detection of Cancer Conference: Stanford, California\n\nAbstract:\nTumor heterogeneity makes it difficult to properly assess whether a tumor will progress or remain indolent. Tumor evolution is significantly influenced by the poorly understood ecological processes between cancer cells and their environment; namely the spatial interactions between cell types. Applying ecological methodologies to the tumor microenvironment will help uncover spatially-influenced mechanisms that differentiate between tumors that progress and those that remain indolent. To help elucidate spatial relationships we 1) use agent-based modeling to model tumor growth and progression under four different ecological contexts; predation, commensalism, mutualism, and parasitism; 2) apply spatial statistics to quantify the spatial heterogeneity on a local and global scale; and 3) visualize the spatial patterns of the tumor microenvironment that lead to tumor progression. We show that the small differences in local spatial phenomena are reflected in the emergent global spatial behavior in each of our well-defined ecological models. To demonstrate utility in more complex systems, we validated these spatial patterns and show that they can separate patients in terms of overall survival in a cohort of 252 lung cancer FFPE samples in a multiplexed histopathology data set. The results of this research show that spatial statistics can differentiate between small changes in local spatial interactions in a well-defined tumor ecology context and can be directly applied in computer vision analysis or pathomic analysis of histopathology data to provide better prognostic power. ",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Hunter",
+                    "last_name": "Boyce, PhD",
+                    "name": null,
+                    "headline": "Bioinformatics | Statistics | Machine Learning | etc."
+                }
+            ]
+        },
+        {
+            "title": "Talk: Spatial analysis of histopathology data in non-small cell lung cancer",
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "description": "Presented at:\nNational Library of Medicine Informatics Training Conference, Indianapolis, Indiana\n\nAbstract:\nDue to intercellular heterogeneity of tumors, expression of markers in bulk sample or in individual cells cannot serve as a proxy for tissue-level phenotypes, such as hypoxia. This necessitates a spatial analysis that considers not only the expression of proteins in individual cells, but also the density of expression throughout a tissue. The algorithm presented here leverages the spatial organization of cells in the tissue to segment regions of interest in histopathology samples. We employed this algorithm to evaluate the effect of hypoxia on the expression of proteins known to be associated with non-small cell lung cancer and on patient outcome. However, our algorithm are extendable to any histological analysis using tissue samples for any disease phenotype for which there is a measured proxy. With the large amount of banked FFPE samples, we envision a growing utilization of multiplexed spatial analysis in research and eventually in clinical workflows.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Hunter",
+                    "last_name": "Boyce, PhD",
+                    "name": null,
+                    "headline": "Bioinformatics | Statistics | Machine Learning | etc."
+                }
+            ]
+        },
+        {
+            "title": "Talk: Methods for analyzing the spatial architecture of multi-plex molecular pathology data",
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "description": "Presented at:\nBiomedical Informatics Student Seminar 2019: Stanford, California\n\nAbstract:\nRecent advances in cancer systems biology have demonstrated that genetic, transcriptomic, and proteomic heterogeneity within the tumor microenvironment are key drivers of disease progression. However, a lack of approaches for analyzing the spatial patterning of molecular phenotypes has made it challenging to examine the influence of tumor micro-heterogeneity on clinical outcomes. I will demonstrate the clinical significance of the spatial organization of phenotypic cancer drivers by presenting recently completed work on the effect of spatially-derived hypoxic features on protein expression and patient survival. I will follow this with some preliminary work on leveraging the spatial architecture of cells in determining cell phenotype.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Hunter",
+                    "last_name": "Boyce, PhD",
+                    "name": null,
+                    "headline": "Bioinformatics | Statistics | Machine Learning | etc."
+                }
+            ]
+        },
+        {
+            "title": "Talk: Spatial analysis of multiplex immunohistochemistry data enables systems analysis of hypoxia and improved stratification of lung cancer patient outcomes",
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "description": "Presented at:\nSystems Approaches to Cancer Biology Meeting 2018: Woods Hole, Massachusetts\n\nAbstract:\nA major challenge in early detection is not just knowing that disease is present, but also predicting the tumor's likely trajectory. Recent evidence has suggested that hypoxia, which occurs in a majority of cancers, may be a driver of aggressivity and poor outcomes. Understanding the complex interactions\nintrinsic to hypoxia is critical for understanding what molecular features drive tumor progression and stratifying patient risk for early stages of cancer. Here, we used a multiplexed immunohistochemistry (IHC) platform to measure the single-cell expression of 29 proteins in a tissue microarray (TMA) of 252 formalin-fixed paraffin-embedded (FFPE) non-small cell lung carcinoma (NSCLC) samples. These data establish NSCLC histology-specific molecular subtypes that dominate tumor samples from patients with poor prognosis. Utilizing a density-based spatial clustering approach, we identified and characterized contiguous regions of hypoxia in tumor tissues. Hypoxic stress in the tissue results in a concurrent average increase of protein expression and decrease in protein pair correlations compared to normoxic tissue. Spatially derived features better predicted 5-year survival (AUC = 0.72) compared to non-spatially derived features (AUC = 0.49) in a held-out test set. Additionally, the total area of defined hypoxic regions was better able to separate the patient population in a Kaplan-Meier survival analysis (p=0.024) compared to standard percent positivity measures (p=0.268). Our results highlight the utility of highly multiplexed spatial analysis in understanding complex cancer phenotypes and demonstrate the clinical significance of the spatial organization of phenotypic cancer drivers.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Hunter",
+                    "last_name": "Boyce, PhD",
+                    "name": null,
+                    "headline": "Bioinformatics | Statistics | Machine Learning | etc."
+                }
+            ]
+        },
+        {
+            "title": "Talk: Spatial segmentation of hypoxic regions in multiplex histopathology data",
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "description": "Presented at:\nBiomedical Informatics Student Seminar 2018: Stanford, California\n\nAbstract:\nHypoxia is a multifaceted phenotype that occurs in a majority of cancers and has been linked to aggressivity and poor outcomes. Hypoxic stress can lead to gene silencing through hypermethylation, growth of vasculature supporting proliferation through angiogenesis, and intravasation and potential metastasis through extracellular matrix remodeling. Understanding the complex interactions intrinsic to hypoxia in the tissue is limited by current immunohistochemical techniques that can only profile a small number of proteins at a time. In recent years, immunostaining platforms capable of measuring the in situ expression of dozens of proteins simultaneously have been developed. The critical barrier has now become developing computational methods to analyze these new multi-dimensional data types to understand complex tissue level alterations in the heterogenous tumor microenvironment. Toward this goal, I will present an algorithm to segment regions of lung cancer tissue under hypoxic stress and an analysis elucidating the molecular underpinnings of hypoxia in lung cancer. With this work we aim to facilitate treatment and prognostic decisions through more sophisticated tissue-level biomarkers and develop greater understanding of the phenotypes that drive lung cancer. Further, this work will extend to any histological investigation of cancer, with the goal of enabling researchers to better understand tumor heterogeneity and the tumor microenvironment.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Hunter",
+                    "last_name": "Boyce, PhD",
+                    "name": null,
+                    "headline": "Bioinformatics | Statistics | Machine Learning | etc."
+                }
+            ]
+        },
+        {
+            "title": " Talk: Analysis of spatially segmented hypoxic regions in multiplexed lung cancer image data ",
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "description": "Presented at:\nBiomedical Informatics Student Seminar 2017: Stanford, California\n\nAbstract:\nRecently, several studies have noted the extensive genetic and environmental heterogeneity present within tumors. This heterogeneity drives tumor behaviors ranging from drug resistance to metastasis. For example, hypoxia may lead to activation of diverse signaling pathways that enable cells to alter their metabolism and undergo EMT. Historically, studies linking microenvironmental cues, spatial-patterns within tumors and cell signaling has been difficult as technologies for measuring both spatial patterns and protein expression (e.g. immunofluorescence on pathology sections) have been limited to measuring 3-4 protein markers. Using data from a newly developed highly multiplexed immunofluorescence platform, we are able examine links between hypoxic regions of tumors and dozens of proteins. I will present an algorithm for segmenting hypoxic regions through spatial density in multiplexed lung cancer image data and an analysis of the differential expression and correlation between hypoxic and normoxic conditions, and the predictive potential of identified regions.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Hunter",
+                    "last_name": "Boyce, PhD",
+                    "name": null,
+                    "headline": "Bioinformatics | Statistics | Machine Learning | etc."
+                }
+            ]
+        },
+        {
+            "title": " Talk: Building Reproducible Multi-Omic Data Workflows ",
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "description": "Presented at:\nBiomedical Informatics Student Seminar 2016: Stanford, California\n\nAbstract:\nThe development of tools to analyze and integrate the avalanche of heterogeneous, multi-omic data from recently developed genomics, transcriptomics, and proteomics tools, are necessary to translate \u201cbig data\u201d into critical knowledge that enables disease prevention, detection, and personalized management. Unfortunately, the multi-omic analysis required to discover important disease mechanisms is exponentially more challenging than single-ome analysis and thus is intractable for the majority of the biological community. To address the challenges of multi-omic analysis, we are developing an open-source workflow platform: the Workflow INstance Generation and Selection MultiOmic Discovery Engine (WINGS-MDE). WINGS-MDE will enable the creation, management, distribution and effective use of multi-omic workflows. We aim to 1) create semantic workflows for performing multi-omic analysis; 2) develop a multi-omic discovery meta-workflow engine; and 3) develop an inter-lab workflow repository that supports the annotation and dissemination of public datasets and workflows. The WINGS-MDE system is first being applied to fully reproduce an integrated proteogenomic characterization of colorectal cancer. I will discuss our reproduction and automation of this pipeline, how our reproduction compares to the original study, and novel analysis that this automation allows us.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Hunter",
+                    "last_name": "Boyce, PhD",
+                    "name": null,
+                    "headline": "Bioinformatics | Statistics | Machine Learning | etc."
+                }
+            ]
+        },
+        {
+            "title": "GenomeLens",
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "description": null,
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Hunter",
+                    "last_name": "Boyce, PhD",
+                    "name": null,
+                    "headline": "Bioinformatics | Statistics | Machine Learning | etc."
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Niema",
+                    "last_name": "Moshiri",
+                    "name": null,
+                    "headline": "Associate Teaching Professor (LSOE) of Computer Science @ UC San Diego"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Vineet",
+                    "last_name": "Bafna",
+                    "name": null,
+                    "headline": "Professor at UCSD"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Vikas",
+                    "last_name": "Bansal",
+                    "name": null,
+                    "headline": "Associate Professor at UC San Diego"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Patrick",
+                    "last_name": "Phaneuf",
+                    "name": null,
+                    "headline": "Research Group Lead"
+                }
+            ]
+        }
+    ],
+    "publications": [
+        {
+            "name": "Computer vision-based analysis of hypoxia in the tumor microenvironment improves patient stratification",
+            "publisher": "In preparation",
+            "url": null,
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2021
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Hunter",
+                    "last_name": "Boyce, PhD",
+                    "name": null,
+                    "headline": "Bioinformatics | Statistics | Machine Learning | etc."
+                }
+            ]
+        },
+        {
+            "name": "Using Information About the Influence of Nutrient Diffusion on Tumor Evolution to Enhance Learning of Patient Trajectories",
+            "publisher": "AAAI Physics-Guided AI to Accelerate Scientific Discovery Symposium",
+            "url": null,
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2020
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Hunter",
+                    "last_name": "Boyce, PhD",
+                    "name": null,
+                    "headline": "Bioinformatics | Statistics | Machine Learning | etc."
+                }
+            ]
+        },
+        {
+            "name": "Geostatistical visualization of ecological interactions in tumors",
+            "publisher": "IEEE International Conference on Bioinformatics and Biomedicine",
+            "url": "https://ieeexplore.ieee.org/document/8983076",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2019
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Hunter",
+                    "last_name": "Boyce, PhD",
+                    "name": null,
+                    "headline": "Bioinformatics | Statistics | Machine Learning | etc."
+                }
+            ]
+        },
+        {
+            "name": "Semantic workflows for benchmark challenges: Enhancing comparability, reusability and reproducibility",
+            "publisher": "Pacific Symposium on Biocomputing",
+            "url": "https://psb.stanford.edu/psb-online/proceedings/psb19/srivastava.pdf",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2019
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Hunter",
+                    "last_name": "Boyce, PhD",
+                    "name": null,
+                    "headline": "Bioinformatics | Statistics | Machine Learning | etc."
+                }
+            ]
+        },
+        {
+            "name": "A Temporal Examination of Platelet Counts as a Predictor of Prognosis in Lung, Prostate, and Colon Cancer Patients",
+            "publisher": "Scientific Reports",
+            "url": "https://www.nature.com/articles/s41598-018-25019-1.pdf?origin=ppub",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2018
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Hunter",
+                    "last_name": "Boyce, PhD",
+                    "name": null,
+                    "headline": "Bioinformatics | Statistics | Machine Learning | etc."
+                }
+            ]
+        },
+        {
+            "name": "Towards Continuous Scientific Data Analysis and Hypothesis Evolution",
+            "publisher": "AAAI",
+            "url": "http://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/download/14839/14046",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2017
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Hunter",
+                    "last_name": "Boyce, PhD",
+                    "name": null,
+                    "headline": "Bioinformatics | Statistics | Machine Learning | etc."
+                }
+            ]
+        },
+        {
+            "name": "Automated Hypothesis Testing with Large Scientific Data Repositories",
+            "publisher": "Proceedings of the Fourth Annual Conference on Advances in Cognitive Systems",
+            "url": "http://dgarijo.com/papers/acs2016.pdf",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2016
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Hunter",
+                    "last_name": "Boyce, PhD",
+                    "name": null,
+                    "headline": "Bioinformatics | Statistics | Machine Learning | etc."
+                }
+            ]
+        }
+    ],
+    "courses": [
+        {
+            "name": "Advanced Data Structures",
+            "number": "CSE 100"
+        },
+        {
+            "name": "Applied Genomic Techniques",
+            "number": "BENG 183"
+        },
+        {
+            "name": "Basic Data Structures and Object-Oriented Design",
+            "number": "CSE 12"
+        },
+        {
+            "name": "Big Data Analysis Computation",
+            "number": "CSE 190"
+        },
+        {
+            "name": "Biochemical Energetics and Metabolism",
+            "number": "CHEM 114B"
+        },
+        {
+            "name": "Biochemical Structure and Function",
+            "number": "CHEM 114A"
+        },
+        {
+            "name": "Biological Data Analysis",
+            "number": "BIMM 182"
+        },
+        {
+            "name": "Biomedical Informatics Teaching Methods",
+            "number": "BIOMEDIN 290"
+        },
+        {
+            "name": "Biosecurity and Bioterrorism Response",
+            "number": "PUBLPOL 222"
+        },
+        {
+            "name": "Biosynthesis of Macromolecules",
+            "number": "CHEM 114C"
+        },
+        {
+            "name": "Calculus and Analytic Geometry I",
+            "number": "MATH 150"
+        },
+        {
+            "name": "Calculus and Analytic Geometry II",
+            "number": "MATH 151"
+        },
+        {
+            "name": "Calculus and Analytic Geometry III",
+            "number": "MATH 252"
+        },
+        {
+            "name": "Cell Biology",
+            "number": "BICD 110"
+        },
+        {
+            "name": "Computational Methods for Biomedical Image Analysis and Interpretation",
+            "number": "BIOMEDIN 260"
+        },
+        {
+            "name": "Data Driven Medicine",
+            "number": "BIOMEDIN 215"
+        },
+        {
+            "name": "Design and Analysis of Algorithms",
+            "number": "CSE 101"
+        },
+        {
+            "name": "Genetics",
+            "number": "BICD 100"
+        },
+        {
+            "name": "Intro to Biological Sciences I",
+            "number": "BIOL 210A"
+        },
+        {
+            "name": "Intro to Biological Sciences II",
+            "number": "BIOL 210B"
+        }
+    ],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": null,
+                "name": "Boyce Data Insights B.V.",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2023
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amsterdam, North Holland, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2023
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Boyce Data Insights B.V.",
+                    "description": null,
+                    "title": "Director",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 20344983,
+                "name": "Nautilus Biotechnology",
+                "logo": "https://media.licdn.com/dms/image/C560BAQEYqomcNGabfQ/company-logo_400_400/0/1651872578485?e=1703721600&v=beta&t=XKx9I5RWu_5KTnulSj2cibBWpt3E6EFvq1SxpZpC92k",
+                "url": "https://www.linkedin.com/company/nautilus-biotechnology/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2023
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2023
+                        }
+                    },
+                    "company": "Nautilus Biotechnology",
+                    "description": null,
+                    "title": "Senior Bioinformatics Scientist",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1790,
+                "name": "Stanford University School of Medicine",
+                "logo": "https://media.licdn.com/dms/image/C560BAQH74V3iDB5G5Q/company-logo_400_400/0/1554836244012?e=1703721600&v=beta&t=s7EgtnuaAobiog7PJVnbVVRokAwZkcnN426gQZomNxo",
+                "url": "https://www.linkedin.com/school/stanford-university-school-of-medicine/",
+                "employees": {
+                    "start": 5001,
+                    "end": 10000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Mallick and Altman Labs",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2021
+                        }
+                    },
+                    "company": "Stanford University School of Medicine",
+                    "description": "Project: Geostatistical assessment of ecological interactions in tumors.\nInteractions between individual cells in the tumor microenvironment give rise to emergent cancer behavior. To better quantify cellular interactions and the tumor behaviors they influence, I modeled predatory, mutualistic, commensal, and parasitic ecological interactions in a tumor context using an agent-based model of tumor growth. I demonstrated the utility of spatial statistics and their emergent properties to identify tumor phenomena and to differentiate between small changes in single cell interactions.\n\nProject: Computer vision-based analysis of hypoxia.\nHypoxia, a lack of oxygen in the tissue resulting from diffusion limitations, drives tumor progression through a variety of mechanisms. Appropriately identifying hypoxia in the tissue will lead to better prognostic power. Leveraging spatial cellular density, I developed an algorithm to identify regions of hypoxia in histopathology data. In collaboration with GE Global Research using a pre-commercial hyperplex immunohistochemistry platform, this work resulted in the discovery of a novel spatial biomarker that was validated in multiple cancers across multiple platforms. Additionally, I discovered differential responses to hypoxic stress between subtypes of lung cancer.\n\nProject: Arbitration of results in reproducible workflows.\nWhen exploring research questions, there are often many possible algorithms and parameterizations that can be employed to answer those questions. This project aimed to give confidence to a proposed hypothesis by combining the results of parallel workflows, arbitrating between different results, and providing provenance for reproducibility. This early-stage work was conducted in collaboration with Yolanda Gil's group at the Information Sciences Institute at University of Southern California on the WINGS semantic workflow system.",
+                    "title": "Graduate Student Researcher",
+                    "employment_type": null
+                },
+                {
+                    "location": "Stanford University",
+                    "date": {
+                        "start": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2017
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "Stanford University School of Medicine",
+                    "description": "BIOMEDIN 212: Introduction to Biomedical Informatics Research Methodology \n    Spring 2017, 2018, 2019\nBIOS 205: Introduction to R for Data Analysis\n    Summer 2017",
+                    "title": "Graduate Teaching Assistant",
+                    "employment_type": null
+                },
+                {
+                    "location": "Stanford, CA",
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2018
+                        }
+                    },
+                    "company": "Stanford University School of Medicine",
+                    "description": "BIOS 205: Introduction to R for Data Analysis",
+                    "title": "Instructor",
+                    "employment_type": null
+                },
+                {
+                    "location": "Elias and Snyder Labs",
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2015
+                        }
+                    },
+                    "company": "Stanford University School of Medicine",
+                    "description": "Analyzed microbiome time series data using Python to determine the host response to perturbations in the gut microbiota. Developed machine learning pipelines in R to combine multi-omic datasets to predict clinical outcomes in ovarian cancer using RNAseq and proteomic data from The Cancer Genome Atlas (TCGA).",
+                    "title": "Rotation Student",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 3382,
+                "name": "University of California, San Diego",
+                "logo": "https://media.licdn.com/dms/image/C560BAQHQYa-3EY_aaQ/company-logo_400_400/0/1565645519512?e=1703721600&v=beta&t=1YpgIwgFZm5zw3rB_MwGtB4QYvFWwSrZvkECce_F32A",
+                "url": "https://www.linkedin.com/school/ucsandiego/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Bafna and Dorrestein Labs",
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2014
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2015
+                        }
+                    },
+                    "company": "UC San Diego",
+                    "description": "Developed admixture analysis pipelines in Python and created visualizations of data using Javascript and D3.js for a web-based genome analysis tool at UC San Diego named GenomeLens. Developed novel algorithms for the comparative analysis of raw mass spectrometry data using C++. Created visualizations of data generated by the lab using Python, with numpy and bokeh packages. Helped maintain a MATLAB toolbox to visualize 3D imaging of mass spectrometry data.",
+                    "title": "Undergraduate Researcher",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 946628,
+                "name": "Tandem Diabetes Care",
+                "logo": "https://media.licdn.com/dms/image/C560BAQFd1c31xI-BMw/company-logo_400_400/0/1643691665599?e=1703721600&v=beta&t=HToDaju__uFVNxbAROoOCcfiszE8p52NYMVOICNRjAg",
+                "url": "https://www.linkedin.com/company/tandemdiabetes/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "San Diego, CA",
+                    "date": {
+                        "start": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2013
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2013
+                        }
+                    },
+                    "company": "Tandem Diabetes Care",
+                    "description": "Managed customer relations with 100 active patients across three territories spanning eight states for a medical device provider.\n\nDoubled the amount of devices shipped to assigned sales territories in six months by developing and implementing weekly sales plans with three field sales staff and three clinical specialists.\n\nVerified patient insurance to determine the extent of medical device coverage for between 15 and 20 new patients a week.\n\nInitiated, monitored and followed-up on prior authorization processes for medical device sales.\n\nEntered new patients into the Microsoft CRM system.\n\nTrained four staff on customer service, insurance verification, patient payment collection, Microsoft Dynamics CRM software, and product offerings.",
+                    "title": "Insurance Verification Specialist",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 5143,
+                "name": "Covance",
+                "logo": "https://media.licdn.com/dms/image/C560BAQGDGLW07t-OCA/company-logo_400_400/0/1624541034909?e=1703721600&v=beta&t=05B2RWmMBs7CUeST3pr7LCTCzEhJtsCa3-NNxD6cl_M",
+                "url": "https://www.linkedin.com/company/covancedrugdevelopment/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2009
+                },
+                "end": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "San Diego, CA",
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2009
+                        },
+                        "end": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2013
+                        }
+                    },
+                    "company": "Covance",
+                    "description": "Performed ten daily insurance verifications and processed eligibility applications for patient assistance and medication access programs funded by pharmaceutical industry clients.\n\nVerified medication coverage and initiated and followed up on prior authorization processes.\n\nAnswered inbound customers calls and provided eligibility criteria for patient assistance programs, status updates on applications and forms, and patient/facility record updates.\n\nCreated and reviewed SOPs for a pilot program that allowed large facilities to use their current paperwork and workflows while employing company services, which increased the number of verification requests 100% while maintaining established turnaround times.\n\nManaged the intake of 100 new facilities for the pilot program while gathering and tracking data.\n\nSelected to join an eight-member team that increased form processing volume 10% by identifying workflow inefficiencies and proposing data entry streamlining solutions, testing new databases, and improving Siebel CRM software operations.\n\nTrained ten staff on Siebel CRM, Cisco telephony, insurance verifications, prior authorizations, and patient assistance program eligibility criteria.",
+                    "title": "Program Specialist",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [
+        {
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "role": "Mentor SMASH Rising at Stanford",
+            "company": {
+                "id": null,
+                "name": "SMASH",
+                "logo": "https://media.licdn.com/dms/image/C560BAQFe4lGXbKnnxA/company-logo_400_400/0/1562016989510?e=1703721600&v=beta&t=Dd1kStEIh0fHqmtYm2Y-SvxooTV9fnZK05CmovmYdQM",
+                "url": "https://www.linkedin.com/company/smash-program/"
+            },
+            "cause": "EDUCATION",
+            "description": "I served as a mentor for four SMASH Rising students at the Canary Center at Stanford. The students worked on identifying protein biomarkers for lung cancer early detection. We met daily and I helped them learn basic programming, present weekly updates, and prepare a public talk about their Summer research project.\n\nMore about SMASH Rising:\nhttps://www.smash.org/programs/smash-rising/"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "role": "Planning Committee",
+            "company": {
+                "id": null,
+                "name": "Biomedical Computation at Stanford",
+                "logo": null,
+                "url": null
+            },
+            "cause": "EDUCATION",
+            "description": "I served on the planning committee for the Biomedical Computation at Stanford (BCATS) conference. This involved fundraising, inviting guest speakers, reviewing abstracts for presentation, and scheduling the venue and meals. Our meeting had over 100 attendees from the Bay Area.\n\nAbout BCATS:\nhttp://bcats.stanford.edu/previous_bcats/bcats17/html/about-us.html\n\nBCATS is a one-day scientific conference organized entirely by students highlighting current research by students and post-docs in the San Francisco bay area. BCATS has consistently offered the biomedical computation community a place to connect and learn about state-of-the-art science.\n\nOver the years, BCATS has consistently offered the biomedical computation community a place to connect and learn about state-of-the-art science. This open exchange is critical for the growth of biomedical computation research. Attendees of previous BCATS have gone on to become leading faculty in prestigious institutions and drivers of biotechnological innovation in the private sector."
+        },
+        {
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "role": "Panelist for Community College Visit Day",
+            "company": {
+                "id": null,
+                "name": "Stanford University School of Medicine",
+                "logo": "https://media.licdn.com/dms/image/C560BAQH74V3iDB5G5Q/company-logo_400_400/0/1554836244012?e=1703721600&v=beta&t=s7EgtnuaAobiog7PJVnbVVRokAwZkcnN426gQZomNxo",
+                "url": "https://www.linkedin.com/school/stanford-university-school-of-medicine/"
+            },
+            "cause": "EDUCATION",
+            "description": "I served as a panelist for a community college visit day hosted by the Stanford University School of Medicine. The purpose of the visit day was to showcase to current STEM students in community college the roles of academic and medical careers. The panel consisted of current graduate students in the Stanford Biosciences that had attended community college in the past and allowed visiting students to ask questions about our journey from community college to graduate school."
+        },
+        {
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "role": "ADVANCE Summer Institute Mentor",
+            "company": {
+                "id": null,
+                "name": "Stanford University School of Medicine",
+                "logo": "https://media.licdn.com/dms/image/C560BAQH74V3iDB5G5Q/company-logo_400_400/0/1554836244012?e=1703721600&v=beta&t=s7EgtnuaAobiog7PJVnbVVRokAwZkcnN426gQZomNxo",
+                "url": "https://www.linkedin.com/school/stanford-university-school-of-medicine/"
+            },
+            "cause": "EDUCATION",
+            "description": "I served as a student mentor for an incoming PhD student in the Biosciences at Stanford University for two Summers.\n\nAbout the ADVANCE program:\nhttps://biosciences.stanford.edu/current-students/diversity/advance/\nStanford Biosciences\u2019 ADVANCE Summer Institute is an intensive 8-week transition program for incoming graduate students from diverse backgrounds. The ADVANCE Summer Institute evolved from a similar program created by the Biomedical Association for the Interests of Minority Students (BioAIMS) in 2010. ADVANCE seeks to prepare students for a successful graduate career at Stanford and we look forward to building on the successes of the past two years.\n\nThe summer before a matriculating student\u2019s first year offers an excellent opportunity to transition to graduate school without the usual whirlwind of activity that begins in the fall. Through ADVANCE we will facilitate the participants\u2019 smooth transition into their first year, laying the foundation for a successful and rewarding graduate experience.\n\nADVANCE provides participants with an opportunity to begin research in their home program a quarter early. Participants will participate in small literature discussion groups led by faculty and postdocs and attend workshops that will support their successful transition to graduate school. Additionally, they will participate in mentoring and social activities hosted by BioAIMS and SBSA as a mechanism for fostering a sense of belonging and community. Support for ADVANCE participants will continue throughout their first year and beyond through mentoring, tutoring and research update meetings.\n\nADVANCE is motivated by the Biosciences\u2019 commitment to be fully inclusive and supportive of all students, and by the belief that a diverse graduate student body enhances the quality of the educational experience for all students."
+        },
+        {
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "role": "Home Program Representative",
+            "company": {
+                "id": null,
+                "name": "Stanford Biosciences Student Association (SBSA)",
+                "logo": null,
+                "url": null
+            },
+            "cause": "EDUCATION",
+            "description": "I served as a representative for my home program (Biomedical Informatics) in SBSA. This involved attending monthly meetings, and reviewing and voting on proposals for programs and events on the medical school campus."
+        },
+        {
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "role": "Diversity Student Host",
+            "company": {
+                "id": null,
+                "name": "Stanford University School of Medicine",
+                "logo": "https://media.licdn.com/dms/image/C560BAQH74V3iDB5G5Q/company-logo_400_400/0/1554836244012?e=1703721600&v=beta&t=s7EgtnuaAobiog7PJVnbVVRokAwZkcnN426gQZomNxo",
+                "url": "https://www.linkedin.com/school/stanford-university-school-of-medicine/"
+            },
+            "cause": "EDUCATION",
+            "description": "I served as a student host for under-represented minority students interviewing for the Biosciences at Stanford University."
+        }
+    ],
+    "skills": [
+        "Applied Statistics",
+        "Machine Learning",
+        "Cancer Biology",
+        "Bioinformatics",
+        "Algorithms",
+        "Statistics",
+        "Data Analysis",
+        "Data Structures",
+        "Clinical Trials",
+        "Biotechnology",
+        "Life Sciences",
+        "Research",
+        "Molecular Biology",
+        "Science",
+        "Programming",
+        "R",
+        "Python",
+        "Linux",
+        "Unix",
+        "Django"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

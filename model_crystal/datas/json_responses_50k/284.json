@@ -1,0 +1,377 @@
+{
+    "profile_id": "twan-de-graaf-38018965",
+    "first_name": "Twan",
+    "last_name": "de Graaf",
+    "sub_title": "Technical Artist with Ubisoft Paris",
+    "profile_picture": "https://media.licdn.com/dms/image/C5603AQG4IpokEb3JFQ/profile-displayphoto-shrink_800_800/0/1517615122552?e=1701302400&v=beta&t=rzx6Dhtmb6EUmod3d4-6vNnoRnlV-4GapUkYfz-FZek",
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAAA264tABAtS4uX8dp7h92bHbQxr4YTzLmLw",
+    "object_urn": 230351568,
+    "birth_date": null,
+    "summary": "I am Twan de Graaf, 3d computer graphics artist. My personal focus is on the technical side of computer graphics. My specialization lies with procedural generation, communication with programmers, shader networks and worldbuilding. I started with modding and low-polygon modeling, something I still enjoy.\n\nPortfolio:\nhttp://www.twandegraaf.nl/index.html",
+    "location": {
+        "country": "Netherlands",
+        "short": "Breda, North Brabant",
+        "city": "Breda",
+        "state": "North Brabant",
+        "default": "Breda, North Brabant, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "NL",
+            "language": "nl"
+        },
+        "supported_locales": [
+            {
+                "country": "NL",
+                "language": "nl"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "Duits",
+                "proficiency": "ELEMENTARY"
+            },
+            {
+                "name": "English",
+                "proficiency": "FULL_PROFESSIONAL"
+            },
+            {
+                "name": "Frans",
+                "proficiency": "ELEMENTARY"
+            },
+            {
+                "name": "Nederlands",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ]
+    },
+    "industry": "Computer Games",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2009
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "school": {
+                "name": "Breda University of Applied Sciences",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQFbyE40M8RZ8w/company-logo_400_400/0/1670841866792?e=1703721600&v=beta&t=rQY2mj5DCImYgJgzalfgz6phYkQsW6yN6IBDGDeNDvo",
+                "url": "https://www.linkedin.com/school/bredauniversityas/"
+            },
+            "degree_name": "Bachelor of Engineering (BEng)",
+            "field_of_study": "Game Architecture and Design",
+            "grade": "Average grade: 8.39 out of 10"
+        }
+    ],
+    "patents": [],
+    "awards": [
+        {
+            "title": "3rd Place, Global Game Jam, Breda",
+            "description": "The Global Game Jam is a challenge in which you develop a small game within 48 hours with a small team. Prizes are awarded locally as well as globally. Our team reached a local 3rd place with SIP.\n\nPlay the game here: (Unity webplayer required) \nhttp://www.twandegraaf.nl/Art/Games/Sip/WebPlayer.html\n\nThis game was created together with:\nAchraf Cherabi \nDino Dini\nMartijn Gerkes\nStefano Gualeni\nMargaret Willemsen",
+            "issuer": "Global Game Jam/NHTV",
+            "date": {
+                "month": 2,
+                "day": null,
+                "year": 2012
+            }
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Bachelor of Engineering in Game Architecture and Design",
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "NHTV Breda University of Applied Sciences",
+            "url": null,
+            "license_number": "39279",
+            "display_source": null,
+            "company": null
+        }
+    ],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "Ghost Recon: Breakpoint",
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "description": "Tom Clancy's Ghost Recon Breakpoint is an online tactical shooter video game developed by Ubisoft Paris and published by Ubisoft. The game was released worldwide on October 4, 2019, for Microsoft Windows, PlayStation 4.\nThe game is the eleventh installment in the Tom Clancy's Ghost Recon franchise and is a narrative sequel to the 2017 video game Tom Clancy's Ghost Recon Wildlands.\n\nThe game is set in an open world environment called Auroa, a fictional island in the Pacific Ocean. The player takes on the role of Lieutenant Colonel Anthony \"Nomad\", a special forces operative sent to the island to investigate a series of disturbances involving Skell Technology, a military contractor based on Auroa.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Twan",
+                    "last_name": "de Graaf",
+                    "name": null,
+                    "headline": "Technical Artist with Ubisoft Paris"
+                }
+            ]
+        },
+        {
+            "title": "Procedural UV and Texturing Tool",
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "description": "The created tool generates UV maps and basic textures almost automatically for low-poly objects. The tool can be used to save large amounts of time by using the generated UV maps directly in a 3D- engine, or use them as a base to be manually edited. The tool also creates a couple of basic textures to give a head start in the texturing process.\n\nVideo:\nhttp://www.youtube.com/watch?v=RMvnvqovsqw\n\nDocumentation:\nhttp://www.twandegraaf.nl/Art/Documents/TdG%20UVgen_Manual.pdf\n\nAvailable via Orbolt:\nhttp://www.orbolt.com/asset/Twan_de_Graaf::TdG_UVgen",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Twan",
+                    "last_name": "de Graaf",
+                    "name": null,
+                    "headline": "Technical Artist with Ubisoft Paris"
+                }
+            ]
+        },
+        {
+            "title": "Graduation Project: Procedural planets into detail",
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "description": "My graduation project aims to create a tool for the generation of planets. These planets can be used in 3D-engines in real-time. The project is created with Side effect's Houdini and is showcased in the Unity engine.\n\nVideo:\nhttp://www.youtube.com/watch?v=tzoePFK-Ckg\n\nDocument: \nhttp://tinyurl.com/ns6nhzd\n\nThe generator automatically exports various LODs to model files from a template. This can be created in 1 hour with lots of control. Generation takes about 8 hours, rather than 8 weeks.\n\n- UVed terrain, with multiple LODs with dynamic blending.\n- Random, hand edited or custom planet templates.\n- Climate simulation.\n- Texture based geometry detailing, for more control.\n- True 3D terrain, allowing for tunnels.\n- Automatic prop placement and loading.\n- Automatic water/collision mesh and texture output.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Twan",
+                    "last_name": "de Graaf",
+                    "name": null,
+                    "headline": "Technical Artist with Ubisoft Paris"
+                }
+            ]
+        },
+        {
+            "title": "Ghost Recon: Wildlands",
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "description": "Ghost Recon is the first military shooter set in a massive and responsive open world, entirely playable in single-player or four-player co-op. Coming to PlayStation\u00ae4, Xbox One and PC.\n\nBolivia has become the largest cocaine producer in the world. The vicious Santa Blanca drug cartel has turned the country into a narco-state, leading to fear, injustice, and violence. The Ghosts, a legendary US Elite Special Operations team, is sent behind enemy lines to wreak havoc and break alliances between the cartel and the corrupted government.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Twan",
+                    "last_name": "de Graaf",
+                    "name": null,
+                    "headline": "Technical Artist with Ubisoft Paris"
+                }
+            ]
+        }
+    ],
+    "publications": [],
+    "courses": [
+        {
+            "name": "International Game Architecture and Design - Visual art",
+            "number": null
+        }
+    ],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 2528,
+                "name": "Ubisoft",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQGcU156x4n3og/company-logo_400_400/0/1686596916365?e=1703721600&v=beta&t=q1yxPsi9Bcb9uhr1k3W6JfkoqkBKUtDNwerVbWIeUOQ",
+                "url": "https://www.linkedin.com/company/ubisoft/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Paris",
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2014
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Ubisoft",
+                    "description": "Supporting the rest of the teams with Procedural Tools made for Houdini Engine.\nThis means solving general problems, as well as anticipating future needs.",
+                    "title": "Senior Technical Artist",
+                    "employment_type": "Permanent"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "CMIVFX",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "The Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2013
+                        },
+                        "end": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2013
+                        }
+                    },
+                    "company": "CMIVFX",
+                    "description": "Created a video tutorial of my UVmapping tool for CMIVFX:",
+                    "title": "Contributor",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 2846673,
+                "name": "LuGus Studios",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQGHwpNH5P32rQ/company-logo_400_400/0/1563396390400?e=1703721600&v=beta&t=c2bMy-DwRAUVC2iiOq7Bu-27xbA16sZ7d3LWiFdbyvc",
+                "url": "https://www.linkedin.com/company/lugus-studios/",
+                "employees": {
+                    "start": 2,
+                    "end": 10
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Belgi\u00eb",
+                    "date": {
+                        "start": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2012
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2012
+                        }
+                    },
+                    "company": "LuGus Studios",
+                    "description": "All-round game development:\nSince LuGus Studios is a small company, everyone needs to be versatile, tasks I had to perform include:\n* Game Design\n* Model Creation\n* Texturing\n* Programming\n* World Building",
+                    "title": "Intern: All-round Game developer",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Procedural Development",
+        "Houdini",
+        "Problem Solving",
+        "Programming",
+        "Maya",
+        "Unity3D",
+        "3D Studio Max",
+        "Photoshop",
+        "Unreal Editor",
+        "Shader Creation"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}
