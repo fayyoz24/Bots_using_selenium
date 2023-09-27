@@ -1,0 +1,562 @@
+{
+    "profile_id": "ajeckmans",
+    "first_name": "Alexander",
+    "last_name": "Jeckmans",
+    "sub_title": "Experienced .NET Developer and Azure Specialist, driving software quality and innovation in complex domains. Skilled in C#, F#, .net, Azure",
+    "profile_picture": "https://media.licdn.com/dms/image/C4E03AQGJEndLfWBaaQ/profile-displayphoto-shrink_800_800/0/1647352233184?e=1701302400&v=beta&t=4KHKEc_O2EzN6saYhDYkrqds_vy26OFJ-I5y5Lcyjdw",
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAAAJ7fOoBAT1504Gq9JYx8Y5atCKlxaGJqMk",
+    "object_urn": 41647338,
+    "birth_date": null,
+    "summary": "I am Alexander Jeckmans, a seasoned .NET developer and Azure specialist with a strong background in C# and F#. I have a keen interest in software quality assurance and enjoy training others on-the-job. My expertise extends to Azure, ASP.NET (core), and C#/F#/PowerShell. I have successfully developed and implemented robust test strategies, enabling technical debt to be tackled with less risk. I have also replaced a legacy login system with a custom OpenID Connect solution that has successfully passed two separate, independent audits.\n\nMy colleagues describe me as a serious, curious individual who delves deep into subject matter to translate and secure business needs. I thrive in an open and learning-oriented environment where new techniques can be applied and shared. I enjoy working on software at the heart of complex domains and prefer agile work environments with mature CICD strategies.\n\nI hold multiple Microsoft certifications, including Azure Administrator Associate, Azure AI Engineer Associate, Azure Data Scientist Associate, DevOps Engineer Expert, and Azure Developer Associate. I have a Bachelor's degree in Communication & Multimedia Design - Informatics from the Hogeschool van Arnhem en Nijmegen and have completed all courses for the Master's program in Human Media Interaction at Universiteit Twente (but never wrote the thesis and completed the program).\n\nIn my career, I have worked on a variety of projects across different sectors, including telecom, insurance, warehousing, and real estate. I have a proven track record of delivering high-quality solutions, whether it's migrating existing components to Azure, increasing test coverage, or developing new authentication and authorization systems.",
+    "location": {
+        "country": "Netherlands",
+        "short": "Ede, Gelderland",
+        "city": "Ede",
+        "state": "Gelderland",
+        "default": "Ede, Gelderland, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "Dutch",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "English",
+                "proficiency": null
+            }
+        ]
+    },
+    "industry": "Computer Software",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2007
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2011
+                }
+            },
+            "school": {
+                "name": "Hogeschool van Arnhem en Nijmegen (HAN)",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQE_-3BSObKKhw/company-logo_400_400/0/1561721136820?e=1703721600&v=beta&t=2FjoelfC7Q57j-cIZVF0MHph40qwze9WcfqLfiBa7y8",
+                "url": "https://www.linkedin.com/school/hogeschool-van-arnhem-en-nijmegen/"
+            },
+            "degree_name": "Bachelor",
+            "field_of_study": "Communication and Multimedia Design - Computer Science",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "school": {
+                "name": "University of Twente",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": null,
+            "field_of_study": "(all coures/not finished) Master Human Media Interaction",
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [
+        {
+            "name": "Microsoft Certified: Azure Administrator Associate",
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2023
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2024
+                }
+            },
+            "authority": "Microsoft",
+            "url": "https://learn.microsoft.com/api/credentials/share/en-us/Alexander-1151/F212471F3A34884D",
+            "license_number": "F212471F3A34884D",
+            "display_source": "microsoft.com",
+            "company": {
+                "id": null,
+                "name": "Microsoft",
+                "logo": "https://media.licdn.com/dms/image/C560BAQE88xCsONDULQ/company-logo_400_400/0/1618231291419?e=1703721600&v=beta&t=xic8lPBHmNYz9qHIoiuq_itbJ4T3xDqNu9Bb5EuYkZ0",
+                "url": null
+            }
+        },
+        {
+            "name": "Microsoft Certified: Azure AI Engineer Associate",
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2024
+                }
+            },
+            "authority": "Microsoft",
+            "url": "https://www.credly.com/badges/9d4831ae-ecc2-4788-9826-dc803ab33b28?source=linked_in_profile",
+            "license_number": null,
+            "display_source": "credly.com",
+            "company": {
+                "id": null,
+                "name": "Microsoft",
+                "logo": "https://media.licdn.com/dms/image/C560BAQE88xCsONDULQ/company-logo_400_400/0/1618231291419?e=1703721600&v=beta&t=xic8lPBHmNYz9qHIoiuq_itbJ4T3xDqNu9Bb5EuYkZ0",
+                "url": null
+            }
+        },
+        {
+            "name": "Microsoft Certified: Azure Data Scientist Associate",
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2024
+                }
+            },
+            "authority": "Microsoft",
+            "url": "https://www.credly.com/badges/caac1c08-2367-4d1a-908c-fce6f8d37228?source=linked_in_profile",
+            "license_number": null,
+            "display_source": "credly.com",
+            "company": {
+                "id": null,
+                "name": "Microsoft",
+                "logo": "https://media.licdn.com/dms/image/C560BAQE88xCsONDULQ/company-logo_400_400/0/1618231291419?e=1703721600&v=beta&t=xic8lPBHmNYz9qHIoiuq_itbJ4T3xDqNu9Bb5EuYkZ0",
+                "url": null
+            }
+        },
+        {
+            "name": "Microsoft Certified: DevOps Engineer Expert",
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2024
+                }
+            },
+            "authority": "Microsoft",
+            "url": "https://learn.microsoft.com/api/credentials/share/en-us/Alexander-1151/32C09741EDE08C1",
+            "license_number": "32C09741EDE08C1",
+            "display_source": "microsoft.com",
+            "company": {
+                "id": null,
+                "name": "Microsoft",
+                "logo": "https://media.licdn.com/dms/image/C560BAQE88xCsONDULQ/company-logo_400_400/0/1618231291419?e=1703721600&v=beta&t=xic8lPBHmNYz9qHIoiuq_itbJ4T3xDqNu9Bb5EuYkZ0",
+                "url": null
+            }
+        },
+        {
+            "name": "Microsoft Certified: Azure Developer Associate",
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2024
+                }
+            },
+            "authority": "Microsoft",
+            "url": "https://www.credly.com/badges/fe62e451-0fd5-4ee6-9851-565c4f1001dc?source=linked_in_profile",
+            "license_number": null,
+            "display_source": "credly.com",
+            "company": {
+                "id": null,
+                "name": "Microsoft",
+                "logo": "https://media.licdn.com/dms/image/C560BAQE88xCsONDULQ/company-logo_400_400/0/1618231291419?e=1703721600&v=beta&t=xic8lPBHmNYz9qHIoiuq_itbJ4T3xDqNu9Bb5EuYkZ0",
+                "url": null
+            }
+        }
+    ],
+    "organizations": [],
+    "projects": [],
+    "publications": [],
+    "courses": [
+        {
+            "name": "Computer Ethics",
+            "number": null
+        },
+        {
+            "name": "Conversational Agents",
+            "number": null
+        },
+        {
+            "name": "Graphics & Virtual Reality",
+            "number": null
+        },
+        {
+            "name": "Image Processing and Computer Vision",
+            "number": null
+        },
+        {
+            "name": "Information Retrieval",
+            "number": null
+        },
+        {
+            "name": "KMT Mediatechnologie",
+            "number": null
+        },
+        {
+            "name": "Mathematics for HMI-students",
+            "number": null
+        },
+        {
+            "name": "Minor Advanced Programming",
+            "number": null
+        },
+        {
+            "name": "Multi Agent Systems",
+            "number": null
+        },
+        {
+            "name": "Semester Create a Rich Internet Application",
+            "number": null
+        },
+        {
+            "name": "Semester Create an Interactive Content Application",
+            "number": null
+        },
+        {
+            "name": "Semester Game",
+            "number": null
+        },
+        {
+            "name": "Seminarium Human Media Interaction",
+            "number": null
+        },
+        {
+            "name": "Speech and Language Processing 1",
+            "number": null
+        },
+        {
+            "name": "Speech and Language Processing 2",
+            "number": null
+        },
+        {
+            "name": "User Centered Design of New Media",
+            "number": null
+        }
+    ],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 9363355,
+                "name": "Team Rockstars IT",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQEV_9zZnfTt6g/company-logo_400_400/0/1659443578336/teamrockstars_logo?e=1703721600&v=beta&t=c94mWIB0hUNrHIHgctcQmTfTlNKdVMgeKgxRYLsEz8o",
+                "url": "https://www.linkedin.com/company/teamrockstars/",
+                "employees": {
+                    "start": 501,
+                    "end": 1000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Team Rockstars IT",
+                    "description": null,
+                    "title": "Software Engineer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 164349,
+                "name": "Info Support",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQHS7uelnv2JHQ/company-logo_400_400/0/1630569839270/info_support_logo?e=1703721600&v=beta&t=SllIiYuR3ooek7Ej3rZ-hdPXfLaEaEVlNZx7uL3jhIc",
+                "url": "https://www.linkedin.com/company/info-support/",
+                "employees": {
+                    "start": 201,
+                    "end": 500
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Veenendaal",
+                    "date": {
+                        "start": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "Info Support",
+                    "description": null,
+                    "title": "Software Engineer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 727875,
+                "name": "CubicEyes",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQFgrlc-vXo5zA/company-logo_400_400/0/1631303268396?e=1703721600&v=beta&t=R9uT-jMJFolAX0jN9TrzRO766zyijYpd3jn19xz6JTY",
+                "url": "https://www.linkedin.com/company/cubiceyes/",
+                "employees": {
+                    "start": 2,
+                    "end": 10
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2014
+                        },
+                        "end": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2018
+                        }
+                    },
+                    "company": "CubicEyes",
+                    "description": "Worked on and managed EyeMove, the leading Dutch CRM solution for the real estate professional, and 100+ real estate and project websites.\nSetting up, developing and integrating a new authentication and authorization platform based on IdentityServer4.",
+                    "title": "Junior Programmer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 164349,
+                "name": "Info Support",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQHS7uelnv2JHQ/company-logo_400_400/0/1630569839270/info_support_logo?e=1703721600&v=beta&t=SllIiYuR3ooek7Ej3rZ-hdPXfLaEaEVlNZx7uL3jhIc",
+                "url": "https://www.linkedin.com/company/info-support/",
+                "employees": {
+                    "start": 201,
+                    "end": 500
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2011
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Veenendaal",
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2011
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2011
+                        }
+                    },
+                    "company": "Info Support",
+                    "description": "Afbouwen van de app en de backend waar ik tijdens mijn afstuderen bij InfoSupport mee bezig ben geweest.",
+                    "title": ".Net developer",
+                    "employment_type": "Full-time"
+                },
+                {
+                    "location": "Veenendaal",
+                    "date": {
+                        "start": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2011
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2011
+                        }
+                    },
+                    "company": "Info Support",
+                    "description": "Een Windows Phone 7 app gebouwd inclusief backend, gericht op studenten met als doel mogelijke stagiaires en toekomstige medewerkers te vinden en aan te trekken.",
+                    "title": "Afstudeerstagiar",
+                    "employment_type": "Internship"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Dutch Exchange B.V.",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2010
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2010
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Almere Haven",
+                    "date": {
+                        "start": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2010
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2010
+                        }
+                    },
+                    "company": "Dutch Exchange B.V.",
+                    "description": "Automatiseren en stroomlijnen van DX Kallisto, een landverhuursysteem voor SecondLife (een 3d social platform). Na onderzoek heb ik de backend herschreven om het beheer te vereenvoudigen en een nieuwe in-world betaalautomaat gebouwd voor betere conversie.",
+                    "title": "Stagiair",
+                    "employment_type": "Internship"
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Testing",
+        "DevOps",
+        "Microsoft Azure",
+        "Visual Basic .NET (VB.NET)",
+        "OpenID Connect (OIDC)",
+        "ASP.NET",
+        "C#",
+        ".NET",
+        "WPF",
+        "Programming",
+        "Windows Phone",
+        "Interaction Design",
+        "Mobile Devices",
+        "Software Development",
+        "ActionScript",
+        "OpenGL",
+        ".NET Core",
+        "Entity Framework",
+        "F#"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

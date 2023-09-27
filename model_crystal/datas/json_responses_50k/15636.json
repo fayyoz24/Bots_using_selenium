@@ -1,0 +1,452 @@
+{
+    "profile_id": "matinhosseini",
+    "first_name": "Matin",
+    "last_name": "Hoseini Zahraei",
+    "sub_title": "Junior Subsea Engineer at Van Oord",
+    "profile_picture": null,
+    "background_image": "https://media.licdn.com/dms/image/C4E16AQHRyJ5ZdYKTmg/profile-displaybackgroundimage-shrink_350_1400/0/1516876291965?e=1701302400&v=beta&t=-NiAV6qnUFT8n8FqK9nwwH3dPzj1bBrSmgK6PLhjnKw",
+    "profile_type": "personal",
+    "entity_urn": "ACoAABGXvtABQ_Yg7oZ-QtitCllbf7_kFdGLcAI",
+    "object_urn": 295157456,
+    "birth_date": null,
+    "summary": "Experienced PhD Student at Technical Unviersity of Delft with a demonstrated history of working in the research industry. Interested in fluid dynamics and the interaction of fluid with structures. Skilled in Fortran programming,  Matlab, ANSYS, SolidWorks. \n\nInterests : \nRenewable Energy, Structural Vibration, Turbulent Flows, Computational Fluid Dynamics, Pattern Recognition",
+    "location": {
+        "country": "Netherlands",
+        "short": "Delft, South Holland",
+        "city": "Delft",
+        "state": "South Holland",
+        "default": "Delft, South Holland, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "Dutch",
+                "proficiency": "ELEMENTARY"
+            },
+            {
+                "name": "English",
+                "proficiency": "PROFESSIONAL_WORKING"
+            },
+            {
+                "name": "Persian",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ]
+    },
+    "industry": "Civil Engineering",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "school": {
+                "name": "Amirkabir University of Technology - Tehran Polytechnic",
+                "logo": "https://media.licdn.com/dms/image/C560BAQGrlmqIRZgzCQ/company-logo_400_400/0/1526880355374?e=1703721600&v=beta&t=gynLMJGNBY3RWlLkHJ_oEwEupujqVgrS8iVfZxaXIwc",
+                "url": "https://www.linkedin.com/school/amirkabir-university-of-technology---tehran-polytechnic/"
+            },
+            "degree_name": "Master's Degree",
+            "field_of_study": "Analysis of experimetal turbulent flow data of the exit region of a squirrel fan cage",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2008
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "school": {
+                "name": "Ferdowsi University of Mashhad",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQEPzQZVI4xNBA/company-logo_400_400/0/1519908244320?e=1703721600&v=beta&t=dTEvyYjZKeSF-DObvWwvsGuR0iBlCAVYIRfR0rMfVKM",
+                "url": "https://www.linkedin.com/school/ferdowsi-university-of-mashhad/"
+            },
+            "degree_name": "Bachelor's Degree",
+            "field_of_study": "Mechanical Engineering",
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "ComFLOW",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "description": "The offshore industry, MARIN and the Universities of Groningen and Delft have worked together successfully in the development of the Volume of Fluid method ComFLOW to study complex free-surface flows around offshore structures. Important aspects have been studied,\nimplemented and validated like: \n \n\n\n\n\u25feSloshing in LNG containment systems\n\u25feAir entrapment during wave impacts (\u201ccushioning\u201d)\n\u25feWave run-up and deck impacts on semi-submersibles and TLPs\n\n\n\n In the most recent Joint Industry Project ComFLOW-3, additional steps were made by including new functionalities to the ComFLOW program, such as: \n \n\n\n\n\u25feModelling of viscous flow effects\n\u25feLocal grid refinement\n\u25feAdvanced wave propagation algorithms\n\u25feAbsorbing boundary conditions for irregular and short crested waves\n\u25feModelling of mooring lines and their influence on floater motions\n\n\n\n During these developments, new questions and demands from participating companies and the offshore industry arose: significant speed-up of algorithms is needed to advance the usability of ComFLOW to more and more complex engineering applications; new and improved functionalities are needed to achieve results in a wider range of applications. The ComMotion JIP aims to meet these demands by developing and improving functionalities that increase computational accuracy and efficiency, and by incorporating new algorithms for interactively moving bodies, hydroelasticity and accurate steep irregular wave generation.\n\nThe joint industry project runs parallel to the identically-named research project ComMotion, which is financed by the Dutch government and supports 2 PhD students, a post-doc and validation model tests. The results of this research project are made available to the ComMotion JIP. ",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Matin",
+                    "last_name": "Hoseini Zahraei",
+                    "name": null,
+                    "headline": "Junior Subsea Engineer at Van Oord"
+                }
+            ]
+        }
+    ],
+    "publications": [
+        {
+            "name": "Preventing the added-mass instability in fluid-solid interaction",
+            "publisher": "Proceedings of the ASME 37th International Conference on Ocean, Offshore and Arctic Engineering",
+            "url": null,
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2018
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Matin",
+                    "last_name": "Hoseini Zahraei",
+                    "name": null,
+                    "headline": "Junior Subsea Engineer at Van Oord"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Arthur",
+                    "last_name": "Veldman",
+                    "name": null,
+                    "headline": "Professor of Applied Mathematics at University of Groningen"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Peter",
+                    "last_name": "Wellens",
+                    "name": null,
+                    "headline": "Assistant professor at TU Delft | Specialist at Deltares"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Peter",
+                    "last_name": "van der Plas",
+                    "name": null,
+                    "headline": "Project manager offshore at MARIN (Maritime Research Institute Netherlands)"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Henk",
+                    "last_name": "Seubers",
+                    "name": null,
+                    "headline": "Naval Architect at DEKC Maritime"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Ren\u00e9",
+                    "last_name": "Huijsmans",
+                    "name": null,
+                    "headline": "Professor Ship Hydromechanics Delft University of Technology"
+                }
+            ]
+        },
+        {
+            "name": "Stabilization of a Fluid-Deforming Structure  Partitioned Coupling",
+            "publisher": "20th Numerical Towing Tank Symposium (NuTTS 2017)",
+            "url": "http://www.marin.nl/web/Events/Events-archive/Events-2017/NuTTS-2017.htm",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2017
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Matin",
+                    "last_name": "Hoseini Zahraei",
+                    "name": null,
+                    "headline": "Junior Subsea Engineer at Van Oord"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Peter",
+                    "last_name": "Wellens",
+                    "name": null,
+                    "headline": "Assistant professor at TU Delft | Specialist at Deltares"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Arthur",
+                    "last_name": "Veldman",
+                    "name": null,
+                    "headline": "Professor of Applied Mathematics at University of Groningen"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Ren\u00e9",
+                    "last_name": "Huijsmans",
+                    "name": null,
+                    "headline": "Professor Ship Hydromechanics Delft University of Technology"
+                }
+            ]
+        },
+        {
+            "name": "The Role of a Structural Mode Shape Based Interaction Law to Suppress Added Mass Instabilities in Partitioned Strongly Coupled Elastic Structure-Fluid System",
+            "publisher": "ASME (OMAE2017)",
+            "url": null,
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2017
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Matin",
+                    "last_name": "Hoseini Zahraei",
+                    "name": null,
+                    "headline": "Junior Subsea Engineer at Van Oord"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Ren\u00e9",
+                    "last_name": "Huijsmans",
+                    "name": null,
+                    "headline": "Professor Ship Hydromechanics Delft University of Technology"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Arthur",
+                    "last_name": "Veldman",
+                    "name": null,
+                    "headline": "Professor of Applied Mathematics at University of Groningen"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Ido Akerman",
+                    "headline": null
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Peter",
+                    "last_name": "Wellens",
+                    "name": null,
+                    "headline": "Assistant professor at TU Delft | Specialist at Deltares"
+                }
+            ]
+        },
+        {
+            "name": "ON THE ELASTIC BEAM-FLUID INTERACTION BASED ON STRUCTURAL MODE SHAPES",
+            "publisher": "ICHD 2016",
+            "url": "http://www.ichd2016.nl/content/venue",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2016
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Matin",
+                    "last_name": "Hoseini Zahraei",
+                    "name": null,
+                    "headline": "Junior Subsea Engineer at Van Oord"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Ren\u00e9",
+                    "last_name": "Huijsmans",
+                    "name": null,
+                    "headline": "Professor Ship Hydromechanics Delft University of Technology"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Ido Akerman",
+                    "headline": null
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Arthur",
+                    "last_name": "Veldman",
+                    "name": null,
+                    "headline": "Professor of Applied Mathematics at University of Groningen"
+                }
+            ]
+        }
+    ],
+    "courses": [
+        {
+            "name": " Hydrodynamics of Floating offshore structures ",
+            "number": "MARIN, 2015"
+        },
+        {
+            "name": "Computational Fluid Dynamics 1",
+            "number": "JMBC Burger Centrum, 2016"
+        },
+        {
+            "name": "Dynamics and Vibrations in Offshore Structures by Ocean, Offshore and Arctic Engineering Division of ASME",
+            "number": "OMAE2018, Madrid"
+        },
+        {
+            "name": "Numerical and Experimental Dynamic Analysis by Ocean, Offshore and Arctic Engineering Division of ASME",
+            "number": "OMAE2018, Madrid"
+        },
+        {
+            "name": "Problems, Challenges and Remedies in the Estimation of Extreme Response Statistics for Offshore Structures",
+            "number": "OMAE2017, Trondheim"
+        },
+        {
+            "name": "Turbulent Flows",
+            "number": "JMBC Burger Centrum, 2017"
+        }
+    ],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 166761,
+                "name": "Van Oord",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQEUGmZ-6rPVxA/company-logo_400_400/0/1549958644725?e=1703721600&v=beta&t=_h9jfypjy-tlTVRguLdc-wqHuB8LOEwjR9n0RMwUdNM",
+                "url": "https://www.linkedin.com/company/van-oord/",
+                "employees": {
+                    "start": 5001,
+                    "end": 10000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Van Oord",
+                    "description": null,
+                    "title": "Subsea Engineer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 166529,
+                "name": "TU Delft",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQFwaGpwaod9mQ/company-logo_400_400/0/1670699851986?e=1703721600&v=beta&t=Aw4oLxoKsIJcblYDjxw9200FClnyhZu8DxzcfJRDFOs",
+                "url": "https://www.linkedin.com/school/tudelft/",
+                "employees": {
+                    "start": 5001,
+                    "end": 10000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Delft Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2014
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Delft University of Technology",
+                    "description": "As a mechanical engineer, the dynamics of fluids as well as structures are each interesting in their own way to me. The interaction of fluid with an elastic structure is observed in many practical industrial challenges. The focus of my research is to design a stable and robust numerical approch for coupling of fluid and structure models. This problem encounters numerical instabilities under high addd mass to structure mass ratios. Strong coupling covers a full range of interactions.",
+                    "title": "PHD Candidate",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Matlab",
+        "SolidWorks",
+        "Microsoft Excel",
+        "PowerPoint",
+        "ANSYS",
+        "Fluid-Solid Interaction",
+        "Computational Fluid Dynamics (CFD)",
+        "Finite Element Analysis",
+        "Microsoft visual fortran",
+        "AutoCAD",
+        "Mechanical Engineering",
+        "Microsoft Office",
+        "Microsoft PowerPoint",
+        "Microsoft Word",
+        "Research",
+        "Simulations",
+        "ComFLOW"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

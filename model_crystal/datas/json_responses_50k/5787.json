@@ -1,0 +1,850 @@
+{
+    "profile_id": "nsid",
+    "first_name": "Nikos",
+    "last_name": "S.",
+    "sub_title": "Director Cyber Delivery, M.Sc, CISM",
+    "profile_picture": null,
+    "background_image": "https://media.licdn.com/dms/image/C4E16AQFIeul8tSeIBA/profile-displaybackgroundimage-shrink_350_1400/0/1617181430247?e=1701302400&v=beta&t=A7M0UgmEI_BaD5E8tPrgoYENg0JQNKQsvNq_EtSRfyE",
+    "profile_type": "personal",
+    "entity_urn": "ACoAAAPhAPIBtWGWEjdUQhHn6lOWEMyu2N1SNKg",
+    "object_urn": 65077490,
+    "birth_date": null,
+    "summary": "Information security risk professional with over 15 years of experience. Possesses an Engineering Diploma in EEng (Athens), an M.Sc in Data Communication Systems (London) and an M.Sc in System and Network Security (Amsterdam). MIET & IEEE valued member.",
+    "location": {
+        "country": "Netherlands",
+        "short": "Amsterdam, North Holland",
+        "city": "Amsterdam",
+        "state": "North Holland",
+        "default": "Amsterdam, North Holland, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "Dutch",
+                "proficiency": "LIMITED_WORKING"
+            },
+            {
+                "name": "English",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "Greek",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ]
+    },
+    "industry": "Apparel & Fashion",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "school": {
+                "name": "University of Amsterdam",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQEfHBj_we-_kw/company-logo_400_400/0/1659945104460?e=1703721600&v=beta&t=nxt14hUDODg3MttkNj5Qa0fCu2FbgGbRXyFSapRtNv4",
+                "url": "https://www.linkedin.com/school/university-of-amsterdam/"
+            },
+            "degree_name": "Master\u2019s Degree",
+            "field_of_study": "Forensic Science and Technology - ICT",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2009
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2011
+                }
+            },
+            "school": {
+                "name": "Brunel University London",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQGzQ_2ZltmjUw/company-logo_400_400/0/1663661366650?e=1703721600&v=beta&t=yvK6TEPSuvhtLAxS_pp9nDIZ8n7XCgxCJdssFq1TVlY",
+                "url": "https://www.linkedin.com/school/bruneluniversitylondon/"
+            },
+            "degree_name": "Master\u2019s Degree",
+            "field_of_study": "Data Communications & Wireless Security",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2008
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2009
+                }
+            },
+            "school": {
+                "name": "Hellenic American University",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "Certification",
+            "field_of_study": "CCNA - Switching and Routing",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2002
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2007
+                }
+            },
+            "school": {
+                "name": "Technical University of Athens",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "B.Sc",
+            "field_of_study": "EEng and Computer Engineering",
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [
+        {
+            "title": "Top Student",
+            "description": "Top MSc student in my class and 3rd overall. (Data Communications MSc programme was held in three countries)",
+            "issuer": "Brunel University",
+            "date": {
+                "month": 2,
+                "day": null,
+                "year": 2011
+            }
+        }
+    ],
+    "certifications": [],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "ACARS & ADSB : Sniffing sensitive data and spoofing messages",
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "description": "ADS-B:Create Virtual Planeroutes (by spoofing ADS-B messages)and plot them into map. Create short-term-panic to Air Traffic control via multiple attacks(PoC).\nACARS: Sniff ACARS messages from three Countries(Athens,Krakow,and Amsterdam). Identify sensitive (engine logs, failure logs) messages and transform them into human readable format. Create a \u201cRemote Aircraft ServiceBook\u201d-Statistical Analysis and threat scenarios.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Nikos",
+                    "last_name": "S.",
+                    "name": null,
+                    "headline": "Director Cyber Delivery, M.Sc, CISM"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Pawe\u0142",
+                    "last_name": "Oljasz",
+                    "name": null,
+                    "headline": "Principal Threat Content Engineer"
+                }
+            ]
+        },
+        {
+            "title": "Smart TV Hacking (Samsung ES5500)",
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "description": "Modern TV technology demands a far more advanced and typical entertainment system. The\nidea behind the \u201cSmart TV\u201d concept is the ability of this system to interact with the Internet.\nHowever, the more \u201cSmart\u201d the TV is, the more network related services it provides, and the\nmore likely it is to be vulnerable to remote attacks. Given the above statement, we focused on\nrevealing these vulnerabilities and subsequently abusing them. Specifically, we managed to\nperform an online firmware upgrade by impersonating Samsung\u2019s update servers. Additionally,\nwe discovered that the browser\u2019s TLS/SSL implementation was bad leading to a successful man\nin the middle attack. Finally, we document all the other design flaws that were found, in terms of\nsecurity and formulate corresponding threat scenarios.\n\nhttp://www.youtube.com/watch?v=N-Uc817-cDQ-->On line update flaw.\nhttp://www.youtube.com/watch?v=Xz0j4gVE5WQ-->Remote Control Flaw.\nhttp://www.youtube.com/watch?v=MuQPE2U4BTc-->Browser Bad SSL implementation.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Nikos",
+                    "last_name": "S.",
+                    "name": null,
+                    "headline": "Director Cyber Delivery, M.Sc, CISM"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Periklis",
+                    "last_name": "Stefopoulos",
+                    "name": null,
+                    "headline": "Professional Services Consultant at F5 Networks"
+                }
+            ]
+        },
+        {
+            "title": "Open Wifi SSID Broadcast vulnerability",
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "description": "Recent observations has shown that Wifi devices with enabled active scan-\nning function expose trivial information for the users, yet valuable informa-\ntion for the attackers. Gathering the same information in a more efficient\nway (less time needed, effortless) originate the project idea. Clearly, the idea\nwas to devise an automated method (device) which utilizes the vulnerability\nof active scanning (probe requests) and automatic connection to open Wifi\nAccess Points from Wifi capable devices\n\n\n\n",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Nikos",
+                    "last_name": "S.",
+                    "name": null,
+                    "headline": "Director Cyber Delivery, M.Sc, CISM"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Michal Mioduszewski",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Edwin Schaap",
+                    "headline": null
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Pawe\u0142",
+                    "last_name": "Oljasz",
+                    "name": null,
+                    "headline": "Principal Threat Content Engineer"
+                }
+            ]
+        },
+        {
+            "title": "Evaluation of IEEE 802.16j prototype relay system",
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2011
+                }
+            },
+            "description": "Evaluation of a European funded (FP7) Wimax Relay prototype system. The assessment of \nthe WiMax Relay system was held in terms of throughput coverage and capacity. VoIP and \nVoD were also under evaluation. (Jitter, Delays, Throughput, MOS, QoS).",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Nikos",
+                    "last_name": "S.",
+                    "name": null,
+                    "headline": "Director Cyber Delivery, M.Sc, CISM"
+                }
+            ]
+        }
+    ],
+    "publications": [],
+    "courses": [
+        {
+            "name": "Advanced & Applied Mathematics",
+            "number": null
+        },
+        {
+            "name": "Advanced Networking",
+            "number": null
+        },
+        {
+            "name": "Automation Control Systems",
+            "number": null
+        },
+        {
+            "name": "Circuit Design",
+            "number": null
+        },
+        {
+            "name": "Classical Internet Applications",
+            "number": null
+        },
+        {
+            "name": "Computer Networks",
+            "number": null
+        },
+        {
+            "name": "DSP",
+            "number": null
+        },
+        {
+            "name": "Data Communications",
+            "number": null
+        },
+        {
+            "name": "Digital Circuits",
+            "number": null
+        },
+        {
+            "name": "Digital Telecommunications",
+            "number": null
+        },
+        {
+            "name": "Distributed Systems",
+            "number": null
+        },
+        {
+            "name": "Essential Skills",
+            "number": null
+        },
+        {
+            "name": "InterNetworking and Routing",
+            "number": null
+        },
+        {
+            "name": "Large Installation Administration",
+            "number": null
+        },
+        {
+            "name": "Microprocessors",
+            "number": null
+        },
+        {
+            "name": "Network Computing",
+            "number": null
+        },
+        {
+            "name": "Network Design & Management",
+            "number": null
+        },
+        {
+            "name": "Networks",
+            "number": null
+        },
+        {
+            "name": "Offensive Technologies",
+            "number": null
+        },
+        {
+            "name": "Optical Communications Systems",
+            "number": null
+        }
+    ],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 11541,
+                "name": "PVH Corp.",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQGRftUXZ47BFg/company-logo_400_400/0/1625146577477?e=1703721600&v=beta&t=n2JG_Nww4wB9Iulo3rFhsBpAJ_YG85EzrsBgJ9jRG-c",
+                "url": "https://www.linkedin.com/company/pvh/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2023
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amsterdam, North Holland, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2023
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "PVH Corp.",
+                    "description": null,
+                    "title": "Director Cyber Delivery ",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 164700,
+                "name": "LeasePlan",
+                "logo": "https://media.licdn.com/dms/image/D560BAQF4ydMDdbBOeQ/company-logo_400_400/0/1684829782501?e=1703721600&v=beta&t=Zve5AJQAvuK1cyTAkCMp6QTI9eQ-kQrUQDuJ89h_t8A",
+                "url": "https://www.linkedin.com/company/leaseplan/",
+                "employees": {
+                    "start": 5001,
+                    "end": 10000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2023
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2023
+                        }
+                    },
+                    "company": "LeasePlan",
+                    "description": null,
+                    "title": "Global Information Security Officer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 2530487,
+                "name": "Philips Lighting",
+                "logo": "https://media.licdn.com/dms/image/C560BAQFFxvjPijdD7Q/company-logo_400_400/0/1519883820997?e=1703721600&v=beta&t=unAvwXXuep9OefNaN67L8GKXft1bsq1YQmoYKx6RrIk",
+                "url": "https://www.linkedin.com/company/philips-lighting/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amsterdam Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "Philips Lighting",
+                    "description": null,
+                    "title": "Sr. Information Security Officer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 381805,
+                "name": "T-Mobile Nederland",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQFmDt9SlJRaPw/company-logo_400_400/0/1662542051874?e=1703721600&v=beta&t=_HQC9OKGcVg1NdQBRFT1AZpfDxe5paDXq1WXrf2CC-c",
+                "url": "https://www.linkedin.com/company/t-mobile-nederland/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "The Hague Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": 2018
+                        }
+                    },
+                    "company": "T-Mobile Nederland",
+                    "description": null,
+                    "title": "Sr. Information Security Specialist",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 4263,
+                "name": "SWIFT",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQF8glmz3I2zIA/company-logo_400_400/0/1688343661633?e=1703721600&v=beta&t=FdbhoR950pGcku17rEgr5LpLw5m4d0zHBxVf6DofGx8",
+                "url": "https://www.linkedin.com/company/swift/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2016
+                        }
+                    },
+                    "company": "Swift",
+                    "description": null,
+                    "title": "Sr Information Security Specialist",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 34426,
+                "name": "ATG Europe",
+                "logo": "https://media.licdn.com/dms/image/D4D0BAQEzWPyKWpVPFg/company-logo_400_400/0/1695133301003?e=1703721600&v=beta&t=7pHm59Hn35eCvkwMnme5K_fKGBju3OdCXDomFJOdwTs",
+                "url": "https://www.linkedin.com/company/aoes-technology-group-atg-europe/",
+                "employees": {
+                    "start": 201,
+                    "end": 500
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Space Business Park - Noordwijk",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2013
+                        },
+                        "end": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2015
+                        }
+                    },
+                    "company": "ATG Europe",
+                    "description": null,
+                    "title": "Sr. IT Security engineer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 2585815,
+                "name": "KPMG Nederland",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQHNUvkt9-iGgA/company-logo_400_400/0/1690376133211?e=1703721600&v=beta&t=5xtyrnxmKMSoBhtdpbnsWBPqwXGmBUlLwYsBYtDbd3s",
+                "url": "https://www.linkedin.com/company/kpmg-nederland/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amsterdam Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2014
+                        },
+                        "end": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2014
+                        }
+                    },
+                    "company": "KPMG Nederland",
+                    "description": "GPRS electricity smart meter was pentested by building an IMSI catcher (rogue BTS).",
+                    "title": "Security Researcher",
+                    "employment_type": "Apprenticeship"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1038,
+                "name": "Deloitte Nederland",
+                "logo": "https://media.licdn.com/dms/image/C560BAQGNtpblgQpJoQ/company-logo_400_400/0/1662120927694?e=1703721600&v=beta&t=bmmwvJxo-_SXyHSdxzuptxzpnaI8vEdRYh7es-YNMaw",
+                "url": "https://www.linkedin.com/company/deloitte/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amsterdam Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2013
+                        },
+                        "end": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2013
+                        }
+                    },
+                    "company": "Deloitte",
+                    "description": "SmartTV Hacking - Samsung ES5500",
+                    "title": "Security Researcher",
+                    "employment_type": "Internship"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1569161,
+                "name": "Kapa Research S.A",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQEKju4zHLdPRA/company-logo_400_400/0/1601574746181?e=1703721600&v=beta&t=k8Am0QMiJEFeh6aWR5eO9arkPEDuCI04KIxkLtOIa7k",
+                "url": "https://www.linkedin.com/company/kapa-research-s-a/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2007
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Greece",
+                    "date": {
+                        "start": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2007
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2012
+                        }
+                    },
+                    "company": "Kapa Research",
+                    "description": null,
+                    "title": "Systems and Network security operations Lead",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 163516,
+                "name": "DTZ",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQGUmoyJhUKymQ/company-logo_400_400/0/1519902629070?e=1703721600&v=beta&t=64tzU85pGZbK0XGQoasaUCWA_x2aoXXQ2wykxQi6F58",
+                "url": "https://www.linkedin.com/company/dtz/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2007
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2007
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Greece",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2007
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2007
+                        }
+                    },
+                    "company": "Cushman & Wakefield - Formerly DTZ",
+                    "description": "Administration and technical support of:\n\n\u2022\tWindows XP\n\u2022\tWindows Server 2003 \n\u2022\tExchange Server 2003\n\u2022\tBlackberry Enterprise Server",
+                    "title": "Systems and Network Engineer",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "TCP/IP",
+        "Telecommunications",
+        "Penetration Testing",
+        "Network Security",
+        "Wireless Networking",
+        "Computer Security",
+        "Computer Hardware",
+        "Computer Proficiency",
+        "Windows Server",
+        "FreeBSD",
+        "Linux",
+        "Virtualization",
+        "Android",
+        "iOS",
+        "Security",
+        "Network Engineering"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

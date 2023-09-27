@@ -1,0 +1,772 @@
+{
+    "profile_id": "bart-de-koning",
+    "first_name": "Bart",
+    "last_name": "de Koning",
+    "sub_title": "Creative mathematician | Junior researcher at Deltares",
+    "profile_picture": "https://media.licdn.com/dms/image/D4E03AQEKVcNg-JQJEg/profile-displayphoto-shrink_800_800/0/1664537918174?e=1701302400&v=beta&t=GLY7ZHJIvMPzZ8ald9rpV6fjDV5AR3hLueV2C4ae66c",
+    "background_image": "https://media.licdn.com/dms/image/C4E16AQHLMR04oXOwKA/profile-displaybackgroundimage-shrink_350_1400/0/1642491353747?e=1701302400&v=beta&t=0jhqtuJOR-v_JLWn0-QY51YlYuG4Bl_Mjf8DlH3HvJk",
+    "profile_type": "personal",
+    "entity_urn": "ACoAAB7hLeEBIHfJgFx2YSe7pNW82e_AYj2sbQA",
+    "object_urn": 518073825,
+    "birth_date": null,
+    "summary": "I recently graduated with a master of Applied Mathematics at the Delft University of Technology, with a specialization in Computational Science and Engineering. My main interests are in design and optimization involving physics and geometry, and possibly neural networks. I enjoy approaching problems from the ground up, like for my master thesis, for which I made my own ray-tracing and NURBS surface implementations in PyTorch. \n\nI'm always interested in learning new things. My current goal is to learn more about GPU acceleration of pyton code. In my free time, I like to be creative, by making music and coding algorithmic art.",
+    "location": {
+        "country": "Netherlands",
+        "short": "Rotterdam and The Hague",
+        "city": null,
+        "state": null,
+        "default": "Rotterdam and The Hague"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [
+        {
+            "url": "https://arxiv.org/abs/2302.12031v1",
+            "title": "Gradient descent-based freeform optics design using algorithmic differentiable non-sequential ray tracing",
+            "description": "A paper based on the work of my master's thesis.",
+            "image": "https://media.licdn.com/dms/image/C4E2DAQGUxSrudor9Cg/profile-treasury-image-shrink_8192_8192/0/1677218087834?e=1696428000&v=beta&t=mS9GjpOMGgLPzRxzkbl4wbgwXZGrXt5il8tQCE4gvxA"
+        },
+        {
+            "url": "https://drive.google.com/file/d/1I3V6rC0r6CQCUqFOiorCGVhTm01Vd-Mj/view?usp=share_link&usp=embed_facebook",
+            "title": "Curriculum Vitae",
+            "description": null,
+            "image": "https://media.licdn.com/dms/image/C4E2DAQEb_W2safFibQ/profile-treasury-image-shrink_8192_8192/0/1672657916440?e=1696428000&v=beta&t=qtNyDZe-wm8CebFaNJh-POkc5l66us6PuDLnAqC2qUY"
+        },
+        {
+            "url": null,
+            "title": "github",
+            "description": "This is my Github, where I recently started collecting coding projects.",
+            "image": null
+        },
+        {
+            "url": "https://docs.google.com/presentation/d/1i5Pjbf9AOZJao284Q0WRdmigFH73BOAE9Slm9O3LZos/edit?usp=sharing&usp=embed_facebook",
+            "title": "Toffe Trillingen - Bachelor eindproject presentatie",
+            "description": "Over het signaal geproduceerd door elektrische gitaren.",
+            "image": "https://media.licdn.com/dms/image/sync/C5627AQEtxcsGwvUzJg/articleshare-shrink_1280_800/0/1695208971638?e=1696428000&v=beta&t=60F5e3FFvgilVIDn22jPdLZlMR3v1LNDh7np8l_q2mk"
+        }
+    ],
+    "languages": {
+        "primary_locale": {
+            "country": "NL",
+            "language": "nl"
+        },
+        "supported_locales": [
+            {
+                "country": "NL",
+                "language": "nl"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "Engels",
+                "proficiency": null
+            },
+            {
+                "name": "Nederlands",
+                "proficiency": null
+            }
+        ]
+    },
+    "industry": "Research",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "school": {
+                "name": "Delft University of Technology",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQFwaGpwaod9mQ/company-logo_400_400/0/1670699851986?e=1703721600&v=beta&t=Aw4oLxoKsIJcblYDjxw9200FClnyhZu8DxzcfJRDFOs",
+                "url": "https://www.linkedin.com/school/tudelft/"
+            },
+            "degree_name": "Master's degree",
+            "field_of_study": "Applied Mathematics",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "school": {
+                "name": "Delft University of Technology",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQFwaGpwaod9mQ/company-logo_400_400/0/1670699851986?e=1703721600&v=beta&t=Aw4oLxoKsIJcblYDjxw9200FClnyhZu8DxzcfJRDFOs",
+                "url": "https://www.linkedin.com/school/tudelft/"
+            },
+            "degree_name": "Bachelor's degree",
+            "field_of_study": "Technische wiskunde",
+            "grade": "8"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2008
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "school": {
+                "name": "Penta College CSG Scala Rietvelden",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "Gymnasium diploma",
+            "field_of_study": "Natuur & Techniek/Natuur & gezondheid",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2000
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2008
+                }
+            },
+            "school": {
+                "name": "Julianaschool",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "Diploma basisonderwijs",
+            "field_of_study": null,
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [
+        {
+            "title": "Oorkonde",
+            "description": "Deelname met eervol resultaat aan de nationale schiekundeolympiade 2014",
+            "issuer": "stichting Scheikundeolympiade Nederland",
+            "date": {
+                "month": 1,
+                "day": null,
+                "year": 2014
+            }
+        },
+        {
+            "title": "Oorkonde",
+            "description": "Deelname met eervol resultaat aan de nationale schiekundeolympiade 2013",
+            "issuer": "stichting scheikundeolympiade Nederland",
+            "date": {
+                "month": 1,
+                "day": null,
+                "year": 2013
+            }
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Master Applied Mathematics",
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Technische Universiteit Delft",
+            "url": "https://www.tudelft.nl/onderwijs/opleidingen/masters/am/msc-applied-mathematics",
+            "license_number": null,
+            "display_source": "tudelft.nl",
+            "company": {
+                "id": null,
+                "name": "Delft University of Technology",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQFwaGpwaod9mQ/company-logo_400_400/0/1670699851986?e=1703721600&v=beta&t=Aw4oLxoKsIJcblYDjxw9200FClnyhZu8DxzcfJRDFOs",
+                "url": null
+            }
+        },
+        {
+            "name": "WO Bachelor Technische Wiskunde (Applied Mathematics)",
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "TU Delft",
+            "url": null,
+            "license_number": null,
+            "display_source": null,
+            "company": {
+                "id": null,
+                "name": "Delft University of Technology",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQFwaGpwaod9mQ/company-logo_400_400/0/1670699851986?e=1703721600&v=beta&t=Aw4oLxoKsIJcblYDjxw9200FClnyhZu8DxzcfJRDFOs",
+                "url": null
+            }
+        },
+        {
+            "name": "Propedeuse Technische Wiskunde (cum laude)",
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "TU Delft",
+            "url": null,
+            "license_number": null,
+            "display_source": null,
+            "company": {
+                "id": null,
+                "name": "Delft University of Technology",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQFwaGpwaod9mQ/company-logo_400_400/0/1670699851986?e=1703721600&v=beta&t=Aw4oLxoKsIJcblYDjxw9200FClnyhZu8DxzcfJRDFOs",
+                "url": null
+            }
+        },
+        {
+            "name": "Certificate of Achievement",
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Socrates International Honour Society",
+            "url": null,
+            "license_number": null,
+            "display_source": null,
+            "company": {
+                "id": null,
+                "name": "Socrates International",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQG2jrDFRVLntg/company-logo_400_400/0/1519887140751?e=1703721600&v=beta&t=zdNivojhzim0fe5UZ77GsKd_BKi6QaWZK_cAtJUIf5A",
+                "url": null
+            }
+        },
+        {
+            "name": "Gymnasium Diploma",
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "CSG penta College Scala Rietvelden",
+            "url": null,
+            "license_number": null,
+            "display_source": null,
+            "company": null
+        }
+    ],
+    "organizations": [
+        {
+            "name": "Socrates Honour Society",
+            "position": null,
+            "date_start": {
+                "month": 1,
+                "day": null,
+                "year": 2014
+            },
+            "date_end": null
+        }
+    ],
+    "projects": [],
+    "publications": [],
+    "courses": [
+        {
+            "name": "pre-university calculus",
+            "number": "DelftX -  Calc001x"
+        }
+    ],
+    "test_scores": [
+        {
+            "name": "Introduction to quantum mechanics",
+            "score": "10/10",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2018
+            }
+        }
+    ],
+    "position_groups": [
+        {
+            "company": {
+                "id": 217430,
+                "name": "Deltares",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQFQ03SpsCfp7w/company-logo_400_400/0/1576578362152/deltares_logo?e=1703721600&v=beta&t=kNBnA5IH07DLzbNXedLXyvEPuROqCnH9_whyRe5pY-Q",
+                "url": "https://www.linkedin.com/company/deltares/",
+                "employees": {
+                    "start": 501,
+                    "end": 1000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2023
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Delft, Zuid-Holland, Nederland",
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2023
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Deltares",
+                    "description": "Hydrology Software (Ribasim):\n\nhttps://github.com/Deltares/Ribasim",
+                    "title": "Jr. Adviseur/onderzoeker",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 166529,
+                "name": "TU Delft",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQFwaGpwaod9mQ/company-logo_400_400/0/1670699851986?e=1703721600&v=beta&t=Aw4oLxoKsIJcblYDjxw9200FClnyhZu8DxzcfJRDFOs",
+                "url": "https://www.linkedin.com/school/tudelft/",
+                "employees": {
+                    "start": 5001,
+                    "end": 10000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2023
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Delft, Zuid-Holland, Nederland",
+                    "date": {
+                        "start": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2023
+                        }
+                    },
+                    "company": "Delft University of Technology",
+                    "description": null,
+                    "title": "Toegevoegd onderzoeker caustic design",
+                    "employment_type": "Part-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 40662379,
+                "name": "Valley Optics",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQEcaRyIepVhJA/company-logo_400_400/0/1560592317797?e=1703721600&v=beta&t=VnrV3N3Ag3hddHB8D1nndf9FZhq5dH5u5ztYWgbbyAM",
+                "url": "https://www.linkedin.com/company/valleyoptics/",
+                "employees": {
+                    "start": 2,
+                    "end": 10
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Delft, Zuid-Holland, Nederland",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2021
+                        }
+                    },
+                    "company": "Valley Optics",
+                    "description": "Developing an algorithm for fitting optical surface descriptions with B-spline and NURBS surface descriptions.",
+                    "title": "Scientific software intern",
+                    "employment_type": "Internship"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 166529,
+                "name": "TU Delft",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQFwaGpwaod9mQ/company-logo_400_400/0/1670699851986?e=1703721600&v=beta&t=Aw4oLxoKsIJcblYDjxw9200FClnyhZu8DxzcfJRDFOs",
+                "url": "https://www.linkedin.com/school/tudelft/",
+                "employees": {
+                    "start": 5001,
+                    "end": 10000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Delft, Zuid-Holland, Nederland",
+                    "date": {
+                        "start": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2021
+                        }
+                    },
+                    "company": "Delft University of Technology",
+                    "description": "Teaching assistant for the applied mathematics bachelor course AM2070 Partial Differential Equations.",
+                    "title": "Teaching Assistant",
+                    "employment_type": "Part-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Wiskundebijles op maat",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Rotterdam, Zuid-Holland, Nederland",
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2020
+                        },
+                        "end": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2021
+                        }
+                    },
+                    "company": "Wiskundebijles op maat",
+                    "description": "https://wiskundebijlesopmaat.nl/\n\nErvaring in:\n- Basisrekenen\n- Implementeren van numerieke methoden in python",
+                    "title": "Bijlesdocent wiskunde",
+                    "employment_type": "Freelance"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 7394,
+                "name": "Erasmus MC",
+                "logo": "https://media.licdn.com/dms/image/C560BAQHXexoG_CK3lQ/company-logo_400_400/0/1680172424829/erasmus_mc_logo?e=1703721600&v=beta&t=HUcxRxyPrppglQo7TW38H8y0936auUa1RqoP8Gsmj1w",
+                "url": "https://www.linkedin.com/company/erasmus-mc/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Rotterdam en omgeving, Nederland",
+                    "date": {
+                        "start": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2020
+                        }
+                    },
+                    "company": "Erasmus MC",
+                    "description": "Projects in medical data science and image processing in particular:\n\n- Implementing and extending algorithms (python, Matlab) that segment OCT scans\n- Developing algorithms in python to calculate and visualize changes over time in cornea scans\n- Creating programs in python to manage (copy, delete, index) large amounts of medical data",
+                    "title": "Data science trainee (ophthalmology)",
+                    "employment_type": "Internship"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 166529,
+                "name": "TU Delft",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQFwaGpwaod9mQ/company-logo_400_400/0/1670699851986?e=1703721600&v=beta&t=Aw4oLxoKsIJcblYDjxw9200FClnyhZu8DxzcfJRDFOs",
+                "url": "https://www.linkedin.com/school/tudelft/",
+                "employees": {
+                    "start": 5001,
+                    "end": 10000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Delft en omgeving, Nederland",
+                    "date": {
+                        "start": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "Delft University of Technology",
+                    "description": "Verschillende taken als staff bij de Pre-University Calculus MOOC (https://www.edx.org/course/pre-university-calculus) van de TU Delft op het platform EdX:\n- Het bijhouden van het forum (beantwoorden van technische en inhoudelijke vragen)\n- Het updaten van de bijbehorende Facebookpagina\n- Het verbeteren van de ondertiteling van de bijbehorende video's van de MOOC\n- Het versturen van wekelijkse updates naar alle deelnemers\n- Het inspreken van een video voor deze cursus:",
+                    "title": "Student-assistent",
+                    "employment_type": "Part-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 2317,
+                "name": "PostNL",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQHPVtiTnqn0eQ/company-logo_400_400/0/1692877314572/postnl_logo?e=1703721600&v=beta&t=5qp7yxVq9R_CoiM3MQ44LOQyLawTZWH1IKk0MxKNlo4",
+                "url": "https://www.linkedin.com/company/postnl/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2016
+                        }
+                    },
+                    "company": "PostNL",
+                    "description": null,
+                    "title": "Postbode",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "role": "Bomen snoeien",
+            "company": {
+                "id": null,
+                "name": "Zorgboerderij de Buitenhof",
+                "logo": null,
+                "url": null
+            },
+            "cause": null,
+            "description": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "role": "Lunches organiseren voor directie",
+            "company": {
+                "id": null,
+                "name": "SKVR",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQGuLAqs-MYlWA/company-logo_400_400/0/1665132931802/skvr_logo?e=1703721600&v=beta&t=iP511hvH-Cox5z8wVCu_t1kNZCh97h3hLpJ7VgJ6LkY",
+                "url": "https://www.linkedin.com/company/skvr/"
+            },
+            "cause": null,
+            "description": null
+        }
+    ],
+    "skills": [
+        "Microsoft Visual Studio Code",
+        "Julia",
+        "Hydrologie",
+        "GitHub",
+        "Object-Oriented Programming (OOP)",
+        "Simulations",
+        "Modeling",
+        "Mathematics",
+        "NumPy",
+        "Applied Sciences",
+        "Software Development",
+        "Scientific Programming",
+        "Scientific Computing",
+        "High Performance Computing (HPC)",
+        "Programming",
+        "Optimization",
+        "Simulation Software",
+        "Computer Science",
+        "Analytical Skills",
+        "Toegepaste wiskunde"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

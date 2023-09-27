@@ -1,0 +1,517 @@
+{
+    "profile_id": "abhishek-agrawal-8295a733",
+    "first_name": "Abhishek",
+    "last_name": "Agrawal",
+    "sub_title": "MSc Aerospace Engineering, Space Exploration, Delft University of Technology",
+    "profile_picture": null,
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAAAcHSeEBj-WLCmTXqekF20LW5qifXFTnL4g",
+    "object_urn": 117918177,
+    "birth_date": null,
+    "summary": "    Pursuing MSc in Aerospace Engineering (currently in final year), majoring in Space Exploration and Engineering.  \n\n    I am seeking career/research opportunities in the field of Astrodynamics, Mission Analysis & Design, Guidance, Navigation & Control (GNC), Systems Engineering, Attitude & Orbit Control System (AOCS), Modelling & Simulation.  \n\n    I have gained international work experience as an intern at Dinamica SrL, Milano, Italy and as a short-term research scholar at Colorado Centre for Astrodynamics Research (CCAR), Boulder, USA.   \n\n    As a student, I have worked in two major space engineering projects. From 2010-2013, I worked in a Nano-Satellite project (Parikshit) at Manipal Institute of Technology. From 2013-2014, I worked on a robotic-arm for a mars rover project (COUGAR) as part of the REXUS/BEXUS competition conducted by the European Space Agency (ESA).",
+    "location": {
+        "country": "Netherlands",
+        "short": "Delft, South Holland",
+        "city": "Delft",
+        "state": "South Holland",
+        "default": "Delft, South Holland, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "Dutch",
+                "proficiency": "ELEMENTARY"
+            },
+            {
+                "name": "English",
+                "proficiency": "FULL_PROFESSIONAL"
+            },
+            {
+                "name": "Hindi",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ]
+    },
+    "industry": "Defense & Space",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "school": {
+                "name": "Delft University of Technology",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQFwaGpwaod9mQ/company-logo_400_400/0/1670699851986?e=1703721600&v=beta&t=Aw4oLxoKsIJcblYDjxw9200FClnyhZu8DxzcfJRDFOs",
+                "url": "https://www.linkedin.com/school/tudelft/"
+            },
+            "degree_name": "Master of Science (MSc)",
+            "field_of_study": "Aerospace, Aeronautical and Astronautical/Space Engineering",
+            "grade": "8.03"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2009
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "school": {
+                "name": "Manipal Institute of Technology",
+                "logo": "https://media.licdn.com/dms/image/C510BAQH66KkTTZFJ2A/company-logo_400_400/0/1583383285167?e=1703721600&v=beta&t=CdtYI0gdn3DPlGPDLMlIJ202nqP7ZsaC5hsMAgEd3XY",
+                "url": "https://www.linkedin.com/school/manipal-institute-of-technology/"
+            },
+            "degree_name": "Bachelor of Engineering (B.E.)",
+            "field_of_study": "Electrical, Electronics and Communications Engineering",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2007
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2009
+                }
+            },
+            "school": {
+                "name": "Modern School",
+                "logo": "https://media.licdn.com/dms/image/C560BAQGm__59ViYCDA/company-logo_400_400/0/1560542486487?e=1703721600&v=beta&t=Glelyi-CpXnZrZTlzOaaDEdANWWzvORE2DMj5M_SfiM",
+                "url": "https://www.linkedin.com/school/modern-school/"
+            },
+            "degree_name": "Senior Secondary High School",
+            "field_of_study": "Physics, Chemistry, Maths, Computers",
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "COntrol of Unmanned Ground vehicle from higher Altitude in near Real time(COUGAR)-BEXUS",
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "description": "Objective\n\nThe technical objective of the experiment is to control an unmanned ground vehicle from a ground station via a balloon. In our experiment we will demonstrate that such a command and control link can be achieved even if there is no direct line-of-sight between the ground station and the object to be controlled. The experiment will help in validating communication between multiple platforms on extra-terrestrial surfaces using moving intermediate relay stations (like balloons) where direct communication is not possible.\n\nInspiration\n\nThe idea of experiment is inspired by \u201cProject Loon\u201d of Google aimed to establish a balloon-based wireless communication network. It is also being used for military communications and has been proposed for public safety use in disaster areas. Based on these projects, we would like to apply this idea in planetary exploration using unmanned vehicles.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Abhishek",
+                    "last_name": "Agrawal",
+                    "name": null,
+                    "headline": "MSc Aerospace Engineering, Space Exploration, Delft University of Technology"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Piotr",
+                    "last_name": "L.",
+                    "name": null,
+                    "headline": "Senior Quality Engineer"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Rachit",
+                    "last_name": "Kumar",
+                    "name": null,
+                    "headline": "Staff Engineer, XR Research at Qualcomm"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Ilham",
+                    "last_name": "Mammadov",
+                    "name": null,
+                    "headline": "Wissenschaftlicher Mitarbeiter/ Research Assistant at Zentrum f\u00fcr Telematik"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Onur",
+                    "last_name": "\u00c7elik",
+                    "name": null,
+                    "headline": "Research Associate @University of Glasgow | IAF Emerging Space Leader '18 | ex-RA @JAXA | Translator"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Fabricio",
+                    "last_name": "Zelada",
+                    "name": null,
+                    "headline": "Data Engineer @ Lokavant | Data Analytics, Cloud Computing"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Friederike",
+                    "last_name": "Wolff",
+                    "name": null,
+                    "headline": "System Engineer at German Aerospace Center (DLR)"
+                }
+            ]
+        },
+        {
+            "title": "PARIKSHIT Student Satellite Team",
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2010
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "description": "PARIKSHIT is the Student Satellite Team of Manipal University. ",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Abhishek",
+                    "last_name": "Agrawal",
+                    "name": null,
+                    "headline": "MSc Aerospace Engineering, Space Exploration, Delft University of Technology"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Arpan",
+                    "last_name": "Das",
+                    "name": null,
+                    "headline": "Data Scientist"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Sanket Suman",
+                    "last_name": "Dash",
+                    "name": null,
+                    "headline": "Spacecraft GNC & Systems Design Consultant"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Gourav",
+                    "last_name": "Mahapatra",
+                    "name": null,
+                    "headline": "Data Scientist at satsearch.com | ex-Scientist at SRON | Atmospheric Physicist"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Ankit",
+                    "last_name": "Agarwal",
+                    "name": null,
+                    "headline": "Software Engineer at Cisco"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Karun Arjun",
+                    "last_name": "Potty",
+                    "name": null,
+                    "headline": "Senior Engineer, Power Electronics Hardware at Lucid Motors"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Priyanka Mendon",
+                    "headline": null
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Shrey",
+                    "last_name": "M.",
+                    "name": null,
+                    "headline": "Entrepreneur | Consultant | Low-Code Developer | Lifelong-learning"
+                }
+            ]
+        }
+    ],
+    "publications": [],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": null,
+                "name": "Dinamica SrL",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": 2016
+                        }
+                    },
+                    "company": "Dinamica SrL",
+                    "description": null,
+                    "title": "Intern",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 85819,
+                "name": "Swedish Institute of Space Physics",
+                "logo": "https://media.licdn.com/dms/image/C560BAQGjNf41tNnxVg/company-logo_400_400/0/1641819744186?e=1703721600&v=beta&t=sh_Pb-3I8phg27INwz5_Qwrt95EXLIeUD2QML7lVg-k",
+                "url": "https://www.linkedin.com/company/swedish-institute-of-space-physics/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Kiruna, Sweden",
+                    "date": {
+                        "start": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2014
+                        },
+                        "end": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2014
+                        }
+                    },
+                    "company": "Swedish Institute of Space Physics",
+                    "description": "Responsible for design of switch driver circuit for a step attenuator to be employed in a MMW radiometer for project KIMRA.",
+                    "title": "Student Worker",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "SphereSat SpaceMaster Round 9",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Wuerzburg, Germany",
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2013
+                        },
+                        "end": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2014
+                        }
+                    },
+                    "company": "SphereSat SpaceMaster Round 9",
+                    "description": null,
+                    "title": "EPS engineer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Parikshit Satellite Team",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2010
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Udipi Area, India",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2012
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2013
+                        }
+                    },
+                    "company": "Parikshit Satellite Team",
+                    "description": "1. Formulation of launch and early phase operation of satellite\n2. Failure analysis of satellite\n3. Requirement trace-ability Matrix design \n4. System and sub-system level constraint monitoring",
+                    "title": "System Engineer",
+                    "employment_type": null
+                },
+                {
+                    "location": "Udipi Area, India",
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2010
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2013
+                        }
+                    },
+                    "company": "Parikshit Satellite Team",
+                    "description": "1. Design of communication subsystem for parikshit Nano-satellite\n2. Development of Hardware abstraction layer and application layer for Texas Instruments' CC1101   transceiver through MSP430F5438A microcontroller\n3. Testing RF component - Power amplifier\n4. Board designing for communications subsystem",
+                    "title": "Communications Engineer",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [
+        {
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "role": "Blood Donation",
+            "company": {
+                "id": null,
+                "name": "Voluntary service organization, Manipal",
+                "logo": null,
+                "url": null
+            },
+            "cause": "HEALTH",
+            "description": null
+        }
+    ],
+    "skills": [
+        "Programming",
+        "Pspice",
+        "C++",
+        "C",
+        "Matlab",
+        "Labview",
+        "Simulink",
+        "Embedded Systems",
+        "Microcontrollers",
+        "Embedded C",
+        "Control Systems Design",
+        "Electronics",
+        "VLSI",
+        "Systems Engineering",
+        "NI LabVIEW",
+        "VHDL",
+        "Testing",
+        "Simulations"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

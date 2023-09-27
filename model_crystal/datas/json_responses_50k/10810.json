@@ -1,0 +1,439 @@
+{
+    "profile_id": "samira-bahrami-2313b842",
+    "first_name": "Samira",
+    "last_name": "Bahrami",
+    "sub_title": "Design engineer at ASML",
+    "profile_picture": null,
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAAAj1NkUB2M8s-PBgpCWj9Y6g2onLSVom0Zs",
+    "object_urn": 150287941,
+    "birth_date": null,
+    "summary": null,
+    "location": {
+        "country": "Netherlands",
+        "short": "Delft, South Holland",
+        "city": "Delft",
+        "state": "South Holland",
+        "default": "Delft, South Holland, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "Dutch",
+                "proficiency": null
+            },
+            {
+                "name": "English",
+                "proficiency": "PROFESSIONAL_WORKING"
+            },
+            {
+                "name": "Persian",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ]
+    },
+    "industry": "Telecommunications",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "school": {
+                "name": "Delft University of Technology",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQFwaGpwaod9mQ/company-logo_400_400/0/1670699851986?e=1703721600&v=beta&t=Aw4oLxoKsIJcblYDjxw9200FClnyhZu8DxzcfJRDFOs",
+                "url": "https://www.linkedin.com/school/tudelft/"
+            },
+            "degree_name": "Master's in Electrical Engineering",
+            "field_of_study": "Telecommunications Engineering",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2010
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "school": {
+                "name": "Delft University of Technology",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQFwaGpwaod9mQ/company-logo_400_400/0/1670699851986?e=1703721600&v=beta&t=Aw4oLxoKsIJcblYDjxw9200FClnyhZu8DxzcfJRDFOs",
+                "url": "https://www.linkedin.com/school/tudelft/"
+            },
+            "degree_name": "Bridging Program Master's in Electrical Engineering",
+            "field_of_study": "Telecommunications Engineering",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2001
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2007
+                }
+            },
+            "school": {
+                "name": "Tehran Azad University",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "Bachelor's in Acting in Drama,",
+            "field_of_study": null,
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2002
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2006
+                }
+            },
+            "school": {
+                "name": "Tehran Azad University",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "Bachelor's in Electrical engineering",
+            "field_of_study": "Electronics",
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "Master Thesis of Non-Instrusive Appliance Load Monitoring using theViterbi Algorithm",
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "description": " The goal of Non-Intrusive Appliance Load Monitoring (NIALM), or energy disaggregation, is to deduce which devices are active and how much\nenergy they consume from observation of the time evolution of the total voltage or current in the electrical network.\nIn this thesis, energy disaggregation is performed from the time series of power meter readings, by making use of the fact that different types of appliance can be distinguished by the statistical properties of their signatures, i.e., power consumption behavior over time. Optimal detectors, using the Viterbi algorithm, are derived for three types of signature: 1) only power levels, no time information, 2) power levels with exponentially distributed lifetimes and 3) power levels with Gaussian lifetimes with given means and variances. The detectors have been implemented in MATLAB, and their performance is compared for various inputs.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Samira",
+                    "last_name": "Bahrami",
+                    "name": null,
+                    "headline": "Design engineer at ASML"
+                }
+            ]
+        },
+        {
+            "title": "Microwaves, Radar and Remote Sensing",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "description": "Measuring and analyzing experience in Radar Cross Section, FMCW Radar,\nRemote Sensing and Transmission line.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Samira",
+                    "last_name": "Bahrami",
+                    "name": null,
+                    "headline": "Design engineer at ASML"
+                }
+            ]
+        },
+        {
+            "title": "Signal Processing",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "description": "Implementing the system model for the communications system, estimating the\nunknown propagation channel using pilots and the estimated channel to\nestimate unknown data symbols using Matlab.\n\nImplementing the system model of a cognitive radio system and an energy\ndetector as well as a detector based on the cyclostationarity of the signal\nusing Matlab.\n\nGenerating and studying an instantaneous MIMO model, deriving a convolutive\nmodel with a single source and a single receiver using Matlab.\n\nEstimating the DoA of using Classical beamforming, MVDR and MUSIC using\nMatlab.\n\nPilot based estimation and blind channel and symbol estimation using Matlab.\n\nImplementing decentralized algorithms to detect the region in the plant which is\non fire using Matlab.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Samira",
+                    "last_name": "Bahrami",
+                    "name": null,
+                    "headline": "Design engineer at ASML"
+                }
+            ]
+        },
+        {
+            "title": "Ultra-wideband(UWB)",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "description": "The characterization of a UWB device transfer function using time-domain pulses.\n\nDetermining the characteristic impedance of a transmission line by analyzing the\nreflected pulse.\n\nHuman body tracking with multiple UWB radar systems, Human breathing\ncharacterization.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Samira",
+                    "last_name": "Bahrami",
+                    "name": null,
+                    "headline": "Design engineer at ASML"
+                }
+            ]
+        }
+    ],
+    "publications": [],
+    "courses": [
+        {
+            "name": "Ad-hoc Networks",
+            "number": null
+        },
+        {
+            "name": "Advances in Networking",
+            "number": null
+        },
+        {
+            "name": "Antenna Systems",
+            "number": null
+        },
+        {
+            "name": "Applied Electromagnetic Analysis in Wireless",
+            "number": null
+        },
+        {
+            "name": "Digital Signal Processing",
+            "number": null
+        },
+        {
+            "name": "Distributed Signal Processing",
+            "number": null
+        },
+        {
+            "name": "Electromagnetics",
+            "number": null
+        },
+        {
+            "name": "Estimation and Detection",
+            "number": null
+        },
+        {
+            "name": "Introduction to UWB Technology, Systems and Applications",
+            "number": null
+        },
+        {
+            "name": "Linear Algebra 1,2",
+            "number": null
+        },
+        {
+            "name": "Microwave and Radar Engineering",
+            "number": null
+        },
+        {
+            "name": "Microwaves, Radar and Remote Sensing",
+            "number": null
+        },
+        {
+            "name": "Passive Components for Microwave systems",
+            "number": null
+        },
+        {
+            "name": "Radar Systems",
+            "number": null
+        },
+        {
+            "name": "Signal Processing for Communications",
+            "number": null
+        },
+        {
+            "name": "Stochastic processes",
+            "number": null
+        },
+        {
+            "name": "Telecommunication Networks",
+            "number": null
+        },
+        {
+            "name": "Telecommunications Techniques",
+            "number": null
+        },
+        {
+            "name": "Wireless Communications",
+            "number": null
+        }
+    ],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 166529,
+                "name": "TU Delft",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQFwaGpwaod9mQ/company-logo_400_400/0/1670699851986?e=1703721600&v=beta&t=Aw4oLxoKsIJcblYDjxw9200FClnyhZu8DxzcfJRDFOs",
+                "url": "https://www.linkedin.com/school/tudelft/",
+                "employees": {
+                    "start": 5001,
+                    "end": 10000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Delft University of Technology",
+                    "description": null,
+                    "title": "Student",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1090,
+                "name": "Philips",
+                "logo": "https://media.licdn.com/dms/image/C510BAQG4O5wCG6zf2Q/company-logo_400_400/0/1519855869410?e=1703721600&v=beta&t=AwT4OtKaChfPg1Rv0FCXPZ0aI3a7TPbiAfYxHqJIa04",
+                "url": "https://www.linkedin.com/company/philips/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2013
+                        },
+                        "end": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2014
+                        }
+                    },
+                    "company": "Philips",
+                    "description": null,
+                    "title": "Internship",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Matlab",
+        "Java",
+        "C++ Language",
+        "C language",
+        "ADS",
+        "Pspice",
+        "CST Design Studio",
+        "FEKO",
+        "Wireshark",
+        "Microsoft Office",
+        "Linux",
+        "LaTeX",
+        "Machine Learning",
+        "C",
+        "Electrical Engineering"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

@@ -1,0 +1,572 @@
+{
+    "profile_id": "ashwathganeshan",
+    "first_name": "Ashwath",
+    "last_name": "Ganeshan",
+    "sub_title": "Software Engineer",
+    "profile_picture": null,
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAABiubgMB5skIZoWg-m50eoIlreKb2wP9GtE",
+    "object_urn": 414084611,
+    "birth_date": null,
+    "summary": "I did my Masters in Embedded Systems in Technical University Eindhoven. My Bachelors was in Electronics and Communication Engineering.\n\nI have experience with C,C++, Java, Python,C#, SystemC .\n\nWorked in different projects (See description for more detail on the projects) in ASML and presently at Nearfield Instruments\n\n",
+    "location": {
+        "country": "Netherlands",
+        "short": "Zoetermeer, South Holland",
+        "city": "Zoetermeer",
+        "state": "South Holland",
+        "default": "Zoetermeer, South Holland, Netherlands"
+    },
+    "premium": true,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "Dutch (Beginner)",
+                "proficiency": "ELEMENTARY"
+            },
+            {
+                "name": "English",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "Tamil",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ]
+    },
+    "industry": "Computer Software",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "school": {
+                "name": "Eindhoven University of Technology",
+                "logo": "https://media.licdn.com/dms/image/C560BAQG4PGSYiNG4CA/company-logo_400_400/0/1642150189320/eindhoven_university_of_technology_logo?e=1703721600&v=beta&t=UMtvsUY7gGdfvqSsyxhrvNturxPM2CEK0wwd7yozJEA",
+                "url": "https://www.linkedin.com/school/eindhoven-university-of-technology/"
+            },
+            "degree_name": "Master's degree",
+            "field_of_study": "Embedded Systems",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2008
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "school": {
+                "name": "Sri Sairam Engineering College",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "Bachelor's degree",
+            "field_of_study": "Electrical, Electronics and Communications Engineering",
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "Sub Pixel Filling Algorithm",
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "description": "The Sub Pixel Filling Algorithm works as follows:\n\nWhen ever a pixel is read, a 2 bit data is read and is processed and is written as 3 bit data in the output buffer. Hence, for any n input buffer, we would have our output with (n*3/2) bits. This algorithm was expected to be fastest with Look Up Table. In order to measure its performance, the algorithm was built from the scratch and its execution time was compared with the Look up table Implementation and a Implementation with static array.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Ashwath",
+                    "last_name": "Ganeshan",
+                    "name": null,
+                    "headline": "Software Engineer"
+                }
+            ]
+        },
+        {
+            "title": "Design Space Exploration",
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "description": "The Design Space exploration was a project which was performed as a part of curriculum for the course titled \"Multiprocessor\". The aim of the project is to find the optimal design consuming a least power for a given application (task mapping) . The key part of this project is find the optimal design from several design choices available.\n\nTool : POOSL ( the application was given in this), Python ( to run some scripts) and MATLAB( for Pareto Mappings)",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Ashwath",
+                    "last_name": "Ganeshan",
+                    "name": null,
+                    "headline": "Software Engineer"
+                }
+            ]
+        },
+        {
+            "title": "Porting the JPEG Decoding Algorithm in Compsoc Platform",
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "description": "This was a project which was part of \"Embedded Systems Laboratory \" course which was offered during the Masters program. It was a extensive project, as the JPEG decoding code must be ported to Compsoc platform and the optimal design was explored. Data parallelization and functional  parallelization were put into use and the code was also ported in Comik Microkernel to run time-multiplexed data. ",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Ashwath",
+                    "last_name": "Ganeshan",
+                    "name": null,
+                    "headline": "Software Engineer"
+                }
+            ]
+        },
+        {
+            "title": "Design and Validation of Dynamic Voltage and Frequency Controller using mCRL2",
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "description": "This project was a part of \"System validation \" course and the goal of this project was to design a DVFS Controller using mCRL2 tool. this controller was validated then by verifying various functional and formal requirements.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Ashwath",
+                    "last_name": "Ganeshan",
+                    "name": null,
+                    "headline": "Software Engineer"
+                }
+            ]
+        },
+        {
+            "title": "Acceleration of Convolutional Neural Networks on GPU using CUDA",
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "description": "This project was a part of \"Embedded Computer Architecture\"course. the Convolution Neural Network Algorithm was ported in the NVIDIA GeForce GTX 460 GPU by programming in CUDA and optimized using tiling algorithms and shared memory.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Ashwath",
+                    "last_name": "Ganeshan",
+                    "name": null,
+                    "headline": "Software Engineer"
+                }
+            ]
+        },
+        {
+            "title": "Implementation of Viola-Jones Face-detection algorithm on Intel Silicon-Hive Architecture",
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "description": "This was also a part of \"Embedded Computer Architecture\" coursework. The Viola Jones face Detection algorithm was ported in the Intel Silicon Hive architecture and it was further optimized using hardware and software optimization techniques.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Ashwath",
+                    "last_name": "Ganeshan",
+                    "name": null,
+                    "headline": "Software Engineer"
+                }
+            ]
+        },
+        {
+            "title": "Embedded Systems Based Safety in Mining",
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "description": "Mining industry faces with a threat of unexpected accidents killing several miners on work. Most of these accidents happen due to the presence of poisonous gases like Methane, hydrogen Sulphide, Nitrous Oxide etc.\n\nOur project aims at detecting these gases and check their levels and compare it with the prescribed levels to intimate on any impending accident to happen",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Ashwath",
+                    "last_name": "Ganeshan",
+                    "name": null,
+                    "headline": "Software Engineer"
+                }
+            ]
+        }
+    ],
+    "publications": [],
+    "courses": [
+        {
+            "name": "Advanced Digital Circuit Design",
+            "number": "5P380"
+        },
+        {
+            "name": "Architecture of Distributed Systems",
+            "number": "2II45"
+        },
+        {
+            "name": "Automata and process Theory",
+            "number": "2IT70"
+        },
+        {
+            "name": "Automated Reasoning",
+            "number": "2IW15"
+        },
+        {
+            "name": "Communication Skills",
+            "number": "2IX17"
+        },
+        {
+            "name": "Embedded Computer Architecture",
+            "number": "5KK73"
+        },
+        {
+            "name": "Embedded Systems Laboratory",
+            "number": "5KK03"
+        },
+        {
+            "name": "Multiprocessor",
+            "number": "5KK80"
+        },
+        {
+            "name": "Physical Aspects of Digital Security",
+            "number": "2IC35"
+        },
+        {
+            "name": "Quantitative Evaluation of Embedded Systems",
+            "number": "2IN27"
+        },
+        {
+            "name": "Real Time Systems",
+            "number": "2IN26"
+        },
+        {
+            "name": "System Validation",
+            "number": "2IW26"
+        },
+        {
+            "name": "System on Silicon",
+            "number": "5KK60"
+        },
+        {
+            "name": "Technology Entreprenaurship",
+            "number": "1ZS01"
+        },
+        {
+            "name": "Ubiquitous Computing and Activity Recognition",
+            "number": "5ME20"
+        }
+    ],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 10598396,
+                "name": "Nearfield Instruments B.V.",
+                "logo": "https://media.licdn.com/dms/image/C560BAQGngyTu4N2xAQ/company-logo_400_400/0/1523434890432/nearfield_instruments_bv_logo?e=1703721600&v=beta&t=b1C0ErDYuySC1D7uX2F9l2zWHZ7xi5uSv4kgjDOB5_Y",
+                "url": "https://www.linkedin.com/company/nearfield-instruments-bv/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Rotterdam, South Holland, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Nearfield Instruments ",
+                    "description": "- Developed subsystem software in C#. Dev environment => Visual Studio and version control was with Git (Gitlab) \n- Integrated Software of different subsystems while shipping the tool to the customer site.\n- Owner and Maintainer of the complete SW Upgrade process. \n- Worked in a team that follows Agile and Scrum methodologies and been Scrum master for a few sprints.\n- Trained Korean colleagues at customer fab in South Korea.",
+                    "title": "Software Engineer",
+                    "employment_type": "Permanent"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 3894,
+                "name": "ASML",
+                "logo": "https://media.licdn.com/dms/image/C560BAQGssQfw50QsaQ/company-logo_400_400/0/1519855871260?e=1703721600&v=beta&t=Dy9d-y1YEURWKW9gwgee0M1kiJhHIn_5C8HeOomdIr8",
+                "url": "https://www.linkedin.com/company/asml/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "ASML",
+                    "description": "- Migrating software building blocks which were implemented with ASNI C++ to C++11.\n- Investigated cyclic dependency between interfaces. \n- Led the strategy to break the cycles and handled implementation until the successful delivery of the code.\n- Automating investigation across interfaces using Python.",
+                    "title": "Software Developer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 2870,
+                "name": "Oce",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQHjpFVrWRzu5A/company-logo_400_400/0/1539265998616/oce_logo?e=1703721600&v=beta&t=sBdKDU7ivquIbTX4h4HbWRYCTT9iXqhbuqAIkG_mz-I",
+                "url": "https://www.linkedin.com/company/oce/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2015
+                        }
+                    },
+                    "company": "Oc\u00e9 - A Canon Company",
+                    "description": "Performance Modelling of Data Intensive Embedded Applications Using SystemC\n\nThe data path of a printer has the responsibility of transforming an input file (PDF or Image) into a matrices (bitmap) specifying every jet moment in a print head whether a nozzle must emit a drop or not. The decision of defining and deploying sub tasks which are responsible for generation and processing of pixels is a difficult task. Therefore, a modeling based on Y chart methodology was proposed by Martijn Hendriks et al. This project aims to develop a library using SystemC in order to model the data intensive application in a high level of abstraction using the methodology proposed and a printer data path case was considered as the example system. Its performance such as simulation speed, scalability, ease of modeling and memory usage was compared when being compared with implementations performed using other high level modeling languages (C++ and Java).\n\n\nKey : SystemC, C++, Java",
+                    "title": "Research Intern",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 2870,
+                "name": "Oce",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQHjpFVrWRzu5A/company-logo_400_400/0/1539265998616/oce_logo?e=1703721600&v=beta&t=sBdKDU7ivquIbTX4h4HbWRYCTT9iXqhbuqAIkG_mz-I",
+                "url": "https://www.linkedin.com/company/oce/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Venlo",
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2014
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2014
+                        }
+                    },
+                    "company": "Oc\u00e9 - A Canon Company",
+                    "description": "Implementation of Sub pixel Filling Algorithm\n\n\nThe objective of the internship is to compare the different implementations of the \u201cSub Pixel Filling\u201d algorithm and compare its performance with respect to the execution time. I implemented the algorithm is three different ways : naive Implementation, an Implementation using a static array and a implementation using a Look up table.\n\n\n\nKey : C, C++",
+                    "title": "Intern",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "role": "student",
+            "company": {
+                "id": null,
+                "name": "National Service Scheme",
+                "logo": null,
+                "url": null
+            },
+            "cause": null,
+            "description": "Participated in National Service Scheme event organised by my college ( Sri Sairam Engineering College) in Keezhamur  (a village near Chennai, Tamil Nadu, India)\n\nEvents :\n1. Creating Awareness on Polio drops for babies.\n2.  Creating Awareness on Diabetics and its related complications.\n3. Organizing recreational activities for the school children\n4. Organizing Blood Donation Camps"
+        }
+    ],
+    "skills": [
+        "Debugging",
+        "Visual Studio",
+        "Software",
+        "Scrum",
+        "Agile",
+        "C",
+        "C++",
+        "Java",
+        "Python",
+        "SystemC",
+        "LaTeX",
+        "Formal Verification",
+        "Embedded C",
+        "PowerPoint",
+        "Microsoft Excel",
+        "mCRL2",
+        "POOSL",
+        "LTSpice",
+        "C#"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

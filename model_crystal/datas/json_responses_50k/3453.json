@@ -1,0 +1,390 @@
+{
+    "profile_id": "alessiociurli21",
+    "first_name": "Alessio",
+    "last_name": "Ciurli",
+    "sub_title": "Mass Spectrometry expert | Specialist in Metabolomics | Analytical developer | Advanced R user",
+    "profile_picture": "https://media.licdn.com/dms/image/C5603AQElczXsVy-vhQ/profile-displayphoto-shrink_800_800/0/1552554293066?e=1701302400&v=beta&t=p9_QNTAMsPb3mx97ere8O7qIW4T0tAfniIA6bImYe8c",
+    "background_image": "https://media.licdn.com/dms/image/C4E16AQELqDEYNk8DJw/profile-displaybackgroundimage-shrink_350_1400/0/1635196672303?e=1701302400&v=beta&t=JL7CnTFv2-RwO2YVFFfc6rjSKGM2PDRNG7O7PUM2N9Y",
+    "profile_type": "personal",
+    "entity_urn": "ACoAACH3XAgBYAVXjxse3Xh8AwH9ziCMwIiaz14",
+    "object_urn": 569859080,
+    "birth_date": null,
+    "summary": "Metabolomics, LC-MSMS, MS-library, Salivomics, R programming language, MVDA, head and neck cancer. ",
+    "location": {
+        "country": "Netherlands",
+        "short": "Leiden, South Holland",
+        "city": "Leiden",
+        "state": "South Holland",
+        "default": "Leiden, South Holland, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "IT",
+            "language": "it"
+        },
+        "supported_locales": [
+            {
+                "country": "IT",
+                "language": "it"
+            },
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "Dutch",
+                "proficiency": "ELEMENTARY"
+            },
+            {
+                "name": "Inglese",
+                "proficiency": "PROFESSIONAL_WORKING"
+            },
+            {
+                "name": "Italian",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "Tedesco",
+                "proficiency": "ELEMENTARY"
+            }
+        ]
+    },
+    "industry": "Research",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "school": {
+                "name": "Technical University of Munich",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQEyP6R-fPElYg/company-logo_400_400/0/1575562167047?e=1703721600&v=beta&t=wPkDdg6IKc4r4YiCk7VpQEDoFA7HE9fOVGdB6oXBTfw",
+                "url": "https://www.linkedin.com/school/technische-universitat-munchen/"
+            },
+            "degree_name": "Master's degree ",
+            "field_of_study": "\"Nutrition and Biomedicine\"",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "school": {
+                "name": "University of Camerino",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQFFt9mOOovErg/company-logo_400_400/0/1519856494368?e=1703721600&v=beta&t=igGiuu10QO5pY0f13i3YetyaxSB3TPmR83eX5O4BF5s",
+                "url": "https://www.linkedin.com/school/universitacamerino/"
+            },
+            "degree_name": "Master's degree",
+            "field_of_study": "Biological Sciences - Nutritional and Functional Food",
+            "grade": "107/110"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2009
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "school": {
+                "name": "Universit\u00e0 di Pisa",
+                "logo": "https://media.licdn.com/dms/image/C510BAQFzeobIVHZw8Q/company-logo_400_400/0/1519856214386?e=1703721600&v=beta&t=x4yoW5IkHLsPhyiao3nO7CU7EsxPRkBFro1e_u2HjRk",
+                "url": "https://www.linkedin.com/school/unipisa/"
+            },
+            "degree_name": "Bachelor's degree",
+            "field_of_study": "Biological Sciences",
+            "grade": "100/110"
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "Kinetic investigation on human metabolomic data of time-resolved plasma samples",
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "description": "The aim of the master\u2019s project was to acquire a deeper knowledge of the metabolism through characterization of the time-dependent profile of nearly 600 metabolites, present in the HuMet study database, a high controlled human trial with 15 young, metabolic healthy, male, volunteers that underwent to several different challenges with a time-resolved sampling (http://www.humet-tum.de).  a Kinetic analysis was carried out, on a dataset comprehensive of all collected plasma samples during a prolonged fasting challenge, through implementation of Akaike Information Criterion and Pearson Correlation Coefficient. All statistical procedures and graphical visualizations have been performed using R software version 3.3.1.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Alessio",
+                    "last_name": "Ciurli",
+                    "name": null,
+                    "headline": "Mass Spectrometry expert | Specialist in Metabolomics | Analytical developer | Advanced R user"
+                }
+            ]
+        }
+    ],
+    "publications": [
+        {
+            "name": "Spatially resolved sampling of the human oral cavity for metabolic profiling",
+            "publisher": "STAR Protocols",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/34917980/",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2021
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Alessio",
+                    "last_name": "Ciurli",
+                    "name": null,
+                    "headline": "Mass Spectrometry expert | Specialist in Metabolomics | Analytical developer | Advanced R user"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Rico",
+                    "last_name": "Derks",
+                    "name": null,
+                    "headline": "Researcher at LUMC (Leiden)"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Martin",
+                    "last_name": "Giera",
+                    "name": null,
+                    "headline": "Head Metabolomics group at LUMC"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Christine",
+                    "last_name": "Ammon",
+                    "name": null,
+                    "headline": "Venture Support Expert at NLC"
+                }
+            ]
+        },
+        {
+            "name": "Spatially resolved sampling for untargeted metabolomics: a new tool for salivomics",
+            "publisher": "iScience",
+            "url": "https://doi.org/10.1016/j.isci.2021.102768",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": null
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Alessio",
+                    "last_name": "Ciurli",
+                    "name": null,
+                    "headline": "Mass Spectrometry expert | Specialist in Metabolomics | Analytical developer | Advanced R user"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Rico",
+                    "last_name": "Derks",
+                    "name": null,
+                    "headline": "Researcher at LUMC (Leiden)"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Martin",
+                    "last_name": "Giera",
+                    "name": null,
+                    "headline": "Head Metabolomics group at LUMC"
+                }
+            ]
+        }
+    ],
+    "courses": [
+        {
+            "name": "Summer School \"Nutrigenomics and Nutrigenetics\" 2014",
+            "number": null
+        }
+    ],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 2104608,
+                "name": "Netherlands Metabolomics Centre",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQHrSBQhk_Xheg/company-logo_400_400/0/1644916248151?e=1703721600&v=beta&t=9qEXHjGAMwteq5sOqp3k_7oEewGhYSLrb-NQ1xdOm7w",
+                "url": "https://www.linkedin.com/company/netherlands-metabolomics-centre/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Netherlands Metabolomics Centre",
+                    "description": null,
+                    "title": "Young NMC Committee Member",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 8586,
+                "name": "Leiden University Medical Center",
+                "logo": "https://media.licdn.com/dms/image/C560BAQH1qP661qZWFA/company-logo_400_400/0/1519856575224?e=1703721600&v=beta&t=eS-Z4Gx8gLa6GDiwst5M0UkFb7EXz9leHWCMtP0pSwE",
+                "url": "https://www.linkedin.com/company/lumc/",
+                "employees": {
+                    "start": 5001,
+                    "end": 10000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Leiden, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Leiden University Medical Center",
+                    "description": null,
+                    "title": "Researcher Phd Candidate",
+                    "employment_type": "Full-time"
+                },
+                {
+                    "location": "Leiden, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2018
+                        }
+                    },
+                    "company": "Leiden University Medical Center",
+                    "description": null,
+                    "title": "Internship",
+                    "employment_type": "Internship"
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [
+        {
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "role": "International Volunteer",
+            "company": {
+                "id": null,
+                "name": "ReefDoctor",
+                "logo": null,
+                "url": null
+            },
+            "cause": "ENVIRONMENT",
+            "description": "ReefDoctor\u2019s Volunteer program provided me scuba training, practical marine conservation experiences, including species identification and survey of the life in the reef, plus basic ecological knowledge to work in a marine research and marine conservation fields.   "
+        }
+    ],
+    "skills": [
+        "Metabolomics",
+        "Liquid Chromatography-Mass Spectrometry (LC-MS)",
+        "High-Performance Liquid Chromatography (HPLC)",
+        "Mass Spectrometry",
+        "Good Laboratory Practice (GLP)",
+        "Data analysis",
+        "R",
+        "Microsoft Office",
+        "R studio",
+        "Multivariate Analysis"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

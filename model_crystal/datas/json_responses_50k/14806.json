@@ -1,0 +1,605 @@
+{
+    "profile_id": "erik-van-garderen-9753b25",
+    "first_name": "Erik",
+    "last_name": "van Garderen",
+    "sub_title": "Security Architect at KPN",
+    "profile_picture": null,
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAAADywekBGqo1vog7vBxWQsFEcmQKcctcDoI",
+    "object_urn": 15909353,
+    "birth_date": null,
+    "summary": "- product Manager Security for the mobile networks of KPN, Netherlands.\n- Security officer for the KPN VoIP platform called ' Internet Plus Bellen' nd the KPN IN-platforms for the fixed network.\n- Expertise in both operational and development of IT security and network management.\n- Working on updating security processes according to ITIL v3.\n\nSpecialties: network architecture, unix and linux servers, lawful interception architecture, HA architecture, network management protocols, sip-protocol, security policies, device management, mobile network security, Business Continuity management, ITIL, iso-17799.",
+    "location": {
+        "country": "Netherlands",
+        "short": "The Randstad, Netherlands",
+        "city": "The Randstad",
+        "state": "Netherlands",
+        "default": "The Randstad, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "Dutch",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "English",
+                "proficiency": "FULL_PROFESSIONAL"
+            },
+            {
+                "name": "German",
+                "proficiency": "LIMITED_WORKING"
+            }
+        ]
+    },
+    "industry": "Computer & Network Security",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "school": {
+                "name": "Cyber Security Academy",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "Master of Science - MSc",
+            "field_of_study": "Cyber Security",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2010
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "school": {
+                "name": "Fontys",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "Bachelor of ICT (in Dutch; ing.)",
+            "field_of_study": "IT, Management & Security",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2008
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2008
+                }
+            },
+            "school": {
+                "name": "CISSP (www.isc2.org)",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "CISSP",
+            "field_of_study": "Information Security",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 1985
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 1989
+                }
+            },
+            "school": {
+                "name": "MTS Scutos, Utrecht",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "MTS degree",
+            "field_of_study": "Electronics & Telecommunications",
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [],
+    "organizations": [],
+    "projects": [],
+    "publications": [],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 1442,
+                "name": "KPN",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQFHdzywk2aJGA/company-logo_400_400/0/1691135902931?e=1703721600&v=beta&t=EwovPoL4-FsdDqAf_BsVW4iHyxyT1HtULkozISOj_rI",
+                "url": "https://www.linkedin.com/company/kpn/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 1991
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "The Hague, South Holland, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "KPN",
+                    "description": null,
+                    "title": "Enterprise Architect Security",
+                    "employment_type": "Full-time"
+                },
+                {
+                    "location": "The Hague Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2021
+                        }
+                    },
+                    "company": "KPN",
+                    "description": "Due to a reorganisation, I decided to move to the department responsible for translating the architectural vision into products, whereby my focus is still on the architectural part of the solutions.\nMy first task was to define a model for the ingestion of contextual data, able to handle over 2 million events per second.\nThe first big project was the replacement of a wide variety of server endpoint protection solutions by a central single solution, usable for every department within KPN. Based on a PoC a vendor has been selected and the solution which is able to protect 100.000 individual endpoints is being implemented now.",
+                    "title": "Security Architect",
+                    "employment_type": "Full-time"
+                },
+                {
+                    "location": "The Hague Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2014
+                        },
+                        "end": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2018
+                        }
+                    },
+                    "company": "KPN",
+                    "description": "At the end of 2014 I was asked to join the KPN Integrated Solution Architects department as an information security architect.. A team of 40 architects responsible for the KPN infrastructure. \nThe first architecture project was to define an architecture for KPN wide log management and security, capable of handling over one million events per second and storing these for half a year, without having a huge impact on resources. Based on developments in data analytics I have recommended a Hadoop platform for the long term datastore and forensics capability with a syslog based collection layer. This solution is also designed to replace individual log storage solutions, to ensure that the solution basically replaces the storage of data instead of adding extra storage.\nI also have been involved in the development of an Openstack solution where I had to ensure security and BCM requirements were taken into account for the architecture and design of that platform. This project was followed by a visionary project to optimise data collection, storage and processing for resource related data and telemetrics. So far every solution had their own data collection store and analytics capability and together with some architects from related departments we worked out an architecture which would fit KPN on the long term, using HDFS storage and streaming analytics capabilities.",
+                    "title": "Security Architect",
+                    "employment_type": null
+                },
+                {
+                    "location": "The Hague Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2013
+                        },
+                        "end": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2014
+                        }
+                    },
+                    "company": "KPN",
+                    "description": "When I was working on the outsource project in the Mobile Operations division, I was asked to join the Chief Information Security Officer (CISO) in the Strategy & Policy team and could start at the beginning of a new CISO project for a new KPN Security Policy (KSP). I wrote the policies on log management, system hardening, Bring your own device, Backup and Restore, Office Automation and System Security.\nIn order to verify correct implementation of the new KSP, I was assigned two big projects, the KPN E\u00e9n business proposition transition project and the Mobile Operations business support transition project. I managed to both verify a correct KSP implementation and effectiveness of our policies, and help the project with giving advice on how to improve security for their projects. I also am a core member of the Security Architecture Team, where difficult architecture cases were discussed and am also the editor of some chapters of the Security Architecture Guidelines and BCM Architecture Guidelines.\nDuring my time at the CISO Office, I have also been responsible for the functional management of the BCM disaster recovery plan repository.\nMy last assignment within the CISO was to participate in the simplify edition of the BCM polices. These policies were hardly changed in the first edition of the KSP and underwent a major rewrite. In this project I have given consultancy and participated in the pressure cooker workshops to write the policies and tools.",
+                    "title": "Consultant Security & BCM at CISO",
+                    "employment_type": null
+                },
+                {
+                    "location": "The Hague",
+                    "date": {
+                        "start": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2011
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2013
+                        }
+                    },
+                    "company": "KPN",
+                    "description": "I joined the Mobile \u2018products & Architecture\u2019 department on request. I was part of the architectural team, and participated as core member in the workgroup for KPN critical infrastructure (CI). By the end of 2011 I had a security and BCM Mobile roadmap ready and budget was set for improvement projects, which were also implemented. I performed the roles of security/BCM manager and security/BCM consultant . In the year 2012 I was heavily involved in five topics;\n1.\tMassive hack of KPN network; I have been involved in coordinating activities to minimize damage and to repair the networks and systems.\n2.\tFire at Vodafone DC; as a member of the CI project team, we have made a report of \u2018what if\u2019 consequences for the board with recommendations.\n3.\tCollapse of 1,5MW of cooling capacity in a big DC, without impact for society; I have been involved to coordinate the activities for possible disaster recovery for the mobile department, in case the emergency controls would fail.\n4.\tLetter of American government concerning the use of Chinese equipment; I have been core work group member responsible for implementation of extra controls to counteract the threats.\n5.\tDeep packet Inspection media attention; I was involved as a consultant in the discussions with the Dutch privacy regulator.\nFor the KPN new LTE services I have from a CIA perspective performed the role of acceptance officer for the business, advising management to accept or reject. \nIn addition to these activities, I have coordinated the implementation of mitigating controls with regard to the reported GSM network vulnerabilities as reported by and in co-operation with researcher Karsten Nohl.\nIn 2013 the division decided to start a project to outsource Mobile Operations. Even though this did not materialize, I worked successfully on a security contract from a demand/supply perspective with the security officer of the contractor, the contract based on ISO-27001 with incorporation of the Dutch Defense ABDO regulations.",
+                    "title": "Product Manager Security Mobile",
+                    "employment_type": null
+                },
+                {
+                    "location": "The Hague, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2007
+                        },
+                        "end": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2011
+                        }
+                    },
+                    "company": "KPN",
+                    "description": "At the end of 2007 I have been asked to work as a security designer for VoIP and traditional fixed voice services. In this role I also was responsible for the security contents of the PSTN/VoIP Voice roadmap of KPN.\nWhen security issues arise in the operational IPB/IN-platform environments, I give management consultancy and advice about possible solutions and workarounds.\nAs a member of the IPB/IN-platform design review team, I advice management about the consequences of new implementations with regard to security. The Design review team is a part of the KPN project management control process.\nWith regard to Lawful Interception, I was a member of the JAM (Justitieel Aftappen en Monitoren) board, which decides whether projects can continue with their activities or if more efforts are necessary to ensure full LI-compliance.\nIn 2008, the security & continuity process group obtained an ISO-9001 certificate (as part of an overall ITIL certificate) under my leadership. From 2009 till 2011 I have been involved in implementing the ISO-27001 based controls to improve security and continuity..\nI did participate in the following projects as the designer for that project;\n\u2022\tFraud Management improvement tool. Lead designer, tester and implementation manager.\n\u2022\tRadius authentication server for network elements. Designer and test manager.\n\u2022\tGeneric Device Management (security design).\n\u2022\tSystem Independent Technical Specification (security requirements for customer premises equipment). This is ongoing business. I am the driving force behind this standard which is considered by our suppliers as being the strictest security standard in the world for CPE.\n\u2022\tPrime rate service number fraud management detection and prevention. I was the lead designer.\n\u2022\tC7 link monitoring system replacement. I was the designer for all network and systems related issues.\nIn September 2010 I did start with the theory year of my Bachelor\u2019s education, after having obtained over 3 years of exemptions.",
+                    "title": "Allround Designer",
+                    "employment_type": null
+                },
+                {
+                    "location": "The Hague, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2006
+                        },
+                        "end": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2007
+                        }
+                    },
+                    "company": "KPN",
+                    "description": "The KPN SIP based VoIP platform has been introduced at the end of 2005, as a way to preserve telephony customers in a highly competitive market. Directly after the handover of the platform from a project to an operational organization, I got the role of Security Officer.\nMy first project has been the implementation of a Citrix Metaframe solution in order to have a protected access to the platform for the operations engineers.\nAlthough security has been defined as important, the necessity for speed during implementation caused some concerns with regard to continuity and reliability. Approximately half of 2006 has been used to keep security in line with growth and to apply short-term controls to prevent damage due to the quick growth (Within one year, the amount of customers went from 0 to 500000+ and there have been incidents with customers trying to steal passwords, phone numbers being mixed up etc.). This work involved fixing security issues within equipment like the Session Border Controllers, SIP-servers and the residential gateways, which are managed by a central device management server. I also have been involved in setting up this server to use the TR-069 protocol including the use of server-side certificates and have even helped to improve the TR-069 protocol with regard to NTP time dependencies.\nFor Lawful Interception, I wrote the procedures to comply with the LI-specific government requirements for the IPB service and these procedures were also used in other domains (Intenret and Mail).\nIn 2007 a project has been started to tackle a lot of problems caused by the rapid introduction of the service to our customers. I have been involved as a consultant and have helped to introduce long-term solutions and controls to reach a carrier grade quality and stability.\nI have also written operational requirement documents for user management, based on Radius, DMZ-usage, remote access security and Residential-gateway requirements.",
+                    "title": "Security Officer",
+                    "employment_type": null
+                },
+                {
+                    "location": "The Hague Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2003
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2005
+                        }
+                    },
+                    "company": "KPN",
+                    "description": "The IVMS department was responsible for KPNs Value Added Services.\n\nFor IVMS I have been involved in the Fixed Network SMS effort and have been responsible for setting up and executing test cases for the SMPP (SMS Peer to Peer Protocol) and UCP (Universal Computer Protocol) interfaces towards other SMS carriers. These interfaces were introduced for the Business-to-Business part of the service, which is designed for big customers,\nA major part of these tests were to assure that concatenated messages, ring tone and logo messages did not cause operational problems on the fixed network terminating equipment.\n\nTogether with two co-workers, I was responsible for the security and network administration of the IVMS networks and interconnection with other KPN networks.\n\nIn order to improve network management, I have been facilitating the implementation of HP-Openview for systems management and the connection of HP-Openview to NetCool.\n\nBesides these activities, I have set up a Linux based Ethereal/MRTG traffic analyzer/protocol sniffer in our networks in Rotterdam and Zwolle. The last few months, I have been busy setting up a combined Checkpoint/RSA SecurID platform in Rotterdam, a Sun Cluster system in The Hague for our test network and a Sun Jumpstart server based on Solaris 10x86.\n\nLessons learned;\n\u2022\tIN addition to IN principles I know how to interface between Parlay and INAP protocols.\n\u2022\tI gained knowledge with regard to VoIP protocols.\n\u2022\tDue to the nature of my job, I am involved in study about a huge range of protocols, ranging from SMPP to NFS, NTP, SSL and SIP. Although I already knew the basics for these protocols, I needed to improve my knowledge in order to be able to troubleshoot efficiently when implementation problems arise.\n\u2022\tI have gained thorough knowledge of MRTG and Ethereal, two network traffic-analyzing tools.\n\u2022\tI know how to implement Sun Cluster environments, Cisco router networks and how to implement RSA SecurID environments.",
+                    "title": "Technical Specialist IT",
+                    "employment_type": null
+                },
+                {
+                    "location": "The Hague Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2001
+                        },
+                        "end": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2003
+                        }
+                    },
+                    "company": "KPN",
+                    "description": "From January 2001 until October 2001, I was been involved in the start phase of the IN-All-Query project. This project was initiated to replace the IN-platform by a new platform, which could be seen as a predecessor of an IMS platform.\n\nI was responsible for the architecture of network management, security, provisioning, user and maintenance interfaces and security. We initiated and processed RFI and RFQ procedures but due to business reversals in the IT sector the project was cancelled.\n\nAt the end of 2001, KPN decided to assume control of their subsidiary, KPN-Belgium. I was responsible for the management of the KPN-Belgium IN-platform. I took over all responsibilities within a time span of two months, without causing any negative impact on customer service quality.\n\nDuring this replacement project I performed the same tasks as within the All-query project. In this project it was decided to replace the CMIP protocol by the SNMP protocol, but using the same Sun SEM application. I produced and coordinated the configurations and adaptations needed for SEM. I also participated in the writing and executing of test cases, the training for employees, and was responsible for supply and maintenance activities.\n\nIn early 2003 I participated in the connection of the IN-platform network management system to the NetCool software as part of a big KPN NetCool migration project.\n\nDue to the importance of the IN-platform, I proposed a development project guaranteeing that a functional specification would be created to bring the practical implementation and testing of the interfaces under control. As a result we were able to implement the NetCool interface completely within four months.\n\nLessons learned;\n\u2022\tI have improved my knowledge/experience of process management and ISO certification principles.\n\u2022\tEven though the circumstances of the KPN - Belgium take over were not particularly positive, I have gained much valuable experience working in another country.",
+                    "title": "System Engineer IN Network Management Systems/ Senior Functional Manager",
+                    "employment_type": null
+                },
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 1999
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2000
+                        }
+                    },
+                    "company": "KPN",
+                    "description": "The department where I worked was a new department and I was responsible for the implementation of structured business procedures within the department. This task was accomplished within a year.\n\nOne of my first tasks was to set up a department site on the KPN Intranet. Within a few months we had a site, stating the purpose of the IN-platform, and providing information about the department.\n\nI worked on all major projects with IN since the introduction of the NP service. These projects were the IN implementation of Call Completion to Busy Subscriber (CCBS), Carrier (pre) Selection (CPS) and Service Number Portability (SNP, an enhanced version of NP, including billing functionalities). \n\nWithin these projects I participated in the functional specification phase, the design reviews, preparation of test cases, based on the functional specifications, the execution of test cases, and implementation of the services\n\nIn 2000 I coached a trainee for an IT high school who had been commissioned by our department to set up a version management system. Although the system performed well and the trainee graduated, approximately half a year after completion, it was decided that our main supplier would be responsible for version management and the system was discontinued.\n\nLessons learned;\n\u2022\tI learned to do systems administration for the Stratus Unix system and with high availability applications and systems.\n\u2022\tI improved my skills as a team leader. Although I have not been a manager yet, I led small teams and achieved predefined goals.\n\u2022\tI gained knowledge about SS-C7 telephony signaling system, with special attention for the INAP protocol stack.",
+                    "title": "IN Platform Network Element Project Engineer",
+                    "employment_type": null
+                },
+                {
+                    "location": "Hilversum/ Amersfoort",
+                    "date": {
+                        "start": {
+                            "month": 2,
+                            "day": null,
+                            "year": 1996
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 1998
+                        }
+                    },
+                    "company": "KPN",
+                    "description": "As a Functional  application manager I participated in all phases of a network management system replacement project from the development of functional requirements through the testing and implementation phases. The system, which was delivered, is still in use, although of course some enhancements have been made.\nNormal activities in my position during this time were:\n-\tCheck Requests for Changes (RfCs) for correctness and feasibility.\n-\tTogether with release management, make sure that RfCs are scheduled for a software release.\n-\tAct as a \"super user\" for the departments working with the system. I was experienced in the system use, and in the procedures used by all the departments.\n-\tSolve incidents and investigate problems to find the root cause. Together with the supplier, solutions for problems were found and corrected.\n-\tCreate reports with regard to system functionality, capacity etc.\n-\tParticipate in the testing of new software and hardware.\n\nSince early 1997 I assisted my department manager during his absence with relation to the network management group (consisting of eight people including myself).\n\nLessons learned;\n\u2022\tI successfully learned to work according to the ITIL (\"Information Technology Infrastructure Library\", a set of best practices with relation to IT support) principles, \n\u2022\tI learned some management skills from my own manager, who gave me the opportunity to assume responsibility for some of his functions. \n\u2022\tI learned to work with relational database management systems, SQL (Structured Query Language) and have enhanced my knowledge of the UNIX operating systems, which were in use for the VVIS project at that time.\n\u2022\tI have learned the basic principles of project management by on-the-job experience, but also by taking a course in that subject.",
+                    "title": "Functional Application Manager",
+                    "employment_type": null
+                },
+                {
+                    "location": "Amersfoort/ Hilversum",
+                    "date": {
+                        "start": {
+                            "month": 11,
+                            "day": null,
+                            "year": 1994
+                        },
+                        "end": {
+                            "month": 2,
+                            "day": null,
+                            "year": 1996
+                        }
+                    },
+                    "company": "KPN",
+                    "description": "In late 1994, I started as a network manager for the VVIS (Leased Line Infra Structure) project. \n\nThe goal of the VVIS project was to introduce a 30.000 leased line network for circuits with a 64kbps-2Mbpscapacity using Cabletron Spectrums\u2019 TMN as the core of network management. The service management systems had been delivered by Cincinnati Bell Information Systems (now called Convergys) who was also the main contractor. The equipment in use was Ericsson multiplexers and switches and Lucent digital cross connects. A co-worker and I were responsible for the support of the network itself, for troubleshooting, for testing of new software releases, and for training of other employees who would do the normal network and service support. \n\nDue to problems with performance and stability I worked 800 overtime hours that year, to make sure that the availability was as high as possible and was awarded a bonus for that success.\n\nLessons learned;\n\u2022\tThrough On-the-job training, I mastered the HP-UX, Solaris and Irix Operating systems and learned to work with Internet technology.\n\u2022\tMy knowledge of the English language was greatly enhanced by the fact that the main language at this department was English.  This was because of the American supplier being on site during the project. In addition, it was a great opportunity to learn to work with people from other cultures and countries in general.\n\u2022\tI have learned to understand the principles of the Telecommunications Management network and how to use these principles in network management.\n\u2022\tSince the system at the time was quite unstable, I learned to improvise effectively. Often we had to change plans, because of glitches due to system limitations.",
+                    "title": "Network Manager",
+                    "employment_type": null
+                },
+                {
+                    "location": "Amersfoort",
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 1994
+                        },
+                        "end": {
+                            "month": 10,
+                            "day": null,
+                            "year": 1994
+                        }
+                    },
+                    "company": "KPN",
+                    "description": "In 1994 I promoted within the department that I started working for in 1991. The new job was essentially identical to the previous job; however as a \"senior\", I was also responsible for customer relations' management for some of the Top-60 customers with leased line maintenance & support.\nIn mid- 1994 I was asked to assist in the setup of a small network as a predecessor of the VVIS (Leased Line Infrastructure project). The VVIS project was started to deliver managed leased line services to customers who wanted to have leased lines with a capacity ranging from 64kbps until and including 2 Mbps. The VVIS project took more time than expected, and to help our customers, it was decided to build a network using Craycom multiplexers and the Craycom Network Control System. I have written some of the service manuals for this specific implementation of the multiplexers and the Network Control System.  This was because the supplier no longer existed, and there was no good available documentation.\n\nLessons learned;\n\u2022\tI improved my presentation and customer care skills in order to help the Top-60 customers whose business was my responsibility.",
+                    "title": "Senior Helpdesk Employee",
+                    "employment_type": null
+                },
+                {
+                    "location": "Amersfoort",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 1991
+                        },
+                        "end": {
+                            "month": 4,
+                            "day": null,
+                            "year": 1994
+                        }
+                    },
+                    "company": "KPN",
+                    "description": "My first real job after finishing college was with KPN (Then called PTT) at their new department, which provided technical assistance for remotely managed leased lines.  These leased lines had a capacity ranging from 1200 bps up to, and including 64 kbps. The department was responsible for solving operational problems with these lines within 2 hours and for giving technical support to customers at a 24x7 base. After a few months, the department was chosen as the single point of contact for the Top-60 of important customers for all their leased lines.\n\nIn 1992 I had the opportunity to write a training manual for the leased line support employees and give them the training as well, in order to improve their product knowledge.\n\nIn 1993 I became the main point of contact for some researchers who were busy investigating the relationship between engineers carrying out maintenance activities and glitches within the networks. This investigation led to the introduction of an ESD awareness program a few years later. My job was to extract the necessary information from a variety of systems and databases, and make sure the research people could process the information.\nDuring this job, I was also the point of contact for all PC related issues between the department I worked for and the IT-department.\n\nLessons learned;\n\u2022\tA lot of training was given to the employees about all kinds of transmission systems, interfaces, and leased line network architectures etc. Participating in this improved my knowledge of these systems greatly.\n\u2022\tI learned the skills of a trainer and can transfer knowledge effectively.",
+                    "title": "Junior helpdesk employee",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "KoninklijkeLandmacht",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 1990
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 1991
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Ede, Den Bosch, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "day": null,
+                            "year": 1990
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": 1991
+                        }
+                    },
+                    "company": "KoninklijkeLandmacht",
+                    "description": "During my hitch in the military, I was responsible for the maintenance of the radio equipment (Philips FM RT-3600) for an armored infantry group consisting of twelve armored personnel carriers, four Leopard tanks and a few other vehicles. I worked with two other people in a small team and our efforts got the group a bonus two times based on the high quality of maintenance services provided.",
+                    "title": "Radio Onderhoudsmonteur",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "NIRA",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 1989
+                },
+                "end": {
+                    "month": 10,
+                    "day": null,
+                    "year": 1989
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Utrecht Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 1989
+                        },
+                        "end": {
+                            "month": 10,
+                            "day": null,
+                            "year": 1989
+                        }
+                    },
+                    "company": "NIRA",
+                    "description": "After Graduation, I worked for a few months at an Ericsson subsidiary as a repair engineer for analog and digital pagers. I had already been employed as a cooperative student (apprentice) while still in school a year earlier.",
+                    "title": "Paging Systems Repair Engineer",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [
+        {
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "role": "Allround volunteer",
+            "company": {
+                "id": null,
+                "name": "Stichting Honswijk - Everdingen",
+                "logo": null,
+                "url": null
+            },
+            "cause": "ENVIRONMENT",
+            "description": "Being a core-team member and helping with historical research, guided tours, IT and maintenance of the Everdingen Fortress."
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "role": "All round volunteer",
+            "company": {
+                "id": null,
+                "name": "Privately organized",
+                "logo": null,
+                "url": null
+            },
+            "cause": "CIVIL_RIGHTS",
+            "description": "Helping as volunteer tokeep veteran vehicles running and at Army events for veterans and museums, samples include Unifil veterans days,special occasions at museums and keeping the radio's of an old veterans vehicle in running order."
+        }
+    ],
+    "skills": [
+        "Security System Design",
+        "System Architecture",
+        "Network Architecture",
+        "ITIL",
+        "High Availability",
+        "Architecture",
+        "Linux",
+        "Security Policy",
+        "Network Security",
+        "Disaster Recovery",
+        "Solaris",
+        "IT Service Management",
+        "Troubleshooting",
+        "Operating Systems",
+        "System Administration",
+        "Servers",
+        "Network Administration",
+        "Unix",
+        "Firewalls",
+        "XML"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

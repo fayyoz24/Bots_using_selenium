@@ -1,0 +1,866 @@
+{
+    "profile_id": "thejoostvisser",
+    "first_name": "Joost",
+    "last_name": "Visser",
+    "sub_title": "Full-stack Developer at Eleo\u30fbPassionate problem solver",
+    "profile_picture": "https://media.licdn.com/dms/image/D4E03AQFt0dnxrvA4kw/profile-displayphoto-shrink_800_800/0/1679412409868?e=1701302400&v=beta&t=QTjZ0YeIcGGok1Jxrs7eQ8fPAqVT50gu3-57oa55WbY",
+    "background_image": "https://media.licdn.com/dms/image/C4E16AQEKw2Z3GGfzZg/profile-displaybackgroundimage-shrink_350_1400/0/1517279580839?e=1701302400&v=beta&t=nIyqnbTOCpg2Y63Y6dTAmA0SWqQr5YtHPf59l8xl8Zs",
+    "profile_type": "personal",
+    "entity_urn": "ACoAABYdkMcBrKLQLm-DFtVCaJf981cYAeoud-M",
+    "object_urn": 371036359,
+    "birth_date": null,
+    "summary": "Greetings,\n\nMy mission is to use my skills to make a positive impact on the world, while also creating tools and experiences that bring joy and happiness.\n\nLike many, my fascination with programming began as a childhood hobby. Starting with simple games and websites, I was immediately drawn to the combination of problem-solving and technology.\n\nNow, years later, I am still coding.\nAnd I still love it.\n\nAs a passionate problem-solver and inspirational team player, I'm dedicated to using the latest technology to improve people's lives. My strong focus on maintainability and quality helps me create robust solutions for the world's ever-evolving needs. Although my background covers a wide range of areas, I have honed my skills in Python and Rust to become highly proficient in these languages.\n\nIn my spare time, I am passionate about exploring the world and immersing myself in different cultures. I have lived in both Sweden and Japan, which has given me unique perspectives and experiences. So far, I have travelled to over 25 countries and plan to visit many more. Exploring new places and meeting new people helps me to broaden my horizons and inspires me to approach challenges from different angles.\n\nThank you for reading my story. Take care!",
+    "location": {
+        "country": "Netherlands",
+        "short": "Eindhoven, North Brabant",
+        "city": "Eindhoven",
+        "state": "North Brabant",
+        "default": "Eindhoven, North Brabant, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [
+        {
+            "url": "https://arxiv.org/pdf/1902.02693.pdf",
+            "title": "StampNet: unsupervised multi-class object discovery",
+            "description": "My thesis research, which has been published as a paper in ICIP 2019. \n\nThe topic of the thesis is to find different objects in each image without the use of labels.",
+            "image": null
+        }
+    ],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "Dutch",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "English",
+                "proficiency": "FULL_PROFESSIONAL"
+            },
+            {
+                "name": "Japanese",
+                "proficiency": "LIMITED_WORKING"
+            }
+        ]
+    },
+    "industry": "Computer Software",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "school": {
+                "name": "Eindhoven University of Technology",
+                "logo": "https://media.licdn.com/dms/image/C560BAQG4PGSYiNG4CA/company-logo_400_400/0/1642150189320?e=1703721600&v=beta&t=omf4Ziy8Suete_GTJ3Qn1mOBS7ZrKSPido6Ld2LseBU",
+                "url": "https://www.linkedin.com/school/eindhoven-university-of-technology/"
+            },
+            "degree_name": "Master of Science (M.Sc.)",
+            "field_of_study": "Computer Science and Engineering",
+            "grade": "Average: 8.7 (Cum Laude)"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "school": {
+                "name": "Tohoku University",
+                "logo": "https://media.licdn.com/dms/image/C510BAQGGb5QUpJS2SQ/company-logo_400_400/0/1519960230265?e=1703721600&v=beta&t=5KV7uTcCyRxABQLovgm37h7PE0B47XDFb1nbCzkKGdc",
+                "url": "https://www.linkedin.com/school/tohoku-univ/"
+            },
+            "degree_name": null,
+            "field_of_study": "Graduate School of Information Science",
+            "grade": "AA"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "school": {
+                "name": "Eindhoven University of Technology",
+                "logo": "https://media.licdn.com/dms/image/C560BAQG4PGSYiNG4CA/company-logo_400_400/0/1642150189320?e=1703721600&v=beta&t=omf4Ziy8Suete_GTJ3Qn1mOBS7ZrKSPido6Ld2LseBU",
+                "url": "https://www.linkedin.com/school/eindhoven-university-of-technology/"
+            },
+            "degree_name": "Bachelor of Science (BSc)",
+            "field_of_study": "Software Science",
+            "grade": "Average 7.6"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "school": {
+                "name": "M\u00e4lardalen University",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQHp3qVQRDA9sg/company-logo_400_400/0/1651826287937?e=1703721600&v=beta&t=3CncmwmrizMoHf98Qt-naG1VKpdY9dgRVSSEswZFs9s",
+                "url": "https://www.linkedin.com/school/malardalens-universitet/"
+            },
+            "degree_name": null,
+            "field_of_study": "Intelligent Embedded Systems",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2007
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "school": {
+                "name": "Nehalennia",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "VWO",
+            "field_of_study": null,
+            "grade": "\u201cScience & Health\u201d and \u201cScience & Technology\u201d"
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [
+        {
+            "name": "Machine Learning",
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Coursera Course Certificates",
+            "url": "https://www.coursera.org/account/accomplishments/verify/3MQ6ZP82LXNJ",
+            "license_number": "3MQ6ZP82LXNJ",
+            "display_source": "coursera.org",
+            "company": {
+                "id": null,
+                "name": "Coursera Course Certificates",
+                "logo": "https://media.licdn.com/dms/image/C560BAQG24u4DKpQ5dQ/company-logo_400_400/0/1519872880167?e=1703721600&v=beta&t=8vKeASx7tVQjpnz7ufoMukQR2V0rjw_xIJcw_BnIuUw",
+                "url": null
+            }
+        }
+    ],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "Fortune Slip Generator",
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2023
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2023
+                }
+            },
+            "description": "Have a look at the source code here: https://github.com/JoostVisser/fortune-slip-generator\n\nThe fortune slip generator generates a randomized PDF with fortune slips. These can be printed and folded into small fortune slips. \n\nThis was a small project in my spare time to help out a student association, while also brushing up my Rust skills.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Joost",
+                    "last_name": "Visser",
+                    "name": null,
+                    "headline": "Full-stack Developer at Eleo\u30fbPassionate problem solver"
+                }
+            ]
+        },
+        {
+            "title": "TravelMatch",
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "description": "A smartphone/tablet app that creates a TravelDNA based on the liking and disliking of travel images. This TravelDNA is used to give personal recommendations for the user. This includes a location and an accommodation within the user's budget.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Dennis",
+                    "last_name": "van den Brand",
+                    "name": null,
+                    "headline": "CTO of Mithra-Ai Solutions | Cognitive Spend Intelligence platform for procurement"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Shanchuan",
+                    "last_name": "H.",
+                    "name": null,
+                    "headline": "Software Engineer at Zanders"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Jeroen",
+                    "last_name": "van Hoof",
+                    "name": null,
+                    "headline": "Software Engineer (SRE) at Rabobank"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Geert Linders",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Martijn Muijsers",
+                    "headline": null
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Guido",
+                    "last_name": "Santegoeds",
+                    "name": null,
+                    "headline": "Director Digital Learning & Development at KLM Royal Dutch Airlines"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Lieuwe Stooker",
+                    "headline": null
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Joost",
+                    "last_name": "Visser",
+                    "name": null,
+                    "headline": "Full-stack Developer at Eleo\u30fbPassionate problem solver"
+                }
+            ]
+        },
+        {
+            "title": "Embedded Systems Project",
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "description": "The scope of the project was to expand the basic functionality of a real time operating system called ROSA. \n\nImplemented the following additional features:\n- A scheduler with pre-emption and priorities\n- Dynamic task creation and termination\n- Relative and absolute delays\n- Semaphores",
+            "contributors": [
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Erick Vieyra",
+                    "headline": null
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Joost",
+                    "last_name": "Visser",
+                    "name": null,
+                    "headline": "Full-stack Developer at Eleo\u30fbPassionate problem solver"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Sharmin Sultana",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Xiaosha Zhao",
+                    "headline": null
+                }
+            ]
+        },
+        {
+            "title": "Solar Olympics",
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2011
+                }
+            },
+            "description": "Designing and building a soda machine on solar energy; obtained the Public Choice Award.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Joost",
+                    "last_name": "Visser",
+                    "name": null,
+                    "headline": "Full-stack Developer at Eleo\u30fbPassionate problem solver"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Olivier Verhaar",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Vivian Koopmanschap",
+                    "headline": null
+                }
+            ]
+        }
+    ],
+    "publications": [],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 11770709,
+                "name": "ELEO",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQGa8PxtOWl50g/company-logo_400_400/0/1680773763128?e=1703721600&v=beta&t=DKY-s1dA7-4oZBr7j-fyBNWOwSQ4sgOXNfnQhOyGia8",
+                "url": "https://www.linkedin.com/company/eleo-tech/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2023
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Helmond, North Brabant, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2023
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "ELEO",
+                    "description": "ELEO develops modular batteries for off highway vehicles.\n- Developed and designed the battery servicing tool and API.\n- Set up our CI pipeline\n- Acted as our SCRUM master",
+                    "title": "Full-stack Developer a.i.",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 17941928,
+                "name": "Lightyear",
+                "logo": "https://media.licdn.com/dms/image/C560BAQH1sOdQkDpbvw/company-logo_400_400/0/1654798863210?e=1703721600&v=beta&t=GM1a1YfLvH7TADWfNIxVN9WwQYEBaSrigcnFCIwOZBY",
+                "url": "https://www.linkedin.com/company/lightyear.one/",
+                "employees": {
+                    "start": 501,
+                    "end": 1000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2023
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Helmond, North Brabant, Netherlands -- Vacated position due to bankruptcy",
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2023
+                        }
+                    },
+                    "company": "Lightyear",
+                    "description": "My team is part of the general software domain, where we help our fellow colleagues in various things, guiding them towards a better and more efficient workflow!\n\nThink of hardware automation, library management, tool creation and more.",
+                    "title": "Embedded Software Engineer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 13515,
+                "name": "Avans University of Applied Sciences",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQFGwkWEXbj5uQ/company-logo_400_400/0/1550478171839?e=1703721600&v=beta&t=Vad6-QozUWr6ZeCFQKhorZDO1WQuiyiA2RJhtANfAgA",
+                "url": "https://www.linkedin.com/school/avans-hogeschool/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Breda, North Brabant, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2021
+                        }
+                    },
+                    "company": "Avans University of Applied Sciences",
+                    "description": "I taught the course \"Algorithms and Data Structures\", teaching all basic Java data structures and basic algorithm concepts such as time complexity analysis to third-year HBO Computer Science students.",
+                    "title": "University Teacher (HBO)",
+                    "employment_type": "Freelance"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 27098588,
+                "name": "SmartQare BV",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQFXRJsvLchWnA/company-logo_400_400/0/1694286462759?e=1703721600&v=beta&t=JD2yE2EYITB_HobeEqBQyGDPsQvINSnGDngj0qIjI8A",
+                "url": "https://www.linkedin.com/company/smartqare/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Eindhoven, North Brabant, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2020
+                        },
+                        "end": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2021
+                        }
+                    },
+                    "company": "smartQare",
+                    "description": "SmartQare is a small company that creates an upper-arm medical device that measures health parameters such as blood oxygen saturation.\n\nI was responsible for the fall-detection algorithm development. \nOther parts of the company I worked on were: \n> Team building: improved knowledge sharing and brought the team together\n\u2028> Project planner: Introduced planning and retrospective sessions to the group\n\u2028> QMS support: Helped with the Quality Management System and wrote procedures\n\u2028> Project management: Managed a literature study with external parties\u2028\n> Embedded support:  Sensor configuration of our embedded device\n\u2028> Confluence master: Reworked documentation space, wrote custom macros",
+                    "title": "Algorithm Research Developer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 33200573,
+                "name": "Self Employed",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQH3nUDO57s78A/company-logo_400_400/0/1531936161449?e=1703721600&v=beta&t=8btK-iDb5uI2TGPTBScIWu6nSxenHc28tXCBPkmot8c",
+                "url": "https://www.linkedin.com/company/indpendent-contractor/",
+                "employees": {
+                    "start": 0,
+                    "end": 1
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Eindhoven Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "Self Employed",
+                    "description": "Developing a portfolio website: evelienflipsen.github.io.",
+                    "title": "Frontend Developer",
+                    "employment_type": "Self-employed"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "JCES Kinjin",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Eindhoven Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2017
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2018
+                        }
+                    },
+                    "company": "JCES Kinjin",
+                    "description": "Chairman of the Japanese culture association Kinjin.\n\nDuring this year, we moved locations and organised special activities and festivals in honour of our lustrum.\nMy responsibilities were managing the board, networking with others, task management, internal communication and external communication.",
+                    "title": "Chairman Of The Board",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "NWERC 2016",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Bath, United Kingdom",
+                    "date": {
+                        "start": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2016
+                        }
+                    },
+                    "company": "NWERC 2016",
+                    "description": "Our team finished the first of the Netherlands, on the 13th overall place of the 114 participants.\n\nNWERC is an international algorithm contest for university students of North-Western Europe. \nNWERC has two preliminary rounds: one local in Eindhoven and the Benelux version called BAPC.",
+                    "title": "Participant of international Algorithm contest",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 4838,
+                "name": "TU/e Eindhoven University of Technology",
+                "logo": "https://media.licdn.com/dms/image/C560BAQG4PGSYiNG4CA/company-logo_400_400/0/1642150189320?e=1703721600&v=beta&t=omf4Ziy8Suete_GTJ3Qn1mOBS7ZrKSPido6Ld2LseBU",
+                "url": "https://www.linkedin.com/school/eindhoven-university-of-technology/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Eindhoven",
+                    "date": {
+                        "start": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2016
+                        }
+                    },
+                    "company": "Eindhoven University of Technology",
+                    "description": "Helping students during tutorials and lab sessions, as well as grading assignments every week.",
+                    "title": "Student Assistent",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 33200573,
+                "name": "Self Employed Web Developer and Web Designer",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQH3nUDO57s78A/company-logo_400_400/0/1531936161449?e=1703721600&v=beta&t=8btK-iDb5uI2TGPTBScIWu6nSxenHc28tXCBPkmot8c",
+                "url": "https://www.linkedin.com/company/indpendent-contractor/",
+                "employees": {
+                    "start": 0,
+                    "end": 1
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2016
+                        }
+                    },
+                    "company": "Self Employed",
+                    "description": "Hosting and developing a website for a catering business at a swimming pool. This website is hosted on Nginx on a Debian 8 server and is written in Ruby on Rails, using HAML, SCSS and CoffeeScript. \n\nThe website can be found on http://horecatilburg.nl",
+                    "title": "Full Stack Developer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "NWERC 2015",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Link\u00f6ping, Sweden",
+                    "date": {
+                        "start": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2015
+                        }
+                    },
+                    "company": "NWERC 2015",
+                    "description": "Our team finished in the top half of the tournament of NWERC.\n\nNWERC is an international algorithm contest for university students of North-Western Europe. \nNWERC has two preliminary rounds: one local in Eindhoven and the Benelux version called BAPC.",
+                    "title": "Participant of international algorithm contest",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "C++",
+        "Continuous Integration (CI)",
+        "Flutter",
+        "Dart",
+        "Node.js",
+        "Presentation Skills",
+        "Embedded Software",
+        "Python (Programming Language)",
+        "Rust (Programming Language)",
+        "Test Automation",
+        "Continuous Integration and Continuous Delivery (CI/CD)",
+        "Computer Science",
+        "Python",
+        "Recommender Systems",
+        "Embedded Systems",
+        "Java",
+        "Django",
+        "Software Science",
+        "Tutoring",
+        "Microsoft Word"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

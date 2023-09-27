@@ -1,0 +1,625 @@
+{
+    "profile_id": "sivard-cardoze-a8368815",
+    "first_name": "Sivard",
+    "last_name": "Cardoze",
+    "sub_title": "Senior Security and Design Network Engineer at Destiny automatisering (retired)",
+    "profile_picture": null,
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAAAMgHAMBIoTU_GlqrDYNXByVNXYLqqtP3YA",
+    "object_urn": 52435971,
+    "birth_date": null,
+    "summary": "Former Warehouse Management Systems Operator, currently network and system engineer who has experience with testing, implementing and problem solving with Witron systems, Cisco and Juniper equipment and Windows Servers.\nNetwork specialisation fields of network design and network security.\n\nLikes network engineering and hopes to progress in that field. Always interested in testing and implementing both networks and applications.\n\nSpecialties: Cisco network equipment (CCNA, CCDA, CCDP, CCNP certified).\nCisco network security (CCNA Security certified).\nCisco network specialist (Cisco IOS Security Specialist)\nCisco 700 & 800 series routers.\nLinksys RV-series.\nJuniper SSG-5, SSG-140, SRX-100 firewalls.",
+    "location": {
+        "country": "Netherlands",
+        "short": "Tilburg, North Brabant",
+        "city": "Tilburg",
+        "state": "North Brabant",
+        "default": "Tilburg, North Brabant, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "Catalan",
+                "proficiency": null
+            },
+            {
+                "name": "English",
+                "proficiency": null
+            },
+            {
+                "name": "French",
+                "proficiency": null
+            },
+            {
+                "name": "Papiamento",
+                "proficiency": null
+            },
+            {
+                "name": "Spanish",
+                "proficiency": null
+            }
+        ]
+    },
+    "industry": "Computer Networking",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 1985
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 1992
+                }
+            },
+            "school": {
+                "name": "Tilburg University",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQHNJkPAcEjYEg/company-logo_400_400/0/1631003396114?e=1703721600&v=beta&t=NnNXRkSpVjA_wrLAVErPEhLbWbu72KlIEbDJeyvKC0o",
+                "url": "https://www.linkedin.com/school/tilburg-university/"
+            },
+            "degree_name": "Master of Arts (M.A.)",
+            "field_of_study": "Language and Computer Science",
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "Designing and Testing OSPF for core routers",
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "description": "The object was to design, configure and test OSPF for the core routers, using different type of routers while achieving full redundancy and priority routing for different type of packages and/or different type of routing protocols already implemented.\nUsing Foundry, Brocade and HP Procurves as core routers, covering the backbone and 2 adjacent areas, while also using implemented BGP (both internal as external), full redundancy with prioritizing traffic was achieved with OSPF learning all routes in less than 15 seconds of machine switching. The design, configuration and tests were successful and the design will be implemented in the upcoming months.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Sivard",
+                    "last_name": "Cardoze",
+                    "name": null,
+                    "headline": "Senior Security and Design Network Engineer at Destiny automatisering (retired)"
+                }
+            ]
+        },
+        {
+            "title": "IP-VPN Solution for Child day care center and branch office",
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "description": "Design, configure and implement an IP-VPN solution with virtual firewall for a Child day care center with (currently) 1 branch office in the north of the Netherlands. The solution entails that both centers need to be able to contact each other, access the internet, be able to access and use the servers, have remote access to either work office from anywhere via a secure interface. Possible expansion had to be taken into consideration when designing the proposed solution and configured for easy plug and play option. Design, configuration and implementation of the entire solution was assigned to me. Routing protocol chosen was RIP, version 2, with possibility to configure other protocols taken into consideration and pre-build. Routers used were Cisco 861 routers.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Sivard",
+                    "last_name": "Cardoze",
+                    "name": null,
+                    "headline": "Senior Security and Design Network Engineer at Destiny automatisering (retired)"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Wim Aarts",
+                    "headline": null
+                }
+            ]
+        },
+        {
+            "title": "Design, Configure, Implement and Merge 2 Networks",
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "description": "Design a network for a financial institution with 1 main office and 4 branch offices. All locations need to have 2 connections which will serve for data and voip and possible fallback in case of down lines. Design of ip addressing range should take merger with social institution in 2nd part of 2014 into consideration for a seemless transition. Configure all routers to be able to see and connect to all offices, use DNS server at main office and all connections to be run over ip-vpn's through a virtual firewall.\nAdded as wish of client specific routing through RIP and OSPF protocols, as well as specific DHCP ranges for specific hardware equipment with specified dhcp protocols.\nDesigned as special wish by client 1 network which could be taken apart easily and go on as separate entities should the situation of a split-up still arise.\nProject delivered February 16 with added 2 months for aftercare and addition/subtraction of extra wishes.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Sivard",
+                    "last_name": "Cardoze",
+                    "name": null,
+                    "headline": "Senior Security and Design Network Engineer at Destiny automatisering (retired)"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Wim Aarts",
+                    "headline": null
+                }
+            ]
+        },
+        {
+            "title": "Hub-Spoke Network for Gerrits Machines",
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "description": "Design, configure and implement a network for a small business with 1 main office and 4 branch offices located in the south of the Netherlands. All branch offices need to be able to learn each others ip addresses and learn the routing towards each office. The design and configuration tasks were assigned to me. Routing protocol chosen was RIP and routers used were Cisco 800 series.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Sivard",
+                    "last_name": "Cardoze",
+                    "name": null,
+                    "headline": "Senior Security and Design Network Engineer at Destiny automatisering (retired)"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Wim Aarts",
+                    "headline": null
+                }
+            ]
+        }
+    ],
+    "publications": [
+        {
+            "name": "Un entorno para la extracci\u00f3n de informaci\u00f3n sem\u00e1ntica de diccionarios (1991)",
+            "publisher": "Madrid",
+            "url": null,
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 1991
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Sivard",
+                    "last_name": "Cardoze",
+                    "name": null,
+                    "headline": "Senior Security and Design Network Engineer at Destiny automatisering (retired)"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "A. Ageno",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "I. Castellon",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "M. Taule",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "G. Rigau",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "M.A. Marti",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "H. Rodriguez",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "M.F. Verdejo",
+                    "headline": null
+                }
+            ]
+        },
+        {
+            "name": "An environment for management and extracting taxonomies from MRDs. Esprit BRA-3030 Acquilex Working Paper N\u00ba 020. 1991",
+            "publisher": "Barcelona",
+            "url": null,
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 1991
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Sivard",
+                    "last_name": "Cardoze",
+                    "name": null,
+                    "headline": "Senior Security and Design Network Engineer at Destiny automatisering (retired)"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "A. Ageno",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "I. Castellon",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "M. Taule",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "G. Rigau",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "M.A. Marti",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "H. Rodriguez",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "M.F. Verdejo",
+                    "headline": null
+                }
+            ]
+        }
+    ],
+    "courses": [
+        {
+            "name": "CCDA",
+            "number": null
+        },
+        {
+            "name": "CCDP",
+            "number": null
+        },
+        {
+            "name": "CCENT",
+            "number": null
+        },
+        {
+            "name": "CCIE R&S Written",
+            "number": null
+        },
+        {
+            "name": "CCNA",
+            "number": null
+        },
+        {
+            "name": "CCNA Security",
+            "number": null
+        },
+        {
+            "name": "CCNP",
+            "number": null
+        },
+        {
+            "name": "CCNP Security",
+            "number": null
+        },
+        {
+            "name": "CCNP Service Provider",
+            "number": null
+        },
+        {
+            "name": "Cisco ASA Specialist",
+            "number": null
+        },
+        {
+            "name": "Cisco Firewall Specialist",
+            "number": null
+        },
+        {
+            "name": "Cisco IOS Sec Specialist",
+            "number": null
+        },
+        {
+            "name": "Cisco IPS Specialist",
+            "number": null
+        },
+        {
+            "name": "Cisco VPN Sec Specialist",
+            "number": null
+        },
+        {
+            "name": "JNCIA-Junos",
+            "number": null
+        },
+        {
+            "name": "JNCIS-Sec",
+            "number": null
+        }
+    ],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 2077544,
+                "name": "DSD automatisering",
+                "logo": null,
+                "url": "https://www.linkedin.com/company/dsd-automatisering/",
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2009
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Deurne",
+                    "date": {
+                        "start": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2013
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "DSD automatisering",
+                    "description": null,
+                    "title": "Senior Security and Design Network Engineer",
+                    "employment_type": null
+                },
+                {
+                    "location": "Deurne",
+                    "date": {
+                        "start": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2009
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "DSD automatisering",
+                    "description": "Network Security Engineer, specialisation with Cisco and Juniper Security Equipment",
+                    "title": "security network engineer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Schuitema BV",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 1992
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2009
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Eindhoven Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2006
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2009
+                        }
+                    },
+                    "company": "Schuitema BV",
+                    "description": "In charge of entire computer hardware and software. Branch network engineer. Configuring both hardware and software, uploading patches, maintenance to thermal printers and giving lessons to users on all levels to handle and use new equipment properly and effectively. Backing up the technical planners during holidays and/or sick leaves.",
+                    "title": "System- and Network Engineer, backup Central Tech Planner",
+                    "employment_type": null
+                },
+                {
+                    "location": "Eindhoven Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2003
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2006
+                        }
+                    },
+                    "company": "Schuitema BV",
+                    "description": "To oversee the technical side of the logistical process and troubleshoot when incidents occur. Additional tasks remain application engineer and programming for the logistical departments.\nAdded programming for the finance and control department in 2005.",
+                    "title": "Central Technical Planner, Application Engineer",
+                    "employment_type": null
+                },
+                {
+                    "location": "Eindhoven Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2000
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2003
+                        }
+                    },
+                    "company": "Schuitema BV",
+                    "description": "Provide technical and logistical input to optimize the entire logistical proces. Moving from the daily operations to the programming side to provide mid-to-long term analysis and projections for the logistical process.",
+                    "title": "WMS Operator, Application Engineer, Object Oriented Programmer",
+                    "employment_type": null
+                },
+                {
+                    "location": "Breda Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 1997
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2000
+                        }
+                    },
+                    "company": "Schuitema BV",
+                    "description": "Oversee the nightshift logistical process, thereby procuring that the workflow could continue with as little trouble as possible. Troubleshooting for both hardware and software to allow both orderpicking and stockkeeping software applications to keep functioning even if one, or both were to go down.",
+                    "title": "Operations teamleader, System Engineer, Application Engineer",
+                    "employment_type": null
+                },
+                {
+                    "location": "Gilze",
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 1992
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 1997
+                        }
+                    },
+                    "company": "Schuitema BV",
+                    "description": "In charge of 4 departments during the nightshift. Oversee the picking and loading process, as well as clearing incoming goods and expediting filled trucks. Taking weekly stock inventory and monitoring security installations, with camera's, doing rounds and computer monitoring.",
+                    "title": "Nightshift teamleader",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Linux",
+        "Windows",
+        "Cisco Technologies",
+        "Troubleshooting",
+        "Unix",
+        "Testing",
+        "TCP/IP",
+        "Programming",
+        "Switches",
+        "Routing",
+        "SQL",
+        "Juniper",
+        "Routers",
+        "Firewalls",
+        "Network Security",
+        "Cisco Systems Products",
+        "Networking",
+        "Windows Server"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

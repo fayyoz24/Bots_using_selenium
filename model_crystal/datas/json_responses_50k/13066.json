@@ -1,0 +1,412 @@
+{
+    "profile_id": "ntmatter",
+    "first_name": "Thomas",
+    "last_name": "Johnson",
+    "sub_title": "System Administrator",
+    "profile_picture": "https://media.licdn.com/dms/image/C5603AQEXx98p3zpitw/profile-displayphoto-shrink_800_800/0/1516306279045?e=1701302400&v=beta&t=er12tfx0IwzhPtDW9_TijcfGsZnuBsy8DBRItpvs0kw",
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAAAFDFu4ByzIAC0oICpzupAaXutQ28TzyB6E",
+    "object_urn": 21173998,
+    "birth_date": null,
+    "summary": "Strongly multidisciplinary system administrator and occasional developer. Highly focused on using automation and scripting to simplify tedious tasks and improve quality of life.\n\nSpecialties: scripting, automation, virtualization, storage, systems administration, tinkering",
+    "location": {
+        "country": "Netherlands",
+        "short": "Amsterdam, North Holland",
+        "city": "Amsterdam",
+        "state": "North Holland",
+        "default": "Amsterdam, North Holland, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": []
+    },
+    "industry": "Information Technology & Services",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2001
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2006
+                }
+            },
+            "school": {
+                "name": "Simon Fraser University",
+                "logo": "https://media.licdn.com/dms/image/D560BAQGjZLT0d80adw/company-logo_400_400/0/1695749832081?e=1703721600&v=beta&t=R8SfthhcC4j8PsvW3UWFY0RsSPe3rdKTnbCuA18T1zg",
+                "url": "https://www.linkedin.com/school/simon-fraser-university/"
+            },
+            "degree_name": "Bachelor of Science (B.Sc.)",
+            "field_of_study": "Information Technology",
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [],
+    "organizations": [],
+    "projects": [],
+    "publications": [],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 166268,
+                "name": "TBWA\\Worldwide",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQHPgtf6tZhyDg/company-logo_400_400/0/1670879758684?e=1703721600&v=beta&t=09C_XnmScvDdt6Z6_ekAPS4LpbChkwNw0ByqciYWg14",
+                "url": "https://www.linkedin.com/company/tbwa/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amsterdam, North Holland, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "TBWA\\Worldwide",
+                    "description": "Responsible for administration and upkeep of 200-300 virtual Linux and Windows systems, including underlying networking, storage, and hypervisor, spread across multiple sites. Decommissioned datacenter and migrated to cloud. Built test lab from leftover hardware to help colleagues improve their skills.\n\nMajor Highlights: Replaced malfunctioning legacy NSX installation with standard networking, improving reliability for all services. Orchestrated a full data center migration with minimal side effects. Ongoing discovery and rebuild of undocumented systems.",
+                    "title": "System Administrator",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 81677982,
+                "name": "180 Amsterdam",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQGAWvWB4XSnYw/company-logo_400_400/0/1642152112432?e=1703721600&v=beta&t=ibttvZ2zD0hlRbcwZqBqHvY22FbwBz85BqEGOB7uxes",
+                "url": "https://www.linkedin.com/company/180-global/",
+                "employees": {
+                    "start": 201,
+                    "end": 500
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amsterdam Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2011
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "180 Global",
+                    "description": "System Administrator for approximately 70 physical Macs, 100 Windows/Mac/Linux VMware VMs, and Remote Desktop Services farm on a 2-node Hyper-V Cluster. Also responsible for packaging/testing/deploying new software, troubleshooting, upgrades, inventory monitoring, and incremental maintenance.\n\nProvided additional support and integration for Linux and FreeBSD systems and services with existing Active Directory and Backup infrastructure. Eventually replaced Retrospect infrastructure with Veeam Backups, Veeam Replication, and DFS Replication.\n\nPlanned, tested, and executed P2V migration of 40 Windows, Mac, Linux, and FreeBSD servers to a low-cost VMware Cluster built on spare desktop hardware, eventually grown to run all core infrastructure.\n\nResearched, planned, and executed a full replacement of core network stack.\n\nImplemented experimental Fibre Channel target on FreeBSD/ZFS for use as near-line Xsan capacity storage.\n\nIntroduced Git and Salt for basic configuration management tasks. Educated co-workers on usage.",
+                    "title": "Information Technology - Mac and Unix Specialist",
+                    "employment_type": "Permanent"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "OGS Netherlands B.V.",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amsterdam, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2018
+                        }
+                    },
+                    "company": "OGS Netherlands B.V.",
+                    "description": "System Administrator and Support role, covering storage, virtualization, automation, and networking.",
+                    "title": "Information Technology - Mac and Unix Specialist",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 81677982,
+                "name": "180 Amsterdam (RIOT)",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQGAWvWB4XSnYw/company-logo_400_400/0/1642152112432?e=1703721600&v=beta&t=ibttvZ2zD0hlRbcwZqBqHvY22FbwBz85BqEGOB7uxes",
+                "url": "https://www.linkedin.com/company/180-global/",
+                "employees": {
+                    "start": 201,
+                    "end": 500
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2009
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2010
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amsterdam Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2009
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2010
+                        }
+                    },
+                    "company": "180 Global",
+                    "description": "Managed a high-volume merge/deploy SCM workflow for development team. Partially automated deployment process to reduce tedious manual overhead involved in common deploys.\n\nSupplementary roles and tasks included:\n - Initial design and planning for QA and Deployment processes\n - Technical support for external development partners and service providers\n - Prototyping of Akamai-based site templating engine\n - System administration and maintenance for Windows and OpenSolaris machines\n - Integration of various services with Active Directory authentication and authorization\n - Design and Implementation of tools and services to support developers and external parties\n - Oversight and Consultation for implementation of numerous multilingual Facebook Applications\n - Analysis of Facebook application usage with purpose-built Groovy/Java spider for REST and Graph APIs\n - Administration and support for international Facebook fan page\n - Design and implementation of backend for Facebook publishing toolchain",
+                    "title": "Deployment Manager",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 5735,
+                "name": "Blast Radius",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQErgGGr9AfqcQ/company-logo_400_400/0/1519856513363?e=1703721600&v=beta&t=tGtd6AbBK4SXoTEZlJDYPENdVe6iSXhvJhYtjAnmn7c",
+                "url": "https://www.linkedin.com/company/blast-radius/",
+                "employees": {
+                    "start": 201,
+                    "end": 500
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2007
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2009
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Vancouver, Canada Area",
+                    "date": {
+                        "start": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2007
+                        },
+                        "end": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2009
+                        }
+                    },
+                    "company": "Blast Radius",
+                    "description": "Provided QA services for numerous e-commerce sites including Jenny Craig, NutriSystem, and Electronic Arts.\n\nRelocated to Amsterdam office to fill internal position.",
+                    "title": "Quality Assurance Analyst",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 165977,
+                "name": "Simon Fraser University",
+                "logo": "https://media.licdn.com/dms/image/D560BAQGjZLT0d80adw/company-logo_400_400/0/1695749832081?e=1703721600&v=beta&t=R8SfthhcC4j8PsvW3UWFY0RsSPe3rdKTnbCuA18T1zg",
+                "url": "https://www.linkedin.com/school/simon-fraser-university/",
+                "employees": {
+                    "start": 5001,
+                    "end": 10000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2006
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2007
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2006
+                        },
+                        "end": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2007
+                        }
+                    },
+                    "company": "Simon Fraser University",
+                    "description": "Designed and implemented a tool for research in to painterly rendering algorithms and techniques",
+                    "title": "Research Assistant",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 165977,
+                "name": "Simon Fraser University",
+                "logo": "https://media.licdn.com/dms/image/D560BAQGjZLT0d80adw/company-logo_400_400/0/1695749832081?e=1703721600&v=beta&t=R8SfthhcC4j8PsvW3UWFY0RsSPe3rdKTnbCuA18T1zg",
+                "url": "https://www.linkedin.com/school/simon-fraser-university/",
+                "employees": {
+                    "start": 5001,
+                    "end": 10000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2005
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2006
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2005
+                        },
+                        "end": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2006
+                        }
+                    },
+                    "company": "Simon Fraser University",
+                    "description": "Extended the functionality of a Java-based online learning application and collaboration tool",
+                    "title": "Research Assistant",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "VMware",
+        "Networking",
+        "HP Storage",
+        "System Administration",
+        "Linux",
+        "Mac",
+        "Git",
+        "Virtualization",
+        "Shell Scripting",
+        "Java",
+        "Subversion",
+        "Integration",
+        "Unix",
+        "Quality Assurance",
+        "JavaScript",
+        "Troubleshooting",
+        "XML",
+        "Agile Methodologies",
+        "Operating Systems",
+        "CSS"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

@@ -1,0 +1,489 @@
+{
+    "profile_id": "marius-valeriu-stanciu-a2ba24130",
+    "first_name": "Marius-Valeriu",
+    "last_name": "Stanciu",
+    "sub_title": "Senior Solution Engineer at c3.ai",
+    "profile_picture": "https://media.licdn.com/dms/image/C4E03AQHMrh_Zvfw15A/profile-displayphoto-shrink_400_400/0/1605978426267?e=1701302400&v=beta&t=ISKgl7dxV0Pws1nyPAGZvM5UdioTc24bT7myqmOOMT0",
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAACAv-sMBbQvYKMPpMBvBTlmobj_SxwdtEbw",
+    "object_urn": 540015299,
+    "birth_date": null,
+    "summary": "Software Engineer and Machine Learning enthusiast with experience in Natural Language Processing",
+    "location": {
+        "country": "Netherlands",
+        "short": "Amsterdam, North Holland",
+        "city": "Amsterdam",
+        "state": "North Holland",
+        "default": "Amsterdam, North Holland, Netherlands"
+    },
+    "premium": true,
+    "influencer": false,
+    "treasury_media": [
+        {
+            "url": "https://stanciumarius.github.io/",
+            "title": "Question Answering over Linked Data using Constituency Parsing",
+            "description": "A Question Answering over Linked Data system I've been working on for quite a while now. It uses a bunch of NLP techniques such as constituency parsing, sequence classification and relation extraction to answer complex  natural language questions.",
+            "image": "https://media.licdn.com/dms/image/sync/C5627AQGEuNUZyy9v7g/articleshare-shrink_800/0/1584277732469?e=1696424400&v=beta&t=PL6MbM1PW3vxk3XmvSYw1XayzdrhtKtV-QmOtwLhKCQ"
+        }
+    ],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": []
+    },
+    "industry": "Computer Software",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "school": {
+                "name": "University POLITEHNICA of Bucharest",
+                "logo": "https://media.licdn.com/dms/image/C560BAQFElE8n_Ld3IQ/company-logo_400_400/0/1643875885275/upb1818_logo?e=1703721600&v=beta&t=7MyEbE-Gk_-k12ihurvfJnCDKrQf658rwnSeD_iOBGc",
+                "url": "https://www.linkedin.com/school/upb1818/"
+            },
+            "degree_name": "Master of Science - MS",
+            "field_of_study": "Artificial Intelligence",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "school": {
+                "name": "University POLITEHNICA of Bucharest",
+                "logo": "https://media.licdn.com/dms/image/C560BAQFElE8n_Ld3IQ/company-logo_400_400/0/1643875885275/upb1818_logo?e=1703721600&v=beta&t=7MyEbE-Gk_-k12ihurvfJnCDKrQf658rwnSeD_iOBGc",
+                "url": "https://www.linkedin.com/school/upb1818/"
+            },
+            "degree_name": "Bachelor's degree",
+            "field_of_study": "Computer Science",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2009
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "school": {
+                "name": "Colegiul National \"Dimitrie Cantemir\"\u200b Onesti",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": null,
+            "field_of_study": null,
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "Question Answering over Linked Data system",
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "description": "Developed a system that can answer natural language questions by extracting the answer from a knowledge graph (e.g. DBpedia). The system transforms the input natural language question (e.g Who is the second oldest child of Thomas Edison? ) into a structured query language (SPARQL) that is later used to query the final answer from the knowledge graph.  \nMy contributions involved implementing deep-learning-based models for parsing the query syntax, finding relevant entities within the knowledge base and building the SPARQL query.\nYou can find more details on it's dedicated page here: https://stanciumarius.github.io/",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Marius-Valeriu",
+                    "last_name": "Stanciu",
+                    "name": null,
+                    "headline": "Senior Solution Engineer at c3.ai"
+                }
+            ]
+        }
+    ],
+    "publications": [],
+    "courses": [
+        {
+            "name": "Algorithm Analysis",
+            "number": null
+        },
+        {
+            "name": "Algorithm Design",
+            "number": null
+        },
+        {
+            "name": "Data Structures",
+            "number": null
+        },
+        {
+            "name": "Machine Learning",
+            "number": null
+        },
+        {
+            "name": "Natural Language Processing",
+            "number": null
+        },
+        {
+            "name": "Network Programming",
+            "number": null
+        },
+        {
+            "name": "Numerical Methods",
+            "number": null
+        },
+        {
+            "name": "Object-Oriented Programming",
+            "number": null
+        },
+        {
+            "name": "Operating Systems",
+            "number": null
+        },
+        {
+            "name": "Parallel and Distributed Algorithms",
+            "number": null
+        },
+        {
+            "name": "Programming Paradigms",
+            "number": null
+        }
+    ],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 414478,
+                "name": "C3 AI",
+                "logo": "https://media.licdn.com/dms/image/D560BAQHGgb7gn1_KBQ/company-logo_400_400/0/1692041567673/c3_ai_logo?e=1703721600&v=beta&t=9s20NA5oyu4FNv91Df1cFnr1V6jE-qBbgZ4RRgBOF00",
+                "url": "https://www.linkedin.com/company/c3-ai-enterprise-ai/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amsterdam, North Holland, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "C3 AI",
+                    "description": null,
+                    "title": "Senior Solution Engineer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 10366783,
+                "name": "Contract.fit",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQFEE-Gli0CJkQ/company-logo_400_400/0/1615299094020/contractfit_logo?e=1703721600&v=beta&t=tKA4rYTBzTcRwK81jVdBfQIb4vYSLhJp14uwNNWPV4w",
+                "url": "https://www.linkedin.com/company/contract.fit/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Brussels, Brussels Region, Belgium",
+                    "date": {
+                        "start": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2020
+                        },
+                        "end": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "contract.fit",
+                    "description": "Developing AI models for automating information extraction on various types of documents, part of a fast paced agile team. My main contributions until now revolved around developing a ML model to identify and extract data from invoice tables.",
+                    "title": "AI Engineer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 35625889,
+                "name": "Quantamix Solutions",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQFrAK2nG1oKrw/company-logo_400_400/0/1553691423184/quantamix_solutions_logo?e=1703721600&v=beta&t=33pjWDPyqXneYIIOmqK0-9S9RsxLMKKEhjxnOqx_iNI",
+                "url": "https://www.linkedin.com/company/quantamix-solutions/",
+                "employees": {
+                    "start": 2,
+                    "end": 10
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Bucharest, Romania",
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2020
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2020
+                        }
+                    },
+                    "company": "Quantamix Solutions",
+                    "description": "Researching and developing a deep-learning based solution for generating content ideas and templates in the context of marketing and search engine optimization. My main contributions and responsibilities were using transformers, sentiment analysis, keyword extraction and semantic realization models to generate text (headlines, paragraphs) that fit certain templates and style constraints (topics, formality, sentiments, intent)",
+                    "title": "NLP Engineer",
+                    "employment_type": "Contract"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1009,
+                "name": "IBM",
+                "logo": "https://media.licdn.com/dms/image/D560BAQGiz5ecgpCtkA/company-logo_400_400/0/1688684715427/ibm_logo?e=1703721600&v=beta&t=LBj7LnCXR1v7oFam-M7-VczFqoRNDe2RLRydLKuCL0I",
+                "url": "https://www.linkedin.com/company/ibm/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Bucharest, Romania",
+                    "date": {
+                        "start": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "IBM",
+                    "description": "Working on IBM Application Discovery project, a source code analysis application for legacy programming languages such as Cobol and PL/I. Work implies developing, fixing and maintaining a distributed application written mainly in C++ and Java. The technologies and team expertise revolve around compilers, source code visualization and analysis tools, graphs and reports.",
+                    "title": "Software Engineer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 792348,
+                "name": "GNOME Foundation",
+                "logo": "https://media.licdn.com/dms/image/C560BAQE4IgSJqTsoQg/company-logo_400_400/0/1582757051905/gnome_foundation_logo?e=1703721600&v=beta&t=6-qAf3dI3Tcst081Hz30qhS_4fkm-eUDxpkGbmP8tCA",
+                "url": "https://www.linkedin.com/company/gnome-foundation/",
+                "employees": {
+                    "start": 2,
+                    "end": 10
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2016
+                        }
+                    },
+                    "company": "GNOME Foundation",
+                    "description": "A project that involved making the map view wrap horizontally in an open-source tile map rendering library called Champlain. The work involved low level programming involving efficient rendering of map tiles, working with APIs to download tiles, and GUI development. See attached blog for more details!",
+                    "title": "Google Summer of Code Student Developer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 29561,
+                "name": "KDE",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQG0Q6eb-wFSvQ/company-logo_400_400/0/1688254041142/kde_logo?e=1703721600&v=beta&t=zY0Ey_Y168RjHLYbwuq1X6VuWh0d-s4ToSqoCWoq02k",
+                "url": "https://www.linkedin.com/company/kde/",
+                "employees": {
+                    "start": 501,
+                    "end": 1000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2015
+                        }
+                    },
+                    "company": "KDE",
+                    "description": "Project consisted in adding support for OpenStreetMaps maps into Marble, an open-source virtual map application. Project insisted integrating various data formats for maps according to their schemas and implementing a GUI editor for maps.",
+                    "title": "Google Summer of Code Student Developer",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Programming",
+        "C++",
+        "C",
+        "Data Structures",
+        "Algorithms",
+        "Object-Oriented Programming (OOP)",
+        "Networking",
+        "Linux",
+        "Python (Programming Language)",
+        "Git",
+        "Machine Learning",
+        "Artificial Intelligence (AI)",
+        "Natural Language Processing (NLP)",
+        "Distributed Systems",
+        "Microsoft SQL Server",
+        "SQL DB2",
+        "Java",
+        "JavaScript",
+        "HTML5",
+        "Cascading Style Sheets (CSS)"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

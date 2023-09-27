@@ -1,0 +1,401 @@
+{
+    "profile_id": "mintsepp",
+    "first_name": "Minttu",
+    "last_name": "Sepp\u00e4l\u00e4",
+    "sub_title": "Guest Researcher at Leiden University",
+    "profile_picture": "https://media.licdn.com/dms/image/C4E03AQHgBsG_nAYUOQ/profile-displayphoto-shrink_800_800/0/1644414427627?e=1701302400&v=beta&t=P_-O5wD1yJ0KgOiGXHTmaKRgmiurjkje34eLClFo-fk",
+    "background_image": "https://media.licdn.com/dms/image/C4E16AQF2BHxJLuIbCw/profile-displaybackgroundimage-shrink_350_1400/0/1660389081039?e=1701302400&v=beta&t=k3kecFIOSF2HMZHEWB653aRDcyIN_GDJrNcpzrxouAY",
+    "profile_type": "personal",
+    "entity_urn": "ACoAACBy22oB35mmgfwzEmBoeACzemy6UK3Uppw",
+    "object_urn": 544398186,
+    "birth_date": null,
+    "summary": "I am from Finland, and I got my Master of Science in Astronomy from the University of Helsinki.\n\nMajor interests are in solar system physics, minor planets and instrumentation. Proficient in programming due to a minor in computer science and a heavy focus on programming in my master's thesis, \"Predicting stellar occultations for trans-Neptunian objects\". The thesis included data analysis, simulations of orbital mechanics and statistical analysis using fortran90, python and ADQL.",
+    "location": {
+        "country": "Netherlands",
+        "short": "Hilversum, North Holland",
+        "city": "Hilversum",
+        "state": "North Holland",
+        "default": "Hilversum, North Holland, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "Dutch",
+                "proficiency": "ELEMENTARY"
+            },
+            {
+                "name": "English",
+                "proficiency": "PROFESSIONAL_WORKING"
+            },
+            {
+                "name": "Finnish",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "Swedish",
+                "proficiency": "ELEMENTARY"
+            }
+        ]
+    },
+    "industry": "Research",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "school": {
+                "name": "University of Helsinki",
+                "logo": "https://media.licdn.com/dms/image/C560BAQHZQ2B3IQO9xg/company-logo_400_400/0/1519856264083?e=1703721600&v=beta&t=WSDAkYWbtabKsNXKc0q28EKux8wQd7EOERyEpDvrxp0",
+                "url": "https://www.linkedin.com/school/university-of-helsinki/"
+            },
+            "degree_name": "Master of Science - MS",
+            "field_of_study": "Astronomy",
+            "grade": "5 (Excellent)"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "school": {
+                "name": "Tikkurilan lukio",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "Ylioppilas",
+            "field_of_study": null,
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "Numerical Model of Asteroid",
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "description": "This project was a practice work for \"Solar System Physics\" -course.\nThe task was to create a program that will model an asteroid numerically.\nThe program was written on fortran90 and it is mostly in Finnish.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Minttu",
+                    "last_name": "Sepp\u00e4l\u00e4",
+                    "name": null,
+                    "headline": "Guest Researcher at Leiden University"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Julia",
+                    "last_name": "Rantakyl\u00e4",
+                    "name": null,
+                    "headline": "Student at University of Helsinki, Bachelor's degree."
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Vili Oja",
+                    "headline": null
+                }
+            ]
+        },
+        {
+            "title": "Planetary Motion Simulation",
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "description": "This was the final project for the course \"Scientific Calculation II\".\nThe program is written on fortran90.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Minttu",
+                    "last_name": "Sepp\u00e4l\u00e4",
+                    "name": null,
+                    "headline": "Guest Researcher at Leiden University"
+                }
+            ]
+        },
+        {
+            "title": "Game Project: Astrocats",
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "description": "A game project in C#.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Minttu",
+                    "last_name": "Sepp\u00e4l\u00e4",
+                    "name": null,
+                    "headline": "Guest Researcher at Leiden University"
+                }
+            ]
+        },
+        {
+            "title": "Bachelor Thesis: Predicting Stellar Occultations by Minor Planets",
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "description": "A literature study into stellar occultations by minor planets and different methods of predicting said events.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Minttu",
+                    "last_name": "Sepp\u00e4l\u00e4",
+                    "name": null,
+                    "headline": "Guest Researcher at Leiden University"
+                }
+            ]
+        }
+    ],
+    "publications": [],
+    "courses": [
+        {
+            "name": "Celestial Mechanics",
+            "number": "53922"
+        },
+        {
+            "name": "Computer Organization",
+            "number": "581305"
+        },
+        {
+            "name": "Data Structures and Algorithms",
+            "number": "TKT20001"
+        },
+        {
+            "name": "Database Basics",
+            "number": "A581328"
+        },
+        {
+            "name": "Elements of AI",
+            "number": "AYTKT21018, DATA15001"
+        },
+        {
+            "name": "Game Programming",
+            "number": "TKT21002, CSM14206"
+        },
+        {
+            "name": "Observational Astronomy",
+            "number": "53858, PAP307"
+        },
+        {
+            "name": "Observational Statistics",
+            "number": "53602"
+        },
+        {
+            "name": "Software Development Practices",
+            "number": "A582104"
+        },
+        {
+            "name": "Solar System Physics",
+            "number": "53923"
+        }
+    ],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 6077,
+                "name": "Leiden University",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQEFlK1wNecYbA/company-logo_400_400/0/1519855876129?e=1703721600&v=beta&t=D842EBczsDCzHDS7ZG70LkPNH6fNu0NutCEKkHyGGcQ",
+                "url": "https://www.linkedin.com/school/leiden-university/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Leiden, South Holland, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2023
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Leiden University",
+                    "description": null,
+                    "title": "Guest Researcher",
+                    "employment_type": "Part-time"
+                },
+                {
+                    "location": "Leiden, South Holland, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2023
+                        }
+                    },
+                    "company": "Leiden University",
+                    "description": "Supervisor: Prof.dr.ir. Niek Doelman\n\nAdaptive Correction of Optical Wave Phase and Amplitude Distortions, within the NWO \nPerspectief programme entitled \u2018Optical Wireless Superhighways\u2019.",
+                    "title": "PHD Candidate",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 4273,
+                "name": "University of Helsinki",
+                "logo": "https://media.licdn.com/dms/image/C560BAQHZQ2B3IQO9xg/company-logo_400_400/0/1519856264083?e=1703721600&v=beta&t=WSDAkYWbtabKsNXKc0q28EKux8wQd7EOERyEpDvrxp0",
+                "url": "https://www.linkedin.com/school/university-of-helsinki/",
+                "employees": {
+                    "start": 5001,
+                    "end": 10000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Helsinki, Uusimaa, Finland",
+                    "date": {
+                        "start": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2020
+                        }
+                    },
+                    "company": "University of Helsinki",
+                    "description": "Predicting stellar occultations for trans-Neptunian objects.\nA new statistical method was created to make occultation predictions. The goal was to make occultation predictions for the TNOs identified in the Outer Solar System Origins Survey. The method was tested on 2014 MU69 and it successfully found the three existing occultation events that occurred in 2017. The method was then applied on two TNOs observed in the Outer Solar System Origins Survey.",
+                    "title": "Master Thesis",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Microsoft Office",
+        "Microsoft Excel",
+        "Microsoft Word",
+        "Leadership",
+        "Microsoft PowerPoint",
+        "Project Management",
+        "Fortran",
+        "Java",
+        "SQLite",
+        "Group Work",
+        "SQL",
+        "LaTeX",
+        "Mathematical Modeling",
+        "Problem Solving",
+        "Numerical Analysis",
+        "Physics",
+        "Project Teams",
+        "Simulations",
+        "Group Leadership",
+        "Astronomy"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

@@ -1,0 +1,456 @@
+{
+    "profile_id": "timvdt",
+    "first_name": "Tim",
+    "last_name": "van den Toorn",
+    "sub_title": "Analyst A/B Experiments & Anomaly Detection",
+    "profile_picture": "https://media.licdn.com/dms/image/D4E03AQHs6lT29slDwQ/profile-displayphoto-shrink_800_800/0/1691503427034?e=1701302400&v=beta&t=dbGeWUT32Lc2IakEvgYrlzhDiP2f_fipZ5Gj61cqBWM",
+    "background_image": "https://media.licdn.com/dms/image/D4E16AQHIc0lH01LkSw/profile-displaybackgroundimage-shrink_350_1400/0/1691506631096?e=1701302400&v=beta&t=6NVE5xT-ivs_ePpP4l_kpYBM6Df19kkB2I9g7VgOnOk",
+    "profile_type": "personal",
+    "entity_urn": "ACoAADIxEO0BwickXx0HcW4BAYyGhqLOcuCUFzQ",
+    "object_urn": 842076397,
+    "birth_date": null,
+    "summary": "MSc Graduate in Econometrics & Management Science. Previously worked as Data Scientist intern for Ahold Delhaize and as a Research Assistant in the Urban Analytics team at Hogeschool van Amsterdam. Currently, I am functioning as a Data Analyst at Coolblue, where I follow the Marketing Data Starter training program.",
+    "location": {
+        "country": "Netherlands",
+        "short": "Amsterdam, North Holland",
+        "city": "Amsterdam",
+        "state": "North Holland",
+        "default": "Amsterdam, North Holland, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "NL",
+            "language": "nl"
+        },
+        "supported_locales": [
+            {
+                "country": "NL",
+                "language": "nl"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "Engels",
+                "proficiency": "PROFESSIONAL_WORKING"
+            },
+            {
+                "name": "Nederlands",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ]
+    },
+    "industry": "Electrical & Electronic Manufacturing",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "school": {
+                "name": "Erasmus University Rotterdam",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQH6a-XX__UABw/company-logo_400_400/0/1564983668078?e=1703721600&v=beta&t=3H1mx6V1WiUqDZT-oqo4GR8iGRB92lDdlPjGdElJUhU",
+                "url": "https://www.linkedin.com/school/erasmus-university-rotterdam/"
+            },
+            "degree_name": "Master of Science - MS",
+            "field_of_study": "Econometrics and Management Science",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "school": {
+                "name": "Erasmus University Rotterdam",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQH6a-XX__UABw/company-logo_400_400/0/1564983668078?e=1703721600&v=beta&t=3H1mx6V1WiUqDZT-oqo4GR8iGRB92lDdlPjGdElJUhU",
+                "url": "https://www.linkedin.com/school/erasmus-university-rotterdam/"
+            },
+            "degree_name": "Bachelor of Science - BS",
+            "field_of_study": "Econometrics & Operations Research",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2010
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "school": {
+                "name": "CSG Willem de Zwijger",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "VWO",
+            "field_of_study": "NG/NT + Economics",
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "Master Thesis",
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "description": "More retail businesses are expanding their market by also selling their products online. This omnichannel marketing strategy attracts new customers that could differ in transactional behaviour. Customer churn highly correlates with purchase behaviour and may therefore require different detecting approaches. In my master thesis research, I have separated customers into offline, online and so called omnichannel customers; individuals who shop both in retail stores and in the webshop. By making this seperation, I have studied customer churn by conducting a framework that combines clustering and classification using several machine learning models.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Tim",
+                    "last_name": "van den Toorn",
+                    "name": null,
+                    "headline": "Analyst A/B Experiments & Anomaly Detection"
+                }
+            ]
+        },
+        {
+            "title": "Bachelor Thesis",
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "description": "Stopping production and marketing of a product, does not remove the need for spare parts. Therefore, this end-of-life decision requires the manufacturer to determine how many components have to be produced in the final production run. However, this size decision is often found to be a complex problem. The demand for spare parts is closely related to the amount of products in use by consumers, the installed base, but retailers of consumer products do not keep track of the installed base of their products. In my thesis research, I have estimated the failure rate functions of spare parts and forecasted their demand with four installed base concepts.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Tim",
+                    "last_name": "van den Toorn",
+                    "name": null,
+                    "headline": "Analyst A/B Experiments & Anomaly Detection"
+                }
+            ]
+        }
+    ],
+    "publications": [],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 21302,
+                "name": "Coolblue",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQH9yPq7nb89tQ/company-logo_400_400/0/1544083989543?e=1703721600&v=beta&t=PFtTt8aMkkBPcl-6YRjA1ADBUnv7z8KKqe6JtIRjcGQ",
+                "url": "https://www.linkedin.com/company/coolblue/",
+                "employees": {
+                    "start": 5001,
+                    "end": 10000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2023
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Rotterdam, Zuid-Holland, Nederland",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2023
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Coolblue",
+                    "description": "Supervising the A/B testing process for different domains within the company; brainstorming new ideas, setting up experiments and analysing results. Besides, owner of a data product that allows stakeholders to deep-dive into metrics and the factors that are responsible for changes in these metrics.",
+                    "title": "Analyst A/B Experiments & Anomaly Detection",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 6945,
+                "name": "Hogeschool van Amsterdam",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQG5N3LiFgKyuA/company-logo_400_400/0/1659945616039?e=1703721600&v=beta&t=_yYH2p87VLVfJBoCQui8IOoUyl1P1-eu71DZPVaXfsk",
+                "url": "https://www.linkedin.com/school/hogeschool-van-amsterdam/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amsterdam, Noord-Holland, Nederland",
+                    "date": {
+                        "start": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "Amsterdam University of Applied Sciences",
+                    "description": "Working on a project focused on analysing 3D scans of the city in order to classify street objects and their properties.",
+                    "title": "Research Assistant",
+                    "employment_type": "Part-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1029265,
+                "name": "Etos",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQHCF9pB8HmRIg/company-logo_400_400/0/1647351206649?e=1703721600&v=beta&t=_n38DO3NlafX6wL28nqjriZd32p_4TNfngMamgQwKhU",
+                "url": "https://www.linkedin.com/company/etos/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Zaandam, Noord-Holland, Nederland",
+                    "date": {
+                        "start": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "Etos",
+                    "description": "Voluntary internship to conduct MSc thesis research on predicting customer churn in omnichannel retail.",
+                    "title": "Data Scientist (Customer Data & Retention) ",
+                    "employment_type": "Internship"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 25128779,
+                "name": "Plus Rechtuyt B.V.",
+                "logo": null,
+                "url": "https://www.linkedin.com/company/plus-rechtuyt-b.v./",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Schoonhoven, Zuid-Holland, Nederland",
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2021
+                        }
+                    },
+                    "company": "Plus Rechtuyt B.V.",
+                    "description": null,
+                    "title": "Allround E-commerce",
+                    "employment_type": "Contract"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 10042,
+                "name": "HEMA",
+                "logo": "https://media.licdn.com/dms/image/C560BAQFpIWP40AlVlA/company-logo_400_400/0/1562753448219?e=1703721600&v=beta&t=-2FWHUlWfRQAQW5F-HotbQb-eIAmiA-QuzaHmlN5L_U",
+                "url": "https://www.linkedin.com/company/hema/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Schoonhoven, Zuid-Holland, Nederland",
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2018
+                        }
+                    },
+                    "company": "HEMA",
+                    "description": null,
+                    "title": "Allround Employee",
+                    "employment_type": "Contract"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 25128779,
+                "name": "Plus Rechtuyt B.V.",
+                "logo": null,
+                "url": "https://www.linkedin.com/company/plus-rechtuyt-b.v./",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Schoonhoven, Zuid-Holland, Nederland",
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2012
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2016
+                        }
+                    },
+                    "company": "Plus Rechtuyt B.V.",
+                    "description": null,
+                    "title": "Delivery-man",
+                    "employment_type": "Contract"
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Google Cloud Platform (GCP)",
+        "Looker (software)",
+        "Python",
+        "SQL",
+        "R"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

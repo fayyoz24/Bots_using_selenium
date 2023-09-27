@@ -1,0 +1,612 @@
+{
+    "profile_id": "wilco-boele",
+    "first_name": "Wilco",
+    "last_name": "Boele",
+    "sub_title": "Software Designer bij Sioux Technologies",
+    "profile_picture": null,
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAAAv_BzEBTGWbIOK1CS0dtt55zdvwXI104LQ",
+    "object_urn": 201262897,
+    "birth_date": null,
+    "summary": null,
+    "location": {
+        "country": "Netherlands",
+        "short": "Maarssen, Utrecht",
+        "city": "Maarssen",
+        "state": "Utrecht",
+        "default": "Maarssen, Utrecht, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "NL",
+            "language": "nl"
+        },
+        "supported_locales": [
+            {
+                "country": "NL",
+                "language": "nl"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "Duits",
+                "proficiency": "LIMITED_WORKING"
+            },
+            {
+                "name": "Dutch",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "English",
+                "proficiency": "PROFESSIONAL_WORKING"
+            }
+        ]
+    },
+    "industry": "Computer Software",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2009
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "school": {
+                "name": "HU University of Applied Sciences Utrecht (Hogeschool Utrecht)",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQE5MUvxbWmHLg/company-logo_400_400/0/1616758673383?e=1703721600&v=beta&t=lL0qWwj8v0ehLYT5Eqgh3BYB8vxhABDgceKMn5_bG7c",
+                "url": "https://www.linkedin.com/school/hogeschool-utrecht/"
+            },
+            "degree_name": "bachelor",
+            "field_of_study": "Technische Informatica",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2007
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2010
+                }
+            },
+            "school": {
+                "name": "MBO",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": null,
+            "field_of_study": "Applicatie Ontwikkelaar",
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [
+        {
+            "name": "Exam 483: Programming in C#",
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Microsoft",
+            "url": "https://www.youracclaim.com/badges/7670c440-60a1-4534-b7dd-6d9ecd78afa9/linked_in_profile",
+            "license_number": null,
+            "display_source": "youracclaim.com",
+            "company": {
+                "id": null,
+                "name": "Microsoft",
+                "logo": "https://media.licdn.com/dms/image/C560BAQE88xCsONDULQ/company-logo_400_400/0/1618231291419?e=1703721600&v=beta&t=xic8lPBHmNYz9qHIoiuq_itbJ4T3xDqNu9Bb5EuYkZ0",
+                "url": null
+            }
+        }
+    ],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "Malvern Panalytical",
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "description": "Being part of a team that works on an application that is used to control individual parts of machines. The application allows users to create forms and scripts so that sequences of operations on the machine can be created any time. The application is very flexible and is used on different types of machines.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Wilco",
+                    "last_name": "Boele",
+                    "name": null,
+                    "headline": "Software Designer bij Sioux Technologies"
+                }
+            ]
+        },
+        {
+            "title": "MHS Europe",
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "description": "Design and implementation of software for parcel sorter systems. The purpose of the software is to sort out parcels on a sorter machine to a destination (chute, truck, warehouse location). \nThe software communicates with warehouse systems of customers, barcode scanners for barcode reading, labelers for barcode labeling and PLC's to get information about parcels on the system. \nOther responsibilities of the software are: visualisation of the machine (including errors per item in the machine), calculation of the availability of the system and providing maintenance information of the system.\nWithin the projects I worked together with the following customers: Zalando, Coolblue and Bol.com.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Wilco",
+                    "last_name": "Boele",
+                    "name": null,
+                    "headline": "Software Designer bij Sioux Technologies"
+                }
+            ]
+        },
+        {
+            "title": "Avantium",
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "description": "Maintenance and implementation of software for controlling machines that perform chemical analysis.\nThe original monolitic application had to be split into a server / client application. The client application was improved with charts to display the process history and to display the programmed behavior of the process in the future. The server software was extended continuously with integrations for valves, pumps and devices for chemical analysis (i.e. Spectrum analyzers and Density analyzers). ",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Wilco",
+                    "last_name": "Boele",
+                    "name": null,
+                    "headline": "Software Designer bij Sioux Technologies"
+                }
+            ]
+        },
+        {
+            "title": "FlexPosure BV.",
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "description": "Designing and implementing software for the product of FlexPosure, which is called FlinQ. FlinQ is a product which is fully configurable in ways of creating an event driven system that reports to operators (monitoring) and performs actions. The possibility to connect to numerous external systems and connect them all together makes it a very flexible system. ",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Wilco",
+                    "last_name": "Boele",
+                    "name": null,
+                    "headline": "Software Designer bij Sioux Technologies"
+                }
+            ]
+        },
+        {
+            "title": "ASML - Lithography Systems",
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "description": "Designing and implementing driver software to monitor power states in lithography machines.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Wilco",
+                    "last_name": "Boele",
+                    "name": null,
+                    "headline": "Software Designer bij Sioux Technologies"
+                }
+            ]
+        },
+        {
+            "title": "Lloyd's Register Rail Europe B.V.",
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "description": "Translation of mathematical algorithms into image processing production code to monitor the state of pantographs",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Wilco",
+                    "last_name": "Boele",
+                    "name": null,
+                    "headline": "Software Designer bij Sioux Technologies"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Peter",
+                    "last_name": "V.",
+                    "name": null,
+                    "headline": "Senior Software Designer at Sioux Technologies"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Ronald",
+                    "last_name": "de Leeuw van Weenen",
+                    "name": null,
+                    "headline": "Principal Tech Lead bij Sioux Technologies | Eigenaar van W1& Audio & Video"
+                }
+            ]
+        },
+        {
+            "title": "Website Aannemingsbedrijf G. Boele",
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "description": null,
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Wilco",
+                    "last_name": "Boele",
+                    "name": null,
+                    "headline": "Software Designer bij Sioux Technologies"
+                }
+            ]
+        },
+        {
+            "title": "Website Reformed Church Kockengen",
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "description": "The Reformed Church in Kockengen requested a redesign of their existing website.\nForeseeing that other customers would ask for similar functionality in the future, the decision was made to build a web application that can be used as a website template. This application was to generate a unique website based on the customers look-and-feel specification.\n",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Wilco",
+                    "last_name": "Boele",
+                    "name": null,
+                    "headline": "Software Designer bij Sioux Technologies"
+                }
+            ]
+        }
+    ],
+    "publications": [],
+    "courses": [
+        {
+            "name": "Advanced C#",
+            "number": null
+        },
+        {
+            "name": "Advanced C++",
+            "number": null
+        },
+        {
+            "name": "Advanced Querying Microsoft SQL Server",
+            "number": null
+        },
+        {
+            "name": "BHV",
+            "number": null
+        },
+        {
+            "name": "C++ templates",
+            "number": null
+        },
+        {
+            "name": "Effectief Communiceren",
+            "number": null
+        },
+        {
+            "name": "Microsoft 70-483 Programming in C# Certification",
+            "number": null
+        },
+        {
+            "name": "Model-Driven Software Development",
+            "number": null
+        },
+        {
+            "name": "Scrum Master",
+            "number": null
+        },
+        {
+            "name": "Scrum Master",
+            "number": null
+        },
+        {
+            "name": "Software Architecture",
+            "number": null
+        },
+        {
+            "name": "Software Testen",
+            "number": null
+        }
+    ],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 15342,
+                "name": "Sioux Technologies",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQFt9qWXV4YTnQ/company-logo_400_400/0/1554199369376?e=1703721600&v=beta&t=8H5V26lfvRG9qZWrVAJYAUSYXNIpYtF0uJEooR-hSeg",
+                "url": "https://www.linkedin.com/company/sioux/",
+                "employees": {
+                    "start": 501,
+                    "end": 1000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Mijdrecht",
+                    "date": {
+                        "start": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Sioux Technologies",
+                    "description": null,
+                    "title": "Software Designer",
+                    "employment_type": "Full-time"
+                },
+                {
+                    "location": "Mijdrecht",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2021
+                        }
+                    },
+                    "company": "Sioux Technologies",
+                    "description": null,
+                    "title": "Senior Software Engineer",
+                    "employment_type": null
+                },
+                {
+                    "location": "Amstelhoek",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2013
+                        },
+                        "end": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2016
+                        }
+                    },
+                    "company": "Sioux Technologies",
+                    "description": null,
+                    "title": "Software Engineer",
+                    "employment_type": null
+                },
+                {
+                    "location": "Amstelhoek",
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2012
+                        },
+                        "end": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2013
+                        }
+                    },
+                    "company": "Sioux Technologies",
+                    "description": "Autonomous mapping robots & research to wireless technologies",
+                    "title": "Internship",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 91580387,
+                "name": "Fides",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQFVPpTEFKKSVA/company-logo_400_400/0/1674225014830?e=1703721600&v=beta&t=_4g-oEnkQwEzlT8D9SGieajVU_wCQyJ1Yvp_64Mq_Xw",
+                "url": "https://www.linkedin.com/company/fidesonderwijs/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2023
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2023
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Fides",
+                    "description": "Fides is een vereniging voor Protestants-Christelijke scholen in het primair onderwijs, bestaande uit vier scholen.",
+                    "title": "Toezichthouder (secretaris)",
+                    "employment_type": "Part-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Basisschool de Wegwijzer",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Kockengen, Utrecht, Nederland",
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2020
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "Basisschool de Wegwijzer",
+                    "description": null,
+                    "title": "Bestuurder (secretaris)",
+                    "employment_type": "Part-time"
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "C#",
+        "SQL",
+        "UML",
+        "Software Engineering",
+        "Scrum",
+        "OOP",
+        "Visual Studio",
+        "PHP",
+        "MySQL",
+        "JavaScript",
+        "jQuery",
+        "HTML",
+        "CSS",
+        "Embedded Software",
+        "C++",
+        "C",
+        "Git",
+        "Linux"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

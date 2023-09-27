@@ -1,0 +1,990 @@
+{
+    "profile_id": "matthijs-hollemans",
+    "first_name": "Matthijs",
+    "last_name": "Hollemans",
+    "sub_title": "Audio programmer for hire",
+    "profile_picture": "https://media.licdn.com/dms/image/C5603AQGEBihdU23i7A/profile-displayphoto-shrink_800_800/0/1545140535800?e=1701302400&v=beta&t=8AiSijIAmkLe2HH1E36YeMh0wZsMt2OCup7WOf6cviY",
+    "background_image": "https://media.licdn.com/dms/image/D5616AQGqpJ4gMDyYwA/profile-displaybackgroundimage-shrink_350_1400/0/1663258672097?e=1701302400&v=beta&t=uAvxJRv2lo_ZZ0YsWaj65_NMnUmFW5Vi1iVvyoLs2yA",
+    "profile_type": "personal",
+    "entity_urn": "ACoAACFbXJ0BTghZRJl8o6xjlp9lEqWRlPW1PuE",
+    "object_urn": 559635613,
+    "birth_date": null,
+    "summary": "I am one of those guys who got their first computer in the 1980s and have been hacking away at creative projects ever since.\n\nMy current interest is audio programming and DSP. Previously I've done machine learning, iOS development, games, web, boring enterprise stuff, embedded, you name it. \n\nI'm also a hobbyist musician and music producer who finally needs to learn how to play the piano properly!",
+    "location": {
+        "country": "Netherlands",
+        "short": "Breda, North Brabant",
+        "city": "Breda",
+        "state": "North Brabant",
+        "default": "Breda, North Brabant, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": []
+    },
+    "industry": "Computer Software",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 1994
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 1998
+                }
+            },
+            "school": {
+                "name": "Hogeschool West-Brabant",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "Bachelor of Science (B.Sc.)",
+            "field_of_study": "Electrical and Electronics Engineering",
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [],
+    "organizations": [
+        {
+            "name": "Association of Computing Machinery (ACM)",
+            "position": "member",
+            "date_start": null,
+            "date_end": null
+        },
+        {
+            "name": "Audio Engineering Society (AES)",
+            "position": "member",
+            "date_start": null,
+            "date_end": null
+        },
+        {
+            "name": "IEEE",
+            "position": "member",
+            "date_start": null,
+            "date_end": null
+        }
+    ],
+    "projects": [
+        {
+            "title": "Swift Algorithm Club",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "description": "I created the Swift Algorithm Club repo on GitHub with implementations of many algorithms and data structures in Swift, including detailed explanations. After 5000+ stars I donated the repo to raywenderlich.com, now Kodeco. https://github.com/kodecocodes/swift-algorithm-club",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Matthijs",
+                    "last_name": "Hollemans",
+                    "name": null,
+                    "headline": "Audio programmer for hire"
+                }
+            ]
+        }
+    ],
+    "publications": [
+        {
+            "name": "audiodev.blog",
+            "publisher": null,
+            "url": "https://audiodev.blog",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2022
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Matthijs",
+                    "last_name": "Hollemans",
+                    "name": null,
+                    "headline": "Audio programmer for hire"
+                }
+            ]
+        },
+        {
+            "name": "Code Your Own Synth Plug-Ins With C++ and JUCE",
+            "publisher": null,
+            "url": "https://leanpub.com/synth-plugin",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2022
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Matthijs",
+                    "last_name": "Hollemans",
+                    "name": null,
+                    "headline": "Audio programmer for hire"
+                }
+            ]
+        },
+        {
+            "name": "machinethink.net",
+            "publisher": null,
+            "url": "https://machinethink.net",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2021
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Matthijs",
+                    "last_name": "Hollemans",
+                    "name": null,
+                    "headline": "Audio programmer for hire"
+                }
+            ]
+        },
+        {
+            "name": "Core ML Survival Guide",
+            "publisher": null,
+            "url": "https://leanpub.com/coreml-survival-guide",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2018
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Matthijs",
+                    "last_name": "Hollemans",
+                    "name": null,
+                    "headline": "Audio programmer for hire"
+                }
+            ]
+        },
+        {
+            "name": "Machine Learning by Tutorials",
+            "publisher": "raywenderlich.com",
+            "url": "https://store.raywenderlich.com/products/machine-learning-by-tutorials",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2018
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Matthijs",
+                    "last_name": "Hollemans",
+                    "name": null,
+                    "headline": "Audio programmer for hire"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Audrey Tam",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Chris LaPollo",
+                    "headline": null
+                }
+            ]
+        },
+        {
+            "name": "The iOS Apprentice, Fifth Edition",
+            "publisher": "RayWenderlich.com",
+            "url": "https://store.raywenderlich.com/products/ios-apprentice",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2016
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Matthijs",
+                    "last_name": "Hollemans",
+                    "name": null,
+                    "headline": "Audio programmer for hire"
+                }
+            ]
+        },
+        {
+            "name": "iOS Games by Tutorials",
+            "publisher": "RayWenderlich.com",
+            "url": null,
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2014
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Matthijs",
+                    "last_name": "Hollemans",
+                    "name": null,
+                    "headline": "Audio programmer for hire"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Mike Berg",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Tom Bradley",
+                    "headline": null
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Jacob",
+                    "last_name": "Gundersen",
+                    "name": null,
+                    "headline": "Owner at Interrobang Software, LLC"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Ali Hafizji",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Christopher LaPollo",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Rod Strougo",
+                    "headline": null
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Marin",
+                    "last_name": "Todorov",
+                    "name": null,
+                    "headline": "Sr. Engineer and Author, Apple platforms"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Ray",
+                    "last_name": "Wenderlich",
+                    "name": null,
+                    "headline": "Founder of kodeco.com \u2022\u00a0Kodeco, Inc."
+                }
+            ]
+        },
+        {
+            "name": "iOS 7 by Tutorials",
+            "publisher": "RayWenderlich.com",
+            "url": "https://store.raywenderlich.com/products/ios-7-by-tutorials",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2013
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Matthijs",
+                    "last_name": "Hollemans",
+                    "name": null,
+                    "headline": "Audio programmer for hire"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Christine Abernathy",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Soheil Moayedi Azarpour",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Colin Eberhardt",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Charlie Fulton",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Matt Galloway",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Greg Heo",
+                    "headline": null
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Felipe",
+                    "last_name": "Laso-Marsetti",
+                    "name": null,
+                    "headline": "Lextech Global Services | Kodeco.com"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Marin",
+                    "last_name": "Todorov",
+                    "name": null,
+                    "headline": "Sr. Engineer and Author, Apple platforms"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Cesare",
+                    "last_name": "Rocchi",
+                    "name": null,
+                    "headline": "Senior iOS Engineer at Memory"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Chris Wagner",
+                    "headline": null
+                }
+            ]
+        },
+        {
+            "name": "iOS 6 by Tutorials",
+            "publisher": "RayWenderlich.com",
+            "url": "https://store.raywenderlich.com/products/ios-6-by-tutorials",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2012
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Matthijs",
+                    "last_name": "Hollemans",
+                    "name": null,
+                    "headline": "Audio programmer for hire"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Evan Dekhayser",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Matt Galloway",
+                    "headline": null
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Jacob",
+                    "last_name": "Gundersen",
+                    "name": null,
+                    "headline": "Owner at Interrobang Software, LLC"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Ali Hafizji",
+                    "headline": null
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Felipe",
+                    "last_name": "Laso-Marsetti",
+                    "name": null,
+                    "headline": "Lextech Global Services | Kodeco.com"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Marin",
+                    "last_name": "Todorov",
+                    "name": null,
+                    "headline": "Sr. Engineer and Author, Apple platforms"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Ray",
+                    "last_name": "Wenderlich",
+                    "name": null,
+                    "headline": "Founder of kodeco.com \u2022\u00a0Kodeco, Inc."
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Dominik Hauser",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Brandon Trebitowski",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "James Frost",
+                    "headline": null
+                }
+            ]
+        },
+        {
+            "name": "iOS 5 by Tutorials",
+            "publisher": "RayWenderlich.com",
+            "url": "https://store.raywenderlich.com/products/ios-5-by-tutorials",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2011
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Matthijs",
+                    "last_name": "Hollemans",
+                    "name": null,
+                    "headline": "Audio programmer for hire"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Steve",
+                    "last_name": "Baranski",
+                    "name": null,
+                    "headline": "Engineer at Apple \uf8ff"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Jacob",
+                    "last_name": "Gundersen",
+                    "name": null,
+                    "headline": "Owner at Interrobang Software, LLC"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Felipe",
+                    "last_name": "Laso-Marsetti",
+                    "name": null,
+                    "headline": "Lextech Global Services | Kodeco.com"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Cesare",
+                    "last_name": "Rocchi",
+                    "name": null,
+                    "headline": "Senior iOS Engineer at Memory"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Marin",
+                    "last_name": "Todorov",
+                    "name": null,
+                    "headline": "Sr. Engineer and Author, Apple platforms"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Ray",
+                    "last_name": "Wenderlich",
+                    "name": null,
+                    "headline": "Founder of kodeco.com \u2022\u00a0Kodeco, Inc."
+                }
+            ]
+        }
+    ],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": null,
+                "name": "Hollance",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2010
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "day": null,
+                            "year": 2010
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Hollance",
+                    "description": "As an independent developer, I write my own apps and sell them online. Notable products: the musician's app Reverse Chord Finder (now sold to another developer) and the iPad game Mahjong Cards (over 20 million games played). Currently working on some new audio software products.",
+                    "title": "Independent App Developer",
+                    "employment_type": "Self-employed"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 11193683,
+                "name": "Hugging Face",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQFzIxlpQ0lAdA/company-logo_400_400/0/1610402246531/huggingface_logo?e=1703721600&v=beta&t=01kjnTf7ZhFg9TtC4JdqFSVHPXJDbvnN-_nZVKfxmiI",
+                "url": "https://www.linkedin.com/company/huggingface/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2023
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2023
+                        }
+                    },
+                    "company": "Hugging Face",
+                    "description": "Part of the moonshots / audio team at Hugging Face.",
+                    "title": "Machine Learning Engineer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "MachineThink.net",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2017
+                        },
+                        "end": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "MachineThink.net",
+                    "description": "I provided consulting services about machine learning on iOS devices, and wrote about these topics on my blog machinethink.net.",
+                    "title": "Independent Consultant",
+                    "employment_type": "Freelance"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Ray Wenderlich.com",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "day": null,
+                            "year": 2011
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "Ray Wenderlich.com",
+                    "description": "Tutorial writer for the popular iOS development blog raywenderlich.com. I am also the author of The iOS Apprentice, a book that teaches iOS development and the Swift language, as well as co-author of Machine Learning by Tutorials, iOS 5 by Tutorials, iOS 6 by Tutorials, iOS 7 by Tutorials, and iOS Games by Tutorials.",
+                    "title": "Tutorial and Book Author",
+                    "employment_type": "Freelance"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Concepts ICT",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2008
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2010
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "day": null,
+                            "year": 2008
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": 2010
+                        }
+                    },
+                    "company": "Concepts ICT",
+                    "description": "Concepts ICT was an ISP that delivered ADSL and Fiber-to-the-Home services in the Netherlands. I worked on internal software that was used to automate and streamline the company's business processes. I also built the website and backend for ADSL!Totaal, an ADSL service that was provided in cooperation with the magazine Computer!Totaal.",
+                    "title": "Senior Software Engineer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "All Your Software",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2002
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2008
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "day": null,
+                            "year": 2002
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": 2008
+                        }
+                    },
+                    "company": "All Your Software",
+                    "description": "I created Compare and Merge, a user-friendly file comparison tool for Windows, and sold it directly to customers from my own website.",
+                    "title": "Independent Software Developer",
+                    "employment_type": "Self-employed"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Virtual Unlimited",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 1998
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2002
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "day": null,
+                            "year": 1998
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": 2002
+                        }
+                    },
+                    "company": "Virtual Unlimited",
+                    "description": "At Virtual Unlimited we developed Beeyond, an alternative platform for internet applications that did not run in the web browser but in their own app. I was responsible for the BeeBuilder development tool that let third-party developers build user interfaces for their Beeyond apps.",
+                    "title": "Senior Software Engineer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": null,
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 1995
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 1998
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "day": null,
+                            "year": 1995
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": 1998
+                        }
+                    },
+                    "company": null,
+                    "description": "While I was in college I wrote the software for a process control system for ULO (ultra low oxygen) storage of fruit and vegetables. The system consisted of a PC running a monitoring and logging application that communicated over RS232 with the PLC that was in charge of the control process.",
+                    "title": "Freelance Software Developer",
+                    "employment_type": "Freelance"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": null,
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 1985
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 1997
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "day": null,
+                            "year": 1985
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": 1997
+                        }
+                    },
+                    "company": null,
+                    "description": "As soon as I got my hands on a computer, I started writing my own games. Most of these were just for fun while I was learning how to program. I still have many of these half-finished games on floppies. The first game I actually released was a public domain game, Evil Insects, in 1994. The culmination of this work was the extremely difficult and fast-paced Zero Gravity for the Amiga 1200, written in 100% assembly and released in 1997.",
+                    "title": "Hobby game development",
+                    "employment_type": "Self-employed"
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Digital Signal Processing",
+        "Audio Processing",
+        "C++",
+        "Algorithms",
+        "Data Structures",
+        "Project Management",
+        "Software Design",
+        "Software Business",
+        "User Interface Design",
+        "PHP",
+        "PostgreSQL",
+        "Web Development",
+        "Back-End Web Development",
+        "Enterprise Software",
+        "Technical Writing",
+        "Swift (Programming Language)",
+        "TensorFlow",
+        "Consulting",
+        "Blogging",
+        "PyTorch"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

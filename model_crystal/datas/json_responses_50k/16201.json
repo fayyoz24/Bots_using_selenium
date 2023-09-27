@@ -1,0 +1,548 @@
+{
+    "profile_id": "mariska-willemsen13",
+    "first_name": "Mariska",
+    "last_name": "Willemsen",
+    "sub_title": "Datascience Consultant at Puur Data B.V.",
+    "profile_picture": null,
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAABtFIpgBTi2V7CHXZd6RU-Z3VkD9GlxRgS0",
+    "object_urn": 457515672,
+    "birth_date": null,
+    "summary": "As a Datscience consultant I help clients make sense of their data. Companies often have huge amounts of collected data, which grows every day, but often no clear insight of what to do with that. First we help the client to assess what can be done with the data they have after which we process it. Using python I clean and make the data ready for analysis. After this process often Elasticsearch is used to make the data searchable, and available for the creation of visualization. We help clients set-up Elasticsearch, make sure the data is indexed properly and help with the creation of queries to achieve relevant search results. ",
+    "location": {
+        "country": "Netherlands",
+        "short": "Ede, Gelderland",
+        "city": "Ede",
+        "state": "Gelderland",
+        "default": "Ede, Gelderland, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "Dutch",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "English",
+                "proficiency": "FULL_PROFESSIONAL"
+            }
+        ]
+    },
+    "industry": "Computer Software",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "school": {
+                "name": "University of Amsterdam",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQEfHBj_we-_kw/company-logo_400_400/0/1659945104460?e=1703721600&v=beta&t=nxt14hUDODg3MttkNj5Qa0fCu2FbgGbRXyFSapRtNv4",
+                "url": "https://www.linkedin.com/school/university-of-amsterdam/"
+            },
+            "degree_name": "Master\u2019s Degree",
+            "field_of_study": "Biomedical Sciences",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "school": {
+                "name": "University of Amsterdam",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQEfHBj_we-_kw/company-logo_400_400/0/1659945104460?e=1703721600&v=beta&t=nxt14hUDODg3MttkNj5Qa0fCu2FbgGbRXyFSapRtNv4",
+                "url": "https://www.linkedin.com/school/university-of-amsterdam/"
+            },
+            "degree_name": "Bachelor\u2019s Degree",
+            "field_of_study": "Psychobiology",
+            "grade": "7.5"
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [
+        {
+            "name": "Elastic Certified Analyst",
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2023
+                }
+            },
+            "authority": "Elastic",
+            "url": "https://certified.elastic.co/3d786242-8fef-443f-b7eb-25cf5c5b7175",
+            "license_number": "29189825",
+            "display_source": "elastic.co",
+            "company": {
+                "id": null,
+                "name": "Elastic",
+                "logo": "https://media.licdn.com/dms/image/D560BAQFcGg7KRaS8Uw/company-logo_400_400/0/1690905620056?e=1703721600&v=beta&t=Li4AEZDVCQmbPfw5t1U3isU5qK-9zDpms1YwrLlWnzs",
+                "url": null
+            }
+        },
+        {
+            "name": "Machine Learning - Introduction",
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Udacity",
+            "url": "https://graduation.udacity.com/confirm/VQAE225",
+            "license_number": null,
+            "display_source": "udacity.com",
+            "company": {
+                "id": null,
+                "name": "Udacity",
+                "logo": "https://media.licdn.com/dms/image/C560BAQHiNYfm0YHKrg/company-logo_400_400/0/1656621848272?e=1703721600&v=beta&t=K5xcAKf7mtx1MUVwxChhMDKubuX_mh7DMQTuSX9rjwQ",
+                "url": null
+            }
+        },
+        {
+            "name": "Elastic Certified Engineer",
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2023
+                }
+            },
+            "authority": "Elastic",
+            "url": "https://certified.elastic.co/3875bb00-9070-49dc-ba2d-cc1c21fb2118",
+            "license_number": "19484132",
+            "display_source": "elastic.co",
+            "company": {
+                "id": null,
+                "name": "Elastic",
+                "logo": "https://media.licdn.com/dms/image/D560BAQFcGg7KRaS8Uw/company-logo_400_400/0/1690905620056?e=1703721600&v=beta&t=Li4AEZDVCQmbPfw5t1U3isU5qK-9zDpms1YwrLlWnzs",
+                "url": null
+            }
+        }
+    ],
+    "organizations": [],
+    "projects": [],
+    "publications": [],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 3073267,
+                "name": "Puur Data B.V.",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQFVVO9nR3vEtA/company-logo_400_400/0/1519861760665?e=1703721600&v=beta&t=qqktSCfcf8lL2LUhRNMsZabNCT-0R5dXuZZTHrbtYJw",
+                "url": "https://www.linkedin.com/company/puurdata/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2023
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Puur Data B.V.",
+                    "description": null,
+                    "title": "Senior Datascience Consultant",
+                    "employment_type": "Full-time"
+                },
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2020
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "Puur Data B.V.",
+                    "description": null,
+                    "title": "Datascience consultant",
+                    "employment_type": null
+                },
+                {
+                    "location": "Ede",
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2020
+                        }
+                    },
+                    "company": "Puur Data B.V.",
+                    "description": null,
+                    "title": "Junior Datascience Consultant",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 12504,
+                "name": "Eurofins",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQFnNOoDrwfW6A/company-logo_400_400/0/1625128578827?e=1703721600&v=beta&t=ol9B0EUAnLebMdSkugqgHthBnrFld8ccJBSnRooWKvk",
+                "url": "https://www.linkedin.com/company/eurofins/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Barneveld",
+                    "date": {
+                        "start": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2018
+                        }
+                    },
+                    "company": "Eurofins",
+                    "description": null,
+                    "title": "Information Analyst",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 15092335,
+                "name": "Medical University of Vienna",
+                "logo": "https://media.licdn.com/dms/image/C560BAQF54KC45WJERw/company-logo_400_400/0/1655293308721?e=1703721600&v=beta&t=4cCkJXL5uzowBWdpwOCkUMW9kyrOnPdE_-Jz9NBZfjg",
+                "url": "https://www.linkedin.com/school/medizinische-universitat-wien/",
+                "employees": {
+                    "start": 5001,
+                    "end": 10000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Centre for brain research, Vienna",
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2016
+                        }
+                    },
+                    "company": "Medical University of Vienna",
+                    "description": "Master internship researching the role of parabrachial neurons on the nociceptive pathway, using whole cell patchclamp, immunohistochemistry, and optogenetics.",
+                    "title": "Master student",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 292887,
+                "name": "Netherlands Institute for Neuroscience",
+                "logo": "https://media.licdn.com/dms/image/C560BAQHpvKeXMxFbfw/company-logo_400_400/0/1558687362219?e=1703721600&v=beta&t=fmalrL-wJluUsA05E5P65tyxQnicSPy7O1Vo5XYACAY",
+                "url": "https://www.linkedin.com/company/netherlands-institute-for-neuroscience/",
+                "employees": {
+                    "start": 201,
+                    "end": 500
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Netherlands Institute of Neuroscience (NIN)",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2015
+                        }
+                    },
+                    "company": "Netherlands Institute for Neuroscience",
+                    "description": "Master internship looking at network development in the primary visual cortex, using whole cell patch clamping and whole brain immunohistochemistry and clearing of the brain.",
+                    "title": "Master Student",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 4081,
+                "name": "University of Amsterdam",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQEfHBj_we-_kw/company-logo_400_400/0/1659945104460?e=1703721600&v=beta&t=nxt14hUDODg3MttkNj5Qa0fCu2FbgGbRXyFSapRtNv4",
+                "url": "https://www.linkedin.com/school/university-of-amsterdam/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Swammerdam institute of life sciences",
+                    "date": {
+                        "start": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2014
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2014
+                        }
+                    },
+                    "company": "University of Amsterdam",
+                    "description": "Bachelor internship looking at the effects of early life stress on the morphology of neurons in the amygdala comparing control animals and animals with genetically inserted Alzheimer's genes, using golgi stainings and confocal microscopy.",
+                    "title": "Bachelor Student",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "SNT",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2011
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Ede",
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2011
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2011
+                        }
+                    },
+                    "company": "SNT",
+                    "description": "Working as a callcenter agent I approached existing clients of several companies to assess whether they were interested in prolonging their contract with the company.",
+                    "title": "Callcenter Agent",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [
+        {
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "role": "Supervisor during introductory week for new students",
+            "company": {
+                "id": null,
+                "name": "University of Amsterdam",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQEfHBj_we-_kw/company-logo_400_400/0/1659945104460?e=1703721600&v=beta&t=nxt14hUDODg3MttkNj5Qa0fCu2FbgGbRXyFSapRtNv4",
+                "url": "https://www.linkedin.com/school/university-of-amsterdam/"
+            },
+            "cause": null,
+            "description": "Supervising a group of +/- 10 students during their introductory week at the University of Amsterdam."
+        },
+        {
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "role": "Social committee member",
+            "company": {
+                "id": null,
+                "name": "A.S.S.V. Esprit",
+                "logo": null,
+                "url": null
+            },
+            "cause": null,
+            "description": "Being one of the two members of the social committee for the student fencing club in Amsterdam during the 2014/2015 season (Approximately September 2014 - June 2015). We were responsible for organizing social events for the clubmembers outside of the sporting events."
+        }
+    ],
+    "skills": [
+        "Python",
+        "Data analysis",
+        "ElasticSearch",
+        "Neuroscience",
+        "Academic Writing",
+        "Research",
+        "SPSS",
+        "Microsoft Excel",
+        "GraphPad Prism"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

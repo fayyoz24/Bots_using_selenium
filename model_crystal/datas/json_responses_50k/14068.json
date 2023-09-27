@@ -1,0 +1,647 @@
+{
+    "profile_id": "bramleverman",
+    "first_name": "Bram",
+    "last_name": "Leverman",
+    "sub_title": "PMO-Consultant @ N-Abled",
+    "profile_picture": "https://media.licdn.com/dms/image/C4D03AQGID0lKL0tJpA/profile-displayphoto-shrink_800_800/0/1649935852264?e=1701302400&v=beta&t=Hg5xb5FGZbVUrzRu7g-Dfi_aqoQAY_M4t9FbNk2pgIw",
+    "background_image": "https://media.licdn.com/dms/image/C5616AQGRVkhA6SDdMQ/profile-displaybackgroundimage-shrink_350_1400/0/1649081429108?e=1701302400&v=beta&t=dnigv0rAsT9Gx9iaJoQeaNLZhT85I07hWHayC668qPA",
+    "profile_type": "personal",
+    "entity_urn": "ACoAACI0XpMBSjpdRu0QiG5FiVcuvZduSjtxUtw",
+    "object_urn": 573857427,
+    "birth_date": null,
+    "summary": null,
+    "location": {
+        "country": "Netherlands",
+        "short": "Brabantine City Row",
+        "city": null,
+        "state": null,
+        "default": "Brabantine City Row"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "NL",
+            "language": "nl"
+        },
+        "supported_locales": [
+            {
+                "country": "NL",
+                "language": "nl"
+            },
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "Duits",
+                "proficiency": "LIMITED_WORKING"
+            },
+            {
+                "name": "Engels",
+                "proficiency": "FULL_PROFESSIONAL"
+            },
+            {
+                "name": "Nederlands",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ]
+    },
+    "industry": "Management Consulting",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "school": {
+                "name": "Tilburg University",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQHNJkPAcEjYEg/company-logo_400_400/0/1631003396114?e=1703721600&v=beta&t=NnNXRkSpVjA_wrLAVErPEhLbWbu72KlIEbDJeyvKC0o",
+                "url": "https://www.linkedin.com/school/tilburg-university/"
+            },
+            "degree_name": "Master of Science (MSc)",
+            "field_of_study": "Strategic Management",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "school": {
+                "name": "Avans University of Applied Sciences",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQFGwkWEXbj5uQ/company-logo_400_400/0/1550478171839?e=1703721600&v=beta&t=Vad6-QozUWr6ZeCFQKhorZDO1WQuiyiA2RJhtANfAgA",
+                "url": "https://www.linkedin.com/school/avans-hogeschool/"
+            },
+            "degree_name": "BBA",
+            "field_of_study": "Business Administration",
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [
+        {
+            "name": "Certified SAFe\u00ae 5 Agilist",
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2023
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Scaled Agile, Inc.",
+            "url": "https://www.credly.com/badges/fed4002b-aeb3-4603-bd67-ae0fcabc9724",
+            "license_number": null,
+            "display_source": "credly.com",
+            "company": {
+                "id": null,
+                "name": "Scaled Agile, Inc.",
+                "logo": "https://media.licdn.com/dms/image/C560BAQFti5SCrDfBWA/company-logo_400_400/0/1668017354645?e=1703721600&v=beta&t=bRAEHLYgASGjmZLkwTgxwmZvhkMYmMV9di2OmMKWwPU",
+                "url": null
+            }
+        },
+        {
+            "name": "Portfolio, Programme and Project Offices (P3O\u00ae) Certification ",
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "AXELOS Global Best Practice",
+            "url": null,
+            "license_number": null,
+            "display_source": null,
+            "company": {
+                "id": null,
+                "name": "AXELOS Global Best Practice",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQGo_FHY0vki5A/company-logo_400_400/0/1635436803520?e=1703721600&v=beta&t=ATMn7WAaumZHXO6Nmr-Hm5opbrPh3Q6dfxwD4w2A9bg",
+                "url": null
+            }
+        },
+        {
+            "name": "Professional Scrum Master I (PSM I)",
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Scrum.org",
+            "url": "https://www.scrum.org/user/1027587",
+            "license_number": "1027587",
+            "display_source": "scrum.org",
+            "company": {
+                "id": null,
+                "name": "Scrum.org",
+                "logo": "https://media.licdn.com/dms/image/C560BAQFzF6WZjNSHkQ/company-logo_400_400/0/1522074989702?e=1703721600&v=beta&t=-PRmXQFIlx8U4JWR-3B1NpWfKbSbQ6Zx6ONjdC6UVQs",
+                "url": null
+            }
+        },
+        {
+            "name": "PRINCE2\u00ae Foundation",
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "AXELOS Global Best Practice",
+            "url": null,
+            "license_number": "GR656247346BL",
+            "display_source": null,
+            "company": {
+                "id": null,
+                "name": "AXELOS Global Best Practice",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQGo_FHY0vki5A/company-logo_400_400/0/1635436803520?e=1703721600&v=beta&t=ATMn7WAaumZHXO6Nmr-Hm5opbrPh3Q6dfxwD4w2A9bg",
+                "url": null
+            }
+        },
+        {
+            "name": "Advanced Valuation and Strategy",
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Erasmus Universiteit Rotterdam",
+            "url": "https://www.coursera.org/account/accomplishments/certificate/AKQ9YWVZRF5W",
+            "license_number": "AKQ9YWVZRF5W",
+            "display_source": "coursera.org",
+            "company": {
+                "id": null,
+                "name": "Erasmus University Rotterdam",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQH6a-XX__UABw/company-logo_400_400/0/1564983668078?e=1703721600&v=beta&t=3H1mx6V1WiUqDZT-oqo4GR8iGRB92lDdlPjGdElJUhU",
+                "url": null
+            }
+        },
+        {
+            "name": "Anglia Certificate of English ESOL International | Advanced Business English ",
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Anglia Examinations",
+            "url": null,
+            "license_number": "1111-01/15-HOL-RW",
+            "display_source": null,
+            "company": {
+                "id": null,
+                "name": "Anglia Examinations",
+                "logo": "https://media.licdn.com/dms/image/C560BAQEQhmuKs72uUQ/company-logo_400_400/0/1519888540408?e=1703721600&v=beta&t=6YZtDtpMWKA7pbXZtrVh2K1X7uyYglZQKg-aS4HAZBA",
+                "url": null
+            }
+        },
+        {
+            "name": "Financial Modeling & Valuation Analyst (FMVA)\u00ae Certificate",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Corporate Finance Institute\u00ae (CFI)",
+            "url": null,
+            "license_number": null,
+            "display_source": null,
+            "company": {
+                "id": null,
+                "name": "Corporate Finance Institute\u00ae (CFI)",
+                "logo": "https://media.licdn.com/dms/image/D560BAQHT_Yw8tXJ1XA/company-logo_400_400/0/1681409267949?e=1703721600&v=beta&t=_AZ7UTGKb7DTDHCyVgU9JfIFl_9F4MTQT29v7IZsybA",
+                "url": null
+            }
+        }
+    ],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "Spin-out or Sell-off? Analysis of Divestiture Mode and Implications on Corporate Performance in U.S. High-Tech Industries",
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "description": "Quantitative Research Thesis",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Bram",
+                    "last_name": "Leverman",
+                    "name": null,
+                    "headline": "PMO-Consultant @ N-Abled"
+                }
+            ]
+        },
+        {
+            "title": "EY Innovation Program",
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "description": "Part of the Corporate Entrepreneurship course",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Bram",
+                    "last_name": "Leverman",
+                    "name": null,
+                    "headline": "PMO-Consultant @ N-Abled"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Alex",
+                    "last_name": "Graafmans",
+                    "name": null,
+                    "headline": "Trusted Advisor | Consultant Governance, Risk & Compliance | Advisory KPMG Netherlands | MSc"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Rutger",
+                    "last_name": "Rouppe van der Voort",
+                    "name": null,
+                    "headline": "MSc Strategic Management & ICT support at Student aan Bedrijf B.V."
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Jeroen",
+                    "last_name": "van Winkoop",
+                    "name": null,
+                    "headline": "Junior Inkoper bij De Heus Voeders B.V."
+                }
+            ]
+        },
+        {
+            "title": "Strategic Market Analysis on Expansion Strategies",
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "description": null,
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Bram",
+                    "last_name": "Leverman",
+                    "name": null,
+                    "headline": "PMO-Consultant @ N-Abled"
+                }
+            ]
+        },
+        {
+            "title": "Market Research on the Applicability of IoT-solutions in SME markets",
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "description": null,
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Bram",
+                    "last_name": "Leverman",
+                    "name": null,
+                    "headline": "PMO-Consultant @ N-Abled"
+                }
+            ]
+        }
+    ],
+    "publications": [],
+    "courses": [
+        {
+            "name": "Deepdive Nederlandse Pensioensector en het Nieuwe Pensioenakkoord",
+            "number": null
+        },
+        {
+            "name": "Extra-curriculair Honoursprogramma Avans Chance \u2018Scoren als Verkoper\u2019",
+            "number": null
+        }
+    ],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 78274585,
+                "name": "N-Abled",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQFLZkmFaVdUzw/company-logo_400_400/0/1641197956428?e=1703721600&v=beta&t=1wkb4m1NX9niB2l_0lIEoLZdybEi_uEk1KnY1UhgsuQ",
+                "url": "https://www.linkedin.com/company/n-abled/",
+                "employees": {
+                    "start": 2,
+                    "end": 10
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "'s-Hertogenbosch, Noord-Brabant, The Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "N-Abled",
+                    "description": "-",
+                    "title": "PMO Consultant",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 11061,
+                "name": "MN",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQF8lFM0rnhl_g/company-logo_400_400/0/1594096710192?e=1703721600&v=beta&t=uUUVXCAvcl_CpTW-6nh6cGBKaLkYvtYh9vyrDssiCBQ",
+                "url": "https://www.linkedin.com/company/mn/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Den Haag, Zuid-Holland, Nederland",
+                    "date": {
+                        "start": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "MN",
+                    "description": null,
+                    "title": "PMO Consultant",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 84316,
+                "name": "Onetrail",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQG-0wWebyRYww/company-logo_400_400/0/1678459891977?e=1703721600&v=beta&t=lUqt5K88NAdzk_1HsPdnUQBIq0TgVbXCcE7jhoON4PE",
+                "url": "https://www.linkedin.com/company/onetrail/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Zeist, Utrecht, The Netherlands ",
+                    "date": {
+                        "start": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2020
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2020
+                        }
+                    },
+                    "company": "Onetrail",
+                    "description": "Software provider specialized in managing and standardizing logistical and administrative data streams among business processes and organizations, by integrating EDI-solutions that optimize the information exchange between partners within the supply chain\n\nConducted a strategically-oriented market research study that identified and analyzed attractive industries and markets within the Dutch marketplace \n\nCreated an implementation plan (GTM) based on the aforementioned market research to define potential entry modes for Onetrail to penetrate these attractive markets",
+                    "title": "Intern",
+                    "employment_type": "Internship"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 553437,
+                "name": "The Dutch",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQE76lODh5PZ0g/company-logo_400_400/0/1675075948963?e=1703721600&v=beta&t=p9AWtG45eBaXkk6ytqYfOewCWTNwF0p77XJcJyBSFIU",
+                "url": "https://www.linkedin.com/company/the-dutch/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Spijk, The Netherlands ",
+                    "date": {
+                        "start": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2017
+                        },
+                        "end": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2020
+                        }
+                    },
+                    "company": "The Dutch",
+                    "description": "-",
+                    "title": "Attendant",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 215142,
+                "name": "VodafoneZiggo",
+                "logo": "https://media.licdn.com/dms/image/D560BAQEgcc_BgwRoQg/company-logo_400_400/0/1685716151633?e=1703721600&v=beta&t=hjY_IS83oFBBvEE1wDupZACzW9ePguJ1nG2gS8iotCk",
+                "url": "https://www.linkedin.com/company/vodafoneziggo/",
+                "employees": {
+                    "start": 5001,
+                    "end": 10000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Utrecht, The Netherlands ",
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "VodafoneZiggo",
+                    "description": "Supporting role within the B2B marketing (proposition) team focused on Internet of Things (IoT) solutions for VodafoneZiggo\u2019s clients \n\nConducted a market research study focused on analyzing the applicability of (E2E) IoT-solutions for Dutch SME clients and identifying potential client demands for these solutions (\u2264 50 FTE)\n\nCreated an advisory report with recommendations on the scale of IoT-demand among small businesses to integrate IoT-solutions and determined which solutions are the most applicable in the SME segment (report was assessed with a 9 out of 10)",
+                    "title": "Intern",
+                    "employment_type": "Internship"
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

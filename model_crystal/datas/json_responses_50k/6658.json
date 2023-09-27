@@ -1,0 +1,953 @@
+{
+    "profile_id": "mike-z-228558a2",
+    "first_name": "Mike",
+    "last_name": "Z.",
+    "sub_title": "IT Sr. System Engineer Virtualization Global & IT Infrastructure Netherlands",
+    "profile_picture": "https://media.licdn.com/dms/image/C4E03AQGJ_iLIFlzv-g/profile-displayphoto-shrink_800_800/0/1648116918938?e=1701302400&v=beta&t=gggimH3ywESXfNaWV-nUn9VgThytb0qug_lWfopLGBA",
+    "background_image": "https://media.licdn.com/dms/image/C4E16AQFbaS0t1CnTew/profile-displaybackgroundimage-shrink_350_1400/0/1648116995249?e=1701302400&v=beta&t=Zv0y2V_dIE6Z_6vnItWyhCT7-_1Ih-zSkKyMWOnCccE",
+    "profile_type": "personal",
+    "entity_urn": "ACoAABXLaEABrnCAA8XvVaqFBZWXesaSKBrU9oA",
+    "object_urn": 365652032,
+    "birth_date": null,
+    "summary": null,
+    "location": {
+        "country": "Netherlands",
+        "short": "Velserbroek, North Holland",
+        "city": "Velserbroek",
+        "state": "North Holland",
+        "default": "Velserbroek, North Holland, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "NL",
+            "language": "nl"
+        },
+        "supported_locales": [
+            {
+                "country": "NL",
+                "language": "nl"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "Dutch",
+                "proficiency": "FULL_PROFESSIONAL"
+            },
+            {
+                "name": "English",
+                "proficiency": "FULL_PROFESSIONAL"
+            },
+            {
+                "name": "German",
+                "proficiency": "LIMITED_WORKING"
+            }
+        ]
+    },
+    "industry": "Pharmaceuticals",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 1985
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 1990
+                }
+            },
+            "school": {
+                "name": "IJmond MTS",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "Bachelors level",
+            "field_of_study": "Technische informatica / Computertechniek / Technische computerkunde",
+            "grade": "8"
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [
+        {
+            "name": "Project Management Foundations: Communication",
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2023
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "LinkedIn",
+            "url": "https://www.linkedin.com/learning/certificates/165ac20cb4d4adecb495eafc7f506373bd17bd0851a28850738bc468047632b9?trk=flagship-lil_details_certification",
+            "license_number": null,
+            "display_source": "linkedin.com",
+            "company": {
+                "id": null,
+                "name": "LinkedIn",
+                "logo": "https://media.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_400_400/0/1638831589865?e=1703721600&v=beta&t=KNdxtUphPuS9FSsMLufiLiJkk8rvPVMnZH848WjKHl0",
+                "url": null
+            }
+        },
+        {
+            "name": "AWS Cloud Practitioner Essentials",
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Amazon Web Services (AWS)",
+            "url": "https://www.aws.training/Transcript/CompletionCertificateHtml?transcriptid=mEuRzvV-F0SqUNR1x4jMXw2",
+            "license_number": "w2m21o5VrEK8zwo7wRxO-A2",
+            "display_source": "aws.training",
+            "company": {
+                "id": null,
+                "name": "Amazon Web Services (AWS)",
+                "logo": "https://media.licdn.com/dms/image/C560BAQER_QnUTXrPJw/company-logo_400_400/0/1670264050886?e=1703721600&v=beta&t=3IYmCjBx7-RbiHOyhmKp9bX_etnAR2mcOn2MncQL5u0",
+                "url": null
+            }
+        },
+        {
+            "name": "Learning VMware vSAN",
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "LinkedIn",
+            "url": "https://www.linkedin.com/learning/certificates/7ebd62f6c20dd6ab87acf515a53e8733c6d45e1c0dcaa77b44b707256a5e91dc?trk=backfilled_certificate",
+            "license_number": null,
+            "display_source": "linkedin.com",
+            "company": {
+                "id": null,
+                "name": "LinkedIn",
+                "logo": "https://media.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_400_400/0/1638831589865?e=1703721600&v=beta&t=KNdxtUphPuS9FSsMLufiLiJkk8rvPVMnZH848WjKHl0",
+                "url": null
+            }
+        },
+        {
+            "name": "Learning VMware NSX",
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "LinkedIn",
+            "url": "https://www.linkedin.com/learning/certificates/70f7a5f60516461eb05c62f177e706ea4a6bd9a82b3921b930858060781b999c?trk=backfilled_certificate",
+            "license_number": null,
+            "display_source": "linkedin.com",
+            "company": {
+                "id": null,
+                "name": "LinkedIn",
+                "logo": "https://media.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_400_400/0/1638831589865?e=1703721600&v=beta&t=KNdxtUphPuS9FSsMLufiLiJkk8rvPVMnZH848WjKHl0",
+                "url": null
+            }
+        },
+        {
+            "name": "Windows Server 2019: First Look",
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "LinkedIn",
+            "url": "https://www.linkedin.com/learning/certificates/89b36164758324b396784089d9fafb38fcc2413e38eb7b25c451d2911ac34bff?trk=backfilled_certificate",
+            "license_number": null,
+            "display_source": "linkedin.com",
+            "company": {
+                "id": null,
+                "name": "LinkedIn",
+                "logo": "https://media.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_400_400/0/1638831589865?e=1703721600&v=beta&t=KNdxtUphPuS9FSsMLufiLiJkk8rvPVMnZH848WjKHl0",
+                "url": null
+            }
+        },
+        {
+            "name": "vSphere 6.7 Part 01:  Managing Networking",
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "LinkedIn",
+            "url": "https://www.linkedin.com/learning/certificates/c57c72945cbf8f445583109ce7db5f1d304bc457e28b0c2195077304ac26aba0?trk=backfilled_certificate",
+            "license_number": null,
+            "display_source": "linkedin.com",
+            "company": {
+                "id": null,
+                "name": "LinkedIn",
+                "logo": "https://media.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_400_400/0/1638831589865?e=1703721600&v=beta&t=KNdxtUphPuS9FSsMLufiLiJkk8rvPVMnZH848WjKHl0",
+                "url": null
+            }
+        },
+        {
+            "name": "vSphere 6.7 Part 02:  Managing Storage",
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "LinkedIn",
+            "url": "https://www.linkedin.com/learning/certificates/d78be380350a678033b7cf03bdb81dd61eb59d6e4139c81a656c24e85cc82598?trk=backfilled_certificate",
+            "license_number": null,
+            "display_source": "linkedin.com",
+            "company": {
+                "id": null,
+                "name": "LinkedIn",
+                "logo": "https://media.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_400_400/0/1638831589865?e=1703721600&v=beta&t=KNdxtUphPuS9FSsMLufiLiJkk8rvPVMnZH848WjKHl0",
+                "url": null
+            }
+        },
+        {
+            "name": "Delegating Tasks",
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "LinkedIn",
+            "url": "https://www.linkedin.com/learning/certificates/c6f2dae0b0eb8a6581c51b2ad424996c1eafcb138522b8c2e3a83cf0d1dd763f?trk=backfilled_certificate",
+            "license_number": null,
+            "display_source": "linkedin.com",
+            "company": {
+                "id": null,
+                "name": "LinkedIn",
+                "logo": "https://media.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_400_400/0/1638831589865?e=1703721600&v=beta&t=KNdxtUphPuS9FSsMLufiLiJkk8rvPVMnZH848WjKHl0",
+                "url": null
+            }
+        },
+        {
+            "name": "Learning ITIL\u00ae",
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "LinkedIn",
+            "url": "https://www.linkedin.com/learning/certificates/503c97f306621e3d8317b930c2388a8ecc6334538d181b24851ea4883ea3398d?trk=backfilled_certificate",
+            "license_number": null,
+            "display_source": "linkedin.com",
+            "company": {
+                "id": null,
+                "name": "LinkedIn",
+                "logo": "https://media.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_400_400/0/1638831589865?e=1703721600&v=beta&t=KNdxtUphPuS9FSsMLufiLiJkk8rvPVMnZH848WjKHl0",
+                "url": null
+            }
+        },
+        {
+            "name": "Make IT Work in Your Business",
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "LinkedIn",
+            "url": "https://www.linkedin.com/learning/certificates/9895642e3cf8c4abf27038fa13edebde21d0bd5caf6a2bf94577a25abeaad19d?trk=backfilled_certificate",
+            "license_number": null,
+            "display_source": "linkedin.com",
+            "company": {
+                "id": null,
+                "name": "LinkedIn",
+                "logo": "https://media.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_400_400/0/1638831589865?e=1703721600&v=beta&t=KNdxtUphPuS9FSsMLufiLiJkk8rvPVMnZH848WjKHl0",
+                "url": null
+            }
+        },
+        {
+            "name": "Learning VMware vSphere",
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Lynda.com",
+            "url": "https://www.lynda.com/ViewCertificate/689107D4387D44ACB3C44CF3A1FDB090?utm_source=directlink&utm_medium=sharing&utm_campaign=certificate",
+            "license_number": "689107D4387D44ACB3C44CF3A1FDB090",
+            "display_source": "lynda.com",
+            "company": {
+                "id": null,
+                "name": "Lynda.com",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQFfDMello2Gtg/company-logo_400_400/0/1519856598122?e=1703721600&v=beta&t=m8qlMfhpFgMwD6hXTdCu2V5yMeI5MahGc9YlF39e2dI",
+                "url": null
+            }
+        },
+        {
+            "name": "Learning Virtualization",
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Lynda.com",
+            "url": "https://www.lynda.com/ViewCertificate/34627D03B8C9463BA8409A025EB43719?utm_source=directlink&utm_medium=sharing&utm_campaign=certificate",
+            "license_number": "34627D03B8C9463BA8409A025EB43719",
+            "display_source": "lynda.com",
+            "company": {
+                "id": null,
+                "name": "Lynda.com",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQFfDMello2Gtg/company-logo_400_400/0/1519856598122?e=1703721600&v=beta&t=m8qlMfhpFgMwD6hXTdCu2V5yMeI5MahGc9YlF39e2dI",
+                "url": null
+            }
+        },
+        {
+            "name": "Microsoft Azure Stack First Look",
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Lynda.com",
+            "url": "https://www.lynda.com/ViewCertificate/1579131DD01E4CE686B5B4A03F7510FC?utm_source=directlink&utm_medium=sharing&utm_campaign=certificate",
+            "license_number": "1579131DD01E4CE686B5B4A03F7510FC",
+            "display_source": "lynda.com",
+            "company": {
+                "id": null,
+                "name": "Lynda.com",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQFfDMello2Gtg/company-logo_400_400/0/1519856598122?e=1703721600&v=beta&t=m8qlMfhpFgMwD6hXTdCu2V5yMeI5MahGc9YlF39e2dI",
+                "url": null
+            }
+        },
+        {
+            "name": "VMware vSphere 6 Essential Training",
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Lynda.com",
+            "url": "https://www.lynda.com/ViewCertificate/EFD9ABC5DB524FD3949C0FDD162DBF1C?utm_source=directlink&utm_medium=sharing&utm_campaign=certificate",
+            "license_number": "EFD9ABC5DB524FD3949C0FDD162DBF1C",
+            "display_source": "lynda.com",
+            "company": {
+                "id": null,
+                "name": "Lynda.com",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQFfDMello2Gtg/company-logo_400_400/0/1519856598122?e=1703721600&v=beta&t=m8qlMfhpFgMwD6hXTdCu2V5yMeI5MahGc9YlF39e2dI",
+                "url": null
+            }
+        },
+        {
+            "name": "VMware vSphere 6.5 (VCP6.5-DCV)",
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "CBT Nuggets",
+            "url": "https://www.dropbox.com/s/wjobw5kto1bff6h/VMware%20vSphere%206.5%20%28VCP6.5-DCV%29.pdf?dl=0",
+            "license_number": "VCP6.5-DCV",
+            "display_source": "dropbox.com",
+            "company": {
+                "id": null,
+                "name": "CBT Nuggets",
+                "logo": "https://media.licdn.com/dms/image/C560BAQHd64D1vz7gVQ/company-logo_400_400/0/1558467059287?e=1703721600&v=beta&t=eJeQgHwYBaCdFZ0RE4O8uhpI5SKPeY-2BEMXsoZ1Uu4",
+                "url": null
+            }
+        },
+        {
+            "name": "VMware vSphere: Administer and Manage Resources",
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Lynda.com",
+            "url": "http://www.lynda.com/vSphere-tutorials/Administer-Manage-VMware-vSphere-Resources/499091-2.html",
+            "license_number": null,
+            "display_source": "lynda.com",
+            "company": {
+                "id": null,
+                "name": "Lynda.com",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQFfDMello2Gtg/company-logo_400_400/0/1519856598122?e=1703721600&v=beta&t=m8qlMfhpFgMwD6hXTdCu2V5yMeI5MahGc9YlF39e2dI",
+                "url": null
+            }
+        },
+        {
+            "name": "VMware vSphere: Configure Advanced DRS Features",
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Lynda.com",
+            "url": "http://www.lynda.com/ESXi-tutorials/VMware-vSphere-Configure-Advanced-DRS-Features/518757-2.html",
+            "license_number": null,
+            "display_source": "lynda.com",
+            "company": {
+                "id": null,
+                "name": "Lynda.com",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQFfDMello2Gtg/company-logo_400_400/0/1519856598122?e=1703721600&v=beta&t=m8qlMfhpFgMwD6hXTdCu2V5yMeI5MahGc9YlF39e2dI",
+                "url": null
+            }
+        },
+        {
+            "name": "VMware vSphere: Configure and Administer Security",
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Lynda.com",
+            "url": "https://www.lynda.com/ViewCertificate/87EE1BA83417433EA689C74AB3054A99?utm_source=directlink&utm_medium=sharing&utm_campaign=certificate",
+            "license_number": "87EE1BA83417433EA689C74AB3054A99",
+            "display_source": "lynda.com",
+            "company": {
+                "id": null,
+                "name": "Lynda.com",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQFfDMello2Gtg/company-logo_400_400/0/1519856598122?e=1703721600&v=beta&t=m8qlMfhpFgMwD6hXTdCu2V5yMeI5MahGc9YlF39e2dI",
+                "url": null
+            }
+        },
+        {
+            "name": "VMware vSphere: Configure and Administer Security",
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Lynda.com",
+            "url": "http://www.lynda.com/ESXi-tutorials/Configure-Administer-VMware-vSphere-Security/499090-2.html",
+            "license_number": null,
+            "display_source": "lynda.com",
+            "company": {
+                "id": null,
+                "name": "Lynda.com",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQFfDMello2Gtg/company-logo_400_400/0/1519856598122?e=1703721600&v=beta&t=m8qlMfhpFgMwD6hXTdCu2V5yMeI5MahGc9YlF39e2dI",
+                "url": null
+            }
+        },
+        {
+            "name": "VMware vSphere: Configure and Manage Networking",
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Lynda.com",
+            "url": "https://www.lynda.com/ViewCertificate/F2A86CD0DB084EC5BE7A4BB5E45620CA?utm_source=directlink&utm_medium=sharing&utm_campaign=certificate",
+            "license_number": "F2A86CD0DB084EC5BE7A4BB5E45620CA",
+            "display_source": "lynda.com",
+            "company": {
+                "id": null,
+                "name": "Lynda.com",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQFfDMello2Gtg/company-logo_400_400/0/1519856598122?e=1703721600&v=beta&t=m8qlMfhpFgMwD6hXTdCu2V5yMeI5MahGc9YlF39e2dI",
+                "url": null
+            }
+        }
+    ],
+    "organizations": [],
+    "projects": [],
+    "publications": [],
+    "courses": [
+        {
+            "name": "Citrix XenApp 6.5 Administration",
+            "number": "CXA-206"
+        },
+        {
+            "name": "IBM Tivoli Storage Manager 5.5 Implementation and Administration",
+            "number": null
+        },
+        {
+            "name": "IBM i(iSeries AS/400) Administration & Control Workshop",
+            "number": null
+        },
+        {
+            "name": "Implementing a Microsoft SQL Server 2008 R2 Database",
+            "number": null
+        },
+        {
+            "name": "Installing & Configuring Windows 7 Client",
+            "number": "M6292"
+        },
+        {
+            "name": "Interconnecting Cisco Network Devices - Part 1 (CCNA) v2.0",
+            "number": "ICND1"
+        },
+        {
+            "name": "Microsoft MCSE SQL Server 2014 Developing SQL Server 2014 Databases",
+            "number": "70-464"
+        },
+        {
+            "name": "NetApp -  \tData ONTAP 7-Mode Fundamentals",
+            "number": null
+        },
+        {
+            "name": "NetApp - Clustered Data ONTAP Fundamentals",
+            "number": null
+        },
+        {
+            "name": "NetApp Certified Storage Associate (NCSA) ",
+            "number": "NS0-145"
+        },
+        {
+            "name": "Nutanix Administration Course",
+            "number": null
+        },
+        {
+            "name": "Nutanix Prism Course",
+            "number": null
+        },
+        {
+            "name": "PRINCE2\u00ae (2009) Foundation",
+            "number": "1000434050"
+        },
+        {
+            "name": "Planning and Implementing Windows Server 2008",
+            "number": "70-646"
+        },
+        {
+            "name": "VMware vSphere 5: Install, Configure, Manage v5.5",
+            "number": "VSICM"
+        },
+        {
+            "name": "VMware vSphere 5: Optimize & Scale v5.5",
+            "number": "VSOS"
+        },
+        {
+            "name": "VMware vSphere 6 (VCP6-DCV)",
+            "number": null
+        },
+        {
+            "name": "What's New in Server 2016",
+            "number": null
+        },
+        {
+            "name": "Windows Server 2012: Introduction Workshop",
+            "number": null
+        },
+        {
+            "name": "Windows Server Administration Fundamentals",
+            "number": null
+        }
+    ],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 5239,
+                "name": "Teva Pharmaceuticals",
+                "logo": "https://media.licdn.com/dms/image/D4D0BAQEXUmrJ-CwcuA/company-logo_400_400/0/1688278515058?e=1703721600&v=beta&t=_K48ji93vqQfhuyjo2g6HJNgMjbmF6l-rMcGRgr6k04",
+                "url": "https://www.linkedin.com/company/teva-pharmaceuticals/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 1996
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Haarlem, North Holland, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Teva Pharmaceuticals",
+                    "description": null,
+                    "title": "IT Sr. System Engineer Virtualization Global (VMware & Nutanix)",
+                    "employment_type": "Full-time"
+                },
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Teva Pharmaceuticals",
+                    "description": null,
+                    "title": "IT Sr. System Engineer Virtualization Global & IT Infrastructure Netherlands",
+                    "employment_type": "Full-time"
+                },
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2021
+                        }
+                    },
+                    "company": "Teva Pharmaceuticals",
+                    "description": "As a System Engineer responsible for :\n- Nutanix\n- VMware\n- Storage\n- Hardware Architecture\n- Backup & Recovery",
+                    "title": "IT Sr. System Engineer Nutanix & VMware Global",
+                    "employment_type": null
+                },
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2017
+                        },
+                        "end": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2018
+                        }
+                    },
+                    "company": "Teva Pharmaceuticals",
+                    "description": "As a System Engineer responsible for :\n- VMware (Global)\n- Nutanix (Global)\n- Storage (Netherlands)\n- Veeam (Global)\n- Hardware Architecture (Global)\n- Backup & Recovery (Netherlands)\n- System management (Netherlands\n- Database Administrator Microsoft SQL Server (Netherlands)\n\nAs a Training Expert for System Admins responsible to find the right courses per individual in the System Admin teams Worldwide.",
+                    "title": "ITO Sr. System Engineer Virtualization and Training Expert for System Admins",
+                    "employment_type": null
+                },
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2017
+                        },
+                        "end": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2017
+                        }
+                    },
+                    "company": "Teva Pharmaceuticals",
+                    "description": "Responsible for :\n- VMware\n- Nutanix\n- Storage\n- Backup & Recovery\n- System management\n- Database Administrator Microsoft SQL Server",
+                    "title": "ITO Sr. System Engineer (Europe)",
+                    "employment_type": null
+                },
+                {
+                    "location": "Netherlands,Belgium,Luxembourg,Norway,Sweden,Finland,Denmark & TEVA HQ",
+                    "date": {
+                        "start": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2016
+                        }
+                    },
+                    "company": "Teva Pharmaceuticals",
+                    "description": "Responsible for :\n- VMware\n- Network\n- Storage\n- Backup & Recovery\n- AS400 management\n- System management\n- Database Administrator on Oracle/Microsoft SQL Server",
+                    "title": "ITO System Engineer Benelux , Nordics & TEVA EU HQ",
+                    "employment_type": null
+                },
+                {
+                    "location": "Netherlands, Belgium, Luxembourg and EU headquarters",
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2015
+                        }
+                    },
+                    "company": "Teva Pharmaceuticals",
+                    "description": "Responsible for :\n- VMware\n- Network\n- Storage\n- Backup & Recovery\n- AS400 management\n- System management\n- Database Administrator on Oracle/Microsoft SQL Server",
+                    "title": "IT System & Application Engineer",
+                    "employment_type": null
+                },
+                {
+                    "location": "Netherlands, Belgium, Luxembourg and EU headquarters",
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2015
+                        }
+                    },
+                    "company": "Teva Pharmaceuticals",
+                    "description": "Responsible for :\n- VMware\n- Network\n- Storage\n- Backup & Recovery\n- AS400 management\n- System management\n- Database Administrator on Oracle/Microsoft SQL Server",
+                    "title": "IT System & Application Engineer",
+                    "employment_type": null
+                },
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 1996
+                        },
+                        "end": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2015
+                        }
+                    },
+                    "company": "Teva Pharmaceuticals",
+                    "description": null,
+                    "title": "VMware / Network / Storage / Backup & System manager / DBA",
+                    "employment_type": null
+                },
+                {
+                    "location": "Haarlem",
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 1996
+                        },
+                        "end": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2015
+                        }
+                    },
+                    "company": "Teva Pharmaceuticals",
+                    "description": null,
+                    "title": "VMware / Network / Storage / Backup & System manager / DBA",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Mediasystemen",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 1990
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 1996
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Global",
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 1990
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 1996
+                        }
+                    },
+                    "company": "Mediasystemen",
+                    "description": null,
+                    "title": "Field Support Engineer/ Sybase DBA",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Disaster Recovery",
+        "Servers",
+        "Unix",
+        "Data Center",
+        "Windows Server",
+        "High Availability",
+        "Linux",
+        "Operating Systems",
+        "System Administration",
+        "SAN",
+        "Virtualization",
+        "Network Administration",
+        "Software Documentation",
+        "Troubleshooting",
+        "Oracle",
+        "Microsoft SQL Server",
+        "Cisco Nexus",
+        "NetApp Filers",
+        "VMware vSphere",
+        "VMware vCenter"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

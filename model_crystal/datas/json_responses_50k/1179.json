@@ -1,0 +1,703 @@
+{
+    "profile_id": "dennis-merkus",
+    "first_name": "Dennis",
+    "last_name": "Merkus",
+    "sub_title": "Bit Magician",
+    "profile_picture": null,
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAABiJp-0BOrJSQj4mgkqusI-NbQJT4kTDN2A",
+    "object_urn": 411674605,
+    "birth_date": null,
+    "summary": null,
+    "location": {
+        "country": null,
+        "short": "Netherlands",
+        "city": null,
+        "state": null,
+        "default": "Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "Arabic",
+                "proficiency": "ELEMENTARY"
+            },
+            {
+                "name": "Chinese (Traditional)",
+                "proficiency": "ELEMENTARY"
+            },
+            {
+                "name": "Dutch",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "English",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "German",
+                "proficiency": "LIMITED_WORKING"
+            },
+            {
+                "name": "Japanese",
+                "proficiency": "PROFESSIONAL_WORKING"
+            },
+            {
+                "name": "Russian",
+                "proficiency": "ELEMENTARY"
+            }
+        ]
+    },
+    "industry": "Computer Software",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "school": {
+                "name": "Radboud University",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQHgdni-2v0psQ/company-logo_400_400/0/1670846116863?e=1703721600&v=beta&t=a4mqpMCP_swOQ-RhyswHhGYJT1FDXZvwwsXJKNR_DHA",
+                "url": "https://www.linkedin.com/school/radboud-university-nijmegen/"
+            },
+            "degree_name": "Bachelor\u2019s Degree",
+            "field_of_study": "Artificial Intelligence",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "school": {
+                "name": "Tokyo Institute of Technology",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQEGCJG4ukfFyA/company-logo_400_400/0/1519892728945?e=1703721600&v=beta&t=S1N46-1vKqnARTAHm0TI6RmrFJjBIpEBCr-42q9xJVA",
+                "url": "https://www.linkedin.com/school/%E6%9D%B1%E4%BA%AC%E5%B7%A5%E6%A5%AD%E5%A4%A7%E5%AD%A6/"
+            },
+            "degree_name": null,
+            "field_of_study": "Computational Intelligence",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "school": {
+                "name": "Rikkyo University",
+                "logo": "https://media.licdn.com/dms/image/C510BAQHXFRmo_BOpcQ/company-logo_400_400/0/1563263081432?e=1703721600&v=beta&t=xhtlXZZRN3s2rNMsbPjNwU2h0SfzCveIfOJCNlk4ZFU",
+                "url": "https://www.linkedin.com/school/%E7%AB%8B%E6%95%99%E5%A4%A7%E5%AD%A6/"
+            },
+            "degree_name": null,
+            "field_of_study": "Japanese Studies",
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [
+        {
+            "title": "Japanese Speech Contest, Fighting Spirit Prize",
+            "description": "The Center for Japanese Language Education (CJLE) hosts an annual Japanese Speech Contest. This contest aims to provide opportunities for Special International Students (Short-term exchange students studying at Rikkyo) to show their achievements and experiences in Japan and hopefully to motivate them to improve their proficiency in Japanese. (from https://cjle.rikkyo.ac.jp/english/speech/default.aspx)\nThe Fighting Spirit prize was for giving a speech in Japanese in the Beginner level on Artificial Intelligence, which was above the expectations for a Beginner level speech.",
+            "issuer": "Rikkyo University",
+            "date": {
+                "month": 6,
+                "day": null,
+                "year": 2014
+            }
+        }
+    ],
+    "certifications": [],
+    "organizations": [
+        {
+            "name": "The Japanese Society for Artificial Intelligence",
+            "position": null,
+            "date_start": {
+                "month": 6,
+                "day": null,
+                "year": 2015
+            },
+            "date_end": null
+        }
+    ],
+    "projects": [
+        {
+            "title": "Simulator (Bachelor project)",
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "description": "Bachelor research involved an experiment with infants. Multiple explanations for that experiment's results were proposed. This project is a simulation of that experiment with these different explanations (algorithms).\n\nThe simulation is written in Python.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Dennis",
+                    "last_name": "Merkus",
+                    "name": null,
+                    "headline": "Bit Magician"
+                }
+            ]
+        },
+        {
+            "title": "Predictive Coding Toolbox",
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "description": "The Predictive Coding Toolbox is a set of tools that is designed to\nhelp with research on the Predictive Coding framework.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Dennis",
+                    "last_name": "Merkus",
+                    "name": null,
+                    "headline": "Bit Magician"
+                }
+            ]
+        }
+    ],
+    "publications": [],
+    "courses": [
+        {
+            "name": "Algorithms and Datastructures",
+            "number": null
+        },
+        {
+            "name": "Argumentation & Debate",
+            "number": null
+        },
+        {
+            "name": "Complexity",
+            "number": null
+        },
+        {
+            "name": "Computability",
+            "number": null
+        },
+        {
+            "name": "Computer Security",
+            "number": null
+        },
+        {
+            "name": "Japanese J3",
+            "number": null
+        },
+        {
+            "name": "Japanese J5",
+            "number": null
+        },
+        {
+            "name": "Japanese Society 1",
+            "number": null
+        },
+        {
+            "name": "Language and Culture",
+            "number": null
+        },
+        {
+            "name": "Languages and Machines",
+            "number": null
+        },
+        {
+            "name": "Lecture and Discussion (Language, Culture & Communication)",
+            "number": null
+        },
+        {
+            "name": "Modern Japanese History 1",
+            "number": null
+        },
+        {
+            "name": "Semantics and Correctness",
+            "number": null
+        }
+    ],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 114584,
+                "name": "Itho Daalderop",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQFjCSKIsUDtlg/company-logo_400_400/0/1601896594738?e=1703721600&v=beta&t=2YTFLKr6VnGWjOTSYWOhuIT8hqgKHqlFH_ovvQ4Ba6o",
+                "url": "https://www.linkedin.com/company/itho-daalderop/",
+                "employees": {
+                    "start": 201,
+                    "end": 500
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "Itho Daalderop",
+                    "description": null,
+                    "title": "Software Engineer IoT & Cloud",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "FENAC",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2021
+                        }
+                    },
+                    "company": "FENAC",
+                    "description": null,
+                    "title": "Full Stack Developer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 28625553,
+                "name": "Isatis Health",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQHOIoVFIcuI8g/company-logo_400_400/0/1614857907167?e=1703721600&v=beta&t=1VXLpcJ4B6gGSyJ5eWVjAjbroonPWrz6MRagPES24kc",
+                "url": "https://www.linkedin.com/company/isatis-group/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2020
+                        },
+                        "end": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2021
+                        }
+                    },
+                    "company": "Isatis Group",
+                    "description": null,
+                    "title": "Frontend Developer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Entwine",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2020
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2020
+                        }
+                    },
+                    "company": "Entwine",
+                    "description": "I developed a language learning web app that supports language learners by automatically looking up words and grammar in articles the user found online or ebooks they loaded  into the app. Stack: Python (Flask and later FastAPI), Vue.js and Typescript, MongoDB, and Kubernetes.",
+                    "title": "Full Stack Engineer",
+                    "employment_type": "Self-employed"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Velocity",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Nijmegen Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2020
+                        }
+                    },
+                    "company": "Velocity",
+                    "description": null,
+                    "title": "Bike Messenger",
+                    "employment_type": "Part-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1544610,
+                "name": "EXNER INGENIEURSTECHNIEK B.V.",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQE0N37843fv0A/company-logo_400_400/0/1534242344673?e=1703721600&v=beta&t=w2sUFT_XsHP9dpCNN0y0xrN4kRfqmEbPdJGVYazvIoI",
+                "url": "https://www.linkedin.com/company/exner-ingenieurstechniek-b.v./",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2015
+                        }
+                    },
+                    "company": "EXNER INGENIEURSTECHNIEK B.V.",
+                    "description": null,
+                    "title": "Programmer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Bijles Maas en Waal",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2010
+                },
+                "end": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "day": null,
+                            "year": 2010
+                        },
+                        "end": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2014
+                        }
+                    },
+                    "company": "Bijles Maas en Waal",
+                    "description": "Tutoring Mathematics, Physics and Chemistry to high school (HAVO, VWO) students.\nHelping with the students' homework, providing alternative explanations of required material and correcting possible mistakes during the problem solving process, while adapting to the individual student's needs.",
+                    "title": "Private Tutor",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 6901,
+                "name": "Radboud University",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQHgdni-2v0psQ/company-logo_400_400/0/1670846116863?e=1703721600&v=beta&t=a4mqpMCP_swOQ-RhyswHhGYJT1FDXZvwwsXJKNR_DHA",
+                "url": "https://www.linkedin.com/school/radboud-university-nijmegen/",
+                "employees": {
+                    "start": 5001,
+                    "end": 10000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2013
+                        },
+                        "end": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2014
+                        }
+                    },
+                    "company": "Radboud University",
+                    "description": "Student Assistant for the Research Methods course for first year students in the Artificial Intelligence program.\nResponsible for helping students with thinking about their research plan, giving feedback on tentative plans and assisted with correcting the students' tests.",
+                    "title": "Student Assistant",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [
+        {
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "role": "Classroom Assistant",
+            "company": {
+                "id": null,
+                "name": "VluchtelingenWerk Oost Nederland (VWON)",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQF_UXEfusAcJA/company-logo_400_400/0/1649228381972?e=1703721600&v=beta&t=IfAHsFKXugn9kHwWDka-JsAKPDFGPkReDqjlhifdok4",
+                "url": "https://www.linkedin.com/company/vluchtelingenwerkoverijsselengelderland/"
+            },
+            "cause": "EDUCATION",
+            "description": "Assist in an NT2 (Dutch as a second language) class: explaining Dutch grammar and vocabulary; discussing exercises with students and guiding them where necessary."
+        },
+        {
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "role": "School care employee",
+            "company": {
+                "id": null,
+                "name": "IKC De Kubus",
+                "logo": null,
+                "url": "https://www.linkedin.com/company/ikc-de-kubus/"
+            },
+            "cause": "CHILDREN",
+            "description": null
+        }
+    ],
+    "skills": [
+        "Artificial Intelligence",
+        "Computational Linguistics",
+        "Game Design",
+        "Algorithms",
+        "Research",
+        "Web Development",
+        "Python",
+        "C++",
+        "Unity3D",
+        "Flask",
+        "MongoDB",
+        "Vue.js",
+        "Git",
+        "Docker",
+        "Rust",
+        "C#",
+        "Theoretical Computer Science",
+        "Virtual Reality",
+        "Philosophy of Mind",
+        "Lua"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

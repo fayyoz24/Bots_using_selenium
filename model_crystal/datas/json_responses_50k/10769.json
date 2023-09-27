@@ -1,0 +1,570 @@
+{
+    "profile_id": "geroldbeckers",
+    "first_name": "Gerold",
+    "last_name": "Beckers",
+    "sub_title": "Project leader",
+    "profile_picture": "https://media.licdn.com/dms/image/C4D03AQFebj_CvAjHuQ/profile-displayphoto-shrink_800_800/0/1517243833181?e=1701302400&v=beta&t=I1sVtEpHZAKPYV6qoK58bXmwT10JhOLX16ft7eSmDls",
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAAAUl740B16FPHA2XIvEPA5HlLsLJeVgd-q0",
+    "object_urn": 86372237,
+    "birth_date": null,
+    "summary": "In the semiconductor (ASML) and automotive industry (VDO Mannesmann, Siemens, TomTom) I build up a lot of experience as PM, PL, TL and Scrum master. Due to my background as software engineer, I am best to be described as foreman. With respect to content I know what is going on and what the complexity of an assignment will be. I can perfectly validate alternatives, aim on efficiency and manage targeted. With a team I am able to start and finish projects (including the deployment and acceptance). My skills in reporting, planning and communication make it possible to steer where necessary together with the customer. I know what is going on in the team (also on personal level) and how to motivate the team for longer time. Last years I have done projects in the test automation (test frameworks, test runners, simulators) in Python. In the past projects were mainly in GPS/sensor positioning (TUDelft). I am an enthusiastic and flexible PL who goes for results (pit-bull type). I aspire to work as PL/PM/SM in innovative projects with lots of puzzles and challenges. Theoretical knowledge was acquired with courses, like \u201cprofessional leadership\u201d, \u201cscrum master\u201d and \"Prince2\". Practical knowledge and experience was build up over the years while working as Foreman, PL/PM and scrum master. In the context of test automation I passed ISTQB foundation.\nI am author and publisher of the iPhone/Android app: ClickCard* (App is not available anymore).\nHobbies are scuba diving, walking (with the dogs), jogging and travelling.",
+    "location": {
+        "country": "Netherlands",
+        "short": "Eindhoven Area",
+        "city": null,
+        "state": null,
+        "default": "Eindhoven Area"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": []
+    },
+    "industry": "Semiconductors",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 1982
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 1986
+                }
+            },
+            "school": {
+                "name": "Technical High school Utrecht, Land surveying",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "Batchelor",
+            "field_of_study": null,
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 1974
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 1981
+                }
+            },
+            "school": {
+                "name": "Gymnasium Rolduc",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": null,
+            "field_of_study": null,
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "school": {
+                "name": "Qualifications",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": null,
+            "field_of_study": null,
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [],
+    "organizations": [],
+    "projects": [],
+    "publications": [],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 157240,
+                "name": "Capgemini",
+                "logo": "https://media.licdn.com/dms/image/D560BAQF_q1awsuPNAg/company-logo_400_400/0/1688232761552?e=1703721600&v=beta&t=qvh3IQNMnfr_K0evOCNqFalngzJKSchvQKll9Gryikc",
+                "url": "https://www.linkedin.com/company/capgemini/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Eindhoven, North Brabant, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Capgemini",
+                    "description": "Architects of Capgemini do (static) code analysis at the customer during their quality assessment. Each architect had to install tools on their machine before going to the customer, which had to be maintained. Further each architects did the code analysis in a different way. This project formalizes static code analysis at customer code by creating a virtual machine with tooling (Understand, CPD, Cpplint). As product owner I organized meetings to collect the requirements from the stakeholders and to discuss the implementation of the Virtual Machine. I maintained the backlog, prioritized the tasks and created the planning. Organized team meetings to brainstorm about the way to go. As scrum master I was leader of the scrum sessions, organized planning- and retrospective-meetings. Reported the progress to the managers and stakeholders. The team was a very young team which needed a lot of steering. Therefore, I helped with environment setup and python scripting. Further the team members (5-6 persons) were just temporary working on the project, which made documentation more important than normal. We were able to deliver the Virtual Machine with tooling according to the time planning",
+                    "title": "Project Manager",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "ASML via Sogeti Nederland B.V.",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Veldhoven, North Brabant, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "ASML via Sogeti Nederland B.V.",
+                    "description": "ASML machines have a lot of settings (the so called CM's). Customers of ASML have a lot of machines. Not each machine has the same settings. To be able to standardize the settings of the machines they needed a Golden Configuration, which could be used to compare with. Teams task was to make tooling around this golden configuration. As product owner I was responsible to meet the clients\u2019 needs and preferences. I managed the product backlog and prioritized the tasks. With input of the software designers I created the effort estimation and the product road map. I monitored and evaluated  product progress. Due to a mismatch of expectations, planning and costs the project was cancelled.",
+                    "title": "Product Owner",
+                    "employment_type": "Full-time"
+                },
+                {
+                    "location": "Veldhoven, North Brabant, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2021
+                        }
+                    },
+                    "company": "ASML via Sogeti Nederland B.V.",
+                    "description": "ASML machines have a lot of sensors. Sensor data were stored in XML files. Some parts of the XML files are also available to the customer, some not. This project was to make specific sensor data available to the customer when a certain configuration setting was enabled. The project contained 3 subprojects at different departments of ASML. The complete project team consisted of 4 people. Each project had his own group of stakeholder. Communication to the stakeholders was organized by me via the bi-weekly reporting (via report and meeting) and the technical meetings (once per week). For each subproject I create their own planning and timeline. The team worked with scrum (Jira). All 3 projects were delivered in time. Original project budget  exceeded due to new/changed requests of the customer. New budgets were arranged for the extra work.",
+                    "title": "Project Manager InfromPro2",
+                    "employment_type": "Full-time"
+                },
+                {
+                    "location": "Eindhoven, North Brabant, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2021
+                        }
+                    },
+                    "company": "ASML via Sogeti Nederland B.V.",
+                    "description": "Capgemini created a test framework (called Twist) for doing End to End testing. This test framework was in use in all development departments of ASML. Further ASML needed test tooling to facilitate and simplify testing. Parts of the tooling was needed for CICD. In this function in test automation I had several roles. As PL/TL/PO/Scrum master I leaded 1 or 2 teams of 7 persons in total. Further I was software engineer/architect in test automation. As team we created/maintained the Twist, multiple Test runner/convertors and a Test Runner tool (called TestStreet). With the test framework ASML was able to create automated test cases. The test framework contained 1 million lines of code and with the adapted external libraries even 4 million. I was the product owner of Twist and maintained the backlog. As team we were constantly looking opportunities to improve, facilitate and simplify testing. As Project lead I steered the brainstorm session to come to better results. Examples of the test runner/convertors that we created are the parallel running of test (to speed up testing) and tooling for test conversion to make testcases suitable for different product. Test Runner tool TestStreet that we invented and created, runs automated tests in the build pipeline of the LithoInsight and Yieldstar division of ASML. Of this product I was also the product owner. TestStreet setups automatically the test equipment, installs the build, selects and installs the correct version of the test framework. Further it queues the tests, runs the tests and reports the test results (green/red). It takes care that the limited test equipment is used in the most efficient way. The team was judged as very valuable to ASML,  leading to highest possible score in the evaluation. Team budget was up to 1 Million Euro per year.",
+                    "title": "Project Manager/Team Lead ",
+                    "employment_type": "Full-time"
+                },
+                {
+                    "location": "Eindhoven, North Brabant, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2015
+                        }
+                    },
+                    "company": "ASML via Sogeti Nederland B.V.",
+                    "description": "Found an approach for  model based testing of Virtual Fab. Approach was based on an activities. An activity is on 1 system. Each activity had input and output and possible follow up activities. The follow up activities linked activities with each other. Because there could be multiple follow up activities, there were also multiple paths that could be followed. By this multiple test cases could be generated.",
+                    "title": "Architect Mobel based testing",
+                    "employment_type": "Full-time"
+                },
+                {
+                    "location": "Eindhoven Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2012
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2015
+                        }
+                    },
+                    "company": "ASML via Sogeti Nederland B.V.",
+                    "description": "ASML, May 2013 - August 2015:\nIn the project Automatic Customer Profiling at ASML I was foreman, developer, scrum master and  architect. The team consisted of 3-4 persons. As foreman I was contact person between ASML en Sogeti team. Together with the team we designed and deployed applications in python related to customer profiling (collect data of the customer, hide IP and reconstruct data to useful test cases).",
+                    "title": "Foreman/Software Specialist High Tech",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "private company",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Eindhoven",
+                    "date": {
+                        "start": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2012
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2012
+                        }
+                    },
+                    "company": "private company",
+                    "description": "Creating of Android and IOS applications for Android phones (like Galaxy, HTC etc.) and iPhone. Published the application \u201cClickCard*\u201d in the Apple App store and the Android play store for using on the Android phone. ClickCard* is rewarded with 4.5 stars (out of 5) by the audience. An improved version of ClickCard* has been forwarded to the App store for approval. After approval ClickCard* will also be available on the iPhone. The Android application is coded in source code language Java while using the development tool Eclipse and the iPhone application is made in Objective-C with the tool xCode.",
+                    "title": "Software Engineer Mobile Phone",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 166474,
+                "name": "TomTom",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQEp2Gvhh-zjGQ/company-logo_400_400/0/1667371078806?e=1703721600&v=beta&t=zR2XO_id4YHjF4NKi0I_G5wirCoYEHfHmcSMpOWvrco",
+                "url": "https://www.linkedin.com/company/tomtom/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2007
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Business Unit Automotive, Eindhoven",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2009
+                        },
+                        "end": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2012
+                        }
+                    },
+                    "company": "TomTom",
+                    "description": "Designed and constructed a software framework to make automated tests for embedded systems. The tests improved the reliability of (source) code considerably by running the tests automatically at each check-in of source code by a developer. Designed and constructed automated tests for positioning software as project lead of a multi site team. Temporarily team lead of the automation team.",
+                    "title": "Team lead and Senior Software Engineer Test Automation/Positioning",
+                    "employment_type": null
+                },
+                {
+                    "location": "Business Unit Automotive, Eindhoven",
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2007
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2008
+                        }
+                    },
+                    "company": "TomTom",
+                    "description": "Project team created new positioning software dedicated to Automotive requirements. Software design was made in co-operation with positioning team of TomTom Amsterdam what resulted in a generic solution for all products.",
+                    "title": "Project leader of the Positioning team",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1043,
+                "name": "Siemens",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQHYr4M_PHhGdg/company-logo_400_400/0/1688363990057?e=1703721600&v=beta&t=NxqPbhz2eEAtYqYyPdrSPz3eQlRjrtLBfWpcytp1skI",
+                "url": "https://www.linkedin.com/company/siemens/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 1998
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2007
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "VDO Dayton, Eindhoven",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2006
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2007
+                        }
+                    },
+                    "company": "Siemens",
+                    "description": "Set-up and managed the maintenance of all HW and SW products of VDO Dayton (navigation systems). Negotiated with the customers about the content of new software deliveries and hardware improvements. Arranged project teams for each sub-task. Budget 1.4 M Euro. Supported the handover of the VDO Dayton products to Siemens Germany at the TomTom take-over of the department.",
+                    "title": "Project Manager Maintenance",
+                    "employment_type": null
+                },
+                {
+                    "location": "VDO Dayton, Eindhoven",
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 1998
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2005
+                        }
+                    },
+                    "company": "Siemens",
+                    "description": "Created Host Based GPS software which saved a processor of the GPS receiver. Was responsible for the gyro (angular rate system). Performed as project leader benchmarks of new (cheaper) gyros of other suppliers by which millions could be saved. Negotiated with the gyro suppliers about required specification, selection and improvements. Member of the project team to improve the positioning software for different products.",
+                    "title": "Software Engineer of Positioning team",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Technical University Delft",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 1989
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 1998
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Faculty Of Geodesy",
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 1989
+                        },
+                        "end": {
+                            "month": 5,
+                            "day": null,
+                            "year": 1998
+                        }
+                    },
+                    "company": "Technical University Delft",
+                    "description": "Gave lectures to the students. Contributed in research projects with respect to GPS and land deformation. Linked the Dutch coordinate frame to the international frame of GPS (WGS-84) via highly accurate GPS baselines which were automatically calculated on a daily base. Published on the research. Member of the board of the faculty.",
+                    "title": "Medewerker Geodetische Rekentechniek",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Municipality of Rotterdam",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 1986
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 1989
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Department Land surveying and Cadastral Information.",
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 1986
+                        },
+                        "end": {
+                            "month": 5,
+                            "day": null,
+                            "year": 1989
+                        }
+                    },
+                    "company": "Municipality of Rotterdam",
+                    "description": "Documented the first Dutch automated system for properties, pipes lines and topography.",
+                    "title": "Land surveyor",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Scrum master",
+        "Planning Budgeting & Forecasting",
+        "Stakeholder Management",
+        "Software Engineering",
+        "Team Leadership",
+        "Positioning (XYZ)",
+        "Embedded Software",
+        "Scrum",
+        "C++",
+        "Python",
+        "Embedded Systems",
+        "Software Development",
+        "GPS",
+        "Software Design",
+        "Android",
+        "OOP",
+        "Java",
+        "Unix",
+        "Linux",
+        "C"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

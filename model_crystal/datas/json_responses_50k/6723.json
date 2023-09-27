@@ -1,0 +1,508 @@
+{
+    "profile_id": "ben-van-de-put-23046952",
+    "first_name": "Ben",
+    "last_name": "van de Put",
+    "sub_title": "Product Consultant CCV Group (Compentence Centre Payment Acceptance)",
+    "profile_picture": null,
+    "background_image": "https://media.licdn.com/dms/image/D4E16AQEOazIXrrTKVg/profile-displaybackgroundimage-shrink_350_1400/0/1665076615213?e=1701302400&v=beta&t=KQyNghPI5MZiCMaHRGMLyxaaUzEn4u-xomrGWRRGGJk",
+    "profile_type": "personal",
+    "entity_urn": "ACoAAAsaNAQBZhkiS6Y9c7aBDAAbUFEiSbHPsxc",
+    "object_urn": 186266628,
+    "birth_date": null,
+    "summary": "About Ben:\nBen is employed at the CCV Group (Competence Centre Payment Acceptance), the terminal development group of CCV, and he started in september 2000. In his profession as Product Consultant he is a bridge between technology and commerce, able to explain complex technology or systems in simple words. Ben has a strong analytic ability, is always reasoning from customer perspective, Ben is always focussing on solutions and willing to help other people.\nBased on his experience Ben has been the architect of a number of CCV Products like CCV P-Gateway and CCV Motion, and the CCV cloud solution vallen CCC (Ccv Cloud Connect) by writing clear Functional Designs which are worked out within CCV Group and are successful products in the CCV Product Portfolio.\n\nAbout CCV:\nCCV is an international organisation specialising in electronic payments in the Netherlands, Belgium, Luxembourg and Germany. In Europe CCV ranks among the major providers of payment terminals. CCV further specialises in processing transactions and developing loyalty and customer card systems. Since 2007 CCV has been acting as a payment facilitator in accordance with Currence certification. In 2011 CCV became an official payment institution under the supervision of the Dutch Central Bank. With more than 137,000 customers and over 180.000 terminals in the Dutch market and over 500.000 terminals in Europe, CCV has built up a strong market position, providing both standard products and customised solutions. The head office of the company, founded in 1958, is located in Arnhem.",
+    "location": {
+        "country": "Netherlands",
+        "short": "Kootwijkerbroek, Gelderland",
+        "city": "Kootwijkerbroek",
+        "state": "Gelderland",
+        "default": "Kootwijkerbroek, Gelderland, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [
+        {
+            "url": null,
+            "title": "CCV Group (Competence Centre Payment Acceptance)",
+            "description": "",
+            "image": null
+        }
+    ],
+    "languages": {
+        "primary_locale": {
+            "country": "NL",
+            "language": "nl"
+        },
+        "supported_locales": [
+            {
+                "country": "NL",
+                "language": "nl"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "Duits",
+                "proficiency": null
+            },
+            {
+                "name": "Engels",
+                "proficiency": null
+            },
+            {
+                "name": "Frans",
+                "proficiency": null
+            }
+        ]
+    },
+    "industry": "Financial Services",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 1980
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 1983
+                }
+            },
+            "school": {
+                "name": "HAN University of Applied Sciences",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "Bachelor of Science (BSc)",
+            "field_of_study": "Electrical engineering and Information technology",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 1993
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 1994
+                }
+            },
+            "school": {
+                "name": "Fontys University of Applied Sciences",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "BSc",
+            "field_of_study": "Pedagogisch Technisch Hogeschool",
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "Cloud Accessible Terminal (CAT)",
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "description": "In 2017 I became one of the founding fathers of the Cloud Accessible Terminal (CAT). Untill then communication protocols between Point Of Sale (POS) and Payment Terminals were always using LAN. These protocols could not be transported over public internet without extra measures, because of lack of encryption and authentication.\nThe CAT combines the on-line and off-line world and is the first CCV terminal that enables EFT transactions initiated in the cloud (website) and processed on the regular PINpad (Vx820) without extra measures in a full secure way. The CAT is provided as a PSP service. In stead of starting a iDEAL, PayPal, Mastercard or Visa transaction from the website, the website starts the transaction towards the PINPad directly using the same interface.\nPilots for kiosks (semi-unattended) start in Q3 2017. A solution for a full browser based attended POS devices is expected in 2018.\n",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Ben",
+                    "last_name": "van de Put",
+                    "name": null,
+                    "headline": "Product Consultant CCV Group (Compentence Centre Payment Acceptance)"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Dieter",
+                    "last_name": "Lambrecht",
+                    "name": null,
+                    "headline": "Product Manager at Unifiedpost Payments"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Louis",
+                    "last_name": "van den Munckhof",
+                    "name": null,
+                    "headline": "Owner, MTec"
+                }
+            ]
+        },
+        {
+            "title": "CCV Motion",
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "description": "In July 2012 I became responsible to create the functional design of a product that was later called CCV Motion. For launching customer Q-Park we created a solution for the Off-street Parking Environment which gave the possibilty for users to drive in, drive out with debit or credit card. A PayStation (Pay on Foot) solution, Access Control to the Parking Garage and WebService made the solution complete. EMV, Tokenisation, No CVM (also for Debit cards) are the keywords within CCV Motion. CCV Motion is an online system, but also provides a solution when internet is unavailable (stand-in) or a card reader is out of order (manual procedure to book transactions) by storing transactions locally and evacuating the transactions later by usage of the WebService without storage of any PCI DSS sensitive data. \nBy putting CCV EMV-terminals (with SRED and Open Protocols certificate) into the Entry gate Exit gate, PayStation and Door Reader and usage of CardTokens generated by these terminals, the entire parking environment (Gates, PayStations, DoorReaders, PMS and network) is out of scope for PCI DSS. \nThe TOP 5 key players in Parking Management Systems in Europe have implemented or are busy implementing CCV Motion. Currently CCV Motion is up and running in the Netherlands, Belgium, Ireland, Germany and United Kingdom. Other European countries are expected to follow soon. \nCurrently the CCV Motion is extended with contactless NFC payments (PayPass, PayWave).",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Ben",
+                    "last_name": "van de Put",
+                    "name": null,
+                    "headline": "Product Consultant CCV Group (Compentence Centre Payment Acceptance)"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Dick",
+                    "last_name": "Dijkman",
+                    "name": null,
+                    "headline": "Program Manager at CCV Acquiring Services"
+                }
+            ]
+        },
+        {
+            "title": "P-Gateway",
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2010
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2011
+                }
+            },
+            "description": "In June 2010 I became responsible for the functional design of the CCV P-Gateway. The CCV P-Gateway was created for the Off-street Parking Environment to move from offline magstripe payments to online authorisation and capturing of magstripe payments. The P-Gateway is based on one or more (central) payment terminals in the parking garage and give the Parking Management System the possibilty to do a online check at parking entry and a payment at parking exit and is easy to tune simply by adding (central) payment terminals connected to PMS. Readers in Entry and Exit gates and the interface towards their PMS was not affected with this solution, Readers, PMS and the network are still in scope of PCI DSS.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Ben",
+                    "last_name": "van de Put",
+                    "name": null,
+                    "headline": "Product Consultant CCV Group (Compentence Centre Payment Acceptance)"
+                }
+            ]
+        },
+        {
+            "title": "CCV Pos Unatteded Petrol",
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2007
+                },
+                "end": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2008
+                }
+            },
+            "description": "In May 2007 I was instructed to create a payment solution for Unattended Petrol Market. Based on OPI and IFSF EPS Server I created an OPI-design for CCV Pos able to support unattended fuel payments  using the deferred sale transaction type of the C-TAP protocol. This solution is used in the Netherlands, Belgium and Luxemburg.\n",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Ben",
+                    "last_name": "van de Put",
+                    "name": null,
+                    "headline": "Product Consultant CCV Group (Compentence Centre Payment Acceptance)"
+                }
+            ]
+        },
+        {
+            "title": "CCVPos, innovative electronic payment system",
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2004
+                },
+                "end": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2006
+                }
+            },
+            "description": "A project not only creating an attended payment solution based EMV, but an unattended solution for vending as well. A major choice was to selection of the OPI (XML over TCP-IP) interface between POS and terminal\n",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Ben",
+                    "last_name": "van de Put",
+                    "name": null,
+                    "headline": "Product Consultant CCV Group (Compentence Centre Payment Acceptance)"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Guido",
+                    "last_name": "Lamers",
+                    "name": null,
+                    "headline": "CCV Lab Strategy & Innovation at CCV"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Stef",
+                    "last_name": "Rave",
+                    "name": null,
+                    "headline": "Enterprise IT Architect at CCV Group B.V."
+                }
+            ]
+        },
+        {
+            "title": "CCV Project for online processing of fuel cards",
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2002
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2003
+                }
+            },
+            "description": "In this project I worked in a team to make the transition from offline processing of fuel cards to online authorisation an capturing of fuel transactions. My focus was on the terminal part of the solution and the launching customer was BP Netherlands but many Petrol companies followed.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Ben",
+                    "last_name": "van de Put",
+                    "name": null,
+                    "headline": "Product Consultant CCV Group (Compentence Centre Payment Acceptance)"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Michael",
+                    "last_name": "Franke",
+                    "name": null,
+                    "headline": "Project Manager at CCV"
+                }
+            ]
+        },
+        {
+            "title": "Ticket Vending Machine for NS (Dutch Railway Company)",
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2000
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2001
+                }
+            },
+            "description": "During the development of the 'Mini Automaat' or ET2000 (and later ET2006) I was Technical Project Manager in this challenging project under heavy time pressure to implement an electronic payment solution in this brand new vending machine of Ascom.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Ben",
+                    "last_name": "van de Put",
+                    "name": null,
+                    "headline": "Product Consultant CCV Group (Compentence Centre Payment Acceptance)"
+                }
+            ]
+        }
+    ],
+    "publications": [],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 10166716,
+                "name": "CCV Group B.V.",
+                "logo": "https://media.licdn.com/dms/image/D4D0BAQHFDGAdEK6kOg/company-logo_400_400/0/1664275282960?e=1703721600&v=beta&t=lO8mDQ1hVZYZoChRgm42IydGdCgCFhOa_spWF5-wRSQ",
+                "url": "https://www.linkedin.com/company/ccvinternational/",
+                "employees": {
+                    "start": 501,
+                    "end": 1000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2000
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Arnhem, Gelderland, Nederland",
+                    "date": {
+                        "start": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2013
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "CCV",
+                    "description": "Specialist terminals CCV Holland B.V.\nFunctional designer for key accounts\nFunctional designer for CCV Product Portfolio\nTechnical support to (Key) Account Managers\nIntegration support for suppliers of electronic cash registers\nConversion of functional design to technical protocol designs",
+                    "title": "Product Consultant",
+                    "employment_type": "Full-time"
+                },
+                {
+                    "location": "Arnhem",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2000
+                        },
+                        "end": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2013
+                        }
+                    },
+                    "company": "CCV",
+                    "description": "Manual Writing voor Interface descriptions\nTraining voor SW-engineers\nProduct development",
+                    "title": "Productco\u00f6rdinator",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 9346170,
+                "name": "European Parking Association",
+                "logo": "https://media.licdn.com/dms/image/C510BAQGZEoTPpDQR_g/company-logo_400_400/0/1519867476137?e=1703721600&v=beta&t=aq1NrjFOy7EYlG5cB2azlhstQk6mP7e6H1Yn4Zb-zLM",
+                "url": "https://www.linkedin.com/company/european-parking-association/",
+                "employees": {
+                    "start": 2,
+                    "end": 10
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2014
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2017
+                        }
+                    },
+                    "company": "European Parking Association",
+                    "description": "During this time I was member of the EPA  IPIPS working group as technical expert to create IPIPS POS2EPS documentation. This effort resulted in two European standards issued by the EPA:\n- POS2EPS for off-street parking;\n- POS2EPS for on-street parking.",
+                    "title": "Expert at EPA (European Parking Association) working group IPIPS POS2EPS",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "INCAA Datacom",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 1983
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2000
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 1983
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2000
+                        }
+                    },
+                    "company": "INCAA Datacom",
+                    "description": "Ontwerpen van teststrategi\u00ebn (hardware + software)\nLeiding geven aan het Test Department\nQA-gesprekken met toeleveranciers",
+                    "title": "QA engineer",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Technical Writing",
+        "Designs",
+        "Analysis",
+        "Training Delivery",
+        "Payments",
+        "Credit Cards",
+        "Payment Systems",
+        "Electronic Payments",
+        "Mobile Payments",
+        "EMV",
+        "Payment Card Processing",
+        "Acquiring",
+        "E-payments",
+        "Cards",
+        "Transaction Processing",
+        "Consultancy",
+        "B2B"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

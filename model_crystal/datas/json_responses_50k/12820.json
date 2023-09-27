@@ -1,0 +1,512 @@
+{
+    "profile_id": "thijs-luttikholt-b768aa20b",
+    "first_name": "Thijs",
+    "last_name": "Luttikholt",
+    "sub_title": "Master's degree in Artificial Intelligence",
+    "profile_picture": "https://media.licdn.com/dms/image/C4E03AQGkfhaFRh8xNw/profile-displayphoto-shrink_800_800/0/1618946562129?e=1701302400&v=beta&t=U4OQusYX0lP0evcHE8m9soSq6qzt-EZOf3sz0tv1kt0",
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAADVZBAoBi9elLag25W0NTv8_JRkQA3bacmc",
+    "object_urn": 895026186,
+    "birth_date": null,
+    "summary": "I have recently finished my master study in Artificial Intelligence at the Radboud University in Nijmegen and am now looking into my next steps. I enjoy learning new skills within the programming field and working on challenging topics and projects. My primary interests include two different directions. The first of which is the application of programming skills to help people or the climate. This can for example include medical applications. My other interest is the use of programming for development, with my primary interest being in game development. \n\nMy work experience includes working on a bachelor thesis and a master thesis, as well as performing an internship at ASM Pacific Technology Limited within the field of computer vision. In addition, I have worked as a teaching assistant for various courses at the Radboud University. Other part-time jobs I have had include giving tutor lessons at my secondary school and in my home town.",
+    "location": {
+        "country": "Netherlands",
+        "short": "Eibergen, Gelderland",
+        "city": "Eibergen",
+        "state": "Gelderland",
+        "default": "Eibergen, Gelderland, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "NL",
+            "language": "nl"
+        },
+        "supported_locales": [
+            {
+                "country": "NL",
+                "language": "nl"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "Dutch",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "English",
+                "proficiency": "FULL_PROFESSIONAL"
+            }
+        ]
+    },
+    "industry": "Hospital & Health Care",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "school": {
+                "name": "Radboud University",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "Master's degree",
+            "field_of_study": "Artificial intelligence",
+            "grade": "7.85"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "school": {
+                "name": "Radboud University",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQHgdni-2v0psQ/company-logo_400_400/0/1670846116863?e=1703721600&v=beta&t=a4mqpMCP_swOQ-RhyswHhGYJT1FDXZvwwsXJKNR_DHA",
+                "url": "https://www.linkedin.com/school/radboud-university-nijmegen/"
+            },
+            "degree_name": "Bachelor's degree",
+            "field_of_study": "Artificial intelligence",
+            "grade": "~7.9"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "school": {
+                "name": "Scholengemeenschap Marianum",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "Gymnasium",
+            "field_of_study": null,
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "App development:  'kinderen laten bewegen'",
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "description": "As part of a course called 'new media lab' in the first year of my master study in AI, an app was designed and created in a group of 4 students. The goal of the client was to create a base for an application that could potentially be used to motivate children to go outside to play more often. The idea for the application was to include challenges, based on which points could be earned. Subsequently, those points could be used to buy items in a 'store'. These items could be used to modify a player character. My role in this project included back-end development using JavaScript, parts of the front-end development using React, and parts of the design.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Thijs",
+                    "last_name": "Luttikholt",
+                    "name": null,
+                    "headline": "Master's degree in Artificial Intelligence"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Julian",
+                    "last_name": "de Lange",
+                    "name": null,
+                    "headline": "Masterstudent Science, Management and Innovation"
+                }
+            ]
+        },
+        {
+            "title": "Umbra",
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "description": "This project included the development of a text comparison tool under supervision of the Radboud University and the Max Planck institute for psycholinguistics. The underlying data was created by asking participants to listen to an audio file while repeating the heard message. Subsequently, the developed tool was created to mark mistakes in the audio transcript, by comparing the transcript to the intended text. Various types of mistakes could be distinguished, such as phonetic, semantic, repetition, form, skipped or mistakes in the transcript itself. The results of the algorithm could be manually corrected afterwards.  A distinct focus during this project was to use the agile scrum method to manage and organize the project. Tools such as JIRA and GIT were used.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Thijs",
+                    "last_name": "Luttikholt",
+                    "name": null,
+                    "headline": "Master's degree in Artificial Intelligence"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Romeo",
+                    "last_name": "Haak",
+                    "name": null,
+                    "headline": "AI/ML Engineer Intern in ExPeRT team at ESA | Msc student Artificial Intelligence at Radboud University"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Thomas",
+                    "last_name": "Nijsen",
+                    "name": null,
+                    "headline": "Artificial Intelligence student"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Thijme",
+                    "last_name": "de Valk",
+                    "name": null,
+                    "headline": "MSc student Artificial Intelligence"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Emma",
+                    "last_name": "Vriezen",
+                    "name": null,
+                    "headline": "Back End Dev & MSc AI"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Tanja",
+                    "last_name": "van Alfen",
+                    "name": null,
+                    "headline": "DevOps Platform Engineer at PGGM via Working Talent"
+                }
+            ]
+        },
+        {
+            "title": "Human-computer interaction:  Unity game development",
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "description": "This project was performed as part of the course 'human-computer interaction' in the first year of my bachelor study.  The goal was to design, implement, and evaluate a small game. This game was created using Unity. The genre was a 2D platforming game. The player could move and jump around in a space-like environment. Additionally, the player was equipped with a tool that could shoot 2 colours of portals which were connected to each other. By jumping through a red portal, the player would be launched out of the blue portal while preserving velocity.  Various levels were built based on this portal-shooting premise. In addition, various types of static or moving platforms and speed boosters were implemented.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Thijs",
+                    "last_name": "Luttikholt",
+                    "name": null,
+                    "headline": "Master's degree in Artificial Intelligence"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Romeo",
+                    "last_name": "Haak",
+                    "name": null,
+                    "headline": "AI/ML Engineer Intern in ExPeRT team at ESA | Msc student Artificial Intelligence at Radboud University"
+                }
+            ]
+        },
+        {
+            "title": "Robot implementation using LEGO Mindstorm and LeJOS",
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "description": "This project was completed as part of an introductory course about robotics in the first year of my AI bachelor study. The goal was to build and program a robot to execute a variety of tasks. This robot was created using a gyroscope, ultrasound sensors and an RGB camera, as well as various parts to enable movement. The tasks for the robot included following a line, navigating a maze, finding coloured poles and displaying differing behaviour based on the observed colour, and lastly gathering 'food' blocks and returning them to a 'home' area, while avoiding 'poison' blocks.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Thijs",
+                    "last_name": "Luttikholt",
+                    "name": null,
+                    "headline": "Master's degree in Artificial Intelligence"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Romeo",
+                    "last_name": "Haak",
+                    "name": null,
+                    "headline": "AI/ML Engineer Intern in ExPeRT team at ESA | Msc student Artificial Intelligence at Radboud University"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Alexander",
+                    "last_name": "Zehetmaier",
+                    "name": null,
+                    "headline": "MeinDienstplan | consAI"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Ron",
+                    "last_name": "Hommelsheim",
+                    "name": null,
+                    "headline": "Student at Radboud University Nijmegen"
+                }
+            ]
+        },
+        {
+            "title": "Pac-man agent coding competition",
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "description": "This project was part of a course called \"intro AI-B\". Its objective was to implement an evaluation function for a Pac-Man agent. This evaluation function could access various details regarding the state of the game. Points were rewarded based on the performance of the agent. The created implementation was rewarded with a third place in the competition.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Thijs",
+                    "last_name": "Luttikholt",
+                    "name": null,
+                    "headline": "Master's degree in Artificial Intelligence"
+                }
+            ]
+        }
+    ],
+    "publications": [],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 12199,
+                "name": "Radboudumc",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQH1GYL46xdJmg/company-logo_400_400/0/1580825512622?e=1703721600&v=beta&t=dENGxeCxQ0rGPfnFdScSSqcsGu9-0BXHjZgydHZZJ9U",
+                "url": "https://www.linkedin.com/company/radboudumc/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2023
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Nijmegen, Gelderland, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2023
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Radboudumc",
+                    "description": "I work as a PhD candidate at the CARA lab of the Radboud university medical center in Nijmegen.",
+                    "title": "PhD candidate ",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 6575,
+                "name": "YER",
+                "logo": "https://media.licdn.com/dms/image/C560BAQHBKG7E3oZOMg/company-logo_400_400/0/1567584180715?e=1703721600&v=beta&t=oDN26xyipZp2Z4Ox6zSSGAfZP99k-RnTdR2C6Xi1t3M",
+                "url": "https://www.linkedin.com/company/yer/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2023
+                },
+                "end": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2023
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2023
+                        },
+                        "end": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2023
+                        }
+                    },
+                    "company": "YER",
+                    "description": null,
+                    "title": "Project Consultant",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1114855,
+                "name": "ASM Laser Separation International (ALSI) B.V.",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQETFBZi_wIu_Q/company-logo_400_400/0/1659169508585?e=1703721600&v=beta&t=HgSJY2HyEMsZf7MHA3-L4yolIOrnz0VdPo-41nPL5t8",
+                "url": "https://www.linkedin.com/company/alsi/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Beuningen, Gelderland, Nederland",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "ASMPT ALSI",
+                    "description": null,
+                    "title": "Research intern ",
+                    "employment_type": "Internship"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 6901,
+                "name": "Radboud University",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQHgdni-2v0psQ/company-logo_400_400/0/1670846116863?e=1703721600&v=beta&t=a4mqpMCP_swOQ-RhyswHhGYJT1FDXZvwwsXJKNR_DHA",
+                "url": "https://www.linkedin.com/school/radboud-university-nijmegen/",
+                "employees": {
+                    "start": 5001,
+                    "end": 10000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Nijmegen, Gelderland, Nederland",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2020
+                        }
+                    },
+                    "company": "Radboud University",
+                    "description": "I worked as a Teaching Assistant (TA) for 3 different courses during my study programme.",
+                    "title": "Teaching Assistant",
+                    "employment_type": "Contract"
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Machine learning",
+        "Programming",
+        "agile scrum",
+        "Unity",
+        "Java",
+        "Python"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

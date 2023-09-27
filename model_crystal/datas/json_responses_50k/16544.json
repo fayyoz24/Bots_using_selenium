@@ -1,0 +1,937 @@
+{
+    "profile_id": "widya-kartika-9416528",
+    "first_name": "Widya",
+    "last_name": "Kartika",
+    "sub_title": "Big Data Science Engineering",
+    "profile_picture": null,
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAAAGE78EBoqZMOKm-I_ho0PEk-1VpTBOiNCQ",
+    "object_urn": 25489345,
+    "birth_date": null,
+    "summary": "Widya is a Master of Science in Wireless Data Communication and a Master of Technological Design in Stochastic, Statistics and Operation Research from Delft University of Technology.\n\nWidya has nine years\u2019 experience in Programming, Data Science and Engineering. Some of my activities during this period are as follows:\n- customer churn prediction model development in python and its automation with Spark ETL, for monthly model update and monthly prediction generation by applying the model with features extracted from billions records of custoner usage.\n- full stack web and mobile apps development in PHP, java, JavaScript, swift and MySQL\n- application development for digesting Kafka messages, transforming to Spark Streaming, doing data aggregation, storing it on Hadoop HDFS and visualising it with Tableau in near real time.\n- ETL process development for getting insight from our customer development inside 16 years data. The process covers :  MySQL data extraction, transformation with pyspark  loading to Hive and visualisation with Tableau\n- Apache Spark connectivity development with various data sources: Kafka, Influx db, Elasticsearch, MySQL, Cassandra, and Hadoop (HDFS and Hive)\n- ETL process development for getting customer usage data from influxdb and MySQL\n- process development for cleaning, transforming, visualising, and analysing usage data for customer churn prediction. \n- Apache Spark Machine Learning pipeline development for ticket classification on data coming from Apache Kafka and send the prediction to Apache Kafka.\n- sales prediction model development with Random Forest and linear regression in R and implementation in php and JavaScript\n- model development for product recommendation system in python with data from Elasticsearch and MySQL\n- page recommendation system development in python based on MySQL data and implementation in PHP\n- customer segmentation model development with k-means algorithm and a new method using features distribution similarity and multidimensional scaling  (MDS) in python and R.\n- analytics cluster development with puppet automarion and gitlab CI/CD covering Apache Spark cluster, Zookeeper cluster, Hadoop HDFS cluster, Spark Thriftserver cluster and  nginx as loadbalancer for BI Tools client application like Tableau, MS Excel, PowerBI\n- internal Telco Application development: SRAN Integration Tools (MS Access, MS Excel, SQL), Live Network Topology in MapInfo. (SQL, MapInfo, MS Access, Oracle)\n- Tableau dashboard:\nhttps://public.tableau.com/app/profile/widya.kartika/viz/BayesClassifier-Telecom_/BayesClassifier",
+    "location": {
+        "country": "Netherlands",
+        "short": "Delft, South Holland",
+        "city": "Delft",
+        "state": "South Holland",
+        "default": "Delft, South Holland, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "Dutch",
+                "proficiency": "PROFESSIONAL_WORKING"
+            },
+            {
+                "name": "English",
+                "proficiency": "FULL_PROFESSIONAL"
+            },
+            {
+                "name": "Indonesian",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ]
+    },
+    "industry": "Information Technology & Services",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "school": {
+                "name": "Delft University of Technology",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQFwaGpwaod9mQ/company-logo_400_400/0/1670699851986?e=1703721600&v=beta&t=Aw4oLxoKsIJcblYDjxw9200FClnyhZu8DxzcfJRDFOs",
+                "url": "https://www.linkedin.com/school/tudelft/"
+            },
+            "degree_name": "Master of Science (MSc)",
+            "field_of_study": "Wireless Data Communication",
+            "grade": "8/10"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "school": {
+                "name": "Delft University of Technology",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQFwaGpwaod9mQ/company-logo_400_400/0/1670699851986?e=1703721600&v=beta&t=Aw4oLxoKsIJcblYDjxw9200FClnyhZu8DxzcfJRDFOs",
+                "url": "https://www.linkedin.com/school/tudelft/"
+            },
+            "degree_name": "Master of Technological Design/TwAIO",
+            "field_of_study": "Stochastics, Statistics and Operations Research : Data Imputation at CBS - Statistics Netherlands",
+            "grade": "8/10"
+        }
+    ],
+    "patents": [],
+    "awards": [
+        {
+            "title": "D&A Shining Star Award",
+            "description": null,
+            "issuer": "Unilever Data & Analytics",
+            "date": {
+                "month": 2,
+                "day": null,
+                "year": 2022
+            }
+        },
+        {
+            "title": "T-Mobile Level II Award",
+            "description": "Extraordinary contribution with regards to optimizing and support on IPF process, capex reviews and ad hoc analysis",
+            "issuer": "T-Mobile NL",
+            "date": {
+                "month": 10,
+                "day": null,
+                "year": 2015
+            }
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Microsoft Certified: Azure Data Engineer Associate",
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Microsoft",
+            "url": "https://www.credly.com/badges/e52518f8-0baf-492f-873d-a0e10e4792cf/public_url",
+            "license_number": null,
+            "display_source": "credly.com",
+            "company": {
+                "id": null,
+                "name": "Microsoft",
+                "logo": "https://media.licdn.com/dms/image/C560BAQE88xCsONDULQ/company-logo_400_400/0/1618231291419?e=1703721600&v=beta&t=xic8lPBHmNYz9qHIoiuq_itbJ4T3xDqNu9Bb5EuYkZ0",
+                "url": null
+            }
+        },
+        {
+            "name": "ETL Part 1: Data Extraction (AWS Databricks)",
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Databricks",
+            "url": "https://palingpintar.com/datascience/certificate/",
+            "license_number": null,
+            "display_source": "palingpintar.com",
+            "company": {
+                "id": null,
+                "name": "Databricks",
+                "logo": "https://media.licdn.com/dms/image/D560BAQH5mwtzRrjmvA/company-logo_400_400/0/1688755356558?e=1703721600&v=beta&t=9Soj79rv4BxPm2Wgz6GQPz3EVD5IAfkYHaOxRyo72Uc",
+                "url": null
+            }
+        },
+        {
+            "name": "ETL Part 2: Transformations and Loads (AWS Databricks)",
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Databricks",
+            "url": "https://palingpintar.com/datascience/certificate/",
+            "license_number": null,
+            "display_source": "palingpintar.com",
+            "company": {
+                "id": null,
+                "name": "Databricks",
+                "logo": "https://media.licdn.com/dms/image/D560BAQH5mwtzRrjmvA/company-logo_400_400/0/1688755356558?e=1703721600&v=beta&t=9Soj79rv4BxPm2Wgz6GQPz3EVD5IAfkYHaOxRyo72Uc",
+                "url": null
+            }
+        },
+        {
+            "name": "ETL Part 3: Production (AWS Databricks)",
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Databricks",
+            "url": "https://palingpintar.com/datascience/certificate/",
+            "license_number": null,
+            "display_source": "palingpintar.com",
+            "company": {
+                "id": null,
+                "name": "Databricks",
+                "logo": "https://media.licdn.com/dms/image/D560BAQH5mwtzRrjmvA/company-logo_400_400/0/1688755356558?e=1703721600&v=beta&t=9Soj79rv4BxPm2Wgz6GQPz3EVD5IAfkYHaOxRyo72Uc",
+                "url": null
+            }
+        },
+        {
+            "name": "Introduction to Data Science and Machine Learning (AWS Databricks)",
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Databricks",
+            "url": "https://palingpintar.com/datascience/certificate/",
+            "license_number": null,
+            "display_source": "palingpintar.com",
+            "company": {
+                "id": null,
+                "name": "Databricks",
+                "logo": "https://media.licdn.com/dms/image/D560BAQH5mwtzRrjmvA/company-logo_400_400/0/1688755356558?e=1703721600&v=beta&t=9Soj79rv4BxPm2Wgz6GQPz3EVD5IAfkYHaOxRyo72Uc",
+                "url": null
+            }
+        },
+        {
+            "name": "Structured Streaming (AWS Databricks)",
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Databricks",
+            "url": "https://palingpintar.com/datascience/certificate/",
+            "license_number": null,
+            "display_source": "palingpintar.com",
+            "company": {
+                "id": null,
+                "name": "Databricks",
+                "logo": "https://media.licdn.com/dms/image/D560BAQH5mwtzRrjmvA/company-logo_400_400/0/1688755356558?e=1703721600&v=beta&t=9Soj79rv4BxPm2Wgz6GQPz3EVD5IAfkYHaOxRyo72Uc",
+                "url": null
+            }
+        },
+        {
+            "name": "Getting Started with Apache Spark DataFrames (AWS Databricks)",
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Databricks",
+            "url": "https://palingpintar.com/datascience/certificate/",
+            "license_number": null,
+            "display_source": "palingpintar.com",
+            "company": {
+                "id": null,
+                "name": "Databricks",
+                "logo": "https://media.licdn.com/dms/image/D560BAQH5mwtzRrjmvA/company-logo_400_400/0/1688755356558?e=1703721600&v=beta&t=9Soj79rv4BxPm2Wgz6GQPz3EVD5IAfkYHaOxRyo72Uc",
+                "url": null
+            }
+        },
+        {
+            "name": "Practical Machine Learning",
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Coursera Course Certificates",
+            "url": "https://www.coursera.org/account/accomplishments/verify/87PFSTT3VVRG",
+            "license_number": "87PFSTT3VVRG",
+            "display_source": "coursera.org",
+            "company": {
+                "id": null,
+                "name": "Coursera Course Certificates",
+                "logo": "https://media.licdn.com/dms/image/C560BAQG24u4DKpQ5dQ/company-logo_400_400/0/1519872880167?e=1703721600&v=beta&t=8vKeASx7tVQjpnz7ufoMukQR2V0rjw_xIJcw_BnIuUw",
+                "url": null
+            }
+        },
+        {
+            "name": "Regression Models",
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Coursera Course Certificates",
+            "url": "https://www.coursera.org/account/accomplishments/verify/CZR5PF275Y8U",
+            "license_number": "CZR5PF275Y8U",
+            "display_source": "coursera.org",
+            "company": {
+                "id": null,
+                "name": "Coursera Course Certificates",
+                "logo": "https://media.licdn.com/dms/image/C560BAQG24u4DKpQ5dQ/company-logo_400_400/0/1519872880167?e=1703721600&v=beta&t=8vKeASx7tVQjpnz7ufoMukQR2V0rjw_xIJcw_BnIuUw",
+                "url": null
+            }
+        },
+        {
+            "name": "Statistical Inference",
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Coursera Course Certificates",
+            "url": "https://www.coursera.org/account/accomplishments/verify/4A48Q5FRKTBY",
+            "license_number": "4A48Q5FRKTBY",
+            "display_source": "coursera.org",
+            "company": {
+                "id": null,
+                "name": "Coursera Course Certificates",
+                "logo": "https://media.licdn.com/dms/image/C560BAQG24u4DKpQ5dQ/company-logo_400_400/0/1519872880167?e=1703721600&v=beta&t=8vKeASx7tVQjpnz7ufoMukQR2V0rjw_xIJcw_BnIuUw",
+                "url": null
+            }
+        },
+        {
+            "name": "Introduction Python for Data Science",
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Microsoft",
+            "url": "https://courses.edx.org/certificates/3cf6489429cf4f19b68c592ce1f7254e",
+            "license_number": null,
+            "display_source": "edx.org",
+            "company": {
+                "id": null,
+                "name": "Microsoft",
+                "logo": "https://media.licdn.com/dms/image/C560BAQE88xCsONDULQ/company-logo_400_400/0/1618231291419?e=1703721600&v=beta&t=xic8lPBHmNYz9qHIoiuq_itbJ4T3xDqNu9Bb5EuYkZ0",
+                "url": null
+            }
+        },
+        {
+            "name": "Reproducible Research (Data Science)",
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Coursera Course Certificates",
+            "url": "https://www.coursera.org/account/accomplishments/verify/4ZMD53CAQEV9",
+            "license_number": "4ZMD53CAQEV9",
+            "display_source": "coursera.org",
+            "company": {
+                "id": null,
+                "name": "Coursera Course Certificates",
+                "logo": "https://media.licdn.com/dms/image/C560BAQG24u4DKpQ5dQ/company-logo_400_400/0/1519872880167?e=1703721600&v=beta&t=8vKeASx7tVQjpnz7ufoMukQR2V0rjw_xIJcw_BnIuUw",
+                "url": null
+            }
+        },
+        {
+            "name": "Tableau Desktop Qualified Associate",
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "authority": "Tableau Software",
+            "url": null,
+            "license_number": null,
+            "display_source": null,
+            "company": {
+                "id": null,
+                "name": "Tableau",
+                "logo": "https://media.licdn.com/dms/image/C560BAQGbNutqXFCq8g/company-logo_400_400/0/1591199049957?e=1703721600&v=beta&t=RDA-AXD8MLMwqZhJcDkOtxx9-kzNw2SnTWh3p4ljEB0",
+                "url": null
+            }
+        },
+        {
+            "name": "Visual Analytics with Tableau",
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Coursera Course Certificates",
+            "url": "https://www.coursera.org/account/accomplishments/verify/BMD97LEE2LHK",
+            "license_number": "BMD97LEE2LHK",
+            "display_source": "coursera.org",
+            "company": {
+                "id": null,
+                "name": "Coursera Course Certificates",
+                "logo": "https://media.licdn.com/dms/image/C560BAQG24u4DKpQ5dQ/company-logo_400_400/0/1519872880167?e=1703721600&v=beta&t=8vKeASx7tVQjpnz7ufoMukQR2V0rjw_xIJcw_BnIuUw",
+                "url": null
+            }
+        },
+        {
+            "name": "Analyzing and Visualizing Data with Excel",
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Microsoft",
+            "url": "https://courses.edx.org/certificates/fce20dcb77c94fee8746b8578ce4ef15",
+            "license_number": null,
+            "display_source": "edx.org",
+            "company": {
+                "id": null,
+                "name": "Microsoft",
+                "logo": "https://media.licdn.com/dms/image/C560BAQE88xCsONDULQ/company-logo_400_400/0/1618231291419?e=1703721600&v=beta&t=xic8lPBHmNYz9qHIoiuq_itbJ4T3xDqNu9Bb5EuYkZ0",
+                "url": null
+            }
+        },
+        {
+            "name": "Exploratory Data Analysis",
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Coursera Course Certificates",
+            "url": "https://www.coursera.org/account/accomplishments/verify/CDEGUN9BLL6C",
+            "license_number": "CDEGUN9BLL6C",
+            "display_source": "coursera.org",
+            "company": {
+                "id": null,
+                "name": "Coursera Course Certificates",
+                "logo": "https://media.licdn.com/dms/image/C560BAQG24u4DKpQ5dQ/company-logo_400_400/0/1519872880167?e=1703721600&v=beta&t=8vKeASx7tVQjpnz7ufoMukQR2V0rjw_xIJcw_BnIuUw",
+                "url": null
+            }
+        },
+        {
+            "name": "Getting and Cleaning Data",
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Coursera Course Certificates",
+            "url": "https://www.coursera.org/account/accomplishments/verify/TPJNDX5LB5X3",
+            "license_number": "TPJNDX5LB5X3",
+            "display_source": "coursera.org",
+            "company": {
+                "id": null,
+                "name": "Coursera Course Certificates",
+                "logo": "https://media.licdn.com/dms/image/C560BAQG24u4DKpQ5dQ/company-logo_400_400/0/1519872880167?e=1703721600&v=beta&t=8vKeASx7tVQjpnz7ufoMukQR2V0rjw_xIJcw_BnIuUw",
+                "url": null
+            }
+        },
+        {
+            "name": "R Programming",
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Coursera Course Certificates",
+            "url": "https://www.coursera.org/account/accomplishments/verify/KA6T65KR6ZZV",
+            "license_number": "KA6T65KR6ZZV",
+            "display_source": "coursera.org",
+            "company": {
+                "id": null,
+                "name": "Coursera Course Certificates",
+                "logo": "https://media.licdn.com/dms/image/C560BAQG24u4DKpQ5dQ/company-logo_400_400/0/1519872880167?e=1703721600&v=beta&t=8vKeASx7tVQjpnz7ufoMukQR2V0rjw_xIJcw_BnIuUw",
+                "url": null
+            }
+        },
+        {
+            "name": "The Data Scientist\u2019s Toolbox",
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Coursera Course Certificates",
+            "url": "https://www.coursera.org/account/accomplishments/verify/GGSFN66BBR2D",
+            "license_number": "GGSFN66BBR2D",
+            "display_source": "coursera.org",
+            "company": {
+                "id": null,
+                "name": "Coursera Course Certificates",
+                "logo": "https://media.licdn.com/dms/image/C560BAQG24u4DKpQ5dQ/company-logo_400_400/0/1519872880167?e=1703721600&v=beta&t=8vKeASx7tVQjpnz7ufoMukQR2V0rjw_xIJcw_BnIuUw",
+                "url": null
+            }
+        },
+        {
+            "name": "ITIL Foundation",
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "APMG International",
+            "url": "https://scr.apmg-international.com/scrquery.aspx?prod=7",
+            "license_number": null,
+            "display_source": "apmg-international.com",
+            "company": {
+                "id": null,
+                "name": "APMG International",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQF4dByUFXu_6w/company-logo_400_400/0/1663840232967?e=1703721600&v=beta&t=F2KswChShzP1yPm04lel9XyOj2dJ5WHRsTPo2OyI6IY",
+                "url": null
+            }
+        }
+    ],
+    "organizations": [],
+    "projects": [],
+    "publications": [],
+    "courses": [
+        {
+            "name": "Essential Statistics for Data Analysis using Excel",
+            "number": "Microsoft"
+        },
+        {
+            "name": "Programming with Python for Data Science",
+            "number": "Microsoft"
+        },
+        {
+            "name": "Tableau Visual Analytics Training",
+            "number": "Tableau"
+        }
+    ],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 1248,
+                "name": "Unilever",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQF6TJKa56uLAg/company-logo_400_400/0/1663661969458?e=1703721600&v=beta&t=1bvJOOUYBYn4MR5hwtLKNwyakh9zGrollnbckAtn594",
+                "url": "https://www.linkedin.com/company/unilever/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Unilever",
+                    "description": "Data Factory, Databricks, Devops, Data Lake Storage, Dataverse, LogicApps FunctionApp, PowerApp, Synapse",
+                    "title": "Azure Data Engineering",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 19208214,
+                "name": "team.blue",
+                "logo": "https://media.licdn.com/dms/image/C560BAQHHx2T0k8x9vw/company-logo_400_400/0/1567508326607?e=1703721600&v=beta&t=INDtz1vnu_yC6sFja8CTXsGtanSx9lx-VfJ8HdAYXUs",
+                "url": "https://www.linkedin.com/company/teamblue/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Leiden, South Holland Province, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2021
+                        }
+                    },
+                    "company": "team.blue",
+                    "description": "Big Data Architecture, Data Science and Data Engineering",
+                    "title": "(Big) Data Science Engineering",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "palingpintar.com",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2011
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2018
+                        }
+                    },
+                    "company": "palingpintar.com",
+                    "description": "MySQL, JavaScript, php, Tableau, python, Java, Swift",
+                    "title": "Programming, Data Analysis, Data Visualization, Data Science",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 381805,
+                "name": "T-Mobile Nederland",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQFmDt9SlJRaPw/company-logo_400_400/0/1662542051874?e=1703721600&v=beta&t=_HQC9OKGcVg1NdQBRFT1AZpfDxe5paDXq1WXrf2CC-c",
+                "url": "https://www.linkedin.com/company/t-mobile-nederland/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "The Hague Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2011
+                        },
+                        "end": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2018
+                        }
+                    },
+                    "company": "T-Mobile Nederland",
+                    "description": null,
+                    "title": "Access and Transport Design",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 577025,
+                "name": "SAGEMCOM",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQFVf5cAXyA7xg/company-logo_400_400/0/1580377594811?e=1703721600&v=beta&t=WdBqnFaqWH8a4Ex9ZvIpQuBcWlnbGqM5rmHsMg8eslE",
+                "url": "https://www.linkedin.com/company/sagemcom/",
+                "employees": {
+                    "start": 5001,
+                    "end": 10000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2008
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2011
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2008
+                        },
+                        "end": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2011
+                        }
+                    },
+                    "company": "SAGEMCOM",
+                    "description": "Asia Pacific Region",
+                    "title": "Technical and Support  Manager",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1392,
+                "name": "T-Mobile",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQHtyW0ZSIpCFA/company-logo_400_400/0/1669915271838?e=1703721600&v=beta&t=Zw3PFsd4cPeLxCvonEz1mH17Q4Tbas-joxIOmiO6Akc",
+                "url": "https://www.linkedin.com/company/t-mobile/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2006
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2008
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2006
+                        },
+                        "end": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2008
+                        }
+                    },
+                    "company": "T-Mobile",
+                    "description": null,
+                    "title": "RAN Transmission Capacity Planning",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Data Science",
+        "Tableau",
+        "PySpark",
+        "Project Management",
+        "Telecommunications",
+        "IP",
+        "Data Analysis",
+        "Programming",
+        "Hadoop",
+        "R Programming",
+        "Python",
+        "MySQL",
+        "Java",
+        "PHP",
+        "jQuery",
+        "JavaScript",
+        "Microsoft Excel",
+        "SQL",
+        "Scala",
+        "Management"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

@@ -1,0 +1,731 @@
+{
+    "profile_id": "jwgrachten",
+    "first_name": "Jan-Willem",
+    "last_name": "Grachten",
+    "sub_title": "Firmware Design Engineer at ASML",
+    "profile_picture": "https://media.licdn.com/dms/image/C4D03AQFlV1dv5te3fg/profile-displayphoto-shrink_800_800/0/1516889003624?e=1701302400&v=beta&t=wOmaiVoQd8DWheZubekVp_4J0uNpXh5-7Y_TqVnZN0I",
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAAARMjEwBfLttUrT3WP7-pYpFkkG3tmHmS-s",
+    "object_urn": 72125516,
+    "birth_date": null,
+    "summary": null,
+    "location": {
+        "country": "Netherlands",
+        "short": "Montfort, Limburg",
+        "city": "Montfort",
+        "state": "Limburg",
+        "default": "Montfort, Limburg, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "Dutch",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "English",
+                "proficiency": "PROFESSIONAL_WORKING"
+            }
+        ]
+    },
+    "industry": "Semiconductors",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2006
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2011
+                }
+            },
+            "school": {
+                "name": "Fontys University of Applied Sciences",
+                "logo": "https://media.licdn.com/dms/image/C560BAQHoPshjTmIrAg/company-logo_400_400/0/1519856033175?e=1703721600&v=beta&t=cZ69Pb_3wfj1CmnluovkjrwyUXmA-avaXdwnnGSge1U",
+                "url": "https://www.linkedin.com/school/fontys-hogescholen/"
+            },
+            "degree_name": "Bachelor",
+            "field_of_study": "Electrical engineering",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2000
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2006
+                }
+            },
+            "school": {
+                "name": "Technical Institution Sint-Jansberg, Maaseik",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "TSO",
+            "field_of_study": "Electrical industrial installations",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 1992
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2000
+                }
+            },
+            "school": {
+                "name": "Hovenier",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": null,
+            "field_of_study": "Elementary school",
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "Opensource home automation with Beaglebone Black",
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "description": "Automation in my own home",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Jan-Willem",
+                    "last_name": "Grachten",
+                    "name": null,
+                    "headline": "Firmware Design Engineer at ASML"
+                }
+            ]
+        },
+        {
+            "title": "Harddriver helmet",
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "description": "Made the electronics for the helmet of Hard driver http://youtu.be/tWx3CicOvUE",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Jan-Willem",
+                    "last_name": "Grachten",
+                    "name": null,
+                    "headline": "Firmware Design Engineer at ASML"
+                }
+            ]
+        },
+        {
+            "title": "Graduation project",
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2010
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2010
+                }
+            },
+            "description": "During my graduation year I participate in a project group at school with the task to make a floating point unit (FPU) and test unit.\n\nThe assignment was to make a good working floating point unit (FPU) from very minor specifications and toe make an automatic test system which will test all possible corner cases of the FPU. Both FPU and test unit will be described in VHDL with FPGA implementation and optimization in mind. The project will be a success when all calculations applied by the project principal are returned by the FPU with the right answers. (These calculations will not be given before the end of the project.)\n\nMy approach was to start with a brainstorm session resulting in an own well defined project description. After that too get a fully defined FPGA functionality I start making ASM diagrams of both the FPU and the test unit together with my team. Brainstorm sessions where held when new barriers where found and possible corner cases are documented. When the ASM diagrams where ready we held a review with the project principal. After getting the go I was responsible for the VHDL of the test unit design. I used the already made ASM diagrams for the VHDL description. After completing the VHDL description, it was time to hook the test unit to the FPU and start testing corner cases. Everything was good documented and I made a presentation about our work flow, learning points and the proof the FPU was working based on our corner cases and results from the test unit.\n\nAfter the project, the FPU was tested with the calculations applied by the project principal. It succeeded the test which resulting in a successful project. I learned during this project it is very important to first fully define the FPGA program with a good project description and ASM diagrams before equally building it in VHDL ",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Jan-Willem",
+                    "last_name": "Grachten",
+                    "name": null,
+                    "headline": "Firmware Design Engineer at ASML"
+                }
+            ]
+        },
+        {
+            "title": "Beat driven Vortex cannon",
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "description": "https://tmc-employeneurship.com/entrepreneurial-lab/successful-introduction-of-the-tmc-vortex-cannon\n\n",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Jan-Willem",
+                    "last_name": "Grachten",
+                    "name": null,
+                    "headline": "Firmware Design Engineer at ASML"
+                }
+            ]
+        }
+    ],
+    "publications": [],
+    "courses": [
+        {
+            "name": " Quartus Timing Analyzer",
+            "number": null
+        },
+        {
+            "name": " Xilinx Zynq All Programmable SoC System Architecture",
+            "number": null
+        },
+        {
+            "name": "Assertiveness",
+            "number": null
+        },
+        {
+            "name": "EMCMCC course EMC",
+            "number": null
+        },
+        {
+            "name": "Electrical Fields",
+            "number": null
+        },
+        {
+            "name": "Git Key User",
+            "number": null
+        },
+        {
+            "name": "Personal Effectiveness",
+            "number": null
+        },
+        {
+            "name": "Professional effective communication",
+            "number": null
+        },
+        {
+            "name": "System Verilog",
+            "number": null
+        }
+    ],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 3894,
+                "name": "ASML",
+                "logo": "https://media.licdn.com/dms/image/C560BAQGssQfw50QsaQ/company-logo_400_400/0/1519855871260?e=1703721600&v=beta&t=Dy9d-y1YEURWKW9gwgee0M1kiJhHIn_5C8HeOomdIr8",
+                "url": "https://www.linkedin.com/company/asml/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Eindhoven Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "ASML",
+                    "description": null,
+                    "title": "Firmware (FPGA) Design Engineer - E-DEV NXE stages Electronics",
+                    "employment_type": null
+                },
+                {
+                    "location": "Eindhoven Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2013
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2015
+                        }
+                    },
+                    "company": "ASML",
+                    "description": null,
+                    "title": "E-DEV Integrator Hardware Software Interface Stage Electronics",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 916011,
+                "name": "Bluzone",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQEoBbm4Ta1ghg/company-logo_400_400/0/1519952294264?e=1703721600&v=beta&t=iiz-v8ZgiBmcfYdHOQ3oAd36qByCKO_Donp-NwJJ1cM",
+                "url": "https://www.linkedin.com/company/bluzone/",
+                "employees": {
+                    "start": 2,
+                    "end": 10
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2007
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2007
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Bluzone",
+                    "description": "Which started as a hobby of two friends evolved to a professional business. I am developing software and web applications based on the needs of business and the private-sector today. As co-founder, I am involved with planning business strategics and sales-management of our company.\n\nPlease take a look at the Bluzone Linkedin or visit our website for more information about our business (http://www.bluzone.nl/).",
+                    "title": "Software & Webdeveloper",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 166459,
+                "name": "TMC",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQEb68USDy9V6g/company-logo_400_400/0/1662979451276?e=1703721600&v=beta&t=H4CpzhEb0erplKMOWOIhcL0ikESBqUReWifSVTZDtdE",
+                "url": "https://www.linkedin.com/company/tmc/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Eindhoven Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2011
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "TMC",
+                    "description": null,
+                    "title": "Firmware Design Engineer | projects @ ASML and FEI",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 163782,
+                "name": "FEI Company",
+                "logo": "https://media.licdn.com/dms/image/C560BAQHOyElKhyuQ7Q/company-logo_400_400/0/1531867850399?e=1703721600&v=beta&t=uGbHF7viDLfzO5f5Tsj09HAEoj-njfvJ528FItMD9JI",
+                "url": "https://www.linkedin.com/company/feicompany/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Eindhoven Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2012
+                        },
+                        "end": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2013
+                        }
+                    },
+                    "company": "FEI Company",
+                    "description": "The location Eindhoven from FEI Electronic Optics global is specialized in the high-tech segment of their broad product range of microscopy. About two years ago a new system is introduced. The Tecnai Osiris. My task was to make the Tecnai Osiris customer ready and troubleshoot problems when needed.\n\nBeginning 2012 a new product was introduced by FEI. The Titan G2 ETEM. This \u201cenvironmental TEM\u201d is capable to have normal environment inside high vacuum. This is a very complex machine. Short after the introduction I was moved from the Tecnai Osiris to the Titan G2 ETEM. My task was to make the Titan G2 ETEM customer ready and troubleshoot problems when needed.\n\nDisciplines I worked on:\n* High Vacuum (till 3e-8 mBar)\n* High Voltage system (till 300KV)\n* Mechanical and electrical Sensitive environment\n\nThe results where many improvements to the system. The Titan G2 ETEM passed the beta gate. Also I learn a lot about what is happening on the factory floor, and where a product designer of the future should be aware of.",
+                    "title": "System Engineer | Titan",
+                    "employment_type": null
+                },
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2011
+                        },
+                        "end": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2012
+                        }
+                    },
+                    "company": "FEI Company",
+                    "description": null,
+                    "title": "System Engineer | Tecnai Osiris",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 206342,
+                "name": "Eldra Electro-Draad BV",
+                "logo": "https://media.licdn.com/dms/image/C560BAQEG_fvmEk5Cuw/company-logo_400_400/0/1519899225092?e=1703721600&v=beta&t=uYQVo1LvkNuecZwx54uHVeHbbFz4gJU39Hzfbwybhmk",
+                "url": "https://www.linkedin.com/company/eldrabv/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2004
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2011
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2004
+                        },
+                        "end": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2011
+                        }
+                    },
+                    "company": "Eldra B.V.",
+                    "description": "Eldra is my after school time job to earn some extra's. Eldra manufactured electrical cables and export them worldwide. I prepare the customer orders to cut the cables in the right length and in the right quantities so the order can be transported and will be arrived at the customer on time.\n\nA lot of my colleagues are foreigners who living in the Netherlands today. I learned a lot of other cultures and how to talk to people from other countries that way",
+                    "title": "Warehouse employee",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 690246,
+                "name": "Adeas",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQHl57qZnJY7pQ/company-logo_400_400/0/1519906137708?e=1703721600&v=beta&t=EHaVCPKcw6rcui6SCo3Im5IymvlVJK7vhq8ADcjHNZI",
+                "url": "https://www.linkedin.com/company/adeas/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2010
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2011
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2010
+                        },
+                        "end": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2011
+                        }
+                    },
+                    "company": "Adeas",
+                    "description": "During the internship at Adeas, I did research how to implant modulation and dynamic sample rate conversion with very high fractional steps into the FPGA. MATLAB is used to simulate the process. Final products are clear documentation and production ready models.\n\nMy research contained following topics: QAM modulator, QAM mapper, Square root raised cosine, IIR filter (Poly Phase) FIR filter, CIC filter, multiplier, NCO, interpolation and decimation. I have learned to work with Altera Quartus II Design software.",
+                    "title": "Internship Research FPGA hardware",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 297929,
+                "name": "Applied Micro Electronics BV (AME)",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQFiCBan4diB3w/company-logo_400_400/0/1519894905641?e=1703721600&v=beta&t=NvIiupHbKZZKJ82xG8BaC3s5hIBgx5Z-07W3k_Z_lvM",
+                "url": "https://www.linkedin.com/company/applied-micro-electronics-bv-ame-/",
+                "employees": {
+                    "start": 201,
+                    "end": 500
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2009
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2010
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2009
+                        },
+                        "end": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2010
+                        }
+                    },
+                    "company": "AME (Applied Micro Electronics)",
+                    "description": "The purpose of this internship was to experience business life. AME is ISO 9001 certified, conform this certification all lab equipment will be calibrated at all times. During this internship time I developed documentation, procedures and tools using the AME development methods so AME is able to do the calibration of the lab equipment internally.\n\nI learned a lot during my internship period. I learned all kinds of new techniques. I became aware of marketing strategic you should be aware of during development. Also, I met a lot of new people. I made a professional grown. I would like to thank all people who supported me during my internship.",
+                    "title": "Internship RD&D",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "SG PulsE",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2008
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2009
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2008
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2009
+                        }
+                    },
+                    "company": "SG PulsE",
+                    "description": "SG PulsE is the main study society of Fontys Electrical engineering. (Today called S.V. Innovum). I participate inside the committee, did my work as contact person, preparing meetings and keeping documents, regulations and member administration up-to-date.",
+                    "title": "secretary",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 2854,
+                "name": "Essent",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQGTwruSnR099Q/company-logo_400_400/0/1519856313491?e=1703721600&v=beta&t=zdJQ41pmBuh3ldPwUWrJtXnRsI9Uml83RPDY5N7gUxs",
+                "url": "https://www.linkedin.com/company/essent/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2005
+                },
+                "end": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2005
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2005
+                        },
+                        "end": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2005
+                        }
+                    },
+                    "company": "Essent",
+                    "description": "A so-called taster training. I helped the guys at the technical service Essent Clauscentrale, a power-plant nearby my hometown.",
+                    "title": "Internship technical service",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "FPGA",
+        "VHDL",
+        "Altera Quartus",
+        "Microchip PIC",
+        "DSP",
+        "Filter Design",
+        "Electrical Engineering",
+        "Electron Microscopy",
+        "Electronic Engineering",
+        "Digital Signal Processors",
+        "R&D",
+        "Optics",
+        "Sensors",
+        "Matlab",
+        "Testing",
+        "Simulations",
+        "Automation",
+        "Electronics",
+        "Embedded Systems",
+        "Engineering"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

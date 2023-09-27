@@ -1,0 +1,851 @@
+{
+    "profile_id": "ssecondo",
+    "first_name": "Stefano",
+    "last_name": "Secondo",
+    "sub_title": "Software developer and architect not scared by math, working with Python and C++ in deep learning",
+    "profile_picture": "https://media.licdn.com/dms/image/D4E03AQEpy_DMXUXSMg/profile-displayphoto-shrink_800_800/0/1679258327037?e=1701302400&v=beta&t=pgN1tL6QIkObmEch84eQbRQO7T-5Lsb8caJIj4XrWY8",
+    "background_image": "https://media.licdn.com/dms/image/C5116AQENMGWfnJEb6A/profile-displaybackgroundimage-shrink_350_1400/0/1516263108461?e=1701302400&v=beta&t=W_BCUjEdDEQXTTXyfXsMhXdWwP1Nh56M8c-9dlbDBLA",
+    "profile_type": "personal",
+    "entity_urn": "ACoAAAA8mtwBwaavk9Son1B-cofKPSGKKRNFid8",
+    "object_urn": 3971804,
+    "birth_date": null,
+    "summary": "Software developer for deep learning, still using C++. Able to quickly grasp complex systems and identify viable solutions. Not interested in Java job openings, as I prefer to move on :-)",
+    "location": {
+        "country": "Netherlands",
+        "short": "Amsterdam, North Holland",
+        "city": "Amsterdam",
+        "state": "North Holland",
+        "default": "Amsterdam, North Holland, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "English",
+                "proficiency": "FULL_PROFESSIONAL"
+            },
+            {
+                "name": "Italian",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ]
+    },
+    "industry": "Computer Software",
+    "education": [],
+    "patents": [],
+    "awards": [],
+    "certifications": [
+        {
+            "name": "NVIDIA DLI Certificate \u2013 Building Transformer-Based Natural Language Processing Applications",
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "NVIDIA Deep Learning Institute",
+            "url": "https://courses.nvidia.com/certificates/27ccd86d20a14c318b229631ebd2f8c9/",
+            "license_number": "27ccd86d20a14c318b229631ebd2f8c9",
+            "display_source": "nvidia.com",
+            "company": null
+        },
+        {
+            "name": "Fundamentals of Accelerated Computing with CUDA C/C++",
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "NVIDIA Deep Learning Institute",
+            "url": "https://courses.nvidia.com/certificates/6cebaea287e14d0986213aeec61ba459/",
+            "license_number": "6cebaea287e14d0986213aeec61ba459",
+            "display_source": "nvidia.com",
+            "company": null
+        },
+        {
+            "name": "Introduction to Programming with MATLAB (Grade Achieved: 85.6%)",
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Coursera Course Certificates",
+            "url": "https://www.coursera.org/account/accomplishments/verify/RWMCGYMNBXF9",
+            "license_number": "RWMCGYMNBXF9",
+            "display_source": "coursera.org",
+            "company": {
+                "id": null,
+                "name": "Coursera Course Certificates",
+                "logo": "https://media.licdn.com/dms/image/C560BAQG24u4DKpQ5dQ/company-logo_400_400/0/1519872880167?e=1703721600&v=beta&t=8vKeASx7tVQjpnz7ufoMukQR2V0rjw_xIJcw_BnIuUw",
+                "url": null
+            }
+        },
+        {
+            "name": "Machine Learning (Grade Achieved: 94.9%)",
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Coursera Course Certificates",
+            "url": "https://www.coursera.org/account/accomplishments/verify/MNF29DJTPSQ8",
+            "license_number": "MNF29DJTPSQ8",
+            "display_source": "coursera.org",
+            "company": {
+                "id": null,
+                "name": "Coursera Course Certificates",
+                "logo": "https://media.licdn.com/dms/image/C560BAQG24u4DKpQ5dQ/company-logo_400_400/0/1519872880167?e=1703721600&v=beta&t=8vKeASx7tVQjpnz7ufoMukQR2V0rjw_xIJcw_BnIuUw",
+                "url": null
+            }
+        }
+    ],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "ENVISAT PDS centres development",
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 1996
+                },
+                "end": {
+                    "month": 10,
+                    "day": null,
+                    "year": 1996
+                }
+            },
+            "description": "Development of User Services inter process communication infrastructure.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Stefano",
+                    "last_name": "Secondo",
+                    "name": null,
+                    "headline": "Software developer and architect not scared by math, working with Python and C++ in deep learning"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Luca",
+                    "last_name": "Mellano",
+                    "name": null,
+                    "headline": "Managing Director at CHELYS srl"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Massimiliano",
+                    "last_name": "Beccaria",
+                    "name": null,
+                    "headline": "Project technical lead"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Andrea",
+                    "last_name": "Cini",
+                    "name": null,
+                    "headline": "EPS-SG System Engineer (EUMETSAT, CS Group GmbH)"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Angelo Margarita",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Marchionni Daniele",
+                    "headline": null
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Stefano",
+                    "last_name": "Manzella",
+                    "name": null,
+                    "headline": "Sales Solutions Architect"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Massimiliano Ciccarelli",
+                    "headline": null
+                }
+            ]
+        },
+        {
+            "title": "ENVISAT PDS Integration",
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 1996
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2001
+                }
+            },
+            "description": "The beginning of a long walk",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Stefano",
+                    "last_name": "Secondo",
+                    "name": null,
+                    "headline": "Software developer and architect not scared by math, working with Python and C++ in deep learning"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Stefano",
+                    "last_name": "Manzella",
+                    "name": null,
+                    "headline": "Sales Solutions Architect"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Luca",
+                    "last_name": "Mellano",
+                    "name": null,
+                    "headline": "Managing Director at CHELYS srl"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Andrea",
+                    "last_name": "Cini",
+                    "name": null,
+                    "headline": "EPS-SG System Engineer (EUMETSAT, CS Group GmbH)"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Maurizio",
+                    "last_name": "MAFFEI",
+                    "name": null,
+                    "headline": "Finance and Organisation"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Daniele Brunetti",
+                    "headline": null
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Massimiliano",
+                    "last_name": "Beccaria",
+                    "name": null,
+                    "headline": "Project technical lead"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Cristiano",
+                    "last_name": "Stella",
+                    "name": null,
+                    "headline": "Ground Segment System Engineer at EUMETSAT"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Fabio",
+                    "last_name": "Cannone",
+                    "name": null,
+                    "headline": "Head of System and Ground Segment Engineering at Telespazio Spa"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Massimo",
+                    "last_name": "Perrazzino",
+                    "name": null,
+                    "headline": "test engineer at datamat"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Paolo",
+                    "last_name": "Astolfi",
+                    "name": null,
+                    "headline": "Ground Segment System Engineer at EUMETSAT for PROSOLVE UG"
+                }
+            ]
+        }
+    ],
+    "publications": [],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 31396933,
+                "name": "Covision Lab",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQFbaGd4QqLayw/company-logo_400_400/0/1625563478775?e=1703721600&v=beta&t=jXa4D3Xf5ytSP0SHS0zV1R2FDBm0Et6-a9sMPr3j_z4",
+                "url": "https://www.linkedin.com/company/covision-lab/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2023
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2023
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amsterdam, North Holland, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2023
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2023
+                        }
+                    },
+                    "company": "Covision Lab",
+                    "description": "I was hired to introduce an enterprise MLops infrastructure for a computer vision/deep learning pipeline. Ported the old training code to Kubeflow, with on-demand SageMaker training steps. I also introduced ci/cd pipelines for code analysis, testing, and building the C++ code.",
+                    "title": "Machine Learning Architect",
+                    "employment_type": "Contract"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 166474,
+                "name": "TomTom",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQEp2Gvhh-zjGQ/company-logo_400_400/0/1667371078806?e=1703721600&v=beta&t=zR2XO_id4YHjF4NKi0I_G5wirCoYEHfHmcSMpOWvrco",
+                "url": "https://www.linkedin.com/company/tomtom/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2023
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amsterdam Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2017
+                        },
+                        "end": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2023
+                        }
+                    },
+                    "company": "TomTom",
+                    "description": "Employed in R&D activities for the sensing team at the Autonomous Driving department. Currently busy in optimising Tensorflow code for our deep neural networks.",
+                    "title": "Software Developer @ PU Automation",
+                    "employment_type": "Full-time"
+                },
+                {
+                    "location": "Amsterdam",
+                    "date": {
+                        "start": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2012
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2017
+                        }
+                    },
+                    "company": "TomTom",
+                    "description": "Employed in Mobile team as Architect. During my first year I worked in porting the core navigation library to iOS. The effort is ongoing and it required a good deal of interaction with all development groups within TomTom as: Routing, Map Visualisation, Guidance, etc. Since February 2013 I am also working on the new navigator for iPhone, based on the aforementioned navigation library. The project uses Scrum methodologies (as for all TomTom projects since 2007).",
+                    "title": "Software Architect/Senior Developer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 26190862,
+                "name": "TomTom Telematics",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQGeXjhljIrHfQ/company-logo_400_400/0/1646246867579?e=1703721600&v=beta&t=lJPf8IFYv-ADAmJeJPmLC3apoRCm7iqb8Bd47PzdoM8",
+                "url": "https://www.linkedin.com/showcase/webfleet/",
+                "employees": {
+                    "start": 501,
+                    "end": 1000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2009
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amsterdam",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2011
+                        },
+                        "end": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2012
+                        }
+                    },
+                    "company": "Webfleet",
+                    "description": "Employed as R&D developer in one person team. Created from scratch the iOS application for iPhone. It is a fat client for the Webfleet web-app of TomTom Telematics. I did the user interaction design, sketched the architecture and did the complete development, up to the publication.",
+                    "title": "Architect/Senior Developer",
+                    "employment_type": null
+                },
+                {
+                    "location": "Amsterdam",
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2009
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2010
+                        }
+                    },
+                    "company": "Webfleet",
+                    "description": "Employed as R&D developer and architect in one person team. I reported directly to the VP technology. Starting from high level requirements I worked on the architecture, producing the proof of concepts and the final products. I mainly worked on an optimised location-based service for map matching: where gps samples are snapped to the road segments. The server is written completely in C++. The server, now in production, handles about 50 millions of reverse geocoding requests per day with only 6 machines. The effort was central to the success of TomTom Telematics.",
+                    "title": "Architect/Senior Developer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 166474,
+                "name": "TomTom",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQEp2Gvhh-zjGQ/company-logo_400_400/0/1667371078806?e=1703721600&v=beta&t=zR2XO_id4YHjF4NKi0I_G5wirCoYEHfHmcSMpOWvrco",
+                "url": "https://www.linkedin.com/company/tomtom/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2006
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2009
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amsterdam",
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2006
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2009
+                        }
+                    },
+                    "company": "TomTom",
+                    "description": "Employed the most of the time as Java R&D developer. Started the project for http://routes.tomtom. com. I did all the proof of concepts needed for that project: the code running on the device was taken as the founding block but needed to be adapted for server side environment, the map projection has to be changed, WMS interface was implemented, the geocoding service was implemented using Lucene.",
+                    "title": "Architect/Senior Developer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 20992,
+                "name": "Backbase BV",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQFOmtTiVwZYvA/company-logo_400_400/0/1665989805683?e=1703721600&v=beta&t=X8HO_KxbmZnHDrqnlsMV_cv5Obm_soo-lHOMTRHRRNQ",
+                "url": "https://www.linkedin.com/company/backbase/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2004
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2006
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amsterdam",
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2004
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2006
+                        }
+                    },
+                    "company": "Backbase",
+                    "description": "J2EE expert in the R&D team for server-side development of the Backbase Presentation Server. Designed and developed also the Java part of the Backbase Form Server, an XML framework for publishing rich user interface forms.",
+                    "title": "Senior J2EE Developer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 2867337,
+                "name": "Italsiel (Finsiel Group)",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQF37-9-z2PJGw/company-logo_400_400/0/1519921997774?e=1703721600&v=beta&t=W9egA__EQjBY0vlJg0YyKIvfAz-iCudDINv7JSkdk_A",
+                "url": "https://www.linkedin.com/company/italsiel-finsiel-group-/",
+                "employees": {
+                    "start": 5001,
+                    "end": 10000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2001
+                },
+                "end": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2002
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Rome",
+                    "date": {
+                        "start": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2002
+                        },
+                        "end": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2002
+                        }
+                    },
+                    "company": "Italsiel (Finsiel Group)",
+                    "description": "Tech Lead on the project Nuova Banca Dati del Personale (Employees New Database) of the Italian Ministry of Treasure. The application is a multilayer web application that collects data of the government employees. I designed the architecture, documenting it with the use of UML, chose the developers, made problem solving activities and tutoring.",
+                    "title": "Tech Lead, J2EE Architect",
+                    "employment_type": null
+                },
+                {
+                    "location": "Rome",
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2001
+                        },
+                        "end": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2002
+                        }
+                    },
+                    "company": "Italsiel (Finsiel Group)",
+                    "description": "Employed on the GetBudget project, a multilayer web application that helps in forming a budget resolution for enterprise management. The application is a full blown J2EE application, designed following the guidelines by Sun. The web layer uses Struts 1.0 as the MVC controller. The persistence layer is made of EJB BMP entities.",
+                    "title": "J2EE Architect",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1785,
+                "name": "BEA Systems",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQFdVJSIfzAOPg/company-logo_400_400/0/1519855865269?e=1703721600&v=beta&t=WYqZSzSjcUVUrYOrh31u7iORzrlfdTEH7XJY5cV6tx8",
+                "url": "https://www.linkedin.com/company/bea-systems/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2001
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2001
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Rome",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2001
+                        },
+                        "end": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2001
+                        }
+                    },
+                    "company": "BEA Systems",
+                    "description": "Instructor for several Bea courses: Wea WebLogic 6.0: J2EE Programming with Servlets and JSP\u2019s \u2022 Wea WebLogic 6.0: Programming with EJB\u2019s \u2022 Bea WebLogic Commerce Server 3.5: Programming Course. Several UML & Object Oriented Programming courses for important Bea customers like Enel and Q8 Italia.",
+                    "title": "J2EE Instructor",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1009,
+                "name": "IBM",
+                "logo": "https://media.licdn.com/dms/image/D560BAQGiz5ecgpCtkA/company-logo_400_400/0/1688684715427?e=1703721600&v=beta&t=eAMK4ZqZ9jAX6bPbX5LjyyMurxtQnubuQSv7kNBKpjI",
+                "url": "https://www.linkedin.com/company/ibm/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2000
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2000
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Rome",
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2000
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2000
+                        }
+                    },
+                    "company": "IBM",
+                    "description": "Contractor. For the project \"Mayflower\", developed the applications suite for the migration from \u201cNVDM 3.1.x\u201d file format to \u201cSoftware Distribution 4.1\u201d (Tivoli applications). The main layer was an engine written in C++.",
+                    "title": "Java/C++ Developer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 2367543,
+                "name": "Compaq International (P) Limited",
+                "logo": "https://media.licdn.com/dms/image/D4D0BAQEXz_Bgr4oaKw/company-logo_400_400/0/1683957984340?e=1703721600&v=beta&t=0cu5TV3hDoxelA_OlWjyeu7UE0_wRjWmNB-S3ITVbmE",
+                "url": "https://www.linkedin.com/company/compaq-international/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 1999
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2000
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Rome",
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 1999
+                        },
+                        "end": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2000
+                        }
+                    },
+                    "company": "Compaq International",
+                    "description": "Contractor. Employed on the project INMS (Integrated Network Management System) of the RAI (Italian Public TV Broadcasting). Developed Java remote objects for the database access layer.",
+                    "title": "Senior Developer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 4901,
+                "name": "European Space Agency",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQEDpcRmqnD6AQ/company-logo_400_400/0/1665654733184?e=1703721600&v=beta&t=NspW8lDPcrTMGpUuiQm9pvBv6FXUcOqiZOAkB5OYBrM",
+                "url": "https://www.linkedin.com/company/european-space-agency/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 1999
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 1999
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Rome Area, Italy",
+                    "date": {
+                        "start": {
+                            "month": 2,
+                            "day": null,
+                            "year": 1999
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 1999
+                        }
+                    },
+                    "company": "European Space Agency - ESA",
+                    "description": "Contractor. Developed a bridge for proprietary network protocols (Gip-A to Gip-B) on MUIS project. The protocols permit satellite data query. \nEmployed on the MUIS-B Gemsar project. Developed a server for the proprietary network protocol (Gip-C) used for satellite data query",
+                    "title": "Senior Programmer",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Pandas (Software)",
+        "NumPy",
+        "Kubernetes",
+        "AWS SageMaker",
+        "DVC",
+        "PyTorch",
+        "MLflow",
+        "Kubeflow",
+        "Java",
+        "REST",
+        "Test Driven Development",
+        "Software Development",
+        "Scrum",
+        "C++",
+        "Software Engineering",
+        "Continuous Integration",
+        "Git",
+        "JUnit",
+        "Agile Methodologies",
+        "Software Design"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

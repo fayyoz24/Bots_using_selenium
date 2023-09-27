@@ -1,0 +1,678 @@
+{
+    "profile_id": "thomashantke",
+    "first_name": "Thomas",
+    "last_name": "Hantke",
+    "sub_title": "interim senior data scientist / machine learning engineer (freelance)",
+    "profile_picture": "https://media.licdn.com/dms/image/C4D03AQH2aEySu_uF7w/profile-displayphoto-shrink_800_800/0/1592469397304?e=1701302400&v=beta&t=0OLsUlg_lpVia__LLRnwQYh4JNR8N1dX_74fZ7JMq2U",
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAAAPHhYgBlpUHjLox0dms_5v-LXXmtS2007k",
+    "object_urn": 63407496,
+    "birth_date": null,
+    "summary": "Hands-on data scientist with focus on moving fast from proof-of-concept to production.\n\nFull stack machine learning experience (python, spark, scikit-learn, Tensorflow/Keras, pytorch) for forecasting/predictive modelling, deep learning, NLP, document matching, recommender systems, semi-supervised clustering and outlier detection. \n\nWorking in python, SQL, Spark and R on all cloud platforms (AWS, Azure, GCP), using common visualisation tools (PowerBI, QlikView etc).\n\nStrong hands-on engineering background in streaming, ETL and BI (Kafka, AirFlow, MLflow, AWS Sagemaker, SQL) and CI/CD.\n\nBackground in Physics & Computer science from TU Berlin, RU Groningen and Centre of Mathematics (CWI) Amsterdam. Teaching and coaching experience for juniors and students.\n",
+    "location": {
+        "country": "Netherlands",
+        "short": "Amsterdam, North Holland",
+        "city": "Amsterdam",
+        "state": "North Holland",
+        "default": "Amsterdam, North Holland, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "Dutch",
+                "proficiency": "FULL_PROFESSIONAL"
+            },
+            {
+                "name": "English",
+                "proficiency": "FULL_PROFESSIONAL"
+            },
+            {
+                "name": "French",
+                "proficiency": "LIMITED_WORKING"
+            },
+            {
+                "name": "German",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "Spanish",
+                "proficiency": "ELEMENTARY"
+            }
+        ]
+    },
+    "industry": "Information Technology & Services",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 1985
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 1991
+                }
+            },
+            "school": {
+                "name": "TU Berlin and RU Groningen",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "MSc",
+            "field_of_study": "physics & computer science",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "school": {
+                "name": "Canisius Kolleg Berlin",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "Abitur",
+            "field_of_study": "Physics, Maths, English (main subjects)",
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [
+        {
+            "title": "Hackathon Eneco Dutch Data Science Week: 1st price (time series analyis and clustering)",
+            "description": "time series analyis and semi-supervised clustering:\n- to detect devices\n- energy saving opportunities",
+            "issuer": null,
+            "date": {
+                "month": 6,
+                "day": null,
+                "year": 2018
+            }
+        },
+        {
+            "title": "Hackathon IceMobile: 1st price (tamagochi coupled to groceries)",
+            "description": null,
+            "issuer": null,
+            "date": {
+                "month": 4,
+                "day": null,
+                "year": 2018
+            }
+        },
+        {
+            "title": "Hackathon IceMobile: 2nd price (optical recognition of shopping items)",
+            "description": "2nd price (optical recognition of shopping items)",
+            "issuer": null,
+            "date": {
+                "month": 5,
+                "day": null,
+                "year": 2017
+            }
+        },
+        {
+            "title": "Hackathon KPN: 2nd price (LoRa)",
+            "description": "2nd price (LoRa)",
+            "issuer": null,
+            "date": {
+                "month": 9,
+                "day": null,
+                "year": 2016
+            }
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Microsoft Certified: Azure AI Fundamentals",
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Microsoft",
+            "url": "https://www.youracclaim.com/badges/5507fec0-b4b1-4867-bdd4-d945a1dea801?source=linked_in_profile",
+            "license_number": " 990335071",
+            "display_source": "youracclaim.com",
+            "company": {
+                "id": null,
+                "name": "Microsoft",
+                "logo": "https://media.licdn.com/dms/image/C560BAQE88xCsONDULQ/company-logo_400_400/0/1618231291419?e=1703721600&v=beta&t=xic8lPBHmNYz9qHIoiuq_itbJ4T3xDqNu9Bb5EuYkZ0",
+                "url": null
+            }
+        },
+        {
+            "name": "Scalable Machine Learning with Spark (Talwalkar, Berkley)",
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "edX",
+            "url": "http://www.edx.org",
+            "license_number": null,
+            "display_source": "edx.org",
+            "company": {
+                "id": null,
+                "name": "edX",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQFG13a41008Dg/company-logo_400_400/0/1688142646058?e=1703721600&v=beta&t=xLsEYK_-is_JC1E-k7wOA7ibIweJHpl9ya3GIEMHp2M",
+                "url": null
+            }
+        },
+        {
+            "name": "Mining Massive Datasets (Ullman et al, Stanford University)",
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Coursera",
+            "url": null,
+            "license_number": null,
+            "display_source": null,
+            "company": {
+                "id": null,
+                "name": "Coursera",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQGexnfBxeEG-g/company-logo_400_400/0/1608039227697?e=1703721600&v=beta&t=D0JCWIFRDe_tPD5hdUkJFaYhM7LSoOyZQ1nVMg-nUzo",
+                "url": null
+            }
+        },
+        {
+            "name": "Machine Learning (Andrew Ng, Stanford University)",
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Coursera",
+            "url": "https://www.coursera.org/course/ml",
+            "license_number": null,
+            "display_source": "coursera.org",
+            "company": {
+                "id": null,
+                "name": "Coursera",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQGexnfBxeEG-g/company-logo_400_400/0/1608039227697?e=1703721600&v=beta&t=D0JCWIFRDe_tPD5hdUkJFaYhM7LSoOyZQ1nVMg-nUzo",
+                "url": null
+            }
+        }
+    ],
+    "organizations": [],
+    "projects": [],
+    "publications": [],
+    "courses": [
+        {
+            "name": "Machine Learning",
+            "number": "Andrew Ng (Stanford)"
+        },
+        {
+            "name": "Mining Massive Datasets",
+            "number": "Ullman et al (Stanford)"
+        },
+        {
+            "name": "Process Mining: Data science in Action",
+            "number": "vd Aalst (TUE)"
+        },
+        {
+            "name": "Scalable Machine Learning with Spark",
+            "number": "Berkeley(edX)"
+        }
+    ],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 2029,
+                "name": "Nike",
+                "logo": "https://media.licdn.com/dms/image/C560BAQFckBxRnPg53Q/company-logo_400_400/0/1561999707114?e=1703721600&v=beta&t=bHbwVxACQt64WXQHiPTJQIxuVqBoBuKj1ZcTqn9CjZs",
+                "url": "https://www.linkedin.com/company/nike/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Hilversum, North Holland, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Nike",
+                    "description": "\u2022 recommender systems\n\u2022 personalisation\n\u2022 image processing",
+                    "title": "Senior Machine Learning Engineer (freelance, ad interim)",
+                    "employment_type": "Freelance"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 74682,
+                "name": "GGD GHOR Nederland",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQHsHrDL5812Hg/company-logo_400_400/0/1652962499051?e=1703721600&v=beta&t=dySfa480rCJMApzMkWd0C78GX3eDffxKWaCIMLxNy8o",
+                "url": "https://www.linkedin.com/company/ggd-nederland/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Utrecht, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2021
+                        }
+                    },
+                    "company": "GGD GHOR Nederland",
+                    "description": "\u2022 data pipelines: Corona cases and digital vaccination certificates (Coronachecker App)\n  (SQL, Airflow, python)",
+                    "title": "Senior Data Engineer (freelance, ad interim)",
+                    "employment_type": "Freelance"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 48315,
+                "name": "BAM Infra Nederland",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQEs50bU4nP_Pw/company-logo_400_400/0/1540295003213?e=1703721600&v=beta&t=r0kpGEItw7RUN0eApGgqd1e5XVdnV3BHtl0zmqq6FBQ",
+                "url": "https://www.linkedin.com/company/baminfra/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Gouda, South Holland, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2020
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2021
+                        }
+                    },
+                    "company": "BAM Infra Nederland",
+                    "description": "\u2022\tPredictive maintanance of railway tracks and infrastructure\n         tools: python, Tensorflow, Keras, Azure devops, PowerBI, PostgreSQL, Microsoft SQL server, CI/CD, git",
+                    "title": "Senior Data Scientist (freelance, ad interim)",
+                    "employment_type": "Freelance"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 260774,
+                "name": "VONQ",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQF2dKd2m_suiQ/company-logo_400_400/0/1550218049649?e=1703721600&v=beta&t=uoBNb6TsgmPhpdD1MJ1Bd-LXVXQDMjjhUwm_rXhU3AY",
+                "url": "https://www.linkedin.com/company/vonq/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Rotterdam Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2020
+                        }
+                    },
+                    "company": "VONQ",
+                    "description": "The products delivered enabled Vonq to automatise processes more whilst achieving higher customer satisfaction. A new technical infrastructure was set-up so new model deployments could be accelerated:\n\n\n\u2022\tForecasting system of product performance (in production)\n\ttools: Tensorflow, Keras, python, pyspark, PostgreSQL, SageMaker, Snowflake, CI/CD, git\n\n\u2022\tRecommendation system with explainable recommendations (in production)\n\ttools: python, spark (Databricks), SQL, NLP, Spacy, doc2vec, MLFlow, Sagemaker, AWS, docker, git, Jenkins\n\n\u2022\tSearch engine for data-driven, enriched product catalogue (in production)\n\ttools: FastText (facebook), gensim/glove, NLP (Spacy), semi-supervised clustering, crawling and data cleaning (python), ElasticAppSearch\n\n\u2022\tData pipelines with HR-applicant tracking systemen (in production) \n\ttools: XML, Salesforce, Airflow",
+                    "title": "Lead Senior Data Scientist (freelance, ad interim)",
+                    "employment_type": "Freelance"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 575156,
+                "name": "Crystalloids",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQH9sKXrOcS3CQ/company-logo_400_400/0/1665391902575?e=1703721600&v=beta&t=gY8c1DBTyNcUiTjAtV4xaxOux6octq_P3AhO_-ZO5iA",
+                "url": "https://www.linkedin.com/company/crystalloids/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amsterdam Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "Crystalloids",
+                    "description": "Interim assignment:\n\n\u2022  data pipelines, transformation services and dashboards voor various clients\ntools: Apache Airflow, python, BigQuery, Google Analytics (GA360), Google Cloud Platform (GCP)\u2028, Google Data Studio",
+                    "title": "Senior machine learning- / data engineer (freelance, ad interim) ",
+                    "employment_type": "Freelance"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 82984,
+                "name": "IceMobile",
+                "logo": "https://media.licdn.com/dms/image/C560BAQGIru2TvJMQ4g/company-logo_400_400/0/1557904911621?e=1703721600&v=beta&t=ThIMm2bDK0fzA9KY7Ovti2JloDmcCa5LHWLgtvGFCXs",
+                "url": "https://www.linkedin.com/company/icemobile/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amsterdam Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2017
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "IceMobile",
+                    "description": "My work was a mix of 30% coaching and teaching, 30% POC work and 40% implementation and data engineering work (full stack). I worked in SCRUM teams. As a lead, I gave direction to the team (leading by example) and was responsible for road maps, vision and stakeholder management. Technical expert with A-clients and major implementations. Work location was at IceMobile and at BrandLoyalty. Products delivered:\n\n\u2022\tPredictive models for customer behaviour: participation, consumer dynamics, personal loyalty program saving goals.\n\ttools: Time-series analysis, classification, model-stacking, A/B testing\n\n\u2022\tRecommender systems for high-frequent retail (e-commerce and mobile app)\n\ttools: pyspark, TensorFlow, python, Airflow, redis, A/B testing\n\n\u2022\tAI / image classification (one shot learning / siamese neural networks)\n\ttools: One shot learning and matching networks (TensorFlow/pytorch)\n\n\u2022\tDemand forecasting models of stock supply, store allocation\n\ttools: classification models, time-series analysis, model-stacking, R shiny\n\n\u2022\tPersonalised recommendations for product savings and loyalty goals\n\ttools: Spark, business logic + optimisation problems\n\n\u2022\tSemi-supervised clustering and customer segmentation\n\ttools: R, simulations, RFM, clustering, combining data sources\n\n\u2022\tConsumer\u2019s basket prediction\n\ttools: python, gradient boosting, LSTMs (Tensorflow/Keras)\n\n\u2022\tData pipelines (ETL)\n\ttools: Airflow, Superset, python, Kibana\n\n\u2022\tImage recognition of shopped items (and shoppers)\u2028\n\ttools: Object recognition (python), transfer learning, cameras, raspberry pi, javascript, flask\u2028\n\nOther activities:\n\u2022\tMentoring of data science/AI students\n\u2022\tCoaching and teaching of  junior/medior data scientists and -analysts\n\u2022\tWorkshops and hackathons: initiation and organisation\n\u2022\tCooperation with related companies",
+                    "title": "Lead senior data scientist at IceMobile (Amsterdam) / BrandLoyalty (Den Bosch)",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1442,
+                "name": "KPN",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQFHdzywk2aJGA/company-logo_400_400/0/1691135902931?e=1703721600&v=beta&t=EwovPoL4-FsdDqAf_BsVW4iHyxyT1HtULkozISOj_rI",
+                "url": "https://www.linkedin.com/company/kpn/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amsterdam Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2017
+                        }
+                    },
+                    "company": "KPN",
+                    "description": "\u2022 Design and development of a realtime analytics system \ngoal: customer journey analysis and monitoring across different channels, \n\t                         outlier detection \ntools: Apache Flink, Kafka, Cassandra, Scala, Spark, Python/sklearn,  D3,\n\t                        MOA (Massive Online Analysis), neo4j,  word2vec\nproduct: server environment (ingest-queue-aggreations-storage-display-analysis)\n including validation, model and visualization (in pre-production)\n\n\u2022 Sales funnel prediction \ngoal: based on page visits of website, predict sales funnel and next-best-action \ntools: R, Python, machine learning algorithms (a.o K-NN, Spark MLib)  and \n deep learning (RNN, LSTM), graph databases, A/B testing, Django\nproduct: API, A/B tested, regular learning via Jenkins on R-server (in production)\n\n\u2022 Internet of Things (IoT/LoRa): generic replenishment solution for moving containers\ngoal: prediction of filling level and transit status\ntools: Arduino, Sodaq, KPN LoRa, The Things Network, MQTT services,\n\t  AWS/S3, bokeh/D3/Kibana, GIS, time series analysis \nproduct: ingest, analysis, visualization and prediction (in progress)\n\n\u2022 Telecom network data analysis\ngoal:  predict technical failures, analyse failures more quickly\ntools: Python/sklearn, Elasticsearch/Kibana, KNMI precipitation \nproduct: pinpoint root causes, visualization of clustered failures (in progress)\n\nWorking in SCRUM/Agile. Continuous Integration (Jenkins), Containers (Docker). Lecturing/teaching ML techniques, Hackathon (LoRa devices)",
+                    "title": "Senior data scientist at KPN S&I Digital",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 49610,
+                "name": "MMIT International",
+                "logo": "https://media.licdn.com/dms/image/C510BAQEGbwvot0Q-Og/company-logo_400_400/0/1519856460096?e=1703721600&v=beta&t=1O9TWMFdC49LGr8DnxjlEgN-7tioxpaMbH1RLNnJ3Q4",
+                "url": "https://www.linkedin.com/company/mmit-international/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2005
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amsterdam Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2014
+                        },
+                        "end": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2016
+                        }
+                    },
+                    "company": "MMIT International",
+                    "description": "Projects\n\n\u2022 Streaming APIs, machine learning, SPAM filtering\n\n\u2022 Data profiling, data mining\n   (analysis of large inconsistent data sources of various customers, governmental data, geo(spatial) data)\n  \n\u2022 Web crawling and -harvesting \n(for data enrichment, reference data checks and consistency checks)\n \n\u2022 Matching and deduplication\n(of leads, customer data, events, products etc)\n  \n\u2022 Self-learning systems\n(learning from human interactions and corrections)\n\n\u2022 Autocorrection and autocompletion services\n\n\nResponsibilities\n\n\u2022 lead R&D and innovations\n\n\nTools & techniques\n\nElasticsearch, Cassandra, rethinkDB, mongoDB\nApache Spark, nutch, Hadoop, MapReduce\nnoSQL, SQL\nPython, R, Java, C# (numpy, pandas, scikit-learn)\nDeep learning/NLP (word2vec)\nangularJS, nodeJS\nDocker, Linux, Windows\nAWS, BigQuery",
+                    "title": "Data scientist / data engineer",
+                    "employment_type": null
+                },
+                {
+                    "location": "Amsterdam",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2005
+                        },
+                        "end": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2016
+                        }
+                    },
+                    "company": "MMIT International",
+                    "description": "Projects\n\n\u2022 Name- and address cleansing software for approx. 20 countries\n(NLP; text analysis; pattern matching; fuzzy n-gram matching)\n  \n\u2022 Lead Management web applications (MVC, HTML5/CSS3, jquery)\n\n\u2022 Driving time and -distance web application (customer-dealer allocation)\n\n\u2022 RESTful services\n\n\u2022 Decisionmaking engines integrated in Biztalk workflow\n\n\u2022 ETL\n\n\u2022 MS Dynamics CRM\n\n\u2022 Qlikview dashboards\n\nSelection of tools: SQL, C#, Java, bash, Trillium",
+                    "title": "Senior software developer (big data and data quality)",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Machine Learning",
+        "SQL",
+        "Artificial Intelligence",
+        "Big Data",
+        "ETL",
+        "Data Mining",
+        "Business Analysis",
+        "Data Analysis",
+        "Software Development",
+        "Artificial Intelligence (AI)",
+        "Python",
+        "Hadoop",
+        "R",
+        "JavaScript",
+        "Docker",
+        "Linux",
+        "Amazon Web Services (AWS)",
+        "Microsoft Azure",
+        "AWS",
+        "TensorFlow"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}
