@@ -1,0 +1,517 @@
+{
+    "profile_id": "eradorta",
+    "first_name": "Era",
+    "last_name": "Dorta",
+    "sub_title": "Research Engineer at Synthesia",
+    "profile_picture": "https://media.licdn.com/dms/image/C4D03AQFO5qNv_Qg_7w/profile-displayphoto-shrink_800_800/0/1633683606051?e=1701302400&v=beta&t=n9yZCAu14LBvDyoayVJFll_oksbAoiTu1zqmwah6n5s",
+    "background_image": "https://media.licdn.com/dms/image/C4D16AQH3kLDN_FC_0Q/profile-displaybackgroundimage-shrink_350_1400/0/1638886405084?e=1701302400&v=beta&t=5AmPo65v7VsNl1IOmKQFk2wwbRGXoR1rqK5dEJQr7iY",
+    "profile_type": "personal",
+    "entity_urn": "ACoAABCxTg0B_gNXkBC03Q87Du14IsMJ8MuJYrI",
+    "object_urn": 280055309,
+    "birth_date": null,
+    "summary": null,
+    "location": {
+        "country": "Netherlands",
+        "short": "The Hague, South Holland",
+        "city": "The Hague",
+        "state": "South Holland",
+        "default": "The Hague, South Holland, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "ES",
+            "language": "es"
+        },
+        "supported_locales": [
+            {
+                "country": "ES",
+                "language": "es"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "English",
+                "proficiency": "FULL_PROFESSIONAL"
+            },
+            {
+                "name": "Spanish",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ]
+    },
+    "industry": "Research",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "school": {
+                "name": "University of Bath",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQHQLVwhPQAQ1g/company-logo_400_400/0/1677695706581?e=1703721600&v=beta&t=2U9H-WfJmgBNOM0uCsqjG6qXkJ4rC0BmgjrBCe9Q1cQ",
+                "url": "https://www.linkedin.com/school/university-of-bath/"
+            },
+            "degree_name": "Doctor of Engineering (EngD) in Computer Science",
+            "field_of_study": null,
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2008
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "school": {
+                "name": "Universidad de Las Palmas de Gran Canaria",
+                "logo": "https://media.licdn.com/dms/image/C560BAQGaVxnuER00hw/company-logo_400_400/0/1576846409176?e=1703721600&v=beta&t=Ntm-KZNmJZ_b4GMOAFR9qZF_ATOUUCqJGYf4XeZJSzk",
+                "url": "https://www.linkedin.com/school/universidad-de-las-palmas-de-gran-canaria/"
+            },
+            "degree_name": "Computer Engineering",
+            "field_of_study": "Computer Graphics, Software Engineering",
+            "grade": "8.197/10"
+        }
+    ],
+    "patents": [],
+    "awards": [
+        {
+            "title": "Runner up for best paper award",
+            "description": "\"Laplacian pyramid of conditional Variational Autoencoders\" received a prize as runner up for best paper in the conference.",
+            "issuer": "CVMP",
+            "date": {
+                "month": 12,
+                "day": null,
+                "year": 2017
+            }
+        },
+        {
+            "title": "Outstanding End of Studies Award",
+            "description": "Award for being the student with the best marks in the cohort of 2014 for the BSc in Computer Engineering.",
+            "issuer": "University of Las Palmas de Gran Canaria",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2014
+            }
+        }
+    ],
+    "certifications": [],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "Thunderbird Google Keep Tab",
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "description": "Simple addon for Google Keep integration in Thunderbird.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Era",
+                    "last_name": "Dorta",
+                    "name": null,
+                    "headline": "Research Engineer at Synthesia"
+                }
+            ]
+        },
+        {
+            "title": "Multivariate Gaussian distributions for Tensorflow",
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "description": "This repository contains parts of the implementation code for the papers 'Structured Uncertainty Prediction Networks' (CVPR 2018) and 'Training VAEs Under Structured Residuals' (arxiv 2018).",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Era",
+                    "last_name": "Dorta",
+                    "name": null,
+                    "headline": "Research Engineer at Synthesia"
+                }
+            ]
+        },
+        {
+            "title": "Volumetric fire modeling",
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "description": "Fire modelling project. This includes a genetic algorithm for optimising the parameters of a custom-made physically-based fire shader for Mental Ray in Maya. This project is a collaboration with Outdoor Asset Capture (OAK) project, where raw captured flame data is to be rendered realistically in a simulated environment.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Era",
+                    "last_name": "Dorta",
+                    "name": null,
+                    "headline": "Research Engineer at Synthesia"
+                }
+            ]
+        },
+        {
+            "title": "Marker-less motion tracking application",
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "description": "An interdisciplinary project with the collaboration of a member from the Veterinary faculty with the objective to explore the feasibility of RGBZ cameras as a marker-less motion tracking system.\nData extracted from three Kinect cameras was subjected to several heuristic methods to fit a canine skeleton model using inverse kinematics; the result was displayed in a virtual 3D environment.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Era",
+                    "last_name": "Dorta",
+                    "name": null,
+                    "headline": "Research Engineer at Synthesia"
+                }
+            ]
+        },
+        {
+            "title": "Gosu-Android",
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "description": "- The aim of the project was to develop a multi-platform game engine for Android devices, which could be programed using the Ruby programming language. \n- We used an experimental Ruby interpreter written in Java for Android and tested its capabilities.\n- Provides an abstraction layer for sprites, audio, multi-touch input and rigid body physics.\n- Implemented using OpenGL ES in Java and Ruby.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Era",
+                    "last_name": "Dorta",
+                    "name": null,
+                    "headline": "Research Engineer at Synthesia"
+                }
+            ]
+        }
+    ],
+    "publications": [
+        {
+            "name": "The GAN that Warped: Semantic Attribute Editing with Unpaired Data",
+            "publisher": "Computer Vision and Pattern Recognition (CVPR)",
+            "url": "https://openaccess.thecvf.com/content_CVPR_2020/html/Dorta_The_GAN_That_Warped_Semantic_Attribute_Editing_With_Unpaired_Data_CVPR_2020_paper.html",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2020
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Era",
+                    "last_name": "Dorta",
+                    "name": null,
+                    "headline": "Research Engineer at Synthesia"
+                }
+            ]
+        },
+        {
+            "name": "Structured Uncertainty Prediction Networks",
+            "publisher": "Computer Vision and Pattern Recognition (CVPR)",
+            "url": "https://openaccess.thecvf.com/content_cvpr_2018/html/Dorta_Structured_Uncertainty_Prediction_CVPR_2018_paper.html",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2018
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Era",
+                    "last_name": "Dorta",
+                    "name": null,
+                    "headline": "Research Engineer at Synthesia"
+                }
+            ]
+        },
+        {
+            "name": "Laplacian Pyramid of Conditional Variational Autoencoders",
+            "publisher": "Proceedings of 14th European Conference on Visual Media Production (CVMP)",
+            "url": "https://dl.acm.org/doi/10.1145/3150165.3150172",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2017
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Era",
+                    "last_name": "Dorta",
+                    "name": null,
+                    "headline": "Research Engineer at Synthesia"
+                }
+            ]
+        }
+    ],
+    "courses": [
+        {
+            "name": "Simulation of Artificial Neural Networks: Case Study (10 hours), 2010",
+            "number": null
+        },
+        {
+            "name": "Vicon Blade 3 motion capture training (6 hours), 2015",
+            "number": null
+        }
+    ],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 11190643,
+                "name": "Synthesia",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQFC9J4Ty--hSA/company-logo_400_400/0/1694076233195?e=1703721600&v=beta&t=-vS3_92VXtP_3CrsME1Ei7dkFgriLMggcCwSdbfq2Dk",
+                "url": "https://www.linkedin.com/company/synthesia-technologies/",
+                "employees": {
+                    "start": 201,
+                    "end": 500
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amsterdam, North Holland, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Synthesia",
+                    "description": null,
+                    "title": "Research Engineer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 62317,
+                "name": "Anthropics Technology Ltd",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQHxjs395q5qPg/company-logo_400_400/0/1594380235977?e=1703721600&v=beta&t=dPwO7xxFl77GyaXzkq2wiVcPVHOUeY9cXSHJ1Bm1f3M",
+                "url": "https://www.linkedin.com/company/anthropics-technology-ltd/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "London, United Kingdom",
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "Anthropics Technology Ltd",
+                    "description": "Placement with the R&D team as part of the EngD programme, where I explored the feasibility of using deep neural networks for human beauty applications, with a particular interest in generative models  applied to human faces.",
+                    "title": "EngD placement",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 9332,
+                "name": "University of Bath",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQHQLVwhPQAQ1g/company-logo_400_400/0/1677695706581?e=1703721600&v=beta&t=2U9H-WfJmgBNOM0uCsqjG6qXkJ4rC0BmgjrBCe9Q1cQ",
+                "url": "https://www.linkedin.com/school/university-of-bath/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Bath, United Kingdom",
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2014
+                        },
+                        "end": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2015
+                        }
+                    },
+                    "company": "University of Bath",
+                    "description": "This role involved tutoring first year Principles of programming 1 (CM10227)  and  Principles of programming 2 (CM10228) units, first year undergraduate courses teaching Java, where I gave lab support and marked coursework assignments.",
+                    "title": "Tutor and Marker",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 8369,
+                "name": "University of Surrey",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQFPzxEJGdWEtw/company-logo_400_400/0/1685524093584?e=1703721600&v=beta&t=PQzkYomTp1SlA3tA-4iGRTWATQEkzX1_2srYbVPI4gs",
+                "url": "https://www.linkedin.com/school/university-of-surrey/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Guildford, United Kingdom",
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2013
+                        },
+                        "end": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2014
+                        }
+                    },
+                    "company": "University of Surrey",
+                    "description": "Development of canine gait analysis software using marker-less motion\ntracking. A 3D canine skeleton was fitted to data from Kinect cameras using inverse kinematics.",
+                    "title": "Undergraduate Research Internship",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Deep Learning",
+        "Python",
+        "Tensorflow",
+        "Software Development",
+        "OOP",
+        "Computer Science",
+        "C++",
+        "Linux",
+        "Git",
+        "Bash",
+        "Deep Neural Networks (DNN)",
+        "LaTeX",
+        "Computer Vision",
+        "Research",
+        "Machine Learning"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

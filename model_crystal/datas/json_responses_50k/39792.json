@@ -1,0 +1,910 @@
+{
+    "profile_id": "mdenoudenallroundsoftwareengineer",
+    "first_name": "Martijn",
+    "last_name": "Den Ouden",
+    "sub_title": "SAP and Microsoft Consultant with a passion for technology.      \n\"Make it work, make it right, make it fast & secure.\"",
+    "profile_picture": "https://media.licdn.com/dms/image/C4E03AQFSBbO7hyLicg/profile-displayphoto-shrink_800_800/0/1517740141721?e=1701302400&v=beta&t=Jg1rZGm1-hnoEazyc-u5aEtOECuLHaP8y3SnGPH1rfQ",
+    "background_image": "https://media.licdn.com/dms/image/C4E16AQHH2nc3K4jaPQ/profile-displaybackgroundimage-shrink_350_1400/0/1617276430465?e=1701302400&v=beta&t=2NCZo7un3xp6eBrrUfzFnil-yvUakq7FgXbG9a2TgDg",
+    "profile_type": "personal",
+    "entity_urn": "ACoAAADyUhgBsIn7CMk74imTAi4Lbf7cqVWtRuk",
+    "object_urn": 15880728,
+    "birth_date": null,
+    "summary": "I've been developing software since I was a little youngling. Having started with quick basic, turbo pascal I worked my way up through yearly iterations of new software languages, patterns and concepts eventually ending up in the SAP stack (2004 onward) with a heavy 'side' investment in Microsoft .NET. Both of which I use daily and have incorporated both professionally as well as privately (Yes I used to have a local SAP Mini install when that was still a thing)\n\nCountless hobby programming projects and a broad interest in technology as well as a general interest in machines have given me an uncanny ability to dissect complex problems into manageable bytes (pun intended) as well as a capability to turn customer requirements into actual practical and usable solutions.\n\nI've played and worked with hundreds of different tools, patterns, models and have effectively turned my childhood programming hobby into my full time carreer.\n\nSome people may say I am a work-a-holic (often doing more than one project at a time) but I like to think of it as fun rather than work.\n\nAre you looking for an extremely (!) dedicated SAP Technical consultant or just an excellent all-round developer then you have come to the right place. I hold myself to an exacting standard and will happily tap away on my keyboard during evenings or weekends to provide not only what is required but also what is desired. \n\nOver-delivery is the name of the game. \n\nP.s. in these confusing times I'd like to point out that I am a very capable and communicative remote worker providing consistent updates and progress. Happy to operate for any Dutch, English or German speaking company anywhere in the world. Teach me another language and I'll add that too ;)\n",
+    "location": {
+        "country": "Netherlands",
+        "short": "Ommeren, Gelderland",
+        "city": "Ommeren",
+        "state": "Gelderland",
+        "default": "Ommeren, Gelderland, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [
+        {
+            "url": null,
+            "title": "CV Martijn den Ouden - EN 3.2 (Medium).pdf",
+            "description": "A medium sized CV without long project descriptions. ",
+            "image": "https://media.licdn.com/dms/image/C4E2DAQEvlv7vqdB7TQ/profile-treasury-document-cover-images_1920/0/1605438630241?e=1696449600&v=beta&t=zKtnMUBcqFZz3mC6QmesCoGlTnfRY5S9trQx17HZeEk"
+        }
+    ],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "Dutch",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "English",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "German",
+                "proficiency": "FULL_PROFESSIONAL"
+            }
+        ]
+    },
+    "industry": "Information Technology & Services",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 1998
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2003
+                }
+            },
+            "school": {
+                "name": "HTS Haarlem",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": null,
+            "field_of_study": null,
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 1998
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2003
+                }
+            },
+            "school": {
+                "name": "Inholland University of Applied Sciences",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQF4kRIPNGd2sw/company-logo_400_400/0/1677156028522?e=1703721600&v=beta&t=h8-dPGdrwzEVrGAEhXn5hWehj0gkOqwYoZEygdpVTts",
+                "url": "https://www.linkedin.com/school/hogeschool-inholland/"
+            },
+            "degree_name": "Bachelor of Engineering",
+            "field_of_study": "Information Technology",
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "PPG Industries - Quotation Manager Customer Creation",
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "description": "Develop a SAP ABAP function module providing customer creation functionality for all levels of SAP customer master and sales data capable being called as a SOAP webservice. Provide training and code samples to integrate the webservice configuration into an existing .NET web application. ",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Martijn",
+                    "last_name": "Den Ouden",
+                    "name": null,
+                    "headline": "SAP and Microsoft Consultant with a passion for technology.      \n\"Make it work, make it right, make it fast & secure.\""
+                }
+            ]
+        },
+        {
+            "title": "PPG Industries - Smart Forms & Adobe Forms Proof of concept",
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2008
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2008
+                }
+            },
+            "description": "Research and provide proof of concept for potential Sapscript replacement tools. Assist with installation of Adobe forms demo set up and provide proof of concept of adobe form and smart form in an effort to reduce overall support time spent on Sapscript forms.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Martijn",
+                    "last_name": "Den Ouden",
+                    "name": null,
+                    "headline": "SAP and Microsoft Consultant with a passion for technology.      \n\"Make it work, make it right, make it fast & secure.\""
+                }
+            ]
+        },
+        {
+            "title": "PPG Industries - SAP EP UWL",
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2008
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2008
+                }
+            },
+            "description": "Research and provide proof of concept for potential Sapscript replacement tools. Assist with installation of Adobe forms demo set up and provide proof of concept of adobe form and smart form in an effort to reduce overall support time spent on Sapscript forms.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Martijn",
+                    "last_name": "Den Ouden",
+                    "name": null,
+                    "headline": "SAP and Microsoft Consultant with a passion for technology.      \n\"Make it work, make it right, make it fast & secure.\""
+                }
+            ]
+        },
+        {
+            "title": "Cadent - SAP Portal/Hana Migration",
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "description": "Provide senior technical development consultancy for an  ECC to S4 upgrade project within the customer landscape in which core SAP systems are upgraded to S4 (From ECC) whilst retaining existing (10 year old legacy systems) such as SAP portals, Agentry servers, ESRI map integrators and other third party systems. Design and develop integration solutions to bridge the 10 year long upgrade gap across multiple technological stacks and systems. ",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Martijn",
+                    "last_name": "Den Ouden",
+                    "name": null,
+                    "headline": "SAP and Microsoft Consultant with a passion for technology.      \n\"Make it work, make it right, make it fast & secure.\""
+                }
+            ]
+        },
+        {
+            "title": "Royal Dutch shell - WRFM - HANA XS Portal",
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "description": "Design and Implement a comprehensive web portal application capable of visualizing Shell's extensive equipment library providing a framework to attach reports to specific hierarchy nodes, dynamically linking of UI elements to SAP HANA database information and integrating into pre-existing Shell development and maintenance procedures.\nBuilt on SAP HANA XS using Javascript, KendoUI, XSJS, ODATA and other front-end technologies.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Martijn",
+                    "last_name": "Den Ouden",
+                    "name": null,
+                    "headline": "SAP and Microsoft Consultant with a passion for technology.      \n\"Make it work, make it right, make it fast & secure.\""
+                }
+            ]
+        },
+        {
+            "title": "Royal Dutch Shell Bangalore Agile Architect ",
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "description": "Analyze current Hana platform practices based on Agile, Development, Testing, Delivery and support. Identify bottlenecks, risks and challenges within the various processes. Provide high level and individual processes to ensure a better and faster delivery can take place whilst reducing risks and blockers. Develop detailed approaches to work handling in agile, information handling, development using tracks and unit testing as well as integrate support requirements into all levels of the process. On-site role in Bangalore",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Martijn",
+                    "last_name": "Den Ouden",
+                    "name": null,
+                    "headline": "SAP and Microsoft Consultant with a passion for technology.      \n\"Make it work, make it right, make it fast & secure.\""
+                }
+            ]
+        },
+        {
+            "title": "Northern gas Network GEMS BCM",
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "description": "NGN required the construction of multiple applications to enhance current work order and damage order processes. The creation of multiple applications in different technologies was required. A SAPUI5 damages application (generic forms) running on the SAP Cloud platform capable of communicating with an S/4 Hana system. An order storage, display and print module for an emergency backup system (Stand-alone infrastructure) created in Microsoft technologies running on an Amazon AWS stack. Additionally a stand-alone order status monitoring utility to provide an overview of all work orders running into a specific state allowing emergency repair crews to be coordinated and dispatched (based on Microsoft technologies running on Amazon AWS)",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Martijn",
+                    "last_name": "Den Ouden",
+                    "name": null,
+                    "headline": "SAP and Microsoft Consultant with a passion for technology.      \n\"Make it work, make it right, make it fast & secure.\""
+                }
+            ]
+        },
+        {
+            "title": "Vodafone - SIDD Processor",
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "description": "Develop the processing logic for the SIDD (swap, insurance swap, demo and dummy) processes that allow for the exchange or swapping of vodafone devices at the various vodafone stores. Catalogue data is provided through pre-existing processes and processed in background tasks creating appropriate SIDD materials in the SAP MDM database.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Martijn",
+                    "last_name": "Den Ouden",
+                    "name": null,
+                    "headline": "SAP and Microsoft Consultant with a passion for technology.      \n\"Make it work, make it right, make it fast & secure.\""
+                }
+            ]
+        },
+        {
+            "title": "Vodafone - Catalogue Cockpit application",
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "description": "Design and build a Catalogue application for the Vodafone SAP portal environment that makes it possible to upload and edit Catalogue excel files. Convert existing catalogue processing concepts into more efficient generic background processes capable of validating Excel catalogue data against MDM, triggering guided procedures and handling user data in local database storage.\n",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Martijn",
+                    "last_name": "Den Ouden",
+                    "name": null,
+                    "headline": "SAP and Microsoft Consultant with a passion for technology.      \n\"Make it work, make it right, make it fast & secure.\""
+                }
+            ]
+        },
+        {
+            "title": "Vodafone - Supplier Vendor Portal",
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "description": "Develop a supplier vendor portal application for the vodafone SAP portal landscape that is capable of communicating with the available SAP MDM and SAP ECC backend systems. Provide full application development with minimal customer interaction on an extremely tight schedule. ",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Martijn",
+                    "last_name": "Den Ouden",
+                    "name": null,
+                    "headline": "SAP and Microsoft Consultant with a passion for technology.      \n\"Make it work, make it right, make it fast & secure.\""
+                }
+            ]
+        },
+        {
+            "title": "Royal Dutch Shell - WRFM SDK extensions",
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "description": "SAP HANA/ Design studio project. Develop various Software development kit components covering a varied range of visual components such as charts, tables and datepickers for the SAP Business Objects design studio suite. Work together closely with SAP and Shell collegues to build a set of comprehensive reporting tools capable of visualizing Shell's vast amount of Equipment data.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Martijn",
+                    "last_name": "Den Ouden",
+                    "name": null,
+                    "headline": "SAP and Microsoft Consultant with a passion for technology.      \n\"Make it work, make it right, make it fast & secure.\""
+                }
+            ]
+        },
+        {
+            "title": "KLM - Hunite SAP HR Interface",
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "description": "Extend and implement the previously developed SAP HR Hunite interface designed to provide a full integration with SAP HR data for external applications such as the Hunite HR layer. Work in close collaboration with KLM resources in order to ensure a smooth implementation of the HR connector and design and develop customer specific connector features.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Martijn",
+                    "last_name": "Den Ouden",
+                    "name": null,
+                    "headline": "SAP and Microsoft Consultant with a passion for technology.      \n\"Make it work, make it right, make it fast & secure.\""
+                }
+            ]
+        },
+        {
+            "title": "Sales Project - PPG WMDS",
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "description": "Provide project startup sales/ estimates and support to ensure the succesfull project acceptance of the WMDS support contract at PPG PMC. The activities include design, project estimates and customer sales meetings and provide a long-term application support contract with PPG for the WMDS application that includes 1st and 2nd line support as well as application extension contracts.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Martijn",
+                    "last_name": "Den Ouden",
+                    "name": null,
+                    "headline": "SAP and Microsoft Consultant with a passion for technology.      \n\"Make it work, make it right, make it fast & secure.\""
+                }
+            ]
+        },
+        {
+            "title": "Hunite - SAP HR Interface",
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "description": "Design and implement a HR interface layer on SAP ECC HR to allow external mobile devices running Hunite software to consume and leverage SAP data in an Iphone and web environment.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Martijn",
+                    "last_name": "Den Ouden",
+                    "name": null,
+                    "headline": "SAP and Microsoft Consultant with a passion for technology.      \n\"Make it work, make it right, make it fast & secure.\""
+                }
+            ]
+        },
+        {
+            "title": "Alpheios - SAP Integrated Webshop \"CleanDeal\"",
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "description": "Design, develop and roll-out a fully functional SAP Bridge interface to allow a webshop integration of any non-SAP webshop against a standard SAP ECC platform capable of real time data exchange for orders, customers, products and stock integration with more than 16.000 requests per hour.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Martijn",
+                    "last_name": "Den Ouden",
+                    "name": null,
+                    "headline": "SAP and Microsoft Consultant with a passion for technology.      \n\"Make it work, make it right, make it fast & secure.\""
+                }
+            ]
+        },
+        {
+            "title": "PPG Industries - Advice & Warranty module development",
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "description": "Upgrade and extend existing applications for the handling and delivery of paint advices and warranty management tooling for external and corresponding internal parties. Upgrade existing applications to latest technical infrastructure and enhance applications as per business request and provide necessary integration with the SAP CRM package. Finalize phase out of CN2000 infrastructure and applications retiring old vision jade infrastructure. ",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Martijn",
+                    "last_name": "Den Ouden",
+                    "name": null,
+                    "headline": "SAP and Microsoft Consultant with a passion for technology.      \n\"Make it work, make it right, make it fast & secure.\""
+                }
+            ]
+        },
+        {
+            "title": "PPG Industries - Point of Sales Improvements",
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "description": "Pick up development tasks aimed at improving the point of sales flow decreasing overall amount of clicks, simplifying functionality and enhancing the SAP standard sales transactions for groups with specific input needs. Manage resources, arrange meetings and provide development solutions.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Martijn",
+                    "last_name": "Den Ouden",
+                    "name": null,
+                    "headline": "SAP and Microsoft Consultant with a passion for technology.      \n\"Make it work, make it right, make it fast & secure.\""
+                }
+            ]
+        },
+        {
+            "title": "Boeren Medical - SAP Implementation",
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "description": "Develop and implement a vecozo/vektis healthcare service layer that allows the customer to turn SAP invoices into declarations for (NL) healthcare insurers via an automated process and allow SAP users to validate if and where a person is insured.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Martijn",
+                    "last_name": "Den Ouden",
+                    "name": null,
+                    "headline": "SAP and Microsoft Consultant with a passion for technology.      \n\"Make it work, make it right, make it fast & secure.\""
+                }
+            ]
+        },
+        {
+            "title": "PPG Industries - Color formulations web portal",
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "description": "Create a web based color formulation portal that allows external and internal users to determine color mixing schemes for paint dispensers based on existing data in SAP. Integrate application in SAP portal, sharepoint & external websites.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Martijn",
+                    "last_name": "Den Ouden",
+                    "name": null,
+                    "headline": "SAP and Microsoft Consultant with a passion for technology.      \n\"Make it work, make it right, make it fast & secure.\""
+                }
+            ]
+        },
+        {
+            "title": "Transpart - Webshop Implementation",
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "description": "Design, build and host a cloud based webshop with SAP connectivity making it possible for customers to register themselves in the SAP system and order various products from and via the backend system.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Martijn",
+                    "last_name": "Den Ouden",
+                    "name": null,
+                    "headline": "SAP and Microsoft Consultant with a passion for technology.      \n\"Make it work, make it right, make it fast & secure.\""
+                }
+            ]
+        }
+    ],
+    "publications": [],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 236437,
+                "name": "Creetion",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQG9fVANzlSnLA/company-logo_400_400/0/1651836898315?e=1703721600&v=beta&t=aXSGvT-aozvNJLRv5KD8T3MtJ753TXNi98DPdZv0lac",
+                "url": "https://www.linkedin.com/company/creetion/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Breda, North Brabant, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Creetion",
+                    "description": null,
+                    "title": "Senior SAP Consultant",
+                    "employment_type": "Part-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Simplicem",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Rotterdam Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2013
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Simplicem",
+                    "description": "As an aspiring principal Consultant cross any technological boundary in order to provide best of breed business software solutions capable of running on any device connecting to any system. Drive existing technologies to their maximum reach leveraging core development languages such as SAP ABAP, JAVA, .NET (and others) in any number of software engineering methodologies.",
+                    "title": "Senior ERP Consultant",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Integration Factory",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2009
+                },
+                "end": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2009
+                        },
+                        "end": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2013
+                        }
+                    },
+                    "company": "Integration Factory",
+                    "description": "In a role as senior SAP consultants work on a wide variety of technical and functional projects ranging from SAP implementations, full software development cycles in Microsoft, Java and SAP technologies providing expertise, development skills and consultancy to bring projects to a successful conclusion.\n\nPlease view projects for more details on individual assignments at various customers.",
+                    "title": "Senior SAP Consultant",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 4857,
+                "name": "PPG Industries",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQELfIa-K8Dtiw/company-logo_400_400/0/1631115552217?e=1703721600&v=beta&t=M-qmxlzszpJpYOOWzapbTRbX-Zz03RpaFe3JVS4MLp8",
+                "url": "https://www.linkedin.com/company/ppg/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2008
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2009
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2008
+                        },
+                        "end": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2009
+                        }
+                    },
+                    "company": "PPG",
+                    "description": "Design, develop and implement applications ranging from ABAP, ABAP OO to JAVA and .NET in a multitude of environments such as SAP, Windows, SAP portal. Integrate 3rd party applications into core systems and / or provide appropriate interfacing methodologies.\n\nProvide technical expertise towards the implementation of projects and manage IT projects / customer expectations where needed.",
+                    "title": "Business Application Analyst / Developer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "SigmaKalon",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2006
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2008
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Uithoorn, The Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2006
+                        },
+                        "end": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2008
+                        }
+                    },
+                    "company": "SigmaKalon",
+                    "description": "In a role as all-round developer and IT specialist design, develop, deploy and maintain a wide variety of software built in a multitude of languages and running on various different platforms. \n\nProvide expertise on business decisions and provide pragmatic and user friendly business solutions for business units ranging from upper management to general services.",
+                    "title": "Business Application Developer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 15106,
+                "name": "Ictopus professional trainees",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQFSEDHgWezSNA/company-logo_400_400/0/1519856259433?e=1703721600&v=beta&t=BnJoqGYW0S1v4yaTaHiyCVkMfxfBDb8RZp2AVhwXPXA",
+                "url": "https://www.linkedin.com/company/ictopus/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2004
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2004
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2004
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2004
+                        }
+                    },
+                    "company": "Ictopus",
+                    "description": "Professional Trainee describes a process of 4 months of intense SAP training followed up by consultancy work at various companies.",
+                    "title": "Professional Trainee",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "ABAP",
+        "SAP R/3",
+        "SAP ERP",
+        "Software Development",
+        "Scrum",
+        "ERP",
+        "SAP Netweaver",
+        "SAP HR",
+        "Visual C#",
+        "Java Enterprise Edition",
+        "Visual C++",
+        "MySQL",
+        "ASP.NET",
+        "HTML 5",
+        "jQuery UI",
+        "JavaScript",
+        "Microsoft SQL Server",
+        "SAP MM",
+        "SAP QM",
+        "SAP Authorizations"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

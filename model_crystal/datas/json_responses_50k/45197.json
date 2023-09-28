@@ -1,0 +1,396 @@
+{
+    "profile_id": "finn-soll\u00e9n-403652b",
+    "first_name": "Finn",
+    "last_name": "Soll\u00e9n",
+    "sub_title": "Interim Electronic Engineer",
+    "profile_picture": null,
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAAAINnMMBXzGY0zObdf1EqFiTGo99151ODQU",
+    "object_urn": 34446531,
+    "birth_date": null,
+    "summary": "\u2022\tCreative mind, often using unexpected approaches for new challenges.\n\u2022\tLogic and analytic oriented to solve upcoming problems.\n\u2022\tLong term overview, to keep client and project goals in the focus.\n\u2022\tAffinity in abstract thinking, to quickly find out clients real need and wishes.\n\u2022\tAnalogue and power electronic design for complex sensor and power outputs.\n\u2022\tRequirement specification and development strategy.\n\u2022\tProject-leader for multi discipline projects.\n",
+    "location": {
+        "country": "Netherlands",
+        "short": "Amsterdam, North Holland",
+        "city": "Amsterdam",
+        "state": "North Holland",
+        "default": "Amsterdam, North Holland, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "Dutch",
+                "proficiency": "FULL_PROFESSIONAL"
+            },
+            {
+                "name": "English",
+                "proficiency": "FULL_PROFESSIONAL"
+            },
+            {
+                "name": "French",
+                "proficiency": "PROFESSIONAL_WORKING"
+            },
+            {
+                "name": "Swedish",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ]
+    },
+    "industry": "Medical Device",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 1982
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 1986
+                }
+            },
+            "school": {
+                "name": "KTH Royal Institute of Technology",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQGkcfLVY-zvDA/company-logo_400_400/0/1534319667361?e=1703721600&v=beta&t=V004AXzuqSHDQnKBHUlN7uB-a1zLMYFXlPs8mgKZxsY",
+                "url": "https://www.linkedin.com/school/kth/"
+            },
+            "degree_name": "Master of Science (MSc)",
+            "field_of_study": "Elektronics",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2005
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2006
+                }
+            },
+            "school": {
+                "name": "Leergand bedrijskunde Haarlem",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": null,
+            "field_of_study": "Business Administration and Management, General",
+            "grade": "Passed"
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [],
+    "organizations": [],
+    "projects": [],
+    "publications": [],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 10457,
+                "name": "Nucletron BV",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQERX9O9PLKyEg/company-logo_400_400/0/1519855946403?e=1703721600&v=beta&t=rwcfleGCc4O54q0y7bL2AxQnXlSMqUWd39LLxnWRoNk",
+                "url": "https://www.linkedin.com/company/nucletron/",
+                "employees": {
+                    "start": 201,
+                    "end": 500
+                }
+            },
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2006
+                },
+                "end": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Veenendaal, the Netherlands",
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "day": null,
+                            "year": 2006
+                        },
+                        "end": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2015
+                        }
+                    },
+                    "company": "Nucletron Operations BV",
+                    "description": "Employed at the R&D department, developing and improving  medical equipment for treatment of cancer tumours using radiation. Main focus was on the products Afterloaders and robotic seed delivery equipment, grade BF for applied parts. The Afterloader have a radioactive tip connected to a wire that penetrates the cancer tumor for a diversity of body sites. The seed delivery robot for prostate cancer insert radioactive capsules in the prostate via pre inserted needles. I was working with analogue and digital electronic design as well as a project leader. We follow the medical design standards 60601-1, third edition. Hazard analysis and quality management are taken very seriously and are also compulsory for medical equipment.\n\nHere is an extract of some of my projects:\n\n-\tRe-engineering of the Micro Selectron Afterloader because of obsolete components and new regulations. I was here the project manager and the lead engineer of all the hardware electronics, also responsible for EMC and safety aspects.\n-\tImprovements of the robotic Seedloader for prostate treatment. A self made sensor was made to measure the radioactivity rate of each seed. This was a higly sensitive circuit where pA (pico-amperes) was measured. By lowering the noise in the analogue electronics the accuracy was greatly improved and the high demands of this device could be accomplished. \n-\tA new concept have been created in collaboration with UMCU hospital in Utrecht. All brachy treatments have the disadvantage that you can not be completely sure that the treatment was done as expected. A revolutionary design was made to monitor in real time the complete treatment with an MR, Magnetic Resonance, scanner. I was designing an Afterloader that could be used in the same room as the MR scanner. The idea is to minimize patient transport and time between imaging and treatment. I was the project leader and the lead engineer for this project. The first prototype is now in use for patients at the hospital in Utrecht.",
+                    "title": "Senior Electronic Design Engineer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 114856,
+                "name": "Datawell",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQHZK4jVvNGoWg/company-logo_400_400/0/1519952317431?e=1703721600&v=beta&t=LPPSXbfhWROevqpPbXa3MY4m5kv_6JnG3iJhX9s_SQU",
+                "url": "https://www.linkedin.com/company/datawell/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2005
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2006
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Haarlem Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "day": null,
+                            "year": 2005
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": 2006
+                        }
+                    },
+                    "company": "FCG Datawell Oy",
+                    "description": "Research and design of a new instrument to measure the water stream speed based on the Doppler effect. This involved high power and low noise electronics using a piezo-electric crystal. I was the overall project leader as well as the analogue design engineer.",
+                    "title": "Instrument design engineer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 993187,
+                "name": "Chess Engineering",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQFEohg4XnN_yQ/company-logo_400_400/0/1519878972299?e=1703721600&v=beta&t=0xVn03sQfjxiJe4O4T12YBptPdq7lq-fBdMgS9HReXI",
+                "url": "https://www.linkedin.com/company/chess-industries/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2001
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2005
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Haarlem Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "day": null,
+                            "year": 2001
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": 2005
+                        }
+                    },
+                    "company": "Chess Engineering Pty Ltd",
+                    "description": "Chess is a consultancy bureau, developing electronic designs on demand for various small and big Dutch companies, often in combination with mechanics and optics. Risk management was a major topic. Participating in early negotiations with clients regarding budget and functionality of the final product. Important for Chess was my ability to understand what the client really want, which is not always what they say. You have to fully understand the problem to find out the real need.\n\nIn a major project, where I was the project leader, we developed a new wifi unit for Lucent technologies. My strength was to keep both team members and higher managers updated with the present status, summarizing progress and upcoming challenges in a eye-catching manner. Often simply by a colourful A4 sheet hanging on the door for everyone to see, refreshed every day. I find a great pleasure in content and satisfied clients, especially as Lucent asked me back as a project-leader for the next project.\n\nAs a HW engineer I worked with analogue as well as digital electronics. One project, for example, was from FROG Navigation System BV, where we developed a part of their motor management system for driver less vehicles. There I designed high sensitive inputs in combination with fast high current switching technology and some embedded software.\n\nEMC and CE certifications forms an essential part of my work. I was chosen to be the leader of Chess EMC/CE \u201cdiscipline-team\u201d. This was a team specialized in EMC theory and regulations as well as practical implementation on design, schematic and layout level. Many hours have been spend in the anechoic chamber testing various designs.",
+                    "title": "Project leader",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 7425,
+                "name": "Woodward Governor B.V.",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQHwMEkE4dt7Zg/company-logo_400_400/0/1563902406759?e=1703721600&v=beta&t=ahWQdNHRtF_PUztENo43sId_Qij_2VO5c1cHYphGnnc",
+                "url": "https://www.linkedin.com/company/woodwardinc/",
+                "employees": {
+                    "start": 5001,
+                    "end": 10000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 1995
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2001
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Hoofddorp, the Netherlands",
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "day": null,
+                            "year": 1995
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": 2001
+                        }
+                    },
+                    "company": "Woodward, Inc.",
+                    "description": "The company is established in rugged industrial controllers and regulators for customers world wide. I worked there as an electronic design engineer in the R&D department both in Hoofddorp and Colorado, US.\n\nOne of my projects was a current (4-20mA) to pressure (1-16bar) converter to control for instance steam turbines. This design was based pure on analogue electronics, no digital circuits at all makes it compact and reliable. Deep mathematical calculations with simulations and extended flow measurements in Colorado US, resulted in a successful product sold throughout the world.\n\nIn another project I was the lead engineer for a speed governor for the marine industry, the super trawlers fishing boats. This design consisting of both analogue and digital electronics interfacing with different mechanical actuators. The challenge was the extreme environment of 125 deg C and vibrations up to 20g in all directions. FMEA risk analyzes and FFT analyzing equipment for Bode and Nichols diagram were standard tools to ensure high quality end proper control safety margins.",
+                    "title": "Analogue Electronic Engineer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 10457,
+                "name": "NSI",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQERX9O9PLKyEg/company-logo_400_400/0/1519855946403?e=1703721600&v=beta&t=rwcfleGCc4O54q0y7bL2AxQnXlSMqUWd39LLxnWRoNk",
+                "url": "https://www.linkedin.com/company/nucletron/",
+                "employees": {
+                    "start": 201,
+                    "end": 500
+                }
+            },
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 1994
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 1996
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amsterdam Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "day": null,
+                            "year": 1994
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": 1996
+                        }
+                    },
+                    "company": "Nucletron Operations BV",
+                    "description": "NSI made equipment to scan smears taken from cervix in order to find cancer cells. The 128 most suspicious cells, out of like 500.000 cells, were selected and photographed in high resolution pictures. As a maintenance engineer I was continuously  in close contact with the R&D department in Newark, US and the production plant in Tel Aviv, Israel. I supervised and performed the service on all technical equipment on the processing site in Amsterdam.",
+                    "title": "Maintenance Manager",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Hartek",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 1989
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 1994
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Gland, Switzerland",
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "day": null,
+                            "year": 1989
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": 1994
+                        }
+                    },
+                    "company": "Hartek",
+                    "description": "As a HW and embedded SW (in C) engineer I developed a new micro-controlled product range for beverage, food and cash control system for restaurants and hotels. Later I advanced to become the product manager for this family of products.",
+                    "title": "System architect and electronic design engineer",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Agile Methodologies",
+        "Electronics",
+        "Embedded Software",
+        "Embedded Systems",
+        "R",
+        "Project Management",
+        "Product Development",
+        "Medical Devices",
+        "Software Engineering",
+        "Software Development"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

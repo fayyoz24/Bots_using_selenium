@@ -1,0 +1,487 @@
+{
+    "profile_id": "shyampr16",
+    "first_name": "Shyam",
+    "last_name": "Sankararaman",
+    "sub_title": "Data Scientist @ Dataiku | Solving today's challenges using Machine Learning",
+    "profile_picture": null,
+    "background_image": "https://media.licdn.com/dms/image/C4E16AQFv8sXCqzdw2Q/profile-displaybackgroundimage-shrink_350_1400/0/1658307360926?e=1701302400&v=beta&t=zWlAmPpwWuJetVdOULbpj_HkX7NM-pbBMeQlUQospCg",
+    "profile_type": "personal",
+    "entity_urn": "ACoAABSjFrABXXd2JNIkoDuY0h1prMCl6H1OVJI",
+    "object_urn": 346232496,
+    "birth_date": null,
+    "summary": "Currently a Data Scientist at Dataiku with previous experience in AI powered decision making in supply chain. Graduated from TU Delft specializing in AI and Learning-based Control. Interned at Philips Research to develop Deep Learning algorithms to automate medical image analysis for potential use in clinical settings. Proven ability as a positive team player and also an independent researcher. Quick learner with a drive for daily self-improvement. \n\n\nTechnical skills:\nPython, MATLAB, Julia\nTensorFlow, PyTorch, Keras\nOpenCV, numpy, scikit-learn, matplotlib\nMicrosoft Azure, Docker, Dask\nDeep learning, image processing, medical imaging and computer vision\nStatistics\nData-driven control\nIntelligent control\nOptimization",
+    "location": {
+        "country": "Netherlands",
+        "short": "Eindhoven, North Brabant",
+        "city": "Eindhoven",
+        "state": "North Brabant",
+        "default": "Eindhoven, North Brabant, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "English",
+                "proficiency": "FULL_PROFESSIONAL"
+            },
+            {
+                "name": "French",
+                "proficiency": "ELEMENTARY"
+            },
+            {
+                "name": "Tamil",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ]
+    },
+    "industry": "Computer Software",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "school": {
+                "name": "Delft University of Technology",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQFwaGpwaod9mQ/company-logo_400_400/0/1670699851986?e=1703721600&v=beta&t=Aw4oLxoKsIJcblYDjxw9200FClnyhZu8DxzcfJRDFOs",
+                "url": "https://www.linkedin.com/school/tudelft/"
+            },
+            "degree_name": "Master of Science (M.Sc.)",
+            "field_of_study": "Systems & Control",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2010
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "school": {
+                "name": "Shanmugha Arts, Science, Technology and Research Academy",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQE4ha3C_kSahA/company-logo_400_400/0/1519922010460?e=1703721600&v=beta&t=nnbKA3pNytiSpSXtmgI-M6mtbkgVbiAC_Huu9XQ_h4o",
+                "url": "https://www.linkedin.com/school/shanmugha-arts-science-technology-and-research-aca/"
+            },
+            "degree_name": "Bachelor of Technology (B.Tech.)",
+            "field_of_study": "Mechatronics",
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [
+        {
+            "name": "Dutch Inburgering Diploma",
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Dienst Uitvoering Onderwijs (DUO)",
+            "url": null,
+            "license_number": null,
+            "display_source": null,
+            "company": {
+                "id": null,
+                "name": "Dienst Uitvoering Onderwijs (DUO)",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQHzeHLg_C3dpA/company-logo_400_400/0/1690461766471?e=1703721600&v=beta&t=ncAC3eNKp_HvOOziS0DCliVgsDqhuKzDyPfLxpsUYjA",
+                "url": null
+            }
+        }
+    ],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "Deep Convolutional Neural Network for Semantic Scene Parsing",
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "description": "Investigated several architectures of a Deep Convolutional Neural Networks(CNNs) for the purpose of Scene Segmentation in automated driving scenarios. Set up Caffe framework for the purpose of training the CNN using a CityScape data set. Analysed the influence of various hyperparameters on the accuracy and performance of the network. ",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Shyam",
+                    "last_name": "Sankararaman",
+                    "name": null,
+                    "headline": "Data Scientist @ Dataiku | Solving today's challenges using Machine Learning"
+                }
+            ]
+        },
+        {
+            "title": "Design and manipulation of a 3RRR planar manipulator with non-planar links",
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "description": "For my final year thesis, I was involved in the development of a 3-RRR planar parallel manipulator with  increased workspace(elimination of singularities that existed) and payload. Made use of CAD models to analyse the singularities and introduced a new design accordingly. Developed a motion planning algorithm in MATLAB to control the end-effector and came up with an idea of a new method of DC motor position control, which brought down the cost of the project drastically. Co-authored a journal paper based on this work and also for the 4th International Conference on Mechatronics and Intelligent Materials, China.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Shyam",
+                    "last_name": "Sankararaman",
+                    "name": null,
+                    "headline": "Data Scientist @ Dataiku | Solving today's challenges using Machine Learning"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Vishanth",
+                    "last_name": "Sundar",
+                    "name": null,
+                    "headline": "Mechanical Design Engineer at Colebrook Bosson Saunders"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Saikrishna",
+                    "last_name": "Balasubramaniyan",
+                    "name": null,
+                    "headline": "Program Manager"
+                }
+            ]
+        },
+        {
+            "title": "ZYNX - online magazine",
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "description": "Conceptualized the idea of a student magazine that sensitizes the student community about different political, cultural and social issues. Functioned as a content writer and editor of the magazine which went on to achieve solid readership among the university students. Also recruited new personnel across different universities to expand the outreach.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Shyam",
+                    "last_name": "Sankararaman",
+                    "name": null,
+                    "headline": "Data Scientist @ Dataiku | Solving today's challenges using Machine Learning"
+                }
+            ]
+        }
+    ],
+    "publications": [
+        {
+            "name": "Position Control of a 3-RRR Planar Parallel Manipulator with Non-Planar Links Using External Encoders",
+            "publisher": "Trans Tech Publications",
+            "url": "http://www.scientific.net/AMR.971-973.1280",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2014
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Shyam",
+                    "last_name": "Sankararaman",
+                    "name": null,
+                    "headline": "Data Scientist @ Dataiku | Solving today's challenges using Machine Learning"
+                }
+            ]
+        }
+    ],
+    "courses": [
+        {
+            "name": "Advanced control systems",
+            "number": null
+        },
+        {
+            "name": "Design of Mechanical drives",
+            "number": null
+        },
+        {
+            "name": "Design of Mechatronics systems",
+            "number": null
+        },
+        {
+            "name": "Indian Ethos & Management",
+            "number": null
+        },
+        {
+            "name": "Industrial Robotics",
+            "number": null
+        },
+        {
+            "name": "Micro controller & its applications",
+            "number": null
+        },
+        {
+            "name": "PLC and Automation",
+            "number": null
+        },
+        {
+            "name": "Thin Films fundamentals",
+            "number": null
+        }
+    ],
+    "test_scores": [
+        {
+            "name": "GRE",
+            "score": "327/340",
+            "date": {
+                "month": 10,
+                "day": null,
+                "year": 2013
+            }
+        }
+    ],
+    "position_groups": [
+        {
+            "company": {
+                "id": 2770554,
+                "name": "Dataiku",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQGcne5nK-aZ_Q/company-logo_400_400/0/1605707671307?e=1703721600&v=beta&t=bQCMHRSP8FAhqhHOlfLaWqh0iMqbTX1g5LMXDZgPLbc",
+                "url": "https://www.linkedin.com/company/dataiku/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amsterdam, North Holland, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Dataiku",
+                    "description": null,
+                    "title": "Data Scientist",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 2716085,
+                "name": "Blue Yonder",
+                "logo": "https://media.licdn.com/dms/image/D560BAQGaPDwRU-0T0Q/company-logo_400_400/0/1688676076895?e=1703721600&v=beta&t=5sgTjja5DKM8TWk4r_JTQundiUde7YLbecp2HYhd7qA",
+                "url": "https://www.linkedin.com/company/blueyonder/",
+                "employees": {
+                    "start": 5001,
+                    "end": 10000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "Blue Yonder",
+                    "description": null,
+                    "title": "Data Science Consultant",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1090,
+                "name": "Philips",
+                "logo": "https://media.licdn.com/dms/image/C510BAQG4O5wCG6zf2Q/company-logo_400_400/0/1519855869410?e=1703721600&v=beta&t=AwT4OtKaChfPg1Rv0FCXPZ0aI3a7TPbiAfYxHqJIa04",
+                "url": "https://www.linkedin.com/company/philips/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Eindhoven Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2017
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2018
+                        }
+                    },
+                    "company": "Philips",
+                    "description": "Graduation project on medical image analysis and classification using Deep Learning models (CNN, LSTM/GRU)",
+                    "title": "Master Thesis Student",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 164340,
+                "name": "Indian Institute of Science",
+                "logo": "https://media.licdn.com/dms/image/C560BAQHlKBtJ82x7_Q/company-logo_400_400/0/1590126941204?e=1703721600&v=beta&t=8y5AuLdf4D8rs7Q6dIs5X3OzLbJkpms8KZuQoA7hHVc",
+                "url": "https://www.linkedin.com/school/indian-institute-of-science/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Bengaluru Area, India",
+                    "date": {
+                        "start": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2014
+                        },
+                        "end": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2015
+                        }
+                    },
+                    "company": "Indian Institute of Science (IISc)",
+                    "description": "Worked in the department of Instrumentation and Applied Physics, under the guidance of Prof. S.Asokan. Gained familiarity in the Excimer laser systems and fabrication of Fiber Bragg Gratings for various sensor applications. Collaborated with Southern Electronics(Seonics) Pvt.Ltd. on the development of thermal and strain sensor packaging based on Fiber Bragg Grating. Analysed the viability of different materials for the sensor packaging and suggested design ideas to the company.",
+                    "title": "Research Assistant",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Robotics",
+        "Programming",
+        "Python",
+        "Machine Learning",
+        "Matlab",
+        "C++",
+        "Microcontrollers",
+        "C",
+        "Control Systems Design",
+        "Algorithms",
+        "Caffe",
+        "LaTeX",
+        "Python (Programming Language)",
+        "Mechatronics",
+        "Deep Learning",
+        "MATLAB"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

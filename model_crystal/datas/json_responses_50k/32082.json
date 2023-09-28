@@ -1,0 +1,717 @@
+{
+    "profile_id": "sanath-venkatesan-61248728",
+    "first_name": "Sanath",
+    "last_name": "Venkatesan",
+    "sub_title": "Senior Software Supplier Quality Manager at DAF Trucks NV",
+    "profile_picture": "https://media.licdn.com/dms/image/C4D03AQEF-KYispYjOg/profile-displayphoto-shrink_800_800/0/1523999273144?e=1701302400&v=beta&t=IQ7DsLY8sEkoIMm4Cx-O0by31oTPLHpmKxnBiP-4E5s",
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAAAXD6q4BesXtytjLDP3Akn76BoQWXlYp-wQ",
+    "object_urn": 96725678,
+    "birth_date": null,
+    "summary": "I am a Mechanical Engineer with Master Degree in Automotive Technology and a specialization in Automotive power trains. I have a strong theoretical knowledge on the design and development of advanced future power train components and its control.\n\nWords that describe me best are: self-motivated, efficient, and very organized. In my experience it is nice to work in teams and I fare well in team situations. Depending on the team and assignment, I contribute as an effective team player as well as a team leader and drawing as many positives as I can from the experience.\n\nWithin projects I want to put my knowledge to use in the field of control system design and development with focus on modeling and simulation. Within these areas I have experience in the automotive sector and advanced power train components specifically but am not limited to these subjects.",
+    "location": {
+        "country": "Netherlands",
+        "short": "Eindhoven, North Brabant",
+        "city": "Eindhoven",
+        "state": "North Brabant",
+        "default": "Eindhoven, North Brabant, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "Dutch",
+                "proficiency": "ELEMENTARY"
+            },
+            {
+                "name": "English",
+                "proficiency": "FULL_PROFESSIONAL"
+            },
+            {
+                "name": "German",
+                "proficiency": "ELEMENTARY"
+            },
+            {
+                "name": "Tamil",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ]
+    },
+    "industry": "Automotive",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2010
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "school": {
+                "name": "Eindhoven University of Technology",
+                "logo": "https://media.licdn.com/dms/image/C560BAQG4PGSYiNG4CA/company-logo_400_400/0/1642150189320/eindhoven_university_of_technology_logo?e=1703721600&v=beta&t=UMtvsUY7gGdfvqSsyxhrvNturxPM2CEK0wwd7yozJEA",
+                "url": "https://www.linkedin.com/school/eindhoven-university-of-technology/"
+            },
+            "degree_name": "Master of Science (M.Sc.)",
+            "field_of_study": "Automotive Technology",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2006
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2010
+                }
+            },
+            "school": {
+                "name": "Anna University",
+                "logo": "https://media.licdn.com/dms/image/C560BAQEpZyTSZY9YlQ/company-logo_400_400/0/1519897730494?e=1703721600&v=beta&t=ikhTIWoTqorfEk_ZqddIBhELphQPRDXwkw50fkO-okI",
+                "url": "https://www.linkedin.com/school/anna-university/"
+            },
+            "degree_name": "B.E (ENG)",
+            "field_of_study": "MECHANICAL ENGINEERING",
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [
+        {
+            "title": "TMC employeneurs award 2016",
+            "description": "Contribution towards the STORM  & HAN Projects",
+            "issuer": "TMC Mechatronics B.V",
+            "date": {
+                "month": 9,
+                "day": null,
+                "year": 2016
+            }
+        }
+    ],
+    "certifications": [],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "Formula One launch control with Kinetic Energy Recovery System",
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2010
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2011
+                }
+            },
+            "description": "In this project, it is aimed to model the vehicle dynamics of a F1 car which has a kinetic energy recovery system starting from standstill position and driven on a straight road without any lateral dynamics. After the implementation of the vehicle dynamics to a model, it is desired to investigate different parameters which are predicted to have an effect on the launch of the vehicle with sensitivity analysis to reach the best overall setting of the F1 car for the best launch.\nThe basic principles of launch control and different types of kinetic energy recovery systems are investigated. The most suitable KERS type is selected for F1 applications. The interactions amongst engine, drivetrain and wheels are clearly defined with some equations which will be given in the model description and all these equations are implemented to a Matlab/Simulink model.\nWithin the sensitivity analysis part, certain simulations are performed to tune vehicle parameters to reach the best start up from a start position. The results are evaluated in terms of launch control with discussion of the best strategy to apply KERS and the best overall parameters are determined to get the best acceleration performance.\nThe objectives and my contributions towards this project are the following\n\n\u2022\tUnderstood the basic principles of launch control and KERS\n\u2022\tAnd Interaction amongst engine, drivetrain and wheels\n\u2022\tDecision was made on the appropriate KERS type\n\u2022\tDeveloped a Matlab/Simulink model for system design and analysis\n\u2022\tPerformed a sensitivity analysis for the impact on acceleration performance.\n",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Sanath",
+                    "last_name": "Venkatesan",
+                    "name": null,
+                    "headline": "Senior Software Supplier Quality Manager at DAF Trucks NV"
+                }
+            ]
+        }
+    ],
+    "publications": [],
+    "courses": [
+        {
+            "name": "Advanced Drive Trains",
+            "number": null
+        },
+        {
+            "name": "Advanced Vehicle Dynamics",
+            "number": null
+        },
+        {
+            "name": "Battery Storage",
+            "number": null
+        },
+        {
+            "name": "Digital Motion Control",
+            "number": null
+        },
+        {
+            "name": "Electric and Hybrid Propulsions",
+            "number": null
+        },
+        {
+            "name": "Energy Management for Hybrid Electric Vehicles ",
+            "number": null
+        },
+        {
+            "name": "Fluid Power Transmissions",
+            "number": null
+        },
+        {
+            "name": "Fracture Mechanics",
+            "number": null
+        },
+        {
+            "name": "Real Time Architechures",
+            "number": null
+        },
+        {
+            "name": "Software Systems Engineering ",
+            "number": null
+        },
+        {
+            "name": "Vehicle Dynamics",
+            "number": null
+        }
+    ],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 6868,
+                "name": "DAF Trucks NV",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQH5QtzIsz9c-A/company-logo_400_400/0/1519856321377?e=1703721600&v=beta&t=ErTeh-NLZvIoSLQfC5klS5knTIw9jyK4Cs9atM1YPzU",
+                "url": "https://www.linkedin.com/company/daf-trucks/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "DAF Trucks NV",
+                    "description": null,
+                    "title": "Senior Software Supplier Quality Manager",
+                    "employment_type": "Full-time"
+                },
+                {
+                    "location": "Eindhoven, North Brabant, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2021
+                        }
+                    },
+                    "company": "DAF Trucks NV",
+                    "description": null,
+                    "title": "Software Supplier Quality Manager",
+                    "employment_type": "Full-time"
+                },
+                {
+                    "location": "Eindhoven Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2021
+                        }
+                    },
+                    "company": "DAF Trucks NV",
+                    "description": "DAF Trucks NV is an international truck manufacturer. DAF manufactures its trucks in Eindhoven (Netherlands), Westerlo (Belgium) and Leyland (United Kingdom). DAF Trucks N.V. part of PACCAR Inc, global brands with the Kenworth, Peterbilt and DAF. The Diagnostics Division is part of the Aftersales organization Marketing & Sales. This department, consisting of about 45 people, is responsible for the development, production and maintenance of the off-board diagnostic equipment (hardware and software) for DAF Trucks and PACCAR Engines workshops and factories worldwide\n\nMy responsibilities as an Diagnostic Engineer for embedded systems are\n\n\u2022\tFunction Owner for the software modules \u201cMonitoring \u201cand \u201cQuick Check\u201d.\n\u2022\tDefining, designing, programming, integration, implementation and validation of diagnostic applications using ODX (ISO 22901-1) and OTX( ISO 13209) protocols which can be used by mechanics in the workshops to diagnose any problem within the truck.\n\u2022\tCo-ordination with ECU owners, ECU suppliers, Customer Service, Manufacturing & Technical Service, Service & End-Of-Line development teams to streamline diagnostic development in the complete V-cycle of ECU development.\n\u2022\tHands-on experience in the vehicle diagnostic communication, KWP2000(K-Line and CAN),SAE J1939(CAN) and UDS(CAN),CAN/LIN message analysis & simulation( using CANalyzer and CANoe tools).\n\u2022\tPerformed integration and system level verification and validation of OBD and embedded controls with  hardware-in-loop (HIL) based functional verification .\n\u2022\tExperience with automotive software development process tools (V cycle, Scrum, Agile).\n\u2022\tResponsible for building, implementing and managing diagnostic knowledge related PACCAR departments worldwide.",
+                    "title": "Diagnostic Engineer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 166459,
+                "name": "TMC",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQEb68USDy9V6g/company-logo_400_400/0/1662979451276/tmc_logo?e=1703721600&v=beta&t=5FVVYt81mglj9KUvG3zqqpuoaU9aOjYf0uNUFfJOQkQ",
+                "url": "https://www.linkedin.com/company/tmc/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Eindhoven Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2018
+                        }
+                    },
+                    "company": "TMC",
+                    "description": null,
+                    "title": "Senior Automotive Development Engineer",
+                    "employment_type": null
+                },
+                {
+                    "location": "Eindhoven Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2018
+                        }
+                    },
+                    "company": "TMC",
+                    "description": null,
+                    "title": "Automotive Development Engineer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 253312,
+                "name": "Toyota Motor Europe",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQEKGVAR9OUb6A/company-logo_400_400/0/1519899871323?e=1703721600&v=beta&t=bvbjsl_hjz6YPaJcsdBQzU_S7W51UO_3jHlkRuCvd6A",
+                "url": "https://www.linkedin.com/company/toyota-motor-europe/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Brussels",
+                    "date": {
+                        "start": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2014
+                        },
+                        "end": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2015
+                        }
+                    },
+                    "company": "Toyota Motor Europe",
+                    "description": "Modelling and Simulation of the ECU logic Functions\n\nThe \u201c\u2019Powertrain Engineering Division - Application Department\u201d at Toyota Motor Europe (TME) are involved in the Calibration of their vehicles in the European Market. Through calibration the finding of an optimized set of ECU-parameters for a new vehicle is a crucial element for the overall vehicle performance. It is an essential part of the development process of new engines and vehicles from their first prototypes. Currently, TME works on these calibration activities on the vehicle with software tools from Bosch. However, TME wants to perform its calibration activities through virtual simulation models. Hence, they want to develop the ECU logic functions into Matlab/Simulink simulation models.\n\u2022\tTo define functional requirements based on the ECU logic specification documents from the supplier. \n\u2022\tTo develop Matlab/Simulink models based on the defined functional requirements and specification documents.\n\u2022\tCo-ordination with customer/measurement team to procure measurement data from the vehicle. \n\u2022\tTo validate/test the developed simulation models with the measurement data. \n\u2022\tTo prepare a technical report for the developed modules\n\u2022\tTo present the developed models/report to the customer and get it approved.",
+                    "title": "Consultant",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 5322,
+                "name": "ALTEN",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQGYuFjszS02gA/company-logo_400_400/0/1641206587487/alten_logo?e=1703721600&v=beta&t=l9aHHd1c0IDLNAHYxKBwlnEJtMiqXoeu7TEm5Mzmv-U",
+                "url": "https://www.linkedin.com/company/alten/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Eindhoven Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2013
+                        },
+                        "end": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2015
+                        }
+                    },
+                    "company": "ALTEN",
+                    "description": "Design and Control of Quad rotors with application to Autonomous flying\n\nRobot Quadrotors are extremely popular as a showcase of knowledge for universities and research institutes due to the complexity of their dynamics and control while performing extreme manoeuvres. \nFor Alten Mechatronics it is aimed to develop a Quad rotor robot that navigates inside a building while avoiding obstacles and detecting humans.\n\u2022\tHandled the responsibility of team leader for the project\n\u2022\tCo-ordination between team members, suppliers, and customer\n\u2022\tProject planning and monitoring of progress with periodic status updates to management team\n\u2022\tDesigned/set up an experimental setup for tuning the controller for the quad copter to attain stability\n\u2022\tDesigned and developed dynamic simulation models of the system \n\u2022\tDesigned and implementation of a controller \n\u2022\tSimulation and Analysis of the performance of the controller",
+                    "title": "Consultant Mechatronics",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 11880,
+                "name": "Alten Nederland",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQFpr8rTjx15IQ/company-logo_400_400/0/1673265351886/alten_nederland_logo?e=1703721600&v=beta&t=E75AuyoM-8ivJWC0f5yKLQyA6CaDrb0zzXFEI3TgrqA",
+                "url": "https://www.linkedin.com/company/alten-nederland/",
+                "employees": {
+                    "start": 501,
+                    "end": 1000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Eindhoven Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2013
+                        },
+                        "end": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2015
+                        }
+                    },
+                    "company": "ALTEN Nederland",
+                    "description": null,
+                    "title": "Consultant Mechatronics",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 3489623,
+                "name": "Bosch The Netherlands",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQF85I7GOeKyjA/company-logo_400_400/0/1672927275418/bosch_the_netherlands_logo?e=1703721600&v=beta&t=kVcBH2rtrxcxtBMaVZbHBPzN2cParQAS81ncpufu7iQ",
+                "url": "https://www.linkedin.com/company/bosch-the-netherlands/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Tilburg Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2012
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2013
+                        }
+                    },
+                    "company": "Bosch the Netherlands",
+                    "description": "Analysis and Synthesis of push belt CVT towards electric propulsion\n\nDue to scarcity of oil resources and strict emissions standard that has been imposed by the government, drive train models is required to handle the power flow efficiently from the power source to vehicle wheels. Electric and hybrid vehicles are a promising solution to meet this challenge. Further it is already proved that a conventional gasoline vehicle equipped with a CVT provides fuel economy benefits. Hence, it is of high interest to investigate if these two solutions combine to provide potential benefits for fuel economy. Bosch Transmission Technology together with TU/e collaborates to obtain application knowledge for the same.\nThe key objectives and issues that I have addressed in this project are the following\n\n\u2022\tLiterature survey on advanced electric and hybrid drive trains and subsystems\n\u2022\tModelled vehicle drive trains using AME Sim (Baseline), MATLAB/SIMULINK\n\u2022\tEstimation of Fuel consumption and energy Consumtions\n\u2022\tPrediction and estimations of energy conversion efficiencies and performances\n\u2022\tOptimization of the hybrid configurations with optimal control techniques\n\u2022\tEstimation of optimal fuel consumption, sizing of components and energy mangement over a predefined drive cycle\n\u2022\tSensitivity analysis on the effect of design parameters of CVT on the fuel consumption\n\nAnalyzed and concluded the results for dynamical, kinematical constrains that are involved with the design of CVT for future electric and hybrid vehicles. The research contributes by providing an analysis on the push belt CVT for future hybrid and electric power trains.",
+                    "title": "Graduate Student Researcher",
+                    "employment_type": null
+                },
+                {
+                    "location": "Tilburg Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2011
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2012
+                        }
+                    },
+                    "company": "Bosch the Netherlands",
+                    "description": "Analysis of Slip Control Implementation for a push belt CVT\n\nContinuously Variable Transmissions are extensively used in automotive applications because of their high ratio coverage which enables them in operate in an economic working point of the engine. One of the important factors that affect the efficiency is the losses in the CVT.\nThe losses mainly occur in the hydraulic actuation and variator. In order to achieve a significant amount of fuel consumption a good control strategy is required to optimize the losses and control the variator with great precision. In order to avoid slip in the variator and to improve fuel efficiency a Slip Control Algorithm was proposed in Bosch Transmission Technology. The Control Algorithm will operate the variator at an efficient point. The Control Algorithm was tested in a test rig and measurements were obtained. Further, the algorithm was installed in a passenger car vehicle and measured. However, the slip control algorithm was not robust in both platforms.\nThe main goal of this internship is to investigate the reason why the slip controller is not robust and an analysis had to be done on the measurements and the control algorithm.\nThe main objectives and my contributions are the following\n\n\u2022\tTo conduct a literature study of the slip control.\n\u2022\tTo understand the slip control algorithm developed by Bosch Transmission Technology\n\u2022\tUnderstood the method of implementation method (i.e Test rig , Vehicle)\n\u2022\tProposed an approach for analysis of the measurements in different platform\n\u2022\tAnalyzed the test rig measurements in MATLAB/SIMULINK\n\u2022\tAuthored and presented a detailed technical report",
+                    "title": "Graduate Student Intern",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 4838,
+                "name": "Eindhoven University of Technology",
+                "logo": "https://media.licdn.com/dms/image/C560BAQG4PGSYiNG4CA/company-logo_400_400/0/1642150189320/eindhoven_university_of_technology_logo?e=1703721600&v=beta&t=UMtvsUY7gGdfvqSsyxhrvNturxPM2CEK0wwd7yozJEA",
+                "url": "https://www.linkedin.com/school/eindhoven-university-of-technology/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2010
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Eindhoven Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2010
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2013
+                        }
+                    },
+                    "company": "Eindhoven University of Technology",
+                    "description": null,
+                    "title": "Automotive Technology Master Student",
+                    "employment_type": null
+                },
+                {
+                    "location": "Eindhoven Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2011
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2011
+                        }
+                    },
+                    "company": "Eindhoven University of Technology",
+                    "description": "\u2022\tVarious Tasks in Automotive Technology\n\u2022\tMaking promotional videos of the different projects in the university\n\u2022\tStudy different master thesis and PhD projects briefly(groups of 2)\n\u2022\tMake scenarios and scripts for the videofootage\n\u2022\tShoot raw videos and edit the videos accordingly\n\u2022\tPublish the videos on different technical websites, university websites ,YouTube",
+                    "title": "Student assistant",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 562524,
+                "name": "Anna University Chennai",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQHBmmHMt7907Q/company-logo_400_400/0/1519895050961?e=1703721600&v=beta&t=Zj6dlDUq6KkxZAknKeQIWzPjnrdFEVga1dCHfayn9kg",
+                "url": "https://www.linkedin.com/school/anna-university-chennai/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2006
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2010
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2006
+                        },
+                        "end": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2010
+                        }
+                    },
+                    "company": "Anna University Chennai",
+                    "description": null,
+                    "title": "Bachelor Of Engineering",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1483,
+                "name": "Ford Motor Company",
+                "logo": "https://media.licdn.com/dms/image/C560BAQHZnQf3t8fKKg/company-logo_400_400/0/1620306010588/ford_motor_company_logo?e=1703721600&v=beta&t=HbepJP05rJOp_7IxuAP0JAi53pM9UHpf9B_KUm0Okgw",
+                "url": "https://www.linkedin.com/company/ford-motor-company/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2006
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2007
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2006
+                        },
+                        "end": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2007
+                        }
+                    },
+                    "company": "Ford Motor Company",
+                    "description": "Worked as a trainee in the shop floor of the manufacturing plant in Chennai , Tamil Nadu , India",
+                    "title": "Graduate Trainee",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Powertrain",
+        "Simulink",
+        "Matlab",
+        "Simulations",
+        "Mechatronics",
+        "Mechanical Engineering",
+        "Dynamics",
+        "AME SIM modelling",
+        "Modelling",
+        "CVT",
+        "Hybrids",
+        "Range extenders",
+        "Electric Vehicles",
+        "Modeling",
+        "Control Systems Design",
+        "C",
+        "Finite Element Analysis",
+        "Engineering",
+        "Model Based Design"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

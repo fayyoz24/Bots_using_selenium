@@ -1,0 +1,673 @@
+{
+    "profile_id": "nishakiran",
+    "first_name": "Nisha",
+    "last_name": "Kiran",
+    "sub_title": "Developer at Booking.com",
+    "profile_picture": "https://media.licdn.com/dms/image/C4D03AQEDmPnqT71JJA/profile-displayphoto-shrink_800_800/0/1516928362761?e=1701302400&v=beta&t=cRF08rniQBBAX1bTWW5VDLZmrNiP2jndFiOqkiys1k4",
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAAARzTYoBtoQdbm7FMxYoCNnl9xZQ4ecscUc",
+    "object_urn": 74665354,
+    "birth_date": null,
+    "summary": null,
+    "location": {
+        "country": "Netherlands",
+        "short": "Amsterdam, North Holland",
+        "city": "Amsterdam",
+        "state": "North Holland",
+        "default": "Amsterdam, North Holland, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "English",
+                "proficiency": "FULL_PROFESSIONAL"
+            },
+            {
+                "name": "Hindi",
+                "proficiency": "FULL_PROFESSIONAL"
+            }
+        ]
+    },
+    "industry": "Internet",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2010
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "school": {
+                "name": "University of Wisconsin-Madison",
+                "logo": "https://media.licdn.com/dms/image/C560BAQFyYW54n5mwAw/company-logo_400_400/0/1568139083496?e=1703721600&v=beta&t=AH24KC2JAFv6Etzxw6lPUjnhVXdoetASEy0UwzuJw5w",
+                "url": "https://www.linkedin.com/school/uwmadison/"
+            },
+            "degree_name": "M.S.",
+            "field_of_study": "Computer Science",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2005
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2009
+                }
+            },
+            "school": {
+                "name": "Indian Institute of Technology, Kharagpur",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQE0lxIeTKBTAw/company-logo_400_400/0/1661239082950?e=1703721600&v=beta&t=ZL1-tRiACmxrGiPyZlIvwhP2A45BPJ1sJMNYCogENoU",
+                "url": "https://www.linkedin.com/school/indian-institute-of-technology-kharagpur/"
+            },
+            "degree_name": "Bachelor's degree",
+            "field_of_study": "Computer Science",
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [
+        {
+            "title": "Best Project Award",
+            "description": null,
+            "issuer": "Epic",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2011
+            }
+        },
+        {
+            "title": "Sarat Memorial Award",
+            "description": null,
+            "issuer": "IIT Kharagpur",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2009
+            }
+        }
+    ],
+    "certifications": [],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "Mobile app for farmer's market",
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "description": "Developed a mobile app for farmer\u2019s market. Vendors had the ability to update their location and menu items one day before the market. Buyers had the functionality where they would be able to see the prices of various items at different stalls and compare the prices. Also implemented the walk-by feature where buyers would see the menu items at a given stall when they walk-by that stall.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Nisha",
+                    "last_name": "Kiran",
+                    "name": null,
+                    "headline": "Developer at Booking.com"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Michael",
+                    "last_name": "Cheung",
+                    "name": null,
+                    "headline": "Senior Software Developer at Tegra118"
+                }
+            ]
+        },
+        {
+            "title": "Effects of a robot's feedback during time pressure",
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2011
+                }
+            },
+            "description": "Designed experiment to examine the effects of a robot's feedback on performance, usefulness, and satisfaction under task time pressure. Results showed that the participants found the robot to be useful, assisting, and raising alertness when the robot gave verbal feedback.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Nisha",
+                    "last_name": "Kiran",
+                    "name": null,
+                    "headline": "Developer at Booking.com"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Mai Lee Chang",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Heemoon Chae",
+                    "headline": null
+                }
+            ]
+        },
+        {
+            "title": "Multimodal topic model for semantic representation",
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2011
+                }
+            },
+            "description": "Implemented a multimodal topic model for semantic representation which takes into account the visual and textual input both. Also, developed a multimodal Naive Bayes model for the same task. Results showed that visual context helps in getting a closer correspondence to human data in both the models",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Nisha",
+                    "last_name": "Kiran",
+                    "name": null,
+                    "headline": "Developer at Booking.com"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "sanjib kumar das",
+                    "headline": null
+                }
+            ]
+        },
+        {
+            "title": "Question answering system",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "description": "Developed a question answering system for answering factoid questions in the biological domain. Work focused on named entity recognition for biological entities and query parsing.\n",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Nisha",
+                    "last_name": "Kiran",
+                    "name": null,
+                    "headline": "Developer at Booking.com"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "karishma kapadia",
+                    "headline": null
+                }
+            ]
+        }
+    ],
+    "publications": [],
+    "courses": [
+        {
+            "name": "Advanced Algorithms",
+            "number": null
+        },
+        {
+            "name": "Advanced Databases",
+            "number": null
+        },
+        {
+            "name": "Advanced NLP",
+            "number": null
+        },
+        {
+            "name": "Computational Cognitive Science",
+            "number": null
+        },
+        {
+            "name": "Computer Vision",
+            "number": null
+        },
+        {
+            "name": "Human Computer Interaction",
+            "number": null
+        },
+        {
+            "name": "Machine Learning",
+            "number": null
+        },
+        {
+            "name": "Mobile and Wireless networking",
+            "number": null
+        },
+        {
+            "name": "Numerical Linear Algebra",
+            "number": null
+        }
+    ],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 11348,
+                "name": "Booking.com",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQEgzF5azm3fNA/company-logo_400_400/0/1628510256914?e=1703721600&v=beta&t=5eXz-OHEqUF-i5NTayhj4ycN9m2VUeV-Jyzwe5WhR9g",
+                "url": "https://www.linkedin.com/company/booking.com/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amsterdam Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2017
+                        },
+                        "end": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "Booking.com",
+                    "description": "Designed and implemented highly scalable solution for services to produce well modeled data for later consumption and analytics. Skills involved: \u200bGo, Kafka, Kubernetes, Puppet, Hadoop, Hive, Perl",
+                    "title": "Developer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 2812,
+                "name": "Cerner Corporation",
+                "logo": "https://media.licdn.com/dms/image/C560BAQGE9flTBMlYvA/company-logo_400_400/0/1654690655463?e=1703721600&v=beta&t=PHGjVSxcw8W-WAxuTLi068FBq8biHXbuyHW2ncsBVN8",
+                "url": "https://www.linkedin.com/company/cerner-corporation/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2017
+                        }
+                    },
+                    "company": "Cerner Corporation",
+                    "description": "Worked on crash analysis/fix for the product. Technologies used were VC++ and C#.",
+                    "title": "Software Engineer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 2702669,
+                "name": "InstaEDU",
+                "logo": "https://media.licdn.com/dms/image/C510BAQFQna6C1iRdgQ/company-logo_400_400/0/1519900186917?e=1703721600&v=beta&t=pK9diXZWfY_c8Np8aSlGQyLDSM9WxGdEf_qdeiD5o_I",
+                "url": "https://www.linkedin.com/company/instaedu/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2014
+                        },
+                        "end": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2016
+                        }
+                    },
+                    "company": "InstaEDU",
+                    "description": "Help students in C/C++/Python/Java programming problems.",
+                    "title": "Tutor",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 163658,
+                "name": "Epic",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQH6HS4jtIcQ4w/company-logo_400_400/0/1519910684635?e=1703721600&v=beta&t=ke4kntx3mYGl4_FbHLtJDQJ5e5M-9fmxzZ6B6YzDiGk",
+                "url": "https://www.linkedin.com/company/epic1979/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Madison, Wisconsin Area",
+                    "date": {
+                        "start": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2013
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2013
+                        }
+                    },
+                    "company": "Epic",
+                    "description": "Worked on the med-verification end of the software. Fixed issues/QANs related to medication verification in the software. Completed one month programmer tech camp and app camp for the medication app which involved learning/using ActiveX, Visual Basic and Cache.",
+                    "title": "Software Developer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 4099,
+                "name": "University of Wisconsin-Madison",
+                "logo": "https://media.licdn.com/dms/image/C560BAQFyYW54n5mwAw/company-logo_400_400/0/1568139083496?e=1703721600&v=beta&t=AH24KC2JAFv6Etzxw6lPUjnhVXdoetASEy0UwzuJw5w",
+                "url": "https://www.linkedin.com/school/uwmadison/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2010
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Madison, Wisconsin Area",
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2010
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2012
+                        }
+                    },
+                    "company": "University of Wisconsin-Madison",
+                    "description": "Teaching Assistant for the following courses: Introduction to Numerical Methods, Introduction to Programming/Data Structures, Natural Language Processing, Introduction to Computation",
+                    "title": "Graduate Teaching Assistant",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 163658,
+                "name": "Epic",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQH6HS4jtIcQ4w/company-logo_400_400/0/1519910684635?e=1703721600&v=beta&t=ke4kntx3mYGl4_FbHLtJDQJ5e5M-9fmxzZ6B6YzDiGk",
+                "url": "https://www.linkedin.com/company/epic1979/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2011
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Madison, Wisconsin Area",
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2011
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2011
+                        }
+                    },
+                    "company": "Epic",
+                    "description": "Integrated voice recognition into existing Epic software which enables physicians to fill out forms using just voice commands and dictation. Software used was Dragon Naturally Speaking SDK.",
+                    "title": "Summer Intern",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1231,
+                "name": "Symantec",
+                "logo": "https://media.licdn.com/dms/image/D560BAQEG2S2FdA9iZQ/company-logo_400_400/0/1681830994962?e=1703721600&v=beta&t=MXpZvGLkeatai6NGWdUbmnBEE0C3FXXYjlGBBRcVPyY",
+                "url": "https://www.linkedin.com/company/symantec/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2009
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2010
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2009
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2010
+                        }
+                    },
+                    "company": "Symantec",
+                    "description": "Worked on multiple features of the backup product Backup Exec: Oracle Agent and DB2. Feature Owner of DB2 EOL for Honshu release of Backup Exec. Worked on FDS, FDD, and code changes for making the feature ready for release. Technologies used include C/C++.",
+                    "title": "Associate Software Engineer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 15358,
+                "name": "The University of Texas at El Paso",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQHY-bqplJQlYg/company-logo_400_400/0/1519856157357?e=1703721600&v=beta&t=3plER59zVyVzC8pNqbohtyatp-EXFxUAJKBXYyE9jnU",
+                "url": "https://www.linkedin.com/school/the-university-of-texas-at-el-paso/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2008
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2008
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "El Paso, Texas Area",
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2008
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2008
+                        }
+                    },
+                    "company": "The University of Texas at El Paso",
+                    "description": "Modified existing speech recognizer(HTK) to test the time-based language model. After testing the model with the modified speech recognizer, it was found that the time-based language model offered improvements over the current n-gram language models.",
+                    "title": "Summer Intern",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "C++",
+        "Python",
+        "C",
+        "Programming",
+        "Algorithms",
+        "Go",
+        "Kubernetes",
+        "Apache Kafka",
+        "Hive",
+        "Perl",
+        "Data Structures"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

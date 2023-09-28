@@ -1,68 +1,85 @@
-const fs = require('fs');
-const axios = require('axios');
-const path = require('path');
+const fs =require('fs');
+const axios=require('axios')
+const path =require('path');
 
-const API_KEY = 'YOUR_OPENAI_API_KEY';
-const INPUT_FOLDER = './json'; 
-const OUTPUT_FOLDER = './results'; 
+const { Configuration, OpenAIApi } = require('openai');
+
+
+const API_KEY = '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';
+const INPUT_FOLDER = 'bot_for_recruiters/datas/datas_json/';
+const OUTPUT_FOLDER = 'bot_for_recruiters/';
+const TARGET_FILE = 'data.json';
+
 
 if (!fs.existsSync(OUTPUT_FOLDER)) {
   fs.mkdirSync(OUTPUT_FOLDER);
 }
 
+async function processJSONFile(filePath) {
+
+  const configuration = new Configuration({
+    organization: "org-pVhorJhu0akomR958gyPlGJw",
+    apiKey: API_KEY,
+});
+
+const openai = new OpenAIApi(configuration);
+
+  const response = await openai.listEngines();
+  console.log(response)
+  try {
+    console.log('try')
+    const jsonData = JSON.parse(fs.readFileSync(filePath, 'utf8')); // Read and parse JSON data
+
+    for (let i = 0; i < jsonData.length; i++) {
+      const question = `kun je 10 hard skills geven die je leert per studie ${jsonData[i].study}`;
+
+      const response = await axios.post('https://api.openai.com/v1/chat/completions', {
+        prompt: question,
+        max_tokens: 500,
+      }, {
+        headers: {
+          Authorization: `Bearer ${API_KEY}`,
+          'Content-Type': 'application/json',
+        },
+      });
+      // Assign the response to the corresponding keyword
+      const keyword = `keyword${i + 1}`;
+      const resultObject = {};
+      resultObject[keyword] = response.data; // Assuming you want to save the response text
+
+      // Save the API response to the results folder
+      const resultFileName = `result_${path.basename(filePath, '.json')}_${i}.json`;
+      const resultFilePath = path.join(OUTPUT_FOLDER, resultFileName);
+      fs.writeFileSync(resultFilePath, JSON.stringify(resultObject, null, 2));
+
+      console.log(`Processed ${keyword} for ${jsonData[i].study}`);
+    }
+
+    console.log(`Processing complete for file: ${path.basename(filePath)}`);
+  } catch (error) {
+    console.error('Error processing file:', filePath, error);
+  }
+}
+
 async function processJSONFiles() {
   try {
     const files = fs.readdirSync(INPUT_FOLDER);
-
-    for (const file of files) {
-      if (file.endsWith('.json')) {
-        const filePath = path.join(INPUT_FOLDER, file);
-        const jsonData = require(filePath); // Load JSON data
-
-        // Create an object to store results for each keyword
-        const resultObject = {};
-
-        for (let i = 0; i < jsonData.length; i++) {
-          const question = jsonData[i].question;
-
-          const response = await axios.post('https://api.openai.com/v1/engines/davinci-codex/completions', {
-            prompt: question,
-            max_tokens: 50, 
-          }, {
-            headers: {
-              Authorization: `Bearer ${API_KEY}`,
-              'Content-Type': 'application/json',
-            },
-          });
-
-          // Assign the response to the corresponding keyword
-          const keyword = `keyword${i + 1}`;
-          resultObject[keyword] = response.data.choices[0].text; // Assuming you want to save the response text
-
-          // Save the API response to the results folder
-          const resultFileName = `result_${file}_${i}.json`;
-          const resultFilePath = path.join(OUTPUT_FOLDER, resultFileName);
-          fs.writeFileSync(resultFilePath, JSON.stringify(response.data, null, 2));
+    
+    if (files.length === 0) {
+      console.log(`No files found in ${INPUT_FOLDER}`);
+    } else {
+      console.log(files)
+      for (const file of files) {
+        if (file === TARGET_FILE) {
+          const filePath = path.join(INPUT_FOLDER, file);
+          await processJSONFile(filePath);
         }
-
-        // Convert the resultObject to JSON and save it in the specified format
-        const resultData = {
-          hard_skills: JSON.stringify(resultObject),
-          essential_keywords: JSON.stringify(resultObject),
-          related_jobs: JSON.stringify(resultObject),
-        };
-
-        // Save the resultData in the desired format
-        const resultDataFileName = `formatted_result_${file}.json`;
-        const resultDataFilePath = path.join(OUTPUT_FOLDER, resultDataFileName);
-        fs.writeFileSync(resultDataFilePath, JSON.stringify(resultData, null, 2));
       }
     }
-
-    console.log('Processing complete.');
   } catch (error) {
     console.error('Error:', error);
   }
 }
+
 
 processJSONFiles();

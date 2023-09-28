@@ -1,0 +1,538 @@
+{
+    "profile_id": "sebdharris",
+    "first_name": "Sebastian",
+    "last_name": "Harris",
+    "sub_title": "Applications Engineer at Lockheed Martin",
+    "profile_picture": "https://media.licdn.com/dms/image/C4D03AQGplxYlu1jMgw/profile-displayphoto-shrink_800_800/0/1615378550490?e=1701302400&v=beta&t=jRCRojYnVpOOWPtbrqD5e3QF9IAd8qhGu7G-CwJtRd8",
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAAB-wPfUB7-7iPJdG52W0vYqtQGkcPK_OK_8",
+    "object_urn": 531643893,
+    "birth_date": null,
+    "summary": "I am an aspiring Aerospace Engineer at Delft University of Technology, graduating in June 2023 with a Minor in Responsible Innovation from Leiden University.\n\nAside from my academic path, I have worked as a Systems Engineer at Team Tumbleweed. This position allowed me to create a model of the Martian terrain in Unity3D to analyze the spreading of a wind-propelled rover. Similarly, I have participated in requirement generation and developed my skills in Model-based Systems Engineering through the Capella software.\n\nAs a personal project, I began to experiment with beer brewing. Being always interested in the process of fermentation, this venture has allowed me to develop my business-oriented skills. Other than creating recipes, I developed a small brand by designing my labels and organizing the production and sale of these beers.\n\nI'm interested in an early career position in the field of aerospace engineering in the Dallas-Fort Worth area as a mechanical engineer, systems engineer, structural engineer, or aerodynamics engineer. Until graduation, I aim to continuously develop my technical and intrapersonal skills while remaining open to opportunities abroad.\n\nProficient: Python(scikit-learn, NumPy, SciPy, pandas), Microsoft Office, CATIA\nKnowledgeable: Capella MBSE, MatLab(Simulink), C#",
+    "location": {
+        "country": "United States",
+        "short": "Fort Worth, Texas",
+        "city": "Fort Worth",
+        "state": "Texas",
+        "default": "Fort Worth, Texas, United States"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "English",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "French",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "German",
+                "proficiency": "LIMITED_WORKING"
+            },
+            {
+                "name": "Italian",
+                "proficiency": "FULL_PROFESSIONAL"
+            },
+            {
+                "name": "Spanish",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ]
+    },
+    "industry": "Defense & Space",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2023
+                }
+            },
+            "school": {
+                "name": "Delft University of Technology",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQFwaGpwaod9mQ/company-logo_400_400/0/1670699851986?e=1703721600&v=beta&t=Aw4oLxoKsIJcblYDjxw9200FClnyhZu8DxzcfJRDFOs",
+                "url": "https://www.linkedin.com/school/tudelft/"
+            },
+            "degree_name": "Bachelor of Science - BS",
+            "field_of_study": "Aerospace, Aeronautical and Astronautical Engineering",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2023
+                }
+            },
+            "school": {
+                "name": "Leiden University",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQEFlK1wNecYbA/company-logo_400_400/0/1519855876129?e=1703721600&v=beta&t=D842EBczsDCzHDS7ZG70LkPNH6fNu0NutCEKkHyGGcQ",
+                "url": "https://www.linkedin.com/school/leiden-university/"
+            },
+            "degree_name": "Minor",
+            "field_of_study": "Responsible Innovation",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "school": {
+                "name": "College Calvin",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "High School Diploma",
+            "field_of_study": "Physics",
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "Design of a Manned Martian Aircraft",
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2023
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2023
+                }
+            },
+            "description": "The objective of the manned Martian aircraft is the rapid transportation of two astronauts\nover distances of at least 1000 km. The astronauts will carry scientific instruments and\ncollected samples, which must be stowed in the vehicle. If successful, the aircraft will alleviate\nlimitations on landing sites for crewed missions to Mars, enabling exploration of scientifically\nessential areas that are not accessible otherwise. Long-term, such a system can connect a\nnetwork of bases spread over the planet and enable a sustainable human presence on Mars.\nThe main constraints of the project, relating to the aircraft\u2019s operational capabilities and the available design space, allowed for the investigation of both conventional and unconventional designs. The top-level requirements of a 1000 km range, 400 km/h cruise speed, capacity for 2 astronauts, and an additional 100 kg payload led to the parallel development of 5 designs. These included an Airship, Flying Wing, Biplane, Tilt-rotor and Multicopter.\nFrom these 5 options, a trade-off determined that an electric tilt-rotor concept would perform best with the criteria selected. The tilt-rotor can take off and land vertically thanks to two sets of counter-rotating blades at the wing tips. These blades provide the necessary thrust to function as a helicopter when performing take-off and landing maneuvers and provide the aircraft the capability to hover. For long-distance flight, the rotors align with the wing and provide the required thrust to cruise, while the wing, with a span of 44.75 m, provides the lift required. Using electric batteries allows the aircraft to perform in Mars's thin, oxygen-deprived atmosphere, and installing solar panels on the wing\u2019s upper surface allows the system to recharge itself in remote areas without requiring any infrastructure. Next, the presence of life-support systems aims to complement that already present in the crew\u2019s suits, providing water and oxygen for long-distance flights.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Sebastian",
+                    "last_name": "Harris",
+                    "name": null,
+                    "headline": "Applications Engineer at Lockheed Martin"
+                }
+            ]
+        },
+        {
+            "title": "Performance Analysis of an Organic Rankine Cycle Turbine: Investigation into Real Gas Effects",
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "description": "Organic Rankine Cycle (ORC) turbine design suffers from a lack of knowledge of the real\ngas effects and tools that can accurately model these effects. In this study, the non-ideal gas\ndata of a simulated flow through a radial inflow ORC turbine is analyzed. The aim of this\nanalysis is to determine phenomena happening in the turbine due to real gas effects. For\nthis, entropy changes, stagnation values, flow angles, and duty coefficients were computed\nand the Mach number throughout the turbine was analyzed. The work coefficient was 3.138,\nwhilst the flow coefficient before and after the rotor was 0.210 and 0.606 respectively. Shock\nwaves occurred in the stator, where the maximum Mach number was 1.3. The rotor was\nshock wave free. Using the real gas assumption, the total entropy change in the rotor is\n\u2212180.277 J/K. This value is due to the compression and subsequent ordering of particles.\nThe entropy change in the stator is 2.0167 J/K. The efficiency using ideal gas equations was\n82.195 %, whilst with real gas it was 78.207 %. For future investigations, it is recommended\nthat instead of simulated flow data, real flow data is analyzed to confirm if the model is\ncorrect.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Sebastian",
+                    "last_name": "Harris",
+                    "name": null,
+                    "headline": "Applications Engineer at Lockheed Martin"
+                }
+            ]
+        },
+        {
+            "title": "Uranus-Miranda Orbiter Design",
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "description": "Performed multiple work packages concerning developing a Spacecraft to orbit Uranus.\nWork Package 1:\n- Functional Analysis\n- Spacecraft Requirement Generation\n- Mission Profile\n- Initial Sizing\nWork Package 2:\n- Subsystems Design\n- Revision of Budgets\n- Spacecraft Architecture Design\nWork Package 3:\n- Finalized Subsystem Design\n- Subsystem Integration\nWork Package 4:\n- Detailed Design of a lug for RTG attachment\n- Selection of Lug Configuration\n- Iterations on Design using Optimization algorithms\nWork Package 5:\n- Determined Launch Loads\n- Studied Dynamic Loads\n- Analyzed potential damage from meteoroids and debris\n- Designed Fuel Tank",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Sebastian",
+                    "last_name": "Harris",
+                    "name": null,
+                    "headline": "Applications Engineer at Lockheed Martin"
+                }
+            ]
+        },
+        {
+            "title": "Wing-box Design for an Urban Air Mobility Vehicle",
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "description": "Performed various tasks within the team including:\n- Literature Study\n- Load Calculations\n- Stress Calculations\n- Column, Thin-sheet and Shear Buckling\n- Rivet Spacing Calculations\n- Writing of a Production Plan\n- Analysis and description of Testing",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Sebastian",
+                    "last_name": "Harris",
+                    "name": null,
+                    "headline": "Applications Engineer at Lockheed Martin"
+                }
+            ]
+        },
+        {
+            "title": "Launcher Compression Panel",
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "description": "Developed a Compression Panel for the Launcher GEO.R.G.E., GEO space Rocket for Gravity Exploration.\n- Determined Skin sheet thickness, stringer type and number, Skin sheet choice, inter-rivet pitch\n- Performed predictions on failure load and mode\n- Developed a Production Plan\n- Analyzed Testing Data",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Sebastian",
+                    "last_name": "Harris",
+                    "name": null,
+                    "headline": "Applications Engineer at Lockheed Martin"
+                }
+            ]
+        },
+        {
+            "title": "Rocker Bogie Design",
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "description": "Designed a Rocker Bogie suspension for a Planetary Rover Vehicle.\n- Performed a Litterature Study to understand the environment it would function in as well as the design processes.\n- Minimized Beam cross-section through iterative design processes.\n- Designed Wheels through variations in width, radius, tyre thickness, and spoke thickness.\n- Determined cross-beam eigenfrequencies.\n- Developed a Test Plan to estimate performance on Lunar Terrain.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Sebastian",
+                    "last_name": "Harris",
+                    "name": null,
+                    "headline": "Applications Engineer at Lockheed Martin"
+                }
+            ]
+        }
+    ],
+    "publications": [],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 1319,
+                "name": "Lockheed Martin",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQHF1YKEZdN4LA/company-logo_400_400/0/1668532984993?e=1703721600&v=beta&t=ZD5Md4uWREaARye7exqrbk2fQ9zG-gPUy3NIGmFFl0Y",
+                "url": "https://www.linkedin.com/company/lockheed-martin/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2023
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Fort Worth, Texas, United States",
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2023
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Lockheed Martin",
+                    "description": null,
+                    "title": "Applications Engineer Asc",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "BrewMess",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2023
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2023
+                        }
+                    },
+                    "company": "BrewMess",
+                    "description": "\u2022 Created and adapted recipes for all grain brewing by experimenting with various combinations of malts, yeasts and hops.\n\u2022 Brewed and bottled up to 50L/month\n\u2022 Created a social media presence for sales, marketing and communication. Can be found on Instagram and Facebook: @brewmess\n\u2022 Notable styles brewed: NEIPA, Belgian Wit, Barleywine, Dry Irish Stout, Black IPA, Christmas Beer, Raspberry IPA",
+                    "title": "Business Owner and Brewer",
+                    "employment_type": "Self-employed"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 35640567,
+                "name": "Team Tumbleweed",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQH9ip9cPfhFNA/company-logo_400_400/0/1558025503886?e=1703721600&v=beta&t=YfrkFrSVBfYxJew_2UJztOQ1VaEkdlGZ0h59nvFx0Yc",
+                "url": "https://www.linkedin.com/company/team-tumbleweed/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Delft, South Holland, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "Team Tumbleweed",
+                    "description": "As a System Engineer in a student team, I have been tasked with generating Requirement Discovery Trees and Mission Objectives. Previously, I created a 1:1 model of the Martian Surface to simulate the spread of a wind-propelled rover. This was done using Unity3D and height maps from the Mars Orbiter mission.",
+                    "title": "System Engineer",
+                    "employment_type": "Part-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Au Pre de l'eau",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Hermance, Geneva, Switzerland",
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2020
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2020
+                        }
+                    },
+                    "company": "Au Pre de l'eau",
+                    "description": null,
+                    "title": "Bartender and Kitchen",
+                    "employment_type": "Contract Part-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 5191483,
+                "name": "H\u00f4tel Beau-Rivage Gen\u00e8ve",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQEXoadCnH0r7A/company-logo_400_400/0/1519902458016?e=1703721600&v=beta&t=i4D_ke661yopZJU4M4OrMtWvT3vHK3fQJsGo6RRcW7E",
+                "url": "https://www.linkedin.com/company/h%C3%B4tel-beau-rivage-gen%C3%A8ve/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Geneva, Switzerland",
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "H\u00f4tel Beau-Rivage Gen\u00e8ve",
+                    "description": null,
+                    "title": "Cooking And Management Intern",
+                    "employment_type": "Internship"
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Aerospace Engineering",
+        "Engineering",
+        "Differential Equations",
+        "Telecommunications",
+        "Signal Analysis",
+        "Control Theory",
+        "Spacecraft Design",
+        "Propulsion Systems",
+        "Orbital Mechanics",
+        "Flight Mechanics",
+        "Data Analysis",
+        "Computational Modelling",
+        "Applied Numerical Analysis",
+        "Vibrations",
+        "Structural Analysis",
+        "Aerodynamics",
+        "Linear Algebra",
+        "Calculus",
+        "Electromagnetics",
+        "Thermodynamics"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

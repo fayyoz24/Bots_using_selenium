@@ -1,0 +1,620 @@
+{
+    "profile_id": "arnoud-delissen-b8a9032a",
+    "first_name": "Arnoud",
+    "last_name": "Delissen",
+    "sub_title": "Topology optimization and FEM specialist at TNO",
+    "profile_picture": "https://media.licdn.com/dms/image/C4D03AQHgIGiBhxJIww/profile-displayphoto-shrink_800_800/0/1517612974430?e=1701302400&v=beta&t=puuYhCVuP1KxKeqkHU7il2kNIcOEDclIwKt_HcWKWrA",
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAAAYvZtoB5RlrwZi2_Zlep3tzW3b9egIujcM",
+    "object_urn": 103769818,
+    "birth_date": null,
+    "summary": null,
+    "location": {
+        "country": "Netherlands",
+        "short": "The Hague, South Holland",
+        "city": "The Hague",
+        "state": "South Holland",
+        "default": "The Hague, South Holland, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "Dutch",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "English",
+                "proficiency": "PROFESSIONAL_WORKING"
+            },
+            {
+                "name": "French",
+                "proficiency": "ELEMENTARY"
+            },
+            {
+                "name": "German",
+                "proficiency": "LIMITED_WORKING"
+            }
+        ]
+    },
+    "industry": "Research",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "school": {
+                "name": "Delft University of Technology",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQFwaGpwaod9mQ/company-logo_400_400/0/1670699851986?e=1703721600&v=beta&t=Aw4oLxoKsIJcblYDjxw9200FClnyhZu8DxzcfJRDFOs",
+                "url": "https://www.linkedin.com/school/tudelft/"
+            },
+            "degree_name": "Master",
+            "field_of_study": "Mechanical Engineering: Precision and Microsystems Engineering",
+            "grade": "Cum Laude"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2009
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "school": {
+                "name": "Delft University of Technology",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQFwaGpwaod9mQ/company-logo_400_400/0/1670699851986?e=1703721600&v=beta&t=Aw4oLxoKsIJcblYDjxw9200FClnyhZu8DxzcfJRDFOs",
+                "url": "https://www.linkedin.com/school/tudelft/"
+            },
+            "degree_name": "Bachelor",
+            "field_of_study": "Mechanical Engineering",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2003
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2009
+                }
+            },
+            "school": {
+                "name": "Commanderij College",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "VWO",
+            "field_of_study": "N&T",
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "M.Sc. Thesis - Meta-material based on an Ideal Spring Lattice",
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "description": "Meta-materials obtain their special material properties from structure rather than chemical composition. In this work a (planar) material is designed and characterized which is based on a spring lattice. The springs are specially designed by curving leaf springs (using optimization), to obtain spring behavior like an ideal spring. If placed into a lattice, analytical approximations and numerical simulations show that a linear elastic isotropic material with zero Poisson's ratio over large strains is obtained. Part of this work was done in cooperation with the University of California - LA.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Arnoud",
+                    "last_name": "Delissen",
+                    "name": null,
+                    "headline": "Topology optimization and FEM specialist at TNO"
+                }
+            ]
+        },
+        {
+            "title": "B.Sc. Thesis - Finite element modelling of fat in orbital mechanics using 'fluid cavities'",
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "description": "Previous attempts to create a model of orbital mechanics experienced difficulties due to\nthe way orbital fat was modeled. This research studies the use of \u2018fluid cavities\u2019, nearly\nincompressible enclosed volumes, to model orbital fat in a 2D finite element model. To\ntest stability and calculation times simple test are used to simulate the muscle tendon\nrolling onto the eye and the optic nerve moving through the fat during eye rotation. A\nsimple model of orbital mechanics consisting of the orbital wall, two optical muscles and\nthe eye is created. The tests show that the cavity-based method is able to cope with the\nlarge deformations and a stable 2D-model of the orbit is obtained with low calculation\ntimes.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Arnoud",
+                    "last_name": "Delissen",
+                    "name": null,
+                    "headline": "Topology optimization and FEM specialist at TNO"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Jeroen Kremer",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Jos Vroon",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Arjan Scheerhoorn",
+                    "headline": null
+                }
+            ]
+        },
+        {
+            "title": "Minor Sports Innovation (NHB Deurne)",
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "description": "This project was initiated by the Dutch Equestrian Vocational Training (Nederlandse Hippische Beroepsopleidingen or NHB) in Deurne, the biggest equestrian school in the Netherlands and the largest supplier of Dutch equine talent (Helicon 2011). We developed a program by which the NHB students can improve their physical fitness and thus horse riding performance by following certain group lessons three times a week.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Arnoud",
+                    "last_name": "Delissen",
+                    "name": null,
+                    "headline": "Topology optimization and FEM specialist at TNO"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Robin",
+                    "last_name": "Hollebrand",
+                    "name": null,
+                    "headline": "Subsidieadviseur"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Leo",
+                    "last_name": "van Beek",
+                    "name": null,
+                    "headline": "Head of Product at De Energiebespaarders"
+                }
+            ]
+        }
+    ],
+    "publications": [
+        {
+            "name": "Design and optimization of a general planar zero free length spring",
+            "publisher": "Mechanism and Machine Theory",
+            "url": "https://www.sciencedirect.com/science/article/pii/S0094114X17300149",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2017
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Arnoud",
+                    "last_name": "Delissen",
+                    "name": null,
+                    "headline": "Topology optimization and FEM specialist at TNO"
+                }
+            ]
+        }
+    ],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 3614,
+                "name": "TNO",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQEaTotk9sLG7g/company-logo_400_400/0/1695809327920?e=1703721600&v=beta&t=8EjtZcRsl5ttgTkc-2KiFw6XoyZDIUB_vl9Ei_gb1Ik",
+                "url": "https://www.linkedin.com/company/tno/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2023
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Delft, South Holland, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2023
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "TNO",
+                    "description": null,
+                    "title": "Topology optimization and finite element specialist",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 166529,
+                "name": "Delft University of Technology",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQFwaGpwaod9mQ/company-logo_400_400/0/1670699851986?e=1703721600&v=beta&t=Aw4oLxoKsIJcblYDjxw9200FClnyhZu8DxzcfJRDFOs",
+                "url": "https://www.linkedin.com/school/tudelft/",
+                "employees": {
+                    "start": 5001,
+                    "end": 10000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2023
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2023
+                        }
+                    },
+                    "company": "Delft University of Technology",
+                    "description": "Research into acceleration of topology optimization using GPUs, with the goal of designing an entire aircraft.",
+                    "title": "Postdoctoral Researcher",
+                    "employment_type": "Full-time"
+                },
+                {
+                    "location": "The Hague Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2017
+                        },
+                        "end": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "Delft University of Technology",
+                    "description": "Research aimed at combining topology optimization for a mechanical structure with controller tuning as an integrated system approach.",
+                    "title": "PHD Candidate",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Brabant Engineering - Neitraco Groep",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Eindhoven Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2017
+                        }
+                    },
+                    "company": "Brabant Engineering - Neitraco Groep",
+                    "description": null,
+                    "title": "Draft Engineer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 2477,
+                "name": "UCLA",
+                "logo": "https://media.licdn.com/dms/image/D560BAQEDHp-TpD9AYQ/company-logo_400_400/0/1688403831139?e=1703721600&v=beta&t=eYbJmC8VIAi8nYxi8tIC2D8OPwSSKr5iogj7e5WCVqo",
+                "url": "https://www.linkedin.com/school/ucla/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Greater Los Angeles Area",
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2015
+                        }
+                    },
+                    "company": "UCLA",
+                    "description": "Here I did research for five months with the goal of designing a micro-structural material lattice as a part of my master thesis. Under supervision of Professor Hopkins.\nhttp://www.flexible.seas.ucla.edu/",
+                    "title": "Visiting Graduate Researcher",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 166529,
+                "name": "TU Delft",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQFwaGpwaod9mQ/company-logo_400_400/0/1670699851986?e=1703721600&v=beta&t=Aw4oLxoKsIJcblYDjxw9200FClnyhZu8DxzcfJRDFOs",
+                "url": "https://www.linkedin.com/school/tudelft/",
+                "employees": {
+                    "start": 5001,
+                    "end": 10000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Delft Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2014
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2014
+                        }
+                    },
+                    "company": "Delft University of Technology",
+                    "description": "For the master course Multibody Dynamics B, my job was to help the students with their work and explain the course material whenever they didn\u2019t understand it. Next to that grading of assignments the students made weekly.",
+                    "title": "Teaching Assistant Multibody Dynamics B",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 166529,
+                "name": "TU Delft",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQFwaGpwaod9mQ/company-logo_400_400/0/1670699851986?e=1703721600&v=beta&t=Aw4oLxoKsIJcblYDjxw9200FClnyhZu8DxzcfJRDFOs",
+                "url": "https://www.linkedin.com/school/tudelft/",
+                "employees": {
+                    "start": 5001,
+                    "end": 10000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Delft Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2013
+                        },
+                        "end": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2013
+                        }
+                    },
+                    "company": "Delft University of Technology",
+                    "description": "Responsible for digitalizing assignments into Maple TA for the first year\u2019s course Statics I. This included that the question was randomised, so that each question is different, and was reformulated according to certain quality standards.",
+                    "title": "Teaching Assistant Statics",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1605101,
+                "name": "KIVI NIRIA Students Delft",
+                "logo": null,
+                "url": "https://www.linkedin.com/company/kivi-niria-students-delft/",
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Delft Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2011
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2012
+                        }
+                    },
+                    "company": "KIVI NIRIA Students Delft",
+                    "description": "This board function included tasks such as organizing of lectures and activities such as a CEO-lecture (~150 participants) where a CEO of a major enterprise tells about his career and experiences within a company.",
+                    "title": "Secretary",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Matlab",
+        "Photoshop",
+        "Word",
+        "InDesign",
+        "PowerPoint",
+        "Illustrator",
+        "SketchUp",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Excel",
+        "Music",
+        "Abaqus",
+        "ANSYS",
+        "English",
+        "LaTeX",
+        "Microsoft Excel"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

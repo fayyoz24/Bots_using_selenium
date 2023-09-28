@@ -1,0 +1,606 @@
+{
+    "profile_id": "hermanbanken",
+    "first_name": "Herman",
+    "last_name": "Banken",
+    "sub_title": "Software Engineer at Q42",
+    "profile_picture": "https://media.licdn.com/dms/image/C4D03AQFKKFirir04Bw/profile-displayphoto-shrink_800_800/0/1603783103882?e=1701302400&v=beta&t=BrYDgm9QJGxlQU1kIlvhRe6gQ0790-ZYCPwD-bVmMsc",
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAAASo7OsBoSoLltP-U79WWQDd3--hULR6n-w",
+    "object_urn": 78179563,
+    "birth_date": null,
+    "summary": null,
+    "location": {
+        "country": "Netherlands",
+        "short": "Woerden, Utrecht",
+        "city": "Woerden",
+        "state": "Utrecht",
+        "default": "Woerden, Utrecht, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "Dutch",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "English",
+                "proficiency": "PROFESSIONAL_WORKING"
+            },
+            {
+                "name": "French",
+                "proficiency": "ELEMENTARY"
+            },
+            {
+                "name": "German",
+                "proficiency": "LIMITED_WORKING"
+            },
+            {
+                "name": "Greek, Ancient (to 1453)",
+                "proficiency": "ELEMENTARY"
+            },
+            {
+                "name": "Latin",
+                "proficiency": "LIMITED_WORKING"
+            }
+        ]
+    },
+    "industry": "Internet",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "school": {
+                "name": "Delft University of Technology",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQFwaGpwaod9mQ/company-logo_400_400/0/1670699851986?e=1703721600&v=beta&t=Aw4oLxoKsIJcblYDjxw9200FClnyhZu8DxzcfJRDFOs",
+                "url": "https://www.linkedin.com/school/tudelft/"
+            },
+            "degree_name": "Master\u2019s Degree",
+            "field_of_study": "Computer Science",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2010
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "school": {
+                "name": "Delft University of Technology",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQFwaGpwaod9mQ/company-logo_400_400/0/1670699851986?e=1703721600&v=beta&t=Aw4oLxoKsIJcblYDjxw9200FClnyhZu8DxzcfJRDFOs",
+                "url": "https://www.linkedin.com/school/tudelft/"
+            },
+            "degree_name": "Bachelor",
+            "field_of_study": "Computer Science",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2004
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2010
+                }
+            },
+            "school": {
+                "name": "Minkema College",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "VWO",
+            "field_of_study": "Fysics & Tech",
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [],
+    "organizations": [
+        {
+            "name": "W.I.S.V. 'Christiaan Huygens'",
+            "position": "Chief Commissioner of Computer Science Education",
+            "date_start": {
+                "month": 9,
+                "day": null,
+                "year": 2012
+            },
+            "date_end": {
+                "month": 8,
+                "day": null,
+                "year": 2013
+            }
+        }
+    ],
+    "projects": [
+        {
+            "title": "De Delftse Bedrijvendagen",
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "description": "Making the new website for \"De Delftse Bedrijvendagen\".",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Herman",
+                    "last_name": "Banken",
+                    "name": null,
+                    "headline": "Software Engineer at Q42"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Freek",
+                    "last_name": "van Tienen",
+                    "name": null,
+                    "headline": "Researcher at Technical University of Delft"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Bastiaan",
+                    "last_name": "Gris\u00e8l",
+                    "name": null,
+                    "headline": "Freelance Data Scientist & Creative Technologist | Turning complex data into powerful visuals"
+                }
+            ]
+        },
+        {
+            "title": "CultuurApp",
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "description": "Part of the Contextproject in the Bachelor Computer Science. At the start of the project a dataset with 25.000 monument from all over the Netherlands was provided. My team has focussed on making monuments interesting for tourists by including interesting information like weather forecasts, facilities and recommendations. In addition, we focused on extracting information from the photos and descriptions with advanced techniques to extend the dataset.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Herman",
+                    "last_name": "Banken",
+                    "name": null,
+                    "headline": "Software Engineer at Q42"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Sjoerd",
+                    "last_name": "van Bekhoven",
+                    "name": null,
+                    "headline": "Digital Product Maker \ud83e\uddd1\ud83c\udffc\u200d\ud83d\udcbb\ud83c\udf31"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Rutger",
+                    "last_name": "P.",
+                    "name": null,
+                    "headline": "Senior adviseur cybersecurity bij Rijksoverheid"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Tim Eversdijk",
+                    "headline": null
+                }
+            ]
+        },
+        {
+            "title": "CultuurApp",
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "description": "Part of the Contextproject in the Bachelor Computer Science. At the start of the project a dataset with 25.000 monument from all over the Netherlands was provided. My team has focussed on making monuments interesting for tourists by including interesting information like weather forecasts, facilities and recommendations. In addition, we focused on extracting information from the photos and descriptions with advanced techniques to extend the dataset.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Herman",
+                    "last_name": "Banken",
+                    "name": null,
+                    "headline": "Software Engineer at Q42"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Sjoerd",
+                    "last_name": "van Bekhoven",
+                    "name": null,
+                    "headline": "Digital Product Maker \ud83e\uddd1\ud83c\udffc\u200d\ud83d\udcbb\ud83c\udf31"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Rutger",
+                    "last_name": "P.",
+                    "name": null,
+                    "headline": "Senior adviseur cybersecurity bij Rijksoverheid"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Tim Eversdijk",
+                    "headline": null
+                }
+            ]
+        },
+        {
+            "title": "9292 App ontwerp wedstrijd",
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2009
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2009
+                }
+            },
+            "description": "Webapplicatie voor het plannen van reisadviezen met 9292",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Herman",
+                    "last_name": "Banken",
+                    "name": null,
+                    "headline": "Software Engineer at Q42"
+                }
+            ]
+        }
+    ],
+    "publications": [],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 39482,
+                "name": "Q42",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQHizVvJvr3SWw/company-logo_400_400/0/1621851687615/q42_logo?e=1703721600&v=beta&t=tszVuQ6wLdMN7Eqf2pJrm-2KGU7i-XoImg5dzQ5n7xU",
+                "url": "https://www.linkedin.com/company/q42/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2010
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2010
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Q42",
+                    "description": null,
+                    "title": "Software Engineer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Blue Code",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "day": null,
+                            "year": 2011
+                        },
+                        "end": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2020
+                        }
+                    },
+                    "company": "Blue Code",
+                    "description": null,
+                    "title": "Software Engineer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 18116613,
+                "name": "Codestar powered by Ordina",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQF5N1CkhMFBng/company-logo_400_400/0/1593188390408/codestar_powered_by_ordina_logo?e=1703721600&v=beta&t=3DslVaWtVVmlLZpuvCOJk5-ERZ6a6qd16AZMY0qiLj0",
+                "url": "https://www.linkedin.com/company/codestar-powered-by-ordina/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Nieuwegein",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2017
+                        }
+                    },
+                    "company": "Codestar powered by Ordina",
+                    "description": "Reactive Programming is a way of programming designed to provide developers with the right abstractions for creating systems that use streams of data. Traditional debug tools lack support for the abstractions provided, causing developers to fallback to the most rudimentary debug tool available: printf-debugging.\nIn this project, I designed a visualization and debugging tool for Reactive Programming, that aids comprehension and debugging of reactive systems, by visualizing the dependencies and structure of the data flow, and the data inside the flow. I created RxFiddle, a platform for the visualization as well as the required instrumentation for RxJS in the ReactiveX- family of Reactive Programming libraries. I evaluated in an experiment with 111 subjects, that RxFiddle can outperform traditional debugging in terms of debug time required.",
+                    "title": "Graduate Student Intern",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 600322,
+                "name": "W.I.S.V. 'Christiaan Huygens'",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQGiSsMrOTxn1w/company-logo_400_400-alternative/0/1628689598481/wisv_christiaan_huygens_logo?e=1703721600&v=beta&t=mejxipbO6VB4evRnqVWfSYg5coVEPHain-6DE_XsmrA",
+                "url": "https://www.linkedin.com/company/w.i.s.v.-'christiaan-huygens'/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2010
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Delft",
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "day": null,
+                            "year": 2010
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": 2014
+                        }
+                    },
+                    "company": "W.I.S.V. 'Christiaan Huygens'\u200b",
+                    "description": null,
+                    "title": "MaCHazine Desktop Publisher",
+                    "employment_type": null
+                },
+                {
+                    "location": "Delft",
+                    "date": {
+                        "start": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2013
+                        },
+                        "end": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2013
+                        }
+                    },
+                    "company": "W.I.S.V. 'Christiaan Huygens'\u200b",
+                    "description": "Head of Jury for the ACM ICPC Northwestern Europe Regional Contest (NWERC) 2013 sponsored by IBM",
+                    "title": "Head of Jury NWERC 2013",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Laurium Webdesign",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2006
+                },
+                "end": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2011
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2006
+                        },
+                        "end": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2011
+                        }
+                    },
+                    "company": "Laurium Webdesign",
+                    "description": null,
+                    "title": "Owner",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [
+        {
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "role": "Chief Commissioner of Computer Science Education",
+            "company": {
+                "id": null,
+                "name": "W.I.S.V. 'Christiaan Huygens'",
+                "logo": null,
+                "url": null
+            },
+            "cause": "EDUCATION",
+            "description": "Full-time board member of W.I.S.V. 'Christiaan Huygens', the Study Association for Applied Mathematics and Computer Science at Delft University of Technology.\n\nMaking Computer Science a better education by involving students and talking to teachers. Responsibilities included organizing the North West European Regional Contest of the ICPC Worldwide Programming Contests"
+        }
+    ],
+    "skills": [
+        "JavaScript",
+        "Java",
+        "Scrum",
+        "Web Development",
+        "Front-end",
+        "Web Applications",
+        "iOS Development",
+        "Android Development",
+        "Google Kubernetes Engine (GKE)",
+        "XML",
+        "CSS",
+        "Scala",
+        "Git",
+        "MySQL",
+        "HTML 5",
+        "ASP.NET MVC",
+        "C#",
+        "HTML",
+        "Swift",
+        "Kubernetes"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

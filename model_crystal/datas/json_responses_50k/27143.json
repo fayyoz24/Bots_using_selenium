@@ -1,0 +1,583 @@
+{
+    "profile_id": "jasper-stein-5879517",
+    "first_name": "Jasper",
+    "last_name": "Stein",
+    "sub_title": "Software Engineer at ZorgDomein",
+    "profile_picture": null,
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAAAFiuvcB6L58C9dVWuwfutCaPdeBnunWEKg",
+    "object_urn": 23247607,
+    "birth_date": null,
+    "summary": "An enthousiastic, platform-agnostic developer with strong analytical skills and a fondness for the finer details of the technology he uses.",
+    "location": {
+        "country": "Netherlands",
+        "short": "The Randstad, Netherlands",
+        "city": "The Randstad",
+        "state": "Netherlands",
+        "default": "The Randstad, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": []
+    },
+    "industry": "Computer Software",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 1993
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2001
+                }
+            },
+            "school": {
+                "name": "Utrecht University",
+                "logo": "https://media.licdn.com/dms/image/C510BAQG6HfmPTdJKXw/company-logo_400_400/0/1519884681258?e=1703721600&v=beta&t=dip0JQLPHIafltY09rUwsjeZiPiJpmfD6vJeMHxW-84",
+                "url": "https://www.linkedin.com/school/universiteit-utrecht/"
+            },
+            "degree_name": "MSc",
+            "field_of_study": "Physics, Mathematics",
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [
+        {
+            "name": "Professional Scrum Master I",
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Scrum.org",
+            "url": "https://www.scrum.org/certificates/512182",
+            "license_number": null,
+            "display_source": "scrum.org",
+            "company": {
+                "id": null,
+                "name": "Scrum.org",
+                "logo": "https://media.licdn.com/dms/image/C560BAQFzF6WZjNSHkQ/company-logo_400_400/0/1522074989702?e=1703721600&v=beta&t=-PRmXQFIlx8U4JWR-3B1NpWfKbSbQ6Zx6ONjdC6UVQs",
+                "url": null
+            }
+        },
+        {
+            "name": "Cryptography I",
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Coursera",
+            "url": "https://www.coursera.org/course/crypto",
+            "license_number": null,
+            "display_source": "coursera.org",
+            "company": {
+                "id": null,
+                "name": "Coursera",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQGexnfBxeEG-g/company-logo_400_400/0/1608039227697?e=1703721600&v=beta&t=D0JCWIFRDe_tPD5hdUkJFaYhM7LSoOyZQ1nVMg-nUzo",
+                "url": null
+            }
+        },
+        {
+            "name": "Compilers",
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Coursera",
+            "url": "https://www.coursera.org/course/compilers",
+            "license_number": null,
+            "display_source": "coursera.org",
+            "company": {
+                "id": null,
+                "name": "Coursera",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQGexnfBxeEG-g/company-logo_400_400/0/1608039227697?e=1703721600&v=beta&t=D0JCWIFRDe_tPD5hdUkJFaYhM7LSoOyZQ1nVMg-nUzo",
+                "url": null
+            }
+        },
+        {
+            "name": "Functional Programming Principles in Scala",
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Coursera",
+            "url": "https://www.coursera.org/course/progfun",
+            "license_number": null,
+            "display_source": "coursera.org",
+            "company": {
+                "id": null,
+                "name": "Coursera",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQGexnfBxeEG-g/company-logo_400_400/0/1608039227697?e=1703721600&v=beta&t=D0JCWIFRDe_tPD5hdUkJFaYhM7LSoOyZQ1nVMg-nUzo",
+                "url": null
+            }
+        },
+        {
+            "name": "Principles of Reactive Programming",
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Coursera",
+            "url": "https://www.coursera.org/course/reactive",
+            "license_number": null,
+            "display_source": "coursera.org",
+            "company": {
+                "id": null,
+                "name": "Coursera",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQGexnfBxeEG-g/company-logo_400_400/0/1608039227697?e=1703721600&v=beta&t=D0JCWIFRDe_tPD5hdUkJFaYhM7LSoOyZQ1nVMg-nUzo",
+                "url": null
+            }
+        }
+    ],
+    "organizations": [],
+    "projects": [],
+    "publications": [],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 2688962,
+                "name": "ZorgDomein",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQHdHQOj0BDC8A/company-logo_400_400/0/1556195466712?e=1703721600&v=beta&t=xfvvvaamARFiBb4S3Qrmhjf0DIQXCc65VYRWsT-Kvzg",
+                "url": "https://www.linkedin.com/company/zorgdomein/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Breukelen, Utrecht, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2020
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "ZorgDomein",
+                    "description": null,
+                    "title": "Software Engineer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 745281,
+                "name": "XebiaLabs",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQH0tKG0iplg1A/company-logo_400_400/0/1586960938990?e=1703721600&v=beta&t=UfjQIf5NFBCUUqVVQYCrx91sIzV7iGmFKCtksvQIxMs",
+                "url": "https://www.linkedin.com/company/xebialabs/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Hilversum",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2013
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2020
+                        }
+                    },
+                    "company": "XebiaLabs (now Digital.ai)",
+                    "description": "Worked on the main XebiaLabs products XL Deploy, a next-generation automated deployment tool;  and XL Release, a release overview and automation tool. Both back-end functionality and front-end development, and integration plugins so automated build tools such as Jenkins, TFS. Main tech involved: Java, Scala, Groovy, Python, C#; Akka, JackRabbit, Spring, SQL; Javascript, React; gradle; VirtualBox, HyperV, docker, kubernetes; bash, DOS batch script; Windows, Linux, MacOS; JIRA, Nexus, Jenkins",
+                    "title": "Product Developer / Scrum master",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "McKesson Nederland",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Nieuwegein",
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2012
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2012
+                        }
+                    },
+                    "company": "McKesson Nederland",
+                    "description": "Ontwikkeling Elektronisch Verpleegkundigen Dossier (EVD)",
+                    "title": "Software Engineer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 13914,
+                "name": "Sogyo",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQH2TQoH3UmCog/company-logo_400_400/0/1555673082134?e=1703721600&v=beta&t=5buSepnDhiYvXgRsM6sICvyjVjTzrmFKL8db-3TJOgw",
+                "url": "https://www.linkedin.com/company/sogyo/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2007
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "De Bilt",
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2007
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2012
+                        }
+                    },
+                    "company": "Sogyo",
+                    "description": "Built several business applications in diverse fields, e.g. land zoning, industrial laundries, sports instruction, soccer world cup. Mostly C#, a fair bit of Java, a sprinkling of Scala, some Python, and of course the ubiquitous laguages, Javascript, SQL, ...",
+                    "title": "Software Engineer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Grontmij GIS&ICT",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2007
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2010
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2007
+                        },
+                        "end": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2010
+                        }
+                    },
+                    "company": "Grontmij GIS&ICT",
+                    "description": "Did several projects, the main one being a  application for setting up, maintaining, managing, and publicising land zoning plans. C#, WinForms, ArcGIS, Microsoft Access/Oracle Spatial",
+                    "title": "Software Engineer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Grontmij Nederland B.V.",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2007
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2010
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2007
+                        },
+                        "end": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2010
+                        }
+                    },
+                    "company": "Grontmij Nederland B.V.",
+                    "description": null,
+                    "title": "Software engineer (gedetacheerd)",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 164058,
+                "name": "Grontmij",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQGeCkFa1WCTAA/company-logo_400_400/0/1519886086460?e=1703721600&v=beta&t=n-mH92r_J5G1j6siVR08E_XDbtwcK9_prNgi9plFxx8",
+                "url": "https://www.linkedin.com/company/grontmij/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2007
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2010
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "day": null,
+                            "year": 2007
+                        },
+                        "end": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2010
+                        }
+                    },
+                    "company": "Grontmij Group",
+                    "description": null,
+                    "title": "software engineer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Radboud University Nijmegen",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2000
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2007
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "day": null,
+                            "year": 2000
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": 2007
+                        }
+                    },
+                    "company": "Radboud University Nijmegen",
+                    "description": "Investigated the feasability of using the computer as a mathematical proof checker within the field of linear algebra",
+                    "title": "PhD student / scientific programmer",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Scala",
+        "Java",
+        "Akka",
+        "Git",
+        "Github",
+        "Gradle",
+        "C#",
+        "Python",
+        "OOP",
+        "React.js",
+        "Software Development",
+        "Software Engineering",
+        "Design Patterns",
+        "IntelliJ IDEA",
+        "Visual Studio",
+        "Subversion",
+        "TFS",
+        "SQL",
+        "Eclipse",
+        "JavaScript"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

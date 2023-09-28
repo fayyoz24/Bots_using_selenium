@@ -1,0 +1,653 @@
+{
+    "profile_id": "laurent-van-poppelen-a2016312",
+    "first_name": "Laurent",
+    "last_name": "van Poppelen",
+    "sub_title": "Medical device (Wtb, E(hard-and software, Android) at Lautec Engineering B",
+    "profile_picture": "https://media.licdn.com/dms/image/C5603AQHjdFt09h-RyQ/profile-displayphoto-shrink_800_800/0/1517781298866?e=1701302400&v=beta&t=SnnNp58VFOhuC2q2yDWANq5PY0-9rVeGorqmZyxRtlM",
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAAAKDq_gBSvWEsSh2qYXa6BHlrYYNyl5uGAQ",
+    "object_urn": 42183672,
+    "birth_date": null,
+    "summary": "Presently, 2017,  designing and building two new medical devices. You can read more at my website:\n\nwww.lautec-engineering.nl\n",
+    "location": {
+        "country": "Netherlands",
+        "short": "Eindhoven, North Brabant",
+        "city": "Eindhoven",
+        "state": "North Brabant",
+        "default": "Eindhoven, North Brabant, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "English",
+                "proficiency": null
+            },
+            {
+                "name": "German",
+                "proficiency": null
+            }
+        ]
+    },
+    "industry": "Industrial Automation",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 1978
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 1984
+                }
+            },
+            "school": {
+                "name": "Eindhoven University of Technology",
+                "logo": "https://media.licdn.com/dms/image/C560BAQG4PGSYiNG4CA/company-logo_400_400/0/1642150189320?e=1703721600&v=beta&t=omf4Ziy8Suete_GTJ3Qn1mOBS7ZrKSPido6Ld2LseBU",
+                "url": "https://www.linkedin.com/school/eindhoven-university-of-technology/"
+            },
+            "degree_name": "P1/P2/K1/K2/I1",
+            "field_of_study": "Mechanical Engineering",
+            "grade": "Any"
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [
+        {
+            "name": "PRINCE2",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": null,
+            "url": null,
+            "license_number": null,
+            "display_source": null,
+            "company": null
+        }
+    ],
+    "organizations": [],
+    "projects": [],
+    "publications": [],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": null,
+                "name": "Lautec Engineering BV",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Eindhoven Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2017
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Lautec Engineering BV",
+                    "description": "A new mechanical and electronically design(hard- and embedded software) for a muscle dynamometer, without buttons or display, build around a CC2642R1, having a Bluetooth Low Energy interface. This very niche SoC from TI also contains additional ARM m0 cores to facilitate a sensor controller operating on sensors while the main core is in deep-deep sleep. This allows for extremely low power(1 mA) while still being able to startup without any external switches. Since TI delivers these families of SoC, and others as well, completely with an multitasking OS(TIRTOS or FreeRTOS) as a starting point for further development, it simply works beautiful! Again one can put effort in designing, writing and adding application tasks or, add sensors to the sensor controller. Since this is also based on Simplelink, the (pure) application also runs on the CC3220SF and, can use OAD as well.",
+                    "title": "Medical device (Wtb, E(hard-and software, Android)",
+                    "employment_type": null
+                },
+                {
+                    "location": "Kortrijk(Belgium) & Rabat area(Marroc)",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2017
+                        },
+                        "end": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2017
+                        }
+                    },
+                    "company": "Lautec Engineering BV",
+                    "description": "Working at a \u2018home & farm energy neutral\u2019 project, to be realized in Belgium for a farmer, near Kortrijk(summer 2017) and, Morocco, a private customer, near Rabat(11 may \u2013 21 may 2017). This involves several of the shelf components like a solar-boiler, multiple solar panels, water-pump, heat-pump and controller(s) as well as wireless(BLE) connected User Interfaces (GUI) on PC, mobiles and tablets. C/C++ are meanly used for embedded, Java for Windows/Linux and Mac OSX and, Android for mobile.",
+                    "title": "Energy & Water Project Manager/Designer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Mewit BV",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Eindhoven Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2017
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2018
+                        }
+                    },
+                    "company": "Mewit BV",
+                    "description": "This company designs and produces cameras used for the recognition of car license plates. The challenge here was to achieve the best lens focus in both the visual as well as the near infrared wavelengths. For this I designed a optical instrument which does just that. Till now they manually focused their lenses at real target distances of up to 35 meter. The optical instrument however has a length of 800 mm and can focus different lens modules from 6  up to 35 meters inside this 800 mm at 850 nm wavelength only. I used aluminum for the \u2018flat\u2019 parts en 3-D printed nylon for all other, more complex parts. By using the material properties of both the instrument is also compensated for small temperature changes. The camera hardware is programmed with C and VHDL and has a secure 1000T network interface. Each focused lens system is equal now and comes with a calibration report and shorter production time.",
+                    "title": "Compleet system for focussing cameras at short/large distances at you desk",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Caredon BV & Mustec BV",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Eindhoven",
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2017
+                        }
+                    },
+                    "company": "Caredon BV & Mustec BV",
+                    "description": "One company, Caredon BV(Aalst-Waalre), a subsidiary of Cadana Gmbh(Wenen, Oostenrijk), has an older product used for measuring/analyzing sleeping disorders which encompass sensors and processing form a unit underneath the mattress of a bed. A classic Bluetooth is used to communicate with a base device. This system is being redesigned with present technology and, in fact, completely redesigned. Adequate hardware(new sensors, micro-controller, main cpu board, Bluetooth BLE) and software( c, c++ and java were applicable) redesign. As project lead  I guide this project, together with the stakeholder.\n\nThe second company, Mustec, Muscle Dynamic Technology BV(Amsterdam), has been developing a device for measurement and analysis of muscles of patient who for instance had an accident or other muscle health problem. It\u2019s a spin-off of an already proven concept. The previous product used Bluetooth classic as well, the new one uses Bluetooth 4.0(BLE). They ran into problems since those who tried to program the Bluetooth connection had no knowledge of the Bluetooth LE technology (GAP/GATT). The second challenge was, this software needed to be written once and, running everywhere(Windows 7/10, Mac, Linux) and a single button installation. For this, as project manager/advisor, together with the stakeholders, we collaborate in setting up the business case(website, how to .., etc.). As project lead/developer I realized the system- and  architecture for the GUI. Using Netbeans with JavaSE the BLE stack interface and graphical representation was build.",
+                    "title": "Senior Software Engineer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "IP2-Solutions",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Leende",
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2016
+                        }
+                    },
+                    "company": "IP2-Solutions",
+                    "description": "Several projects were addressed. The first, which is still going on, concerns a Software Defined Radio(SDR) in the GHz domain for which I designed software(python & C++) for an Ettus E310, see: https://www.ettus.com/product/details/E310-KIT. The second project is about trying to detect asparagus also using this device. The back-end contains a Zync720 from Xilinx. For both projects gnuradio(see: http://gnuradio.org/ ) is extensively used. The OS running on the Ettus SDR is Linux(Yocto) which I cross-compiled on Windows. This way the project could, partially, be developed on Windows, using Matlab/Simulink as well. At this moment this project is on hold since some physical problems that were encountered need to be addressed first. A third project concerns the backend of a FMCW radar operating at 14 GHz. This backend drives the frontend and transfer the received data to a laptop via 10/100/1000 Ethernet were its processed by a Matlab GUI. The core of this backend is a Altera Cyclone V GX starter kit.\n\nAnother project, detecting asperges using Ground Penetrating Radar needed a test facility. I designed and build it. This test facility included a robot arm for conducting several hundreds repetitive measurements which I rented from \u201cUniversal robots EHV\u201d (https://www.universal-robots.com/). Since these measurements needed to be taken with very small incremental steps a mechanical problem arose. So called \u2018stick slip\u2019 which I solved by rearranging the applied forces and using nylon sheets to reduce friction. Special care, which involved some software changes and the use of a single sided spring mechanism, were required to keep the maximum forces, as a result of mechanical acceleration, below their maximum values. The use of wood is mandatory since metal would disturb the radar signals.",
+                    "title": "Research And Development Engineer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1084,
+                "name": "NXP Software",
+                "logo": "https://media.licdn.com/dms/image/C510BAQHqrxjtD3ZGAQ/company-logo_400_400/0/1519855860348?e=1703721600&v=beta&t=Esd1dfbI-rgNdDigjlyhNPogNbMZ6LerUMYO6KNiqb0",
+                "url": "https://www.linkedin.com/company/nxp-software/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "High Tech Campus (Eindhoven)",
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2014
+                        },
+                        "end": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2015
+                        }
+                    },
+                    "company": "NXP Software",
+                    "description": "A challenging scheduled project concerning the development of an SDK for demonstrating a so called body network, which is a RF digital network which only runs through the human or animal body. The RF chip and network software are designed and build by NXP Leuven. The advantage is both low energy consuming and no interference with other networks. It\u2019s a new type of network physics with a great future. The SDK incorporates a smart phone, a smart watch, two ear-buds and a smart wristband. My role was both assisting the system designer and architect, eliminating threads to the project before they occur, and providing a suitable Bluetooth implementation. Android was used for the smart phone and, FreeRTOS for the smart watch solution.",
+                    "title": "Senior Software Engineer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Schleifenbauer BV",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Reusel",
+                    "date": {
+                        "start": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2014
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2014
+                        }
+                    },
+                    "company": "Schleifenbauer BV",
+                    "description": "A  project involving the redesign and implementation of a platform for professional net metering at an international operating company. Application can be found at many datacenters which consume lots of energy for different customers. It operates on a NXP microcontroller and incorporates measurements, calibration, various communication channels, output switches as well as a lightweight web server(lwip). It also uses wear leveling, greatly improving the lifetime of flash memory. The system runs FreeRTOS(v8.0)+ lwip which does an excellent job. Units can be \u2018daisy-chained\u2019 to provide hundreds of connections which can be monitored/logged individually and run securely world-wide.",
+                    "title": "Senior Software Engineer",
+                    "employment_type": null
+                },
+                {
+                    "location": "Reusel Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2014
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2014
+                        }
+                    },
+                    "company": "Schleifenbauer BV",
+                    "description": "A  project involving the redesign and implementation of a platform for professional net metering at an international operating company. Application can be found at many datacenters which consume lots of energy for different customers. It operates on a NXP microcontroller and incorporates measurements, calibration, various communication channels, output switches as well as a lightweight web server(lwip). It also uses wear leveling, greatly improving the lifetime of flash memory. The system runs FreeRTOS(v8.0)+ lwip which does an excellent job. Units can be \u2018daisy-chained\u2019 to provide hundreds of connections which can be monitored/logged individually and run securely world-wide.",
+                    "title": "Project Lead Development",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Lautec Engineering BV",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Eindhoven Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2013
+                        },
+                        "end": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2014
+                        }
+                    },
+                    "company": "Lautec Engineering BV",
+                    "description": "This year started with a four month embedded software project(ARM, FPGA) for Philips IPS. It was followed by a three month project involving the implementation of FreeRTOS on a platform for professional metering. Application are found at, for instance, network providers. Next, October 2014, I became involved with a company building products involving high energy lasers. The task involves modernizing the design of the electronic controls of those products, from the early nineties up. This involves new architecture, system design, tooling and hardware(ARM,  FPGA and SoC).",
+                    "title": "Senior Software Engineer",
+                    "employment_type": null
+                },
+                {
+                    "location": "Eindhoven Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2012
+                        },
+                        "end": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2013
+                        }
+                    },
+                    "company": "Lautec Engineering BV",
+                    "description": "After finishing at Bosch advancing with internal project. The project is about linking external, mobile dedicated wireless hardware using Bluetooth Low Energy(BLE). Adding \u201cANDROID\u201d to my skills for programming applets and services on mobiles and tablets as part of internal healthcare/medical project. This includes, beside the core of the product, connections like USB, Bluetooth, GPS, GPRS, Wi-Fi and protocols like TCP/IP, NFC, HDP and VPN. Also a simple web server  has been build for data exchange data to/from different databases. Another project involves driving/controlling a HVAC PMSM(400VAC).",
+                    "title": "Senior Software Engineer",
+                    "employment_type": null
+                },
+                {
+                    "location": "Eindhoven",
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2011
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2012
+                        }
+                    },
+                    "company": "Lautec Engineering BV",
+                    "description": "A very interesting challenge for a RF (network)system, connecting 'nodes' like buoys,ships, oil-platforms, under ALL weather circumstances. Both control and audio/video channels for up to 20 km from land, were it has to be connected to the internet. Presently a system is already being used but, it doesn't do the job. As the off-shore companies, like Boskalis, want a solution not relying on satellite communication, the weather conditions and possible high waves of the seas incur an additional challenge. For this a project has been started involving antenna(array) design with state-of-art hardware incorporating SDR. Presently experiments involve free bands like 446MHz-868(920)MHz - 2.4GHz - 5.5GHz(MIMO). Since all standard known network solutions are not sufficient to cope with the presented challenges, new ways have to be found.",
+                    "title": "Research And Development Engineer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 2198,
+                "name": "Bosch Security Systems",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQHGb8CXJSb3Mw/company-logo_400_400/0/1611052560094?e=1703721600&v=beta&t=EGUi_-RFVm7mLZxut_SDA-qjhR3jpH_1b7oyGHQ1oqE",
+                "url": "https://www.linkedin.com/company/bosch-security-systems/",
+                "employees": {
+                    "start": 5001,
+                    "end": 10000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Eindhoven",
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "day": null,
+                            "year": 2011
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": 2012
+                        }
+                    },
+                    "company": "Bosch Security and Safety Systems",
+                    "description": "This company develops in- and outdoor security camera systems on the professional market. My job was to assist, as a team member in the development/improvement of the front-end and the image pipe of these cameras. On the front end I was occupied with the improvement of calibration of the colour sensors as well as designing the control for zoom focus functionality. For solving part of the challenges MAT/Simulink was used extensively.",
+                    "title": "Software Engineer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Lautec Engineering (ZZP)",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2008
+                },
+                "end": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2011
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Eindhoven Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2008
+                        },
+                        "end": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2011
+                        }
+                    },
+                    "company": "Lautec Engineering (ZZP)",
+                    "description": "Several smaller projects for different customers followed by a large project concerning colorimetry and embedded security camera software as well as some mechantronical design concerning stepper motors.",
+                    "title": "ZZP",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "i-Product BV",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2005
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2007
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Eindhoven Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2005
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2007
+                        }
+                    },
+                    "company": "i-Product BV",
+                    "description": "Design and development of an outdoor, replaceble, wireless security system for thermal-, and movement detection.",
+                    "title": "Sr. Hardware/Software Engineer",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "PLC",
+        "Microsoft Office",
+        "Project Management",
+        "Automation",
+        "Engineering",
+        "Strategic Planning",
+        "Product Development",
+        "Negotiation",
+        "Instrumentation",
+        "C++",
+        "Process Control",
+        "C",
+        "Assembly Language",
+        "Code Composer Studio",
+        "Matlab/Simulink",
+        "VHDL",
+        "PRINCE2",
+        "Hatley & Pirbhai",
+        "Embedded Systems",
+        "Embedded Software"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

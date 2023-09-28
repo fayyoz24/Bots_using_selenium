@@ -1,0 +1,525 @@
+{
+    "profile_id": "avinash-pathapati-433b83114",
+    "first_name": "Avinash",
+    "last_name": "Pathapati",
+    "sub_title": "Masters Artificial Intelligence",
+    "profile_picture": null,
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAABymYqcB4HcQeh12PqBVIbr4giUyT3WceaM",
+    "object_urn": 480666279,
+    "birth_date": null,
+    "summary": null,
+    "location": {
+        "country": "Netherlands",
+        "short": "Groningen, Groningen",
+        "city": "Groningen",
+        "state": "Groningen",
+        "default": "Groningen, Groningen, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": []
+    },
+    "industry": "Research",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "school": {
+                "name": "University of Groningen",
+                "logo": "https://media.licdn.com/dms/image/C560BAQHjFD1KsBlUnQ/company-logo_400_400/0/1519868080428?e=1703721600&v=beta&t=ibr9rujnIcZokKKBnQd60TZXHnVytrrpVhwxed_gkrk",
+                "url": "https://www.linkedin.com/school/rijksuniversiteit-groningen/"
+            },
+            "degree_name": "Master's degree",
+            "field_of_study": "Artificial Intelligence",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2008
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "school": {
+                "name": "Sri Venkateswara University",
+                "logo": "https://media.licdn.com/dms/image/C560BAQGUy_PUTW2UkQ/company-logo_400_400/0/1519910400137?e=1703721600&v=beta&t=lMgFCwwiKaf0xmsNZzUh_Xeu_ZWyW1tsg4vAfY8CdjM",
+                "url": "https://www.linkedin.com/school/sri-venkateswara-university/"
+            },
+            "degree_name": "Bachelor\u2019s Degree",
+            "field_of_study": "Computer Science",
+            "grade": "CGPA 6.7/10"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2006
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2008
+                }
+            },
+            "school": {
+                "name": "Sri Chaitanya Junior College",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "Board of Intermediate",
+            "field_of_study": "Maths Physics Chemistry(M.P.C)",
+            "grade": "95.8%"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2004
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2006
+                }
+            },
+            "school": {
+                "name": "Geethanjali E.M High School",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "Secondary School Education",
+            "field_of_study": null,
+            "grade": "88%"
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [
+        {
+            "name": "Machine Learning",
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Coursera",
+            "url": null,
+            "license_number": null,
+            "display_source": null,
+            "company": null
+        }
+    ],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "M.Sc Thesis - Molecule property prediction using Graph Neural Networks",
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "description": "Molecular crystals are modelled as graphs with atoms as nodes, bonds as edges between the atoms and Graph neural networks are used on this data to predict \"energy bandgap\"",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Avinash",
+                    "last_name": "Pathapati",
+                    "name": null,
+                    "headline": "Masters Artificial Intelligence"
+                }
+            ]
+        },
+        {
+            "title": "Deep Learning Project",
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "description": "Generating PokeMon faces using GANs",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Avinash",
+                    "last_name": "Pathapati",
+                    "name": null,
+                    "headline": "Masters Artificial Intelligence"
+                }
+            ]
+        },
+        {
+            "title": "Handwriting Recognition",
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "description": "Automatic extraction and identification of Hebrew text from Dead Sea Scrolls",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Avinash",
+                    "last_name": "Pathapati",
+                    "name": null,
+                    "headline": "Masters Artificial Intelligence"
+                }
+            ]
+        },
+        {
+            "title": "Reinforcement Learning PAC-MAN",
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "description": "Compared two Reinforcement learning approaches: extracting the features automatically using CNN(Deep Reinforcement Learning) vs Handcrafted feature extraction",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Avinash",
+                    "last_name": "Pathapati",
+                    "name": null,
+                    "headline": "Masters Artificial Intelligence"
+                }
+            ]
+        },
+        {
+            "title": "Robotics for AI",
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "description": "The aim of the project is to make ALICE(Robot) navigate to the specific location, identify the required object and grasp it",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Avinash",
+                    "last_name": "Pathapati",
+                    "name": null,
+                    "headline": "Masters Artificial Intelligence"
+                }
+            ]
+        }
+    ],
+    "publications": [],
+    "courses": [
+        {
+            "name": "Artificial Intelligence",
+            "number": null
+        },
+        {
+            "name": "Cognitive Robotics",
+            "number": null
+        },
+        {
+            "name": "Computer Vision",
+            "number": null
+        },
+        {
+            "name": "Contemporary Statistics with Applications",
+            "number": null
+        },
+        {
+            "name": "Deep Learning",
+            "number": null
+        },
+        {
+            "name": "Introduction to Data Science",
+            "number": null
+        },
+        {
+            "name": "Machine Learning",
+            "number": null
+        },
+        {
+            "name": "Natural Language Processing",
+            "number": null
+        },
+        {
+            "name": "Pattern recognition",
+            "number": null
+        }
+    ],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 165742,
+                "name": "University of Groningen",
+                "logo": "https://media.licdn.com/dms/image/C560BAQHjFD1KsBlUnQ/company-logo_400_400/0/1519868080428?e=1703721600&v=beta&t=ibr9rujnIcZokKKBnQd60TZXHnVytrrpVhwxed_gkrk",
+                "url": "https://www.linkedin.com/school/rijksuniversiteit-groningen/",
+                "employees": {
+                    "start": 5001,
+                    "end": 10000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Groningen, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2020
+                        }
+                    },
+                    "company": "University of Groningen",
+                    "description": "Courses: Statistics for AI and CS (B.Sc), Software Maintenance& Evolution (M.Sc)",
+                    "title": "Graduate Teaching Assistant",
+                    "employment_type": "Part-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 3069708,
+                "name": "Vymo",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQE76UOl11eClw/company-logo_400_400/0/1656922087056?e=1703721600&v=beta&t=I8wg53wKGgcmEltH7RRNereJ-5Vl8ynfczNNIeOQ3Yc",
+                "url": "https://www.linkedin.com/company/vymo/",
+                "employees": {
+                    "start": 501,
+                    "end": 1000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Bengaluru Area, India",
+                    "date": {
+                        "start": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2017
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2018
+                        }
+                    },
+                    "company": "Vymo",
+                    "description": "Designed and developed scalable ,high performant applications for vymo platform using node js, mongodb, elastic search",
+                    "title": "Senior Member Of Technical Staff",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Reverie Language Technologies",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Bengaluru Area, India",
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2017
+                        }
+                    },
+                    "company": "Reverie Language Technologies",
+                    "description": "Worked on Developing Machine Learning Algorithms for Language Transliteration and Translation",
+                    "title": "Software Engineer R&D",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 164361,
+                "name": "Cyient",
+                "logo": "https://media.licdn.com/dms/image/C560BAQH1R4D7WxP_LA/company-logo_400_400/0/1603084674767?e=1703721600&v=beta&t=lZZ9NvNicz0-XmtHqvQdV_gI62mEWblULZKH_uJRkTw",
+                "url": "https://www.linkedin.com/company/cyient/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Hyderabad Area, India",
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2012
+                        },
+                        "end": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2015
+                        }
+                    },
+                    "company": "Cyient",
+                    "description": null,
+                    "title": "Software Engineer",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Data Structures",
+        "Algorithms",
+        "Core Java",
+        "Machine Learning",
+        "Deep Learning",
+        "Artificial Intelligence (AI)",
+        "computer vision",
+        "Oracle",
+        "MongoDB",
+        "Node.js",
+        "ElasticSearch",
+        "Natural Language Processing (NLP)",
+        "Pattern Recognition",
+        "Statistics",
+        "Python",
+        "Java",
+        "MATLAB",
+        "R"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

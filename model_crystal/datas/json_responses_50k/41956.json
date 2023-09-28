@@ -1,0 +1,410 @@
+{
+    "profile_id": "arca-kutlu",
+    "first_name": "Arca",
+    "last_name": "Kutlu",
+    "sub_title": "Computer Science Masters Student at Vrije Universiteit Amsterdam \u2022 Software Developer \u2022 Front-end Developer \u2022  Python Programmer",
+    "profile_picture": "https://media.licdn.com/dms/image/C4E03AQHaN9aQYCaXqA/profile-displayphoto-shrink_800_800/0/1623875946435?e=1701302400&v=beta&t=g8gKquMrumpL6O3fz5Q8O40Coc3G-9vE8tAzrXeXKuA",
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAADYN_VwBIDzZj_V0BXEuzGnSFT1zTuYIuN8",
+    "object_urn": 906886492,
+    "birth_date": null,
+    "summary": "My name is Hikmet Arca Kutlu. I am a 23 year old studying Computer Science at the Vrije Universiteit Amstedam.\n\nI'm a dedicated developer, passionate about technology, programming, and learning new things. I'm also well-versed in software design and development through theoretical engagement in data structures and algorithms as well as practical projects. I'm determined to produce consistent results in an agile environment using Scrum methodology.",
+    "location": {
+        "country": "Netherlands",
+        "short": "Amsterdam, North Holland",
+        "city": "Amsterdam",
+        "state": "North Holland",
+        "default": "Amsterdam, North Holland, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "TR",
+            "language": "tr"
+        },
+        "supported_locales": [
+            {
+                "country": "TR",
+                "language": "tr"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "Dutch",
+                "proficiency": "ELEMENTARY"
+            },
+            {
+                "name": "English",
+                "proficiency": "PROFESSIONAL_WORKING"
+            },
+            {
+                "name": "French",
+                "proficiency": "LIMITED_WORKING"
+            },
+            {
+                "name": "German",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "Spanish",
+                "proficiency": "ELEMENTARY"
+            },
+            {
+                "name": "Turkish",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ]
+    },
+    "industry": "Computer Software",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "school": {
+                "name": "Vrije Universiteit Amsterdam (VU Amsterdam)",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQGFG964atm3Ow/company-logo_400_400/0/1682661887840?e=1703721600&v=beta&t=871s4br2EokXU4GPzYVwsoy3BpQAoKkgU-c2zYvtGmQ",
+                "url": "https://www.linkedin.com/school/vrije-universiteit-amsterdam/"
+            },
+            "degree_name": "Bachelor's degree",
+            "field_of_study": "Computer Science",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "school": {
+                "name": "Wagenburg-Gymnasium Stuttgart",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "High School Diploma",
+            "field_of_study": null,
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "Web Data Processing Project",
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "description": "Created a program that receives web pages as input and returns every entity in the page with a link to their Wikipedia entry.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Arca",
+                    "last_name": "Kutlu",
+                    "name": null,
+                    "headline": "Computer Science Masters Student at Vrije Universiteit Amsterdam \u2022 Software Developer \u2022 Front-end Developer \u2022  Python Programmer"
+                }
+            ]
+        },
+        {
+            "title": "Automated Fact-Checking system",
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "description": "A  Python-baesed program which can retrieve and structure Tweets and their responses to be processed in a BERT-model, the results of which are weighted with the Twitter-API to conclude whether the Tweet is a false rumor or not.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Arca",
+                    "last_name": "Kutlu",
+                    "name": null,
+                    "headline": "Computer Science Masters Student at Vrije Universiteit Amsterdam \u2022 Software Developer \u2022 Front-end Developer \u2022  Python Programmer"
+                }
+            ]
+        },
+        {
+            "title": "Machine Learning Model for identifying dog breeds by photographs",
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "description": "A Machine Learning Model which was trained with images of 100 different dog breeds, with an F1 score of 0.62.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Arca",
+                    "last_name": "Kutlu",
+                    "name": null,
+                    "headline": "Computer Science Masters Student at Vrije Universiteit Amsterdam \u2022 Software Developer \u2022 Front-end Developer \u2022  Python Programmer"
+                }
+            ]
+        },
+        {
+            "title": "Machine Learning Model for Kickstart projects",
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "description": "A Machine Learning Model was trained with 7000 Kickstarter pages with their parameters. The Model was trained in various supervised and unsupervised methods and parameter tweaking for the best outcome, with an f1-score of 0.79.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Arca",
+                    "last_name": "Kutlu",
+                    "name": null,
+                    "headline": "Computer Science Masters Student at Vrije Universiteit Amsterdam \u2022 Software Developer \u2022 Front-end Developer \u2022  Python Programmer"
+                }
+            ]
+        },
+        {
+            "title": "Environment Pollution Awareness Website - Fullstack Developer",
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "description": "Designed a website for raising awareness and preventing pollution for the coasts of Lobitos and Piedritas, Peru. This project aims to design and build functional prototype front-end components for a rubbish spotting and collection system to be used in Lobitos. This system aims to make it easier for people (residents or visitors) to report dumped or blown rubbish to the municipality and for those reports to be passed to rubbish clearance teams (typically eco-tourists, surfers, or local volunteers).",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Arca",
+                    "last_name": "Kutlu",
+                    "name": null,
+                    "headline": "Computer Science Masters Student at Vrije Universiteit Amsterdam \u2022 Software Developer \u2022 Front-end Developer \u2022  Python Programmer"
+                }
+            ]
+        },
+        {
+            "title": "IJVM Compiler",
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "description": "Implemented an emulator capable of executing the IJVM byte-code. The implementation was done using the C programming language",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Arca",
+                    "last_name": "Kutlu",
+                    "name": null,
+                    "headline": "Computer Science Masters Student at Vrije Universiteit Amsterdam \u2022 Software Developer \u2022 Front-end Developer \u2022  Python Programmer"
+                }
+            ]
+        },
+        {
+            "title": "Custom UNIX Shell and Heap Allocator",
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "description": "Implemented and custom UNIX Shell that replicate the simple commands, sequences, pipes, redirects, detached commands, sub-shells, environment variables, and custom PATH handling. Also, created a heap allocator that can malloc, calloc, realloc, and free.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Arca",
+                    "last_name": "Kutlu",
+                    "name": null,
+                    "headline": "Computer Science Masters Student at Vrije Universiteit Amsterdam \u2022 Software Developer \u2022 Front-end Developer \u2022  Python Programmer"
+                }
+            ]
+        }
+    ],
+    "publications": [],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 25149088,
+                "name": "Restaurant Meram Amsterdam ZuidOost B.V.",
+                "logo": null,
+                "url": "https://www.linkedin.com/company/restaurant-meram-amsterdam-zuidoost-b.v./",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amsterdam, North Holland, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2020
+                        },
+                        "end": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2021
+                        }
+                    },
+                    "company": "Restaurant Meram Amsterdam ZuidOost B.V.",
+                    "description": null,
+                    "title": "Restaurant Staff",
+                    "employment_type": "Part-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "ElternSeminar Stuttgart",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Stuttgart, Baden-W\u00fcrttemberg, Germany",
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2017
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "ElternSeminar Stuttgart",
+                    "description": null,
+                    "title": "Child Carer",
+                    "employment_type": "Part-time"
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "MATLAB",
+        "Programming Languages",
+        "Deep Learning",
+        "Data Analysis",
+        "npm",
+        "Spoken English",
+        "Node.js",
+        "React.js",
+        "HTML5",
+        "Design",
+        "Programming",
+        "Research",
+        "Machine Learning",
+        "Data Science",
+        "Data Mining",
+        "Problem Solving",
+        "Presentations",
+        "Writing",
+        "Open Mind",
+        "Critical Thinking"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

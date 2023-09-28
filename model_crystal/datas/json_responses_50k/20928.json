@@ -1,0 +1,885 @@
+{
+    "profile_id": "alexeybalmashnov",
+    "first_name": "Alexey",
+    "last_name": "Balmashnov",
+    "sub_title": "Senior Design Engineer at ASML",
+    "profile_picture": null,
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAAAJ4lc4BtgkDhraOFJOLijN_mCTb-0M7e1c",
+    "object_urn": 41457102,
+    "birth_date": null,
+    "summary": "Metrology software senior design engineer. Keen in acquiring knowledge to deeper understand various aspects of metrology applicable in lithography equipment.\n\nSpecialties: Mechanical Engineering/Computational Mechanics, Material (constitutive) Models, Finite Element Analysis, development and implementation of Computational Methods; Scientific Programming, C/C++, Matlab, Fortran",
+    "location": {
+        "country": "Netherlands",
+        "short": "Eindhoven, North Brabant",
+        "city": "Eindhoven",
+        "state": "North Brabant",
+        "default": "Eindhoven, North Brabant, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": []
+    },
+    "industry": "Mechanical Or Industrial Engineering",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2001
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2003
+                }
+            },
+            "school": {
+                "name": "Eindhoven University of Technology",
+                "logo": "https://media.licdn.com/dms/image/C560BAQG4PGSYiNG4CA/company-logo_400_400/0/1642150189320?e=1703721600&v=beta&t=omf4Ziy8Suete_GTJ3Qn1mOBS7ZrKSPido6Ld2LseBU",
+                "url": "https://www.linkedin.com/school/eindhoven-university-of-technology/"
+            },
+            "degree_name": "Master of Technological Design",
+            "field_of_study": "Applied Mathematics",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 1998
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2000
+                }
+            },
+            "school": {
+                "name": "Novosibirsk State University (NSU)",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQHwAzHMTigksA/company-logo_400_400/0/1519891687446?e=1703721600&v=beta&t=KIzQyMMDdLFzYEJ8vd23NA3jWlTTQnCR70--RwtW66w",
+                "url": "https://www.linkedin.com/school/%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D0%B8%D0%B1%D0%B8%D1%80%D1%81%D0%BA%D0%B8%D0%B9-%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9-%D1%83%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82-%D0%BD%D0%B3%D1%83-/"
+            },
+            "degree_name": "Master of Science in Mathematics",
+            "field_of_study": "Applied Mathematics, Mechanics",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 1993
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 1998
+                }
+            },
+            "school": {
+                "name": "Novosibirsk State University (NSU)",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQHwAzHMTigksA/company-logo_400_400/0/1519891687446?e=1703721600&v=beta&t=KIzQyMMDdLFzYEJ8vd23NA3jWlTTQnCR70--RwtW66w",
+                "url": "https://www.linkedin.com/school/%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D0%B8%D0%B1%D0%B8%D1%80%D1%81%D0%BA%D0%B8%D0%B9-%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9-%D1%83%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82-%D0%BD%D0%B3%D1%83-/"
+            },
+            "degree_name": "Bachelor of Science in Mathematics",
+            "field_of_study": "Applied Mathematics, Informatics",
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "NXE:3350",
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "description": "ASML as global leader of the lithography industry provides its customers with top-of-the-line scanners to produce next generation chips. Its newest series, the NXE:3350 will have an increased set of illumination settings, namely customized illumination settings, like freeform illumination and improved throughput. The NXE:3350 Metro project ensures that all system specifications are up to par, while developing quality software to control all machine actions, as well as correcting all system deficiencies. One of the project's main goals is to bridge the gap between software and hardware domains, guaranteeing optimal operation and reliability of all machines, which is needed to drive Moore's law, by delivering diverse software solutions.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Alexey",
+                    "last_name": "Balmashnov",
+                    "name": null,
+                    "headline": "Senior Design Engineer at ASML"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Steven",
+                    "last_name": "Carneiro",
+                    "name": null,
+                    "headline": "System(s) Architect | Technologist | Inventor \ud83d\udd79\ufe0f"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Ivo",
+                    "last_name": "Severens",
+                    "name": null,
+                    "headline": "Department manager Optical Column EUV bij ASML"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Bogdan-Mihai Lazar",
+                    "headline": null
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Fatih",
+                    "last_name": "Arslan",
+                    "name": null,
+                    "headline": "Software Engineer at Flow Traders"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Edwin Boon",
+                    "headline": null
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Mo",
+                    "last_name": "Z.",
+                    "name": null,
+                    "headline": "Project Manager at ASML"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Kavitha",
+                    "last_name": "Muthukrishnan",
+                    "name": null,
+                    "headline": "SF11e Setup Train architect"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Martijn",
+                    "last_name": "van der Horst",
+                    "name": null,
+                    "headline": "Senior Software Architect at ASML"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Pavol Jancura",
+                    "headline": null
+                }
+            ]
+        },
+        {
+            "title": "NXE:3350",
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "description": "ASML as global leader of the lithography industry provides its customers with top-of-the-line scanners to produce next generation chips. Its newest series, the NXE:3350 will have an increased set of illumination settings, namely customized illumination settings, like freeform illumination and improved throughput. The NXE:3350 Metro project ensures that all system specifications are up to par, while developing quality software to control all machine actions, as well as correcting all system deficiencies. One of the project's main goals is to bridge the gap between software and hardware domains, guaranteeing optimal operation and reliability of all machines, which is needed to drive Moore's law, by delivering diverse software solutions.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Alexey",
+                    "last_name": "Balmashnov",
+                    "name": null,
+                    "headline": "Senior Design Engineer at ASML"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Ivo",
+                    "last_name": "Severens",
+                    "name": null,
+                    "headline": "Department manager Optical Column EUV bij ASML"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Steven",
+                    "last_name": "Carneiro",
+                    "name": null,
+                    "headline": "System(s) Architect | Technologist | Inventor \ud83d\udd79\ufe0f"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Bogdan-Mihai Lazar",
+                    "headline": null
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Fatih",
+                    "last_name": "Arslan",
+                    "name": null,
+                    "headline": "Software Engineer at Flow Traders"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Edwin Boon",
+                    "headline": null
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Mo",
+                    "last_name": "Z.",
+                    "name": null,
+                    "headline": "Project Manager at ASML"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Kavitha",
+                    "last_name": "Muthukrishnan",
+                    "name": null,
+                    "headline": "SF11e Setup Train architect"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Martijn",
+                    "last_name": "van der Horst",
+                    "name": null,
+                    "headline": "Senior Software Architect at ASML"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Pavol Jancura",
+                    "headline": null
+                }
+            ]
+        },
+        {
+            "title": "NXE:3350",
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "description": "ASML as global leader of the lithography industry provides its customers with top-of-the-line scanners to produce next generation chips. Its newest series, the NXE:3350 will have an increased set of illumination settings, namely customized illumination settings, like freeform illumination and improved throughput. The NXE:3350 Metro project ensures that all system specifications are up to par, while developing quality software to control all machine actions, as well as correcting all system deficiencies. One of the project's main goals is to bridge the gap between software and hardware domains, guaranteeing optimal operation and reliability of all machines, which is needed to drive Moore's law, by delivering diverse software solutions.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Alexey",
+                    "last_name": "Balmashnov",
+                    "name": null,
+                    "headline": "Senior Design Engineer at ASML"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Ivo",
+                    "last_name": "Severens",
+                    "name": null,
+                    "headline": "Department manager Optical Column EUV bij ASML"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Steven",
+                    "last_name": "Carneiro",
+                    "name": null,
+                    "headline": "System(s) Architect | Technologist | Inventor \ud83d\udd79\ufe0f"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Bogdan-Mihai Lazar",
+                    "headline": null
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Fatih",
+                    "last_name": "Arslan",
+                    "name": null,
+                    "headline": "Software Engineer at Flow Traders"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Edwin Boon",
+                    "headline": null
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Mo",
+                    "last_name": "Z.",
+                    "name": null,
+                    "headline": "Project Manager at ASML"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Kavitha",
+                    "last_name": "Muthukrishnan",
+                    "name": null,
+                    "headline": "SF11e Setup Train architect"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Martijn",
+                    "last_name": "van der Horst",
+                    "name": null,
+                    "headline": "Senior Software Architect at ASML"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Pavol Jancura",
+                    "headline": null
+                }
+            ]
+        },
+        {
+            "title": "NXE:3350",
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "description": "ASML as global leader of the lithography industry provides its customers with top-of-the-line scanners to produce next generation chips. Its newest series, the NXE:3350 will have an increased set of illumination settings, namely customized illumination settings, like freeform illumination and improved throughput. The NXE:3350 Metro project ensures that all system specifications are up to par, while developing quality software to control all machine actions, as well as correcting all system deficiencies. One of the project's main goals is to bridge the gap between software and hardware domains, guaranteeing optimal operation and reliability of all machines, which is needed to drive Moore's law, by delivering diverse software solutions.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Alexey",
+                    "last_name": "Balmashnov",
+                    "name": null,
+                    "headline": "Senior Design Engineer at ASML"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Martijn",
+                    "last_name": "van der Horst",
+                    "name": null,
+                    "headline": "Senior Software Architect at ASML"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Ivo",
+                    "last_name": "Severens",
+                    "name": null,
+                    "headline": "Department manager Optical Column EUV bij ASML"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Steven",
+                    "last_name": "Carneiro",
+                    "name": null,
+                    "headline": "System(s) Architect | Technologist | Inventor \ud83d\udd79\ufe0f"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Bogdan-Mihai Lazar",
+                    "headline": null
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Fatih",
+                    "last_name": "Arslan",
+                    "name": null,
+                    "headline": "Software Engineer at Flow Traders"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Edwin Boon",
+                    "headline": null
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Mo",
+                    "last_name": "Z.",
+                    "name": null,
+                    "headline": "Project Manager at ASML"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Kavitha",
+                    "last_name": "Muthukrishnan",
+                    "name": null,
+                    "headline": "SF11e Setup Train architect"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Pavol Jancura",
+                    "headline": null
+                }
+            ]
+        },
+        {
+            "title": "NXE:3350",
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "description": "ASML as global leader of the lithography industry provides its customers with top-of-the-line scanners to produce next generation chips. Its newest series, the NXE:3350 will have an increased set of illumination settings, namely customized illumination settings, like freeform illumination and improved throughput. The NXE:3350 Metro project ensures that all system specifications are up to par, while developing quality software to control all machine actions, as well as correcting all system deficiencies. One of the project's main goals is to bridge the gap between software and hardware domains, guaranteeing optimal operation and reliability of all machines, which is needed to drive Moore's law, by delivering diverse software solutions.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Alexey",
+                    "last_name": "Balmashnov",
+                    "name": null,
+                    "headline": "Senior Design Engineer at ASML"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Martijn",
+                    "last_name": "van der Horst",
+                    "name": null,
+                    "headline": "Senior Software Architect at ASML"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Ivo",
+                    "last_name": "Severens",
+                    "name": null,
+                    "headline": "Department manager Optical Column EUV bij ASML"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Steven",
+                    "last_name": "Carneiro",
+                    "name": null,
+                    "headline": "System(s) Architect | Technologist | Inventor \ud83d\udd79\ufe0f"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Bogdan-Mihai Lazar",
+                    "headline": null
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Fatih",
+                    "last_name": "Arslan",
+                    "name": null,
+                    "headline": "Software Engineer at Flow Traders"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Edwin Boon",
+                    "headline": null
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Mo",
+                    "last_name": "Z.",
+                    "name": null,
+                    "headline": "Project Manager at ASML"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Kavitha",
+                    "last_name": "Muthukrishnan",
+                    "name": null,
+                    "headline": "SF11e Setup Train architect"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Pavol Jancura",
+                    "headline": null
+                }
+            ]
+        }
+    ],
+    "publications": [],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 3894,
+                "name": "ASML",
+                "logo": "https://media.licdn.com/dms/image/C560BAQGssQfw50QsaQ/company-logo_400_400/0/1519855871260?e=1703721600&v=beta&t=Dy9d-y1YEURWKW9gwgee0M1kiJhHIn_5C8HeOomdIr8",
+                "url": "https://www.linkedin.com/company/asml/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Veldhoven, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2017
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "ASML",
+                    "description": null,
+                    "title": "Senior Design Engineer",
+                    "employment_type": null
+                },
+                {
+                    "location": "Veldhoven, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2011
+                        },
+                        "end": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2017
+                        }
+                    },
+                    "company": "ASML",
+                    "description": null,
+                    "title": "Design Engineer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "TMC Physics",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2009
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2010
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2009
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2010
+                        }
+                    },
+                    "company": "TMC Physics",
+                    "description": null,
+                    "title": "Development Engineer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "The Foundation for Fundamental Research on Matter (FOM)",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2005
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2008
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2005
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2008
+                        }
+                    },
+                    "company": "The Foundation for Fundamental Research on Matter (FOM)",
+                    "description": "Carrying out research in the project \"Tailoring of processable metastable steels\" aimed at micro-mechanical modeling of metastable austenitic stainless steels. Main activities:\n* Development, implementation, and verification of micro-mechanical model within multi-scale computational homogenisation framework using finite element analysis techniques\n* Simulations of representative cases, analysis of obtained results, comparison with experimantal observations\n* Communication of the obtained results within research group, research cluster, and broader community via participation in various events like conferences\n* Mentoring of master students",
+                    "title": "PhD Reseacher",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 4838,
+                "name": "Eindhoven University of Technology",
+                "logo": "https://media.licdn.com/dms/image/C560BAQG4PGSYiNG4CA/company-logo_400_400/0/1642150189320?e=1703721600&v=beta&t=omf4Ziy8Suete_GTJ3Qn1mOBS7ZrKSPido6Ld2LseBU",
+                "url": "https://www.linkedin.com/school/eindhoven-university-of-technology/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2001
+                },
+                "end": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2004
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2003
+                        },
+                        "end": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2004
+                        }
+                    },
+                    "company": "Eindhoven University of Technology",
+                    "description": "Being an assistant in technological design (with orientation towards Technical Applications), I was carrying out an extension of the final project for Oc\u00e9 Technologies B.V, Research and Development",
+                    "title": "Research Assistent (TWAIO:Technisch wetenschappelijk assisten in opleiding)",
+                    "employment_type": null
+                },
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2001
+                        },
+                        "end": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2003
+                        }
+                    },
+                    "company": "Eindhoven University of Technology",
+                    "description": "Studying applied mathematics, performing research activities in diverse industry-oriented modeling projects:\n* \"Heat Transport Simulation in the Fuse Nip of a Copier. A Study for improving Waddif\" (Oc\u00e8 Technologies B.V, Research and Development), determination of modeling flaws\n* \"Forefoot Motion\" (Support project within PhD Research at Biomechanics Laboratory Brussels, Vrije Universiteit Brussel for RSscan INTERNATIONAL), comprehensive experimental data analysis\n* \"A Simulation Tool for Heat Transport in Layered Media\" (Oc\u00e8 Technologies B.V), Final Project, C++ implementation of 2-D heat-diffusion model for an arbitrary system of belts, heating and cooling elements in a copying machine",
+                    "title": "Research Assistent (TWAIO:Technisch wetenschappelijk assisten in opleiding)",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Regional Center of Information Technologies, Novosibirsk, Russia",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 1999
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2001
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 1999
+                        },
+                        "end": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2001
+                        }
+                    },
+                    "company": "Regional Center of Information Technologies, Novosibirsk, Russia",
+                    "description": "Development of databases and database applications",
+                    "title": "Chief Programmer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Mining Institute, Siberian Branch of Russian Academy of Science",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 1997
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2001
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 1997
+                        },
+                        "end": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2001
+                        }
+                    },
+                    "company": "Mining Institute, Siberian Branch of Russian Academy of Science",
+                    "description": "Development of applications for\n* Numerical modeling of material deformation processes\n* Analyzing and storing of an experimental information",
+                    "title": "Research Assistant",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Fortran",
+        "Matlab",
+        "Finite Element Analysis",
+        "Simulations",
+        "Numerical Analysis",
+        "Modeling",
+        "C++",
+        "Programming",
+        "Applied Mathematics",
+        "Data Analysis",
+        "LaTeX",
+        "Mathematical Modeling",
+        "Mathematica",
+        "Numerical Simulation",
+        "Physics"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

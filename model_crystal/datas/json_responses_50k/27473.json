@@ -1,0 +1,610 @@
+{
+    "profile_id": "sayris-horta",
+    "first_name": "Sayris",
+    "last_name": "Horta",
+    "sub_title": "Business Analyst",
+    "profile_picture": "https://media.licdn.com/dms/image/C4D03AQFU5YBOBC15tg/profile-displayphoto-shrink_800_800/0/1588345328523?e=1701302400&v=beta&t=8OMLzcqQNqaXe5igTaNFt7dj5VffQFHHtwSYfVN_6dI",
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAABk45LoByWIdJjAeNsRl4QJAwl1IYcOMFkw",
+    "object_urn": 423158970,
+    "birth_date": null,
+    "summary": "Driven, focused and highly motivated professional. Armed with strong analytical skills and work ethics to deliver excellent results.",
+    "location": {
+        "country": "Netherlands",
+        "short": "Amsterdam, North Holland",
+        "city": "Amsterdam",
+        "state": "North Holland",
+        "default": "Amsterdam, North Holland, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "Dutch",
+                "proficiency": "LIMITED_WORKING"
+            },
+            {
+                "name": "English",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "Spanish",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ]
+    },
+    "industry": "Marketing & Advertising",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2010
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "school": {
+                "name": "Kean University",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQGwjrS5v1dZ4A/company-logo_400_400/0/1519899951531?e=1703721600&v=beta&t=zlYhcrJJCABkP6iFAtYfdia1VZb06LO3isiI1wBXEBk",
+                "url": "https://www.linkedin.com/school/kean-university/"
+            },
+            "degree_name": "Bachelor of Arts (B.A.)",
+            "field_of_study": "Mathematical Sciences",
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [
+        {
+            "name": "Bigquery Basics: Selecting, sorting and filtering",
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Studybol",
+            "url": "http://file:///C:/Users/shorta/Downloads/Certificaat_sayris_horta_bigquery_basics_selecting_sorting_and_filtering%20(1).pdf",
+            "license_number": "mBJmnnbr",
+            "display_source": null,
+            "company": null
+        },
+        {
+            "name": "Data manipulation with Pandas",
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "DataCamp",
+            "url": "https://www.datacamp.com/statement-of-accomplishment/course/4e88107710de7040cfb395a53967238cc82ef6d7",
+            "license_number": "23310809",
+            "display_source": "datacamp.com",
+            "company": {
+                "id": null,
+                "name": "DataCamp",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQHoE9F6A76mOQ/company-logo_400_400/0/1603188329234/datacampinc_logo?e=1703721600&v=beta&t=OKpjiC_XGHuZChWClkx-UgfcVc-xd1_3nV1iy7O14Mk",
+                "url": null
+            }
+        },
+        {
+            "name": "Intermediate Python",
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "DataCamp",
+            "url": "https://www.datacamp.com/statement-of-accomplishment/course/f4db16449f1c608ea080b0553635941065f17fb2",
+            "license_number": "23278649",
+            "display_source": "datacamp.com",
+            "company": {
+                "id": null,
+                "name": "DataCamp",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQHoE9F6A76mOQ/company-logo_400_400/0/1603188329234/datacampinc_logo?e=1703721600&v=beta&t=OKpjiC_XGHuZChWClkx-UgfcVc-xd1_3nV1iy7O14Mk",
+                "url": null
+            }
+        },
+        {
+            "name": "Introduction to Programming Using Python",
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "DataCamp",
+            "url": "https://www.datacamp.com/statement-of-accomplishment/course/a05469c09e94ef7411c2a4360ee7cd709592d7d5",
+            "license_number": "23052473",
+            "display_source": "datacamp.com",
+            "company": {
+                "id": null,
+                "name": "DataCamp",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQHoE9F6A76mOQ/company-logo_400_400/0/1603188329234/datacampinc_logo?e=1703721600&v=beta&t=OKpjiC_XGHuZChWClkx-UgfcVc-xd1_3nV1iy7O14Mk",
+                "url": null
+            }
+        },
+        {
+            "name": "Google Ads Fundamentals",
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "authority": "PPC Freelancer - Google Ads - Facebook Ads - SEM",
+            "url": null,
+            "license_number": "13995065",
+            "display_source": null,
+            "company": {
+                "id": null,
+                "name": "PPC Freelancer - Google Ads - Facebook Ads - LinkedIn Ads",
+                "logo": "https://media.licdn.com/dms/image/C560BAQHPeqYouQl0ow/company-logo_400_400/0/1530432710962/ppcfreelancer_logo?e=1703721600&v=beta&t=Xqt5JKf4cgqNmiebgPtM2ACjGEriXt7vVmPa99c4ImE",
+                "url": null
+            }
+        }
+    ],
+    "organizations": [],
+    "projects": [],
+    "publications": [],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 11699,
+                "name": "bol.com",
+                "logo": "https://media.licdn.com/dms/image/C560BAQHxdrFFwmdbMQ/company-logo_400_400/0/1560243954004/bol_com_logo?e=1703721600&v=beta&t=-Bsy1qw1z6nMRX_pN8py6-Nhh2TwJshkzfja2Ebd4cw",
+                "url": "https://www.linkedin.com/company/bol-com/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Utrecht, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2023
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "bol.com",
+                    "description": null,
+                    "title": "Data Analyst",
+                    "employment_type": "Full-time"
+                },
+                {
+                    "location": "Utrecht, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2023
+                        }
+                    },
+                    "company": "bol.com",
+                    "description": null,
+                    "title": "Business Analyst - Marketing",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 3748,
+                "name": "adidas",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQGCfxj85VyrNA/company-logo_400_400/0/1688526663698/adidas_logo?e=1703721600&v=beta&t=E4QAjyAcx7P-c1q_kVEtvX6sl2xZOzpopuldsP-1Hao",
+                "url": "https://www.linkedin.com/company/adidas/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amsterdam, North Holland, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2020
+                        },
+                        "end": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "adidas",
+                    "description": "Build a foundation for the partnerships marketing team continuous improvement by introducing efficient processes, technologies, metrics and best practices\n\n\u2022\tBuilt, improved, and maintained processes to support and visualize over 20% growth of the Partnership Marketing team by introducing efficient processes, technologies, metrics and best practices.\n\u2022\tSpecialized in designing, creating, and maintaining performance dashboards using Alteryx and Excel to provide weekly performance insights tailored to needs of 3 Partnership Marketing sub-teams.\n\u2022\tLead dashboard creation end-to-end, starting with clearly understanding stakeholders needs, followed by gathering, preparing, and automating dataflow and finally translating prioritized needs into an intuitive dashboard design\n\u2022\tSet up Adidas Gift Card's dashboard to create a holistic management view to include and visualize sales data from all partners by using partner's platform raw data output. The dashboard is an intermediary solution to generates insights for gift cards team and support invoicing while collaborating with Adidas analytics team to include missing details in analytics\u2019 dashboards\n\u2022\tSynthesized insights from dashboards and present these to Partnership Marketing Team on a monthly basis next to providing weekly performance update reports (by email)\n\u2022\tDesigned and implemented new automated operational processes for invoicing Adidas gift cards, saving ~1 FTE using Excel Macros and Alteryx workflows in close collaboration with several adidas departments and teams (GBS, Finance AMS, Customer data, Cash-App, Process)",
+                    "title": "Assistant Manager Operations - Partnerships Marketing",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 13026367,
+                "name": "ForwardPMX",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQHRWhbcZCIOug/company-logo_400_400/0/1634133115830/forwardpmx_logo?e=1703721600&v=beta&t=X20o84tiC2-N3CSE9mhYDRzcbKtRPyHWuUB0mUp8qPs",
+                "url": "https://www.linkedin.com/company/forwardpmx/",
+                "employees": {
+                    "start": 501,
+                    "end": 1000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "One World Trade Center",
+                    "date": {
+                        "start": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "ForwardPMX",
+                    "description": "Developed digital media strategies for clients to help solve their business challenges such as brand lift, profitability, market penetration and growth.\n\u2022 Analyzed competition\u2019s digital behavior, product offering, positioning and the overall market to formulate a coherent media strategy for our clients\n\u2022 Analyzed large data sets (1st and 3th party) to understand customer behavior, target segments and product preferences\n\u2022 Translate media strategy into a concrete media plan in collaboration with the various media teams\n\u2022 Managed several projects and bridged collaboration between the clients, media teams and the strategy team\n\u2022 Helped design a new audience analysis tool that identifies ideal customer characteristics to execute media on",
+                    "title": "Analyst, Strategy ",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 3432,
+                "name": "New York Life Insurance Company",
+                "logo": "https://media.licdn.com/dms/image/C560BAQFphKpPVUR_sg/company-logo_400_400/0/1519856520363?e=1703721600&v=beta&t=he4WVxiz-7g2yawz14HEs4NYVN1n4WD0boCQ8bs-45Q",
+                "url": "https://www.linkedin.com/company/newyorklife/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Grater New York Area",
+                    "date": {
+                        "start": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2017
+                        }
+                    },
+                    "company": "New York Life Insurance Company",
+                    "description": "Created a tailored made financial plan in cooperation with clients to incorporate a financial product that will suit their needs and will help them reach their financial goals.\n\u2022\tDirected sales presentations and explained features of policies to prospects and clients\n\u2022\tParticipated in educational classes about insurance and investment products  \n\u2022\tTransitioned prospects into clients and clients into relationships",
+                    "title": "Agent",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 5120,
+                "name": "AXA Advisors, LLC",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQEcGAM6rKaXSQ/company-logo_400_400/0/1545080322961/axa_advisors_logo?e=1703721600&v=beta&t=cj14ymw1WUE-FLS3vEABpdncDzoAvHRQOJlerIIAE-k",
+                "url": "https://www.linkedin.com/company/axa-advisors/",
+                "employees": {
+                    "start": 5001,
+                    "end": 10000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Edison, NJ",
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2016
+                        }
+                    },
+                    "company": "AXA Advisors, LLC",
+                    "description": "Revised and organized advisor\u2019s files of their clients to assure files fulfill all requirements for compliance purposes. \nAssisted in transitioning paper files to electronic files by using APL software.\n\u2022\tAcquired the following licenses: Life, Accident and Health Insurance, Series 63\n\u2022\tAttended advisor\u2019s sales meetings and quickly digested technical and fundamental market information",
+                    "title": "Intern",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1662,
+                "name": "L'Or\u00e9al",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQFEB_g-FWxSrQ/company-logo_400_400/0/1688397791729/loral_logo?e=1703721600&v=beta&t=lmUS0eZ3wgOD4-3nJQgLtGC7NnwSfSYxNh1lIch6qyE",
+                "url": "https://www.linkedin.com/company/lor%C3%A9al/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": 2016
+                        }
+                    },
+                    "company": "L'Or\u00e9al",
+                    "description": "Collaborated with scientists by producing, organizing and analyzing quantitative data from a variety of lab studies. The evaluation, formulation and innovation of new/existing beauty products resulted from our joint work. \n\u2022\tCarried out experiments on human subjects to collect data using specialized laboratory equipment\n\u2022\tAnalyzed data by using the following programs: Excel, Matlab, ImagePro, \n\u2022\tCooperated with other labs to prepare and finish reports on specific beauty products",
+                    "title": "Lab Study Coordinator",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 164559,
+                "name": "Jumpstart",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQFyvKoH-ad6Tg/company-logo_400_400/0/1589479612090/jumpstart_logo?e=1703721600&v=beta&t=TnPknVKHvjm52Q_0qSNeLI2qbVkGIpJv8ph9RngMeKA",
+                "url": "https://www.linkedin.com/company/jumpstart/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Greater New York City Area",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2013
+                        },
+                        "end": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2014
+                        }
+                    },
+                    "company": "Jumpstart",
+                    "description": "Implemented early childhood curriculum\nIndividualized attention and positive adult-child relationships to prepare children attending\npreschool in low-income neighborhoods for school success.\nPromoted children\u2019s language and literacy skills through ongoing relationships with insert number of preschool children\nCollaborated with a team of six Corps members to plan twice weekly inclassroom activities for a class of fifteen preschool children.\nReceived intensive training and professional development in early childhood theory and practice,\nlanguage and literacy development, leadership skills, and communication with families.",
+                    "title": "Corps Member",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Kean University",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "United States",
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2011
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2013
+                        }
+                    },
+                    "company": "Kean University",
+                    "description": "Provided tutoring services to students with Mathematics and English deficiencies \nPrepared and updated students and staff files required for the program enrollment\nClosely worked with parents and schools to closely monitor the progress of each student\nPromoted the project objectives in the community to draw new student members\nHandled high volume of phone calls, e-mails as well as fax, copy and file documentation\nPrepare and monitored students development reports\nperformed other administrative duties as needed",
+                    "title": "Project Adelante Teacher Assistant",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Customer Service",
+        "Public Speaking",
+        "Microsoft Office",
+        "Social Media",
+        "Microsoft Excel",
+        "Microsoft Word",
+        "Spanish",
+        "Teaching",
+        "Marketing",
+        "Sales",
+        "Leadership",
+        "Marketing Strategy",
+        "Strategic Planning",
+        "Time Management",
+        "Social Networking",
+        "Data Analysis",
+        "Image Analysis",
+        "Microsoft PowerPoint",
+        "Teamwork",
+        "Google Analytics"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

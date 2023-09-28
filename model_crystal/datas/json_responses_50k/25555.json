@@ -1,0 +1,717 @@
+{
+    "profile_id": "robwieggers",
+    "first_name": "Rob",
+    "last_name": "Wieggers",
+    "sub_title": "Source Performance Integration Engineer at ASML",
+    "profile_picture": "https://media.licdn.com/dms/image/C4D03AQEU_SQ6dX4rBw/profile-displayphoto-shrink_800_800/0/1516565445565?e=1701302400&v=beta&t=nqjZJQ_CmrBhE_z3IZbqd13JJmK7lNuKj68f4bJdfUk",
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAAAMfFJoB0N97USJUaGQWPgUL-BIlKpdHfDI",
+    "object_urn": 52368538,
+    "birth_date": null,
+    "summary": "I'm a driven person with an affinity for science and a natural interest in the way research and innovation advance industry. I take great satisfaction in solving complex problems using smart algorithms and/or high performance computing.\nExperienced in new product development, understanding complex domains, shaping of and communication with multidisciplinary teams.",
+    "location": {
+        "country": "Netherlands",
+        "short": "The Randstad, Netherlands",
+        "city": "The Randstad",
+        "state": "Netherlands",
+        "default": "The Randstad, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "Dutch",
+                "proficiency": null
+            },
+            {
+                "name": "English",
+                "proficiency": null
+            }
+        ]
+    },
+    "industry": "Research",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2007
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "school": {
+                "name": "Eindhoven University of Technology",
+                "logo": "https://media.licdn.com/dms/image/C560BAQG4PGSYiNG4CA/company-logo_400_400/0/1642150189320?e=1703721600&v=beta&t=omf4Ziy8Suete_GTJ3Qn1mOBS7ZrKSPido6Ld2LseBU",
+                "url": "https://www.linkedin.com/school/eindhoven-university-of-technology/"
+            },
+            "degree_name": "Doctor of Philosophy (PhD)",
+            "field_of_study": "Plasma physics",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2000
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2007
+                }
+            },
+            "school": {
+                "name": "Utrecht University",
+                "logo": "https://media.licdn.com/dms/image/C510BAQG6HfmPTdJKXw/company-logo_400_400/0/1519884681258?e=1703721600&v=beta&t=dip0JQLPHIafltY09rUwsjeZiPiJpmfD6vJeMHxW-84",
+                "url": "https://www.linkedin.com/school/universiteit-utrecht/"
+            },
+            "degree_name": "Master of Science (MSc)",
+            "field_of_study": "Computational Science",
+            "grade": null
+        }
+    ],
+    "patents": [
+        {
+            "inventors": [
+                {
+                    "first_name": "Rob",
+                    "last_name": "Wieggers",
+                    "headline": "Source Performance Integration Engineer at ASML",
+                    "profile_picture": "https://media.licdn.com/dms/image/C4D03AQEU_SQ6dX4rBw/profile-displayphoto-shrink_800_800/0/1516565445565?e=1701302400&v=beta&t=nqjZJQ_CmrBhE_z3IZbqd13JJmK7lNuKj68f4bJdfUk"
+                },
+                {
+                    "first_name": "Fred",
+                    "last_name": "Bijkerk",
+                    "headline": "Science and Valorisation Advisor XUV Optics at the University of Twente",
+                    "profile_picture": "https://media.licdn.com/dms/image/C4D03AQGRbbmH0-rn8A/profile-displayphoto-shrink_800_800/0/1516513710824?e=1701302400&v=beta&t=sSCxhbtrwGXGrQnqHvt4oXsfvLvkdlNbxmAyA33G1iI"
+                }
+            ],
+            "patent_number": "PCT/NL2008/050390",
+            "title": "METHOD FOR PROTECTING AN OPTICAL ELEMENT IN A RADIATION SOURCE FOR ELECTROMAGNETIC RADIATION WITH A WAVELENGTH IN THE EXTREME ULTRAVIOLET (XUV) WAVELENGTH RANGE, AND RADIATION SOURCE",
+            "issuer": "eu",
+            "date": {
+                "month": 6,
+                "day": 17,
+                "year": 2008
+            },
+            "application_number": null
+        }
+    ],
+    "awards": [],
+    "certifications": [],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "Eunomia",
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2009
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "description": "Eunomia is a three-dimensional parallel non-linear Monte Carlo code to simulate neutral species in nuclear fusion devices such as tokamak divertors and linear plasma devices. Eunomia has been coupled to the B2.5 multi-fluid plasma code, part of the SOLPS code package. B2.5-Eunomia successfully reproduced measurements of the linear plasma experiment Pilot-PSI and improved understanding of the role of electric currents in such experiments. Ongoing work will focus on appication to tokamak divertors, further incorperation of the collisional-radiative model and extensions to the surface interaction models.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Rob",
+                    "last_name": "Wieggers",
+                    "name": null,
+                    "headline": "Source Performance Integration Engineer at ASML"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Pieter Willem",
+                    "last_name": "Groen",
+                    "name": null,
+                    "headline": "Lead Software Engineer at DIFFER - Dutch Institute for Fundamental Energy Research"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Hugo de Blank",
+                    "headline": null
+                }
+            ]
+        },
+        {
+            "title": "Infrastructure for scientific communities",
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2009
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "description": "Establishing communication and development infrastructure in a scientific multi-user and multi-project environment with MediaWiki and Subversion software.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Rob",
+                    "last_name": "Wieggers",
+                    "name": null,
+                    "headline": "Source Performance Integration Engineer at ASML"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Oliver",
+                    "last_name": "Lischtschenko",
+                    "name": null,
+                    "headline": "Spectroscopy partner of Europe's researchers"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "John Scholten",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Wolf Weymiens",
+                    "headline": null
+                }
+            ]
+        }
+    ],
+    "publications": [
+        {
+            "name": "Simulation of the Neutral Inventory in the Pilot-PSI Beam",
+            "publisher": "Contributions to Plasma Physics",
+            "url": "http://dx.doi.org/10.1002/ctpp.201210030",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2012
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Rob",
+                    "last_name": "Wieggers",
+                    "name": null,
+                    "headline": "Source Performance Integration Engineer at ASML"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Pieter Willem",
+                    "last_name": "Groen",
+                    "name": null,
+                    "headline": "Lead Software Engineer at DIFFER - Dutch Institute for Fundamental Energy Research"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Hugo de Blank",
+                    "headline": null
+                }
+            ]
+        },
+        {
+            "name": "A particle-in-cell plus Monte Carlo study of plasma-induced damage of normal incidence collector optics used in extreme ultraviolet lithography",
+            "publisher": "Journal of Apllied Physics",
+            "url": "http://dx.doi.org/10.1063/1.2829783",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2007
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Rob",
+                    "last_name": "Wieggers",
+                    "name": null,
+                    "headline": "Source Performance Integration Engineer at ASML"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Reda Akdim",
+                    "headline": null
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Eric",
+                    "last_name": "Louis",
+                    "name": null,
+                    "headline": "Retired Senior Researcher XUV Optics at the University of Twente"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Fred",
+                    "last_name": "Bijkerk",
+                    "name": null,
+                    "headline": "Science and Valorisation Advisor XUV Optics at the University of Twente"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Paul Zegeling",
+                    "headline": null
+                }
+            ]
+        },
+        {
+            "name": "Plasma-induced damage of multilayer coatings in EUVL",
+            "publisher": "SPIE Proceedings",
+            "url": "http://dx.doi.org/10.1117/12.724889",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2007
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Rob",
+                    "last_name": "Wieggers",
+                    "name": null,
+                    "headline": "Source Performance Integration Engineer at ASML"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Eric",
+                    "last_name": "Louis",
+                    "name": null,
+                    "headline": "Retired Senior Researcher XUV Optics at the University of Twente"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Fred",
+                    "last_name": "Bijkerk",
+                    "name": null,
+                    "headline": "Science and Valorisation Advisor XUV Optics at the University of Twente"
+                }
+            ]
+        },
+        {
+            "name": "B2.5-Eunomia simulations of Pilot-PSI plasmas",
+            "publisher": "Journal of Nuclear Materials",
+            "url": "http://dx.doi.org/10.1016/j.jnucmat.2013.01.135",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": null
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Rob",
+                    "last_name": "Wieggers",
+                    "name": null,
+                    "headline": "Source Performance Integration Engineer at ASML"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "David",
+                    "last_name": "Coster",
+                    "name": null,
+                    "headline": "Group Leader at Max Planck Institute for Plasma Physics"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Pieter Willem",
+                    "last_name": "Groen",
+                    "name": null,
+                    "headline": "Lead Software Engineer at DIFFER - Dutch Institute for Fundamental Energy Research"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Hugo de Blank",
+                    "headline": null
+                }
+            ]
+        }
+    ],
+    "courses": [
+        {
+            "name": "9th Carolus Magnus Summer School on Plasma and Fusion Energy Physics, Herbeumont, Belgium (2009)",
+            "number": null
+        },
+        {
+            "name": "GOTiT: Modern Programming and Visualization Techniques, Garching, Germany (2010)",
+            "number": null
+        },
+        {
+            "name": "GOTiT: Optimization and Parallel Computing, Culham, United Kingdom (2009)",
+            "number": null
+        },
+        {
+            "name": "GOTiT: Single Particle Physics and Monte-Carlo Methods, Stockholm, Sweden and Espoo, Finland (2009)",
+            "number": null
+        },
+        {
+            "name": "Nyenrode Business Orientation Program, Breukelen, The Netherlands (2011)",
+            "number": null
+        },
+        {
+            "name": "Promotie in Eigen Regie, Utrecht, The Netherlands (2008)",
+            "number": null
+        },
+        {
+            "name": "The Art of Presenting Science, Utrecht, The Netherlands (2009)",
+            "number": null
+        }
+    ],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": null,
+                "name": "ASML",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Veldhoven",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2017
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "ASML",
+                    "description": null,
+                    "title": "Source Performance Integration Engineer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 588674,
+                "name": "eVision Industry Software",
+                "logo": "https://media.licdn.com/dms/image/C560BAQE8xZUwL-NTdg/company-logo_400_400/0/1605792168970?e=1703721600&v=beta&t=WokWCnP_BGdklsTzDSuJ-lI5L7azUMdlNckUgxEj0hs",
+                "url": "https://www.linkedin.com/company/evisionsoftware/",
+                "employees": {
+                    "start": 501,
+                    "end": 1000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2016
+                        }
+                    },
+                    "company": "eVision Industry Software",
+                    "description": "As one of the members in the R&D team I am responsible for the development of new products or new features for existing products. The product I currently work on deals with automated interpretation of piping and instrumentation diagrams (P&IDs) to improve the efficiency and user experience for clients.\nMy roles in the team include the interpretation of P&IDs (detection of shapes, interpretation), flow master and I play a central role in the translation of the requirements of the stake holders into a solid solution within the complex domain of P&IDs and our Control of Work system.",
+                    "title": "Imaging Developer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "ORTEC",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Zoetermeer / Amsterdam",
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2013
+                        },
+                        "end": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2015
+                        }
+                    },
+                    "company": "ORTEC",
+                    "description": "ORTEC Sports, part of ORTEC Living Data, develops decision, support & information ICT-Systems to analyze sport performances. These software systems are employed before, during and after sport matches. During a match, they are used to measure teams\u2019 and players\u2019 performances. The various actions that occur during a match are joined in video images and are valued systematically. Following top athletes and talents by their clubs, teams, sponsors, unions and the public has been brought to a whole new dimension because of these systems. I work on the next generation software systems that will enable more detailed sports analysis.",
+                    "title": "Medior Software Engineer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 2587360,
+                "name": "imgZine",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQFosePN1qe9-w/company-logo_400_400/0/1533540286099?e=1703721600&v=beta&t=uzU7jOoUdksgjO7xLq6r0eavowBX6zufcdg7qFJW6WY",
+                "url": "https://www.linkedin.com/company/ortecforcommunications/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amsterdam Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2013
+                        },
+                        "end": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2014
+                        }
+                    },
+                    "company": "ORTEC for Communications",
+                    "description": "imgZine, part of ORTEC Living Data, delivers a flexible smart publishing platform. My function included analysis of the source of issues in the platform. Depending on the issue at hand, I solved it myself, or informed front-end or back-end developers. Key results: I improvements the targeting system (for ads, push notifications and more), I made developers more efficient by analyzing the source of the problem for them and reduced the number of issues appointed to them, and I restructured the tickeing system.",
+                    "title": "Platform Manager",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 2511291,
+                "name": "FOM Institute DIFFER",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQE7lICmEIhxRQ/company-logo_400_400/0/1607425751791?e=1703721600&v=beta&t=oNTJkxZB-oM70J0Vyx0E1I6FxbwN5xxMOXYm2eXvt3A",
+                "url": "https://www.linkedin.com/company/differenergy/",
+                "employees": {
+                    "start": 201,
+                    "end": 500
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2007
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Nieuwegein, The Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2007
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2012
+                        }
+                    },
+                    "company": "DIFFER - Dutch Institute for Fundamental Energy Research",
+                    "description": "PhD student in the Computational Plasma Physics group within the Plasma Surface Interaction department.\nDuring my PhD project I developed a Monte Carlo code, called Eunomia, to simulate neutral particles in linear devices and divertor plasmas in fusion reactors. I coupled this code to B2.5, a multi-fluid code describing the plasma. B2.5-Eunomia results reproduce experimental measurements of Pilot-PSI and improved understanding of the electric currents in this device. This gave new insights in the ion impact energy, an essential parameter in plasma surface interaction studies for futsion devices.\n\nThesis available at: http://dx.doi.org/10.6100/IR741230",
+                    "title": "PhD student",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "FOM Institute for Plasma Physics Rijnhuizen",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2006
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2007
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Nieuwegein, The Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2006
+                        },
+                        "end": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2007
+                        }
+                    },
+                    "company": "FOM Institute for Plasma Physics Rijnhuizen",
+                    "description": "During an internship at the nSI department of FOM Rijnhuizen I developed a 1d3v Particle-in-Cell code to study the photon-induced plasma in front of multilayer mirrors used in the EUV industry. The parallel C code solves the Poisson equation over time during the production and break down of the argon or hydrogen plasma. The results provide information on sputtering damage to and lifetime of the delicate multilayer mirrors used in EUV lithography.\nThe work resulted in patent (2009/002161), 2 publications (http://dx.doi.org/10.1117/12.724889, http://dx.doi.org/10.1063/1.2829783) and has been presented in an oral presentation at the SPIE conference 2007 in Prague, Czech Republic.",
+                    "title": "Master student",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "role": "Trainer/coach",
+            "company": {
+                "id": null,
+                "name": "bulls",
+                "logo": null,
+                "url": null
+            },
+            "cause": null,
+            "description": null
+        }
+    ],
+    "skills": [
+        "Scientific Computing",
+        "Science",
+        "Plasma Physics",
+        "Computational Physics",
+        "Computational Modeling",
+        "Physics",
+        "LaTeX",
+        "Numerical Simulation",
+        "Fortran",
+        "Fortran 95",
+        "C",
+        "Matlab",
+        "Linux",
+        "Shell Scripting",
+        "English",
+        "Dutch",
+        "Kinetic Modeling",
+        "High Performance Computing",
+        "OpenMPI",
+        "Deductive Reasoning"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

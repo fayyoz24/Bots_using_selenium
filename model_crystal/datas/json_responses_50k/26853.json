@@ -1,0 +1,755 @@
+{
+    "profile_id": "sbelko",
+    "first_name": "Seddik",
+    "last_name": "Belkoura",
+    "sub_title": "Data Science Specialist at EUROCONTROL MUAC",
+    "profile_picture": null,
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAABJN8k8BR6nVJ6CijDdbSQpZBJ12rqxOYAI",
+    "object_urn": 307098191,
+    "birth_date": null,
+    "summary": "While the science behind data science and complex networks is profoundly linked to mathematics (statistics but also more complex frameworks as might be non-linear dynamics) and informatics (programming, optimization, etc) - an important part of their application to any real-world problem is derived from physics: the ability to understand results within a specific context and conversely; to translate operational problematic in technical form. This ability to switch \"willy-nilly\" between the technical frameworks and the real-world situations is key in effective and good research.   ",
+    "location": {
+        "country": "Netherlands",
+        "short": "Maastricht, Limburg",
+        "city": "Maastricht",
+        "state": "Limburg",
+        "default": "Maastricht, Limburg, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "FR",
+            "language": "fr"
+        },
+        "supported_locales": [
+            {
+                "country": "FR",
+                "language": "fr"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "Allemand",
+                "proficiency": "ELEMENTARY"
+            },
+            {
+                "name": "Arabe",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "Espagnol",
+                "proficiency": "FULL_PROFESSIONAL"
+            },
+            {
+                "name": "Fran\u00e7ais",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "anglais",
+                "proficiency": "FULL_PROFESSIONAL"
+            }
+        ]
+    },
+    "industry": "Aviation & Aerospace",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2010
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "school": {
+                "name": "Ecole Nationale Sup\u00e9rieure des Mines de Nancy",
+                "logo": "https://media.licdn.com/dms/image/C510BAQFzCfkPtSO81A/company-logo_400_400/0/1519894503007?e=1703721600&v=beta&t=1W03_37ZpIfhjZL9mNliGZZaitA9XKFtywJNnOjEugM",
+                "url": "https://www.linkedin.com/school/ecole-nationale-sup%C3%A9rieure-des-mines-de-nancy/"
+            },
+            "degree_name": "Engineer's degree",
+            "field_of_study": "Applied Mathematics",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "school": {
+                "name": "Universit\u00e9 Paris Cit\u00e9",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQFnUISSfLZInw/company-logo_400_400/0/1685607076134/universit_paris_cit_logo?e=1703721600&v=beta&t=_xPi1ydvcze_x_i426ernZzlL8f6G8wBKiHAPgUspzI",
+                "url": "https://www.linkedin.com/school/universit%C3%A9-paris-cit%C3%A9/"
+            },
+            "degree_name": "Master's degree",
+            "field_of_study": "Applied mathematics to Biology",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "school": {
+                "name": "Massachusetts Institute of Technology",
+                "logo": "https://media.licdn.com/dms/image/D560BAQH-UXRfIDIKug/company-logo_400_400/0/1689799728670/mit_logo?e=1703721600&v=beta&t=0hTO1Z3HV5vnMg5QLPSHGZ_KYFVOOWJNdXfS45HnDHo",
+                "url": "https://www.linkedin.com/school/mit/"
+            },
+            "degree_name": "On-Line course (2 months)",
+            "field_of_study": "Tackling the Challenges of Big Data ",
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [
+        {
+            "title": "SESAR Joint Undertaking Young Scientific Award (3rd place)",
+            "description": "https://youtu.be/8uV5wGdBlh8",
+            "issuer": null,
+            "date": {
+                "month": 12,
+                "day": null,
+                "year": 2017
+            }
+        },
+        {
+            "title": "INC Grant (Institute of Neurosciences and Cognition)",
+            "description": "INC funding (Institut of Neuroscience and Cognition) for pluridisciplinary research interships",
+            "issuer": "Institute of Neurosciences and Cognition",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": null
+            }
+        }
+    ],
+    "certifications": [],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "Trajectory Prediction Improvementy (TPI)",
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "description": "Research and development of machine learning algorithms to improve the accuracy of flight trajectory 4D predictions - both for un-tracked (only flight plan is available) or tracked (a portion of the flight has already been overflown and tracked) situations. \n- Algorithms should improve current solutions (both in accuracy and in sector sequence adherence)\n- Algorithms should be usable in an operational environment ",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Seddik",
+                    "last_name": "Belkoura",
+                    "name": null,
+                    "headline": "Data Science Specialist at EUROCONTROL MUAC"
+                }
+            ]
+        },
+        {
+            "title": "SAFECLOUDS",
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "description": "SafeClouds aim is to improve aviation safety by developing big data tools. It builds a coordinated platform to combine and share data among different aviation actors. \n\nRole: Analytic WP leader\n\n- Coordinate the work package of data analysis: project planification and agile SCRUM master.\n- Collaborate in the design of a scalable and adapted structure for Big Data. \n- Formulate a data mining problem in function of the stakeholders needs. \n- Elaborate a strategy conduct the knowledge discovery process (e.g. how to deal with the low frequency of safety issues: unbalanced class, etc.)\n- Understand the adjustments/actions for a final product implementation. ",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Seddik",
+                    "last_name": "Belkoura",
+                    "name": null,
+                    "headline": "Data Science Specialist at EUROCONTROL MUAC"
+                }
+            ]
+        },
+        {
+            "title": "DATASET",
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "description": "The customary focus on flights management left another primordial dimension of the ATM system unexplored: the passengers. DATASET2050 puts the passenger at the centre, paving the way for a seamless, efficient door-to-door travelling experience. The main focus is put on analysing how the European transport supply profile (capacity, connections, business models, regulations, intermodality, processes, infrastructure) adapts to the evolution of the demand profile (customers, demographics, passenger expectations, requirements) for the current, 2035 and 2050 transport scenarios.\n\nRole: \n- Implementation of a simulator deriving delays, prices, categories, duration of each step of the travel (access to the airport, controls, buffer time, actual flight), etc. \n- Interactive visualisation of the results (with D3.js - available in the web page)\n- Causal analysis showing different topology of delay propagation from passenger to flight perspective.  \n\n",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Seddik",
+                    "last_name": "Belkoura",
+                    "name": null,
+                    "headline": "Data Science Specialist at EUROCONTROL MUAC"
+                }
+            ]
+        },
+        {
+            "title": "Numerical image denoising",
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "description": "Identify improvement options for non-local means algorithm for image denoising. State of the art of local methods for image processing, study of the algorithm's discretization and implementation.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Seddik",
+                    "last_name": "Belkoura",
+                    "name": null,
+                    "headline": "Data Science Specialist at EUROCONTROL MUAC"
+                }
+            ]
+        }
+    ],
+    "publications": [
+        {
+            "name": "Uncertainty in Functional Network Representations of Brain Activity of Alcoholic Patients",
+            "publisher": "Brain Topography",
+            "url": "https://link.springer.com/article/10.1007/s10548-020-00799-w",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2020
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Seddik",
+                    "last_name": "Belkoura",
+                    "name": null,
+                    "headline": "Data Science Specialist at EUROCONTROL MUAC"
+                }
+            ]
+        },
+        {
+            "name": "Fostering interpretability of data mining models through data perturbation",
+            "publisher": "Expert Systems with Applications",
+            "url": null,
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2019
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Seddik",
+                    "last_name": "Belkoura",
+                    "name": null,
+                    "headline": "Data Science Specialist at EUROCONTROL MUAC"
+                }
+            ]
+        },
+        {
+            "name": "On the applicability of the Lead/Lag Ratio in causality assessment",
+            "publisher": "Physica A: Statistical Mechanics and its Applications",
+            "url": null,
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2018
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Seddik",
+                    "last_name": "Belkoura",
+                    "name": null,
+                    "headline": "Data Science Specialist at EUROCONTROL MUAC"
+                }
+            ]
+        },
+        {
+            "name": "Network analysis of Chinese air transport delay propagation",
+            "publisher": "Chinese Journal of Aeronautics",
+            "url": null,
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2017
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Seddik",
+                    "last_name": "Belkoura",
+                    "name": null,
+                    "headline": "Data Science Specialist at EUROCONTROL MUAC"
+                }
+            ]
+        },
+        {
+            "name": "Beyond Linear Delay Multipliers in Air Transport",
+            "publisher": "Journal of Advanced Transportation",
+            "url": null,
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2017
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Seddik",
+                    "last_name": "Belkoura",
+                    "name": null,
+                    "headline": "Data Science Specialist at EUROCONTROL MUAC"
+                }
+            ]
+        },
+        {
+            "name": "Initial Implementation of Reference Trajectories for Performance Review",
+            "publisher": "7th SESAR Innovation Days",
+            "url": null,
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2017
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Seddik",
+                    "last_name": "Belkoura",
+                    "name": null,
+                    "headline": "Data Science Specialist at EUROCONTROL MUAC"
+                }
+            ]
+        },
+        {
+            "name": "ATM performance measurement in Europe, the US and China",
+            "publisher": "Chinese Journal of Aeronautics",
+            "url": null,
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2016
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Seddik",
+                    "last_name": "Belkoura",
+                    "name": null,
+                    "headline": "Data Science Specialist at EUROCONTROL MUAC"
+                }
+            ]
+        },
+        {
+            "name": "Phase changes in delay propagation networks",
+            "publisher": "Arxiv",
+            "url": "https://arxiv.org/ftp/arxiv/papers/1611/1611.00639.pdf",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2016
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Seddik",
+                    "last_name": "Belkoura",
+                    "name": null,
+                    "headline": "Data Science Specialist at EUROCONTROL MUAC"
+                }
+            ]
+        },
+        {
+            "name": "Complexity Science in Air Traffic Management, Chapter 7: Data Science",
+            "publisher": "Routledge",
+            "url": null,
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2016
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Seddik",
+                    "last_name": "Belkoura",
+                    "name": null,
+                    "headline": "Data Science Specialist at EUROCONTROL MUAC"
+                }
+            ]
+        },
+        {
+            "name": "Generation and recovery of airborne delays in air transport",
+            "publisher": "Generation and recovery of airborne delays in air transport",
+            "url": null,
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2016
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Seddik",
+                    "last_name": "Belkoura",
+                    "name": null,
+                    "headline": "Data Science Specialist at EUROCONTROL MUAC"
+                }
+            ]
+        },
+        {
+            "name": "On the multi-dimensionality and sampling of air transport networks",
+            "publisher": "On the multi-dimensionality and sampling of air transport networks",
+            "url": null,
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2016
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Seddik",
+                    "last_name": "Belkoura",
+                    "name": null,
+                    "headline": "Data Science Specialist at EUROCONTROL MUAC"
+                }
+            ]
+        },
+        {
+            "name": "Summary Statistics for Size over Space and Time",
+            "publisher": "Journal of Vision",
+            "url": null,
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2014
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Seddik",
+                    "last_name": "Belkoura",
+                    "name": null,
+                    "headline": "Data Science Specialist at EUROCONTROL MUAC"
+                }
+            ]
+        },
+        {
+            "name": "Improving the Predictability of Take-off Times withMachine Learning",
+            "publisher": null,
+            "url": "https://www.sesarju.eu/sites/default/files/documents/sid/2019/papers/SIDs_2019_paper_36.pdf",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": null
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Seddik",
+                    "last_name": "Belkoura",
+                    "name": null,
+                    "headline": "Data Science Specialist at EUROCONTROL MUAC"
+                }
+            ]
+        },
+        {
+            "name": "Topological structures are consistently overestimated in functional complex networks",
+            "publisher": null,
+            "url": "https://arxiv.org/pdf/1803.04797.pdf",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": null
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Seddik",
+                    "last_name": "Belkoura",
+                    "name": null,
+                    "headline": "Data Science Specialist at EUROCONTROL MUAC"
+                }
+            ]
+        }
+    ],
+    "courses": [
+        {
+            "name": "Introduction to Deep Learning (Universidad Aut\u00f3noma de Madrid)",
+            "number": null
+        }
+    ],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 163714,
+                "name": "EUROCONTROL",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQFXXhycVF1DxQ/company-logo_400_400/0/1644415931496/eurocontrol_logo?e=1703721600&v=beta&t=z7eopd0qjGIwxn4RrNK7b87nEFyUdKpeG9A60dWKNzA",
+                "url": "https://www.linkedin.com/company/eurocontrol/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Maastricht Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "EUROCONTROL",
+                    "description": "Research and development of machine learning algorithms to improve operational Decision Support tools. Manage the implementation of these technologies into the operational ATM environment.",
+                    "title": "Data Scientist",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 942944,
+                "name": "The Innaxis Foundation & Research Institute",
+                "logo": "https://media.licdn.com/dms/image/C560BAQHtg04UE3GFvQ/company-logo_400_400/0/1591110146391/the_innaxis_foundation__research_institute_logo?e=1703721600&v=beta&t=jWQvofhvU3_Pl3Pa_VKOfzNvCsV6E_b0OF2ArhyzEds",
+                "url": "https://www.linkedin.com/company/the-innaxis-foundation-&-research-institute/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Madrid Area, Spain",
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2014
+                        },
+                        "end": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2018
+                        }
+                    },
+                    "company": "Innaxis",
+                    "description": "\u25aa\tDevelop concepts and tools of Data Mining, Causality and Complexity Science.\n\u25aa\tApply the theoretical framework of Data Mining and Complex Network theory in a complex environment for assessing the performance of Air Transportation System.\n\u25aa\tDisseminate results in international journals and conferences.",
+                    "title": "Principal Researcher",
+                    "employment_type": null
+                },
+                {
+                    "location": "R\u00e9gion de Madrid, Espagne",
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2014
+                        },
+                        "end": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2017
+                        }
+                    },
+                    "company": "Innaxis",
+                    "description": "Complex systems and data science applied to Aerial Traffic. \n\nThe main idea of the Tesis buttresses on the fact that the existence of interaction within a large system creates phenomena (emergent phenomena) that are completely disregarded with the traditional transportation approach (i.e. focus on elements hoping that information about the global dynamic will be extracted). On the contrary, I strongly believe that merging complex networks framework with data mining techniques allows to better characterize the dynamic essence of the system and achieve a better understanding of it. Therefore leading, in a second step, to its improvement. The Thesis mainly focused on the delay propagation problem, but touches many fields are causalities, artificial neural network, complex network, metric definition, non-linearities, etc. \n\nPlease contact me for any more details, or for reading it :)",
+                    "title": "Data Science and Complex Systems: PhD student",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Laboratoire Psychologie de la Perception",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "R\u00e9gion de Paris, France",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2013
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2013
+                        }
+                    },
+                    "company": "Laboratoire Psychologie de la Perception",
+                    "description": "\u25aa\tImplement experimental framework to understand human's brain representation of the mean size of a set of visual object concept.\n\u25aa\tQualitative and quantitative statistical analysis of the experiment results.\n\u25aa\tResults dissemination.",
+                    "title": "Researcher",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Imagerie Adaptative Diagnostique Interventionnelle",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "R\u00e9gion de Nancy, France",
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2012
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2012
+                        }
+                    },
+                    "company": "Imagerie Adaptative Diagnostique Interventionnelle",
+                    "description": "\u25aa\tDevelopment of a new reconstruction technique resilient to patient movement impact on signal.\n\u25aa\tExperimental design\n\u25aa\tOptimization of noisy signal acquisition (Shannon entropy, reverse linear problem)",
+                    "title": "Researcher",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Python",
+        "Solution Development",
+        "Complex Systems",
+        "Matlab",
+        "Data Analysis",
+        "Programming",
+        "Statistics",
+        "Mathematical Modeling",
+        "SQL",
+        "Data Mining",
+        "R",
+        "English",
+        "Mathematical Analysis",
+        "SAS",
+        "VBA",
+        "Project Planning",
+        "Critical Thinking",
+        "Communication Skills",
+        "International Mobility",
+        "Knowledge Discovery"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

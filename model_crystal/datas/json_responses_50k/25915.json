@@ -1,0 +1,718 @@
+{
+    "profile_id": "denyssemagin",
+    "first_name": "Denys",
+    "last_name": "Semagin",
+    "sub_title": "Product Development at BITA. Indexing | Quant | Entrepreneur",
+    "profile_picture": "https://media.licdn.com/dms/image/C4D03AQHCORc3I-IOXQ/profile-displayphoto-shrink_200_200/0/1516770866357?e=1701302400&v=beta&t=TFYuS5ocGcGSYF2ew3EWewURRgmUxJOGyP-fvtwMUvo",
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAAAOK6I8BekrWwfJ4eeQfDxd9eMiCnKBsrto",
+    "object_urn": 59435151,
+    "birth_date": null,
+    "summary": ">>> Specialties: Modeling, programming, and numerical simulation for financial derivatives and portfolio management, risk management, product development. Data management, engineering, and analytics.\n>>> Products: Thematic/Sustainable Indexing, multi-asset derivatives, Unit-Linked Guarantees (+ Variable Annuities, etc.);\n>>> Extensive experience in quantitative subjects with diverse leadership.\n>>> Education: Ph.D. (Physics); CQF; Oxford Algorithmic Trading Program; etc.\n>>> Programming: C++, C#, Excel Add-ins, VBA, SQL, Python. Matlab, CUDA, R, etc\n>>> Some projects/achievements: (i) Innovative thematic index development; (ii) VA hedging program quant, lead architect, developer, and manager for ING Insurance Library (VA hedging platform). (iii) Public presentations on HPC for embedded derivatives in Insurance and Pensions (2010, 2014, 2016, 2019). (iv) Academic papers and conference presentations. \n(All details available on request).",
+    "location": {
+        "country": "Netherlands",
+        "short": "The Hague, South Holland",
+        "city": "The Hague",
+        "state": "South Holland",
+        "default": "The Hague, South Holland, Netherlands"
+    },
+    "premium": true,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "Bulgarian",
+                "proficiency": "PROFESSIONAL_WORKING"
+            },
+            {
+                "name": "Dutch",
+                "proficiency": "ELEMENTARY"
+            },
+            {
+                "name": "English",
+                "proficiency": "FULL_PROFESSIONAL"
+            },
+            {
+                "name": "Japanese",
+                "proficiency": "PROFESSIONAL_WORKING"
+            },
+            {
+                "name": "Russian",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "Ukrainian",
+                "proficiency": "PROFESSIONAL_WORKING"
+            }
+        ]
+    },
+    "industry": "Financial Services",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "school": {
+                "name": "Sa\u00efd Business School, University of Oxford",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQEXu3hGr4n9xQ/company-logo_400_400/0/1688486800786/oxfordsbs_logo?e=1703721600&v=beta&t=THqU0BzVtZYEy_EmB7ip0u7ufizf6hZc3Jal0P66xM4",
+                "url": "https://www.linkedin.com/school/oxfordsbs/"
+            },
+            "degree_name": "Certificate",
+            "field_of_study": "Algorithmic Trading",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2008
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2009
+                }
+            },
+            "school": {
+                "name": "CQF",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "Certificate in Quantitative Finance",
+            "field_of_study": "(Quantitative Finance, Financial Mathematics, Financial Engineering)",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2001
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2004
+                }
+            },
+            "school": {
+                "name": "Tokyo University of Electro-Communications (Dentsudai)",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "Ph.D.",
+            "field_of_study": "Physics, Applied Physics, Computational Physics",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 1994
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 1999
+                }
+            },
+            "school": {
+                "name": "Karazin Kharkiv National University (former Kharkov State University)",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "M.Sc., B.Sc.",
+            "field_of_study": "Physics, Theoretical Physics, Solid State Physics",
+            "grade": "Summa Cum Laude"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 1992
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 1994
+                }
+            },
+            "school": {
+                "name": "School No.1 (Lugansk)",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "High School",
+            "field_of_study": "Intensive Mathematics and Physics, Mathematics, Physics, Computer Programming",
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [],
+    "organizations": [],
+    "projects": [],
+    "publications": [
+        {
+            "name": "HPC for valuation of complex insurance guarantees",
+            "publisher": "TopQuants Autumn Workshop 2014",
+            "url": "http://www.topquants.nl/wordpress/wp-content/uploads/2015/04/Tang-Semagin-HPC-for-complex-insurance-guarantees.pdf",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2014
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Denys",
+                    "last_name": "Semagin",
+                    "name": null,
+                    "headline": "Product Development at BITA. Indexing | Quant | Entrepreneur"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Jok",
+                    "last_name": "Tang",
+                    "name": null,
+                    "headline": "Head of Digital Built Environment Department at TNO"
+                }
+            ]
+        }
+    ],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 11522276,
+                "name": "BITA",
+                "logo": "https://media.licdn.com/dms/image/D4D0BAQGPFYdnd7PM1w/company-logo_400_400/0/1683821003596/bita_gmbh_logo?e=1703721600&v=beta&t=iSK9Zb5JZccY_SjLmSVzzwYH2_9zFmdQdv1pKNP_T90",
+                "url": "https://www.linkedin.com/company/bita-gmbh/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "BITA",
+                    "description": "Leading the development of Thematic and Sustainability Screened Indices (Equity, Crypto, Commodities) for ETF and CFD providers, as well as for other clients.",
+                    "title": "Director, Product Development",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Financial Services",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "The Hague Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Financial Services",
+                    "description": null,
+                    "title": "Senior Quant | Independent Consultant | Fintech Entrepreneur",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 667454,
+                "name": "Startupbootcamp",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQFRHNqeThU6Sw/company-logo_400_400/0/1643308224505/startupbootcamp_logo?e=1703721600&v=beta&t=RSTYuXIP_zgT0eDteO31jEIKAhHjlnC4OOVVX7Mm-sY",
+                "url": "https://www.linkedin.com/company/startupbootcamp/",
+                "employees": {
+                    "start": 201,
+                    "end": 500
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2017
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Startupbootcamp",
+                    "description": null,
+                    "title": "Mentor Fintech",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 2230096,
+                "name": "NN",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQGU32g2JwCx2g/company-logo_400_400/0/1612805524208/nn_logo?e=1703721600&v=beta&t=KgUYWo30MGWEESW_YHkVfC0JlD3QhAPBbHHJe_DK3r4",
+                "url": "https://www.linkedin.com/company/nn/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "The Hague Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "NN",
+                    "description": "Contributor to various cross-functional initiatives and projects at NN Group:\n- Member of the Data Management Board (NN Re, NN Group)\n- Initial development of the longevity hedge model library (NN Pensions)\n- Upgrade of PM infrastructure of a multi-asset factor fund (NN Investment Partners)\n- Future income innovation initiative, support to NN's partnerships in FinTech domain (NN Group)",
+                    "title": "Senior Quant Analytics and Technology Specialist",
+                    "employment_type": null
+                },
+                {
+                    "location": "The Hague Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2013
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2017
+                        }
+                    },
+                    "company": "NN",
+                    "description": "NN Group, NN Re, FO Analytics and Technology, Senior Project Manager \nFocused on analytics and infrastructure for hedging of variable annuities (multi-asset basket options + barrier/ratchet features) and pension products at NN Group. \n(i)   Migration the legacy models to other platforms mixed with green-field development;  \n(ii)  In-sourcing of the hedging process (streamlined hedging, reporting, and research framework); \n(iii) Alignement of pricing and risk management models (development, validation, and release);\n(iv) Facilitated product development and market data management; \n(v)  Coordination and engagement among 8 NN business units in the EU and vendors.\n(vi) Presented the summarized experience and results of technical research: TopQuants (http://www.topquants.nl/wordpress/wp-content/uploads/2015/04/Tang-Semagin-HPC-for-complex-insurance-guarantees.pdf), Unit-Linked Guaranteed Products Forum 2016 (http://www.training.risk.net/), Global Derivatives Conference 2016 (https://finance.knect365.com/quantminds-international/)",
+                    "title": "Front Office Analytics and Infrastructure Manager",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 2594164,
+                "name": "ING Life Japan",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQEzlL9vyovZuw/company-logo_400_400/0/1691398576637/ing_logo?e=1703721600&v=beta&t=5ukSSkhHmToFHcF64sy6GtWqivOn4QVVv-bbTdTFlY4",
+                "url": "https://www.linkedin.com/company/ing/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2007
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Tokyo, Japan",
+                    "date": {
+                        "start": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2011
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2012
+                        }
+                    },
+                    "company": "ING",
+                    "description": "Manager, Annuity & Capital Market Solutions Division\nManaged model methodology and development teams (11 analysts / quants / C++ developers). Main focus: further methodology research and improvements for variable annuity hedging and risk reporting platform, ING Insurance Library.",
+                    "title": "Head of Quant Development and Financial Engineering",
+                    "employment_type": null
+                },
+                {
+                    "location": "Tokyo, Japan",
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2008
+                        },
+                        "end": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2011
+                        }
+                    },
+                    "company": "ING",
+                    "description": "Manager, Annuity & Capital Market Solutions Division\nManaged a technical team (3 sub-teams, 12 developers: quant/C++/C#/database/web) that designed, developed and supported the in-house platform for variable annuities hedging and risk reporting: the quantitative software library and infrastructure for liability options (ING Insurance Library), and the asset booking system (Sophis).\nPersonal focus: design, development (C++), and methodology review for the quantitative models and engines to value liabilities and embedded options on variable annuity products with complex guarantees, as well as for various IR/EQ/FX derivatives.\nProject outlines presented at the \"Equity\u2013Based Insurance Guarantees\" Conference (Society of Actuaries) in 2010 in Tokyo, Japan: http://www.soa.org/files/pd/2010-tokyo-ebig-rallis.pdf",
+                    "title": "Head of Quant Development",
+                    "employment_type": null
+                },
+                {
+                    "location": "Tokyo, Japan",
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2007
+                        },
+                        "end": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2008
+                        }
+                    },
+                    "company": "ING",
+                    "description": "Improvement, extension, validation, and maintenance of legacy applications for liability option valuation, reserve (IFRS), and economic capital of variable annuity products with complex guarantees (embedded cross-asset basket options). Prototype design and development for greenfield in-house model library project for hedging and risk reporting.",
+                    "title": "Assistant Manager, Quant Developer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 7318,
+                "name": "Mizuho Securities Co., Ltd.",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQF7PXCksUv79A/company-logo_400_400/0/1688219356737/mizuho_logo?e=1703721600&v=beta&t=5BEwLppRPeI_oASXTybAyfwTKFRxvgYRnPYMuIcKvZw",
+                "url": "https://www.linkedin.com/company/mizuho/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2006
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2007
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Tokyo, Japan",
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2006
+                        },
+                        "end": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2007
+                        }
+                    },
+                    "company": "Mizuho",
+                    "description": "Review of pricing methodology, development of models and prototypes for pricing vanilla and exotic IR derivatives (in particular, PRDC), IR model validation (BGM etc.). Quant development/programming: C++, MS Excel add-ins, Mathematica(R).",
+                    "title": "Associate, Methodology Team, Risk Management Dept.",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1284,
+                "name": "Credit Suisse First Boston",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQHszQ7sfR8SEw/company-logo_400_400/0/1653986123175/credit_suisse_logo?e=1703721600&v=beta&t=eH1jxQmJI2cubbKV0iYtGcoSeWg3IqIthOLRbvJKd4c",
+                "url": "https://www.linkedin.com/company/credit-suisse/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2006
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2006
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Tokyo, Japan",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2006
+                        },
+                        "end": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2006
+                        }
+                    },
+                    "company": "Credit Suisse",
+                    "description": "MBS research (cashflows, correlation, prepayment, etc)",
+                    "title": "Intern, Fixed Income Research Dept.",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Tokyo University of Electro-Communications (Dentsudai)",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2000
+                },
+                "end": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2006
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Tokyo, Japan",
+                    "date": {
+                        "start": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2004
+                        },
+                        "end": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2006
+                        }
+                    },
+                    "company": "Tokyo University of Electro-Communications (Dentsudai)",
+                    "description": "Research under grant from the Japan Society for the Promotion of Science at Dept. of Applied Physics and Chemistry, Shigenari-Abe Lab. Further research and numerical simulations of microscopic lattice dynamics in cluster crystals near phase transitions at high temperatures.",
+                    "title": "Post-Doctoral Fellow",
+                    "employment_type": null
+                },
+                {
+                    "location": "Tokyo, Japan",
+                    "date": {
+                        "start": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2000
+                        },
+                        "end": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2004
+                        }
+                    },
+                    "company": "Tokyo University of Electro-Communications (Dentsudai)",
+                    "description": "Study theoretical background, and set up the methodology and programming framework for numerical simulation of phase transition in quartz at high temperatures. Contribution to the studies on the origin of the incommensurate phase of quartz.\nOverlaps with PhD term (2001-2004)\nDept. of Applied Physics and Chemistry, Shigenari-Abe Lab.",
+                    "title": "Research Assistant",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Avers, Kharkov, Ukraine",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 1999
+                },
+                "end": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2000
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Kharkov, Ukraine",
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 1999
+                        },
+                        "end": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2000
+                        }
+                    },
+                    "company": "Avers, Kharkov, Ukraine",
+                    "description": "Buying/selling private real estate in Kharkov and Kiev, Ukraine.",
+                    "title": "Realtor",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Quantitative Finance",
+        "Derivatives",
+        "VBA",
+        "Quantitative Analytics",
+        "Fixed Income",
+        "Capital Markets",
+        "Risk Management",
+        "Market Risk",
+        "Financial Modeling",
+        "C++",
+        "People Management",
+        "Project Management",
+        "Hedging",
+        "C#",
+        "Statistics",
+        "Financial Risk",
+        "Numerical Simulation",
+        "Interest Rate Derivatives",
+        "Mathematical Modeling",
+        "Financial Markets"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

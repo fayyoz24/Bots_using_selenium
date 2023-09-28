@@ -1,0 +1,574 @@
+{
+    "profile_id": "rondekruif",
+    "first_name": "Ron",
+    "last_name": "de Kruif",
+    "sub_title": "infrastructuur Architect / Solution architect  bij ING Belgium",
+    "profile_picture": "https://media.licdn.com/dms/image/C4E03AQHDr7V2YR3oSA/profile-displayphoto-shrink_800_800/0/1656238056263?e=1701302400&v=beta&t=Bt99Om-16YyjMXguc04Fg5RxpQFd5yILaeH5fBi4UuY",
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAAAAOyhcBVK56ox7XcXHR5RFbmZkf8K_0WHw",
+    "object_urn": 969239,
+    "birth_date": null,
+    "summary": "As an IT professional I like to be involved in innovative and new IT technology driven projects and programs, but with a view on the practical side for the implementation. Always keep the goal in mind and solve problems by using my wide practical knowledge and experience in the IT. Designs high available and scalable infrastructures with detailed knowledge of infrastructure and middleware components, tools/software and private/public cloud offerings.\n\nMy strong team player and professional skills appear best when working in projects together with teams and approach it in an agile way. Due to my wide IT experience, knowledge and overview over the IT landscapes my role is best described as a Solution Architect who assists and coaches devops teams on design and implementation phase. Align with domain and enterprise architects and other stakeholders and assist with solving technical issue like performance.\n\nThe roots of my knowledge and experience arose from implementing a large number of projects based on Java solutions which includes IBM platforms and middleware like WebSphere Application Server, MQ series, Tivoli monitoring, development tooling like IBM RAD. Also, the advanced skills of designing and implementing high available infra and middleware architectures where developed. Infrastructure and middleware projects like www.mijning.nl, ATM solutions, Cards and mobile solutions, call Centre solutions are successfully executed by creating and implementing HA designs. The designs and implementations include a safe and sound security model which are based on risk assessment.\n\nIn the new modern world of cloud computing classic projects in classic datacenters are converted to solutions using the cloud technology. New IT designs are made for ING Private Cloud (IPC) but also for Microsoft Azure and AWS. Solutions are designed using VMs for some larger projects but also  Container based technology (Docker) managed by OpenShift (Kubernetes)for Microservices / APIs. \nBasis is a pipeline which supports continuous integration and delivery (CICD). Deployment of infra is done in a modern way using infra as code (Terraform). Design and implementation are done keeping risk in mind and thus uses a solid and sound security model. Policy checking (e.g. Sentinel) during deployment via infra as code  is done to be in control.\n\nA Curriculum Vitae is available if you have a nice and interesting job offer for a contractor which fits a Solution Architect, Infrastructure Architect or Cloud Architect role.",
+    "location": {
+        "country": "Netherlands",
+        "short": "Amersfoort, Utrecht",
+        "city": "Amersfoort",
+        "state": "Utrecht",
+        "default": "Amersfoort, Utrecht, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": []
+    },
+    "industry": "Financial Services",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 1989
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 1993
+                }
+            },
+            "school": {
+                "name": "HU University of Applied Sciences Utrecht (Hogeschool Utrecht)",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQE5MUvxbWmHLg/company-logo_400_400/0/1616758673383?e=1703721600&v=beta&t=lL0qWwj8v0ehLYT5Eqgh3BYB8vxhABDgceKMn5_bG7c",
+                "url": "https://www.linkedin.com/school/hogeschool-utrecht/"
+            },
+            "degree_name": "Ing.",
+            "field_of_study": "Elektronica / Telematica",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "school": {
+                "name": "KMTS Utrecht",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": null,
+            "field_of_study": null,
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [],
+    "organizations": [],
+    "projects": [],
+    "publications": [],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 1523089,
+                "name": "ING Belgium",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQGFsizO312pvQ/company-logo_400_400/0/1688405546731?e=1703721600&v=beta&t=2J8UwpQVP74OJSXfa11HfEwX4YA-ZAtcSP-MbAjy00g",
+                "url": "https://www.linkedin.com/company/ingbelgium/",
+                "employees": {
+                    "start": 5001,
+                    "end": 10000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Belgi\u00eb",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "ING Belgium",
+                    "description": "Infrastructure and solution architectecture support for business and devops teams in Belgium.",
+                    "title": "infrastructuur Architect / Solution architect ",
+                    "employment_type": "Contract"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1440582,
+                "name": "SpringTeam B.V.",
+                "logo": "https://media.licdn.com/dms/image/C560BAQGynC947D8YTw/company-logo_400_400/0/1519868992486?e=1703721600&v=beta&t=oNsUog1PMBlVAGxNs-pfUjMHhjEhcbXzAj220B7AITc",
+                "url": "https://www.linkedin.com/company/springteam-b.v./",
+                "employees": {
+                    "start": 2,
+                    "end": 10
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2001
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amersfoort, Utrecht, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2001
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "SpringTeam B.V.",
+                    "description": "As contractor available for job offerings for the function of Solution Architect, Cloud Architect, Infrastructure Architect.\nA wide amount of experience on  solution/cloud/infra architecture, consultancy & engineering, support and problem analysis.",
+                    "title": "Co-owner of SpringTeam B.V. and  Solution Architect / Cloud Architect / Infrastructure Architect",
+                    "employment_type": "Permanent"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 215713,
+                "name": "ING Nederland",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQHB_xMo5kWjEA/company-logo_400_400/0/1691393179834?e=1703721600&v=beta&t=bUL8bNCSoaRTPolzwr2AiE_PzGUhhKp0Jk4sEQg8YY0",
+                "url": "https://www.linkedin.com/company/ing-nederland/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2002
+                },
+                "end": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amsterdam Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2020
+                        }
+                    },
+                    "company": "ING Nederland",
+                    "description": "Tribe Tech Marketleaders - Devops Platforms\nInfrastructure / Solution Architect \nDevops teams are supported to migrate to ING Private Cloud (IPC) and Public Cloud (Azure).\n- Devops teams are assisted during onboarding to the cloud by design phase and implementation\n- Devops teams are  trained using the cloud solution and follow the ING standards\n- ING Standards are designed and developed\nIntroduction to public cloud: same kind of approach:\n- Create generic PaaS / IaaS patterns and described in Blue prints\n- Assist devops teams with first PoCs\n- Create infrastructure design for OneApp / OneWeb in Azure",
+                    "title": "Infrastructure Architect - Solution Architect",
+                    "employment_type": "Contract"
+                },
+                {
+                    "location": "Amsterdam, North Holland, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2018
+                        }
+                    },
+                    "company": "ING Nederland",
+                    "description": "Tribe Tech Market Leaders - Channels domain (internet, mobile, assisted, cash) \nInfrastructure / Solution architect and engineer\nAll kind of projects in the channels domain, \n- internet banking\n- mobile banking\n- assisted channel\n- cash / ATM / CRA - self service solutions using Diebold-Nixdorf  (WebSphere/Java based) solutions and KAL (Microsoft based) solutions, local (NL) and global / International projects\n- payments-cards solutions, using Tibco BW and API/webservices platforms, local (NL) and global / international projects",
+                    "title": "Infrastructure Architect - Solution Architect",
+                    "employment_type": "Contract"
+                },
+                {
+                    "location": "Amsterdam Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2012
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2016
+                        }
+                    },
+                    "company": "ING Nederland",
+                    "description": "Support a various amount of projects with Infra designs and implementation.\n- ING PoC Internet Of  Tings / Smart building automation\n- ING Mobile Cards Payments Global\n- ING Migration PC/E application\n- ING Riviera\n- ING Compact Branch\n- ING MCP / Debit Cards\n- ING Caesar: High Available solution for MDM using WebSphere clustering and multicell, DB2 HADR and pureScale and VMware HA\n- ING Caesar: Master Data Management in combination with TIBCO products\n- ING Agents: Workplace for ISP's, using VMWare VDI components\n- ING Managed Services\n- ING Agents: infrastructure design and security design\n- ING HQ Systems and processes\n- ING Customer view\n- ING Agents: V&S\n- Call Centre applications based on WebSphere Application Server and Siebel\n- Stock / Shares applications based on WebSphere Application Server and WebSphere Portal Server",
+                    "title": "Infrastructure Architect - Solution Architect",
+                    "employment_type": "Contract"
+                },
+                {
+                    "location": "Amsterdam, North Holland, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2007
+                        },
+                        "end": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2012
+                        }
+                    },
+                    "company": "ING Nederland",
+                    "description": "Design and implementation of (WebSphere) infrastructures for various labels withing ING. WebSphere and middleware consultancy.\nCurrent projects: IFP Web Disaster and Recovery for Wholesale, Karin (postbank deposit machines), Lisa (postbank administration application) en Nemo (Campain).",
+                    "title": "Infrastructure Architect - Solution Architect",
+                    "employment_type": "Contract"
+                },
+                {
+                    "location": "Amsterdam, North Holland, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2006
+                        },
+                        "end": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2007
+                        }
+                    },
+                    "company": "ING Nederland",
+                    "description": "Retail Banking\nWebSphere and Infrastructure design for \"mijn.ing / ING Zakelijk\" based on Generic Internet Arhitceture and Genric Application Architecture.",
+                    "title": "Infrastructure Architect - WebSphere Architect",
+                    "employment_type": "Contract"
+                },
+                {
+                    "location": "Amsterdam, North Holland, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2002
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2006
+                        }
+                    },
+                    "company": "ING Nederland",
+                    "description": "WebSphere engineer and Infrastructure Architect for various labels within ING:\nNationale Nederlanden, ING Bank, Postbank, etc.\n\nDesign and implementation of High Available and High Performing WebSphere Application Server Architecture in the Postbank Internet Straat (mijnpostbank.nl)",
+                    "title": "WebSphere Engineer and Architect",
+                    "employment_type": "Contract"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1009,
+                "name": "IBM Nederland N.V.",
+                "logo": "https://media.licdn.com/dms/image/D560BAQGiz5ecgpCtkA/company-logo_400_400/0/1688684715427?e=1703721600&v=beta&t=eAMK4ZqZ9jAX6bPbX5LjyyMurxtQnubuQSv7kNBKpjI",
+                "url": "https://www.linkedin.com/company/ibm/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2001
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2002
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amsterdam, North Holland, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2001
+                        },
+                        "end": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2002
+                        }
+                    },
+                    "company": "IBM",
+                    "description": "IBM Nederlands B.V., Software Services Group - WebSphere Consultant for various EMEA customers\nSupport various customers. solving issues and incidents, improve performance, give trainings, make initial infra designs.",
+                    "title": "IBM WebSphere Consultant / Software Engineer",
+                    "employment_type": "Contract"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "P. Winter ICT Consultancy B.V.",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 1999
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2001
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Nieuwegein, Utrecht, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 1999
+                        },
+                        "end": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2001
+                        }
+                    },
+                    "company": "P. Winter ICT Consultancy B.V.",
+                    "description": "Contractor for various customers:\n- KNVB (Dutch Football Association) - Network and Unix and System administrator\n- B.V. Dagblad \"de Telefgraaf\" department \"Telegraaf Internet Services\"- WebSphere Consultant",
+                    "title": "Network and Unix System administrator / WebSphere Consultant",
+                    "employment_type": "Permanent"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 162552,
+                "name": "ASM International N.V.",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQGQnvsPqoxWRg/company-logo_400_400/0/1680764261308?e=1703721600&v=beta&t=l7Vx-KxBkRpRSA96U4JaADv1VAil44NclH3qZBV5Ckg",
+                "url": "https://www.linkedin.com/company/asm/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 1995
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 1999
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Bilthoven, Utrecht, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "day": null,
+                            "year": 1995
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": 1999
+                        }
+                    },
+                    "company": "ASM",
+                    "description": "System and Network administration on UNIX based systems.\nPro-Engineer drawing database specialist for Semiconductor furnaces.\nDevelopment of tools in C and C++ for CAD department",
+                    "title": "Network  and Unix System Administrator & CAD document management",
+                    "employment_type": "Permanent"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "FOM Instute for Plasmaphysics",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 1994
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 1995
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Nieuwegein, Utrecht, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "day": null,
+                            "year": 1994
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": 1995
+                        }
+                    },
+                    "company": "FOM Instute for Plasmaphysics",
+                    "description": "Development of soft- and hardware for Free Elektron Maser (FEM)  laser\nHardware designs based on VME and CAN bus architecture.\nSoftware development with C++ , Realtime OS DECELX (VxWorks) and Labview\nLaser is used in SPICA II nuclear fusion reactor in J\u00fclich, Germany.",
+                    "title": "Research And Development Engineer",
+                    "employment_type": "Permanent"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "41e painfbat Stoottroepen",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 1993
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 1994
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Ermelo",
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 1993
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 1994
+                        }
+                    },
+                    "company": "41e painfbat Stoottroepen",
+                    "description": "Military Service\n41e Pantserinfanterie Paostcie : Stoottroepen",
+                    "title": "Stukscomandant (Sgt.I)",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "WebSphere Application Server",
+        "WebSphere Portal",
+        "WebSphere Process Server",
+        "Tivoli Access Manager",
+        "IBM HTTP Server",
+        "DB2",
+        "IBM Master Data Management",
+        "IBM RAD",
+        "IBM MQ",
+        "WebSphere Message Broker",
+        "Java",
+        "J2EE",
+        "JEE",
+        "C++",
+        "AIX",
+        "Linux",
+        "Solaris",
+        "VMware ESX",
+        "VMware Infrastructure",
+        "VDI"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

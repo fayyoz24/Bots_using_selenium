@@ -1,0 +1,660 @@
+{
+    "profile_id": "floris-verburg-055a0791",
+    "first_name": "Floris",
+    "last_name": "Verburg",
+    "sub_title": "Domain Architect - TV at KPN",
+    "profile_picture": "https://media.licdn.com/dms/image/D4E03AQE1OvRzfSHkgw/profile-displayphoto-shrink_800_800/0/1667318896238?e=1701302400&v=beta&t=ZM1GivfHkH_dW_RhzILwdXkXZ-D2tfjOowNGdZy4fns",
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAABOMd4EBQbsnxqyzvbcwutxKGY3EKrVw4W8",
+    "object_urn": 327972737,
+    "birth_date": null,
+    "summary": null,
+    "location": {
+        "country": "Netherlands",
+        "short": "Amsterdam, North Holland",
+        "city": "Amsterdam",
+        "state": "North Holland",
+        "default": "Amsterdam, North Holland, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": []
+    },
+    "industry": "Information Technology & Services",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "school": {
+                "name": "Delft University of Technology",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQFwaGpwaod9mQ/company-logo_400_400/0/1670699851986?e=1703721600&v=beta&t=Aw4oLxoKsIJcblYDjxw9200FClnyhZu8DxzcfJRDFOs",
+                "url": "https://www.linkedin.com/school/tudelft/"
+            },
+            "degree_name": "Master Computer Science (MSc)",
+            "field_of_study": "Computer Science",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "school": {
+                "name": "Delft University of Technology",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQFwaGpwaod9mQ/company-logo_400_400/0/1670699851986?e=1703721600&v=beta&t=Aw4oLxoKsIJcblYDjxw9200FClnyhZu8DxzcfJRDFOs",
+                "url": "https://www.linkedin.com/school/tudelft/"
+            },
+            "degree_name": "Bachelor Computer Science (BSc)",
+            "field_of_study": null,
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2005
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2011
+                }
+            },
+            "school": {
+                "name": "Katholieke Scholengemeenschap Etten-Leur",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "VWO, Nature and Technology",
+            "field_of_study": null,
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "Improving RCPSP algorithms using machine learning methods",
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "description": "One of the tasks of the NS is to schedule the maintenance of trains. Because this is a hard problem, there are several methods that use heuristics to solve the scheduling problem. The subject of my thesis consists of research on different machine learning techniques that are feasible to this particular situation and implement an algorithm to schedule the maintenance of the trains.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Floris",
+                    "last_name": "Verburg",
+                    "name": null,
+                    "headline": "Domain Architect - TV at KPN"
+                }
+            ]
+        },
+        {
+            "title": "Peer Matching Tool",
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "description": "Massive open online courses (MOOCs) all around the world are growing in size. Therefore, the practical assignments need to be easy to manage. The growth also means that it is more difficult for participants to find a possible practical partner due to the large amount of people. The difficulty is also affected by the fact that students do not see each other during courses, and most of the time haven\u2019t met any of the participants from the course.\n\nFor this Bachelor Project we have improved upon this process by creating an application that can be used to create practical groups without the participants being required to search intensively through all the participants. Participants are able to easily access the application, fill in some relevant information about themselves and then get recommendations of possible practical partners or practical groups.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Floris",
+                    "last_name": "Verburg",
+                    "name": null,
+                    "headline": "Domain Architect - TV at KPN"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Freek",
+                    "last_name": "van Tienen",
+                    "name": null,
+                    "headline": "Researcher at Technical University of Delft"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Marijn",
+                    "last_name": "Goedegebure",
+                    "name": null,
+                    "headline": "Senior Product Designer at bol.com"
+                }
+            ]
+        },
+        {
+            "title": "WikiDelft Mobile",
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "description": "WikiDelft is the internet platform for Delft and its surroundings. The website contains user-contributed stories covering the city and its history. WikiDelft also provides a large amount content from the Erfgoed Delft (Heritage Delft) collection. \n\nTo attract a new target group to its user base, WikiDelft has provided us with the challenge to develop an application specifically for Android smartphones. ",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Floris",
+                    "last_name": "Verburg",
+                    "name": null,
+                    "headline": "Domain Architect - TV at KPN"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Sander",
+                    "last_name": "Ploegsma",
+                    "name": null,
+                    "headline": "Software Designer at TOPIC Projects"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Jan-Willem",
+                    "last_name": "Manenschijn",
+                    "name": null,
+                    "headline": "Cree\u00ebrt bewustzijn voor de maatschappelijke thema's die voor jou belangrijk zijn | Serious game expert"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Patrick",
+                    "last_name": "van Hesteren",
+                    "name": null,
+                    "headline": "Software Development Team Lead - Automated Trading Risk"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Robert Luijendijk",
+                    "headline": null
+                }
+            ]
+        },
+        {
+            "title": "Music recommender web-based application",
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "description": "For the Information and Knowledge Engineering project of the second year of the Bachelor Computer Science we have built a web-based application which allows users to browse through and listen to music using the popular music platform Spotify. Using existing user data of Last.fm and API's of Spotify and Last.fm we were able to create recommendations based on users listen behavior. These recommendations consisted of both artists and events.\n\nDuring this project I was responsible for the front-end and the integration of Spotify and Last.FM services. My main focus was creating a way to play the music within the application through Spotify, cross-matching the results from the two services and improving the heavy use of the API.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Floris",
+                    "last_name": "Verburg",
+                    "name": null,
+                    "headline": "Domain Architect - TV at KPN"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Sander",
+                    "last_name": "Ploegsma",
+                    "name": null,
+                    "headline": "Software Designer at TOPIC Projects"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Patrick",
+                    "last_name": "van Hesteren",
+                    "name": null,
+                    "headline": "Software Development Team Lead - Automated Trading Risk"
+                }
+            ]
+        }
+    ],
+    "publications": [],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 1442,
+                "name": "KPN",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQFHdzywk2aJGA/company-logo_400_400/0/1691135902931?e=1703721600&v=beta&t=EwovPoL4-FsdDqAf_BsVW4iHyxyT1HtULkozISOj_rI",
+                "url": "https://www.linkedin.com/company/kpn/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "KPN",
+                    "description": null,
+                    "title": "Domain Architect - TV",
+                    "employment_type": null
+                },
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "KPN",
+                    "description": null,
+                    "title": "Solutions Architect",
+                    "employment_type": "Full-time"
+                },
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2021
+                        }
+                    },
+                    "company": "KPN",
+                    "description": null,
+                    "title": "Young Talent",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 166529,
+                "name": "TU Delft",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQFwaGpwaod9mQ/company-logo_400_400/0/1670699851986?e=1703721600&v=beta&t=Aw4oLxoKsIJcblYDjxw9200FClnyhZu8DxzcfJRDFOs",
+                "url": "https://www.linkedin.com/school/tudelft/",
+                "employees": {
+                    "start": 5001,
+                    "end": 10000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2018
+                        }
+                    },
+                    "company": "Delft University of Technology",
+                    "description": null,
+                    "title": "MSc. Student Computer Science and Engineering",
+                    "employment_type": null
+                },
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2016
+                        }
+                    },
+                    "company": "Delft University of Technology",
+                    "description": null,
+                    "title": "Teaching Assistant",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 600322,
+                "name": "W.I.S.V. 'Christiaan Huygens'",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQGiSsMrOTxn1w/company-logo_400_400/0/1628689598481?e=1703721600&v=beta&t=ZfJzn4jVkNWi9oUDxPpXOonx6VacdSYaQ2syJqOUDPM",
+                "url": "https://www.linkedin.com/company/w.i.s.v.-'christiaan-huygens'/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2012
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2017
+                        }
+                    },
+                    "company": "W.I.S.V. 'Christiaan Huygens'\u200b",
+                    "description": "The MaCHazine committee of W.I.S.V. 'Christiaan Huygens' is responsible for the quarterly magazine of the association. I'm one of the persons that is responsible for the desktop publishing part of the committee.",
+                    "title": "Desktop Publisher MaCHazine Committee",
+                    "employment_type": null
+                },
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2014
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2015
+                        }
+                    },
+                    "company": "W.I.S.V. 'Christiaan Huygens'\u200b",
+                    "description": "Full-time board member of W.I.S.V. 'Christiaan Huygens', the Study Association for Applied Mathematics and Computer Science at Delft University of Technology.\n\nMaking Computer Science a better education by involving students and talking to teachers, education directors, the Dean, etc.",
+                    "title": "Chief Commissioner of Computer Science Education",
+                    "employment_type": null
+                },
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2013
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2014
+                        }
+                    },
+                    "company": "W.I.S.V. 'Christiaan Huygens'\u200b",
+                    "description": "The iCom organises an excursion for about 4 to 5 days to a top 100 TU city, where we visit the university, connect with students, visit a company and explore the city.\n \nWithin this committee, I was responsible for all financial matters.",
+                    "title": "The International Committee",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 6376,
+                "name": "RTL",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQHtVdjINeQJ0A/company-logo_400_400/0/1682928135621?e=1703721600&v=beta&t=eyR0TTXpoFu0s4ndIjAdk-eNPbQyJccdysU8e8jmFK8",
+                "url": "https://www.linkedin.com/company/rtl-nederland/",
+                "employees": {
+                    "start": 501,
+                    "end": 1000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2016
+                        }
+                    },
+                    "company": "RTL Nederland",
+                    "description": "The goal of this internship was to analyse social media data related to a television program, in order to determine the popularity of that television program. This goal consisted of multiple challenges; we had to store the data from social networks that we collected in a database so that the data could be used for analysations afterwards, we had to enrich this data in order to be able to say anything meaningful about the data and we had to visualise the collected data real-time so that you can see the live performance of a television program.",
+                    "title": "Intern",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 166529,
+                "name": "TU Delft",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQFwaGpwaod9mQ/company-logo_400_400/0/1670699851986?e=1703721600&v=beta&t=Aw4oLxoKsIJcblYDjxw9200FClnyhZu8DxzcfJRDFOs",
+                "url": "https://www.linkedin.com/school/tudelft/",
+                "employees": {
+                    "start": 5001,
+                    "end": 10000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2012
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2014
+                        }
+                    },
+                    "company": "Delft University of Technology",
+                    "description": "2012/2013:\n - Student mentor for TI1115 Mentoraat\n - Teaching assistant for IN1608WI-B Introduction to Programming\n\n2013/2014:\n - Student mentor for TI1115 Mentoraat\n - Teaching assistant for TI1315 Algorithms and Data Structures",
+                    "title": "Teaching Assistant",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 2930627,
+                "name": "Keefo",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQHYhf9uGUivpQ/company-logo_400_400/0/1519904949482?e=1703721600&v=beta&t=unyB66VpydN3OmfB4-nXaJCzLACdmaCklgfx-xFSpjM",
+                "url": "https://www.linkedin.com/company/keefo/",
+                "employees": {
+                    "start": 2,
+                    "end": 10
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2013
+                        },
+                        "end": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2014
+                        }
+                    },
+                    "company": "Keefo",
+                    "description": "Developing an Android application",
+                    "title": "Developer",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "LaTeX",
+        "Software Development",
+        "Scrum",
+        "Java",
+        "MVC",
+        "Git",
+        "Github",
+        "Android",
+        "Play Framework",
+        "JavaScript",
+        "PHP",
+        "CSS",
+        "OOP",
+        "MySQL",
+        "JSON",
+        "InDesign",
+        "Python (Programming Language)"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

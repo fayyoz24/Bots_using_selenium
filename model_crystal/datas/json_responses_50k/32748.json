@@ -1,0 +1,816 @@
+{
+    "profile_id": "stefano-speretta-411ba926",
+    "first_name": "Stefano",
+    "last_name": "Speretta",
+    "sub_title": "Assistant Professor at Technische Universiteit Delft",
+    "profile_picture": "https://media.licdn.com/dms/image/C4D03AQENB7jRwNaq_Q/profile-displayphoto-shrink_800_800/0/1517432874816?e=1701302400&v=beta&t=CJ59bsvCQWB1JLJysdSqIrNMGNw34MPFllNXp1x0Ndw",
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAAAWEDQ0BwV_-QQQ_SsvyLioLMDS0Sm16YN8",
+    "object_urn": 92540173,
+    "birth_date": null,
+    "summary": null,
+    "location": {
+        "country": "Netherlands",
+        "short": "Delft, South Holland",
+        "city": "Delft",
+        "state": "South Holland",
+        "default": "Delft, South Holland, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "Dutch",
+                "proficiency": "PROFESSIONAL_WORKING"
+            },
+            {
+                "name": "English",
+                "proficiency": "FULL_PROFESSIONAL"
+            },
+            {
+                "name": "French",
+                "proficiency": "LIMITED_WORKING"
+            },
+            {
+                "name": "Italian",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ]
+    },
+    "industry": "Defense & Space",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2007
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2009
+                }
+            },
+            "school": {
+                "name": "Politecnico di Torino",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQGbyRTmgwi0uw/company-logo_400_400/0/1616667828426?e=1703721600&v=beta&t=vRSoXeiOoCJ_YwK8Ixmo5PtmZ9UQFRLPsV5uv1OgtIg",
+                "url": "https://www.linkedin.com/school/politecnico-di-torino/"
+            },
+            "degree_name": "PhD",
+            "field_of_study": "Electronic Engineering and Communications",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2004
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2006
+                }
+            },
+            "school": {
+                "name": "Politecnico di Torino",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQGbyRTmgwi0uw/company-logo_400_400/0/1616667828426?e=1703721600&v=beta&t=vRSoXeiOoCJ_YwK8Ixmo5PtmZ9UQFRLPsV5uv1OgtIg",
+                "url": "https://www.linkedin.com/school/politecnico-di-torino/"
+            },
+            "degree_name": "MSc",
+            "field_of_study": "Electronic Engineering",
+            "grade": "110 / 110"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2001
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2004
+                }
+            },
+            "school": {
+                "name": "Politecnico di Torino",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQGbyRTmgwi0uw/company-logo_400_400/0/1616667828426?e=1703721600&v=beta&t=vRSoXeiOoCJ_YwK8Ixmo5PtmZ9UQFRLPsV5uv1OgtIg",
+                "url": "https://www.linkedin.com/school/politecnico-di-torino/"
+            },
+            "degree_name": "BSc",
+            "field_of_study": "Electronic Engineering",
+            "grade": "110 / 110 magna cum laude"
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "GENSO",
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2008
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2008
+                }
+            },
+            "description": "The project was aimed at creating a global network of ground stations for satellite data reception. The target were university / in-orbit demonstrator satellites. I was a Java developer taking care at first of the hardware abstraction layer and later on of the main scheduler, controlling all the operations of every single ground station.\n\nThe project was funded jointly by ESA, NASA and JAXA.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Stefano",
+                    "last_name": "Speretta",
+                    "name": null,
+                    "headline": "Assistant Professor at Technische Universiteit Delft"
+                }
+            ]
+        },
+        {
+            "title": "AraMiS",
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2007
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2007
+                }
+            },
+            "description": "The AraMiS project led to the development of a modular architecture for nano-satellites. The basic idea was based on smart sub-systems that could be plugged with each other to create a basic satellite. Basic modules could be combined together to improve performances (like coping with an additional solar panel) and provide graceful failure tolerance. My task was the architectural design and the development of the solar panel power conversion module.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Stefano",
+                    "last_name": "Speretta",
+                    "name": null,
+                    "headline": "Assistant Professor at Technische Universiteit Delft"
+                }
+            ]
+        },
+        {
+            "title": "PiCPoT",
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2004
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2006
+                }
+            },
+            "description": "The PiCPoT project led to the development of a nanosatellite completely built by students of several engineering departments. The main constraint of this project was its cost, so every system was built using Commercial Off-The-Shelf (COTS) components and radiation-hardened by design techniques to ensure survival in space. Since most components could have been prone to latch-up, particular attention had been focused on creating a protection system that monitors the supply current of all systems. The main goals of this satellite are the transmission of on-board telemetry measures and photos taken with commercial cameras. I was involved in the final integration and testing campaign, getting to know how all the sub-systems were interacting with each other and how to ensure everything was working as designed.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Stefano",
+                    "last_name": "Speretta",
+                    "name": null,
+                    "headline": "Assistant Professor at Technische Universiteit Delft"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Maurizio",
+                    "last_name": "Tranchero",
+                    "name": null,
+                    "headline": "Head of Hardware Technologies"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Leonardo",
+                    "last_name": "Reyneri",
+                    "name": null,
+                    "headline": "Professor at Politecnico di Torino, Dept. Electronica"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Claudio",
+                    "last_name": "Sansoe`",
+                    "name": null,
+                    "headline": "Associate Professor at Politecnico di Torino"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Claudio Damilano",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Giulia Suriani",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Maria Caldaralo",
+                    "headline": null
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Marco",
+                    "last_name": "Borri",
+                    "name": null,
+                    "headline": "R&D Manager (Connectivity & Smart Devices Team) at MARTUR FOMPAK International"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Danilo",
+                    "last_name": "Roascio",
+                    "name": null,
+                    "headline": "Senior Engineer at Aurora Flight Sciences \u2022 Embedded Electronic Systems"
+                }
+            ]
+        }
+    ],
+    "publications": [
+        {
+            "name": "Design Solutions for Modular Satellite Architectures",
+            "publisher": "In-tech publishing, in Aerospace Technologies Advancements",
+            "url": "http://www.intechopen.com/books/aerospace-technologies-advancements/design-solutions-for-modular-satellite-architectures",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2010
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Stefano",
+                    "last_name": "Speretta",
+                    "name": null,
+                    "headline": "Assistant Professor at Technische Universiteit Delft"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Maurizio",
+                    "last_name": "Tranchero",
+                    "name": null,
+                    "headline": "Head of Hardware Technologies"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Leonardo",
+                    "last_name": "Reyneri",
+                    "name": null,
+                    "headline": "Professor at Politecnico di Torino, Dept. Electronica"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Claudio",
+                    "last_name": "Sansoe`",
+                    "name": null,
+                    "headline": "Associate Professor at Politecnico di Torino"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Claudio Passerone",
+                    "headline": null
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Marco",
+                    "last_name": "Borri",
+                    "name": null,
+                    "headline": "R&D Manager (Connectivity & Smart Devices Team) at MARTUR FOMPAK International"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Dante del Corso",
+                    "headline": null
+                }
+            ]
+        },
+        {
+            "name": "Design Solutions for Modular Satellite Architectures",
+            "publisher": "In-tech publishing, in Aerospace Technologies Advancements",
+            "url": "http://www.intechopen.com/books/aerospace-technologies-advancements/design-solutions-for-modular-satellite-architectures",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2010
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Stefano",
+                    "last_name": "Speretta",
+                    "name": null,
+                    "headline": "Assistant Professor at Technische Universiteit Delft"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Maurizio",
+                    "last_name": "Tranchero",
+                    "name": null,
+                    "headline": "Head of Hardware Technologies"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Leonardo",
+                    "last_name": "Reyneri",
+                    "name": null,
+                    "headline": "Professor at Politecnico di Torino, Dept. Electronica"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Claudio",
+                    "last_name": "Sansoe`",
+                    "name": null,
+                    "headline": "Associate Professor at Politecnico di Torino"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Claudio Passerone",
+                    "headline": null
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Marco",
+                    "last_name": "Borri",
+                    "name": null,
+                    "headline": "R&D Manager (Connectivity & Smart Devices Team) at MARTUR FOMPAK International"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Dante del Corso",
+                    "headline": null
+                }
+            ]
+        },
+        {
+            "name": "Nanosatellite Communication System Trends",
+            "publisher": "62nd International Astronautical Congress, Cape Town, SA",
+            "url": null,
+            "date": {
+                "month": null,
+                "day": null,
+                "year": null
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Stefano",
+                    "last_name": "Speretta",
+                    "name": null,
+                    "headline": "Assistant Professor at Technische Universiteit Delft"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Johan",
+                    "last_name": "Erasmus",
+                    "name": null,
+                    "headline": "ISISPACE-RSA Branch Manager and Systems Engineer"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Wouter Weggelaar",
+                    "headline": null
+                }
+            ]
+        },
+        {
+            "name": "Nanosatellite Communication System Trends",
+            "publisher": "62nd International Astronautical Congress, Cape Town, SA",
+            "url": null,
+            "date": {
+                "month": null,
+                "day": null,
+                "year": null
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Stefano",
+                    "last_name": "Speretta",
+                    "name": null,
+                    "headline": "Assistant Professor at Technische Universiteit Delft"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Johan",
+                    "last_name": "Erasmus",
+                    "name": null,
+                    "headline": "ISISPACE-RSA Branch Manager and Systems Engineer"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Wouter Weggelaar",
+                    "headline": null
+                }
+            ]
+        }
+    ],
+    "courses": [
+        {
+            "name": "System Engineering",
+            "number": null
+        }
+    ],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 166529,
+                "name": "Technische Universiteit Delft",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQFwaGpwaod9mQ/company-logo_400_400/0/1670699851986?e=1703721600&v=beta&t=Aw4oLxoKsIJcblYDjxw9200FClnyhZu8DxzcfJRDFOs",
+                "url": "https://www.linkedin.com/school/tudelft/",
+                "employees": {
+                    "start": 5001,
+                    "end": 10000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Delft Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Delft University of Technology",
+                    "description": null,
+                    "title": "Assistant Professor",
+                    "employment_type": null
+                },
+                {
+                    "location": "Delft Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "Delft University of Technology",
+                    "description": null,
+                    "title": "Researcher",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 955663,
+                "name": "ISIS - Innovative Solutions in Space BV",
+                "logo": "https://media.licdn.com/dms/image/C560BAQEMFNEewxoDng/company-logo_400_400/0/1609956423130?e=1703721600&v=beta&t=Q861xdqbx7JWzwWWcufOiFx6Sc7VYrd6vj1DlDcIBws",
+                "url": "https://www.linkedin.com/company/isis---innovative-solutions-in-space-bv/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2010
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Delft Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2010
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2015
+                        }
+                    },
+                    "company": "ISISPACE Group",
+                    "description": "R&D on RF and electronic systems for LEO satellites and ground applications. System engineering support for payload and sub-system development.\n\n\u0095 Technical responsible, leading a team of 5 engineers, for the development of a satellite transceiver: from requirement definition to system verification and flight qualification. \n\u0095 Software Defined Radios: digital modulation / demodulation performed on general purpose computers or custom hardware. Experience with ECSS / CCSDS standards implementation.\n Design support for RF payload development.\n\u0095 RF hardware design and test of satellite and ground-based transceivers with RF output power between 1 and 100 W.\n\u0095 C++ / Java / Python programming for data handling hardware control software. Implementation of a distributed ground station control and data distribution software capable of handling multiple missions and ground stations at the same time.\n\u0095 Development of a flexible and modular line of solar panels for satellites ranging from 1 to 25 kg: design for manufacturing re-using commercial technologies and processes. Electronic design, project coordination and relations with customers. \n\u0095 Managed the development of a modular power system for small satellites with a team of 4 people. Experience with Prince2 methodology.\n\u0095 Practical experience in integration / on-ground and in-flight testing / debugging on several missions. Systems engineering support for platform and payload design.",
+                    "title": "RF Systems Engineer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 165510,
+                "name": "Politecnico di Torino",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQGbyRTmgwi0uw/company-logo_400_400/0/1616667828426?e=1703721600&v=beta&t=vRSoXeiOoCJ_YwK8Ixmo5PtmZ9UQFRLPsV5uv1OgtIg",
+                "url": "https://www.linkedin.com/school/politecnico-di-torino/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2007
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2010
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Torino - Italy",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2007
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2010
+                        }
+                    },
+                    "company": "Politecnico di Torino",
+                    "description": "\u0095 Performing lectures and lab sessions for Master students (10 - 100 per class). Courses were related to electronic systems design, communications and in particular software-defined radios, system engineering and architectural design.\n\u0095 Coordinate Master students during their thesis.\n\u0095 Research and development on MPPT and distributed power conversion stages, distributed architectures for failure tolerance, radiation effects on semiconductors, radiation tests (direct experience with gamma, X rays and protons) and software defined radios.",
+                    "title": "Research and Teaching Assistant",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 955663,
+                "name": "ISIS - Innovative Solutions in Space BV",
+                "logo": "https://media.licdn.com/dms/image/C560BAQEMFNEewxoDng/company-logo_400_400/0/1609956423130?e=1703721600&v=beta&t=Q861xdqbx7JWzwWWcufOiFx6Sc7VYrd6vj1DlDcIBws",
+                "url": "https://www.linkedin.com/company/isis---innovative-solutions-in-space-bv/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2009
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2009
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Delft Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2009
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2009
+                        }
+                    },
+                    "company": "ISISPACE Group",
+                    "description": "Software defined radio development for satellite communications. Digital data demodulation was performed on a general purpose computer: the main goal of the project was validating a low-cost architecture to be deployed in multiple remote locations with full automatic control.",
+                    "title": "RF Systems engineer Internship",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "INFOXNET srl",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2004
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2006
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Turin Area, Italy",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2004
+                        },
+                        "end": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2006
+                        }
+                    },
+                    "company": "INFOXNET srl",
+                    "description": "C and C++ professional training courses teacher.",
+                    "title": "Consultant",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1618,
+                "name": "ST Microelectronics",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQFyQ-q6iu6L0g/company-logo_400_400/0/1584338976031?e=1703721600&v=beta&t=A2AO02PjSx6_aCffBSLZjGVNc_8PD5DTrNZt-I4Ghz4",
+                "url": "https://www.linkedin.com/company/stmicroelectronics/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2004
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2004
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Naples Area, Italy",
+                    "date": {
+                        "start": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2004
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2004
+                        }
+                    },
+                    "company": "STMicroelectronics",
+                    "description": "Development of a functional test strategy for NAND FLASH devices.",
+                    "title": "Internship",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "INFOXNET srl",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2003
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2004
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Turin Area, Italy",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2003
+                        },
+                        "end": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2004
+                        }
+                    },
+                    "company": "INFOXNET srl",
+                    "description": "Network administrator for the local Health agency. My main task was designing, deploying and maintaining small LAN networks in the different offices and managing users data (privacy, security).",
+                    "title": "Network Administrator",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "FPGA",
+        "Embedded Systems",
+        "Simulations",
+        "VHDL",
+        "Electronics",
+        "C",
+        "Matlab",
+        "RF",
+        "System Design",
+        "Testing",
+        "Satellite",
+        "Simulink",
+        "C++",
+        "Mixed Signal",
+        "IC",
+        "Analog",
+        "PRINCE2",
+        "Satellite Systems Engineering"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

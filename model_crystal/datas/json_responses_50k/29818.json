@@ -1,0 +1,394 @@
+{
+    "profile_id": "anantha-sai-hariharan-vinjarapu",
+    "first_name": "Anantha Sai Hariharan",
+    "last_name": "Vinjarapu",
+    "sub_title": "MSc. Systems and Control at Eindhoven University of Technology",
+    "profile_picture": "https://media.licdn.com/dms/image/C4E03AQEA7Vk23bO6pA/profile-displayphoto-shrink_800_800/0/1609326530436?e=1701302400&v=beta&t=rikiYPkmnHUY3zGJADGw-5R2u4RU7CModgTW0seRsI4",
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAACnjRl4B-FqEMDABn2RKx3V1wh6-AlOyN5E",
+    "object_urn": 702760542,
+    "birth_date": null,
+    "summary": "Systems and Control Engineer with a demonstrated background in classical and learning-based control design for dynamic systems.Experienced with interfacing with electronic components ranging from various sensors to\nlow powered micro-controller boards. Gaining experience in interfacing with complex dynamic systems through more professional platforms like dSPACE. Extremely enthusiastic to interact with hardware and understand the limitations of applicability of different control strageties in real life systems.",
+    "location": {
+        "country": "Netherlands",
+        "short": "Eindhoven, North Brabant",
+        "city": "Eindhoven",
+        "state": "North Brabant",
+        "default": "Eindhoven, North Brabant, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": []
+    },
+    "industry": "Research",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "school": {
+                "name": "Eindhoven University of Technology",
+                "logo": "https://media.licdn.com/dms/image/C560BAQG4PGSYiNG4CA/company-logo_400_400/0/1642150189320?e=1703721600&v=beta&t=omf4Ziy8Suete_GTJ3Qn1mOBS7ZrKSPido6Ld2LseBU",
+                "url": "https://www.linkedin.com/school/eindhoven-university-of-technology/"
+            },
+            "degree_name": "Master of Science - MS",
+            "field_of_study": "Systems and Control",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "school": {
+                "name": "Maulana Azad National Institute of Technology",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQH_k4qZKwNzCQ/company-logo_400_400/0/1519880063872?e=1703721600&v=beta&t=T0nB5OqAotJz9isBLCue2UnM9S-5yW5IYBy0Cv7qt-U",
+                "url": "https://www.linkedin.com/school/manitbhopal/"
+            },
+            "degree_name": "Bachelor of Technology - BTech",
+            "field_of_study": "Electrical and Electronics Engineering",
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "Speed Control of BLDC motor using Wavelet Transforms based MRPID controller",
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "description": "In this project, an intelligent control system for the speed control of a BLDC motor has been developed using wavelet-based MRPID technique. The scope of the project included extensive research on the mother wavelet functions and extraction of filler coefficient values for the high pass and low pass filters. Subsequently, the designed MRPID controller has been implemented on hardware through PWM control of semiconductor switches controlled by signals from a low-cost microcontroller board such as Arduino.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Anantha Sai Hariharan",
+                    "last_name": "Vinjarapu",
+                    "name": null,
+                    "headline": "MSc. Systems and Control at Eindhoven University of Technology"
+                }
+            ]
+        },
+        {
+            "title": "Hybrid Vehicle Challenge",
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "description": "Worked on a digital dashboard to display parameters like vehicle speed, engine rpm and distance travelled. Worked on the control of a 1.5kW BLDC motor in parallel with a 306 cc IC engine. Developed a gear indication and suggestion mechanism for the fuel efficient running of the vehicle using the ratio of engine rpm to vehicle speed. Worked on adopting CAN protocol that enabled communication between three ATmega 328 microcontrollers as the core of the digital dashboard.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Anantha Sai Hariharan",
+                    "last_name": "Vinjarapu",
+                    "name": null,
+                    "headline": "MSc. Systems and Control at Eindhoven University of Technology"
+                }
+            ]
+        },
+        {
+            "title": "Identification and Study of the Kinematic Parameters for an Autonomous Ground Vehicle",
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "description": "Worked on the study and identification of the kinematic parameters of a differential drive mobile robot system for designing a Self-Tuning Control System based on bilinear transforms for the robot. Performed the identification first on MATLAB simulation and later on, on a physical system using an integrated controller board Ni-myRIO from National Instruments interfaced through Lab View.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Anantha Sai Hariharan",
+                    "last_name": "Vinjarapu",
+                    "name": null,
+                    "headline": "MSc. Systems and Control at Eindhoven University of Technology"
+                }
+            ]
+        }
+    ],
+    "publications": [
+        {
+            "name": "IoT based Smart Tea leaves Plucker with Two Revolute Type Planar Manipulator",
+            "publisher": "IEEE",
+            "url": "https://ieeexplore.ieee.org/document/8546942/authors#authors",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2018
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Anantha Sai Hariharan",
+                    "last_name": "Vinjarapu",
+                    "name": null,
+                    "headline": "MSc. Systems and Control at Eindhoven University of Technology"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Subham Kumar Jain",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Anubhav Jain",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Aditya Goswami",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Rajesh Purohit",
+                    "headline": null
+                }
+            ]
+        },
+        {
+            "name": "A Survey of Autonomous Mobile Robot Path Planning Approaches",
+            "publisher": "IEEE",
+            "url": "https://ieeexplore.ieee.org/document/8378228",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2018
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Anantha Sai Hariharan",
+                    "last_name": "Vinjarapu",
+                    "name": null,
+                    "headline": "MSc. Systems and Control at Eindhoven University of Technology"
+                }
+            ]
+        }
+    ],
+    "courses": [],
+    "test_scores": [
+        {
+            "name": "TOEFL",
+            "score": "109/120",
+            "date": {
+                "month": 11,
+                "day": null,
+                "year": 2020
+            }
+        },
+        {
+            "name": "GRE",
+            "score": "324/340",
+            "date": {
+                "month": 9,
+                "day": null,
+                "year": 2018
+            }
+        }
+    ],
+    "position_groups": [
+        {
+            "company": {
+                "id": 4838,
+                "name": "Eindhoven University of Technology",
+                "logo": "https://media.licdn.com/dms/image/C560BAQG4PGSYiNG4CA/company-logo_400_400/0/1642150189320?e=1703721600&v=beta&t=omf4Ziy8Suete_GTJ3Qn1mOBS7ZrKSPido6Ld2LseBU",
+                "url": "https://www.linkedin.com/school/eindhoven-university-of-technology/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Eindhoven, North Brabant, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "Eindhoven University of Technology",
+                    "description": "Exploring deep learning based task flexible extensions to conventional ILC.\n\nThis work aimed at exploring the use of deep learning based regression techniques to alleviate task flexibility constraint of ILC while retaining it's superior compensation capabilities. The scope of the work included study and design of ILC for a 6DOF high precision motion system, research into various deep learning model classes and dimensionality reduction techniques to achieve scalability. The work resulted in the development of an imitation learning based task flexible ILC variant called TAIL-ILC.",
+                    "title": "Graduate Student Researcher",
+                    "employment_type": "Full-time"
+                },
+                {
+                    "location": "Eindhoven, North Brabant, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2020
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2021
+                        }
+                    },
+                    "company": "Eindhoven University of Technology",
+                    "description": null,
+                    "title": "Teaching Assistant ",
+                    "employment_type": "Part-time"
+                },
+                {
+                    "location": "Eindhoven, North Brabant, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2020
+                        },
+                        "end": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2021
+                        }
+                    },
+                    "company": "Eindhoven University of Technology",
+                    "description": "Machine learning based feedforward compensation of residual dynamics in high precision motion systems.\n\nThis work aimed at exploring the use of Gaussian Process based regression techniques for compensation of unmodelled dynamic effects in high precision motion systems to improve position tracking performance. The scope of the project included research into various sparsification techniques and demonstration of the performance of the proposed feedforward augmentation on the setup in a simulation environment.",
+                    "title": "Research Intern",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 15127999,
+                "name": "National Institute of Science and Technology (NIST), Berhampur",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQEm9fF_fiLAdQ/company-logo_400_400/0/1589705055696?e=1703721600&v=beta&t=yeoR16884Xlhyx9wR5Nvvy64wLTewyked97lLWKRve0",
+                "url": "https://www.linkedin.com/school/thenistian/",
+                "employees": {
+                    "start": 501,
+                    "end": 1000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Brahmapur, Orissa, India",
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2018
+                        }
+                    },
+                    "company": "National Institute of Science and Technology (NIST), Berhampur",
+                    "description": null,
+                    "title": "Summer Intern",
+                    "employment_type": "Full-time"
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Machine Learning",
+        "LaTeX",
+        "MATLAB",
+        "Simulink",
+        "C++"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

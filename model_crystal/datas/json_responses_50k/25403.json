@@ -1,0 +1,682 @@
+{
+    "profile_id": "nages",
+    "first_name": "Nageswaran",
+    "last_name": "Sokkayaraj",
+    "sub_title": "Senior Developer at Booking.com",
+    "profile_picture": "https://media.licdn.com/dms/image/D4E03AQHF_0F3BKqjHg/profile-displayphoto-shrink_800_800/0/1675021133198?e=1701302400&v=beta&t=Kzt-j4yS5M3bGxw_ZQtbMKCbNO0gKMpGIhpy_tIyTD4",
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAAAQnZ5EBBjD2FExg9j7oBm-DM8fRbMjUpzs",
+    "object_urn": 69691281,
+    "birth_date": null,
+    "summary": null,
+    "location": {
+        "country": "Netherlands",
+        "short": "Amsterdam, North Holland",
+        "city": "Amsterdam",
+        "state": "North Holland",
+        "default": "Amsterdam, North Holland, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "English",
+                "proficiency": null
+            },
+            {
+                "name": "Tamil",
+                "proficiency": null
+            },
+            {
+                "name": "Telugu",
+                "proficiency": "LIMITED_WORKING"
+            }
+        ]
+    },
+    "industry": "Leisure, Travel & Tourism",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2008
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2011
+                }
+            },
+            "school": {
+                "name": "PSG College of Technology",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQFBRbmAcoPNug/company-logo_400_400/0/1519903116199?e=1703721600&v=beta&t=oX2kf0ndn6aFSWHXGe6JJmRYMYTjZrtHY-D-QHqjg3A",
+                "url": "https://www.linkedin.com/school/psg-college-of-technology/"
+            },
+            "degree_name": "MCA",
+            "field_of_study": "Computer Science",
+            "grade": "8.10"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2005
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2008
+                }
+            },
+            "school": {
+                "name": "Gandhigram Rural Institute - Deemed University",
+                "logo": null,
+                "url": "https://www.linkedin.com/school/gandhigram-rural-institute---deemed-university/"
+            },
+            "degree_name": "B.Sc",
+            "field_of_study": "Mathematics",
+            "grade": "8.19"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 1993
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2005
+                }
+            },
+            "school": {
+                "name": "St. Mary's higher secondary school",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "HSC",
+            "field_of_study": "Mathematics & Biology",
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [
+        {
+            "title": "Best out going student of MCA Batch 2008-11",
+            "description": null,
+            "issuer": null,
+            "date": {
+                "month": null,
+                "day": null,
+                "year": null
+            }
+        },
+        {
+            "title": "Secured first place in Software Debugging",
+            "description": "Secured first place in Debugging at various National Level Technical Symposiums conducted at: \nNIT, Trichy; \nPondicherry University, Pondicherry; \nThiagaraja College of Engineering, Madurai;",
+            "issuer": null,
+            "date": {
+                "month": null,
+                "day": null,
+                "year": null
+            }
+        },
+        {
+            "title": "Secured first place in Software Presentation",
+            "description": "Secured first place in Software Presentation at various National Level Technical Symposium conducted by:\nNIT, Trichy; \nPondicherry University, Pondicherry.",
+            "issuer": null,
+            "date": {
+                "month": null,
+                "day": null,
+                "year": null
+            }
+        },
+        {
+            "title": "Secured first place in event, Expert",
+            "description": "Secured first place in event, Expert (Data Structure) at a National Level Technical Symposium held at Thiagaraja College of Engineering, Madurai.",
+            "issuer": null,
+            "date": {
+                "month": null,
+                "day": null,
+                "year": null
+            }
+        },
+        {
+            "title": "Secured second place in Windows Registry Hacking",
+            "description": "Secured second place in Windows Registry Hacking contests conducted by: \nNIT, Trichy; \nCoimbatore Institute of Technology, Coimbatore.",
+            "issuer": null,
+            "date": {
+                "month": null,
+                "day": null,
+                "year": null
+            }
+        }
+    ],
+    "certifications": [],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "WordMesh",
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2009
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2009
+                }
+            },
+            "description": "Prediction of the word, the user may wish to type next by learning from words used previously. Spell checking based on Edit Distance by comparing the word entered with words already in the dictionary.\n\nTechnologies & Datastructures: C++, Hash Tables, BST, Splay Trees, Tries",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Nageswaran",
+                    "last_name": "Sokkayaraj",
+                    "name": null,
+                    "headline": "Senior Developer at Booking.com"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Murtaza",
+                    "last_name": "A.",
+                    "name": null,
+                    "headline": "Customer Service at Rethink"
+                }
+            ]
+        },
+        {
+            "title": "Analytics Suite",
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "description": "Analytics Suite (AS) product developed by Ericsson helps the telecom operators take informed decisions based on Customer centric data analysis. AS collects and does analytics on data collected from various sources such as charging data, core network data and demographic data. Some of the functionalities offered include Churn analytics which helps the operator to find potential churning customers & Customer profiling module which focuses on distributing customer information to other systems such as Mobile advertising, customer care and others.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Nageswaran",
+                    "last_name": "Sokkayaraj",
+                    "name": null,
+                    "headline": "Senior Developer at Booking.com"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Senthil",
+                    "last_name": "Perumal Sekar",
+                    "name": null,
+                    "headline": "Senior Software Engineer Contract at Fidelity Investments"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Balaji",
+                    "last_name": "Thiruvengadam",
+                    "name": null,
+                    "headline": "Chief Architect"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Sudharshan",
+                    "last_name": "Muralidharan",
+                    "name": null,
+                    "headline": "Software Engineer at DoorDash"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Vadivel",
+                    "last_name": "G",
+                    "name": null,
+                    "headline": "Senior Software Engineer at Ericsson"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Skanda Prasad",
+                    "last_name": "Ganapathy",
+                    "name": null,
+                    "headline": "Data @ Zoom"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Vallabhee",
+                    "last_name": "Sundaramoorthy",
+                    "name": null,
+                    "headline": "Senior Architect at Ericsson India"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Ashwin",
+                    "last_name": "Devarajan",
+                    "name": null,
+                    "headline": "Sub System Architect at Ericsson"
+                }
+            ]
+        },
+        {
+            "title": "Instant search tool for CDR",
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2011
+                }
+            },
+            "description": "       A data analysis tool which process instantly on Peta byte of CDR and provide graphical output. The abbreviation of CDR is Call Detail Records. For each event in telecom network, it will generate CDR which will have around 140+ details (fields). Events are nothing but calling, messaging, texting, moving from one network to another network etc..\n\n      Day by day, the number of users are keep on increasing, and hence the size telecom data also getting increasing rapidly. The accuracy of the result depends on the data and algorithm. Selecting users based on some conditions or forming a group based on parameter require past few months data, which would be in terms of Peta byte.\n\n     To do analysis, indexed data using Lucene. To do the indexing faster, did the indexing using Hadoop-Map/Reduce. Cluster the Lucene index using Katta. To provide the analysis result in graphically used jFreeChart.\n\n\nTechnologies: Hadoop 0.20.1, Katta 0.6.3, Lucene 3.0.3, jFreeChart 1.0.13",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Nageswaran",
+                    "last_name": "Sokkayaraj",
+                    "name": null,
+                    "headline": "Senior Developer at Booking.com"
+                }
+            ]
+        },
+        {
+            "title": "Data Generation Tool using Hadoop",
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2010
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2011
+                }
+            },
+            "description": "A tool to generate random records using Hadoop Map/Reduce. The tool has flexibility to specify distribution of data like Zipf, Uniform, etc.., can specify percentage of nullability entries in a column, can specify regular expression, number of unique values in a column, and numeral range etc..\n\nThis tool can be used for generate random records for testing purpose.\n\nTechnologies: Hadoop 0.20.1",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Nageswaran",
+                    "last_name": "Sokkayaraj",
+                    "name": null,
+                    "headline": "Senior Developer at Booking.com"
+                }
+            ]
+        }
+    ],
+    "publications": [],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 11348,
+                "name": "Booking.com",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQEgzF5azm3fNA/company-logo_400_400/0/1628510256914?e=1703721600&v=beta&t=5eXz-OHEqUF-i5NTayhj4ycN9m2VUeV-Jyzwe5WhR9g",
+                "url": "https://www.linkedin.com/company/booking.com/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amsterdam, North Holland, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2023
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Booking.com",
+                    "description": null,
+                    "title": "Senior Software Engineer Level 2",
+                    "employment_type": "Full-time"
+                },
+                {
+                    "location": "Amsterdam, North Holland, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2020
+                        },
+                        "end": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2023
+                        }
+                    },
+                    "company": "Booking.com",
+                    "description": "As a backend developering modernizing tech stack for Hotel Reservation service.",
+                    "title": "Senior Software Engineer Level 1",
+                    "employment_type": "Full-time"
+                },
+                {
+                    "location": "Amsterdam Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2020
+                        }
+                    },
+                    "company": "Booking.com",
+                    "description": null,
+                    "title": "Software Developer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "YuMe",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Chennai Area, India",
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2016
+                        }
+                    },
+                    "company": "YuMe",
+                    "description": null,
+                    "title": "Senior Software Engineer Level 2",
+                    "employment_type": null
+                },
+                {
+                    "location": "Chennai, Tamil Nadu",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2014
+                        },
+                        "end": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2016
+                        }
+                    },
+                    "company": "YuMe",
+                    "description": null,
+                    "title": "Software Engineer Level 2",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 14550,
+                "name": "GlobalScholar",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQFtkQoBdPDcJA/company-logo_400_400/0/1550861875215?e=1703721600&v=beta&t=jPDYdIbN28K44biYycNxqGv2Rxv26dTC1dr01RpUVeI",
+                "url": "https://www.linkedin.com/company/scantron/",
+                "employees": {
+                    "start": 501,
+                    "end": 1000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Chennai Area, India",
+                    "date": {
+                        "start": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2014
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2014
+                        }
+                    },
+                    "company": "Scantron",
+                    "description": null,
+                    "title": "Senior Software Engineer",
+                    "employment_type": null
+                },
+                {
+                    "location": "Chennai Area, India",
+                    "date": {
+                        "start": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2012
+                        },
+                        "end": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2014
+                        }
+                    },
+                    "company": "Scantron",
+                    "description": null,
+                    "title": "Software Development Engineer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1060,
+                "name": "Ericsson Global India Service Pvt. Ltd",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQGm9tH6lKJ-Gg/company-logo_400_400/0/1632729373424?e=1703721600&v=beta&t=ADaHtEDQ6hn7errDEZQHjC7eLrG1xgO3iy0xoxH3qcQ",
+                "url": "https://www.linkedin.com/company/ericsson/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Chennai Area, India",
+                    "date": {
+                        "start": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2011
+                        },
+                        "end": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2012
+                        }
+                    },
+                    "company": "Ericsson",
+                    "description": "Integrated HBase for doing analytics in telecom data. Developed BPEL component which runs on top of Hadoop & HBase using Eclipse RCP.\nFixing bug on application developed using Structs and EJB.",
+                    "title": "Software Engineer",
+                    "employment_type": null
+                },
+                {
+                    "location": "Chennai",
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2011
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2011
+                        }
+                    },
+                    "company": "Ericsson",
+                    "description": null,
+                    "title": "Graduate Engineer Trainee",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1060,
+                "name": "Ericsson India Global Service Pvt. Ltd.",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQGm9tH6lKJ-Gg/company-logo_400_400/0/1632729373424?e=1703721600&v=beta&t=ADaHtEDQ6hn7errDEZQHjC7eLrG1xgO3iy0xoxH3qcQ",
+                "url": "https://www.linkedin.com/company/ericsson/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2010
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2011
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Chennai Area, India",
+                    "date": {
+                        "start": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2010
+                        },
+                        "end": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2011
+                        }
+                    },
+                    "company": "Ericsson",
+                    "description": null,
+                    "title": "Intern",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Java",
+        "Hadoop",
+        "HBase",
+        "Lucene",
+        "SQL",
+        "Microsoft SQL Server",
+        ".NET",
+        "ASP.NET",
+        "C#",
+        "JavaScript",
+        "Data Structures",
+        "Algorithms",
+        "Design Patterns",
+        "OOP",
+        "TFS",
+        "Unix Shell Scripting",
+        "Mockito",
+        "Web Services",
+        "Shell Scripting",
+        "HTML"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

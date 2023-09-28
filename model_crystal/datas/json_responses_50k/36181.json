@@ -1,0 +1,618 @@
+{
+    "profile_id": "tiago-serra",
+    "first_name": "Tiago",
+    "last_name": "Serra",
+    "sub_title": "Senior Voice Engineer at MessageBird",
+    "profile_picture": null,
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAAAObulsBPoXhnqPM8cWWwWLvzYMekBPjxvw",
+    "object_urn": 60537435,
+    "birth_date": null,
+    "summary": null,
+    "location": {
+        "country": null,
+        "short": "Netherlands",
+        "city": null,
+        "state": null,
+        "default": "Netherlands"
+    },
+    "premium": true,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "English",
+                "proficiency": "PROFESSIONAL_WORKING"
+            },
+            {
+                "name": "Portuguese",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "Spanish",
+                "proficiency": "PROFESSIONAL_WORKING"
+            }
+        ]
+    },
+    "industry": "Telecommunications",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "school": {
+                "name": "High Institute of Engineering of Lisbon, Lisbon, Portugal",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "Master of Engineering (Candidate)",
+            "field_of_study": "Electronics and Telecommunications",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "school": {
+                "name": "High Institute of Engineering of Lisbon, Lisbon, Portugal",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "Bachelor of Engineering",
+            "field_of_study": "Electronic and Telecommunication and Computer Engineering ",
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [
+        {
+            "name": "ITIL\u00ae Foundation Certificate in IT Service  Management",
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "AXELOS Global Best Practice",
+            "url": null,
+            "license_number": "GR750305387TS",
+            "display_source": null,
+            "company": {
+                "id": null,
+                "name": "AXELOS Global Best Practice",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQGo_FHY0vki5A/company-logo_400_400/0/1635436803520?e=1703721600&v=beta&t=ATMn7WAaumZHXO6Nmr-Hm5opbrPh3Q6dfxwD4w2A9bg",
+                "url": null
+            }
+        },
+        {
+            "name": "Business Language Testing Service (BULATS)",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": null,
+            "url": null,
+            "license_number": null,
+            "display_source": null,
+            "company": null
+        }
+    ],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "VoWifi/VoLTE Orange Spain - Madrid",
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "description": "Onsite Support for Orange Spain\n- Implementation and integration of Open TAS, Open BGW, Radisys MPX-12000 in VoWifi/VoLTE solution\n- Troubleshooting problems in VoWifi/VoLTE network\n- Acceptance tests",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Tiago",
+                    "last_name": "Serra",
+                    "name": null,
+                    "headline": "Senior Voice Engineer at MessageBird"
+                }
+            ]
+        },
+        {
+            "title": "VoLTE Orange Romania - Cluj Napoca",
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "description": "Onsite Support in Cluj Napoca for Orange  VoLTE Project.\n\n- Implementation and integration of the following elements: \n         - OBGW\n         - OMGW\n         - OTAS\n",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Tiago",
+                    "last_name": "Serra",
+                    "name": null,
+                    "headline": "Senior Voice Engineer at MessageBird"
+                }
+            ]
+        }
+    ],
+    "publications": [],
+    "courses": [
+        {
+            "name": "NetAct OSS5.4 Core Network Configuration Management",
+            "number": null
+        },
+        {
+            "name": "Oracle SBC Configuration and Administration",
+            "number": null
+        },
+        {
+            "name": "Systematic Troubleshooting (Kepner-Tregoe (KT))",
+            "number": null
+        },
+        {
+            "name": "VMware vSphere: Fast Track [V6]",
+            "number": null
+        }
+    ],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 2783482,
+                "name": "MessageBird",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQG6Gtf2jVgFSw/company-logo_400_400/0/1657558276979?e=1703721600&v=beta&t=ty-Kpa0Lz5457-Iry_cOhQ9YXXn7mhdX0Ng17iM3Zf8",
+                "url": "https://www.linkedin.com/company/messagebird-com/",
+                "employees": {
+                    "start": 501,
+                    "end": 1000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amsterdam, North Holland, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2023
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "MessageBird",
+                    "description": null,
+                    "title": "Senior Voice Engineer",
+                    "employment_type": "Full-time"
+                },
+                {
+                    "location": "Amsterdam, North Holland, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2020
+                        },
+                        "end": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2023
+                        }
+                    },
+                    "company": "MessageBird",
+                    "description": null,
+                    "title": "Voice Engineer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 2837787,
+                "name": "Talkdesk",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQFpgtuP9qlgQA/company-logo_400_400/0/1625134442213?e=1703721600&v=beta&t=Din7eu8lDwHDA_LriGfumf3RcHhRky-t1GfBYtaUJOY",
+                "url": "https://www.linkedin.com/company/talkdesk/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2020
+                        },
+                        "end": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2020
+                        }
+                    },
+                    "company": "Talkdesk",
+                    "description": null,
+                    "title": "Tech Lead and Voice Engineer at Interconnect",
+                    "employment_type": "Full-time"
+                },
+                {
+                    "location": "Lisbon Area, Portugal",
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2020
+                        }
+                    },
+                    "company": "Talkdesk",
+                    "description": null,
+                    "title": "Voice Engineer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Vodafone",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Lisbon Area, Portugal",
+                    "date": {
+                        "start": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "Vodafone",
+                    "description": "Working as IMS consultant engineer at Vodafone Portugal\n- Design and manage IMS network\n- Integration of Sip trunks between Vodafone and partners\n- E2E Troubleshooting on IMS network\n- Oracle SBC 4600 and 4500\n- Ericsson HSS, CSCF",
+                    "title": "IMS Engineer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 42112,
+                "name": "Celfinet",
+                "logo": "https://media.licdn.com/dms/image/D4D0BAQFYRukkPWgTgw/company-logo_400_400/0/1658486091158?e=1703721600&v=beta&t=od5lReIt_SG1jJmJtkK4x-N1KZa0NEfT74-BDdb58B8",
+                "url": "https://www.linkedin.com/company/celfinet/",
+                "employees": {
+                    "start": 201,
+                    "end": 500
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Lisbon Area, Portugal",
+                    "date": {
+                        "start": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2017
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "Celfinet",
+                    "description": null,
+                    "title": "IMS Engineer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1070,
+                "name": "Nokia",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQGL8hpduEqGKQ/company-logo_400_400/0/1677420438777?e=1703721600&v=beta&t=f71t3mqmcjrQMa43n0ZASv43aPIsPFYwKnX4eRtOOAc",
+                "url": "https://www.linkedin.com/company/nokia/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Lisbon Area, Portugal",
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2014
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2017
+                        }
+                    },
+                    "company": "Nokia",
+                    "description": "Core network engineer with focus in  VoLTE/IMS core solutions.\n\n\u2022 Commissioning, integration and acceptance of CS core elements as MSS, MGW, TAS , BGW and MRF\n\u2022 Implementation and acceptance tests in VoWiFi /VoLTE projects\n\u2022 Provide documentation, including test plans and MOPS\n\u2022 Responsible for  SW release upgrades, HW upgrades and HW capacity expansion for MSS, MGW, TAS, BGW and MRF",
+                    "title": "Core Network Engineer",
+                    "employment_type": null
+                },
+                {
+                    "location": "Lisbon Area, Portugal",
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2012
+                        },
+                        "end": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2014
+                        }
+                    },
+                    "company": "Nokia",
+                    "description": "Customer support engineer in CS core rel4.\n\n\u2022 Provide support for rel4 Nokia products as MSS(DX/ATCA), HLR(DX), MGW(IPA/ATCA), CDS(DX)\n\u2022 Care support for Proximus, Tango and T-Mobile Netherlands\n\u2022 Support for routing, signaling and hardware troubleshooting",
+                    "title": "Customer Support Engineer - CS Core",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 165313,
+                "name": "ONI",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQF7-qBJvYgsIg/company-logo_400_400/0/1633365053802?e=1703721600&v=beta&t=B0ZH4v986OMnXi09wJ9CQTxhofYaSaRybCXChfij_pE",
+                "url": "https://www.linkedin.com/company/oni/",
+                "employees": {
+                    "start": 201,
+                    "end": 500
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Lisbon Area, Portugal",
+                    "date": {
+                        "start": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2011
+                        },
+                        "end": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2012
+                        }
+                    },
+                    "company": "ONI",
+                    "description": "Responsible for managing projects in telecommunications for corporate customers.\nDespite being an internship in project management, I achieved total autonomy being the project manager for some of the biggest and most important customers.\n\n\u2022  Projects involving several technologies , xDSL, SDH, MPLS, VOIP, Datacenter servers, IP networks, cloud\n\u2022  Reporting project progress regularly to customer and stakeholders\n\u2022  Working with different teams to ensure  delivery of the project on time and within budget\n\u2022  Identify, track and resolve issues",
+                    "title": "Internship - Project Manager",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Bauen Efacec S.A. - Argentina",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2011
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "C\u00f3rdoba, Argentina",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2011
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2011
+                        }
+                    },
+                    "company": "Bauen Efacec S.A. - Argentina",
+                    "description": "Responsible for replicating in Argentina factory the information system tools and processes used in Portugal factory in different areas as engineering, commercial, finances, logistics.\n\n\u2022  Performed training to end users\n\u2022  Responsible for the planning and following up of the implementation\n\u2022  Interface between end users in Argentina and developers in Portugal",
+                    "title": "Inov Contact - Internship in Information system - EFACEC",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Telco",
+        "Infrastructure",
+        "Unified Communications",
+        "rtpengine",
+        "go",
+        "RTC",
+        "Rtpengine",
+        "Google Cloud Platform (GCP)",
+        "Aws",
+        "Asterisk",
+        "Freeswitch",
+        "Kamailio",
+        "Ansible",
+        "Terraform",
+        "DevOps",
+        "Go (Programming Language)",
+        "VoIP",
+        "Session Initiation Protocol (SIP)",
+        "IMS",
+        "Telecommunications"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

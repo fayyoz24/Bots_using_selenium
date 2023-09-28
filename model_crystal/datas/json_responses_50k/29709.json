@@ -1,0 +1,784 @@
+{
+    "profile_id": "mathijsjonker",
+    "first_name": "Mathijs",
+    "last_name": "Jonker",
+    "sub_title": "Spindler bij Devhouse Spindle",
+    "profile_picture": "https://media.licdn.com/dms/image/D4E03AQGIOfe7G6CMXw/profile-displayphoto-shrink_800_800/0/1668866970614?e=1701302400&v=beta&t=a3nZsZzcCF52NNKFzfNDAGB7YIyIKVefaA6zn36dUFU",
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAABbrL2cBQxUYOoyJG844UQxNPfyEBsu1q8E",
+    "object_urn": 384511847,
+    "birth_date": null,
+    "summary": "Developing the best solution for the task at hand. ",
+    "location": {
+        "country": "Netherlands",
+        "short": "Heerenveen, Friesland",
+        "city": "Heerenveen",
+        "state": "Friesland",
+        "default": "Heerenveen, Friesland, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "Dutch",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "English",
+                "proficiency": "PROFESSIONAL_WORKING"
+            },
+            {
+                "name": "French",
+                "proficiency": null
+            },
+            {
+                "name": "German",
+                "proficiency": null
+            },
+            {
+                "name": "Western Frisian",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ]
+    },
+    "industry": "Telecommunications",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "school": {
+                "name": "NHL Hogeschool",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQF9DTfxNYSk6g/company-logo_400_400/0/1519881552029?e=1703721600&v=beta&t=8m1tf4wtG3NalJPmiDtIniYppxObzKOLXEnzQvsvVGs",
+                "url": "https://www.linkedin.com/school/nhl-hogeschool/"
+            },
+            "degree_name": "Bachelor of Engineering (B.E.)",
+            "field_of_study": "Computer Software Engineering",
+            "grade": "CUM LAUDE (avg 8.2)"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2005
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2011
+                }
+            },
+            "school": {
+                "name": "OSG Sevenwolden",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "Havo",
+            "field_of_study": "Nature and technology",
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [
+        {
+            "name": "Product manager foundations 2021",
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Product Institute",
+            "url": null,
+            "license_number": "cert_bz1p92rp",
+            "display_source": null,
+            "company": {
+                "id": null,
+                "name": "Product Institute",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQGkGUeKfT5vJg/company-logo_400_400/0/1578162300214?e=1703721600&v=beta&t=-H2Z8gA8Jm_Bwi6vlKutWuRSIUU85nsE6v4V5YViy68",
+                "url": null
+            }
+        },
+        {
+            "name": "UAS A1 + A3 open drone",
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2027
+                }
+            },
+            "authority": "EASA - European Union Aviation Safety Agency",
+            "url": null,
+            "license_number": null,
+            "display_source": null,
+            "company": {
+                "id": null,
+                "name": "EASA - European Union Aviation Safety Agency",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQGcjF2A1XTRPg/company-logo_400_400/0/1694423819956?e=1703721600&v=beta&t=V1Hb64mxm3sXROiVF9yj_XYFtPr8BJycPVcvowGGmC0",
+                "url": null
+            }
+        }
+    ],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "Omnidots",
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "description": "Omnidots consists of a sensor and web portal. The Omnidots sensor is a sensor for registering vibrations in structures. Amongst others for detecting potential damage to buildings caused by nearby construction, earth quakes or heavy traffic. The Omnidots web portal gives insight into the measurements. I have been responsible for the architecture design of the sensor and the web portal as well as the communication between the two. This is a typical internet of things implementation. At the web portal certain big data algorithms are used to correlate the measurements. The sensor is running embedded Linux. Using Google protocol buffers and encryption all the sensors are connected to the web portal. The sensors are autonomously monitored and firmware upgraded. An automated test system verifies proper operation of new firmware builds before deployment into the field.\n",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Mathijs",
+                    "last_name": "Jonker",
+                    "name": null,
+                    "headline": "Spindler bij Devhouse Spindle"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Lourens",
+                    "last_name": "Rozema",
+                    "name": null,
+                    "headline": "CTO & cofounder of Omnidots"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Marko",
+                    "last_name": "Bolt",
+                    "name": null,
+                    "headline": "Entrepreneur & co-founder of Omnidots"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Auke",
+                    "last_name": "Huizinga",
+                    "name": null,
+                    "headline": "Engineer at Omnidots"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Jurjen",
+                    "last_name": "Heida",
+                    "name": null,
+                    "headline": "R&D Engineer bij Hypex Electronics BV"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Rianne",
+                    "last_name": "Schut",
+                    "name": null,
+                    "headline": "Ervaren bij (tech) start-ups en scale-ups met diverse rollen. Generalist met specialisme in marcom en HR."
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Lianda",
+                    "last_name": "van Dalen",
+                    "name": null,
+                    "headline": "User Experience Designer / Concept Developer"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Marc",
+                    "last_name": "Snip",
+                    "name": null,
+                    "headline": "ATPL pilot open for FO positions, PCB designer"
+                }
+            ]
+        },
+        {
+            "title": "Windows Phone BitCoin tracking App",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "description": "I gained interest for Windows Phone and app development. While BitCoin was booming, I couldn't find a simple app which kept me updated about the current trade value of BitCoin. So I started developing my own app for tracking the trade value. Techniques used are C#, ASP and Visual Studio.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Mathijs",
+                    "last_name": "Jonker",
+                    "name": null,
+                    "headline": "Spindler bij Devhouse Spindle"
+                }
+            ]
+        },
+        {
+            "title": "Project IDP",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "description": "Software engineering project in collaboration with civil engineering and electro engineering. The goal was to develop a (scaled down) vehicle that was capable of cleaning oil from the Wadden Sea. The vehicle had an WiFi connection with an Android tablet.\n\nThe device had to be controlled from the Android tablet, our goal was to develop a easy to use Android app along with micro-controller software for the vehicle. My role, beside programming/designing the app, was leading the software engineers.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Mathijs",
+                    "last_name": "Jonker",
+                    "name": null,
+                    "headline": "Spindler bij Devhouse Spindle"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Eddie",
+                    "last_name": "Sprietsma",
+                    "name": null,
+                    "headline": "Eigenaar WebSpriet"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Robert",
+                    "last_name": "Tinga",
+                    "name": null,
+                    "headline": "Software Developer at Zilveren Kruis"
+                }
+            ]
+        },
+        {
+            "title": "Project NHL stackoverflow",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "description": "The NHL department engineering wanted a social media board where students could ask questions and receive answers from their fellow students. The website had to be build with ASP.NET and we added a flavor of MVC3 on top of it. \n\nWe received a price for best result from our teachers. ",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Mathijs",
+                    "last_name": "Jonker",
+                    "name": null,
+                    "headline": "Spindler bij Devhouse Spindle"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Marten",
+                    "last_name": "S.",
+                    "name": null,
+                    "headline": "Staff Software Engineer at DockYard, Inc."
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Eddie",
+                    "last_name": "Sprietsma",
+                    "name": null,
+                    "headline": "Eigenaar WebSpriet"
+                }
+            ]
+        }
+    ],
+    "publications": [],
+    "courses": [
+        {
+            "name": "Analitics",
+            "number": null
+        },
+        {
+            "name": "BHV",
+            "number": null
+        },
+        {
+            "name": "Computer Vision",
+            "number": null
+        },
+        {
+            "name": "Computer organisation",
+            "number": null
+        },
+        {
+            "name": "Concurrent programming",
+            "number": null
+        },
+        {
+            "name": "Cryptographic",
+            "number": null
+        },
+        {
+            "name": "Cybercrime",
+            "number": null
+        },
+        {
+            "name": "Databases",
+            "number": null
+        },
+        {
+            "name": "Design Patterns",
+            "number": null
+        },
+        {
+            "name": "Discrete mathematics",
+            "number": null
+        },
+        {
+            "name": "Embedded Systems",
+            "number": null
+        },
+        {
+            "name": "Information modelling",
+            "number": null
+        },
+        {
+            "name": "Linear algebra",
+            "number": null
+        },
+        {
+            "name": "Math",
+            "number": null
+        },
+        {
+            "name": "Object Oriented Programming",
+            "number": null
+        },
+        {
+            "name": "Programming (C#)",
+            "number": null
+        },
+        {
+            "name": "Programming (C++)",
+            "number": null
+        },
+        {
+            "name": "Programming (Java)",
+            "number": null
+        },
+        {
+            "name": "Software Designs",
+            "number": null
+        },
+        {
+            "name": "Software Engineering",
+            "number": null
+        }
+    ],
+    "test_scores": [
+        {
+            "name": "Analitics",
+            "score": "9",
+            "date": null
+        },
+        {
+            "name": "Computer Vision",
+            "score": "10",
+            "date": null
+        },
+        {
+            "name": "Databases",
+            "score": "10",
+            "date": null
+        },
+        {
+            "name": "Design Patterns",
+            "score": "9",
+            "date": null
+        },
+        {
+            "name": "Discrete mathematics",
+            "score": "8",
+            "date": null
+        },
+        {
+            "name": "English",
+            "score": "9",
+            "date": null
+        },
+        {
+            "name": "Information modelling",
+            "score": "9",
+            "date": null
+        },
+        {
+            "name": "Linear algebra",
+            "score": "10",
+            "date": null
+        },
+        {
+            "name": "Math",
+            "score": "9",
+            "date": null
+        },
+        {
+            "name": "Object oriented programming",
+            "score": "9",
+            "date": null
+        },
+        {
+            "name": "Operating Systems",
+            "score": "9",
+            "date": null
+        },
+        {
+            "name": "Programming (C#)",
+            "score": "10",
+            "date": null
+        },
+        {
+            "name": "Software Design",
+            "score": "8",
+            "date": null
+        },
+        {
+            "name": "Statistics",
+            "score": "9",
+            "date": null
+        }
+    ],
+    "position_groups": [
+        {
+            "company": {
+                "id": 264971,
+                "name": "Voys",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQGW_HU7t3REVg/company-logo_400_400/0/1562059264511?e=1703721600&v=beta&t=Iy9JD5xDIdVBI75wk6j9xwd9ggRQEKNr8ax2g86MGQg",
+                "url": "https://www.linkedin.com/company/voys-telecom/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Groningen, Provincie Groningen, Nederland",
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Voys",
+                    "description": null,
+                    "title": "Product owner",
+                    "employment_type": "Full-time"
+                },
+                {
+                    "location": "Groningen, Provincie Groningen, Nederland",
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "Voys",
+                    "description": null,
+                    "title": "Software Developer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 5046695,
+                "name": "Omnidots",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQHmpvKBAiY6ug/company-logo_400_400/0/1670412494301?e=1703721600&v=beta&t=9MqWM_4C1rdMBMUyoJQC7Lq39kL4j6TJDubXFO4gvAM",
+                "url": "https://www.linkedin.com/company/omnidots/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Drachten, Provincie Friesland, Nederland",
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2017
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "Omnidots",
+                    "description": "Responsible for all web services at Omnidots.  Created a production and development environment using docker-compose and later updated to docker-swarm. Currently working as a full stack developer on all services at Omnidots.",
+                    "title": "Software Engineer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 2844631,
+                "name": "Tvilight Intelligent Lighting",
+                "logo": "https://media.licdn.com/dms/image/D4D0BAQGhxRX4w5ue0Q/company-logo_400_400/0/1683603705612?e=1703721600&v=beta&t=swAesDR39E3a0eS9f8W4XN1mlbD3j6jN4KmurNnQmk8",
+                "url": "https://www.linkedin.com/company/tvilight-bv/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Groningen, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2017
+                        }
+                    },
+                    "company": "Tvilight Smart City Lighting",
+                    "description": "Responsible for developing and maintaining a custom Linux environment. Maintaining and updating a Java application which uses websockets to transfer data to our cloud server.",
+                    "title": "Embedded Software Developer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 565068,
+                "name": "Embed Engineering B.V.",
+                "logo": "https://media.licdn.com/dms/image/C560BAQE9nYE5xRGLRA/company-logo_400_400/0/1519861396284?e=1703721600&v=beta&t=mW0sITovQWwPSpwPnIBiZgIB82qCkNz3uoVGfnKOzSg",
+                "url": "https://www.linkedin.com/company/embed-engineering-b-v-/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Groningen, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2013
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2016
+                        }
+                    },
+                    "company": "Embed Engineering B.V.",
+                    "description": "Creating sustainable and testable software is what I stand for. As software engineer this is my aim at Embed Engineering. While working at Embed I've successfully introduced a continuous integration workflow. \n\nI'm responsible for leading junior software engineers and keeping a short line with the customer. Managing their expectations and leading the software development towards these.",
+                    "title": "Medior Software Engineer",
+                    "employment_type": null
+                },
+                {
+                    "location": "Groningen, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2012
+                        },
+                        "end": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2013
+                        }
+                    },
+                    "company": "Embed Engineering B.V.",
+                    "description": "Developing a Linux application for processing data from vibration sensors and pushing these to a cloud.",
+                    "title": "Software Development Intern",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 2327,
+                "name": "Randstad",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQFqC--DBWZjDA/company-logo_400_400/0/1519855858406?e=1703721600&v=beta&t=2UpI15kymxQ_JU9wGpZ5kvmnqXAvjULHY3ENrSk3sYM",
+                "url": "https://www.linkedin.com/company/randstad/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2011
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Friesland, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2011
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2011
+                        }
+                    },
+                    "company": "Randstad",
+                    "description": "Aid boats moor and navigate in/out the lock during the summer time.",
+                    "title": "Standby employee",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Django",
+        "Python",
+        "Unix",
+        "OOP",
+        "Continuous Integration",
+        "Responsive Web Design",
+        "Scrum",
+        "Agile Project Management",
+        "Unit Testing",
+        "Software Engineering",
+        "Software Design",
+        "Web Development",
+        "Web Applications",
+        "Object Oriented Design",
+        "Project Management",
+        "Software Development",
+        "Web Services",
+        "C++",
+        "Linux",
+        "Github"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

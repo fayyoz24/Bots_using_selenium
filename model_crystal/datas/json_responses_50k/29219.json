@@ -1,0 +1,400 @@
+{
+    "profile_id": "rickfaber",
+    "first_name": "Rick",
+    "last_name": "Faber",
+    "sub_title": "Software Engineer",
+    "profile_picture": null,
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAAAVmBnEBocbH3qBrbO_zv3Vra17D157Qk1E",
+    "object_urn": 90572401,
+    "birth_date": null,
+    "summary": null,
+    "location": {
+        "country": null,
+        "short": "Netherlands",
+        "city": null,
+        "state": null,
+        "default": "Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "English",
+                "proficiency": "PROFESSIONAL_WORKING"
+            },
+            {
+                "name": "Nederlands",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ]
+    },
+    "industry": "Computer Software",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2008
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "school": {
+                "name": "Grafisch Lyceum Rotterdam",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQF_I9YCTpLMUw/company-logo_400_400/0/1633614021330?e=1703721600&v=beta&t=V4lsMFxutAHI5Hpr3ph25O7vXoeTXuKUWG9jJQlTl-4",
+                "url": "https://www.linkedin.com/school/grafischlyceumrotterdam/"
+            },
+            "degree_name": "MBO-4 BOL",
+            "field_of_study": "Gamedesign, 3D Game Artist",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2003
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2007
+                }
+            },
+            "school": {
+                "name": "Penta College: Angelus Merula",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": null,
+            "field_of_study": "Natuur & Techniek",
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "Lethe - Episode One",
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "description": "Lethe is a first-person physics-based game that requires the player to interact with the environment in order to survive.\n\nYou play as Robert Dawn, a journalist, who mysteriously developed psychokinetic abilities after coming in contact with \u201cLethaeum II\", an unknown chemical responsible for the near extinction of an island's population.\n\nThrough the island's hazardous environments and against the hostile remaining residents, Robert has to survive with the strength of his mind as his only defense.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Rick",
+                    "last_name": "Faber",
+                    "name": null,
+                    "headline": "Software Engineer"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Ioannis E.",
+                    "last_name": "Koukourakis",
+                    "name": null,
+                    "headline": "Gameplay Programmer / Designer at Frictional Games"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Jeremiah Pena",
+                    "headline": null
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Dim",
+                    "last_name": "Chryssanthakopoulos",
+                    "name": null,
+                    "headline": "3D Artsit"
+                }
+            ]
+        }
+    ],
+    "publications": [],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 397925,
+                "name": "MARIN (Maritime Research Institute Netherlands)",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQGrqNE7dzbxYg/company-logo_400_400/0/1571733730226?e=1703721600&v=beta&t=7Gdzl93r_T5rp5Tl-_3gNOUZ--tw1ecd6ehy-SDQz2M",
+                "url": "https://www.linkedin.com/company/marin/",
+                "employees": {
+                    "start": 201,
+                    "end": 500
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Wageningen, Gelderland, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "MARIN (Maritime Research Institute Netherlands)",
+                    "description": null,
+                    "title": "Software Engineer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Faber Interactive",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Netherlands",
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Faber Interactive",
+                    "description": null,
+                    "title": "Owner",
+                    "employment_type": "Self-employed"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 2546111,
+                "name": "Green Dino BV",
+                "logo": "https://media.licdn.com/dms/image/C510BAQEmk504CXR9eg/company-logo_400_400/0/1519874231144?e=1703721600&v=beta&t=pwuTsX2VqEfcSmAKVM96RxXCgH0-knYh4IfXTU_JHoM",
+                "url": "https://www.linkedin.com/company/green-dino-bv/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Wageningen",
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "Green Dino BV",
+                    "description": null,
+                    "title": "Software Developer",
+                    "employment_type": "Permanent"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 15157845,
+                "name": "KoukouStudios",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQGRBGnaKKI4fw/company-logo_400_400/0/1519900135592?e=1703721600&v=beta&t=MBzWTcAZTGQsT9o90_jQTKSJZE9Q_nUPesSlI14mImI",
+                "url": "https://www.linkedin.com/company/koukoustudios/",
+                "employees": {
+                    "start": 2,
+                    "end": 10
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2012
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2018
+                        }
+                    },
+                    "company": "KoukouStudios",
+                    "description": "As a small team that consisted of people who love what they do, we developed a PC game called \"Lethe - Episode One\":\nhttp://www.koukoustudios.com/\nhttp://store.steampowered.com/app/407780\nhttp://www.indiedb.com/games/lethe-episode-one\n\nWithin that team, my responsibility entailed the creation of high-quality and optimized 3D assets complete with shaders. Apart from sculpting, modeling, and texturing I also provided valuable advice in game design, partake in the process of writing the story, did gameplay programming, UI design, level design, and much more.",
+                    "title": "Game Developer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 356809,
+                "name": "Gemeentearchief Rotterdam",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQEVuTHLSDwpuw/company-logo_400_400/0/1611223728658?e=1703721600&v=beta&t=dQ22tnIGkK3Ni19xMNsvCQaznlkjwhTLzt0qKtLeUCs",
+                "url": "https://www.linkedin.com/company/stadsarchief-rotterdam/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2011
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Rotterdam Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2011
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2011
+                        }
+                    },
+                    "company": "Stadsarchief Rotterdam",
+                    "description": null,
+                    "title": "Intern Information Management",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Simulations",
+        "Mentoring New Hires",
+        "Peer Mentoring",
+        "Gameplay Programming",
+        "Digital Sculpting",
+        "Creative Writing",
+        "Virtual Reality (VR)",
+        "Unreal Engine 5",
+        "Programming",
+        "Unreal Engine 4",
+        "User Interface Design",
+        "Texturing",
+        "3D Studio Max",
+        "Game Development",
+        "Game Design",
+        "3D",
+        "Video Games",
+        "Unreal Engine 3",
+        "Photoshop",
+        "Mudbox"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

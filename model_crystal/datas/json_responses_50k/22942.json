@@ -1,0 +1,619 @@
+{
+    "profile_id": "abhishek-chatterjee2",
+    "first_name": "Abhishek",
+    "last_name": "Chatterjee",
+    "sub_title": "Robotics System Architect",
+    "profile_picture": "https://media.licdn.com/dms/image/C5603AQFaDoSz1ooA8g/profile-displayphoto-shrink_800_800/0/1516952928166?e=1701302400&v=beta&t=eYf6_xMjXTCqbfBqZsL1XERSu1D6AK8nI3kBuJr4wXg",
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAABl1XgoBcPLSmNEaS6S0hv1z19CXSQxCmrE",
+    "object_urn": 427122186,
+    "birth_date": null,
+    "summary": null,
+    "location": {
+        "country": "Netherlands",
+        "short": "Eindhoven, North Brabant",
+        "city": "Eindhoven",
+        "state": "North Brabant",
+        "default": "Eindhoven, North Brabant, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "Bengali",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "English",
+                "proficiency": "FULL_PROFESSIONAL"
+            },
+            {
+                "name": "Hindi",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ]
+    },
+    "industry": "Mechanical Or Industrial Engineering",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "school": {
+                "name": "Delft University of Technology",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQFwaGpwaod9mQ/company-logo_400_400/0/1670699851986?e=1703721600&v=beta&t=Aw4oLxoKsIJcblYDjxw9200FClnyhZu8DxzcfJRDFOs",
+                "url": "https://www.linkedin.com/school/tudelft/"
+            },
+            "degree_name": "Master of Science - MS",
+            "field_of_study": "Control and Operations, Aerospace Engineering",
+            "grade": "8.5"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "school": {
+                "name": "Indian Institute of Technology, Guwahati",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQFsVma02aZ5dg/company-logo_400_400/0/1519874679969?e=1703721600&v=beta&t=ySnRHbS2wzDiSlEMtZfiy29plJA_kQbeTz5Oc2zpmRQ",
+                "url": "https://www.linkedin.com/school/iitg/"
+            },
+            "degree_name": "Bachelor of Technology (B.Tech.)",
+            "field_of_study": "Mechanical Engineering",
+            "grade": "8.83"
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "Development of an Autonomous Object Following Quadcopter : B.Tech Thesis Project",
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "description": "Developed an autonomous quadrotor platform capable of  tracking and following a target moving on the ground. Kernelized Correlation Filter (KCF) tracking algorithm was implemented to track the moving target and a PBVS approach was developed to follow the target. \n\nVideo Links : \nGround View : https://youtu.be/m99Td6hJeQ0\nOnboard View : https://youtu.be/zpwBk2e8Oxs",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Abhishek",
+                    "last_name": "Chatterjee",
+                    "name": null,
+                    "headline": "Robotics System Architect"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Karthikeya",
+                    "last_name": "Parunandi",
+                    "name": null,
+                    "headline": "Senior Software Engineer at Cruise"
+                }
+            ]
+        },
+        {
+            "title": "Particle Image Velocimetry Study on Insect based Mechanical Flapping Wing in Hover",
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "description": "Intrigued by the concept of flapping wing aerodynamics we decided to investigate the flow physics around a hovering insect's flapping wing through PIV (Particle Image Velocimetry) test on a mechanical flapping wing.\n\u200b\nWe designed and fabricated a mechanism to replicate insect wing kinematics in hover. Then we conducted PIV tests on the mechanism for varied frequencies at varied wing phase locations at three spanwise locations and obtained the velocity vectors around the wing. \n\u200b\nWe are currently studying the obtained flow fields to draw inferences that would help us to better understand the unsteady aerodynamics over a flapping wing.\n\nhttp://abhishekchatterjee6.wixsite.com/abhishek/new-page",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Abhishek",
+                    "last_name": "Chatterjee",
+                    "name": null,
+                    "headline": "Robotics System Architect"
+                }
+            ]
+        },
+        {
+            "title": "Applications on Neural Network in Aerospace Engineering",
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "description": "We explored the various applications of Neural Networks in diverse fields of Aerospace Engineering. The project started with using artificial neural network training for parameter estimations in Hansa-3 aircraft.Further we explored the use of artificial neural network training in control problems wherein the elevator deflections are modelled using a 6-DOF system coupled with a trained artificial neural network.\n\u200b\nFurther we trained an artificial neural network for artillery shell trajectory prediction with the objective of improving the parametric prediction method that is presently being used.\nAn artificial neural network was trained to estimate the target of a Point Mass Model of an artillery shell for a given set of environmental conditions. The results are generated for a fixed bearing angle and varying bearing angles for estimating the target position and also estimating the required elevation angle and bearing for a given target position .The Point Mass Model was further improved to generate a Modified Point Mass Model which took into account additional factors such as spin induced drifts, coriolis forces of earth and better drag modelling. Neural network was trained to account for these changes and the resulting system was capable of predicting trajectory and target of an artillery shell with better accuracy than the parametric system that is currently being used.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Abhishek",
+                    "last_name": "Chatterjee",
+                    "name": null,
+                    "headline": "Robotics System Architect"
+                }
+            ]
+        },
+        {
+            "title": "Hand Gesture Controlled Helicopter",
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "description": "In this short term project we intended to replace more complex, difficult to learn and not intuitively usable control system, such as the hand-held joystick, with seamless hand based gestures using Leap motion controller. \n \nThe obtained \u2018up\u2019 and \u2018down\u2019 maneuvers have been perfectly tuned, however we are yet to obtain smooth maneuvers for the \u2018forward\u2019 and \u2018backward\u2019 maneuver commands.\n\nhttp://abhishekchatterjee6.wixsite.com/abhishek/helicopter",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Abhishek",
+                    "last_name": "Chatterjee",
+                    "name": null,
+                    "headline": "Robotics System Architect"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Karthikeya",
+                    "last_name": "Parunandi",
+                    "name": null,
+                    "headline": "Senior Software Engineer at Cruise"
+                }
+            ]
+        },
+        {
+            "title": "Design and Fabrication of Non Powered Glider",
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "description": "This project was intended to fabricate a long endurance non powered glider. In order to increase endurance we increased the aspect ratio and used polyhederal configuration of wings. We though were successful in increasing the endurance, however the glider had to be launched from a significant height to have enough flight time for the maneuverability to be realizable.\n\nhttp://abhishekchatterjee6.wixsite.com/abhishek/glider ",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Abhishek",
+                    "last_name": "Chatterjee",
+                    "name": null,
+                    "headline": "Robotics System Architect"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Karthikeya",
+                    "last_name": "Parunandi",
+                    "name": null,
+                    "headline": "Senior Software Engineer at Cruise"
+                }
+            ]
+        }
+    ],
+    "publications": [
+        {
+            "name": "Particle Image Velocimetry Study of Insect based Flapping Wing Mechanism in Hover",
+            "publisher": "Proceedings of the 6th International and 43rd National Conference on Fluid Mechanics and Fluid Power",
+            "url": "https://www.researchgate.net/publication/308773865_Particle_Image_Velocimetry_Study_of_Insect_based_Flapping_Wing_Mechanism_in_Hover",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2016
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Abhishek",
+                    "last_name": "Chatterjee",
+                    "name": null,
+                    "headline": "Robotics System Architect"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Murugan",
+                    "last_name": "Thangadurai",
+                    "name": null,
+                    "headline": "Pr. Scientist at CSIR-CMERI"
+                }
+            ]
+        }
+    ],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 9297507,
+                "name": "Avular",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQEIs46bwrnwlA/company-logo_400_400/0/1574413125219?e=1703721600&v=beta&t=V2E-d4Mc51sYP1mSy80JlIGaxZmzF_6n3HOGTEmahdI",
+                "url": "https://www.linkedin.com/company/avular/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Eindhoven, North Brabant, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2023
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Avular",
+                    "description": null,
+                    "title": "Robotics System Architect",
+                    "employment_type": "Full-time"
+                },
+                {
+                    "location": "Eindhoven, North Brabant, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2023
+                        }
+                    },
+                    "company": "Avular",
+                    "description": null,
+                    "title": "Controls Engineer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 40872048,
+                "name": "Fusion Engineering",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQFwTrU1X8gGdQ/company-logo_400_400/0/1580136064291?e=1703721600&v=beta&t=qFXooL0uq3bQJCJt01p4w1w5FFhudC04Kz54RxaVFSw",
+                "url": "https://www.linkedin.com/company/fusioneng/",
+                "employees": {
+                    "start": 2,
+                    "end": 10
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Delft Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2021
+                        }
+                    },
+                    "company": "Fusion Engineering",
+                    "description": null,
+                    "title": "Control Systems Engineer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 3614,
+                "name": "TNO",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQEaTotk9sLG7g/company-logo_400_400/0/1695809327920?e=1703721600&v=beta&t=8EjtZcRsl5ttgTkc-2KiFw6XoyZDIUB_vl9Ei_gb1Ik",
+                "url": "https://www.linkedin.com/company/tno/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "The Hague Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2018
+                        }
+                    },
+                    "company": "TNO",
+                    "description": null,
+                    "title": "Graduate Student Intern",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 166529,
+                "name": "Delft University of Technology",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQFwaGpwaod9mQ/company-logo_400_400/0/1670699851986?e=1703721600&v=beta&t=Aw4oLxoKsIJcblYDjxw9200FClnyhZu8DxzcfJRDFOs",
+                "url": "https://www.linkedin.com/school/tudelft/",
+                "employees": {
+                    "start": 5001,
+                    "end": 10000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Delft Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2017
+                        },
+                        "end": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2018
+                        }
+                    },
+                    "company": "Delft University of Technology",
+                    "description": "Development of bio-inspired flapping wing actuation mechanism for an autonomous flapping wing micro aerial vehicle: DelFly.",
+                    "title": "Student Research Assistant, MAVLab",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Council of Scientific and Innovation Research (CSIR)",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Durgapur Area, India",
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2016
+                        }
+                    },
+                    "company": "Council of Scientific and Innovation Research (CSIR)",
+                    "description": "Intrigued by the concept of flapping wing aerodynamics we decided to investigate the flow physics around a hovering insect's flapping wing through PIV (Particle Image Velocimetry) test on a mechanical flapping wing.\n\u200b\nWe designed and fabricated a mechanism to replicate insect wing kinematics in hover. Then we conducted PIV tests on the mechanism for varied frequencies at varied wing phase locations at three spanwise locations and obtained the velocity vectors around the wing. \n\u200b\nWe are currently studying the obtained flow fields to draw inferences that would help us to better understand the unsteady aerodynamics over a flapping wing.\n\nhttp://abhishekchatterjee6.wixsite.com/abhishek/new-page",
+                    "title": "Research Intern, Wind Tunnel Facility CMERI",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 157268,
+                "name": "Indian Institute of Technology, Kanpur",
+                "logo": "https://media.licdn.com/dms/image/C510BAQEhNteRFbyBdQ/company-logo_400_400/0/1581071973102?e=1703721600&v=beta&t=dQNfRop8e0ljo2hmZ1Qm78yTG31Tgy4hYa3spdkyL4U",
+                "url": "https://www.linkedin.com/school/indian-institute-of-technology-kanpur/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Kanpur Area, India",
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2015
+                        }
+                    },
+                    "company": "Indian Institute of Technology, Kanpur",
+                    "description": "Application of Neural Network in Aerospace Engineering : Investigated the application of neural network based artillery shell trajectory prediction system to replace the parametric prediction system currently being used by the army. Developed and trained the neural network to accurately predict trajectories of artillery shells for varied launch velocities, azimuthal and elevation angles and wind conditions. \n\nhttp://abhishekchatterjee6.wixsite.com/abhishek/iitk",
+                    "title": "Research Intern, Flight Mechanics Lab",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [
+        {
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "role": "Volunteer",
+            "company": {
+                "id": null,
+                "name": "Help Student India",
+                "logo": null,
+                "url": null
+            },
+            "cause": "EDUCATION",
+            "description": "Help Student India adheres to the purposes of giving Indian students especially residing in the semi urban, rural, deprived, economical backward and weaker regions of India a new way of living by tapping the talents hidden in each and every student, enlightening their understanding, enriching  their character, developing and upgrading their skills through multi-mode training."
+        }
+    ],
+    "skills": [
+        "Rust (Programming Language)",
+        "Model-based Systems Engineering (MBSE)",
+        "System Architecture",
+        "Requirements Engineering",
+        "C++",
+        "Control Systems Design",
+        "Simulink",
+        "Robot Operating System (ROS)",
+        "Matlab",
+        "Aerodynamics",
+        "Aerospace Engineering",
+        "Unmanned Vehicles",
+        "Robotics",
+        "Microsoft Office",
+        "C",
+        "Leadership",
+        "Research",
+        "Public Speaking",
+        "Project Management",
+        "Mechanical Engineering"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

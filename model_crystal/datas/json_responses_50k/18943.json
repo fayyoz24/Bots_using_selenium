@@ -1,0 +1,400 @@
+{
+    "profile_id": "geert-custers",
+    "first_name": "Geert",
+    "last_name": "Custers",
+    "sub_title": "MSc Computer Engineering Student at TU Delft | Part-time Hacker at Hadrian",
+    "profile_picture": "https://media.licdn.com/dms/image/C4E03AQGR4hh7Ddq_gQ/profile-displayphoto-shrink_800_800/0/1668093897229?e=1701302400&v=beta&t=_9EYQM__OSCnpBLBqvMCI20u63dYLLwOh3ZibcKSvvk",
+    "background_image": "https://media.licdn.com/dms/image/C4E16AQFpIgJNYkk5uQ/profile-displaybackgroundimage-shrink_350_1400/0/1658149712118?e=1701302400&v=beta&t=tXOC2ifKojE-U60thCrVRCHGl4RPMownZxqodbERwbU",
+    "profile_type": "personal",
+    "entity_urn": "ACoAADlxz64BiABYZA0_r1EJJV5tZohx3BBwOag",
+    "object_urn": 963760046,
+    "birth_date": null,
+    "summary": "Perpetually curious and always open to learning new skills. Interested in systems programming, high performance computing, computer hardware and computer engineering.",
+    "location": {
+        "country": "Netherlands",
+        "short": "Delft, South Holland",
+        "city": "Delft",
+        "state": "South Holland",
+        "default": "Delft, South Holland, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "NL",
+            "language": "nl"
+        },
+        "supported_locales": [
+            {
+                "country": "NL",
+                "language": "nl"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "Dutch",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "English",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "German",
+                "proficiency": "LIMITED_WORKING"
+            }
+        ]
+    },
+    "industry": "Information Technology & Services",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2024
+                }
+            },
+            "school": {
+                "name": "Delft University of Technology",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQFwaGpwaod9mQ/company-logo_400_400/0/1670699851986?e=1703721600&v=beta&t=Aw4oLxoKsIJcblYDjxw9200FClnyhZu8DxzcfJRDFOs",
+                "url": "https://www.linkedin.com/school/tudelft/"
+            },
+            "degree_name": "Master's degree",
+            "field_of_study": "Computer Engineering",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "school": {
+                "name": "Delft University of Technology",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQFwaGpwaod9mQ/company-logo_400_400/0/1670699851986?e=1703721600&v=beta&t=Aw4oLxoKsIJcblYDjxw9200FClnyhZu8DxzcfJRDFOs",
+                "url": "https://www.linkedin.com/school/tudelft/"
+            },
+            "degree_name": "Bachelor's degree",
+            "field_of_study": "Electrical Engineering - Honour's Programme",
+            "grade": "8.48, Cum Laude"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "school": {
+                "name": "International School Hilversum",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQFMqmRKCq-B5A/company-logo_400_400/0/1694511149120?e=1703721600&v=beta&t=WjqKpNahAslvl741GnHWbkxKDa1OKpuEItVrZ52S_nY",
+                "url": "https://www.linkedin.com/school/international-school-hilversum/"
+            },
+            "degree_name": "High School Diploma",
+            "field_of_study": null,
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [],
+    "organizations": [],
+    "projects": [],
+    "publications": [
+        {
+            "name": "SparseMEM: Energy-efficient Design for In-memory Sparse-based Graph Processing",
+            "publisher": "IEEE",
+            "url": "http://doi.org/10.23919/DATE56975.2023.10137303",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2023
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Geert",
+                    "last_name": "Custers",
+                    "name": null,
+                    "headline": "MSc Computer Engineering Student at TU Delft | Part-time Hacker at Hadrian"
+                }
+            ]
+        },
+        {
+            "name": "An MPI-Parallel Algorithm for Static and Dynamic Top-k Harmonic Centrality",
+            "publisher": "IEEE",
+            "url": "https://doi.org/10.1109/SBAC-PAD55451.2022.00021",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2022
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Geert",
+                    "last_name": "Custers",
+                    "name": null,
+                    "headline": "MSc Computer Engineering Student at TU Delft | Part-time Hacker at Hadrian"
+                }
+            ]
+        },
+        {
+            "name": "System Design for Computation-in-Memory: From Primitive to Complex Functions",
+            "publisher": "IEEE",
+            "url": "https://doi.org/10.1109/VLSI-SoC54400.2022.9939571",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2022
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Geert",
+                    "last_name": "Custers",
+                    "name": null,
+                    "headline": "MSc Computer Engineering Student at TU Delft | Part-time Hacker at Hadrian"
+                }
+            ]
+        },
+        {
+            "name": "Fast Dynamic Updates and Dynamic SpGEMM on MPI-Distributed Graphs",
+            "publisher": "IEEE Cluster",
+            "url": "https://doi.org/10.1109/CLUSTER51413.2022.00053",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2022
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Geert",
+                    "last_name": "Custers",
+                    "name": null,
+                    "headline": "MSc Computer Engineering Student at TU Delft | Part-time Hacker at Hadrian"
+                }
+            ]
+        }
+    ],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 75003567,
+                "name": "Hadrian",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQE1up1EGAAocQ/company-logo_400_400/0/1691331959982?e=1703721600&v=beta&t=ckbEZOr9aqwkIEVp6vw6W7M8qSSUgBSkFrotCcnB-aE",
+                "url": "https://www.linkedin.com/company/hadriansecurity/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amsterdam, North Holland, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Hadrian",
+                    "description": null,
+                    "title": "Hacker",
+                    "employment_type": "Part-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 3894,
+                "name": "ASML",
+                "logo": "https://media.licdn.com/dms/image/C560BAQGssQfw50QsaQ/company-logo_400_400/0/1519855871260?e=1703721600&v=beta&t=Dy9d-y1YEURWKW9gwgee0M1kiJhHIn_5C8HeOomdIr8",
+                "url": "https://www.linkedin.com/company/asml/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Veldhoven, North Brabant, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "ASML",
+                    "description": null,
+                    "title": "Technology Scholarship",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 15463,
+                "name": "Humboldt-Universit\u00e4t zu Berlin",
+                "logo": "https://media.licdn.com/dms/image/D4D0BAQHhqBuy5vs4qQ/company-logo_400_400/0/1665690094897?e=1703721600&v=beta&t=LWUJmZuGZvP3Myxm8-QzXv8Bj69C2-bqzbizIIFfBWA",
+                "url": "https://www.linkedin.com/school/humboldt-university-berlin/",
+                "employees": {
+                    "start": 5001,
+                    "end": 10000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Berlin, Berlin, Germany",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "Humboldt-Universit\u00e4t zu Berlin",
+                    "description": "Assisted in research concerning distributed dynamic graph algorithms. Helped develop novel graph algorithms for dynamic graph problems. Implemented a state of the art distributed algebraic graph processing framework in C++. Co-authored two published papers detailing this work.",
+                    "title": "Guest Researcher",
+                    "employment_type": "Internship"
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [
+        {
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "role": "C++ Developer",
+            "company": {
+                "id": null,
+                "name": "The Managarm Project",
+                "logo": null,
+                "url": null
+            },
+            "cause": "SCIENCE_AND_TECHNOLOGY",
+            "description": "Managarm is an open source fully asynchronous operating system, written in C++. For several years I have contributed to the project, developing both my C++ skills and my general Unix/Linux knowledge.\n \nSome valuable experiences gained include: collaborating with multiple developers from different countries and cultures, doing code reviews, implementing fundamental POSIX utilities and building blocks, and gaining a deep understanding of the details of computer hardware. Through this project I have developed strong skills in C, C++ and x86 assembly, along with intimate knowledge of POSIX and Linux programming, and several years of experience in highly collaborative software development."
+        },
+        {
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2023
+                }
+            },
+            "role": "Chairman of the Board",
+            "company": {
+                "id": null,
+                "name": "FC Tutor",
+                "logo": "https://media.licdn.com/dms/image/C510BAQH0g2c_2lckCA/company-logo_400_400/0/1528792295162?e=1703721600&v=beta&t=2PI7Fxagxg89CRvF4-fqVtf5e_bA8Vb7cpupBP-gemc",
+                "url": "https://www.linkedin.com/company/fc-tutor/"
+            },
+            "cause": null,
+            "description": null
+        }
+    ],
+    "skills": [
+        "English",
+        "C++",
+        "C (Programming Language)",
+        "Teamwork",
+        "Presentation Skills",
+        "German",
+        "Dutch"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

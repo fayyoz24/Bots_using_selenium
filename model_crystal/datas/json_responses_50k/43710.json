@@ -1,0 +1,504 @@
+{
+    "profile_id": "barnabasbusa",
+    "first_name": "Barnabas",
+    "last_name": "Busa",
+    "sub_title": "DevOps Engineer at Ethereum",
+    "profile_picture": "https://media.licdn.com/dms/image/C5603AQGdFU4SPqDVOA/profile-displayphoto-shrink_800_800/0/1552338565241?e=1701302400&v=beta&t=saTH8PCRAYEdr1--J_TAQKm8NtXAeLynhj6iIOWKNIs",
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAAB6DFdgBC0L63iq5O1nBTK4Qkl01iyMmrsg",
+    "object_urn": 511907288,
+    "birth_date": null,
+    "summary": "My carrier goal is to contribute and design high performance, high availability networks, servers and data-centers. \nMy interests include network automation, cluster management via Kubernetes and high-performance hardware.",
+    "location": {
+        "country": null,
+        "short": "Netherlands",
+        "city": null,
+        "state": null,
+        "default": "Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "English",
+                "proficiency": "FULL_PROFESSIONAL"
+            },
+            {
+                "name": "Hungarian",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ]
+    },
+    "industry": "Research",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "school": {
+                "name": "Delft University of Technology",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQFwaGpwaod9mQ/company-logo_400_400/0/1670699851986?e=1703721600&v=beta&t=Aw4oLxoKsIJcblYDjxw9200FClnyhZu8DxzcfJRDFOs",
+                "url": "https://www.linkedin.com/school/tudelft/"
+            },
+            "degree_name": "Master's degree",
+            "field_of_study": "Computer Engineering",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "school": {
+                "name": "University of Groningen",
+                "logo": "https://media.licdn.com/dms/image/C560BAQHjFD1KsBlUnQ/company-logo_400_400/0/1519868080428?e=1703721600&v=beta&t=ibr9rujnIcZokKKBnQd60TZXHnVytrrpVhwxed_gkrk",
+                "url": "https://www.linkedin.com/school/rijksuniversiteit-groningen/"
+            },
+            "degree_name": "Bachelor's degree",
+            "field_of_study": "Computer Science",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "school": {
+                "name": "Totton College",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "A Level",
+            "field_of_study": "Computing, Mathematics, Product Design",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "school": {
+                "name": "Wadena Deer Creek High School",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": null,
+            "field_of_study": "3D modelling, Mathematics, Physics",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "school": {
+                "name": "Xantus Janos High School",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": null,
+            "field_of_study": "English, Mathematics",
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [
+        {
+            "name": "Certified Kubernetes Application Developer",
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2025
+                }
+            },
+            "authority": "The Linux Foundation",
+            "url": "https://www.credly.com/badges/6f5c95b3-552f-4ba4-920e-c9cf89df603b/public_url",
+            "license_number": "LF-aolbq2l9gt",
+            "display_source": "credly.com",
+            "company": {
+                "id": null,
+                "name": "The Linux Foundation",
+                "logo": "https://media.licdn.com/dms/image/C560BAQEXYSSWEvEL9g/company-logo_400_400/0/1657565841755?e=1703721600&v=beta&t=Rf5lG3b6QLoEISPXXHKjrWhSon0UpcahDjg9PTMHyuc",
+                "url": null
+            }
+        },
+        {
+            "name": "Certified Kubernetes Administrator",
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2025
+                }
+            },
+            "authority": "The Linux Foundation",
+            "url": "https://www.credly.com/badges/0f65da01-a4b5-49d2-894e-461a72ff02d8/public_url",
+            "license_number": "LF-uw6eakf7er",
+            "display_source": "credly.com",
+            "company": {
+                "id": null,
+                "name": "The Linux Foundation",
+                "logo": "https://media.licdn.com/dms/image/C560BAQEXYSSWEvEL9g/company-logo_400_400/0/1657565841755?e=1703721600&v=beta&t=Rf5lG3b6QLoEISPXXHKjrWhSon0UpcahDjg9PTMHyuc",
+                "url": null
+            }
+        },
+        {
+            "name": "Cisco Certified Network Associate (CCNA)",
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2023
+                }
+            },
+            "authority": "Cisco",
+            "url": "https://www.youracclaim.com/users/barnabas-busa/",
+            "license_number": "CSCO13435255\u200e",
+            "display_source": "youracclaim.com",
+            "company": {
+                "id": null,
+                "name": "Cisco",
+                "logo": "https://media.licdn.com/dms/image/D560BAQFVQnYFvzs9jw/company-logo_400_400/0/1688482473599?e=1703721600&v=beta&t=NJhULXCq52iqfwNCWq5EFS4Zib6fd5eJdAHDBrrzWyk",
+                "url": null
+            }
+        }
+    ],
+    "organizations": [],
+    "projects": [],
+    "publications": [],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 40769465,
+                "name": "Ethereum Foundation",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQFOwuowsc7NNg/company-logo_400_400/0/1563407464370?e=1703721600&v=beta&t=HDIkWXAIK-keP--Pl7HsC5-jqbu5Q0IDNH1QNMPTQpY",
+                "url": "https://www.linkedin.com/company/ethereum-foundation/",
+                "employees": {
+                    "start": 201,
+                    "end": 500
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Remote",
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Ethereum Foundation",
+                    "description": null,
+                    "title": "DevOps Engineer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 157302,
+                "name": "CERN",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQE8CRUNb8zskg/company-logo_400_400/0/1637229503276?e=1703721600&v=beta&t=uJvOzvIHGe-Upcn3sBKvoUDyRS9voNDaYDNn4X52gb0",
+                "url": "https://www.linkedin.com/company/cern/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Geneva, Switzerland",
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "CERN",
+                    "description": null,
+                    "title": "Fellowship",
+                    "employment_type": "Full-time"
+                },
+                {
+                    "location": "Geneva, Switzerland",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2020
+                        },
+                        "end": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2021
+                        }
+                    },
+                    "company": "CERN",
+                    "description": null,
+                    "title": "Technical Student",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1889623,
+                "name": "Pro Nautas",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQHEBV5zpG5ohg/company-logo_400_400/0/1534745919063?e=1703721600&v=beta&t=l4K5DsX1s7kdpxnMtwLHvjSSNZIZNa_oRIf4BN3Y79E",
+                "url": "https://www.linkedin.com/company/pro-nautas/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Worldwide",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2020
+                        }
+                    },
+                    "company": "X",
+                    "description": null,
+                    "title": "Maritime Service Engineer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Self-employed",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Groningen, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "Self-employed",
+                    "description": null,
+                    "title": "Remote Support Engineer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 7361,
+                "name": "Domino's",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQG7mTPidtDpow/company-logo_400_400/0/1578687772598?e=1703721600&v=beta&t=diISo1yEl_BgOMiWrF0Z5Iezn6e5Zv-kOEFkG09D7mI",
+                "url": "https://www.linkedin.com/company/domino's-pizza/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Totton, United Kingdom",
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "day": null,
+                            "year": 2013
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": 2015
+                        }
+                    },
+                    "company": "Domino's",
+                    "description": null,
+                    "title": "Delivery Driver",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Kubernetes",
+        "DevOps",
+        "DigitalOcean",
+        "Leadership",
+        "Teamwork",
+        "Management",
+        "English",
+        "Project Management",
+        "Strategic Planning",
+        "Team Leadership"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

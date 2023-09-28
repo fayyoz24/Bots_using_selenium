@@ -1,0 +1,370 @@
+{
+    "profile_id": "mattia-i-4a6396119",
+    "first_name": "Mattia",
+    "last_name": "I.",
+    "sub_title": "Mechanical engineer",
+    "profile_picture": null,
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAAB1sOD4BWGWwoENQIA7RfXHU1dAmuzhiIZM",
+    "object_urn": 493631550,
+    "birth_date": null,
+    "summary": null,
+    "location": {
+        "country": "Netherlands",
+        "short": "Nijmegen, Gelderland",
+        "city": "Nijmegen",
+        "state": "Gelderland",
+        "default": "Nijmegen, Gelderland, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "NO",
+            "language": "no"
+        },
+        "supported_locales": [
+            {
+                "country": "NO",
+                "language": "no"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "Engelsk",
+                "proficiency": "FULL_PROFESSIONAL"
+            },
+            {
+                "name": "Nederlandsk",
+                "proficiency": "ELEMENTARY"
+            },
+            {
+                "name": "Norsk",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "Tysk",
+                "proficiency": "PROFESSIONAL_WORKING"
+            }
+        ]
+    },
+    "industry": "Mechanical Or Industrial Engineering",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "school": {
+                "name": "University of South-Eastern Norway",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQFO9Na0DUucAA/company-logo_400_400/0/1673875748940?e=1703721600&v=beta&t=rATuxYt6EC6DIhXkkdg3MCOu9pcJ7AkzVSBUaPpZbkg",
+                "url": "https://www.linkedin.com/school/usnno/"
+            },
+            "degree_name": "Bachelor of Engineering (B.E.)",
+            "field_of_study": "Machine engineering",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2008
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2008
+                }
+            },
+            "school": {
+                "name": "Idefagskolen",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": null,
+            "field_of_study": "Web Page, Digital/Multimedia and Information Resources Design",
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [
+        {
+            "name": "Drivers Licence Class B",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": null,
+            "url": null,
+            "license_number": null,
+            "display_source": null,
+            "company": null
+        }
+    ],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "Automated maintenance System",
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "description": "I and a small group are currently developing an automated maintenance system for a milling station. The system will receive milling heads, and automatically check for wear on inserts and tools, as well as logging this into an external database. If an insert is worn, the system will also replace the worn insert.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Mattia",
+                    "last_name": "I.",
+                    "name": null,
+                    "headline": "Mechanical engineer"
+                }
+            ]
+        },
+        {
+            "title": "Automated following robot",
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "description": "With Arduino and ultra sound detectors I built a small prototype robot that follows a person with a beacon. The robot will avoid people and objects that may stand in its way, and attempt to automatically find a path to follow the beacon.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Mattia",
+                    "last_name": "I.",
+                    "name": null,
+                    "headline": "Mechanical engineer"
+                }
+            ]
+        }
+    ],
+    "publications": [],
+    "courses": [
+        {
+            "name": "CAD Modeling",
+            "number": null
+        },
+        {
+            "name": "Construction elements",
+            "number": null
+        },
+        {
+            "name": "Engineering Math",
+            "number": null
+        },
+        {
+            "name": "Engineering Physics",
+            "number": null
+        },
+        {
+            "name": "Finite element method",
+            "number": null
+        },
+        {
+            "name": "Fluid Mechanics",
+            "number": null
+        },
+        {
+            "name": "Hydraulics",
+            "number": null
+        },
+        {
+            "name": "Introduction to chemistry",
+            "number": null
+        },
+        {
+            "name": "Introduction to energy power plants",
+            "number": null
+        },
+        {
+            "name": "Linear Algebra",
+            "number": null
+        },
+        {
+            "name": "Manufacturing engineering",
+            "number": null
+        },
+        {
+            "name": "Mechatronics",
+            "number": null
+        },
+        {
+            "name": "Metallurgical failure analysis",
+            "number": null
+        },
+        {
+            "name": "Metallurgy",
+            "number": null
+        },
+        {
+            "name": "Programing with Arduino",
+            "number": null
+        },
+        {
+            "name": "Statics and constructions",
+            "number": null
+        },
+        {
+            "name": "Systems Engineering",
+            "number": null
+        },
+        {
+            "name": "Thermodynamics",
+            "number": null
+        }
+    ],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 98903,
+                "name": "Badotherm",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQGSsMFWanYodQ/company-logo_400_400/0/1571829528599?e=1703721600&v=beta&t=lP1Q5FqUr_VMT4XTaYReubKlleCLWm-3T9dZ9zl_bMg",
+                "url": "https://www.linkedin.com/company/badotherm/",
+                "employees": {
+                    "start": 201,
+                    "end": 500
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Badotherm",
+                    "description": null,
+                    "title": "Design Engineer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Deltaservice",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Drammen Area, Norway",
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2011
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2012
+                        }
+                    },
+                    "company": "Deltaservice",
+                    "description": "Diagnosed, maintained, and repaired mobile communication devices (mostly cell phones) for Sony/Sony Ericsson.",
+                    "title": "Service Technician",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "SolidWorks",
+        "Computer Vision",
+        "Web Design",
+        "Python",
+        "Linux",
+        "Graphic Design",
+        "Print Design",
+        "Arduino",
+        "C",
+        "C++",
+        "Finite Element Analysis",
+        "Photoshop",
+        "Maya",
+        "Illustrator",
+        "Gentoo Linux",
+        "GNU/Linux",
+        "Programming",
+        "Microsoft Office",
+        "Engineering"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

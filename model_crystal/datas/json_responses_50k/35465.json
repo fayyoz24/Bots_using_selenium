@@ -1,0 +1,402 @@
+{
+    "profile_id": "peter-pinter",
+    "first_name": "Peter",
+    "last_name": "Pinter",
+    "sub_title": "Student at Saxion University of Applied Sciences",
+    "profile_picture": "https://media.licdn.com/dms/image/C4E03AQG1LfjjTVKsXg/profile-displayphoto-shrink_800_800/0/1622118258539?e=1701302400&v=beta&t=6VV1xM5HEV6rqIpRIL6EgVtdK7rNt1ad3gQHJ2JSypg",
+    "background_image": "https://media.licdn.com/dms/image/C4E16AQF4jgBgTawyAg/profile-displaybackgroundimage-shrink_350_1400/0/1648022158615?e=1701302400&v=beta&t=QopEsup38oe4eXsZlUmqua2HZXQdupFQBu2fvSHt3i4",
+    "profile_type": "personal",
+    "entity_urn": "ACoAADXzLvIBujY7NlutJ_Fe_JEX_M-5pwDb77M",
+    "object_urn": 905129714,
+    "birth_date": null,
+    "summary": "BSc HBO student from Hungary learning IT in the Netherlands. My main focus is software development.",
+    "location": {
+        "country": "Netherlands",
+        "short": "Deventer, Overijssel",
+        "city": "Deventer",
+        "state": "Overijssel",
+        "default": "Deventer, Overijssel, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "Dutch",
+                "proficiency": "LIMITED_WORKING"
+            },
+            {
+                "name": "English",
+                "proficiency": "FULL_PROFESSIONAL"
+            },
+            {
+                "name": "Hungarian",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ]
+    },
+    "industry": "Computer Software",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2024
+                }
+            },
+            "school": {
+                "name": "Saxion University of Applied Sciences",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQHx7isknIg5gQ/company-logo_400_400/0/1680115797546?e=1703721600&v=beta&t=mm4ULiYWAlesTSdWSzVcVQJAdxpZMzdiMmFF92_MwVI",
+                "url": "https://www.linkedin.com/school/saxion-hogescholen/"
+            },
+            "degree_name": "Bachelor of Science in Software Engineering - Information and Communication Technology - BSc",
+            "field_of_study": "Computer Software Engineering",
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [
+        {
+            "name": "Propaedeutic year degree (Summa Cum Laude)",
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Saxion University of Applied Sciences",
+            "url": null,
+            "license_number": "P5162",
+            "display_source": null,
+            "company": {
+                "id": null,
+                "name": "Saxion University of Applied Sciences",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQHx7isknIg5gQ/company-logo_400_400/0/1680115797546?e=1703721600&v=beta&t=mm4ULiYWAlesTSdWSzVcVQJAdxpZMzdiMmFF92_MwVI",
+                "url": null
+            }
+        },
+        {
+            "name": "DEV210x: Introduction to C++",
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Microsoft",
+            "url": "https://courses.edx.org/certificates/777b689e45ea4163b6d05fd817c5cc41",
+            "license_number": "777b689e45ea4163b6d05fd817c5cc41",
+            "display_source": "edx.org",
+            "company": {
+                "id": null,
+                "name": "Microsoft",
+                "logo": "https://media.licdn.com/dms/image/C560BAQE88xCsONDULQ/company-logo_400_400/0/1618231291419?e=1703721600&v=beta&t=xic8lPBHmNYz9qHIoiuq_itbJ4T3xDqNu9Bb5EuYkZ0",
+                "url": null
+            }
+        },
+        {
+            "name": "International Computer Driving License",
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "ECDL / ICDL Certification",
+            "url": null,
+            "license_number": "HU-KOE0294000000695",
+            "display_source": null,
+            "company": {
+                "id": null,
+                "name": "ICDL Certification",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQF_IBZqayNi_A/company-logo_400_400/0/1627893716105?e=1703721600&v=beta&t=IGLkllRaWPsQxOVZPGrVRnfVErOo0-JY7ko6BtzB0Jc",
+                "url": null
+            }
+        }
+    ],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "MQTT IoT dashboard web application for HanzeNet",
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2023
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2023
+                }
+            },
+            "description": "Microservices to handle MQTT topic URLs, and a dashboard web application to provide a graphical user interface where IoT devices can be configured and monitored.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Peter",
+                    "last_name": "Pinter",
+                    "name": null,
+                    "headline": "Student at Saxion University of Applied Sciences"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Michael",
+                    "last_name": "Shekhovtsov",
+                    "name": null,
+                    "headline": "4th-year student at Saxion University"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Henry",
+                    "last_name": "Wright",
+                    "name": null,
+                    "headline": "Software Engineer"
+                }
+            ]
+        },
+        {
+            "title": "Internal visual data editor web application for Witteveen+Bos",
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "description": "A web application that visualizes data and data relationships from PostgreSQL, and allows editing of existing data and relationships and making new ones using TypeScript and React.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Peter",
+                    "last_name": "Pinter",
+                    "name": null,
+                    "headline": "Student at Saxion University of Applied Sciences"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Philippos",
+                    "last_name": "Slicher",
+                    "name": null,
+                    "headline": "Software Engineer"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Kristiyan",
+                    "last_name": "Tenev",
+                    "name": null,
+                    "headline": "Junior Developer at Dutchview IT"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Melissa",
+                    "last_name": "Neamt",
+                    "name": null,
+                    "headline": "Student Software Engineer"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Quan",
+                    "last_name": "Nguyen",
+                    "name": null,
+                    "headline": "Student at Saxion University of Applied Sciences"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Mira",
+                    "last_name": "Ilieva",
+                    "name": null,
+                    "headline": "Student at Saxion University of Applied Sciences"
+                }
+            ]
+        },
+        {
+            "title": "Internal scheduling web application for Parantion",
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "description": "Scheduling web application to track employee presence at the office using Svelte, NodeJS, Java, SpringBoot and PostgreSQL.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Peter",
+                    "last_name": "Pinter",
+                    "name": null,
+                    "headline": "Student at Saxion University of Applied Sciences"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Michael",
+                    "last_name": "Shekhovtsov",
+                    "name": null,
+                    "headline": "4th-year student at Saxion University"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Philippos",
+                    "last_name": "Slicher",
+                    "name": null,
+                    "headline": "Software Engineer"
+                }
+            ]
+        }
+    ],
+    "publications": [],
+    "courses": [
+        {
+            "name": "CCNA R&S: Introduction to Networks",
+            "number": "1819_11C_b_CCNA1-KT"
+        },
+        {
+            "name": "CCNA R&S: Routing and Switching Essentials",
+            "number": "1920_RSE_12C_KT"
+        },
+        {
+            "name": "Cisco IT Essentials: PC Hardware and Software",
+            "number": "1617_10C b_IT"
+        }
+    ],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 18219113,
+                "name": "Print.com",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQGZwb0J-HaMTA/company-logo_400_400/0/1659941074884?e=1703721600&v=beta&t=-Gisq1H9E98NheYCH9ZBAeZuHwkmTq88r7Dxqx0b9vU",
+                "url": "https://www.linkedin.com/company/printdotcom/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2023
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Deventer, Overijssel, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2023
+                        }
+                    },
+                    "company": "Print.com",
+                    "description": "I developed an internal dataflow full-stack application called \"Danube\", which fetches data out of HubSpot and AWS Aurora on a minute schedule and stores it in Snowflake DB. A web app provides a visualization dashboard with charts for real-time data viewing.",
+                    "title": "Data Engineer",
+                    "employment_type": "Internship"
+                },
+                {
+                    "location": "Deventer, Overijssel, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "Print.com",
+                    "description": "ETL tasks include extracting data from various systems, cleaning it, and loading it into a visualization system.",
+                    "title": "Data Control Explorer",
+                    "employment_type": "Part-time"
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Mqtt",
+        "Angular Material",
+        "Flutter",
+        "Dart",
+        "MySQL",
+        "Kubernetes",
+        "Amazon Aurora",
+        "Amazon Web Services (AWS)",
+        "Vue.js",
+        "Tailwind CSS",
+        "HubSpot",
+        "Amazon Dynamodb",
+        "DBT",
+        "Fivetran ETL Tool",
+        "Go (Programming Language)",
+        "SQL",
+        "Snowflake",
+        "TypeScript",
+        "React.js",
+        "Object-Oriented Programming (OOP)"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

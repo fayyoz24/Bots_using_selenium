@@ -1,0 +1,782 @@
+{
+    "profile_id": "bashmish",
+    "first_name": "Mikhail",
+    "last_name": "Bashkirov",
+    "sub_title": "Frontend Engineer",
+    "profile_picture": "https://media.licdn.com/dms/image/C5603AQGU7mTbrif0vg/profile-displayphoto-shrink_800_800/0/1614433879010?e=1701302400&v=beta&t=UYyArbV9WRUj3ByWc8xl09C1DkV3O7Tw8nge3OMMxbs",
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAAAGudx4BKNnX3R5Ay30VL4BjdU8GCzZHlJs",
+    "object_urn": 28210974,
+    "birth_date": null,
+    "summary": "During 10+ years in Web Development I worked on large enterprise applications, built complex and data-heavy UX and UI, created Design Systems from scratch, built developer tools, worked in platform teams and created solutions in organisations with teams distributed across the entire world.\nI used the majority of relevant frameworks and libraries and constantly monitor new ones to be able to choose the best tool for the job.\nI contributed to popular Open Source projects, made my own libraries and helped companies grow OSS projects to create awareness, attract talents and give back to the community.\nI love working on innovative products, collaborating closely with designers, taking challenging projects, learning and sharing my knowledge with my colleagues every day.\nBased in The Netherlands, I have a permanent residence permit (no visa sponsorship needed).",
+    "location": {
+        "country": "Netherlands",
+        "short": "Leiden, South Holland",
+        "city": "Leiden",
+        "state": "South Holland",
+        "default": "Leiden, South Holland, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "Dutch",
+                "proficiency": "LIMITED_WORKING"
+            },
+            {
+                "name": "English",
+                "proficiency": "FULL_PROFESSIONAL"
+            },
+            {
+                "name": "Russian",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ]
+    },
+    "industry": "Information Technology & Services",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2005
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2010
+                }
+            },
+            "school": {
+                "name": "Ivanovo State Power University",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "Engineer\u2019s Degree",
+            "field_of_study": "Industrial Electronics",
+            "grade": "5.0 of 5.0"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2006
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2010
+                }
+            },
+            "school": {
+                "name": "Ivanovo State Power University",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "Engineer\u2019s Degree",
+            "field_of_study": "English Language, Technical Translation",
+            "grade": "5.0 of 5.0"
+        }
+    ],
+    "patents": [],
+    "awards": [
+        {
+            "title": "RVC Special Prize in Garage48 hackaton",
+            "description": "I was a part of a team called \"Let's Change\". We've made a working prototype of service \"HomEx\" (Home Exchange) for sharing and renting apartments closer to one's office. Our project was second in the final results and we've got a special prize for that work.\n\nhttp://garage48.org/blog/garage48-moscow-2013-winning-project-helping-to-learn-guitar-in-an-easy-and-entertaining-way",
+            "issuer": "Garage48",
+            "date": {
+                "month": 10,
+                "day": null,
+                "year": 2013
+            }
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Test Driven Development",
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "ScrumTrek",
+            "url": "http://scrumtrek.ru/trainings/",
+            "license_number": null,
+            "display_source": "scrumtrek.ru",
+            "company": {
+                "id": null,
+                "name": "ScrumTrek",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQG7O3upXXPyCg/company-logo_400_400/0/1597991292046?e=1703721600&v=beta&t=sLQjX-ukVdxyg3QpFij35shyTO9LZ3IOwpK8YsnH9p8",
+                "url": null
+            }
+        }
+    ],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "Timescenery - trip planner and personal time organizer",
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "description": "Single page application based on AngularJS.\n\nKey tasks:\n\u25aa considerable rewriting of key system module that loads and stores user data and renders infinite time scroll with user events;\n\u25aa development of GUI to manipulate time and duration of user events with drag-n-drop and other mouse driven events;\n\u25aa development of map route builder module (based on Google Maps Directions API) with many optimizations including route data compression and improved text directions and map rendering speed;\n\u25aa transfer from backend to frontend a module that builds user locations and time zone changes over time;\n\u25aa development of fast calendar GUI with infinite scroll that is accessible from any date and time pickers forms;\n\u25aa optimization of application loading time and overall performance and memory consumption;\n\u25aa development of credit card payment form with all necessary validations;\n\u25aa integration and promotion of different code linters and code style conventions;\n\u25aa rewriting application from CoffeeScript to modern JavaScript and then to TypeScript.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Mikhail",
+                    "last_name": "Bashkirov",
+                    "name": null,
+                    "headline": "Frontend Engineer"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Konstantin",
+                    "last_name": "Sergienko",
+                    "name": null,
+                    "headline": "EM @ Miro | ex PicsArt Inc."
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Nikita",
+                    "last_name": "Dedik",
+                    "name": null,
+                    "headline": "Founder & CEO @ Road.Travel | Adaptive Travel Guides - 5 of Top 10 car makers adopting our tech & content"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Kirill",
+                    "last_name": "Khomko",
+                    "name": null,
+                    "headline": "Road.Travel \u2013 Pioneering Device-to-Car Technology: Adaptive Travel Guides | Awards by FIA Region I, Grand Prix ACF, Ford Motor Company, Porsche, PhocusWire, Volkswagen, UNWTO"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Victoria",
+                    "last_name": "Klymyk",
+                    "name": null,
+                    "headline": "Analyst at Sber"
+                }
+            ]
+        },
+        {
+            "title": "Virtual office of a local officer",
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "description": "Keywords: Scrum, AngularJS, jQuery, Underscore.js, CoffeeScript, SASS, NPAPI, Ruby on Rails, MySQL, SOAP, XML Digital Signature",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Mikhail",
+                    "last_name": "Bashkirov",
+                    "name": null,
+                    "headline": "Frontend Engineer"
+                }
+            ]
+        },
+        {
+            "title": "Vital records digitalization",
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "description": "The automated system to digitalize paper vital records of civil status.\n\nKey accomplishments:\n\u25aa Angular sub application to mark down areas for vital records parts processing;\n\u25aa integration with browser NPAPI plugin to connect our client side application to the scanner;\n\u25aa integration with government web services base on SOAP to provide them with vital records data;\n\u25aa refactoring of the core Ruby on Rails application to make it suitable for similar needs (processing other kinds of paper documents).",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Mikhail",
+                    "last_name": "Bashkirov",
+                    "name": null,
+                    "headline": "Frontend Engineer"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Andrey",
+                    "last_name": "Pushkarev",
+                    "name": null,
+                    "headline": "Software Engineer at Style Arcade"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Anton",
+                    "last_name": "Sozontov",
+                    "name": null,
+                    "headline": "Senior Software Engineer  | Web Apps, Product Development, Distributed Systems, Integrations"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Svetlana",
+                    "last_name": "Sekotskaya",
+                    "name": null,
+                    "headline": "Software Architect at Gett"
+                }
+            ]
+        },
+        {
+            "title": "KogdaKuda - information about all Ivanovo events and activities",
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2009
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "description": "That was my main project that I worked on during my last year in university and afterwards when I become a freelancer working on small websites mostly as a frontend developer. With mentorship from my colleague and friend Lev Levin I worked to make the best information website about entertainment, educational and other events/activities in our city. The database was automatically populated from different sources (mostly including our city venues websites) with very little manual work from us.\n\nResponsibilities:\n\u25aa Python/Django and front-end development;\n\u25aa database scheme design;\n\u25aa UI prototyping for our designer.\n\nKey accomplishments:\n\u25aa integration with many websites: via API or just raw HTML parsing if there was no API;\n\u25aa providing API for Yandex.Afisha (one of the biggest information sources on events in Russian cities);\n\u25aa customized Django Admin page with many improvements for fast search, automatic data updating and monitoring;\n\u25aa clean and fast Python code that was run on our web server with the help of gunicorn and nginx proxy;\n\u25aa database scheme that suited our needs for storing data about different kinds of events;\n\u25aa cross-browser website that looked good in all browsers that time.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Mikhail",
+                    "last_name": "Bashkirov",
+                    "name": null,
+                    "headline": "Frontend Engineer"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Lev",
+                    "last_name": "Levin",
+                    "name": null,
+                    "headline": "Product Manager \u2013 NWTN Group"
+                }
+            ]
+        },
+        {
+            "title": "TolkoNikomu - social network for textile sales managers",
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "description": "I was a consultant web developer in a startup called TolkoNikomu - a mix of Twitter and eBay for sales managers in textile, clothing and footwear industry in Russia. My primary goal was to make a web application in a very short term - only 2 months for a beta, and some more weeks to make it production ready. I used my well-know stack including Django framework and \n\nWe worked closely with UI specialist Mikhail Shatrov to make design modern and beautiful while keeping it as simple as possible to meet the deadline. I was also a leader in team with two intern programmers from Ivanovo State Power University who needed to learn how production programming happens. Dmitry Terrov was one of them, he helped me a lot and I hope that he learned something from me.\n\nKey accomplishments:\n\u25aa we've made everything on time that allowed our founders to start validating the business idea;\n\u25aa I made the team work possible and even productive using agile techniques and modern instruments like Trello;\n\u25aa UI and UX were much better than they could be when developing in that hurry;\n\u25aa all Python code was covered with unit-tests, some tests were made with Gherkin/Cucumber format;\n\u25aa while the app was primarily server based, I made a lot of improvements on a client side for fast operations (+1, follow/unfollow, and similar) that didn't require page reloading;\n\u25aa front-end code was modular and component-based (before this became a trend).",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Mikhail",
+                    "last_name": "Bashkirov",
+                    "name": null,
+                    "headline": "Frontend Engineer"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "\u041c\u0438\u0445\u0430\u0438\u043b",
+                    "last_name": "\u0428\u0430\u0442\u0440\u043e\u0432",
+                    "name": null,
+                    "headline": "\u0410\u0440\u0445\u0438\u0442\u0435\u043a\u0442\u043e\u0440, SOWA"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Dmitry",
+                    "last_name": "Terrov",
+                    "name": null,
+                    "headline": "Team Lead \u2013 Yandex"
+                }
+            ]
+        }
+    ],
+    "publications": [
+        {
+            "name": "RadioJS podcasts",
+            "publisher": null,
+            "url": "https://radiojs.ru",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2016
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Mikhail",
+                    "last_name": "Bashkirov",
+                    "name": null,
+                    "headline": "Frontend Engineer"
+                }
+            ]
+        },
+        {
+            "name": "How not to miss SPA data migrations?",
+            "publisher": "Moscow SPA Meetup",
+            "url": "http://www.youtube.com/watch?v=gJyuSivqNxo",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2015
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Mikhail",
+                    "last_name": "Bashkirov",
+                    "name": null,
+                    "headline": "Frontend Engineer"
+                }
+            ]
+        },
+        {
+            "name": "DCI mindset",
+            "publisher": "Yandex Events",
+            "url": "http://events.yandex.ru/lib/talks/1818/",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2014
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Mikhail",
+                    "last_name": "Bashkirov",
+                    "name": null,
+                    "headline": "Frontend Engineer"
+                }
+            ]
+        },
+        {
+            "name": "Make \"Excel\" with AngularJS: 2000 watchers is not a limit",
+            "publisher": "MoscowJS Meetup",
+            "url": "http://www.youtube.com/watch?v=9IQLCF_tVUk",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2014
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Mikhail",
+                    "last_name": "Bashkirov",
+                    "name": null,
+                    "headline": "Frontend Engineer"
+                }
+            ]
+        }
+    ],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 14871450,
+                "name": "\u2039div\u203aRIOTS",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQH3jbiYhVRF6w/company-logo_400_400/0/1649767213297?e=1703721600&v=beta&t=IFoExkN-EVeSKotyDTKDOojJwHPPKqClkylIc-ru14I",
+                "url": "https://www.linkedin.com/company/divriots/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "\u2039div\u203aRIOTS",
+                    "description": "Worked on Frontend & Design tools:\n- Figma plugins \ud83d\udc49 https://HTML.to.Design & https://Story.to.Design\n- Design Systems IDE \ud83d\udc49 https://Backlight.dev\n- Web Components IDE \ud83d\udc49 https://WebComponents.dev\n- dockit-core & dockit-react (Documentation Components Kits)\nhttps://studio.backlight.dev/edit/4BeMe20hqOWTkdUL2NuJ/\nhttps://studio.backlight.dev/edit/wzPn6NO54tDJlBxCtjGx/\n\nMade Design Systems starter-kits:\n- Furious (Design System based on WC and FAST)\nhttps://studio.backlight.dev/edit/xS11aQmjMLIvr5PU5Mru/\n- starter-sass\nhttps://studio.backlight.dev/edit/eFLUQfY0zrR6dOuX5llT/\n\nI built tools for Frontend & Design teams which included working with all modern JS frameworks and design tools, as well as being on the edge of Web technologies and using latest browser APIs.\n\nThere are many contributions to other projects of divRIOTS, most activity is public on GitHub.",
+                    "title": "Senior Frontend Developer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 2919368,
+                "name": "Frontmen - Frontend Experts (part of Intracto Group)",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQHa78jzHUPsOA/company-logo_400_400/0/1654070064545?e=1703721600&v=beta&t=YO1lvoc6xrKd1k_14lMgop6uGmha7tgABKjOh2h7MWY",
+                "url": "https://www.linkedin.com/company/io-tech-consultancy/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2021
+                        }
+                    },
+                    "company": "iO Tech Consultancy",
+                    "description": "As a Frontend consultant in ING:\n- worked in the platform team making reusable components for teams across ING offices worldwide\n- initial creator & contributor to Lion Web Components for 1.5 years https://github.com/ing-bank/lion\n\nAs a Frontend consultant in Rabobank:\n- worked on the B2B payments feature and related features\n- improving engineering culture, testing automation, frontend skills within the team\n- transition of our features to latest Angular",
+                    "title": "Frontend Consultant",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 10195029,
+                "name": "Timescenery",
+                "logo": "https://media.licdn.com/dms/image/C560BAQHsyqclmm0Q7g/company-logo_400_400/0/1519908463921?e=1703721600&v=beta&t=2yi8x7u7fLlxGCmopK_BW8R_jpI-Y38gq4oDL1cH4Yk",
+                "url": "https://www.linkedin.com/company/timescenery/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2016
+                        }
+                    },
+                    "company": "Timescenery",
+                    "description": "Full-time remote job. We make the most advanced trip planner on the travel market that can be also used as a personal time organizer. I was hired as a JavaScript developer with experience in optimization of complex AngularJS applications with infinite scrolls and a large number of UI elements visible at the same time (which is a common source of performance problems in Angular world). Most of the time I do optimization work and rewrite key modules of the application. Also I try to make our frontend team work more efficient by introducing some Agile techniques that can be used in remote teams. More information about my key tasks is in the projects section.",
+                    "title": "Senior Web Developer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 22666,
+                "name": "AT Consulting",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQHmpSETrhqvww/company-logo_400_400/0/1519856274408?e=1703721600&v=beta&t=w48URjptLLUVYkL5oT4QoPTIX0GBFSMl3Uf1AQIDmp4",
+                "url": "https://www.linkedin.com/company/at-consulting/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Moscow, Russian Federation",
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2012
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2015
+                        }
+                    },
+                    "company": "AT Consulting",
+                    "description": "Keywords: Agile, Scrum, XP, TDD, Unit Tests, JavaScript, AngularJS, React.js, HTML5, CSS3, SASS, LESS, HAML, Slim, Ruby, Ruby on Rails, Sinatra, RSpec, PostgreSQL, MongoDB, Redis, Solr, nginx, REST, XML, SOAP, XML Signature, NPAPI, Jira, GitLub, TeamCity, Continuos Integration.\n\nI started as a junior Ruby on Rails developer with a Frontend background and worked on e-government services and other enterprise applications. Over time I developed my Backend skills as well as gained much more AngularJS experience to become a full-stack developer and eventually a team lead. Most projects I worked on were closed to public so I can't give any links, screenshots or detailed information.",
+                    "title": "Senior Developer, Team Lead",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Freelance Web Development",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2009
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Ivanovo Region, Russian Federation",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2009
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2012
+                        }
+                    },
+                    "company": "Freelance Web Development",
+                    "description": "Keywords: JavaScript, jQuery, AngularJS, Python, Django, PHP, Symfony, WordPress, MySQL, Apache, nginx, Axure, cross-browser, HTML5, XHTML, XML, XSLT, CSS3, Bootstrap, SASS, BEM.\n\nI was a freelancer and worked on many short-time projects. My primary job was to make a frontend part. At first it was only some JS, many HTML/CSS templates and a simple backend based on popular site engines like WordPress. The more I learned the more I got complex tasks including developing small jQuery-based applications, for example specific calculators for consumers, complex UIs to show monitoring data and many others. At the end of my freelancer career I began to use AngularJS that was at the time the best tool for my specific tasks.\n\nI combined my freelancer work with another project called KogdaKuda. It was my first big project based on Django framework that gave my opportunity to learn Python language for web develoment, database design, UI prototyping and many other things. More information about this and other projects is in the projects section.",
+                    "title": "Web Developer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "B2B Web Studio",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2009
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2009
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Ivanovo Region, Russian Federation",
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2009
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2009
+                        }
+                    },
+                    "company": "B2B Web Studio",
+                    "description": "Keywords: HTML, CSS, jQuery, MooTools, Normalize.css.\n\nCross-browser frontend websites development.",
+                    "title": "Junior Web Developer",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "role": "Podcast Host",
+            "company": {
+                "id": null,
+                "name": "RadioJS Podcast",
+                "logo": null,
+                "url": null
+            },
+            "cause": "SCIENCE_AND_TECHNOLOGY",
+            "description": "I'm the host in one of the most popular tech podcasts in Russia called RadioJS (radiojs.ru), especially among frontend developers. Together with two other hosts Konstantin Burkalev and Andrey Salomatin we discuss news in a frontend world like releases of new libraries or methodologies, noticeable blog posts from known developers, new conferences and meetups. Usually we talk about our own real experience and try not to give any opinion on things we didn't try ourselves. Also we make interviews with our Russian-speaking colleagues from all other the world. Our primary goals are to give different opinions on complex subjects, to educate junior developers and to tell about local meetups and conferences in Russian cities."
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "role": "Meetup Organizer & MC",
+            "company": {
+                "id": null,
+                "name": "MoscowJS Meetup",
+                "logo": null,
+                "url": null
+            },
+            "cause": "SCIENCE_AND_TECHNOLOGY",
+            "description": "MoscowJS (moscowjs.ru) is one of the oldest and well-known meetups in Russia for frontend developers passionate about JavaScript and web technologies. It was held in Moscow monthly. Nowadays it's online due to the Corona outbreak. I took part in preparing the program of the meetup on a regular basis, also I looked for new speakers and helped them to improve the content of their talks."
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "role": "Program committee member & stage mc",
+            "company": {
+                "id": null,
+                "name": "FrontendConf Moscow ",
+                "logo": null,
+                "url": null
+            },
+            "cause": "SCIENCE_AND_TECHNOLOGY",
+            "description": null
+        }
+    ],
+    "skills": [
+        "jQuery",
+        "Bootstrap",
+        "Cascading Style Sheets (CSS)",
+        "HTML",
+        "Vite",
+        "Storybook",
+        "API Design",
+        "Computer Accessibility",
+        "Contract Testing",
+        "lit-html",
+        "Google Material Design",
+        "Google Maps API",
+        "RxJS",
+        "Babel.js",
+        "GitHub",
+        "Kanban",
+        "Jasmine",
+        "Vue.js",
+        "Firebase",
+        "Web Components"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

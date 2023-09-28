@@ -1,0 +1,458 @@
+{
+    "profile_id": "yulan-westerveld",
+    "first_name": "Yulan",
+    "last_name": "Westerveld",
+    "sub_title": "BSc Electrical Engineering",
+    "profile_picture": null,
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAABIfFZ4BAFCFvT4LeQAuOIcxYaJQaJjjysk",
+    "object_urn": 304027038,
+    "birth_date": null,
+    "summary": "I am Yulan Westerveld. I'm an electrical engineer who graduated from Northern Arizona University in 2016, but later on decided to dive into a field I am not as familiar with ever since I became enamored by the medical side of my graduation project. This lead to a master's programme for electrical engineering, specializing in biomechatronics and neurotechnology in the University of Twente.\n\nMy interests are in art in pencil illustrations, linguistics for the purpose of conlanging, and making strange engineering projects.",
+    "location": {
+        "country": "Netherlands",
+        "short": "Enschede, Overijssel",
+        "city": "Enschede",
+        "state": "Overijssel",
+        "default": "Enschede, Overijssel, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "Chinese",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "Dutch",
+                "proficiency": "LIMITED_WORKING"
+            },
+            {
+                "name": "English",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "Spanish",
+                "proficiency": "ELEMENTARY"
+            }
+        ]
+    },
+    "industry": "Information Technology & Services",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2024
+                }
+            },
+            "school": {
+                "name": "University of Twente",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQGlJy8j9vKdjA/company-logo_400_400/0/1533909472654?e=1703721600&v=beta&t=bKpiljO1A-RW4XDZMlQXM9J7YnPza1KG8jLvYitpPTI",
+                "url": "https://www.linkedin.com/school/university-of-twente/"
+            },
+            "degree_name": "Master of Science - MSc",
+            "field_of_study": "Electrical Engineering (Biomechatronics and Neurotechnology)",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2010
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "school": {
+                "name": "Northern Arizona University",
+                "logo": "https://media.licdn.com/dms/image/C560BAQHJP4PaFNhQLg/company-logo_400_400/0/1625524627303?e=1703721600&v=beta&t=qut3BPWKUzUKqHyCi02BZKCX5lyUGUaLSbdya9YwJWY",
+                "url": "https://www.linkedin.com/school/northern-arizona-university/"
+            },
+            "degree_name": "Bachelor of Science - BSc",
+            "field_of_study": "Electrical and Electronics Engineering",
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "Remote Heart Rate Monitor",
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "description": "Graduation project for senior year D4P design class (Capstone). The project involved taking ECG signals of the user, and send it wirelessly to a receiver to monitor the heart for any abnormalities.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Yulan",
+                    "last_name": "Westerveld",
+                    "name": null,
+                    "headline": "BSc Electrical Engineering"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Han Peng",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Xinghao Qi",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Abdulmajeed Alhawsawi",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Ahmed Altamimi",
+                    "headline": null
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Benjamin",
+                    "last_name": "Johnson",
+                    "name": null,
+                    "headline": "Senior Software Engineer at Leica Geosystems"
+                }
+            ]
+        }
+    ],
+    "publications": [],
+    "courses": [
+        {
+            "name": "Advanced Techniques for Signal Analysis",
+            "number": "193810020"
+        },
+        {
+            "name": "Bioelectromagnetics",
+            "number": "201400282"
+        },
+        {
+            "name": "Biomechanics of Human Movement",
+            "number": "201800156"
+        },
+        {
+            "name": "Biomedical Signal Acquisition",
+            "number": "191210720"
+        },
+        {
+            "name": "Biostatistics",
+            "number": "201400285"
+        },
+        {
+            "name": "Control System Design for Mechatronics",
+            "number": "201900093"
+        },
+        {
+            "name": "Electrical Engineering I",
+            "number": "EE188"
+        },
+        {
+            "name": "Embedded Control",
+            "number": "EE410"
+        },
+        {
+            "name": "Engineering Analysis",
+            "number": "CENE225"
+        },
+        {
+            "name": "Engineering Analysis II",
+            "number": "EE325"
+        },
+        {
+            "name": "Engineering Design: Process",
+            "number": "EGR286"
+        },
+        {
+            "name": "Engineering Design: The Methods",
+            "number": "EGR386W"
+        },
+        {
+            "name": "Fundamentals of Computer Engineering",
+            "number": "EE310"
+        },
+        {
+            "name": "Fundamentals of Electromagnetics",
+            "number": "EE364"
+        },
+        {
+            "name": "Fundamentals of Electronic CIrcuits",
+            "number": "EE380"
+        },
+        {
+            "name": "Fundamentals of Signals and Systems",
+            "number": "EE348"
+        },
+        {
+            "name": "Intermediate Programming",
+            "number": "EE222"
+        },
+        {
+            "name": "Intro to Digital Logic",
+            "number": "EE110"
+        },
+        {
+            "name": "Intro to Engineering Design",
+            "number": "EGR186"
+        },
+        {
+            "name": "Introduction to Electronics",
+            "number": "EE280"
+        }
+    ],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": null,
+                "name": "Self Employed",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2017
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2021
+                        }
+                    },
+                    "company": "Self Employed",
+                    "description": null,
+                    "title": "Freelance Translator",
+                    "employment_type": "Self-employed"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 166686,
+                "name": "University of Twente",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQGlJy8j9vKdjA/company-logo_400_400/0/1533909472654?e=1703721600&v=beta&t=bKpiljO1A-RW4XDZMlQXM9J7YnPza1KG8jLvYitpPTI",
+                "url": "https://www.linkedin.com/school/university-of-twente/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "University of Twente",
+                    "description": "TA for a bachelor's course in Biorobotics.",
+                    "title": "Teaching Assistant",
+                    "employment_type": "Part-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 821017,
+                "name": "OmniTronix",
+                "logo": null,
+                "url": "https://www.linkedin.com/company/omnitronix/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Taichung City, Taiwan",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2017
+                        }
+                    },
+                    "company": "OmniTronix",
+                    "description": null,
+                    "title": "Sales Representative and Translator",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": null,
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "day": null,
+                            "year": 2012
+                        },
+                        "end": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2016
+                        }
+                    },
+                    "company": null,
+                    "description": "Private tutor for a variety of classes, particularly for the courses that pertained to semiconductors and signal processing.",
+                    "title": "Tutor",
+                    "employment_type": "Self-employed"
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "OpenSim",
+        "Arduino",
+        "C (Programming Language)",
+        "Signal Processing",
+        "IBM SPSS",
+        "Robotics",
+        "COMSOL",
+        "Visual Arts",
+        "Illustration",
+        "Foreign Languages",
+        "Art History",
+        "Integrated Circuit Design",
+        "Programming",
+        "Electronics",
+        "Electrical Engineering",
+        "Matlab",
+        "Semiconductors",
+        "VLSI",
+        "FPGA",
+        "Microprocessors"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

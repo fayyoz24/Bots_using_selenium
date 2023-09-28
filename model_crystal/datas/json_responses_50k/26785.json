@@ -1,0 +1,520 @@
+{
+    "profile_id": "jeffrey-veldman-009482187",
+    "first_name": "Jeffrey",
+    "last_name": "Veldman",
+    "sub_title": "PhD student Radiation Oncology bij Amsterdam UMC",
+    "profile_picture": "https://media.licdn.com/dms/image/C4D03AQFQscxoh8f8rA/profile-displayphoto-shrink_800_800/0/1560888024312?e=1701302400&v=beta&t=27tRY9LbFNEX2lzajYSU1zjjX9wu8LU79kgWIQTMXdg",
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAACwHtYkBGWURDtB5TXgC0oumK0FBHHZzQ8s",
+    "object_urn": 738702729,
+    "birth_date": null,
+    "summary": null,
+    "location": {
+        "country": "Netherlands",
+        "short": "Uithoorn, North Holland",
+        "city": "Uithoorn",
+        "state": "North Holland",
+        "default": "Uithoorn, North Holland, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "NL",
+            "language": "nl"
+        },
+        "supported_locales": [
+            {
+                "country": "NL",
+                "language": "nl"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "Duits",
+                "proficiency": "ELEMENTARY"
+            },
+            {
+                "name": "Engels",
+                "proficiency": "PROFESSIONAL_WORKING"
+            },
+            {
+                "name": "Frans",
+                "proficiency": "ELEMENTARY"
+            },
+            {
+                "name": "Latijn",
+                "proficiency": "ELEMENTARY"
+            },
+            {
+                "name": "Nederlands",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ]
+    },
+    "industry": "Hospital & Health Care",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "school": {
+                "name": "Vrije Universiteit Amsterdam (VU Amsterdam)",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQGFG964atm3Ow/company-logo_400_400/0/1682661887840?e=1703721600&v=beta&t=871s4br2EokXU4GPzYVwsoy3BpQAoKkgU-c2zYvtGmQ",
+                "url": "https://www.linkedin.com/school/vrije-universiteit-amsterdam/"
+            },
+            "degree_name": "Master of Science - MS",
+            "field_of_study": "Biomedical Technology & Physics",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "school": {
+                "name": "Vrije Universiteit Amsterdam (VU Amsterdam)",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQGFG964atm3Ow/company-logo_400_400/0/1682661887840?e=1703721600&v=beta&t=871s4br2EokXU4GPzYVwsoy3BpQAoKkgU-c2zYvtGmQ",
+                "url": "https://www.linkedin.com/school/vrije-universiteit-amsterdam/"
+            },
+            "degree_name": "Bachelor of Science - BS",
+            "field_of_study": "Medische Natuurwetenschappen",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2006
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "school": {
+                "name": "Hermann Wesselink College",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQFzhUOOAM6tBg/company-logo_400_400/0/1610634541588?e=1703721600&v=beta&t=zrc49iOCK_IJELdfdb_GLe2rrnSmT-Vm4kFEu5qMqgg",
+                "url": "https://www.linkedin.com/school/hermann-wesselink-college/"
+            },
+            "degree_name": "Voorbereidend Wetenschappelijk Onderwijs",
+            "field_of_study": "Pre University",
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "Dosimetric Impact of Organ-at-Risk Contour Anomalies for Patients with Head and Neck Cancer ",
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "description": "Accurate delineation of the tumour and Organs-at-Risk (OAR) is one of the critical steps in the radiotherapy imaging-to-treatment chain. Inaccuracies in this step propagate through in the treatment stages resulting in inaccuracies in treatment delivery affecting treatment efficiency and/or healthy tissue toxicity. This contouring is typically done by a radiotherapy technologist (RTT) but due to the time consuming nature and the high risk of intra and inter observer variation, auto contouring algorithms have been increasingly applied. After the algorithm constructs the contour, the RTT simply needs to check the contours and correct if necessary. As this is still quite a time-consuming process, data scientists from the AvL have made an anomaly detector model which uses spatial metrics and image features in order to determine which contours require corrections. To train this model more extensively, dosimetric data can also be used as input for this anomaly detector. The goal of this research was to determine the dosimetric impact of OAR contour anomalies in Head-and-Neck cancer, to determine whether dosimetric data could be applied to train this anomaly detector. For this we used two salivary glands, the Parotid and Submandibular gland, and expanded and contracted these contours from the clinical plan by 3 and 6 mm to create a set of anomalous contours. With each separate anomalous contour, a new 46 Gy VMAT auto plan was made based on the erroneous contour. Then the clinical contour was evaluated on this 'anomalous' treatment plan to determine how the anomalous contour influenced the treatment plan.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Jeffrey",
+                    "last_name": "Veldman",
+                    "name": null,
+                    "headline": "PhD student Radiation Oncology bij Amsterdam UMC"
+                }
+            ]
+        },
+        {
+            "title": "Robustness of 4DMRI Reconstruction after Outlier Rejection, evaluated by Reconstruction Quality Parameters",
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "description": "Irregularities in respiration may cause artefacts in 4D reconstructions, introducing uncertainties in treatment.  To further improve 4DMRI reconstructions and to be able to handle irregularities in respiration, outlier rejection has been introduced. For radiotherapy purposes, robustness is a significant parameter as, ideally, a single diagnostic image represents the following treatment fractions adequately. Our study aimed to qualitatively analyze the robustness of 4DMRI reconstruction quality parameters after outlier rejection (OR). Furthermore, it was determined whether outlier rejection results in more representative respiratory signals for following acquisitions. Four OR strategies were compared: discarding 5% extreme respiratory positions whilst minimizing amplitude (Min95, home built strategy), phase binning without OR (Phase), amplitude binning without OR (MaxIE) and amplitude binning with thresholds at mean inhale and exhale levels (MeanIE). Results showed that in terms of robustness Min95 outperformed the current clinical standard Phase for four out of five quality parameters, MaxIE for three out of five parameters and MeanIE for two out of five parameters. In terms of representativeness, applying Min95  resulted in an 5% less overlap than Phase and MaxIE compared to perfect overlap percentages(100% for Max and Phase, 95% or Min95). To conclude, applying outlier rejection significantly increases robustness of 4D reconstructions. However, outlier rejection does not provide more representative respiratory signals. ",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Jeffrey",
+                    "last_name": "Veldman",
+                    "name": null,
+                    "headline": "PhD student Radiation Oncology bij Amsterdam UMC"
+                }
+            ]
+        },
+        {
+            "title": "The influence of reconstruction parameters on the resolution of SPECT images",
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "description": "SPECT (Single Photon Emission Computed Tomography) is an imaging modality based on a combination of PET and CT. During this project an attempt was made to construct a quality analysis program for SPECT images using a SPECT simulation program. Results showed that the simulation program provided insufficiently representative images compared to real SPECT images. Input for improvements was sent to the developer of the program, the University Medical Center Utrecht. ",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Jeffrey",
+                    "last_name": "Veldman",
+                    "name": null,
+                    "headline": "PhD student Radiation Oncology bij Amsterdam UMC"
+                }
+            ]
+        }
+    ],
+    "publications": [],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 4083,
+                "name": "Amsterdam UMC",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQHBs6rXsQYqGQ/company-logo_400_400/0/1528382070277?e=1703721600&v=beta&t=iwYT4Tzdgi40Bei8IUBPGU94lcPpbgKrFX2BoP0F7oY",
+                "url": "https://www.linkedin.com/company/amsterdamumc/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amsterdam, Noord-Holland, Nederland",
+                    "date": {
+                        "start": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Amsterdam UMC",
+                    "description": null,
+                    "title": "PhD student Radiation Oncology",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 692920,
+                "name": "GGD Hollands Midden",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQGcw26mSAEAwg/company-logo_400_400/0/1638548357259?e=1703721600&v=beta&t=RM3pByOJy5_FlcyL5VuijRi95xugp2DhZ-_7kjWOAcQ",
+                "url": "https://www.linkedin.com/company/ggd-hollands-midden/",
+                "employees": {
+                    "start": 501,
+                    "end": 1000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Gouda, Zuid-Holland, Nederland",
+                    "date": {
+                        "start": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2020
+                        },
+                        "end": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2021
+                        }
+                    },
+                    "company": "Hecht GGD Hollands Midden",
+                    "description": "Bemonsteren van personen door middel van keel- en neusswab ten behoeve van PCR test om te bepalen of persoon besmet is met het SARS-CoV-2 virus.",
+                    "title": "Bemonsteraar",
+                    "employment_type": "Contract"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Gamma",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Aalsmeer",
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2012
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2020
+                        }
+                    },
+                    "company": "Gamma",
+                    "description": "Vragen van klanten betreffende winkel en het assortiment beantwoorden.\nVerhuren van gereedschap aan klanten\nAdministratief werk:\n\u2022\tAfhandelen van naar leverancier retour te sturen artikelen.\n\u2022\tAfhandelen van door klanten bestelde artikelen.\n\u2022\tAfhandelen van door leverancier te repareren artikelen.\n\u2022\tAls tussenpersoon fungeren tussen klant en leverancier middels telefoon en mail.",
+                    "title": "Servicebalie Medewerker",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 68790,
+                "name": "Gemeente Uithoorn",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQHbTt49iat1ww/company-logo_400_400/0/1557732699209?e=1703721600&v=beta&t=C0MN5o01XY3QZuyiSFhTnjCRK00U_viXRL3d0sKbLSs",
+                "url": "https://www.linkedin.com/company/gemeente-uithoorn/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Uithoorn",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2011
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2012
+                        }
+                    },
+                    "company": "Gemeente Uithoorn",
+                    "description": "Verschillende informatie van de gemeente rondbrengen in een vaste wijk in Uithoorn",
+                    "title": "Bezorger",
+                    "employment_type": null
+                },
+                {
+                    "location": "Uithoorn",
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2011
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2011
+                        }
+                    },
+                    "company": "Gemeente Uithoorn",
+                    "description": "Het afhandelen van ongeregistreerde brieven aan de gemeente.\nHet digitaliseren van archiefstukken.",
+                    "title": "Administratief medewerker",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Netwerk VSP",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2009
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2011
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Uithoorn",
+                    "date": {
+                        "start": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2009
+                        },
+                        "end": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2011
+                        }
+                    },
+                    "company": "Netwerk VSP",
+                    "description": "Folders bezorgen in een vaste wijk in Uithoorn",
+                    "title": "Bezorger",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [
+        {
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "role": "Assistent-instructeur",
+            "company": {
+                "id": null,
+                "name": "Reddingsbrigade Uithoorn",
+                "logo": null,
+                "url": null
+            },
+            "cause": null,
+            "description": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "role": "Actief Lid",
+            "company": {
+                "id": null,
+                "name": "Studievereniging Mens",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQGyDpNA7RQogg/company-logo_400_400/0/1519905168792?e=1703721600&v=beta&t=KFko01qZvS77fyUMlZXGtXN3IS5H6RhVPNxK0qb-wX0",
+                "url": "https://www.linkedin.com/company/studievereniging-mens/"
+            },
+            "cause": "EDUCATION",
+            "description": "- September 2018 - April 2020\t\t\nAlgemeen Lid Activiteiten Commissie Studievereniging Mens.\n- Mei 2018 - November 2018\t\t\nAlgemeen Lid Sollicitatie Commissie Studievereniging Mens.\n- Maart 2018 - Maart 2020\nVoorzitter Stichting Studiereizen Medische Natuurwetenschappen.\t\n- September 2017 - September 2019\nAlgemeen Lid IT Commissie Studievereniging Mens.\n- November 2015 - Juni 2017\t\t\nAlgemeen Lid Sport Commissie Studievereniging Mens.\n\n\n"
+        }
+    ],
+    "skills": [
+        "PowerPoint",
+        "Teamwork",
+        "Gemotiveerd",
+        "Leergierig",
+        "Creatief",
+        "Zelfstandig",
+        "Pinnacle v16.2 Treatment Planning System - Basisvaardigheid",
+        "MatLab - Gevorderd",
+        "Microsoft Word - Professionele Werkvaardigheid",
+        "Microsoft Excel - Professionele Werkvaardigheid",
+        "Microsoft PowerPoint - Professionele Werkvaardigheid"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

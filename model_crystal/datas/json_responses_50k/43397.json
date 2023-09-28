@@ -1,0 +1,421 @@
+{
+    "profile_id": "keesvuik",
+    "first_name": "Kees",
+    "last_name": "Vuik",
+    "sub_title": "Professor of Numerical Analysis at the Mathematical Department of TU Delft",
+    "profile_picture": "https://media.licdn.com/dms/image/C5603AQGIbIU2H_h85Q/profile-displayphoto-shrink_800_800/0/1640959883983?e=1701302400&v=beta&t=UXXmNjg9boFVu41CSfVmLoRTbCZMHt9SvmOKM_NE_w8",
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAAADMrmEBRDWP-45BiKpMVA_A8yBa9MtCu_s",
+    "object_urn": 13413985,
+    "birth_date": null,
+    "summary": "Current research consists of Numerical Linear Algebra applied to problems originating from the discretized Navier Stokes equations and the solution of moving boundary problems (Stefan problems).\n\nNumerical linear algebra topics\n\n    * Iterative methods for linear systems\n    * Preconditioning for iterative methods\n    * Deflation combined with iterative methods\n    * Iterative methods for the Helmholtz equation (Krylov methods, preconditioning, multigrid)\n    * Iterative methods for Least Squares problems\n    * Iterative methods to calculate eigenvalues\n\nNavier Stokes equation topics\n\n    * Solution of the Navier Stokes equations by the pressure correction method\n    * Coupled approach, where the momentum and pressure equations are solved simultaneously.\n    * Convection diffusion equation\n    * Poisson equation \n\nParallel computing \nI am interested in parallel computing in order to solve the discretized Navier Stokes equations, which lead to very large linear systems.\n\n    * Interested in developments of PVM and MPI\n    * Domain decomposition methods\n    * Parallel methods for a cluster of workstations \n\nMoving boundary problems\n\n    * Conservative discretization of the Stefan condition at the free boundary\n    * Historical background of the Stefan problem\n    * Modelling and applications: etching problems, homogenization of alloys etc.\n    * Numerical methods for multiphase flow, bubbles etc.\n\nSpecialties: Numerical Linear Algebra, Krylov methods, preconditioners",
+    "location": {
+        "country": "Netherlands",
+        "short": "The Randstad, Netherlands",
+        "city": "The Randstad",
+        "state": "Netherlands",
+        "default": "The Randstad, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "English",
+                "proficiency": null
+            },
+            {
+                "name": "German",
+                "proficiency": null
+            }
+        ]
+    },
+    "industry": "Research",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 1983
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 1988
+                }
+            },
+            "school": {
+                "name": "Utrecht University",
+                "logo": "https://media.licdn.com/dms/image/C510BAQG6HfmPTdJKXw/company-logo_400_400/0/1519884681258?e=1703721600&v=beta&t=dip0JQLPHIafltY09rUwsjeZiPiJpmfD6vJeMHxW-84",
+                "url": "https://www.linkedin.com/school/universiteit-utrecht/"
+            },
+            "degree_name": "Dr.",
+            "field_of_study": "Mathematics",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 1977
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 1982
+                }
+            },
+            "school": {
+                "name": "Delft University of Technology",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQFwaGpwaod9mQ/company-logo_400_400/0/1670699851986?e=1703721600&v=beta&t=Aw4oLxoKsIJcblYDjxw9200FClnyhZu8DxzcfJRDFOs",
+                "url": "https://www.linkedin.com/school/tudelft/"
+            },
+            "degree_name": "Mathematical Engineer",
+            "field_of_study": "Applied Mathematics",
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [],
+    "organizations": [
+        {
+            "name": "SIAM",
+            "position": null,
+            "date_start": {
+                "month": 1,
+                "day": null,
+                "year": 1995
+            },
+            "date_end": null
+        }
+    ],
+    "projects": [],
+    "publications": [],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 166529,
+                "name": "Technische Universiteit Delft",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQFwaGpwaod9mQ/company-logo_400_400/0/1670699851986?e=1703721600&v=beta&t=Aw4oLxoKsIJcblYDjxw9200FClnyhZu8DxzcfJRDFOs",
+                "url": "https://www.linkedin.com/school/tudelft/",
+                "employees": {
+                    "start": 5001,
+                    "end": 10000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 1988
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Delft, South Holland, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Delft University of Technology",
+                    "description": null,
+                    "title": "Chair of Delft Institute of Applied Mathematics",
+                    "employment_type": null
+                },
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2007
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Delft University of Technology",
+                    "description": "Education and research in Numerical Analysis",
+                    "title": "Prof.dr.ir.",
+                    "employment_type": null
+                },
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "day": null,
+                            "year": 1988
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Delft University of Technology",
+                    "description": "Teaching and research",
+                    "title": "Prof.dr.ir.",
+                    "employment_type": null
+                },
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 1988
+                        },
+                        "end": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2007
+                        }
+                    },
+                    "company": "Delft University of Technology",
+                    "description": "Education and research in Numerical Analysis",
+                    "title": "Dr.ir.",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "ICIAM Congress 2027",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "The Hague, South Holland, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "ICIAM Congress 2027",
+                    "description": null,
+                    "title": "Chairman of Organizing Board ICIAM 2027",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "4TU.AMI Applied Mathematics Institute",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Delft Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2012
+                        },
+                        "end": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2020
+                        }
+                    },
+                    "company": "4TU.AMI Applied Mathematics Institute",
+                    "description": "The Applied Mathematics Institute - 3TU.AMI - is one of the seven Centers of Excellence of the 3TU.Federation. It is a collaboration of the mathematics sections of the three Dutch Universities of Technology",
+                    "title": "Scientific Director",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 166740,
+                "name": "Utrecht University",
+                "logo": "https://media.licdn.com/dms/image/C510BAQG6HfmPTdJKXw/company-logo_400_400/0/1519884681258?e=1703721600&v=beta&t=dip0JQLPHIafltY09rUwsjeZiPiJpmfD6vJeMHxW-84",
+                "url": "https://www.linkedin.com/school/universiteit-utrecht/",
+                "employees": {
+                    "start": 5001,
+                    "end": 10000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 1983
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 1988
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 1983
+                        },
+                        "end": {
+                            "month": 5,
+                            "day": null,
+                            "year": 1988
+                        }
+                    },
+                    "company": "Utrecht University",
+                    "description": "Research in existence, uniqueness and regularity for solutions of the one dimensional Stefan problem. An error estimate for a time dependent variational equality has been given.",
+                    "title": "Ir.",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1090,
+                "name": "Philips Research",
+                "logo": "https://media.licdn.com/dms/image/C510BAQG4O5wCG6zf2Q/company-logo_400_400/0/1519855869410?e=1703721600&v=beta&t=AwT4OtKaChfPg1Rv0FCXPZ0aI3a7TPbiAfYxHqJIa04",
+                "url": "https://www.linkedin.com/company/philips/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 1982
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 1983
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 11,
+                            "day": null,
+                            "year": 1982
+                        },
+                        "end": {
+                            "month": 4,
+                            "day": null,
+                            "year": 1983
+                        }
+                    },
+                    "company": "Philips",
+                    "description": "Implementing and testing of two moving boundary problem solvers (Stefan problem): moving grid method and the variational inequality method.",
+                    "title": "Ir.",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Numerical Linear Algebra",
+        "Applied Mathematics",
+        "Numerical Analysis",
+        "Scientific Computing",
+        "Mathematical Modeling",
+        "Numerical Simulation",
+        "Parallel Computing",
+        "LaTeX",
+        "Physics",
+        "Matlab",
+        "Simulations",
+        "Algorithms",
+        "Partial Differential Equations",
+        "Science",
+        "Inverse Problems",
+        "Fortran",
+        "Turbulence",
+        "Linear Algebra",
+        "Mathematical Physics",
+        "OpenFOAM"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

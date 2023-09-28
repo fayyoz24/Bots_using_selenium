@@ -1,0 +1,635 @@
+{
+    "profile_id": "edmundoferreira",
+    "first_name": "Edmundo",
+    "last_name": "Ferreira",
+    "sub_title": "Senior Embedded Software Engineer at QBlox",
+    "profile_picture": "https://media.licdn.com/dms/image/C4D03AQEpwcPVmw8QAw/profile-displayphoto-shrink_800_800/0/1572688023729?e=1701302400&v=beta&t=ROqTCPw3VuNeu0dAZJBavtrZprEDcP3TTyf1BW2e61s",
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAAAPrHAwBkToG6izhXQsutDvefz26c6FVFKE",
+    "object_urn": 65739788,
+    "birth_date": null,
+    "summary": "Strong analytic and problem solving skills, good communication skills, eager and fast learner. High attention to detail and ability to adapt quickly to new environments.\nWith extensive experience in software development, specializing in object oriented programming for seamless hardware integration with low latency.\n",
+    "location": {
+        "country": "Netherlands",
+        "short": "Amsterdam, North Holland",
+        "city": "Amsterdam",
+        "state": "North Holland",
+        "default": "Amsterdam, North Holland, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "English",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "Portuguese",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ]
+    },
+    "industry": "Consumer Electronics",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2004
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "school": {
+                "name": "Instituto Superior T\u00e9cnico",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQHKMgxKObK5IA/company-logo_400_400/0/1519922087295?e=1703721600&v=beta&t=d9chGHT5lYGfeYG89pdGB8nSREya8jtnVlI5gV4f2zc",
+                "url": "https://www.linkedin.com/school/ist/"
+            },
+            "degree_name": "Master of Science (M.Sc.)",
+            "field_of_study": "Aerospace Engineering",
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [
+        {
+            "name": "Embedded Systems",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "edX",
+            "url": "https://courses.edx.org/certificates/9f6fb920e9d5481c898d462b70019eba",
+            "license_number": null,
+            "display_source": "edx.org",
+            "company": {
+                "id": null,
+                "name": "edX",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQFG13a41008Dg/company-logo_400_400/0/1688142646058?e=1703721600&v=beta&t=xLsEYK_-is_JC1E-k7wOA7ibIweJHpl9ya3GIEMHp2M",
+                "url": null
+            }
+        },
+        {
+            "name": "Realtime Operating Systems and Networks",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "edX",
+            "url": "https://courses.edx.org/certificates/b807867602d844bb8ca29b38199f2b72",
+            "license_number": null,
+            "display_source": "edx.org",
+            "company": {
+                "id": null,
+                "name": "edX",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQFG13a41008Dg/company-logo_400_400/0/1688142646058?e=1703721600&v=beta&t=xLsEYK_-is_JC1E-k7wOA7ibIweJHpl9ya3GIEMHp2M",
+                "url": null
+            }
+        },
+        {
+            "name": "Web Development",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Udacity",
+            "url": "https://www.udacity.com/certificate/cs253",
+            "license_number": null,
+            "display_source": "udacity.com",
+            "company": {
+                "id": null,
+                "name": "Udacity",
+                "logo": "https://media.licdn.com/dms/image/C560BAQHiNYfm0YHKrg/company-logo_400_400/0/1656621848272?e=1703721600&v=beta&t=K5xcAKf7mtx1MUVwxChhMDKubuX_mh7DMQTuSX9rjwQ",
+                "url": null
+            }
+        }
+    ],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "Balua",
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "description": "An interesting part-time project between friends. We build, launch, and recover high altitude weather balloons with payload. We are currently aiming at building a platform that enables weather stations to recover their electronic payload. Currently, each weather stations release these payloads twice a day. Our solution will save costs.\nMy participation on the project is focused on controlling the attitude of the balloon and building the trajectory simulator. The simulator consists of Python script, which fetches atmospheric data forecast from NOAA servers, delivering it to the C code for trajectory calculation. I also implemented a Python KML file generator for visualization using GoogleEarth to observe the simulated path and real time tracking of the balloon by radio communicated GPS position.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Edmundo",
+                    "last_name": "Ferreira",
+                    "name": null,
+                    "headline": "Senior Embedded Software Engineer at QBlox"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Carlos Diogo",
+                    "last_name": "Henriques",
+                    "name": null,
+                    "headline": "Project Manager at A.D. Instituto Superior T\u00e9cnico"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Duarte",
+                    "last_name": "Afonso",
+                    "name": null,
+                    "headline": "Senior Director Operations Strategy and Performance"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Pedro",
+                    "last_name": "Casau",
+                    "name": null,
+                    "headline": "Assistant Professor at University of Aveiro"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Jos\u00e9",
+                    "last_name": "Rodrigues",
+                    "name": null,
+                    "headline": "Aircraft Simulation Engineer"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Rui",
+                    "last_name": "Santos",
+                    "name": null,
+                    "headline": "Software Engineer for Simulation and Test at Moog"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "D\u00e1rio",
+                    "last_name": "Silva",
+                    "name": null,
+                    "headline": "PhD Student of Mechanical Engineering at IST at Instituto Superior T\u00e9cnico"
+                }
+            ]
+        },
+        {
+            "title": "Thermocup Challenge",
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "description": "It is an educational competition project aiming university undergrad and high school students to build their own thermodynamic steam boat, thus gaining practical insight into thermodynamics, heat transfer, and fluid dynamics. The competition is held annually and in 2012 it received a grant by Centro Ci\u00eancia Viva to encourage science literacy in young students.\nIn this project, I helped developed software and hardware integration, for an autonomous team tracking of lap times using rfid and raspeberry pi display system. It is an simple yet very interesting, project that gets many students interested in science and technology. ",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Edmundo",
+                    "last_name": "Ferreira",
+                    "name": null,
+                    "headline": "Senior Embedded Software Engineer at QBlox"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Carlos Diogo",
+                    "last_name": "Henriques",
+                    "name": null,
+                    "headline": "Project Manager at A.D. Instituto Superior T\u00e9cnico"
+                }
+            ]
+        },
+        {
+            "title": "PSEMbyIST",
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2008
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2010
+                }
+            },
+            "description": "Extracurricular project with the objective of building the first hydrogen prototype car in the Iberia Peninsula, for the Shell Eco-Marathon of 2009. I coordinated several teammates designing, modeling, constructing, and testing the car chassis and fuel cell integration. \nIn our first participations of the competition, held at Lausitz-Ring, Germany May 2009, we ranked 21st out of 200 teams, and 10th in the hydrogen category.\nIn Oct. 2009 we participated in the Murcia Solar Race, Cartagena Spain, and ranked 1st out of 30 teams.\nI participated on the project has Coordinator of Structural Design, and later also has Vice President.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Edmundo",
+                    "last_name": "Ferreira",
+                    "name": null,
+                    "headline": "Senior Embedded Software Engineer at QBlox"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Miguel",
+                    "last_name": "Henriques",
+                    "name": null,
+                    "headline": "Technical Engineer at World Star Aviation"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Duarte",
+                    "last_name": "Afonso",
+                    "name": null,
+                    "headline": "Senior Director Operations Strategy and Performance"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "D\u00e1rio",
+                    "last_name": "Silva",
+                    "name": null,
+                    "headline": "PhD Student of Mechanical Engineering at IST at Instituto Superior T\u00e9cnico"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Nuno",
+                    "last_name": "Silva",
+                    "name": null,
+                    "headline": "Data science/engineering/software"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Jos\u00e9",
+                    "last_name": "Rodrigues",
+                    "name": null,
+                    "headline": "Aircraft Simulation Engineer"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Anabela",
+                    "last_name": "Reis",
+                    "name": null,
+                    "headline": "Analytics Business Partner | Product Owner at Sartorius"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Ana Isabel",
+                    "last_name": "Oliveira",
+                    "name": null,
+                    "headline": "PhD student"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Carlos Diogo",
+                    "last_name": "Henriques",
+                    "name": null,
+                    "headline": "Project Manager at A.D. Instituto Superior T\u00e9cnico"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Tiago",
+                    "last_name": "Fernandes",
+                    "name": null,
+                    "headline": "Data Engineer & Analyst"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Rui",
+                    "last_name": "Santos",
+                    "name": null,
+                    "headline": "Software Engineer for Simulation and Test at Moog"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Guilherme",
+                    "last_name": "de Oliveira e Silva",
+                    "name": null,
+                    "headline": "Energy expert"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Andr\u00e9",
+                    "last_name": "Lico",
+                    "name": null,
+                    "headline": "Development Engineer - Trent XWB-97 - Turbines"
+                }
+            ]
+        }
+    ],
+    "publications": [],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 19109944,
+                "name": "Qblox",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQEHX2g2Ay9QfQ/company-logo_400_400/0/1605805223006?e=1703721600&v=beta&t=KQ2oSFKbP2lkd2dXQJ2V524WXMcj96zNUlMrCcutiWM",
+                "url": "https://www.linkedin.com/company/qblox/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Delft, South Holland, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Qblox",
+                    "description": null,
+                    "title": "Senior Embedded Software Engineer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 4901,
+                "name": "European Space Agency - ESA",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQEDpcRmqnD6AQ/company-logo_400_400/0/1665654733184?e=1703721600&v=beta&t=NspW8lDPcrTMGpUuiQm9pvBv6FXUcOqiZOAkB5OYBrM",
+                "url": "https://www.linkedin.com/company/european-space-agency/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Leiden, South Holland Province, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2017
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "European Space Agency - ESA",
+                    "description": null,
+                    "title": "Robotics Software Engineer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1319,
+                "name": "Lockheed Martin",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQHF1YKEZdN4LA/company-logo_400_400/0/1668532984993?e=1703721600&v=beta&t=ZD5Md4uWREaARye7exqrbk2fQ9zG-gPUy3NIGmFFl0Y",
+                "url": "https://www.linkedin.com/company/lockheed-martin/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2017
+                        }
+                    },
+                    "company": "Lockheed Martin",
+                    "description": "Software development and company wide implementation of Siemens PLC systems via profinet and profibus, for integration of physical aircraft cockpit panels with software simulated aircraft systems.\nIn depth understanding of aircraft protocols like A429, A629, A664/AFDX, CAN and their implementation on UEI software API, and major optimizations on latency in the current company implementation. \nStarted development a new distributed UEIPac solution running on Xenomai with ZeroMQ publish and subscribe communication for integration with software simulated aircraft systems, for extreme latency gains.  \nLead software engineer for Airbus 350 display system from Thales Avionics. With good understating of Airbus documentation and VCom communication protocols.\nDeployment and customization of Icinga, an open source scalable and extensible monitoring system which checks the availability of resources and notifies users of outages. The deployment of this monitoring tool, involved an heterogeneous stack of technologies like MySQL databases, PHP webapp and Graphite a real-time series database, was done using Docker Containers in CoreOS operating system.",
+                    "title": "Aerospace Embedded Real-time Software Engineer",
+                    "employment_type": null
+                },
+                {
+                    "location": "Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2013
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2015
+                        }
+                    },
+                    "company": "Lockheed Martin",
+                    "description": "Software development of Boeing 777 full flight simulator. Implementation of the real-time simulation of General Electric GE90 turbofan engine and Honeywell AlliedSignal auxiliary power unit (APU) in C++.\nUnit testing of those systems using Lua and full integration with other simulated or real aircraft systems.\nIntegration off B777 Airplane Information Management Systems (AIMS) delivered by Flight Safety International.\nSupported final delivery and qualification of the full flight simulator in direct contact with the customer, Lufthansa Flight Training.\nGood understanding of Boeing documentation, schematics an aviation protocols.\nUnderstanding of flight procedures and of many of aircraft components and systems, with +1000 hours of B777 full flight simulator.",
+                    "title": "Aeropace Simulation Software Engineer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 164485,
+                "name": "Instituto Superior T\u00e9cnico",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQHKMgxKObK5IA/company-logo_400_400/0/1519922087295?e=1703721600&v=beta&t=d9chGHT5lYGfeYG89pdGB8nSREya8jtnVlI5gV4f2zc",
+                "url": "https://www.linkedin.com/school/ist/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Lisbon",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2011
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2013
+                        }
+                    },
+                    "company": "Instituto Superior T\u00e9cnico",
+                    "description": "During my stay at the research lab, I developed an experimental setup for Laser Doppler Velocimetry. The implementation was done in C code running independently on a Texas Instruments TMS320C6713 DSP processor, with the ADC\u2019s acquiring signal up to 100kHz. A host program was also created in C, running on a windows workstation. It communicated with the DSP for data storing and further post-processing. Images from a high speed camera are also stored for visualization of the flame front motion and all the tracking codes where implemented in Matlab. On the final part of my thesis, I will create a simulation of the flame front motion by discretizing a partial differential equation (G-equation). Since there is no off-the-shelf solver for this equation, I will be implementing the codes in C and comparing the movement of the simulated and real flames, thus improving the flame model.",
+                    "title": "Research Assistant",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 83008,
+                "name": "Iwaytrade",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQGfhOoxtRPZ8A/company-logo_400_400/0/1519912482727?e=1703721600&v=beta&t=eb2QiyQKcDvfpqSSPdp-ZZ0tF0xALqtXJYFeMCY4PzI",
+                "url": "https://www.linkedin.com/company/iwaytrade/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2006
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Lisbon, Portugal",
+                    "date": {
+                        "start": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2006
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2013
+                        }
+                    },
+                    "company": "Iwaytrade",
+                    "description": "Assistance in setting up and monitoring computer networks, in conferences, exhibitions, and other events in Lisbon\u2019s main exhibition halls (FIL and CCL). Including the participation in high profile events, such as European Union and NATO summits. The typical routine involves installing large amounts of Ethernet or fiber optic cables from the servers to the access points and wifi antennas. During the event, we monitor the network and server\u2019s performance, and troubleshoot in highly demanding environment.",
+                    "title": "IT Assistant",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Matlab",
+        "LaTeX",
+        "C",
+        "C++",
+        "Python",
+        "Simulink",
+        "Software Development",
+        "Agile Methodologies",
+        "Lua",
+        "Git",
+        "Embedded Linux",
+        "OpenGL",
+        "Javascript",
+        "HTML",
+        "CSS",
+        "SQL",
+        "Physics",
+        "Programming",
+        "JavaScript",
+        "Aerospace"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

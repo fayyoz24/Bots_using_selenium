@@ -1,0 +1,675 @@
+{
+    "profile_id": "leonardobarbini",
+    "first_name": "Leonardo",
+    "last_name": "Barbini",
+    "sub_title": "Research Fellow, Embedded Systems Innovation by TNO",
+    "profile_picture": null,
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAABIac9cBnFoIO9Y1EhJ4m2SpH8RblyVA1jc",
+    "object_urn": 303723479,
+    "birth_date": null,
+    "summary": "I am a research scientist working in the areas of data science, knowledge engineering, and probabilistic reasoning for diagnostics, prognostics, and decision-making.\n\nI have experience working in diverse domains such as:\n\u2022  vibration based condition monitoring for aircraft engines and wind turbine gearboxes\n\u2022  root cause analysis of performance issues of lithographic systems, professional printers\n\u2022  predictive maintenance of a radar system\n\u2022  diagnostics of high-tech machines\n\nMy main research interest is in developing algorithms that allow machines to diagnose and adapt to their health condition.",
+    "location": {
+        "country": "Netherlands",
+        "short": "Eindhoven, North Brabant",
+        "city": "Eindhoven",
+        "state": "North Brabant",
+        "default": "Eindhoven, North Brabant, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "IT",
+            "language": "it"
+        },
+        "supported_locales": [
+            {
+                "country": "IT",
+                "language": "it"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "Inglese",
+                "proficiency": "FULL_PROFESSIONAL"
+            },
+            {
+                "name": "Italiano",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "Olandese",
+                "proficiency": "ELEMENTARY"
+            }
+        ]
+    },
+    "industry": "Research",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "school": {
+                "name": "University of Bath",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQHQLVwhPQAQ1g/company-logo_400_400/0/1677695706581?e=1703721600&v=beta&t=2U9H-WfJmgBNOM0uCsqjG6qXkJ4rC0BmgjrBCe9Q1cQ",
+                "url": "https://www.linkedin.com/school/university-of-bath/"
+            },
+            "degree_name": "Doctor of Philosophy - PhD",
+            "field_of_study": "Mechanical Engineering",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "school": {
+                "name": "R2I",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": null,
+            "field_of_study": null,
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2010
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "school": {
+                "name": "Sapienza Universit\u00e0 di Roma",
+                "logo": "https://media.licdn.com/dms/image/C510BAQF5OJVPD2RZjA/company-logo_400_400/0/1519856449258?e=1703721600&v=beta&t=E31F1jSVLDPYCpwy2csLwWfstUoCYgEYR0WDH-BWlUY",
+                "url": "https://www.linkedin.com/school/sapienzauniversitadiroma/"
+            },
+            "degree_name": "Laurea Magistrale",
+            "field_of_study": "Fisica teorica e matematica",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2007
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2010
+                }
+            },
+            "school": {
+                "name": "Sapienza Universit\u00e0 di Roma",
+                "logo": "https://media.licdn.com/dms/image/C510BAQF5OJVPD2RZjA/company-logo_400_400/0/1519856449258?e=1703721600&v=beta&t=E31F1jSVLDPYCpwy2csLwWfstUoCYgEYR0WDH-BWlUY",
+                "url": "https://www.linkedin.com/school/sapienzauniversitadiroma/"
+            },
+            "degree_name": "Laurea triennale",
+            "field_of_study": "Fisica teorica e matematica",
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [],
+    "organizations": [],
+    "projects": [],
+    "publications": [
+        {
+            "name": "Model based diagnosis in complex industrial systems: a methodology",
+            "publisher": "Proceedings of the European Conference of the PHM Society 2020",
+            "url": "https://phmpapers.org/index.php/phme/article/view/1174",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2020
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Leonardo",
+                    "last_name": "Barbini",
+                    "name": null,
+                    "headline": "Research Fellow, Embedded Systems Innovation by TNO"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Carmen",
+                    "last_name": "Bratosin",
+                    "name": null,
+                    "headline": "Project Manager"
+                }
+            ]
+        },
+        {
+            "name": "Probabilistic Health and Mission Readiness Assessment at System-Level",
+            "publisher": "Proceedings of the Annual Conference of the PHM Society",
+            "url": "https://www.phmpapers.org/index.php/phmconf/article/view/777",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2019
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Leonardo",
+                    "last_name": "Barbini",
+                    "name": null,
+                    "headline": "Research Fellow, Embedded Systems Innovation by TNO"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Michael",
+                    "last_name": "Borth",
+                    "name": null,
+                    "headline": "Smart Systems Research at TNO"
+                }
+            ]
+        },
+        {
+            "name": "Amplitude-cyclic frequency decomposition of vibration signals for bearing fault diagnosis based on phase editing",
+            "publisher": "Mechanical Systems and Signal Processing",
+            "url": "https://www.sciencedirect.com/science/article/pii/S0888327017305277",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2017
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Leonardo",
+                    "last_name": "Barbini",
+                    "name": null,
+                    "headline": "Research Fellow, Embedded Systems Innovation by TNO"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Jonathan",
+                    "last_name": "du Bois",
+                    "name": null,
+                    "headline": "Founder, Volant Autonomy"
+                }
+            ]
+        },
+        {
+            "name": "Phase editing to enhance bearing fault detection in variable speed condition",
+            "publisher": "First World Congress on Condition Monitoring (London)",
+            "url": "http://opus.bath.ac.uk/56928/",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2017
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Leonardo",
+                    "last_name": "Barbini",
+                    "name": null,
+                    "headline": "Research Fellow, Embedded Systems Innovation by TNO"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Jonathan",
+                    "last_name": "du Bois",
+                    "name": null,
+                    "headline": "Founder, Volant Autonomy"
+                }
+            ]
+        },
+        {
+            "name": "Phase editing as a signal pre-processing step for automated bearing fault detection",
+            "publisher": "Mechanical Systems and Signal Processing",
+            "url": "http://www.sciencedirect.com/science/article/pii/S0888327016305192",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2016
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Leonardo",
+                    "last_name": "Barbini",
+                    "name": null,
+                    "headline": "Research Fellow, Embedded Systems Innovation by TNO"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Jonathan",
+                    "last_name": "du Bois",
+                    "name": null,
+                    "headline": "Founder, Volant Autonomy"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Agusmian Partogi",
+                    "last_name": "Ompusunggu",
+                    "name": null,
+                    "headline": "Senior Lecturer | Predictive Maintenance | IoT | Advanced Manufacturing"
+                }
+            ]
+        },
+        {
+            "name": "Application of cepstrum prewhitening on non-stationary signals",
+            "publisher": "International Congress on Technical Diagnostics and Condition Monitoring of Machinery in Non-Stationary Operations, Gliwice, Poland",
+            "url": null,
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2016
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Leonardo",
+                    "last_name": "Barbini",
+                    "name": null,
+                    "headline": "Research Fellow, Embedded Systems Innovation by TNO"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Jonathan",
+                    "last_name": "du Bois",
+                    "name": null,
+                    "headline": "Founder, Volant Autonomy"
+                }
+            ]
+        },
+        {
+            "name": "Weak signal detection based on two dimensional stochastic resonance",
+            "publisher": "Proc. of EUSIPCO 2015",
+            "url": "http://opus.bath.ac.uk/47744/1/Eusipco_2015.pdf",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2015
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Leonardo",
+                    "last_name": "Barbini",
+                    "name": null,
+                    "headline": "Research Fellow, Embedded Systems Innovation by TNO"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Matthew Cole",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Andrew Hillis",
+                    "headline": null
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Jonathan",
+                    "last_name": "du Bois",
+                    "name": null,
+                    "headline": "Founder, Volant Autonomy"
+                }
+            ]
+        },
+        {
+            "name": "Stochastic resonance in the B\u00e9nard system",
+            "publisher": "The European Physical Journal Plus",
+            "url": "http://link.springer.com/article/10.1140%2Fepjp%2Fi2014-14190-3#page-1",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2014
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Leonardo",
+                    "last_name": "Barbini",
+                    "name": null,
+                    "headline": "Research Fellow, Embedded Systems Innovation by TNO"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Isabella",
+                    "last_name": "Bordi",
+                    "name": null,
+                    "headline": "collaboratrice di ricerca presso Sapienza Universit\u00e0 di Roma"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Klaus Fraedrich",
+                    "headline": null
+                }
+            ]
+        },
+        {
+            "name": "The stochastic resonance in a system of gradient type",
+            "publisher": "The European Physical Journal Plus",
+            "url": "http://link.springer.com/article/10.1140%2Fepjp%2Fi2013-13013-5",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2013
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Leonardo",
+                    "last_name": "Barbini",
+                    "name": null,
+                    "headline": "Research Fellow, Embedded Systems Innovation by TNO"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Isabella",
+                    "last_name": "Bordi",
+                    "name": null,
+                    "headline": "collaboratrice di ricerca presso Sapienza Universit\u00e0 di Roma"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Klaus Fraedrich",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Alfonso Sutera",
+                    "headline": null
+                }
+            ]
+        },
+        {
+            "name": "A commercial graphite sheet to diffract and polarize X-rays",
+            "publisher": "SPIE proceedings, Space Telescopes and Instrumentation 2012: Ultraviolet to Gamma Ray",
+            "url": "http://proceedings.spiedigitallibrary.org/proceeding.aspx?articleid=1361122",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2012
+            },
+            "authors": [
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Fabio Muleri",
+                    "headline": null
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Leonardo",
+                    "last_name": "Barbini",
+                    "name": null,
+                    "headline": "Research Fellow, Embedded Systems Innovation by TNO"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Enrico Costa",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Sergio Fabiani",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Daniele Michilli",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Paolo Soffitta",
+                    "headline": null
+                }
+            ]
+        }
+    ],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 3614,
+                "name": "TNO",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQEaTotk9sLG7g/company-logo_400_400/0/1695809327920?e=1703721600&v=beta&t=8EjtZcRsl5ttgTkc-2KiFw6XoyZDIUB_vl9Ei_gb1Ik",
+                "url": "https://www.linkedin.com/company/tno/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Eindhoven, Paesi Bassi",
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2017
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "TNO",
+                    "description": "Projects with high-tech companies such as ASML and Thales.\nExpertise in:\n\u2022  machine failure diagnostics \n\u2022  condition based monitoring\n\u2022  root cause analysis of performance issues.",
+                    "title": "Research Fellow",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 9332,
+                "name": "University of Bath",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQHQLVwhPQAQ1g/company-logo_400_400/0/1677695706581?e=1703721600&v=beta&t=2U9H-WfJmgBNOM0uCsqjG6qXkJ4rC0BmgjrBCe9Q1cQ",
+                "url": "https://www.linkedin.com/school/university-of-bath/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Bath, Regno Unito",
+                    "date": {
+                        "start": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2014
+                        },
+                        "end": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2017
+                        }
+                    },
+                    "company": "University of Bath",
+                    "description": "Research on techniques for condition monitoring using cyclo-non-stationary signals.\nExpertise in:\n\u2022  Digital signal processing techniques for vibration-based condition monitoring\n\u2022  Gearbox faults detection\n\u2022  Predictive maintenance of rotating machinery",
+                    "title": "Phd Student",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 9277885,
+                "name": "Flanders Make",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQGYu9DvcaTXDQ/company-logo_400_400/0/1606212127729?e=1703721600&v=beta&t=Tbl8tTvxg3cku4NsB8Up-PXf1TuJ8FSrHNrHa2X9GwA",
+                "url": "https://www.linkedin.com/company/flanders-make/",
+                "employees": {
+                    "start": 501,
+                    "end": 1000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Leuven, Belgio",
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2016
+                        }
+                    },
+                    "company": "Flanders Make",
+                    "description": "\u2022  Experimental campaign on gearbox setup\n\u2022  Data collection with different transducers: accelerometer, ultrasounds sensor, acoustic emissions \n    sensor\n\u2022  Data analysis using novel signal processing algorithms",
+                    "title": "Intern",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 2026891,
+                "name": "Osservatorio Astronomico di Roma-INAF",
+                "logo": null,
+                "url": "https://www.linkedin.com/company/osservatorio-astronomico-di-roma-inaf/",
+                "employees": {
+                    "start": 501,
+                    "end": 1000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Roma, Italia",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2011
+                        },
+                        "end": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2012
+                        }
+                    },
+                    "company": "Osservatorio Astronomico di Roma-INAF",
+                    "description": "IAPS-INAF ( institute for space astrophysics and planetology- national institute for astrophysics).\n\n\u2022 test of a Pyrolytic Graphite Sheet from Panasonic, by X-ray fluorescence\n\u2022 realization of the experimental setup and data collection and analysis.\n\u2022 investigation on the use of the Pyrolytic Graphite Sheet as a low-cost low-weight detector for X-ray from High energy astrophysics sources.",
+                    "title": "Laboratory Technologist",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Signal Processing",
+        "vibration analysis",
+        "Research",
+        "Data modeling",
+        "Matlab",
+        "Windows",
+        "Microsoft Office",
+        "C++"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

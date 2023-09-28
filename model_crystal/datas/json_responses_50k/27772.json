@@ -1,0 +1,507 @@
+{
+    "profile_id": "mpricope",
+    "first_name": "Mihai",
+    "last_name": "Pricope",
+    "sub_title": "Building Software",
+    "profile_picture": "https://media.licdn.com/dms/image/C5603AQGANHze7DFCDQ/profile-displayphoto-shrink_800_800/0/1516275392585?e=1701302400&v=beta&t=kWXu5V6iENWDHtieb96HoywkIcHJTMfxE_28MTG0Hfw",
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAAAByhTQBIxtIf5uSkXcyOSWq2CKR7_-bVso",
+    "object_urn": 7505204,
+    "birth_date": null,
+    "summary": "Seasoned professional (20+ years industry experience) with solid track record of delivering successful product in small and large companies. Dual nature, with both deep technical skills and business acumen. Extensive software start-up experience, with one successful exit. \n\nTECHNICAL SPECIALTIES\n\n\n* Multi-product integrations (OAuth, JWT, EIP, Apache Camel)\n* Distributed Message Based Systems (RabbitMQ, Hazelcast, Ceph, Spring, Spring Cloud and Spring Boot microservices)\n* Very Large Stateful Clients (JavaScript, React, Angular, Java -  Eclipse Platform, Flex/Flash) (Check: https://www.youtube.com/watch?v=7he0ppguUbU )\n* ServiceNow Platform\n* Good at evaluating technologies/technical partnerships and implementing/stirring POCs\n* Strong algorithmic and optimization skills \n* Very practical, down to earth approach on development (distaste for both over-architecture and crappy/spaghetti code) \n\n\nPRODUCT SPECIALTIES\n* Product and Business strategy with a focus on start-ups (Business Strategy Validation, Customer Onboarding, Early Product Life Cycle, Technical Risk Management)\n* B2B Partnerships, good at driving multiple integration projects simultaneously (financial/payments, marketing platforms, complex e-commerce catalogues, building automation)\n* UI, especially for very complex products (e.g. Visual Languages, Complex Configurators)\n* Strong execution (turning ideas and PowerPoints into workable products)\n* Very strong technical background with a decent math support",
+    "location": {
+        "country": "Netherlands",
+        "short": "The Hague, South Holland",
+        "city": "The Hague",
+        "state": "South Holland",
+        "default": "The Hague, South Holland, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "English",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "French",
+                "proficiency": "PROFESSIONAL_WORKING"
+            }
+        ]
+    },
+    "industry": "Computer Software",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 1999
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2004
+                }
+            },
+            "school": {
+                "name": "University POLITEHNICA of Bucharest",
+                "logo": "https://media.licdn.com/dms/image/C560BAQFElE8n_Ld3IQ/company-logo_400_400/0/1643875885275?e=1703721600&v=beta&t=aE-c9HNHpXtn3PNl7Aw0UZtxYkpkMYuN0rG82Iqv13E",
+                "url": "https://www.linkedin.com/school/upb1818/"
+            },
+            "degree_name": "BS",
+            "field_of_study": "Computer Science and Telecom",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "school": {
+                "name": "Mihai Eminescu College",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": null,
+            "field_of_study": null,
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [],
+    "organizations": [],
+    "projects": [],
+    "publications": [],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": null,
+                "name": null,
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": null,
+                    "description": "Working with various very early stage start-ups,  mostly FinTech & RegTech related. \n* Developed a KYC and AML workflow for a fintech startup.\n* Moved AWS infrastructure from manual configuration to IaC using Terraform.\n* Research on how to integrate third-party accounting software\n* Import InteractiveBrokers historical data and develop enhanced reporting\n\nTech-stack: Typescript, NodeJS, Python, Kotlin, Apache Spark, AWS, Terraform",
+                    "title": "Software Engineer",
+                    "employment_type": "Freelance"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 29352,
+                "name": "ServiceNow",
+                "logo": "https://media.licdn.com/dms/image/C560BAQEuzVBzTq8wqA/company-logo_400_400/0/1642492123759?e=1703721600&v=beta&t=Mln2X0knO85gVvdlGnMem1YQgP4uoSV6eQl5vHujjf8",
+                "url": "https://www.linkedin.com/company/servicenow/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amsterdam Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2021
+                        }
+                    },
+                    "company": "ServiceNow",
+                    "description": "ServiceNow is one of the fastest growing enterprise cloud software company in the world above $1 billion. \n\nServiceNow\u00ae Performance Analytics puts the power of data in the hands of the stakeholders and subject matter experts\u2014workers, owners, and executives\u2014who are responsible for successful service delivery.\n\nResponsibilities and Accomplishments\n* Lead the R&D effort for the new ServiceNow Analytical Engine, a flexible Data Warehousing solution for Workflow Historical Data\n* Lead performance improvement efforts on large legacy code bases and complex business domains\n* Contribute to PAR Roadmap execution (Fullstack Development - React, AngularJS, Seismic + Java).",
+                    "title": "Senior Software Engineer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 95438,
+                "name": "Textkernel - Semantic Recruitment Technology",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQHWg8Dy96m8ow/company-logo_400_400/0/1655308541534?e=1703721600&v=beta&t=58JZ3qIzZMdgKRYwRnIQyK1teA4rvdxgOKcH71pmOp4",
+                "url": "https://www.linkedin.com/company/textkernel/",
+                "employees": {
+                    "start": 201,
+                    "end": 500
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amsterdam Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2018
+                        }
+                    },
+                    "company": "Textkernel",
+                    "description": "Textkernel offers high quality multilingual CV parsing and semantic search, sourcing, lead generation, matching tools and labour market statistics to accelerate and improve the process of matching demand and supply in the job market.\n\nResponsibilities and Accomplishments\n* Unified OAuth/JWT for Textkernel product suite\n* Distributed message based architecture for document processing",
+                    "title": "Senior Software Engineer (Integrations)",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 431282,
+                "name": "Acrolinx",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQEkOAU7VsQlVQ/company-logo_400_400/0/1688986332231?e=1703721600&v=beta&t=TPn4XlGdiFIXbYfij52L3STm2aZW6j1ueiQxqee_-qw",
+                "url": "https://www.linkedin.com/company/acrolinx/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Berlin Area, Germany",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2016
+                        }
+                    },
+                    "company": "Acrolinx",
+                    "description": "Acrolinx software helps the world's best companies speak with one voice - with content that's more findable, readable, and engaging. Our content optimization capabilities help companies like Adobe, Dell, Cisco, IBM, Philips, and Siemens align, enhance, and enrich their marketing and technical information. Built on a powerful linguistic analytics engine, our technology helps our customers stand apart from their competitors by delivering content with greater warmth, readability, and conciseness.",
+                    "title": "Senior Product Manager",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 2844782,
+                "name": "Tirendo Holding GmbH",
+                "logo": "https://media.licdn.com/dms/image/C560BAQHJWcGiIXDbdg/company-logo_400_400/0/1519882213435?e=1703721600&v=beta&t=9xZxweVGRzApfRpRCI302GbpSqXLZ-0UhDbpot-Bcmg",
+                "url": "https://www.linkedin.com/company/tirendo-holding-gmbh/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Berlin Area, Germany",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2014
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2014
+                        }
+                    },
+                    "company": "Tirendo Holding GmbH",
+                    "description": "Tirendo is an e-commerce company focused on automotive (Tires, Wheels, Parts and Car Accessories) \n\n\u2022\tDesigned and conducted quantitative and qualitative researches in order to better understand user flows, SEO and SEM impact,  product availability for market sub-segments and pricing elasticity\n\u2022\tDesigned innovative tools , algorithms and processes for improving SEO and SEM performance\n\u2022\tWorked closely with Business Owners, DWH, CRM and external data providers to optimize the Wheels Buying Workflow (a workflow that matches 50k vehicle variants with 10M+  rim + tire combinations)",
+                    "title": "Senior Product Manager",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "J2 Innovations",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2010
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2010
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2013
+                        }
+                    },
+                    "company": "J2 Innovations",
+                    "description": "J2 Innovations is a start-up innovating in the field of data visualization for building automation systems (BAS).\n\n\u2022\tSet-up an office in Romania and grow a team of engineers, help organize companywide product lifecycle and quality processes, and took our main product from a little more than an idea up to a few successful release versions.\n\u2022\tContributed to overall company business strategy including product roadmap, customer onboarding,  OEM and licensing model\n\u2022\tLed a team of engineers into building the best solution for BAS visualization and UI \n\u2022\tTons of coding on top of Flex and Niagara Framework",
+                    "title": "Engineering Manager / Product Manager",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1480,
+                "name": "Adobe Systems",
+                "logo": "https://media.licdn.com/dms/image/C560BAQFrtK-ioO1rsQ/company-logo_400_400/0/1590681827578?e=1703721600&v=beta&t=IzEocQMyUaXRVIWjtIXmoFT6IYtYn2sZHorW-NhzWOo",
+                "url": "https://www.linkedin.com/company/adobe/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2006
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2010
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2008
+                        },
+                        "end": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2010
+                        }
+                    },
+                    "company": "Adobe",
+                    "description": "As Platform Evangelist in EMEA, my role was to help customers, partners and developers across the region understand and adopt the benefits and characteristics of some of the Adobe core platform technologies, such as Adobe\u00ae Flash, Adobe Air, Adobe Flex and BlazeDS.\n\n\u2022\tResponsible for evangelism go to market activities in the region, working closely with Sales, Field Marketing, Product Management and Product Marketing.\n\u2022\tFrequent speaker at conferences, events, and executive briefings around the region.",
+                    "title": "Platform Evangelist EMEA (Technical Marketing)",
+                    "employment_type": null
+                },
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2006
+                        },
+                        "end": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2010
+                        }
+                    },
+                    "company": "Adobe",
+                    "description": "Once InterAKT got acquired I took a geeky turn on my career and enjoyed again coding. \n\n\u2022\tworked on Flex Builder 3 in  UI and code intelligence \n\u2022\tworked on Flash - JavaScript integration and IIS, Apache integration with the Flex compiler",
+                    "title": "Software Engineer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "InterAKT Online",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2001
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2006
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2001
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2006
+                        }
+                    },
+                    "company": "InterAKT Online",
+                    "description": "Together with some fellow students we started the company and made the first ever PHP Server Model for Dreamweaver.\n\nWe eventually extended into the development of the some of most complex extensions for Dreamweaver MX, became Macromedia Alliance Partner and a preferred supplier for Dreamweaver Team. \n\nThese tools were built by observing the most common patterns in web application development and encapsulating reusable design and code into components that could be manipulated visually.\n\nFrom the dorm room to Adobe Acquisition I wore all too many hats doing software engineering, management, marketing or business development and very often all in the same time.",
+                    "title": "Entrepreneur/Software Engineer",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Flex",
+        "PHP",
+        "Software Engineering",
+        "JavaScript",
+        "Web Applications",
+        "Java Enterprise Edition",
+        "Agile Methodologies",
+        "Software Development",
+        "Hibernate",
+        "OOP",
+        "Java",
+        "Web Development",
+        "MySQL",
+        "Eclipse",
+        "Scrum",
+        "Integration",
+        "Apache",
+        "Linux",
+        "SQL",
+        "Spring"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

@@ -1,0 +1,492 @@
+{
+    "profile_id": "adam-szpakowski",
+    "first_name": "Adam",
+    "last_name": "Szpakowski",
+    "sub_title": "Ph.D. physicist turned software engineer and rocking it.",
+    "profile_picture": null,
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAAA3pJ2YBjyzpKs6ZSL6R-bokdXTAkliKX28",
+    "object_urn": 233383782,
+    "birth_date": null,
+    "summary": "I\u2019m a software engineer, programmer and system architect with 8 years' experience in IT, 17 years of overall engineering experience and 11 years' research and teaching experience on academic level. I earned Ph.D. in technical physics.\n\nFor the next few years I'm planning to follow the engineering path with secondary focus on product ownership, architecture and team building.\n\nMy current interests lie in cloud computing, micro services, IoT, system architecture and high throughput environments. My recent professional revelation are Kubernetes and ISTIO and how they simplify and transform cloud operations.\n\nFavourite technology stack nowadays is comprised of Go app running on Kubernetes cooperating with Redis/MongoDB using NATS or SQS. I'm fascinated by internal Kubernetes design and I love working on extending this platform.\n\nBesides engineering work I organise, cultivate and lead software development teams. In the past I worked with product, business and sales people and took part in both customer and partner meetings as a technical liaison and solution analyst/architect.\n\nI often act as a mentor for less experienced colleagues as I love participating in knowledge sharing and working with people. It results in me being part of tech meetups and giving technical lectures.\n\nI used to act as a technical lead in an international project in mobile marketing area, for the enterprise customers. My team created system handling 50 Mio events and analysing 100GB of data on daily basis, which is capable of rapidly dispatching 5 Mio messages without prior notice. Considerable percentage of mobile devices in Germany were somehow communicating with our system.\n\nCompetencies: programming, architecture, micro-services, scalability, Golang (GO), Python, PHP, TDD, functional testing, Redis, MongoDB, AWS, DevOps, Linux, Ansible, Kubernetes (k8s), Cloud Foundry, Docker, REST, Jenkins, Scrum",
+    "location": {
+        "country": "Netherlands",
+        "short": "Amsterdam, North Holland",
+        "city": "Amsterdam",
+        "state": "North Holland",
+        "default": "Amsterdam, North Holland, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "PL",
+            "language": "pl"
+        },
+        "supported_locales": [
+            {
+                "country": "PL",
+                "language": "pl"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "English",
+                "proficiency": "PROFESSIONAL_WORKING"
+            },
+            {
+                "name": "Polish",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ]
+    },
+    "industry": "Computer Software",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2000
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2005
+                }
+            },
+            "school": {
+                "name": "The Silesian University of Technology",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQHmxlmdyraecA/company-logo_400_400/0/1648792680587?e=1703721600&v=beta&t=tp8l4g_aEytx5j_BPXTRNJj5WB573sNPXi8Pbp8pr4U",
+                "url": "https://www.linkedin.com/school/polsl/"
+            },
+            "degree_name": "Doctor of Philosophy (Ph.D.)",
+            "field_of_study": "Technical and computional Physics",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 1995
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2000
+                }
+            },
+            "school": {
+                "name": "The Silesian University of Technology",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQHmxlmdyraecA/company-logo_400_400/0/1648792680587?e=1703721600&v=beta&t=tp8l4g_aEytx5j_BPXTRNJj5WB573sNPXi8Pbp8pr4U",
+                "url": "https://www.linkedin.com/school/polsl/"
+            },
+            "degree_name": "Master\u2019s Degree",
+            "field_of_study": "Technical Physics, speciality in Optoelectronics",
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [],
+    "organizations": [],
+    "projects": [],
+    "publications": [],
+    "courses": [
+        {
+            "name": "Architecting on AWS",
+            "number": null
+        }
+    ],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 1481,
+                "name": "eBay",
+                "logo": "https://media.licdn.com/dms/image/C560BAQFfGj-Xuawo6A/company-logo_400_400/0/1634568184091?e=1703721600&v=beta&t=cADQ5F_dK2BXnVYo6jprzcEXxCJWJ3ydZQdlIfgq1u8",
+                "url": "https://www.linkedin.com/company/ebay/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amsterdam, North Holland, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2020
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "eBay",
+                    "description": "Software engineer working on iCAS platform, part of eBay Classifieds Group.",
+                    "title": "Lead Software Engineer",
+                    "employment_type": "Full-time"
+                },
+                {
+                    "location": "Rejon Amsterdam, Holandia",
+                    "date": {
+                        "start": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "eBay",
+                    "description": "Software engineer working on iCAS platform, part of eBay Classifieds Group.",
+                    "title": "Senior Software Engineer",
+                    "employment_type": "Contract"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 97435,
+                "name": "SAP Hybris",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQEfui-gb6j9XA/company-logo_400_400/0/1528181285533?e=1703721600&v=beta&t=Ke0xD7i-u1TmYsAt-o1kru2t1BA-dm9ulDsG7nsbNNE",
+                "url": "https://www.linkedin.com/company/sap-hybris/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Gliwice, woj. \u015bl\u0105skie, Polska",
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2018
+                        }
+                    },
+                    "company": "SAP Hybris",
+                    "description": "Senior software engineer working on core of the YaaS platform.\n\nWorking on a number of platform related projects, including GDPR implementation, SAP product integration and kubernetes platform.\n\nUsed technologies (personally): Kubernets (k8s), Cloud Foundry, AWS, Docker, GO (Golang), Redis, MongoDB, Ansible, REST, Lua, Jenkins, cryptography",
+                    "title": "Senior Developer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 2705257,
+                "name": "360dialog",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQHE3z_KO0H5kQ/company-logo_400_400/0/1659947829796?e=1703721600&v=beta&t=nf6zyW43t1gMBoqXUZ3mD8xDd6EnXgpfIpEBuTu4Xqc",
+                "url": "https://www.linkedin.com/company/360dialog/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Berlin Area, Germany",
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2013
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2016
+                        }
+                    },
+                    "company": "360dialog: WhatsApp Performance Marketing & WhatsApp Newsletter Software (official Meta BSP)",
+                    "description": "Mobile CRM project:\n- designed 2nd iteration of the platform,\n- led development team responsible for creating and maintaining the system,\n- acted as technical product owner and analyst,\n- led Mobile SDK development and then acted as tech consultant in this area,\n- involved in a number of customer and partner integrations,\n- programmed large parts of the system's backend,\n- created early system and networking solution on AWS.\n\nSmartLink and SmartBanner project:\n- designed system architecture,\n- coded most of the backend services,\n- created data warehouse and early versions of analytics solutions.\n\nSelected customers using our systems: Deutsche Telekom/T-Mobile, Rossman, Lovoo, AutoScout24, Eventim, GelbeSeiten and Westwing.\n\nSelected partners: DyMatrix, Adjust, Adobe (Catalyst team), Tealium.\n\nUsed technologies (personally): Golang (GO), PHP, Python, Redis, MongoDB, Silex, AWS (EC2/S3/SQS), Ansible, Docker, REST, NginX, Lua, OpenResty, ZeroMQ, Push providers (APNS/GCM), HTTP/2.",
+                    "title": "Software Team Lead",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 10065705,
+                "name": "Blue Focus Software House",
+                "logo": "https://media.licdn.com/dms/image/C560BAQHS5mXtpbIx2w/company-logo_400_400/0/1519893538308?e=1703721600&v=beta&t=u2lkUhclxoIZ2vRmJYRs3gUIKbZ_4rGzPgss2G1U58A",
+                "url": "https://www.linkedin.com/company/blue-focus-software-house-sp--z-o-o--sp--k-/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Katowice, woj. \u015bl\u0105skie, Polska",
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2013
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2016
+                        }
+                    },
+                    "company": "Blue Focus ",
+                    "description": "Created and led team for the 360Dialog project. Involved in management, recruitment and day-to-day operations.",
+                    "title": "Technical Team Lead",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "3a.pl sp. z o.o.",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2010
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Gliwice, woj. \u015bl\u0105skie, Polska",
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2010
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2012
+                        }
+                    },
+                    "company": "3a.pl sp. z o.o.",
+                    "description": "CTO in small software house. Tasks ranged from IT analysis, product ownership, tech leadership to  building and managing of the programming team. Also part time SysOps and programmer for R&D.\n\nSelected projects:\n- Intranet system for supermarket chain, analytics system, floor plan and products visualisation, 3rd party integrations / project and product owner, analyst\n- Off-site backup system for mass audience / analyst, product owner, programmer\n- Mail system for mid sized companies (300+) / architect and programmer\n- In-house mid size mail system (300+ domains) / designer, creator and support over 2+ years\n- Touroperator portal / analyst, project owner, programmer\n- Hosting platform for resellers (SaaS/PaaS) / analyst, project owner, sysop, 3rd line of support\n- Internet Photo-Lab - vertis.pl / product owner, team lead, programmer, sysop\n\nTechnologies used: PHP, Symfony/Doctrine, ExtJS, Linux, Postfix, OpenVZ, KVM, Python",
+                    "title": "CTO",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1568864,
+                "name": "Silesian University of Technology",
+                "logo": null,
+                "url": "https://www.linkedin.com/company/institute-of-electronics-silesian-university-of-technology/",
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2000
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2011
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Gliwice, woj. \u015bl\u0105skie, Polska",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2000
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2011
+                        }
+                    },
+                    "company": "Silesian University of Technology",
+                    "description": "Research, engineering and teaching post grad path at the Technical University.\n\nWorked 10 years as technical physicist in the field of computational physics, machine learning and gas metrology including designing and analysing gas sensor systems and electronics control and acquisition systems.\n\nPublished 15 science papers, gave 10 speeches at the science conferences, took part in 10 research grants, won young scientist competition and two Provost of the Silesian University of Technology awards, 9 post graduate students with bachelor or M.Sc. degree.\n\nAuthored 4 university courses on basics of physics, computational physics, telecommunication (network and services management, optical fibre systems) and computer science (operating systems, introduction to computer programming).\n\nfaculties:\n- Faculty of Mathematics and Physics, Institute of Physics\n- Faculty of Electrical Engineering, Department of Optoelectronics,\n\npositions:\n- assistant professor (2006-2011)\n- assistant (2005-2006)\n- Ph.D. student, teaching and research responsibilities (2000-2005)\n\ndegree: \ndoctor of sciences in physics, speciality in physical acoustics,\ndoctoral dissertation on: \u201eAnalysis of the multi-element acoustic transducers using spatial impulse response method \u2013 theoretical model and experimental studies\u201d (honours degree granted by Faculty Board)\n\nTechnologies used: Python, C/C++, machine learning, microcontrollers, measurement equipment, communication protocols, HPC computer clusters (Beowulf/OpenMosix).",
+                    "title": "assistant professor, assistant, Ph.D. student",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "role": "board member",
+            "company": {
+                "id": null,
+                "name": "Silesian Linux User Group",
+                "logo": null,
+                "url": null
+            },
+            "cause": "SCIENCE_AND_TECHNOLOGY",
+            "description": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "role": "co-founder, board member",
+            "company": {
+                "id": null,
+                "name": "ASK Nexus/Net Surfer Association in Gliwice",
+                "logo": null,
+                "url": null
+            },
+            "cause": "SCIENCE_AND_TECHNOLOGY",
+            "description": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "role": "board and audit  commission member",
+            "company": {
+                "id": null,
+                "name": "Upper Silesian Division of the Polish Acoustics Society",
+                "logo": null,
+                "url": null
+            },
+            "cause": "SCIENCE_AND_TECHNOLOGY",
+            "description": null
+        }
+    ],
+    "skills": [
+        "Software Engineering",
+        "System Architecture",
+        "Programming",
+        "Cloud Computing",
+        "Network Engineering",
+        "Engineering",
+        "Data Analysis",
+        "Requirements Analysis",
+        "Software Project Management",
+        "System Administration",
+        "Test Driven Development",
+        "Big Data",
+        "Agile Methodologies",
+        "Scrum",
+        "Integration",
+        "Python",
+        "PHP",
+        "Amazon Web Services (AWS)",
+        "Team Building",
+        "Go"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

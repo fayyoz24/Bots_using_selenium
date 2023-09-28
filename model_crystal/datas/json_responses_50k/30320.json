@@ -1,0 +1,894 @@
+{
+    "profile_id": "vparashchanka",
+    "first_name": "Viktar",
+    "last_name": "Parashchanka",
+    "sub_title": "Lead Software Engineer at EPAM Systems",
+    "profile_picture": "https://media.licdn.com/dms/image/C4D03AQHpaTg6gxONXA/profile-displayphoto-shrink_800_800/0/1599050996166?e=1701302400&v=beta&t=Ch6V1hlukZmmL5jOoQeJs2ZqGdKwUKumDsSFdItLZ20",
+    "background_image": "https://media.licdn.com/dms/image/C5616AQGn2DMFYvdM5A/profile-displaybackgroundimage-shrink_350_1400/0/1567600353056?e=1701302400&v=beta&t=5lZ6pb8MJZYNVRMBtrKtIB-Ag_FHCdsNdR-k457SYvY",
+    "profile_type": "personal",
+    "entity_urn": "ACoAABXOb9sBbWTplyhx1iODDmgbfD8M0-if1aE",
+    "object_urn": 365850587,
+    "birth_date": null,
+    "summary": "Lead Software Engineer with 10-years of experience in front-end development. \nThe primary skill is Javascript. I have had experience with AngularJS and Angular, the last experience is React + Redux stack, Experienced with NodeJS through Express, knows principles of Auth and Security. \nHas been involved in projects in different phases: from scratch, support, proof of concepts, architectural designs, and projects in the active development phase. \nHas worked within different SDLCs:  Scrum, Kanban, a little bit of lean.\nTroubleshooting and analysis skills, working successfully in a multicultural environment, and having experience in defect analysis.\nTaking part in interview processes in the company: as an expert and as a head of the committee.\nInvolved in people development and mentoring as an expert and contact person for newcomers.",
+    "location": {
+        "country": "Netherlands",
+        "short": "Amstelveen, North Holland",
+        "city": "Amstelveen",
+        "state": "North Holland",
+        "default": "Amstelveen, North Holland, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "RU",
+            "language": "ru"
+        },
+        "supported_locales": [
+            {
+                "country": "RU",
+                "language": "ru"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "English",
+                "proficiency": "PROFESSIONAL_WORKING"
+            },
+            {
+                "name": "Russian",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ]
+    },
+    "industry": "Computer Software",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "school": {
+                "name": "Belarusian State University of Informatics and Radioelectronics",
+                "logo": "https://media.licdn.com/dms/image/D4D0BAQHQfjg-MbfPzQ/company-logo_400_400/0/1680248992562?e=1703721600&v=beta&t=4sjvqRgel9ldgijNGS3f2-pkmJT7SEprRRlXidDFj0o",
+                "url": "https://www.linkedin.com/school/belarusian-state-university-of-informatics-and-rad/"
+            },
+            "degree_name": "Master's degree",
+            "field_of_study": "Human Engineering and Ergonomics",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2010
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "school": {
+                "name": "Belarusian State University of Informatics and Radioelectronics",
+                "logo": "https://media.licdn.com/dms/image/D4D0BAQHQfjg-MbfPzQ/company-logo_400_400/0/1680248992562?e=1703721600&v=beta&t=4sjvqRgel9ldgijNGS3f2-pkmJT7SEprRRlXidDFj0o",
+                "url": "https://www.linkedin.com/school/belarusian-state-university-of-informatics-and-rad/"
+            },
+            "degree_name": "Bachelor's degree",
+            "field_of_study": "Programmatic Software Of Information Technologies",
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [
+        {
+            "name": "Delivery Management School",
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2023
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "EPAM Systems",
+            "url": "https://webtech.by/files/DMS.pdf",
+            "license_number": null,
+            "display_source": "webtech.by",
+            "company": {
+                "id": null,
+                "name": "EPAM Systems",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQEE73wQBVodMQ/company-logo_400_400/0/1677598469595?e=1703721600&v=beta&t=jX68InqMmK5dcUHawDZIuVYLwz66oBa5BWQKeHGcMaY",
+                "url": null
+            }
+        },
+        {
+            "name": "DevOps Foundations: Continuous Delivery/Continuous Integration",
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "LinkedIn",
+            "url": "https://www.linkedin.com/learning/certificates/eb26f02f0bdc4fb999a15504202992fff621dc43ebab974373a00964c45792e3?trk=flagship-lil_details_certification",
+            "license_number": null,
+            "display_source": "linkedin.com",
+            "company": {
+                "id": null,
+                "name": "LinkedIn",
+                "logo": "https://media.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_400_400/0/1638831589865?e=1703721600&v=beta&t=KNdxtUphPuS9FSsMLufiLiJkk8rvPVMnZH848WjKHl0",
+                "url": null
+            }
+        },
+        {
+            "name": "Leadership: Practical Skills",
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "LinkedIn",
+            "url": "https://www.linkedin.com/learning/certificates/7968a9b3d16535ef717e13c1a6b8a0d5dcb7470e21bf28e7ee21e562ce7f66c5?trk=backfilled_certificate",
+            "license_number": null,
+            "display_source": "linkedin.com",
+            "company": {
+                "id": null,
+                "name": "LinkedIn",
+                "logo": "https://media.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_400_400/0/1638831589865?e=1703721600&v=beta&t=KNdxtUphPuS9FSsMLufiLiJkk8rvPVMnZH848WjKHl0",
+                "url": null
+            }
+        },
+        {
+            "name": "Transitioning from Technical Professional to Manager",
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "LinkedIn",
+            "url": "https://www.linkedin.com/learning/certificates/ee45f906b932eb0603edc0b7bd11af3310ae17a79e01aad8587c3a63dd472950?trk=flagship-lil_details_certification",
+            "license_number": null,
+            "display_source": "linkedin.com",
+            "company": {
+                "id": null,
+                "name": "LinkedIn",
+                "logo": "https://media.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_400_400/0/1638831589865?e=1703721600&v=beta&t=KNdxtUphPuS9FSsMLufiLiJkk8rvPVMnZH848WjKHl0",
+                "url": null
+            }
+        },
+        {
+            "name": "JAVASCRIPT (HARD)",
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "TestDome",
+            "url": "https://www.testdome.com/cert/uvssacbigg",
+            "license_number": null,
+            "display_source": "testdome.com",
+            "company": {
+                "id": null,
+                "name": "TestDome",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQGybnEADjiqUg/company-logo_400_400/0/1546945897308?e=1703721600&v=beta&t=lMc4sunsKyKAcRFl7UxyZqDVPlGV5RmYhHlcFse9k7w",
+                "url": null
+            }
+        }
+    ],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "Mortgage platform for customer from USA",
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "description": "Creating the application from scratch. Integration with different third-party services.\n\nAs a Development Frontend Team Lead, I am responsible for:\n* Preparing project front-end architecture, and getting an agreement with the client about the approach (establishing base micro-frontend application structure).\n* Creating complex logic for rendering forms configured in Excel (including validation rules, dependent fields, and dynamic items).\n* Providing UX design recommendations for edge cases.\n* Creating project documentation including code standards, and guidelines pages, documentation for another vendor onboarding.\n* Taking part in investigation and clarification requirements with BA, preparing a mechanism for assistance with the generation of new tickets.\n* Preparing tasks for the FE team, explaining ideas and business value to them, and providing draft solutions for complex tasks.\n* Developing global parts of the application, solving complex tasks for unblocking other teammates in a short-term manner.\n* Interviewing new teammates from the market and from the company, preparing a personal onboarding plan.\n\n2 scrum teams:\nInternational team.\n\nTechnologies: React, Typescript, Redux, Jest, RTK, NodeJS, react-hook-form, styled-components",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Viktar",
+                    "last_name": "Parashchanka",
+                    "name": null,
+                    "headline": "Lead Software Engineer at EPAM Systems"
+                }
+            ]
+        },
+        {
+            "title": "Project for Germany  software company related to form module for AEM",
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "description": "Working in a secure environment (VDI).\nCommunication with different vendors to identify problems.\nIntegrations with AEM.\n\nTechnologies: React, Scss, plain JS, plain CSS, form.io",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Viktar",
+                    "last_name": "Parashchanka",
+                    "name": null,
+                    "headline": "Lead Software Engineer at EPAM Systems"
+                }
+            ]
+        },
+        {
+            "title": "Application for Loan Company (USA)",
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "description": "Creating the application from scratch. Integration with different third-party services.\n\nAs a Development Team Lead I am responsible for:\n* Preparing project front-end architecture, getting an agreement with the client about approach (establish base micro-frontend application structure).\n* Creating project documentation including code standards, guidelines pages.\n* Participating in global SA meetings and making agreements with BE team about integrations.\n* Taking part in investigation and clarification requirements with BA, preparing a mechanism for assistance with the generation of new tickets.\n* Leading 4 development teams: preparing tasks for them, explaining ideas and business value for them, providing draft solutions for complex tasks.\n* Developing global parts of the application, solving complex tasks for unblocking other teammates in a short-term manner.\n* Interviewing new teammates from the market and from the company, preparing a personal onboarding plan, preparing pages with frequently asked questions.\n* Participation in the leadership decision about processes and workflows.\n\n4 scrum teams:\nMore than 8 front-end engineers.\nThe total team size is about 30 persons. (BA, QA, BE, DM, SA)\nInternational team.\n\nTechnologies: React, Typescript, Redux, RTK, Microfrontends, NodeJS, AWS, Formik",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Viktar",
+                    "last_name": "Parashchanka",
+                    "name": null,
+                    "headline": "Lead Software Engineer at EPAM Systems"
+                }
+            ]
+        },
+        {
+            "title": "Set of applications for financial, software and data company",
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "description": "The set of applications for control, analyzing, and reviewing financial data flow (latency, visualization of customer network, logs).\n\nAs a Development Team Lead I am responsible for:\n* Developing new features/performance optimizations/bug fixing as a regular developer\n* Solving conflict situation in the team: lost motivation, low performance, estimations issues, conflicts between functional teams\n* Investigating customer technical ideas, providing different options, getting agreements with BA and customer about priorities\n* Taking part in the estimation process, provide extended argumentation about the mark, highlight the risks\n* Creation POC and optimize the development process (creating test data generator for different options)\n* Tightly work with BA and QA team for increasing the development speed (ticket separation, simplifying the requirements, decrease priority, setting up dependencies, fixes on the fly)\n\nTeam\n6 front-end developers\nThe total team size is 11 persons (UX, BA, QA, PM)\n\nTechnologies\tReact, Redux, RxJS, Typescript",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Viktar",
+                    "last_name": "Parashchanka",
+                    "name": null,
+                    "headline": "Lead Software Engineer at EPAM Systems"
+                }
+            ]
+        },
+        {
+            "title": "Conference Web Application for Software Company",
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "description": "The application for handling global online events (conferences).\nThe main goal was integration with third-party services and creating custom reusable components for the customer platform. The application consists of different blocks, which are using different technologies, some of the components were created in Native Javascript, the other part in ReactJS.\n\nAs a Technician Team Lead I was responsible:\n- investigation and POC creation\n- estimations\n- for solution/architectural decisions\n- team management and consulting\n- communication with customer's development team\n- helping customer's development team with their part of development\n\nTechnologies: Javascript, React, AEM, CSS",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Viktar",
+                    "last_name": "Parashchanka",
+                    "name": null,
+                    "headline": "Lead Software Engineer at EPAM Systems"
+                }
+            ]
+        },
+        {
+            "title": "Project for financial domain (trades, dealings) - Customer from USA",
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "description": "This was an urgent project, our team was called to solve the problem and run the project in time.\nI was involved as a team lead for the front-end team.\nThe project had issues with SDMM, but we do as much as we can for fixing this. \nAs a result, my team has done all the necessary tasks on time and we got positive feedback.\nTechnically it was difficult projects (I cannot share the whole details there), but it was angular application with a lot of legacy jquery components from the old app and it was the main challenge to composite these two part into one working application.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Viktar",
+                    "last_name": "Parashchanka",
+                    "name": null,
+                    "headline": "Lead Software Engineer at EPAM Systems"
+                }
+            ]
+        },
+        {
+            "title": "Project for global information services and publishing company - Customer from USA",
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "description": "High level:\n- managing decision register: investigation possible ways, find a more proper solution for specific tasks\n- managing the dependency matrix for huge tickets\n- creating solution designs: create solutions page with architectural artifacts (diagrams, POC, observations)\n- communication between different teams\n- taking part in PO planning and story sizing",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Viktar",
+                    "last_name": "Parashchanka",
+                    "name": null,
+                    "headline": "Lead Software Engineer at EPAM Systems"
+                }
+            ]
+        },
+        {
+            "title": "Honorariums and publications management system",
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "description": "As a key developer, I was a person responsible for starting the project from scratch, understanding new principles of customer framework, planning front-end work, planning API team priorities. I had communication with customer and designers for clarification requirements, planning, and estimations. Proposing and document architectural solutions, helping the back-end team.\n\nTechnology stack: Angular, WebComponents. JSX, EdgeService, CI, SaSS, NodeJS, Express",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Viktar",
+                    "last_name": "Parashchanka",
+                    "name": null,
+                    "headline": "Lead Software Engineer at EPAM Systems"
+                }
+            ]
+        },
+        {
+            "title": "Pet project: Interview Helper",
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "description": "Project for helping lead interview. It has preset of questions, subscriptions flow, OAuth authorization, CD (without tests), NodeJS. ReactJS + Redux \n\nTechnology stack: ReactJS, Redux. CD, SaSS, NodeJS, Express, oAuth 2.0",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Viktar",
+                    "last_name": "Parashchanka",
+                    "name": null,
+                    "headline": "Lead Software Engineer at EPAM Systems"
+                }
+            ]
+        },
+        {
+            "title": "Software and services that legal professionals use provider - USA",
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "description": "Started a project from scratch. Taking lead responsibilities. I was responsible for workflow process, delegations, code review, introducing a project for new teammates. I was in charge of creating project architecture, choosing technical stack, providing style guides and setup project environment with all necessary things (git, CI, pre-hooks, confluence, Jira). I was involving in meetings during all project stages (planning, demo, standup, scrum of scrum meetings)",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Viktar",
+                    "last_name": "Parashchanka",
+                    "name": null,
+                    "headline": "Lead Software Engineer at EPAM Systems"
+                }
+            ]
+        },
+        {
+            "title": "Project for global information services and publishing company - customer from Belgium and Germany",
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "description": "Taking lead responsibilities. Was involved to status calls, planning, preparing releases and support it on all stages. Taking part in the estimations process, code review, delegation and knowledge transfer. Responsible for preparing POC for new experimental features. ",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Viktar",
+                    "last_name": "Parashchanka",
+                    "name": null,
+                    "headline": "Lead Software Engineer at EPAM Systems"
+                }
+            ]
+        },
+        {
+            "title": "Project for global information services and publishing company - customer from USA",
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "description": "The project was in the support phase. Kanban was used here. Taking lead responsibilities. Was involved to status calls, planning, preparing releases and support it on all stages. Taking part in a lot of interviews for neighboring streams (include face-to-face interviews)",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Viktar",
+                    "last_name": "Parashchanka",
+                    "name": null,
+                    "headline": "Lead Software Engineer at EPAM Systems"
+                }
+            ]
+        },
+        {
+            "title": "Project for global information services and publishing company - customer from Germany and Canada",
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "description": "As a Software Engineer, I was a person responsible for creating new functionality, researching customer's API and communication between the team.\nI was involved in all estimation processes for Canada and Germany (one of them from scratch and another one from seed application).\nPartially take lead responsibilities on some meetings and communications.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Viktar",
+                    "last_name": "Parashchanka",
+                    "name": null,
+                    "headline": "Lead Software Engineer at EPAM Systems"
+                }
+            ]
+        },
+        {
+            "title": "Project for global information services and publishing company - customer from USA",
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "description": "This is project for large american company in publishing sphere. Main task is creating new, modern version, of previous application. \nDevelopment single page application using AngularJS and some customer wrapper for this. Workflow includes creating separate branch for every ticket, creating pull requests and code review. Also NodeJS and MongoDB available on server side for some little middle-ware (like caching, unzipping and admin part).\nTechnologies: AngularJS 1.4, Git, Responsive Web Design, Bootstarap, NodeJs, MongoDB, Sass",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Viktar",
+                    "last_name": "Parashchanka",
+                    "name": null,
+                    "headline": "Lead Software Engineer at EPAM Systems"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Mark",
+                    "last_name": "Varabyou",
+                    "name": null,
+                    "headline": "Senior Software Engineer"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Dzmitry",
+                    "last_name": "Shaplyka",
+                    "name": null,
+                    "headline": "Quality Engineering Manager (Automated testing in JavaScript) / Resource Manager"
+                }
+            ]
+        },
+        {
+            "title": "Sandbox project for learning new technologies",
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "description": "Project about travel notes, like a little blog for travelers.\nInvolved into small sandbox project. Main goal is learn ReactJS + Redux via using real project.\nTechnologies: ReactJS, Redux, NodeJS, ExpressJS, MongoDB, ESLint, stylys and babel for es6 support.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Viktar",
+                    "last_name": "Parashchanka",
+                    "name": null,
+                    "headline": "Lead Software Engineer at EPAM Systems"
+                }
+            ]
+        },
+        {
+            "title": "Project for IT company",
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "description": "This was a project risk analysis for the company based on the activities of its employees in social networks. Services analyzed public posts in social networks. On the basis of reports generate warnings and recommendations for the end user. Our task was creating front-end part of single page application based on angularJS. Technologies: Mercurial, AngularJS, Sass\u200d, JavaScript\u200d.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Viktar",
+                    "last_name": "Parashchanka",
+                    "name": null,
+                    "headline": "Lead Software Engineer at EPAM Systems"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Mikhail",
+                    "last_name": "L.",
+                    "name": null,
+                    "headline": "Supreme Developer"
+                }
+            ]
+        },
+        {
+            "title": "Project for a British e-gaming operator",
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "description": "Project included two parts (two different websites for tablets and mobile devices). Mobile website uses not very popular technology stack: Mobile Jquery, Jquery, Mustache. Technologies for tablet devices were: Mercurial, AngularJS, Sass. ",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Viktar",
+                    "last_name": "Parashchanka",
+                    "name": null,
+                    "headline": "Lead Software Engineer at EPAM Systems"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Marina",
+                    "last_name": "Shantur",
+                    "name": null,
+                    "headline": "Lead Software Test Engineer (Lead QA)"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Maria",
+                    "last_name": "Finskaya",
+                    "name": null,
+                    "headline": "Front-End Web Developer"
+                }
+            ]
+        },
+        {
+            "title": "Project for global information services and publishing company.",
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "description": "This project consists of two independent websites. The main task was to create an adaptive layout websites. Technologies: Bootstrap, Responsive Web Design, a little bit jquery.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Viktar",
+                    "last_name": "Parashchanka",
+                    "name": null,
+                    "headline": "Lead Software Engineer at EPAM Systems"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Andrei",
+                    "last_name": "M.",
+                    "name": null,
+                    "headline": "Front-end developer"
+                }
+            ]
+        }
+    ],
+    "publications": [],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 4972,
+                "name": "EPAM Systems",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQEE73wQBVodMQ/company-logo_400_400/0/1677598469595?e=1703721600&v=beta&t=jX68InqMmK5dcUHawDZIuVYLwz66oBa5BWQKeHGcMaY",
+                "url": "https://www.linkedin.com/company/epam-systems/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Minsk, Belarus",
+                    "date": {
+                        "start": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "EPAM Systems",
+                    "description": "Leading the development teams on a few projects.\nTaking part as a technical lead on the project.\nHeading the resource team up to 12 developers (as a resource manager).\nInvolved in international interviews as a technical expert and/or staffing manager.",
+                    "title": "Lead Software Engineer",
+                    "employment_type": "Full-time"
+                },
+                {
+                    "location": "Belarus, Minsk",
+                    "date": {
+                        "start": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "EPAM Systems",
+                    "description": "Developing a complex application.\nMentoring and developing teammates and people from the company.\nTake part in the interview processes.\nLead a team.\nProvide architectural decisions and solutions, work on POC.",
+                    "title": "Senior Software Engineer",
+                    "employment_type": null
+                },
+                {
+                    "location": "Belarus, Misnk",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2016
+                        }
+                    },
+                    "company": "EPAM Systems",
+                    "description": "Development customer project, take part in internal training programs.\nInvolved into internal interview to project and interviews from market as expert.\nResponsible for supervision for less experienced colleagues.",
+                    "title": "Software Engineer",
+                    "employment_type": null
+                },
+                {
+                    "location": "Belarus, Misnk",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2014
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2014
+                        }
+                    },
+                    "company": "EPAM Systems",
+                    "description": "Development customer projects. Involving in the language training, professional skills training (sass, js, templating) and soft skill training (customer interview).",
+                    "title": "Junior Software Engineer (UXD)",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 7043064,
+                "name": "Elab Media",
+                "logo": null,
+                "url": "https://www.linkedin.com/company/elab-media/",
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Belarus, Misnk",
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2013
+                        },
+                        "end": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2014
+                        }
+                    },
+                    "company": "Elab Media",
+                    "description": "Development little sites using. Development includes back-end (PHP, Yii1, MongoDB) and front-end (HTML, CSS3, a little bit JS)",
+                    "title": "PHP Developer",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "JavaScript",
+        "jQuery",
+        "AngularJS",
+        "JIRA",
+        "HTML 5",
+        "CSS3",
+        "Responsive",
+        "Yii",
+        "PHP",
+        "PhpMyAdmin",
+        "MySQL",
+        "Node.js",
+        "MongoDB",
+        "Git",
+        "SASS",
+        "Software Design Patterns",
+        "RESTful WebServices",
+        "Front-end Development",
+        "Github",
+        "HTML"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

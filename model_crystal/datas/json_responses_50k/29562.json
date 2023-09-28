@@ -1,0 +1,527 @@
+{
+    "profile_id": "arvinddesikan",
+    "first_name": "Arvind",
+    "last_name": "Desikan",
+    "sub_title": "PhD student in electromechanics , applied superconductivity",
+    "profile_picture": "https://media.licdn.com/dms/image/C4E03AQHmY0YljMVRBA/profile-displayphoto-shrink_800_800/0/1643668621058?e=1701302400&v=beta&t=9QP7V81bx_oUMGLKDQNw1JjH5HSeIvmOt4AeDMbM2GI",
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAAAvTOtkBsft64axrZrBEfeUVnrczKtgjELc",
+    "object_urn": 198392537,
+    "birth_date": null,
+    "summary": null,
+    "location": {
+        "country": "Netherlands",
+        "short": "Eindhoven, North Brabant",
+        "city": "Eindhoven",
+        "state": "North Brabant",
+        "default": "Eindhoven, North Brabant, Netherlands"
+    },
+    "premium": true,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "English",
+                "proficiency": "FULL_PROFESSIONAL"
+            },
+            {
+                "name": "Hindi",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "Tamil",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ]
+    },
+    "industry": "Electrical & Electronic Manufacturing",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "school": {
+                "name": "Eindhoven University of Technology",
+                "logo": "https://media.licdn.com/dms/image/C560BAQG4PGSYiNG4CA/company-logo_400_400/0/1642150189320?e=1703721600&v=beta&t=omf4Ziy8Suete_GTJ3Qn1mOBS7ZrKSPido6Ld2LseBU",
+                "url": "https://www.linkedin.com/school/eindhoven-university-of-technology/"
+            },
+            "degree_name": "MSc. Electrical Engineering",
+            "field_of_study": "Electromechanics and Power Electronics",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "school": {
+                "name": "Birla Institute Of Technology and Science, Pilani Dubai",
+                "logo": "https://media.licdn.com/dms/image/C510BAQHc3-OR3dAtZQ/company-logo_400_400/0/1519899223210?e=1703721600&v=beta&t=qclmhbcnCn2RPUMQ7rCXsgPoY69fGT6Fzr7tB17a6Qc",
+                "url": "https://www.linkedin.com/school/bitspilanidubai/"
+            },
+            "degree_name": "BE(Hons.) Electrical and Electronics Engineering",
+            "field_of_study": "Electromechanical Technology/Electromechanical Engineering Technology",
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "ROYAL FALCONS",
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "description": "Project ROYAL FALCONS was commenced in November 2011 by Team Gear Shifters under the leadership of Anshul Singhal (Team Captain) and Varun Das(Team Vice-captain). \n\nThe team had purchased a Honda CBR 600f2 carbureted engine (1992 model), with the intention to learn and convert the engine to fuel-injection system successfully.\n\nHaving joined mid-way on 7th September 2013, I was dedicated and quick in learning the necessities of electronics in car and my objective in the project.\n\nBy 1st December 2013, the electronic section had begun converting the engine to fuel-injection system. On receiving MoTec Engine Management kit, we distributed our work into two sections:\n\n1. ECU mounting and wiring setup \n2. Software setup and engine optimization.\n\nI undertook the second task which involved exploring forums, Webinars, understanding the manual and interaction with engine tuning engineers in Dubai.\n\nDuring this process, additional goals were drawn for the electronic section. These involved mainly ergonomic technologies: paddle-shifting and dashboard display.\n\nPaddle-shifting assembly was purchased from Proshift while the dashboard display involved an Acewell RPM meter and Arduino-Uno board.\n\nThe paddle-shifting assembly had to be accommodated and integrated with MoTec Engine Control Unit to perform interrupt processes such as ignition and fuel injection cut. This was achieved successfully through an idea to send a digital input to the ECU which was approved by MoTec support.\n\nThe engine followed a complicated gear-shift scheme thus it was recommended to display which gear was being operated and what action was performed (upshift/downshift). This was done by programming an Arduino-Uno board with Hitachi HD44780 LCD display. The goal was achieved by making use of the property of a counter and LCD display instructions.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Anshul",
+                    "last_name": "Singhal",
+                    "name": null,
+                    "headline": "Founder & CEO at Sentient Labs - WaterInNumbers\ud83d\udca7 |  Autonomous Systems - Cloud Robotics - AI - IOT | Management Nerd | Researcher-Designer-Builder"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Varun Das",
+                    "last_name": "Ramanujam Ramdoss",
+                    "name": null,
+                    "headline": "Senior Consultant/Lead Engineer at Capgemini Engineering"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Maruti Sai Dhiraj",
+                    "last_name": "Sakhamuri",
+                    "name": null,
+                    "headline": "Ph.D. Student at the University of Southampton"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Arvind",
+                    "last_name": "Desikan",
+                    "name": null,
+                    "headline": "PhD student in electromechanics , applied superconductivity"
+                }
+            ]
+        },
+        {
+            "title": "Developing a library for Synchronization system and Circuit breaker control",
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "description": "Using ABB.Ltd software tools, the project involves:\n\n1. Developing a database.\n\n2. Developing modular interaction using predefined/user defined function blocks (standard Boolean instructions, clock generator etc), structured data types and variables.\n\n3. Designing faceplates for HMI and simulating the entire process.\n\nUsing OOP model, we successfully developed a library for synchronization control which has been registered under ABB library - PMS India. Using network determination concept developed by ABB.Ltd, the library can determine the generator to be operated. Protective measures for circuit breaker control were implemented in a logical format using languages like Structured text, Function Block Diagram and Ladder logic. My mentor introduced me to ModSoft for improved methods of writing instructions to reduce execution time. \n\nThe library has offered easy implementation in existing projects where load-shedding and load-sharing are already being used. The parameter connections have been optimized to be dependent on the IO only for the circuit breakers and synchronization panel thus reducing memory usage to the best.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Arvind",
+                    "last_name": "Desikan",
+                    "name": null,
+                    "headline": "PhD student in electromechanics , applied superconductivity"
+                }
+            ]
+        }
+    ],
+    "publications": [
+        {
+            "name": "ANFIS modeling of photovoltaic systems to mitigate partially shaded conditions",
+            "publisher": "IEEE, 2017 International Conference on Innovations in Electrical, Electronics, Instrumentation and Media Technology (ICEEIMT)",
+            "url": "https://ieeexplore.ieee.org/document/8116831",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2017
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Arvind",
+                    "last_name": "Desikan",
+                    "name": null,
+                    "headline": "PhD student in electromechanics , applied superconductivity"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Kalaichelvi",
+                    "last_name": ".venkatesan",
+                    "name": null,
+                    "headline": "AssociateProfessor at BITS PILANI,DUBAI CAMPUS"
+                }
+            ]
+        },
+        {
+            "name": "Design for a semi-active preview suspension system using fuzzy-logic control and image processing techniques",
+            "publisher": "IEEE International Conference on Cyber Technology in Automation, Control and Intelligent Systems",
+            "url": "https://drive.google.com/open?id=0B_LphcODL0LcN2xyNjA3RmlncDQ",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2015
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Arvind",
+                    "last_name": "Desikan",
+                    "name": null,
+                    "headline": "PhD student in electromechanics , applied superconductivity"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Kalaichelvi",
+                    "last_name": ".venkatesan",
+                    "name": null,
+                    "headline": "AssociateProfessor at BITS PILANI,DUBAI CAMPUS"
+                }
+            ]
+        }
+    ],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 4838,
+                "name": "Eindhoven University of Technology",
+                "logo": "https://media.licdn.com/dms/image/C560BAQG4PGSYiNG4CA/company-logo_400_400/0/1642150189320?e=1703721600&v=beta&t=omf4Ziy8Suete_GTJ3Qn1mOBS7ZrKSPido6Ld2LseBU",
+                "url": "https://www.linkedin.com/school/eindhoven-university-of-technology/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Eindhoven, North Brabant, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2020
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Eindhoven University of Technology",
+                    "description": null,
+                    "title": "Doctoral Candidate",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 208647,
+                "name": "Prodrive Technologies",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQFLdOv17bPbmw/company-logo_400_400/0/1615202775557?e=1703721600&v=beta&t=Nq5slY23ugSEU0X6T0Mra8LFIe1bj7oXe_rc3HDYlpA",
+                "url": "https://www.linkedin.com/company/prodrivetechnologies/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Son en Breugel, North Brabant, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2020
+                        }
+                    },
+                    "company": "Prodrive Technologies",
+                    "description": "I worked with motion and mechatronics department as a graduate research intern to investigate and model axial-flux permanent magnet machines with a segmented approach for CT scanner. A bottom up design process was taken to develop a framework for the solution which proposes multiple solutions for certain performance criteria and designs decisions which need to be made to custom build a machine.",
+                    "title": "Design Engineer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1758132,
+                "name": "University Racing Eindhoven",
+                "logo": "https://media.licdn.com/dms/image/C560BAQECttZrXtbswQ/company-logo_400_400/0/1519909818090?e=1703721600&v=beta&t=bWI3UOnT2Zd1wc0QlivR1ghwuL98cqb4YdiSDXhc5Cw",
+                "url": "https://www.linkedin.com/company/university-racing-eindhoven/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Eindhoven Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2017
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "University Racing Eindhoven",
+                    "description": "URE is a student design team competing in Formula Student Competition, the largest design competition to manufacture a fast, safe, efficient and cost effective race-car. The design competition is structured around standards and practices adopted in the vehicle industry, making it not just about a race-car but also one that has certain relevance in urban world. The team focuses on electric and autonomous vehicle.\n\nI was responsible to tune the control and testing of a custom-built drive system which was developed\nin collaboration with Prodrive Technologies. Improvements to the control model were made upon\ninclusion of non-linear behavior of the motor, obtained through FEA.",
+                    "title": "Powertrain Engineer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "IEEE Student Branch BITS Pilani Dubai",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Dubai, United Arab Emirates",
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2016
+                        }
+                    },
+                    "company": "IEEE Student Branch BITS Pilani Dubai",
+                    "description": "IEEE SB-Dubai is the largest student branch community in the UAE. Undertook responsibilities to organize and conduct technical activities under the during two annual technical events: Enginuity and Techfest.\n    \nFor Techfest 2015, we conducted the Crack-the-code contest. A team of two engaged in a programming drill of 10 questions to solve in any programming language.\n\nOrganized an Internet of Things (IoT) workshop. The workshop offered IoT training and projects using Arduino mini and cloud servicing platforms for data acquisition through sensors.\n\nFor Enginuity 2016, we conducted Codeblitz - the competition puts forward a series of programs with very trivial and subtle errors (bugs). The participant would have to identify the bugs and debug the code to get the correct output for all valid test cases.\n\nAnnually IEEE xTreme is conducted at the university. In IEEE xTreme 9.0, 7 teams made it to the global 50 rankings while also holding the top-ranking position in the middle-east.\n\nWith growing membership and activities, the university has also initiated a IEEE Power and Energy Society division.",
+                    "title": "Activities Chair",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 277579,
+                "name": "ABB",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQHPGAMgqJMBZQ/company-logo_400_400/0/1602668648845?e=1703721600&v=beta&t=RxgZA1SRuXxHjd0BplllbPuZivv-QKq9Uxlzqa1SfHI",
+                "url": "https://www.linkedin.com/company/abb/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Rajajinagar IT Park, Bangalore",
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2014
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2014
+                        }
+                    },
+                    "company": "ABB",
+                    "description": "Under the guidance of Mr. Varghese C.O., my project introduces me to Synchronisation supervision and control, a fragment but crucial task in smart grids.\n\nThe project has tutored me in software implementation of PLC controllers. The controller I was working on was Systems 800xA. It is a recognized and respected controller in industrial automation. It is implemented extensively in the Manufacturing/Packaging and Process industries and power automation industries as well. It has opened an entirely new dimension to smart grid implementation. The controller allows IO interactions and integration with AutoCAD and MATLAB.\n\nThe project allowed me to better understand the interaction of a controller with IO devices, software-based control and analysis using real-time data.",
+                    "title": "Project Intern-Power Automation",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Team Gearshifters",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2013
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2014
+                        }
+                    },
+                    "company": "Team Gearshifters",
+                    "description": "Gear Shifters is group of 25 automotive enthusiasts with the sole motive of taking part in the 2014 FSAE event at Michigan Speedway. \n\nTeam Gear shifters was founded in November 2011.This team mainly focused on creating a vehicle for the BAJA event conducted by SAE and successfully participated in the 2013 SAE BAJA event at Tennessee Tech University in the USA and was the first team to represent the U.A.E at the SAE BAJA Competition.",
+                    "title": "Electronics Head, ROYAL FALCON - 01",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Control Systems Design",
+        "Simulink",
+        "Embedded Systems",
+        "Matlab",
+        "C",
+        "C++",
+        "Embedded C",
+        "VHDL",
+        "Altera Quartus",
+        "Synopsys tools",
+        "Atmel AVR",
+        "Automation",
+        "Electronics",
+        "Solidworks",
+        "Robotics",
+        "Teamwork",
+        "Arduino",
+        "Process Optimization",
+        "Microsoft Office",
+        "Engineering"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

@@ -1,0 +1,464 @@
+{
+    "profile_id": "ianburnette",
+    "first_name": "Ian",
+    "last_name": "Burnette",
+    "sub_title": "Senior Python Egineer",
+    "profile_picture": "https://media.licdn.com/dms/image/C4E03AQFRanj1VBB-cg/profile-displayphoto-shrink_800_800/0/1615306279610?e=1701302400&v=beta&t=332SO-jJArlIFwuTAE15DvvHh6TlIJ8wy-sIb6pDn7s",
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAAAO7QvUBJOQZVvmLtGcrnxUrpP4RD7t1-Xc",
+    "object_urn": 62604021,
+    "birth_date": null,
+    "summary": "I have 8 years of professional experience designing and implementing web applications and RESTful APIs. My language of choice is Python (2.7 or 3.x) which I have been programming in for over a decade, but I'm always open to learning new technologies. I also have some limited experience with front-end technologies such as HTML5, CSS, and JavaScript (and it's many child libraries/frameworks such as React, AngularJS, JQuery, Clojurescript, D3.js, etc...).\n\nWhile I originally learned to code in the functional paradigm using a LISP derivative, I am well versed in Object Oriented design as well. Both are powerful tools that tend to lend themselves to different applications. \n\nSpeaking of tools, I know my way around a UNIX command line and have experience interacting with Docker, Jenkins, JIRA, Review Board, and github/gitlab. I'm enough of a git expert to have mentored junior developers on the difference between rebase and merge, but I still have to look up man pages from time to time for less common commands.\n\nMy wife has accepted an opportunity in the Netherlands; as such I am only considering remote positions and positions in the Netherlands. I will need visa sponsorship to work for a Dutch company.",
+    "location": {
+        "country": "Netherlands",
+        "short": "Leiden, South Holland",
+        "city": "Leiden",
+        "state": "South Holland",
+        "default": "Leiden, South Holland, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "English",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ]
+    },
+    "industry": "Computer Software",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2008
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "school": {
+                "name": "Haverford College",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQFTG6mtqky2hQ/company-logo_400_400/0/1519856074308?e=1703721600&v=beta&t=4sLko-LLjcbMHAkwsWIWsP4IKK6t75WPeT0FZ746_WU",
+                "url": "https://www.linkedin.com/school/haverford-college/"
+            },
+            "degree_name": "BS",
+            "field_of_study": "Mathematics, Computer Science",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2000
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2008
+                }
+            },
+            "school": {
+                "name": "Savannah Country Day",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": null,
+            "field_of_study": null,
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "recur.py",
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "description": "A lightweight Python implementation of the recur function found in clojure/clojurescript. This allows for explicit tail call optimization (at the cost of a slight performance hit). Now you too can program functionally in Python without fear of stack overflows!",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Ian",
+                    "last_name": "Burnette",
+                    "name": null,
+                    "headline": "Senior Python Egineer"
+                }
+            ]
+        },
+        {
+            "title": "ABA Therapy Scheduling Application",
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "description": "Simple Django web application that replaced hand scheduling on ~30 laminated spreadsheets. The application was designed to be usable for employees used to the analog system, but also harnesses the power of digital storage with features like collision detection and scheduling suggestions for each client/therapist timeslot.\n\nThe work has dramatically reduced scheduling pains that the company was beginning to experience as it grew, and continues to be used today with only minor maintenance being performed on my end. I worked on this project alone; taking it from feature discovery/design all the way to implementation and maintenance.\n\nThe project uses these technologies: Linux, MySQL, Django, JQuery, CSS, HTML.\n\nUnfortunately, this project is full of sensitive client information, so I can't link to it. Eventually, I might put up a generic version of the site as a tech demo, but it's not a huge priority at the moment.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Ian",
+                    "last_name": "Burnette",
+                    "name": null,
+                    "headline": "Senior Python Egineer"
+                }
+            ]
+        }
+    ],
+    "publications": [],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 10485988,
+                "name": "Sprinque",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQHmdczcPCGf6A/company-logo_400_400/0/1646648186619?e=1703721600&v=beta&t=-8TUAT8ZsaHUTxqZx68yp_5jtkd--9AiGlJK2TyQPhQ",
+                "url": "https://www.linkedin.com/company/sprinque/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Leiden, South Holland, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Sprinque",
+                    "description": null,
+                    "title": "Senior Backend Developer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 109731,
+                "name": "YouGov",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQGRxed6OLCOKg/company-logo_400_400/0/1643788063236?e=1703721600&v=beta&t=3x4cDQCIIwg4a0ifNiNstaZ-aAlGBWliKE842O6Fa4M",
+                "url": "https://www.linkedin.com/company/yougov/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Remote",
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2017
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "YouGov",
+                    "description": "At YouGov I maintain and improve the APIs that connect the various internal applications which make up YouGov\u2019s polling platforms. I currently focus on supporting the administrative tools we provide customers to build and deploy polls to our panelists. The project I\u2019m most proud of is my codebook-exporter, which consumes our internal data format and produces printer-ready documents in html, pdf, or word format.",
+                    "title": "Software Developer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 2652762,
+                "name": "PokitDok",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQGUuSsWvo6L4w/company-logo_400_400/0/1519872830715?e=1703721600&v=beta&t=_rOVXFqsqAcARYAbptTwFAf2sVxuS7h52YTxCZiRpig",
+                "url": "https://www.linkedin.com/company/pokitdok/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Charleston, South Carolina Area",
+                    "date": {
+                        "start": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2017
+                        }
+                    },
+                    "company": "PokitDok",
+                    "description": "Designed and implemented various APIs, mostly to support PokitDok's Identity proof and management services. I also did minor refactors, code maintenance, and bug fixes within PokitDok's existing claims management offering. High traffic performance and long term scalability were constant concerns when working on these projects. Additionally, I often found myself caught between Front End, Sales, Dev-Ops, and our Data Science team. I quickly learned to manage people, time, and expectations in order to ship maintainable solutions that met requirements without introducing unnecessary complexity.\n\nTechnologies used: Python 2.7 and 3.3, Flask, MongoDB, ElasticSearch (4 and 5), Docker, Vagrant, git, PyCharm, and Jenkins.",
+                    "title": "Senior Software Engineer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 621892,
+                "name": "Cox Media Group Digital & Strategy Team",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQFjbdEU7njC3g/company-logo_400_400/0/1519913897733?e=1703721600&v=beta&t=LaDKimMO6DMTg94V0vU_hIWrFtqvYnr4wv6qpNnv3sE",
+                "url": "https://www.linkedin.com/company/cox-media-group-digital-&-strategy-team/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Charleston, South Carolina Area (remote)",
+                    "date": {
+                        "start": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2014
+                        },
+                        "end": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2016
+                        }
+                    },
+                    "company": "Cox Media Group Digital & Strategy Team",
+                    "description": "CSS, Javascript, and Django (front-end and back-end) development on the updated newspaper sites for the Atlanta Journal Constitution, the Austin Statesman, the Palm Beach Post, and the Dayton Daily News. Specifically, I did a lot of SEO work that enabled the various Cox Media properties to support each other in google news rankings. After the public launch of the site I've stayed on to support the sites with minor bug fixes and further SEO optimizations. I also completed a JS training course taught by Kyle Simpson (author of \"You Don't Know JS\").",
+                    "title": "Software Developer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1334175,
+                "name": "Expand Interactive",
+                "logo": "https://media.licdn.com/dms/image/C510BAQEoDh2D3I_Axg/company-logo_400_400/0/1519885948517?e=1703721600&v=beta&t=MsIt8wSjS4swcEsIV3IAmzlsw04PDeVSEO8Y1bQMSY4",
+                "url": "https://www.linkedin.com/company/expandshare/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Charleston, South Carolina Area",
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2012
+                        },
+                        "end": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2014
+                        }
+                    },
+                    "company": "ExpandShare",
+                    "description": "Programming a python/django web application and iPad app.",
+                    "title": "Developer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 19674,
+                "name": "Haverford College",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQFTG6mtqky2hQ/company-logo_400_400/0/1519856074308?e=1703721600&v=beta&t=4sLko-LLjcbMHAkwsWIWsP4IKK6t75WPeT0FZ746_WU",
+                "url": "https://www.linkedin.com/school/haverford-college/",
+                "employees": {
+                    "start": 501,
+                    "end": 1000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2009
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2009
+                        },
+                        "end": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2012
+                        }
+                    },
+                    "company": "Haverford College",
+                    "description": "I help intro to computer science students with their lab assignments. The labs are exercises in the basics in algorithm and data-structure design, and are written in the python language.",
+                    "title": "Computer Lab Teaching Assistant",
+                    "employment_type": null
+                },
+                {
+                    "location": "Haverford, PA",
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2011
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2011
+                        }
+                    },
+                    "company": "Haverford College",
+                    "description": "I researched automatic parallelization with computer science professor David Wonnacott. My work with David continued as part of my undergraduate computer science thesis. This work culminated in a paper which I have linked below.",
+                    "title": "Research Assistant",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Python",
+        "Django",
+        "CSS",
+        "JavaScript",
+        "AJAX",
+        "HTML",
+        "HTML 5",
+        "jQuery",
+        "LaTeX",
+        "Java",
+        "C++",
+        "Linux",
+        "Programming",
+        "Mathematica",
+        "Data Analysis",
+        "Objective-C",
+        "OS X",
+        "Teaching",
+        "Mathematics",
+        "Computer Science"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

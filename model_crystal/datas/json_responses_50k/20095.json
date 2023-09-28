@@ -1,0 +1,752 @@
+{
+    "profile_id": "dilumnavanjana",
+    "first_name": "Dilum",
+    "last_name": "Navanjana",
+    "sub_title": "Lead Backend Developer ",
+    "profile_picture": "https://media.licdn.com/dms/image/C5603AQGa-cOT5srVrQ/profile-displayphoto-shrink_800_800/0/1592669412714?e=1701302400&v=beta&t=J79vcq13Bh8oM9XPURUYyjWV0_xahvf129Utf-SqPFk",
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAAA1Wou8BWQ9RbvNCap7McE4CyVtSulm_jt4",
+    "object_urn": 223781615,
+    "birth_date": null,
+    "summary": "Completed Google Summer of Code 2015 project successfully with Ruby Organization. \nSpeaker of Deccan Ruby Conference 2015 in India. \nSpeaker of FOSSASIA World Conference 2016 in Singapore.\nSpeaker of RubyConfMy Conference 2017 in Malaysia.\nSpeaker of RubyConfMy Conference 2018 in Malaysia.",
+    "location": {
+        "country": "Netherlands",
+        "short": "Amsterdam Area",
+        "city": null,
+        "state": null,
+        "default": "Amsterdam Area"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [
+        {
+            "url": "https://www.slideshare.net/DilumNavanjana/parallel-processing-with-ruby",
+            "title": "Parallel processing with ruby",
+            "description": "RubyConfMy Talk on Parallel Processing & Concurrency on Ruby. How both of them differ. What ruby supports. Ruby 3 upcoming features.",
+            "image": "https://media.licdn.com/dms/image/sync/C4E27AQEQqqK-PjGHMg/articleshare-shrink_800/0/1695122547858?e=1696438800&v=beta&t=IfFHpF82xDR7Oi0qt6glgYP_Zm3dWLfBgrAL89N0hNo"
+        },
+        {
+            "url": "https://www.slideshare.net/DilumNavanjana/git-basics-to-advance-with-diagrams",
+            "title": "Git basics to advance with diagrams",
+            "description": "This presentation contains - GIT basics - Simple GIT commands - Scenarios for those simple GIT commands - Advance GIT commands",
+            "image": "https://media.licdn.com/dms/image/sync/C4E27AQFES7_3UHNPKQ/articleshare-shrink_800/0/1695122548065?e=1696438800&v=beta&t=DP0udHZHwOp3dLiMSO2A0tZLgsy-ngngtGuG8lnG4LA"
+        },
+        {
+            "url": "https://www.slideshare.net/DilumNavanjana/concurrency-parallelism-in-ruby",
+            "title": "Concurrency & Parallelism in Ruby",
+            "description": "Concurrency & Parallelism became a popular topic in Computer Science because of Multi Core Processors. My talk is about, how we can create great Applications w...",
+            "image": "https://media.licdn.com/dms/image/sync/C4E27AQFhzLvza68cMQ/articleshare-shrink_800/0/1695122547896?e=1696438800&v=beta&t=wo_LJZYK7YLooCB-YAuniW7M8dYAMuUSFnk3Za147A8"
+        },
+        {
+            "url": null,
+            "title": "Concurrent Programming with Celluloid",
+            "description": "This is my speak on Deccan Ruby Conference about Concurrent Programming with Celluloid on 8th August 2015. This Presentation explains how Celluloid gem works.",
+            "image": "https://media.licdn.com/dms/image/C4E2DAQHQEDyLyMkcFw/profile-treasury-document-cover-images_1920/0/1583677521872?e=1696438800&v=beta&t=e5oCuKWPLzaGGRVFa6g4DfOdx5au8PWFu3KBquaaDac"
+        }
+    ],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "English",
+                "proficiency": "PROFESSIONAL_WORKING"
+            }
+        ]
+    },
+    "industry": "Computer Software",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "school": {
+                "name": "Sabaragamuwa University of Sri Lanka",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQE2o4GuFkhq4Q/company-logo_400_400/0/1632485891113?e=1703721600&v=beta&t=xoqt7vU2ZuwR6GLHOv5dO4YF8IG5OJUN97w6uL-bFDY",
+                "url": "https://www.linkedin.com/school/sabaragamuwa-university/"
+            },
+            "degree_name": "Bachelor of Science (BS)",
+            "field_of_study": "Computer Software Engineering",
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [
+        {
+            "title": "Most Outstanding Intern 2016 Excellence Award",
+            "description": "Won the Most Outstanding Inter 2016 award at Excellence Award ceremony for 2016",
+            "issuer": "99x Technology",
+            "date": {
+                "month": 2,
+                "day": null,
+                "year": 2017
+            }
+        },
+        {
+            "title": "Google Summer of Code 2015",
+            "description": "Celluloid is an Actor based concurrent Ruby Gem, which you can use in your project to do concurrent tasks. When the system become more complex the potential of happening deadlock increases. My task for the GSoc period is to create a deadlock detector to unlock or warn user when a deadlock happens",
+            "issuer": "Google",
+            "date": {
+                "month": 4,
+                "day": null,
+                "year": 2015
+            }
+        },
+        {
+            "title": "Microsoft Imagine Cup Sri Lankan Finalist",
+            "description": "MOKO WORLD Windows Phone Game in World Citizenship Category.",
+            "issuer": "Microsoft Sri Lanka",
+            "date": {
+                "month": 3,
+                "day": null,
+                "year": 2013
+            }
+        }
+    ],
+    "certifications": [],
+    "organizations": [
+        {
+            "name": "Celluloid",
+            "position": "Developer",
+            "date_start": {
+                "month": 4,
+                "day": null,
+                "year": 2015
+            },
+            "date_end": null
+        }
+    ],
+    "projects": [
+        {
+            "title": "CarelinkAIR",
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "description": "Designing and developing a Responsive SPA Web Application as a modernization of a legacy windows forms healthcare management system.\n\nThe main objective of the project was to increase the productivity of the end users by introducing mobility, intuitive user experience design and latest advancement of web technologies.\n\nThe team was responsible for coming up with a modularized and future-proof architecture and implementing the system to meet the security (OWASP), performance and accessibility (WCAG) benchmarks in the health care domain.\n\nFollowing Agile Scrum methodology gave a chance to enhance the productivity of the distributed teams with frequent visits to elicit the Requirements with brainstorming activities and analyzing journey maps of users.\n\nAlso, this enhanced the understanding of the underlying domain which led to producing a better value addition to the product over its legacy counterpart.\n\nIn addition, we achieved the maximum developer efficiency and productivity by configuring modern tool-chain for continuous Integration and continuous delivery.\n\nTechnologies & tools used - ASP.Net MVC / API, MSSQL, Entity Framework, Identity Server, AngularJS, AWS, KendoUI, Jenkins, Sass, Git, Jira",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Dilum",
+                    "last_name": "Navanjana",
+                    "name": null,
+                    "headline": "Lead Backend Developer "
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Janindu",
+                    "last_name": "Ranawake",
+                    "name": null,
+                    "headline": "Co-Founder at Corzent | Digital product designer"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Frank",
+                    "last_name": "Warnakula",
+                    "name": null,
+                    "headline": "Senior Software Engineer"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Tharaka",
+                    "last_name": "Wijebandara",
+                    "name": null,
+                    "headline": "Software Engineer at Facebook"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Dharshini",
+                    "last_name": "Baskaran",
+                    "name": null,
+                    "headline": "Associate Quality Assurance Lead | Automation | Manual | ISTQB Certified"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "edmund",
+                    "last_name": "sanjeev",
+                    "name": null,
+                    "headline": "Senior Business Analyst /Product Owner CSPO"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Darren",
+                    "last_name": "Walker",
+                    "name": null,
+                    "headline": "Project | Product Manager"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Asela",
+                    "last_name": "Gunawardena",
+                    "name": null,
+                    "headline": "Cloud Architect"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Sudath",
+                    "last_name": "Thenuwara",
+                    "name": null,
+                    "headline": "Project Manager at 99X Technology"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Gobikrishnan",
+                    "last_name": "Thavarajah MBA, CBAP, PSPO",
+                    "name": null,
+                    "headline": "Product Management | Senior Business Analyst | Agile Transformation |Data Analytics"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Salim",
+                    "last_name": "Malik",
+                    "name": null,
+                    "headline": "Engineering Manager at Ascenda"
+                }
+            ]
+        }
+    ],
+    "publications": [],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 10180448,
+                "name": "Personio",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQHqZToSLhjV9Q/company-logo_400_400/0/1666252443335?e=1703721600&v=beta&t=pml3AuJND3SO4tui4Ag4x3vAKyMl1r3dd1iupI8vC20",
+                "url": "https://www.linkedin.com/company/personio/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2023
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2023
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Personio",
+                    "description": null,
+                    "title": "Lead Backend Developer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 784652,
+                "name": "Shopify",
+                "logo": "https://media.licdn.com/dms/image/C560BAQGwLyu_OVKHvg/company-logo_400_400/0/1626723979046?e=1703721600&v=beta&t=kALaCfpKZPHZjQlfoc3lJ18DCQgZI8SlRpD4sZjUxyM",
+                "url": "https://www.linkedin.com/company/shopify/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2023
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2023
+                        }
+                    },
+                    "company": "Shopify",
+                    "description": null,
+                    "title": "Senior Developer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 10941407,
+                "name": "Shypple",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQEEHiVFTrvbZQ/company-logo_400_400/0/1655391599186?e=1703721600&v=beta&t=NEpnBYa79dN_8osbuOs-5p10mrmBKmGKt5mt5Pdo9TA",
+                "url": "https://www.linkedin.com/company/shypple/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Rotterdam, South Holland, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "Shypple",
+                    "description": null,
+                    "title": "Lead Software Developer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 3756360,
+                "name": "Ascenda",
+                "logo": "https://media.licdn.com/dms/image/C510BAQEM6-aIYiK06Q/company-logo_400_400/0/1540891894739?e=1703721600&v=beta&t=Ladt8R5VCsaz7bl-pCnOrqoIZt5ASA-x_sAHwRkPiQE",
+                "url": "https://www.linkedin.com/company/ascenda-loyalty/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Singapore",
+                    "date": {
+                        "start": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2021
+                        }
+                    },
+                    "company": "Ascenda",
+                    "description": null,
+                    "title": "Lead Engineer",
+                    "employment_type": "Full-time"
+                },
+                {
+                    "location": "Singapore",
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2021
+                        }
+                    },
+                    "company": "Ascenda",
+                    "description": null,
+                    "title": "Senior Engineer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Bbytes.sg",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Singapore",
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2017
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2018
+                        }
+                    },
+                    "company": "Bbytes.sg",
+                    "description": null,
+                    "title": "Senior Engineer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 54811,
+                "name": "99X Technology",
+                "logo": "https://media.licdn.com/dms/image/C560BAQEVg8fDYKXBCw/company-logo_400_400/0/1601228756308?e=1703721600&v=beta&t=JTtgpfpOdaPy5fE2IHYKtd9VO8LVcH52ms98c9kDOJ8",
+                "url": "https://www.linkedin.com/company/99xio/",
+                "employees": {
+                    "start": 201,
+                    "end": 500
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Sri Lanka",
+                    "date": {
+                        "start": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2017
+                        }
+                    },
+                    "company": "99x",
+                    "description": null,
+                    "title": "Senior Software Engineer",
+                    "employment_type": null
+                },
+                {
+                    "location": "Sri Lanka",
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2016
+                        }
+                    },
+                    "company": "99x",
+                    "description": null,
+                    "title": "Software Engineer",
+                    "employment_type": null
+                },
+                {
+                    "location": "Sri Lanka",
+                    "date": {
+                        "start": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2016
+                        }
+                    },
+                    "company": "99x",
+                    "description": null,
+                    "title": "Intern",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 2514505,
+                "name": "Creation Application",
+                "logo": "https://media.licdn.com/dms/image/C560BAQFZkVIWNV80Nw/company-logo_400_400/0/1519896835764?e=1703721600&v=beta&t=rBN3vA_PDkYfvQKlM_OA_GnFnL90SuOz9JjHNwXlGCk",
+                "url": "https://www.linkedin.com/company/creation-application/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Colombo",
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2014
+                        },
+                        "end": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2015
+                        }
+                    },
+                    "company": "Creation Application",
+                    "description": "iOS Developer",
+                    "title": "Associate Software Engineer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Celluloid / Ruby",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2015
+                        }
+                    },
+                    "company": "Celluloid / Ruby",
+                    "description": "Worked with Celluloid team to develop a new feature of Celluloid as a part of Google Summer of Code. Got the chance to continue working with Celluloid team & this was the start of my Open Source Contribution.",
+                    "title": "Developer",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [
+        {
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "role": "Speaker",
+            "company": {
+                "id": null,
+                "name": "Deccan Ruby Conference",
+                "logo": null,
+                "url": null
+            },
+            "cause": "SCIENCE_AND_TECHNOLOGY",
+            "description": "Spoke about Concurrent Ruby with Celluloid on Deccan Ruby Conference"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "role": "Speaker",
+            "company": {
+                "id": null,
+                "name": "FOSSASIA",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQHRuMz1q2hkVw/company-logo_400_400/0/1519895973988?e=1703721600&v=beta&t=fi3mbqHJoMdLTfPHotmkcGZf4sjNoBif4ZMfR5jXVsU",
+                "url": "https://www.linkedin.com/company/fossasia/"
+            },
+            "cause": "SCIENCE_AND_TECHNOLOGY",
+            "description": "I was a speaker of FOSSASIA 2016 which held in Singapore with more than 1000 participants. I talked about Concurrency & Parallelism in Ruby"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "role": "Speaker",
+            "company": {
+                "id": null,
+                "name": "RubyConfMy",
+                "logo": null,
+                "url": null
+            },
+            "cause": "SCIENCE_AND_TECHNOLOGY",
+            "description": "RubyConfMy Talk on Parallel Processing & Concurrency on Ruby. \nhttps://www.slideshare.net/DilumNavanjana/parallel-processing-with-ruby"
+        }
+    ],
+    "skills": [
+        "Ruby",
+        "Celluloid",
+        "Ruby on Rails",
+        "AngularJS",
+        "JavaScript",
+        "JRuby",
+        "HTML",
+        "Web Applications",
+        "C#",
+        "Scrum",
+        "Software Design",
+        "Mobile Applications",
+        "iPhone Application Development",
+        "iOS development",
+        "OS X",
+        "Objective-C",
+        "Gems",
+        "Java",
+        "SQLite",
+        "JSON"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

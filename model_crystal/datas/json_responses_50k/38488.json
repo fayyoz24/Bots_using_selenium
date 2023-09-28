@@ -1,0 +1,880 @@
+{
+    "profile_id": "alifarukyucel",
+    "first_name": "Ali Faruk",
+    "last_name": "Y\u00fccel",
+    "sub_title": "CSE @ TU Delft | Ex-Google DSC Lead | Co-Founder @ SizeRight",
+    "profile_picture": "https://media.licdn.com/dms/image/D4E03AQHAxCprLtZHIw/profile-displayphoto-shrink_800_800/0/1673726171687?e=1701302400&v=beta&t=T2Y5np0PHQ7ZbMgcZToJQoLSN4iWwMZpDdS8OJQ6EEQ",
+    "background_image": "https://media.licdn.com/dms/image/D4E16AQFZ10eHHI6VDw/profile-displaybackgroundimage-shrink_350_1400/0/1673728063029?e=1701302400&v=beta&t=SmZTSH6vNtKdqQ2eVse7Pe1udwFuamlYFBsTCsMFTmo",
+    "profile_type": "personal",
+    "entity_urn": "ACoAAC_zXQ0BXBWuw4qYFL1YyK9ZUCTyVHTsZtA",
+    "object_urn": 804478221,
+    "birth_date": null,
+    "summary": "Hi, it's nice to e-meet you. I am a third-year BSc Computer Science and Engineering student at TU Delft. I've worked with the robotics (VEX Robotics, FRC) and agriculture (Stanford EARTH) industries and I love automating anything and everything I can get my hands on. Some of the projects I worked on include IR Remote Lighting System, Twitter Sentiment Analysis, Amazon Price Tracker, Auto-trading with Python, Crop Growth Detection through Satellite Imagery, and some smaller-scale scripts (mostly, web crawling based) that make my life easier.\n\nI am tremendously driven to help accelerate the transition to sustainable technologies. Specifically, in the energy, agriculture, and consumer discretionary sectors. \n\nIn the past, I've conducted some research into analyzing the efficiency of photovoltaic cells in terms of photon energy & flux, spectral irradiance, and the radiant power density on the surface of our sun compared to the radiant power density on the surface of Earth (solar irradiance). I've analyzed the effects of Rayleigh scattering and Mie scattering on solar energy production and researched ways to mitigate these losses. \n\nWhat's quite intriguing to me is that while most sectors become more sustainable as they adopt a demand-driven supply chain approach, it's the opposite for renewable energy. Due to the inherent unstableness of renewable energy production (except for hydro), the generated energy has to be stored until demand arises. I believe that inevitably, an infrastructural change to the energy sector will depend on state-of-the-art ultracapacitor and battery technologies along with extremely efficient renewable energy production (maybe even cold fusion, who knows).",
+    "location": {
+        "country": "Netherlands",
+        "short": "Delft, South Holland",
+        "city": "Delft",
+        "state": "South Holland",
+        "default": "Delft, South Holland, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "English",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "French",
+                "proficiency": "LIMITED_WORKING"
+            },
+            {
+                "name": "German",
+                "proficiency": "LIMITED_WORKING"
+            },
+            {
+                "name": "Turkish",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ]
+    },
+    "industry": "Computer Software",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2024
+                }
+            },
+            "school": {
+                "name": "Delft University of Technology",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQFwaGpwaod9mQ/company-logo_400_400/0/1670699851986?e=1703721600&v=beta&t=Aw4oLxoKsIJcblYDjxw9200FClnyhZu8DxzcfJRDFOs",
+                "url": "https://www.linkedin.com/school/tudelft/"
+            },
+            "degree_name": "Bachelor of Science - BS",
+            "field_of_study": "Computer Science and Engineering",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "school": {
+                "name": "Delft University of Technology",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQFwaGpwaod9mQ/company-logo_400_400/0/1670699851986?e=1703721600&v=beta&t=Aw4oLxoKsIJcblYDjxw9200FClnyhZu8DxzcfJRDFOs",
+                "url": "https://www.linkedin.com/school/tudelft/"
+            },
+            "degree_name": "Minor",
+            "field_of_study": "Electrical Sustainable Energy Systems",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "school": {
+                "name": "Stanford University",
+                "logo": "https://media.licdn.com/dms/image/C560BAQHr9suxyJBXMw/company-logo_400_400/0/1635534378574?e=1703721600&v=beta&t=vzUq74RHOVse47Wqg7TNJu8L29Z1UV1hr2f3US43Yck",
+                "url": "https://www.linkedin.com/school/stanford-university/"
+            },
+            "degree_name": null,
+            "field_of_study": "Computer Science",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "school": {
+                "name": "University of Toronto",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQHX-foiyEDxpw/company-logo_400_400/0/1639421285415?e=1703721600&v=beta&t=BwQQnXHlsEr9eh-nKio84L3y1d73WA7y0u9J7Bf1HO4",
+                "url": "https://www.linkedin.com/school/university-of-toronto/"
+            },
+            "degree_name": null,
+            "field_of_study": "Law & Economics",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "school": {
+                "name": "Ko\u00e7 University",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQGkVDbRvBOR_w/company-logo_400_400/0/1679555675269?e=1703721600&v=beta&t=O_9H5UjBPpwXU9KiiRNLa8pa3vk77uOR3cSKDNnf4mc",
+                "url": "https://www.linkedin.com/school/kocuniversity/"
+            },
+            "degree_name": null,
+            "field_of_study": "Nanotechnology",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "school": {
+                "name": "Eyuboglu Egitim Kurumlari",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQEd7gYfrnE-Gw/company-logo_400_400/0/1668140656193?e=1703721600&v=beta&t=r_7fAVsoSfyElHZ2qna1W3BNC-OKBH1Z8kHrygOYtz8",
+                "url": "https://www.linkedin.com/school/egitimeyuboglu/"
+            },
+            "degree_name": null,
+            "field_of_study": null,
+            "grade": "95.23/100"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "school": {
+                "name": "International Baccalaureate",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQH1trVeMU7kyA/company-logo_400_400/0/1519855985203?e=1703721600&v=beta&t=Kfvp97jmnLv4L-nogEbBObR1UElcAV-1jDE-1GO5Z5U",
+                "url": "https://www.linkedin.com/school/ibo/"
+            },
+            "degree_name": null,
+            "field_of_study": null,
+            "grade": "41/45"
+        }
+    ],
+    "patents": [],
+    "awards": [
+        {
+            "title": "3rd in the field of Math - TUBITAK Project Competition for High School Students Istanbul Regional",
+            "description": "Efe Can K\u0131z\u0131lcin and I became 3rd in Istanbul Regional in the category of Math among 155 selected projects and got a prize of 400 Turkish Liras.",
+            "issuer": "TUBITAK (The Scientific and Technological Research Council of Turkey)",
+            "date": {
+                "month": 3,
+                "day": null,
+                "year": 2018
+            }
+        },
+        {
+            "title": "Gold medalist at Turkey Ice Hockey Championship",
+            "description": "After getting out of Istanbul regional league as the team with the most points, we became national champions thanks to 5 long months of perseverance. I was the captain of our team (Buz Korsanlar\u0131 Spor Kul\u00fcb\u00fc) at the time.",
+            "issuer": "TBHF (Turkish Ice Hockey Federation)",
+            "date": {
+                "month": 5,
+                "day": null,
+                "year": 2015
+            }
+        },
+        {
+            "title": "Gold medalist at Canlan Classic Tournaments in Montreal",
+            "description": "I was a foreign player at the U12 Slovak Select team at the time. We participated in the 2014 Montreal Spring Showdown and became champions by winning every match against 12 other teams.",
+            "issuer": "Canlan Classic Tournaments",
+            "date": {
+                "month": 4,
+                "day": null,
+                "year": 2014
+            }
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Databases and SQL for Data Science",
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "IBM",
+            "url": "https://www.youracclaim.com/badges/a33c56ff-2ed0-4844-bca6-2951f9aa369a?source=linked_in_profile",
+            "license_number": "HPUX22BPAPZD",
+            "display_source": "youracclaim.com",
+            "company": {
+                "id": null,
+                "name": "IBM",
+                "logo": "https://media.licdn.com/dms/image/D560BAQGiz5ecgpCtkA/company-logo_400_400/0/1688684715427?e=1703721600&v=beta&t=eAMK4ZqZ9jAX6bPbX5LjyyMurxtQnubuQSv7kNBKpjI",
+                "url": null
+            }
+        },
+        {
+            "name": "Python for Data Science, AI and Development",
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "IBM",
+            "url": "https://www.youracclaim.com/badges/5923babe-29c6-4091-bcf6-c2480a80db63?source=linked_in_profile",
+            "license_number": "6EH9LKFFZRCE",
+            "display_source": "youracclaim.com",
+            "company": {
+                "id": null,
+                "name": "IBM",
+                "logo": "https://media.licdn.com/dms/image/D560BAQGiz5ecgpCtkA/company-logo_400_400/0/1688684715427?e=1703721600&v=beta&t=eAMK4ZqZ9jAX6bPbX5LjyyMurxtQnubuQSv7kNBKpjI",
+                "url": null
+            }
+        },
+        {
+            "name": "Automate the Boring Stuff with Python Programming",
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Udemy",
+            "url": "https://www.udemy.com/certificate/UC-a98bc0d0-f1fe-4398-abad-8f995be234e9/",
+            "license_number": "UC-a98bc0d0-f1fe-4398-abad-8f995be234e9",
+            "display_source": "udemy.com",
+            "company": {
+                "id": null,
+                "name": "Udemy",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQFQr9e68bBOPQ/company-logo_400_400/0/1626275253364?e=1703721600&v=beta&t=ImIOnB0R3ZxB44ruUbPVZgJ8M1kohd7s7pDEh8ytIkA",
+                "url": null
+            }
+        },
+        {
+            "name": "Python and Statistics for Financial Analysis | Hong Kong University of Science and Technology",
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Coursera Course Certificates",
+            "url": "https://www.coursera.org/account/accomplishments/verify/FWZ8GYTYSHA4?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=course",
+            "license_number": "FWZ8GYTYSHA4",
+            "display_source": "coursera.org",
+            "company": {
+                "id": null,
+                "name": "Coursera Course Certificates",
+                "logo": "https://media.licdn.com/dms/image/C560BAQG24u4DKpQ5dQ/company-logo_400_400/0/1519872880167?e=1703721600&v=beta&t=8vKeASx7tVQjpnz7ufoMukQR2V0rjw_xIJcw_BnIuUw",
+                "url": null
+            }
+        },
+        {
+            "name": "Introduction to Psychology | Yale University",
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Coursera Course Certificates",
+            "url": "https://www.coursera.org/account/accomplishments/certificate/PLLFSRGLQHHW",
+            "license_number": "PLLFSRGLQHHW",
+            "display_source": "coursera.org",
+            "company": {
+                "id": null,
+                "name": "Coursera Course Certificates",
+                "logo": "https://media.licdn.com/dms/image/C560BAQG24u4DKpQ5dQ/company-logo_400_400/0/1519872880167?e=1703721600&v=beta&t=8vKeASx7tVQjpnz7ufoMukQR2V0rjw_xIJcw_BnIuUw",
+                "url": null
+            }
+        }
+    ],
+    "organizations": [],
+    "projects": [],
+    "publications": [],
+    "courses": [
+        {
+            "name": "Algorithms and Data Structures",
+            "number": "CSE1305"
+        },
+        {
+            "name": "Basics of Nanotechnology",
+            "number": null
+        },
+        {
+            "name": "Calculus",
+            "number": "MATH19"
+        },
+        {
+            "name": "Computer Networks",
+            "number": "CSE1405"
+        },
+        {
+            "name": "Computer Organization",
+            "number": "CSE1400"
+        },
+        {
+            "name": "Global Economics",
+            "number": null
+        },
+        {
+            "name": "Law, Ethics, and Society",
+            "number": null
+        },
+        {
+            "name": "Linear Algebra",
+            "number": "CSE1205"
+        },
+        {
+            "name": "MATLAB",
+            "number": null
+        },
+        {
+            "name": "Machine Learning",
+            "number": "CSE2510"
+        },
+        {
+            "name": "OOP Project",
+            "number": "CSE1105"
+        },
+        {
+            "name": "Object-Oriented Programming",
+            "number": "CSE1100"
+        },
+        {
+            "name": "Probability Theory and Statistics",
+            "number": "CSE1210"
+        },
+        {
+            "name": "Programming Methodology",
+            "number": "CS106AP"
+        },
+        {
+            "name": "Reasoning and Logic",
+            "number": "CSE1300"
+        },
+        {
+            "name": "Software Quality and Testing",
+            "number": "CSE1110"
+        },
+        {
+            "name": "Web and Database Technology",
+            "number": "CSE1500"
+        }
+    ],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 69072953,
+                "name": "Google Developer Student Clubs",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQE_1tNZKj3sNQ/company-logo_400_400/0/1617607397103?e=1703721600&v=beta&t=HUpdUTPiPOgsX83yhJb3dcXufNzEU3lAFr2OU-zR6_w",
+                "url": "https://www.linkedin.com/company/dscjscoe/",
+                "employees": {
+                    "start": 501,
+                    "end": 1000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2023
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2023
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Google Developer Student Clubs",
+                    "description": null,
+                    "title": "Google DSC - Mentor",
+                    "employment_type": "Part-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 69072953,
+                "name": "Google Developer Student Clubs",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQE_1tNZKj3sNQ/company-logo_400_400/0/1617607397103?e=1703721600&v=beta&t=HUpdUTPiPOgsX83yhJb3dcXufNzEU3lAFr2OU-zR6_w",
+                "url": "https://www.linkedin.com/company/dscjscoe/",
+                "employees": {
+                    "start": 501,
+                    "end": 1000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2023
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2023
+                        }
+                    },
+                    "company": "Google Developer Student Clubs",
+                    "description": null,
+                    "title": "Google DSC - Lead",
+                    "employment_type": "Part-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 81466431,
+                "name": "SizeRight",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQE9_Vj2xxKLbw/company-logo_400_400/0/1642025074256?e=1703721600&v=beta&t=eNqPvX7YVaHfOaB_5JEdV8OwNgaWnz-22uEJcE_e-90",
+                "url": "https://www.linkedin.com/company/sizeright/",
+                "employees": {
+                    "start": 2,
+                    "end": 10
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2023
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2023
+                        }
+                    },
+                    "company": "SizeRight",
+                    "description": "We develop personalized size recommendation technology to help fashion e-tailers increase conversion rates, cut costs and reduce their carbon footprint.",
+                    "title": "Tech Co-Founder",
+                    "employment_type": "Self-employed"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 82755565,
+                "name": "Navitas Omnibus",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQF4rhqV7xhU2g/company-logo_400_400/0/1645039210458?e=1703721600&v=beta&t=po4aRqyOep0MDty4-qOSQ3UgegCnqXAiSwA_K-_kv8E",
+                "url": "https://www.linkedin.com/company/navitas-omnibus/",
+                "employees": {
+                    "start": 2,
+                    "end": 10
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "Navitas Omnibus",
+                    "description": "Our mission is to reduce waste in the consumer discretionary sector by ensuring that clothes get produced only after they've been bought.",
+                    "title": "Business Owner",
+                    "employment_type": "Self-employed"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 2393200,
+                "name": "Delivery Hero",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQFOZbu6XEJUAw/company-logo_400_400/0/1688740736732?e=1703721600&v=beta&t=GuSRaGX7NgqztcdMwuHwoGtwNNOYzB51Rh3gVUL316k",
+                "url": "https://www.linkedin.com/company/delivery-hero-se/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "Delivery Hero",
+                    "description": "As a team of 5, we were tasked with finding out which family of algorithms perform the best for session-based recommendations with regard to the precision, hit rate, and MRR (Mean Reciprocal Rank) metrics of predictions. In the process, we created a Markov Decision Process-based algorithm that performed on par with state-of-the-art algorithms with the only drawback of longer than average training time.\n\nThis internship was part of the Software Project course. \nGrade: 9/10",
+                    "title": "Software Engineer Intern",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 66624247,
+                "name": "Team Epoch",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQEdWlVI9XFbSw/company-logo_400_400/0/1664184443464?e=1703721600&v=beta&t=0GadleIlFY5LLRp1ua8feGLvoIDI5R_2hJkPwVt15ic",
+                "url": "https://www.linkedin.com/company/teamepoch/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "Team Epoch",
+                    "description": "Team Epoch is TU Delft's AI D:DREAM Team.\n\n- Ranked 15th out of 324 teams in a data science competition organized by Driven Data called Deep Chimpact: Depth Estimation for Wildlife Conservation. Our competitors included engineers from Meta, Microsoft, and Google\nhttps://www.drivendata.org/competitions/82/competition-wildlife-video-depth-estimation/leaderboard/\n\n- Trained and utilized ensembling methods on state-of-the-art computer vision models such as ResNet152 and monodepth2 to achieve Monocular Depth Estimation. Leveraged specialized TPUs and custom-built data loaders to accelerate the process of training and to rank in the top 20.\n\n- Performed over 300h of data analysis, data preprocessing (cleaning, transformation, reduction), graphical representation, and statistical analysis\n\n- Created a \u201cBest Practices\u201d document to guide all current and future Epoch AI Engineers to succeed in competitions. Helped create a \u201cCompetition Workflow\u201d for future competitions.\nI was responsible for the:\n- Priorities of the team\n- Code quality\n- Data quality\n- Model architecture quality",
+                    "title": "Chief AI Engineer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 3573359,
+                "name": "VEX Robotics",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQGXoZ0WNpBRtQ/company-logo_400_400/0/1578415895678?e=1703721600&v=beta&t=Yi4JZQlPW6Q1oz0S9a-YwmVqvHCT_92r-Igy5vCiSx8",
+                "url": "https://www.linkedin.com/company/vexrobotics/",
+                "employees": {
+                    "start": 201,
+                    "end": 500
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Istanbul, Turkey",
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2018
+                        }
+                    },
+                    "company": "VEX Robotics",
+                    "description": "I was fortunate enough to become the first intern of VEX Robotics Turkey after offering my enthusiasm for building robots and for learning how to code drive trains, launchers and lifts in the process.\n\n- Designed and built 4 unique types of robots. Namely, \u201cDrifting Robot\", \"IoT Recon Bot with Tank Drive\", \"Swerve Robot with a Shooting System\", and \"Advanced Claw Bot\"\n\n- Our builds were advertised by the Turkey Distributor of VEX Robotics himself in the annual summer camp at \u00d6zye\u011fin University.",
+                    "title": "Robotics Engineer",
+                    "employment_type": "Internship"
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [
+        {
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "role": "UN World Innovation Day - Ambassador of Netherlands",
+            "company": {
+                "id": null,
+                "name": "Hackmakers",
+                "logo": "https://media.licdn.com/dms/image/C560BAQE6SEpp8AjRkQ/company-logo_400_400/0/1602326478815?e=1703721600&v=beta&t=UVkUTFGf6BnY5mAIYJkOXtlnCqyEKhMrQBat0jpE1n0",
+                "url": "https://www.linkedin.com/company/hackmakers/"
+            },
+            "cause": "SCIENCE_AND_TECHNOLOGY",
+            "description": "As the ambassador of the Netherlands, I've mainly contacted universities, local companies, local community groups, and the government to form partnerships and promote UN World Innovation Day Hackathon. Formed partnerships and contacted organizations are available upon request.\n\nI reached out to fellow students who were interested in making a dent in the Blockchain, NFTs, and Tech for Good space, along with being involved in educational activities in the space for several universities including TU Delft, TU Eindhoven, and Erasmus.\n\nUN World Innovation Day Hackathon was sponsored by Google Cloud, Oracle, Filecoin, Polygon, and AI4Diversity. Participants competed under three themes: Tech for Good, Blockchain for Good, and NFTs for Good. Every project had to be in alignment with at least one of the UN Sustainable Development Goals."
+        },
+        {
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "role": "Programmer and Electrical Engineer",
+            "company": {
+                "id": null,
+                "name": "FIRST",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQE8-tYaXidBhA/company-logo_400_400/0/1688993671672?e=1703721600&v=beta&t=TfzT-K2O2TKmtR8SCA9LApvmvSqkvCCBd4rl1f6pVk0",
+                "url": "https://www.linkedin.com/company/first_2/"
+            },
+            "cause": "SCIENCE_AND_TECHNOLOGY",
+            "description": "Junior Programmer and Electrical Engineer at WonderWorks Robotics: Team 6388\nWinner of 2017 South Florida Regional\nWinner of 2018 Bosphorus Regional"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "role": "Co-Founder",
+            "company": {
+                "id": null,
+                "name": "Little Paws",
+                "logo": null,
+                "url": null
+            },
+            "cause": "ANIMAL_RIGHTS",
+            "description": "We raised 3000 Turkish Liras for an animal shelter in Ata\u015fehir, by organizing a fundraising concert. I worked as the drummer and one of the organizers of the event. After a second concert, we used the remaining money to buy materials to build shelters on our own. We designed the shelters using AutoDesk and built 12 shelters for donation."
+        },
+        {
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "role": "Ambassador",
+            "company": {
+                "id": null,
+                "name": "AI4Diversity",
+                "logo": "https://media.licdn.com/dms/image/C560BAQF6UBz8OytMyg/company-logo_400_400/0/1626168181338?e=1703721600&v=beta&t=Ab571JS6TLR_EgSIBl-Oc6uO9Lgby22LAN2cHEPEan4",
+                "url": "https://www.linkedin.com/company/ai4diversity/"
+            },
+            "cause": "EDUCATION",
+            "description": "We believe AI makers need to be from diverse backgrounds to provide equal opportunities to everyone. \u200bOur mission is to increase a more diverse representation and participation in AI. \u200b\n\nAI 4 Diversity (AI4D) is a nonprofit global initiative that engages and educates diverse communities about AI to benefit global society.\n\nWe are a community-driven initiative bringing empowerment, knowledge, and active collaboration via education, research, events, and blogging.\n\nWe've recently partnered up with Hackmakers!"
+        }
+    ],
+    "skills": [
+        "Community Building",
+        "Figma (Software)",
+        "MERN Stack",
+        "Product Development",
+        "Product Design",
+        "Software Product Management",
+        "Event Planning",
+        "Event Management",
+        "Marketing Strategy",
+        "Community Management",
+        "Project Management",
+        "Cross-functional Team Leadership",
+        "Community Development",
+        "Unsupervised Learning",
+        "Supervised Learning",
+        "Domain-Driven Design (DDD)",
+        "Deep Learning",
+        "Computer Vision",
+        "Data Analysis",
+        "Machine Learning"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

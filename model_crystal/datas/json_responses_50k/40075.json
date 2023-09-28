@@ -1,0 +1,359 @@
+{
+    "profile_id": "kvwinden",
+    "first_name": "Kim",
+    "last_name": "van Winden",
+    "sub_title": "Software developer @ NS",
+    "profile_picture": null,
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAAAjs1_wBjLVsaaUWZbOJMrGd3S826PQ8RqQ",
+    "object_urn": 149739516,
+    "birth_date": null,
+    "summary": "Scrum Master & Software Developer. Big fan of fancy maps, complex algorithms and interesting data. Advocate of continuous improvement, privacy and duck-debugging. Opponent of long meetings, un-typed languages and yak-shaving.",
+    "location": {
+        "country": "Netherlands",
+        "short": "Doorn, Utrecht",
+        "city": "Doorn",
+        "state": "Utrecht",
+        "default": "Doorn, Utrecht, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "Dutch",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "English",
+                "proficiency": "FULL_PROFESSIONAL"
+            }
+        ]
+    },
+    "industry": "Computer Software",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2010
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "school": {
+                "name": "Utrecht University",
+                "logo": "https://media.licdn.com/dms/image/C510BAQG6HfmPTdJKXw/company-logo_400_400/0/1519884681258?e=1703721600&v=beta&t=dip0JQLPHIafltY09rUwsjeZiPiJpmfD6vJeMHxW-84",
+                "url": "https://www.linkedin.com/school/universiteit-utrecht/"
+            },
+            "degree_name": "Master",
+            "field_of_study": "Computer Science",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2007
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2010
+                }
+            },
+            "school": {
+                "name": "Utrecht University",
+                "logo": "https://media.licdn.com/dms/image/C510BAQG6HfmPTdJKXw/company-logo_400_400/0/1519884681258?e=1703721600&v=beta&t=dip0JQLPHIafltY09rUwsjeZiPiJpmfD6vJeMHxW-84",
+                "url": "https://www.linkedin.com/school/universiteit-utrecht/"
+            },
+            "degree_name": "Bachelor",
+            "field_of_study": "Computer Science",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2001
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2007
+                }
+            },
+            "school": {
+                "name": "St. Gregorius College",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "VWO NT",
+            "field_of_study": null,
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "National Service BGT (Large-scale Topographical Map)",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "description": "The software at Vicrea forms one part of the chain that ultimately provides a complete and detailed topographical map for The Netherlands at PDOK. I've been involved in a large part of the work required to first get the data in our application at a local level, at for example a local council, and secondly, getting that data into the national system.\n\nChallenges include:\n \u2022 A large number of slightly different object types.\n \u2022 Making the object in the country connect topologically on a millimeter level.\n \u2022 Very large StUF-XML messages.\n \u2022 Communicating with a national system that is also still developing.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Kim",
+                    "last_name": "van Winden",
+                    "name": null,
+                    "headline": "Software developer @ NS"
+                }
+            ]
+        },
+        {
+            "title": "National Service WOZ (National House Tax System)",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "description": "The software at Vicrea forms one part of the chain that ultimately provides insight into all the residential house prices in The Netherlands. These house prices are first used at a municipal level for local taxes, then forwarded to the national service for national taxes. The house prices also become available to the general public at the website at wozwaardeloket.nl. \n\nThe WOZ can be seen as the spider connecting the web between all other domains in the Dutch National Base Registration system, combining information about people, land use and buildings into a single system. This information is used for valuation and ultimately taxation of property, so accuracy is key.\n\nChallenges include:\n\u2022 Combining information from the domains BRK, BRP and BAG into a single accessable system.\n\u2022 Working with double timelines for all objects, where we not only care what we think about last week today, but where we also want to know what we thought about last week last week. And we can modify all that history.\n\u2022 Dealing with sensitive data that can have major consequences when incorrect.\n\u2022 Communicating in multiple variants of the national StUF-XML standard, on multiple levels, including all that history.\n",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Kim",
+                    "last_name": "van Winden",
+                    "name": null,
+                    "headline": "Software developer @ NS"
+                }
+            ]
+        },
+        {
+            "title": "Submissions to FME Hub",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "description": "While not a main part of my job, I do keep up-to-date with the data ETL-tool FME and use it whenever a suitable task for it arises. As a developer, it's nice having a tool in your pocket that can access most forms of data, and I've become quite a fan. I've received (VAR-specific) training for FME and maintained contact with the developing company since I've started working with it.\n\nThe best about using FME is being part of the international community, in which sharing knowledge plays a vital part. I've created two custom plug-ins for this community while at Vicrea, the Stuf-Geo Vertical Messages Reader and the VertexAngleCalculator Custom Transformer. Both are available on the FME Hub and accessible to anyone using the software.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Kim",
+                    "last_name": "van Winden",
+                    "name": null,
+                    "headline": "Software developer @ NS"
+                }
+            ]
+        }
+    ],
+    "publications": [],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 214656,
+                "name": "Nederlandse Spoorwegen",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQGipryl9fjjsw/company-logo_400_400/0/1536302894598/nederlandsespoorwegen_logo?e=1703721600&v=beta&t=YtUiVqxPt3bTsnmsHfHdyNSRzd18fKnVe7jPbMX5hAc",
+                "url": "https://www.linkedin.com/company/nederlandsespoorwegen/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2023
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2023
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Nederlandse Spoorwegen",
+                    "description": null,
+                    "title": "IT Engineer Expert",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 39829,
+                "name": "Vicrea",
+                "logo": "https://media.licdn.com/dms/image/C560BAQEIVV0P93-fWQ/company-logo_400_400/0/1587634549571/vicrea_logo?e=1703721600&v=beta&t=FH6hKfwjtdWEMBHJiPEVcp1gWy3jtjC6bPfycxARLZE",
+                "url": "https://www.linkedin.com/company/vicrea/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2023
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amersfoort",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2013
+                        },
+                        "end": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2023
+                        }
+                    },
+                    "company": "Vicrea Solutions",
+                    "description": "Part of the team working on software for the Dutch Base Registration Systems. This spans many domains including the National Large-scale Topological Map and the National House Tax System. Always working on combining Geo and administrative data in the best way possible.\n\nThe majority of the job is working as a Software Developer (maintenance & new development, and functioning as Scrum Master for the team. Besides these two main jobs I am part of the Security team,  maintain contacts with Canada, Romania and the UK, and function as part-time FME Enthousiast.",
+                    "title": "Scrum Master & Software Developer",
+                    "employment_type": null
+                },
+                {
+                    "location": "Amersfoort",
+                    "date": {
+                        "start": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2012
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2012
+                        }
+                    },
+                    "company": "Vicrea Solutions",
+                    "description": "Finished a graduation project about the possibilities of 3D within the new IMGeo model, part of which forms the BGT base registration.",
+                    "title": "Trainee",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [
+        {
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "role": "Vote counter",
+            "company": {
+                "id": null,
+                "name": "City Council",
+                "logo": null,
+                "url": null
+            },
+            "cause": "POLITICS",
+            "description": "Counting votes for the national election. Democracy is one of the most important things we have in this country, and from a privacy perspective I prefer the red pencil over the black box. Joined in once, up for a repeat next time around."
+        }
+    ],
+    "skills": [
+        "Spatial Databases",
+        "Algorithms",
+        "Databases",
+        "Oracle Spatial",
+        "FME",
+        "Information Management",
+        "Spatial Analysis",
+        "SQL",
+        "Software Development",
+        "Government",
+        "Geomatics",
+        "C#",
+        ".NET",
+        "Python",
+        "Image Processing",
+        "Scrum",
+        "GIT",
+        "Scrum Master",
+        "TFS",
+        "StUF"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

@@ -1,0 +1,932 @@
+{
+    "profile_id": "victor-oliveira-b0634449",
+    "first_name": "Victor",
+    "last_name": "de Oliveira",
+    "sub_title": "Data Scientist & Data Engineer at Distrito",
+    "profile_picture": null,
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAAAox2TYBEmK4Q9gXIW6_BNiooOCq82usj3s",
+    "object_urn": 171039030,
+    "birth_date": null,
+    "summary": "I am a Data Scientist with interest in Data Engineering and Software development. \n\nAs a Scientist, I have worked with a wide array of subjects, from text processing to commodities price forecasting, always targeting to provide fruitful insights to the business areas. Complementary to data modeling, I have developed data pipelines for consistency checks and model deployment.\n\nI love complex problems where I can innovate in a multitude of ways. \n\nI believe that a work environment must be collaborative, transparent and autonomous.\n\nYou can read further about my academic and professional trajectories and projects on my github page: https://vtoliveira.github.io/",
+    "location": {
+        "country": "Netherlands",
+        "short": "Eindhoven, North Brabant",
+        "city": "Eindhoven",
+        "state": "North Brabant",
+        "default": "Eindhoven, North Brabant, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [
+        {
+            "url": "https://datascience.stackexchange.com/users/68230/victor-oliveira",
+            "title": "Victor Oliveira",
+            "description": "Q&A for Data science professionals, Machine Learning specialists, and those interested in learning more about the field",
+            "image": null
+        },
+        {
+            "url": "https://vtoliveira.github.io/",
+            "title": "Victor Oliveira",
+            "description": "Meu GitHub. Aqui voc\u00ea encontrar meu curr\u00edculo, bem como alguns dos projetos que realizei e estou realizando. Cr\u00edticas, sugest\u00f5es ou d\u00favidas podem me contactar por e-mail.",
+            "image": "https://media.licdn.com/dms/image/sync/C4E27AQHgRiTcZZd1LQ/articleshare-shrink_1280_800/0/1695611139699?e=1696446000&v=beta&t=zrq87v4S2e5k1_S1aY1-LtWWbXSDMdqe-Q0EoZcK8Jk"
+        }
+    ],
+    "languages": {
+        "primary_locale": {
+            "country": "BR",
+            "language": "pt"
+        },
+        "supported_locales": [
+            {
+                "country": "BR",
+                "language": "pt"
+            },
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "Ingl\u00eas",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "Portugu\u00eas",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ]
+    },
+    "industry": "Information Technology & Services",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "school": {
+                "name": "Universidade Federal do ABC",
+                "logo": "https://media.licdn.com/dms/image/D4D0BAQE5uoSry7ph7A/company-logo_400_400/0/1690208953839?e=1703721600&v=beta&t=p5PKlSjWiH7nZkWmBgs8a7UDbojYvRi4twtL0mqnfgI",
+                "url": "https://www.linkedin.com/school/ufabc/"
+            },
+            "degree_name": "Information Engineering",
+            "field_of_study": "Information Engineering",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "school": {
+                "name": "Universidade Federal do ABC",
+                "logo": "https://media.licdn.com/dms/image/D4D0BAQE5uoSry7ph7A/company-logo_400_400/0/1690208953839?e=1703721600&v=beta&t=p5PKlSjWiH7nZkWmBgs8a7UDbojYvRi4twtL0mqnfgI",
+                "url": "https://www.linkedin.com/school/ufabc/"
+            },
+            "degree_name": "Bachelor in Science and Tecnology",
+            "field_of_study": "Physics, Mathematics, Chemistry, Biology",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "school": {
+                "name": "Old Dominion University",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQG5Y7rGx9ZScQ/company-logo_400_400/0/1532523823768?e=1703721600&v=beta&t=eFMxIvFY2C7Mvy0lfM_9_aY51rNSkDACyF90AbZjxOY",
+                "url": "https://www.linkedin.com/school/old-dominion-university/"
+            },
+            "degree_name": "Electrical & Computer Engineering",
+            "field_of_study": "Electrical Engeering, Computer Engineering",
+            "grade": "3.32"
+        }
+    ],
+    "patents": [],
+    "awards": [
+        {
+            "title": "NextWave Data Science Competition Winner",
+            "description": "- Model architecture to solve urban mobility problem in Atlanta\n- 89% F1 Score in private dataset\n- Successfully presented complex insights to EY board of judges\n- Proved solution robustness for smart city enablement\n\nYou can see more about the whole project here: https://github.com/vtoliveira/ey-nextwave-competition",
+            "issuer": "Ernst & Young",
+            "date": {
+                "month": 5,
+                "day": null,
+                "year": 2019
+            }
+        },
+        {
+            "title": "Talentos em A\u00e7\u00e3o",
+            "description": "- Winner of the program \u201cTalentos em A\u00e7\u00e3o\u201d, a competition between groups of interns coordinated by trainees with duration of two months.\nProject Title:\n\u201cClassification of interaction of clients in social media \u2013 Product vs Brand analysis\u201d\n- This project consisted of collecting, preparing and modeling text-based data from social media with Machine Learning algorithms such as Na\u00efve Bayes and SVM.\n- This project was idealized and coordinated by Cristiano Oliveira Gon\u00e7alves. I share the credits with the group: Amanda Cavalcanti, Victor Ivo, Filipe Blaschi, Rafael Menezes and Cristiano Oliveira Gon\u00e7alves.\n- More about this project is on my github page: https://vtoliveira.github.io/projetos/produto_marca",
+            "issuer": "Ita\u00fa Unibanco",
+            "date": {
+                "month": 5,
+                "day": null,
+                "year": 2018
+            }
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Programa\u00e7\u00e3o Funcional  em Haskell",
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Universidade Federal do ABC",
+            "url": "https://github.com/vtoliveira/haskell-io/blob/master/ufabc-haskell-course/certificado_haskell_ufabc.pdf",
+            "license_number": null,
+            "display_source": "github.com",
+            "company": {
+                "id": null,
+                "name": "Universidade Federal do ABC",
+                "logo": "https://media.licdn.com/dms/image/D4D0BAQE5uoSry7ph7A/company-logo_400_400/0/1690208953839?e=1703721600&v=beta&t=p5PKlSjWiH7nZkWmBgs8a7UDbojYvRi4twtL0mqnfgI",
+                "url": null
+            }
+        },
+        {
+            "name": "Data Science Global Award Certification",
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Ernst & Young",
+            "url": "https://github.com/jcezarms/ey-nextwave-competition/tree/master/reports/certifications",
+            "license_number": null,
+            "display_source": "github.com",
+            "company": null
+        },
+        {
+            "name": "Data Scientist Project Badge - Level 1",
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "IBM",
+            "url": "https://www.youracclaim.com/badges/b937aa0b-e358-49b3-bbdf-ab25501589e0/linked_in_profile",
+            "license_number": null,
+            "display_source": "youracclaim.com",
+            "company": {
+                "id": null,
+                "name": "IBM",
+                "logo": "https://media.licdn.com/dms/image/D560BAQGiz5ecgpCtkA/company-logo_400_400/0/1688684715427?e=1703721600&v=beta&t=eAMK4ZqZ9jAX6bPbX5LjyyMurxtQnubuQSv7kNBKpjI",
+                "url": null
+            }
+        },
+        {
+            "name": " Advanced Data Science with IBM Specialization",
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Coursera",
+            "url": "https://www.coursera.org/account/accomplishments/specialization/98H6HS9TTH4U",
+            "license_number": "98H6HS9TTH4U",
+            "display_source": "coursera.org",
+            "company": {
+                "id": null,
+                "name": "Coursera",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQGexnfBxeEG-g/company-logo_400_400/0/1608039227697?e=1703721600&v=beta&t=D0JCWIFRDe_tPD5hdUkJFaYhM7LSoOyZQ1nVMg-nUzo",
+                "url": null
+            }
+        },
+        {
+            "name": "Advanced Data Science Capstone",
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Coursera",
+            "url": "https://www.youracclaim.com/badges/b8bda6bd-4673-47c1-95a6-03f6dc33285a/linked_in_profile",
+            "license_number": "5PKWU9H7FBYD",
+            "display_source": "youracclaim.com",
+            "company": {
+                "id": null,
+                "name": "Coursera",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQGexnfBxeEG-g/company-logo_400_400/0/1608039227697?e=1703721600&v=beta&t=D0JCWIFRDe_tPD5hdUkJFaYhM7LSoOyZQ1nVMg-nUzo",
+                "url": null
+            }
+        },
+        {
+            "name": "Advanced Machine Learning and Signal Processing",
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Coursera",
+            "url": "https://www.youracclaim.com/badges/424b0f0d-ee7d-4e9f-9327-66996ca36789/linked_in_profile",
+            "license_number": "G2VD6NCKMBEF",
+            "display_source": "youracclaim.com",
+            "company": {
+                "id": null,
+                "name": "Coursera",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQGexnfBxeEG-g/company-logo_400_400/0/1608039227697?e=1703721600&v=beta&t=D0JCWIFRDe_tPD5hdUkJFaYhM7LSoOyZQ1nVMg-nUzo",
+                "url": null
+            }
+        },
+        {
+            "name": "Applied AI with DeepLearning",
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Coursera",
+            "url": "https://www.coursera.org/account/accomplishments/verify/RYSJK65V945B",
+            "license_number": "RYSJK65V945B",
+            "display_source": "coursera.org",
+            "company": {
+                "id": null,
+                "name": "Coursera",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQGexnfBxeEG-g/company-logo_400_400/0/1608039227697?e=1703721600&v=beta&t=D0JCWIFRDe_tPD5hdUkJFaYhM7LSoOyZQ1nVMg-nUzo",
+                "url": null
+            }
+        },
+        {
+            "name": "Fundamentals of Scalable Data Science",
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Coursera",
+            "url": "https://www.coursera.org/account/accomplishments/verify/WMZK4JAZ63XG",
+            "license_number": "WMZK4JAZ63XG",
+            "display_source": "coursera.org",
+            "company": {
+                "id": null,
+                "name": "Coursera",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQGexnfBxeEG-g/company-logo_400_400/0/1608039227697?e=1703721600&v=beta&t=D0JCWIFRDe_tPD5hdUkJFaYhM7LSoOyZQ1nVMg-nUzo",
+                "url": null
+            }
+        }
+    ],
+    "organizations": [],
+    "projects": [],
+    "publications": [
+        {
+            "name": "Optimize Cash Collection: Using Machine Learning to Predict Invoice Payment",
+            "publisher": null,
+            "url": "https://arxiv.org/pdf/1912.10828.pdf",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2019
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Victor",
+                    "last_name": "de Oliveira",
+                    "name": null,
+                    "headline": "Data Scientist & Data Engineer at Distrito"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Ana Paula",
+                    "last_name": "Appel",
+                    "name": null,
+                    "headline": "Quantum Ambassador | Senior Data Science | Master Inventor | Innovator | Researcher!! Bringing Innovation to Clients through Quantum and Data!! Inspiring Womens!!!"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Vagner",
+                    "last_name": "Figueredo de Santana",
+                    "name": null,
+                    "headline": "Research Scientist | HCI | Data Scientist | Inventor @ IBM Research"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Bruno",
+                    "last_name": "Lima",
+                    "name": null,
+                    "headline": "Solutions Architect at Meta | Disability@ Community Pillar Leader | Machine Learning Professor"
+                }
+            ]
+        }
+    ],
+    "courses": [
+        {
+            "name": "PyTorch Scholarship Challenge Nanodegree Program",
+            "number": null
+        },
+        {
+            "name": "Red Hat System Administration ",
+            "number": "RH124"
+        }
+    ],
+    "test_scores": [
+        {
+            "name": "TOEFL iBT",
+            "score": "96/120",
+            "date": {
+                "month": 6,
+                "day": null,
+                "year": 2015
+            }
+        }
+    ],
+    "position_groups": [
+        {
+            "company": {
+                "id": null,
+                "name": "GoDataDriven | Now Xebia",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2023
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Eindhoven, North Brabant, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2023
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "GoDataDriven | Now Xebia",
+                    "description": null,
+                    "title": "Data Scientist",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 133748,
+                "name": "Interfood Group",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQFyhbmzGtH9Yw/company-logo_400_400/0/1638979907521?e=1703721600&v=beta&t=-2sedxK_U3OHYion9-a0dNueIWNCGLcE61N3B3so7Aw",
+                "url": "https://www.linkedin.com/company/interfood-group/",
+                "employees": {
+                    "start": 201,
+                    "end": 500
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2023
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2023
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Eindhoven, North Brabant, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2023
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2023
+                        }
+                    },
+                    "company": "Interfood Group",
+                    "description": "- Building an API to help traders to improve deals by getting a price benchmark.\u200b\n- Development of a streamlit app for traders to assess new deals based on calculations.\u200b\n- Data ingestion and preprocessing for all components involved in establishing price benchmark.\u200b",
+                    "title": "Data Engineer (via Xebia)",
+                    "employment_type": "Full-time"
+                },
+                {
+                    "location": "Eindhoven, North Brabant, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2023
+                        },
+                        "end": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2023
+                        }
+                    },
+                    "company": "Interfood Group",
+                    "description": "- Development of a statistical model to estimate maximum credit risk exposure for Interfood\u2019s daily operations in dairy markets. The project went from ideation to go-live in 3 months.\u200b\n - Implemented end-to-end application that serves risk predictions real-time.",
+                    "title": "Data Scientist (via Xebia)",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 9195616,
+                "name": "Distrito",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQEbN21UPreYOQ/company-logo_400_400/0/1657108154145?e=1703721600&v=beta&t=sRYyRcjPnyRVsGD3W5P0k_7hQjpoJDiYPkgLemo_aPo",
+                "url": "https://www.linkedin.com/company/distrito.me/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2023
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "S\u00e3o Paulo, Brazil",
+                    "date": {
+                        "start": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2023
+                        }
+                    },
+                    "company": "Distrito",
+                    "description": "- Tech Lead: Leader of a small team where we address all issues related to Data Engineer and Data Science in the company.\u200b\n\n- Machine Learning: Developed two models to be used as features in Distrito\u2019s data product. A scoring rank that orders startups by its maturity and a similarity model that will recommend startups that are related in their business and solutions. \u200b\n\n- Data Engineer: Set up of an Airflow instance on AWS to orchestrate and automate a series of jobs for data preprocessing. Data Modelling to supply data for business analysts to create dashboard and doing analytics.",
+                    "title": "Data Scientist",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 2163762,
+                "name": "Ra\u00edzen",
+                "logo": "https://media.licdn.com/dms/image/D4D0BAQEBqVUId6P1FQ/company-logo_400_400/0/1688569619710?e=1703721600&v=beta&t=2fM5pdo5fgn5j0fuQiXYMlpU8CUfDEmAXM_YKV3YUfc",
+                "url": "https://www.linkedin.com/company/raizenoficial/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2020
+                        },
+                        "end": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "Ra\u00edzen",
+                    "description": "- Development of a machine learning framework for algorithmic trading on sugar markets, i.e., predicting price movements for sugar commodities. Framework consisted of an ensemble of models to predict market as well as policy models to recommend when a trader should buy, sell or be neutral in their daily operations. \n- Deployment of solution in production using Airflow, MlFlow and Streamlit. Also, I contributed creating ETL pipelines using Airflow for an initial version of a Feature Store.\u200b",
+                    "title": "Senior Data Scientist",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 2678,
+                "name": "Cargill",
+                "logo": "https://media.licdn.com/dms/image/C560BAQEerHzsP6gtVw/company-logo_400_400/0/1568991363595?e=1703721600&v=beta&t=xYBkQUu2oGnbjh9ATYREy9JC85YXJx404PRpF_0SyQw",
+                "url": "https://www.linkedin.com/company/cargill/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "S\u00e3o Paulo",
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2020
+                        }
+                    },
+                    "company": "Cargill",
+                    "description": "- Data wrangling, exploration and visualization to understand customer behavior for demand forecasting project. Exploration of hierarchical time series models for forecasting purposes.\n- ETL development using Airflow to gather, process, analyze and serve data for pricing tools.",
+                    "title": "Data Scientist",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1009,
+                "name": "IBM",
+                "logo": "https://media.licdn.com/dms/image/D560BAQGiz5ecgpCtkA/company-logo_400_400/0/1688684715427?e=1703721600&v=beta&t=eAMK4ZqZ9jAX6bPbX5LjyyMurxtQnubuQSv7kNBKpjI",
+                "url": "https://www.linkedin.com/company/ibm/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Sao Paulo",
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "IBM",
+                    "description": "- Late invoice payment prediction to optimize invoice cash collection.\n - Working with data visualization, data cleaning, data transformation and the modeling, training of algorithms and evaluation process.\n- Created a risk based metric in order to rank potential customers with higher risk of default.\n- Badge issued by IBM for the project: Data Science Profile Level 1.",
+                    "title": "Data Science Intern",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 444116,
+                "name": "Universidade Federal do ABC - UFABC",
+                "logo": "https://media.licdn.com/dms/image/D4D0BAQE5uoSry7ph7A/company-logo_400_400/0/1690208953839?e=1703721600&v=beta&t=p5PKlSjWiH7nZkWmBgs8a7UDbojYvRi4twtL0mqnfgI",
+                "url": "https://www.linkedin.com/school/ufabc/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Santo Andre",
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "Universidade Federal do ABC",
+                    "description": "- Project: Convolutional Neural Networks for text classification: an application in disaster management using social media data.\n- Investigation of state of the art techniques in Deep Learning applied to NLP tasks to build a classification algorithm capable of finding relevant tweets to help during disaster management events.",
+                    "title": "Undergraduate Research",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 315013,
+                "name": "Ita\u00fa Unibanco",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQF0oFqXe32T9Q/company-logo_400_400/0/1688397493918?e=1703721600&v=beta&t=njocEHcTlaom3liMim40AsQdABn_hkH-_2cwiQtSZrY",
+                "url": "https://www.linkedin.com/company/itauchile/",
+                "employees": {
+                    "start": 5001,
+                    "end": 10000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "S\u00e3o Paulo Area, Brazil",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2017
+                        },
+                        "end": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2018
+                        }
+                    },
+                    "company": "Ita\u00fa Chile",
+                    "description": "- Helped to support Hadoop's users managing with the team the cluster infrastructure. Worked with Hive, Sqoop, Impala, and also developed Linux experience as a system administrator.\n\n- Implemented a series of scripts in Python to automate processes inside the department.\n\n- Implemented a text classifier for social network analysis using several machine learning models, being involved from data gathering and cleaning to model training and validation. This was developed concurrently in a special program for interns inside Itau.",
+                    "title": "Big Data Intern",
+                    "employment_type": null
+                },
+                {
+                    "location": "S\u00e3o Paulo Area, Brazil",
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2017
+                        }
+                    },
+                    "company": "Ita\u00fa Chile",
+                    "description": "- Participation in Kaizen Projects aiming for continual improvement through mapping processes to identify gaps in the workflow done by the analysts.\n\n- Business analytics reports about quality of service.",
+                    "title": "Process Management Intern",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 8578,
+                "name": "California State University, Fullerton",
+                "logo": "https://media.licdn.com/dms/image/D560BAQGHIsjKHv0dtw/company-logo_400_400/0/1691085345338?e=1703721600&v=beta&t=BgayczYaZTO55vGU0Khrjj00C6n0hTK7cedEDUbJxDM",
+                "url": "https://www.linkedin.com/school/california-state-university-fullerton/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Fullerton",
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2016
+                        }
+                    },
+                    "company": "California State University, Fullerton",
+                    "description": "- This project consisted of establishing a successful serial communication programmed in Python between the user and a robotic arm using NeuroSky Mindwave Headset, where the user is able to make the arm grab an object by only using the headset\u2019s biosensors.\n\n - Work done in group with other students from Science without Borders during the summer of 2016.",
+                    "title": "Academic Research",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 444116,
+                "name": "Universidade Federal do ABC - UFABC",
+                "logo": "https://media.licdn.com/dms/image/D4D0BAQE5uoSry7ph7A/company-logo_400_400/0/1690208953839?e=1703721600&v=beta&t=p5PKlSjWiH7nZkWmBgs8a7UDbojYvRi4twtL0mqnfgI",
+                "url": "https://www.linkedin.com/school/ufabc/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Santo Andre",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2013
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2014
+                        }
+                    },
+                    "company": "Universidade Federal do ABC",
+                    "description": "- Helped Professors and Students in basic calculus courses.",
+                    "title": "Professor Assistant",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Microsoft Azure",
+        "FastAPI",
+        "dbt",
+        "Microsoft Azure Machine Learning",
+        "Azure Databricks",
+        "Streamlit",
+        "Risk Modeling",
+        "Python",
+        "SQL",
+        "Linux",
+        "Hadoop",
+        "Capacidade anal\u00edtica",
+        "Gest\u00e3o de processos",
+        "Metodologia Kaizen",
+        "Microsoft Excel",
+        "Machine Learning",
+        "Deep Learning",
+        "PyTorch",
+        "Text Mining",
+        "An\u00e1lise de dados"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

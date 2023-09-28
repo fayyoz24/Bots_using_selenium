@@ -1,0 +1,600 @@
+{
+    "profile_id": "sonu-malpani-36b68a4a",
+    "first_name": "Sonu",
+    "last_name": "Malpani",
+    "sub_title": "Staff Software Engineer at ChargePoint | Ex - PayPal, Samsung",
+    "profile_picture": "https://media.licdn.com/dms/image/C4D03AQHyCVnWnlllkg/profile-displayphoto-shrink_800_800/0/1656679499294?e=1701302400&v=beta&t=OkX1-YNS2qsMPK0ZFHr6kP-MmGSk6fgmFfxiIovytow",
+    "background_image": "https://media.licdn.com/dms/image/C4E16AQFXzHiC9FFIYg/profile-displaybackgroundimage-shrink_200_800/0/1521916465097?e=1701302400&v=beta&t=YwszQ27dIi-UdJUbl2BUUI4LU5CayYZNSxMu9AXxrMY",
+    "profile_type": "personal",
+    "entity_urn": "ACoAAApsNYMBBnMasQNbgWBOkxKZcg9DSfCqb0Q",
+    "object_urn": 174863747,
+    "birth_date": null,
+    "summary": null,
+    "location": {
+        "country": null,
+        "short": "Netherlands",
+        "city": null,
+        "state": null,
+        "default": "Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "English",
+                "proficiency": null
+            },
+            {
+                "name": "Hindi",
+                "proficiency": null
+            }
+        ]
+    },
+    "industry": "Internet",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2009
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "school": {
+                "name": "The LNM institute of information and technology",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "Bachelor of Technology (B.Tech.)",
+            "field_of_study": "Computer Science",
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [
+        {
+            "name": "ASP .NET from Hewlett-Packard Education Services",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Hewlett-Packard Education Services",
+            "url": null,
+            "license_number": null,
+            "display_source": null,
+            "company": null
+        }
+    ],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "LNMIIT Hostel Management System",
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "description": "Creating an automated system for management of Student hostels that involved the functions of hostel admissions, room allotment and automated complaint management. The software was made using JAVA and PHP. ",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Sonu",
+                    "last_name": "Malpani",
+                    "name": null,
+                    "headline": "Staff Software Engineer at ChargePoint | Ex - PayPal, Samsung"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Piyush",
+                    "last_name": "J.",
+                    "name": null,
+                    "headline": "Senior DevOps Engineer @ Autodesk | 2x AWS, Azure, Terraform Certified, Certified Business Analyst, and Scrum master | Master's in Software Engineering from NUS"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Sweta",
+                    "last_name": "Shah",
+                    "name": null,
+                    "headline": "Graphic Designer/ Illustrator"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Mohammed Tauseef",
+                    "headline": null
+                }
+            ]
+        },
+        {
+            "title": "Utility Manager for Linux",
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2011
+                }
+            },
+            "description": "Utility Manager is designed for Linux platform. It consists of a Task Manager and a trouble shooter. The Task Manager shows the details about the system and all the processes currently running on that system. The required data was fetched from the /proc directory. The problem sometimes user face while dealing with USB devices is when they try to remove it safely from the system it shows an error which says that the device is busy, but user is not able to detect the process in which the device is engaged. Utility Manager provides a solution for this problem. It search for the process in which the device is engaged and prompt user to kill the process if user wants to remove the device immediately.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Sonu",
+                    "last_name": "Malpani",
+                    "name": null,
+                    "headline": "Staff Software Engineer at ChargePoint | Ex - PayPal, Samsung"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Ankur",
+                    "last_name": "K.",
+                    "name": null,
+                    "headline": "Software Engineer proficient in Python, Test Automation, Networking and QA"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Misha",
+                    "last_name": "M.",
+                    "name": null,
+                    "headline": "Security Engineer at Google"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Pratick",
+                    "last_name": "Chokhani",
+                    "name": null,
+                    "headline": "Software Engineer at Google"
+                }
+            ]
+        },
+        {
+            "title": "Work for Workers",
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2010
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2010
+                }
+            },
+            "description": "The system was developed with an objective to provide a work to worker. Solution devised focused on the workers of unorganized sector that includes mason, carpenters, gardener, painter etc. Work to Worker is a Web-based solution through which worker (s) register themselves for a specific skill. Using this system general public or organized sector user can select the worker(s) as per their need.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Sonu",
+                    "last_name": "Malpani",
+                    "name": null,
+                    "headline": "Staff Software Engineer at ChargePoint | Ex - PayPal, Samsung"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Ankur",
+                    "last_name": "K.",
+                    "name": null,
+                    "headline": "Software Engineer proficient in Python, Test Automation, Networking and QA"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Misha",
+                    "last_name": "M.",
+                    "name": null,
+                    "headline": "Security Engineer at Google"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Pratick",
+                    "last_name": "Chokhani",
+                    "name": null,
+                    "headline": "Software Engineer at Google"
+                }
+            ]
+        }
+    ],
+    "publications": [],
+    "courses": [
+        {
+            "name": "Algorithms",
+            "number": null
+        },
+        {
+            "name": "Computer Networks",
+            "number": null
+        },
+        {
+            "name": "Computer Programming",
+            "number": null
+        },
+        {
+            "name": "Computer Systems Organization",
+            "number": null
+        },
+        {
+            "name": "Data Mining",
+            "number": null
+        },
+        {
+            "name": "Data Structures",
+            "number": null
+        },
+        {
+            "name": "Database Systems",
+            "number": null
+        },
+        {
+            "name": "Operating Systems",
+            "number": null
+        },
+        {
+            "name": "Principles of Programming Languages",
+            "number": null
+        },
+        {
+            "name": "Real Time System",
+            "number": null
+        },
+        {
+            "name": "Software Engineering",
+            "number": null
+        }
+    ],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 439853,
+                "name": "ChargePoint",
+                "logo": "https://media.licdn.com/dms/image/C560BAQFSoFbNcX7Eiw/company-logo_400_400/0/1521240732832?e=1703721600&v=beta&t=te-CO4VuTe0EVM3DYXxBLW59vr5xzuu7itbrXNlh0jg",
+                "url": "https://www.linkedin.com/company/chargepoint/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amsterdam, North Holland, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "ChargePoint",
+                    "description": null,
+                    "title": "Staff Software Engineer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1482,
+                "name": "PayPal",
+                "logo": "https://media.licdn.com/dms/image/D560BAQHQ0d54HKxK3A/company-logo_400_400/0/1692661378272/paypal_logo?e=1703721600&v=beta&t=-iB9KGzD5_M_57hYRuu5Qwsayo_du8cJVNn0AZ1v73w",
+                "url": "https://www.linkedin.com/company/paypal/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Bengaluru, Karnataka, India",
+                    "date": {
+                        "start": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2020
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "PayPal",
+                    "description": null,
+                    "title": "Senior Software Engineer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1512,
+                "name": "Target",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQGUjozudTh0yg/company-logo_400_400/0/1519856213195?e=1703721600&v=beta&t=u4t_toalnUTFQao595UySI_oL4tNsT-H8bjLBRHZ6IY",
+                "url": "https://www.linkedin.com/company/target/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Bengaluru, Karnataka, India",
+                    "date": {
+                        "start": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2020
+                        }
+                    },
+                    "company": "Target",
+                    "description": null,
+                    "title": "Senior Software Engineer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 497017,
+                "name": "Morgan Stanley",
+                "logo": "https://media.licdn.com/dms/image/C560BAQFtDpMvYgbIwA/company-logo_400_400/0/1677778127603/morgan_stanley_logo?e=1703721600&v=beta&t=46yX2kOOEkZo302e7NiF_U-Nq6sgRUMv_BVEKSTrQ4k",
+                "url": "https://www.linkedin.com/company/morgan-stanley/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Bengaluru, Karnataka, India",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "Morgan Stanley",
+                    "description": null,
+                    "title": "Senior Software Engineer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 17766,
+                "name": "Metacube Software Pvt Ltd",
+                "logo": "https://media.licdn.com/dms/image/C510BAQEb5QUE4PRboQ/company-logo_400_400/0/1577705513428/metacube_logo?e=1703721600&v=beta&t=DKFdQ27YnJDHNgIzgamt7gA_Kvx1QpyWKpwb513SXFY",
+                "url": "https://www.linkedin.com/company/metacube/",
+                "employees": {
+                    "start": 501,
+                    "end": 1000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Jaipur Area, India",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2018
+                        }
+                    },
+                    "company": "Metacube Software Pvt Ltd",
+                    "description": null,
+                    "title": "Senior Software Engineer",
+                    "employment_type": null
+                },
+                {
+                    "location": "Jaipur Area, India",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2016
+                        }
+                    },
+                    "company": "Metacube Software Pvt Ltd",
+                    "description": null,
+                    "title": "Software Engineer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1753,
+                "name": "Samsung Electronics",
+                "logo": "https://media.licdn.com/dms/image/C560BAQFsvADfvcJi_A/company-logo_400_400/0/1676336400130/samsung_electronics_logo?e=1703721600&v=beta&t=C-BQrg1NO0wX_a_27hz_oh4xiNXl1ITMCiLzirc4s8o",
+                "url": "https://www.linkedin.com/company/samsung-electronics/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Noida Area, India",
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2013
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2015
+                        }
+                    },
+                    "company": "Samsung Electronics",
+                    "description": null,
+                    "title": "Software Developer",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Core Java",
+        "Data Structures",
+        "Programming",
+        "Project Management",
+        "Software Development",
+        "Algorithms",
+        "Design Patterns",
+        "C",
+        "My SQL",
+        "Java",
+        "Spring Framework",
+        "Spring Boot",
+        "Hibernate",
+        "PostgreSQL",
+        "RESTful WebServices",
+        "Public Speaking",
+        "Customer Service",
+        "Leadership",
+        "ElasticSearch",
+        "J2EE Web Services"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

@@ -1,0 +1,721 @@
+{
+    "profile_id": "andrempacsantiago",
+    "first_name": "Andr\u00e9",
+    "last_name": "Santiago",
+    "sub_title": "Game, Server & Tools Developer",
+    "profile_picture": "https://media.licdn.com/dms/image/C5603AQHDyrs8kOlbhQ/profile-displayphoto-shrink_800_800/0/1560021091297?e=1701302400&v=beta&t=L4XbJwsAEkvXMvspe06NRONpyKLY4QYiPdGnHBkJdGE",
+    "background_image": "https://media.licdn.com/dms/image/C4E16AQEzpApY_xt3Xg/profile-displaybackgroundimage-shrink_350_1400/0/1516887730102?e=1701302400&v=beta&t=ZeaN-Al0bf9Dto4kVroLwNwvwph4xFFYUVL7MOJd50w",
+    "profile_type": "personal",
+    "entity_urn": "ACoAABGrbnQB-VzoTNLf670IInYAyPkAw3rrBrc",
+    "object_urn": 296447604,
+    "birth_date": null,
+    "summary": "If programming is your passion and you can't go a single day without trying to learn something new, then feel free to contact and connect with me! We'll surely get along fine :)",
+    "location": {
+        "country": "Netherlands",
+        "short": "Hilversum, North Holland",
+        "city": "Hilversum",
+        "state": "North Holland",
+        "default": "Hilversum, North Holland, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "BR",
+            "language": "pt"
+        },
+        "supported_locales": [
+            {
+                "country": "BR",
+                "language": "pt"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "English",
+                "proficiency": "FULL_PROFESSIONAL"
+            },
+            {
+                "name": "French",
+                "proficiency": "LIMITED_WORKING"
+            },
+            {
+                "name": "Portuguese",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "Spanish",
+                "proficiency": "LIMITED_WORKING"
+            }
+        ]
+    },
+    "industry": "Computer Games",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "school": {
+                "name": "Universidade do Minho",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQE-rnsTh-ulCw/company-logo_400_400/0/1519856240230?e=1703721600&v=beta&t=JaT9bGhTenbKQPjGE2HnbmIpDVKOisSergnmqDDgGL0",
+                "url": "https://www.linkedin.com/school/universidade-do-minho/"
+            },
+            "degree_name": "Master\u2019s Degree",
+            "field_of_study": "Bioinformatics",
+            "grade": "18/20"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2010
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "school": {
+                "name": "Universidade de Coimbra",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQHjF28nljwBkA/company-logo_400_400/0/1561452713474/universidade_de_coimbra_logo?e=1703721600&v=beta&t=VNbuiabY-lx05qZSuwk8gfQbJMZrWsqawkO1rspLIyc",
+                "url": "https://www.linkedin.com/school/universidade-de-coimbra/"
+            },
+            "degree_name": "Bachelor's degree",
+            "field_of_study": "Biochemistry",
+            "grade": "14/20"
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "RUSHAWAY",
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "description": "RUSHAWAY is a fast-paced physics-based platformer developed in Unity C#, offering a novel speed-running-based level exploration mechanic and a highly rewarding skill-based gameplay loop.\n\nLead developer, responsible for the design and development of physics and gameplay features (player movement, hazards, etc).\n",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Andr\u00e9",
+                    "last_name": "Santiago",
+                    "name": null,
+                    "headline": "Game, Server & Tools Developer"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Marco",
+                    "last_name": "Santos",
+                    "name": null,
+                    "headline": "Multimedia Designer"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Hugo",
+                    "last_name": "Lobo",
+                    "name": null,
+                    "headline": "Creative Nomad, Problem Solver, Quick Learner | Code | Multimedia"
+                }
+            ]
+        },
+        {
+            "title": "Comp2ROC",
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "description": "An R package developed for comparing intersecting ROC curves.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Andr\u00e9",
+                    "last_name": "Santiago",
+                    "name": null,
+                    "headline": "Game, Server & Tools Developer"
+                }
+            ]
+        },
+        {
+            "title": "Caregiver",
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "description": "Volunteered as a caregiver for senior individuals. Responsibilities included in-home health care, financial custodianship, and general house management.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Andr\u00e9",
+                    "last_name": "Santiago",
+                    "name": null,
+                    "headline": "Game, Server & Tools Developer"
+                }
+            ]
+        }
+    ],
+    "publications": [
+        {
+            "name": "A Sequence-Based Mesh Classifier for the Prediction of Protein-Protein Interactions",
+            "publisher": "arXiv",
+            "url": "https://arxiv.org/abs/1711.04294",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2017
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Andr\u00e9",
+                    "last_name": "Santiago",
+                    "name": null,
+                    "headline": "Game, Server & Tools Developer"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Edgar Duarte",
+                    "last_name": "Coelho",
+                    "name": null,
+                    "headline": "Lead Data Scientist"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Igor N. Cruz",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Jos\u00e9 Lu\u00eds Oliveira",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Ant\u00f3nio Dourado",
+                    "headline": null
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Joel P.",
+                    "last_name": "Arrais",
+                    "name": null,
+                    "headline": "Researcher at University of Coimbra"
+                }
+            ]
+        },
+        {
+            "name": "Mixed-Integer Programming Model for Profiling Disease Biomarkers from Gene Expression Studies",
+            "publisher": "Springer, Cham",
+            "url": "https://link.springer.com/chapter/10.1007/978-3-319-56154-7_6",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2017
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Andr\u00e9",
+                    "last_name": "Santiago",
+                    "name": null,
+                    "headline": "Game, Server & Tools Developer"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Miguel",
+                    "last_name": "Rocha",
+                    "name": null,
+                    "headline": "Associate Professor at University of Minho; Advisory Board Member at SIlicoLife; CSO at OmniumAI - Biomedical Data Sciences; Chairman of the Board of BioData.pt association"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Ant\u00f3nio Dourado",
+                    "headline": null
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Joel P.",
+                    "last_name": "Arrais",
+                    "name": null,
+                    "headline": "Researcher at University of Coimbra"
+                }
+            ]
+        },
+        {
+            "name": "Mixed-Integer Programming Model for the Discovery of Disease Biomarkers Profiles",
+            "publisher": "RecPad 2016",
+            "url": "http://recpad2016.web.ua.pt/",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2016
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Andr\u00e9",
+                    "last_name": "Santiago",
+                    "name": null,
+                    "headline": "Game, Server & Tools Developer"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Joel P.",
+                    "last_name": "Arrais",
+                    "name": null,
+                    "headline": "Researcher at University of Coimbra"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Miguel",
+                    "last_name": "Rocha",
+                    "name": null,
+                    "headline": "Associate Professor at University of Minho; Advisory Board Member at SIlicoLife; CSO at OmniumAI - Biomedical Data Sciences; Chairman of the Board of BioData.pt association"
+                }
+            ]
+        },
+        {
+            "name": "Computational methodology for predicting the landscape of the human\u2013microbial interactome region level influence",
+            "publisher": "World Scientific",
+            "url": "http://dx.doi.org/10.1142/S0219720015500237",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2015
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Andr\u00e9",
+                    "last_name": "Santiago",
+                    "name": null,
+                    "headline": "Game, Server & Tools Developer"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Edgar Coelho",
+                    "headline": null
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Joel P.",
+                    "last_name": "Arrais",
+                    "name": null,
+                    "headline": "Researcher at University of Coimbra"
+                }
+            ]
+        }
+    ],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 10479897,
+                "name": "CoolGames",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQHqdeMzTP5Fxg/company-logo_400_400/0/1519867128203?e=1703721600&v=beta&t=c3z37NMxL-mcZ1xF2yvbZWb-o5xDeVcNX5ZRhD7kc4k",
+                "url": "https://www.linkedin.com/company/coolgames/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amsterdam, North Holland, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "CoolGames",
+                    "description": null,
+                    "title": "Lead Backend Developer",
+                    "employment_type": "Full-time"
+                },
+                {
+                    "location": "Amsterdam, North Holland, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "CoolGames",
+                    "description": null,
+                    "title": "Back End Developer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Ninestudios",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Ninestudios",
+                    "description": null,
+                    "title": "Lead Developer",
+                    "employment_type": "Part-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 364412,
+                "name": "Grendel Games",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQFRy0Hf7av_dw/company-logo_400_400/0/1519867341762?e=1703721600&v=beta&t=8LAECWHN3j85G03ThBilbmKH2e3aBvtZGknbjqbQrzI",
+                "url": "https://www.linkedin.com/company/grendel-games/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Leeuwarden, Friesland, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "Grendel Games",
+                    "description": "Design and development of medical-related games (UI, gameplay, networking, systems). Infrastructure, operations and backend services management and development.",
+                    "title": "Game Developer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 80044268,
+                "name": "Mindera",
+                "logo": "https://media.licdn.com/dms/image/D4D0BAQFwMcpbp2mT9w/company-logo_400_400/0/1664874544225/mindera_world_logo?e=1703721600&v=beta&t=6hPv7EtT_bjeLAkg_r1XRmvd9HNhnz14ZjsRVgxMAKQ",
+                "url": "https://www.linkedin.com/company/mindera-world/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Portugal",
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2020
+                        },
+                        "end": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2021
+                        }
+                    },
+                    "company": "Mindera",
+                    "description": "Technical Lead & Backend Developer @ Mindera Gaming. Responsible for backend development, technical design and development of engaging and entertaining betting games, and extensible and performant game development tools and frameworks. Also responsible for managing and integrating team members.",
+                    "title": "Back End Developer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 2985026,
+                "name": "Jumia Porto Tech Center",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQETTlowqw_RsA/company-logo_400_400/0/1670404284923/porto_tech_center_logo?e=1703721600&v=beta&t=ec1QQxmwTjGjbNkaRvq-Nr8qw6pad9M0k7WoJdA5R2c",
+                "url": "https://www.linkedin.com/company/porto-tech-center/",
+                "employees": {
+                    "start": 201,
+                    "end": 500
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Porto, Portugal",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2020
+                        }
+                    },
+                    "company": "Jumia Porto Tech Center",
+                    "description": "Back-end web development for the Jumia Food service. Responsibilities included improving and extending existing finance management microservices and implementing clients' feature requests on all general back-end services.",
+                    "title": "Web Engineer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 10064,
+                "name": "Universidade do Minho",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQE-rnsTh-ulCw/company-logo_400_400/0/1519856240230?e=1703721600&v=beta&t=JaT9bGhTenbKQPjGE2HnbmIpDVKOisSergnmqDDgGL0",
+                "url": "https://www.linkedin.com/school/universidade-do-minho/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Braga, Portugal",
+                    "date": {
+                        "start": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2017
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2017
+                        }
+                    },
+                    "company": "Universidade do Minho",
+                    "description": "Designed and developed a set of extensions in Java for the @Note platform capable of performing data extraction from -omics databases.",
+                    "title": "Research Fellow",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 3147,
+                "name": "Carnegie Mellon University",
+                "logo": "https://media.licdn.com/dms/image/C560BAQH0rMqWuDcNzA/company-logo_400_400/0/1656670432353/carnegie_mellon_university_logo?e=1703721600&v=beta&t=Pw1QX1JZJ8XAUg5A_sd_aS3eW_yC6172F1Vi8leT1QI",
+                "url": "https://www.linkedin.com/school/carnegie-mellon-university/",
+                "employees": {
+                    "start": 5001,
+                    "end": 10000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Pittsburgh, PA, USA",
+                    "date": {
+                        "start": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2017
+                        }
+                    },
+                    "company": "Carnegie Mellon University",
+                    "description": "Developed an extension in Java for TimePath, a tool used for time-based modeling of biological systems, extending pathway signaling reconstruction with phosphoproteomics data.",
+                    "title": "Student Intern",
+                    "employment_type": "Full-time"
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Presentation Skills",
+        "Game Design",
+        "User Interface Design",
+        "Graphical User Interface (GUI)",
+        "Game Mechanics",
+        "Game Development",
+        "Social Games",
+        "Spoken English",
+        "English",
+        "Debuggers",
+        "Version Control",
+        "Object-Oriented Programming (OOP)",
+        "Redis",
+        "Client-server Application Development",
+        ".NET Framework",
+        "Nakama",
+        "PostgreSQL",
+        "Amazon Web Services (AWS)",
+        "TypeScript",
+        "Maven"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

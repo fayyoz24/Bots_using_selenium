@@ -1,0 +1,551 @@
+{
+    "profile_id": "django-heimgartner",
+    "first_name": "\ud83d\udcbe Django",
+    "last_name": "Heimgartner",
+    "sub_title": "Full-stack software developer | Python, JavaScript",
+    "profile_picture": "https://media.licdn.com/dms/image/C4D03AQEHytml2wJ2ow/profile-displayphoto-shrink_800_800/0/1600380010026?e=1701302400&v=beta&t=a9VbVMk5maQBNxWfwb9QCb3Yi57kgk7biNRBK0Sxu3M",
+    "background_image": "https://media.licdn.com/dms/image/C4D16AQFXZ_R6FEGMEg/profile-displaybackgroundimage-shrink_350_1400/0/1612338304611?e=1701302400&v=beta&t=6EQXrUld2Vbbl63CFe_Qv4K82XDcsLARz6qJ-wnAkJo",
+    "profile_type": "personal",
+    "entity_urn": "ACoAABLbwm0BqHc48KA9TTHHfkGt-iH-9SI2aOw",
+    "object_urn": 316392045,
+    "birth_date": null,
+    "summary": "Hello World! I\u2019m a Fullstack developer with a focus on Python.\n\nPrevious writer of \"Soccersystems\" a B2B webapp that allows one of the biggest soccer teams located in Amsterdam (Ajax) to order their squad-numbers. Alumnus from Code Institute and currently a programmer at Alteza.",
+    "location": {
+        "country": "Netherlands",
+        "short": "Maarssen, Utrecht",
+        "city": "Maarssen",
+        "state": "Utrecht",
+        "default": "Maarssen, Utrecht, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [
+        {
+            "url": "https://github.com/D1ang",
+            "title": "GitHub",
+            "description": "Full-Stack software developer. Django has 14 repositories available. Follow their code on GitHub.",
+            "image": "https://media.licdn.com/dms/image/sync/C4E27AQGMRDiE9rt7-g/articleshare-shrink_800/0/1695194441467?e=1696438800&v=beta&t=xYHEy8MJS57x9NIrs2Q0LqYcta7QL3Z8EsHvYfiXpX8"
+        }
+    ],
+    "languages": {
+        "primary_locale": {
+            "country": "NL",
+            "language": "nl"
+        },
+        "supported_locales": [
+            {
+                "country": "NL",
+                "language": "nl"
+            },
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "Dutch",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "English",
+                "proficiency": "PROFESSIONAL_WORKING"
+            },
+            {
+                "name": "Japanese",
+                "proficiency": "ELEMENTARY"
+            }
+        ]
+    },
+    "industry": "Computer Software",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "school": {
+                "name": "Code Institute",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQH85wN8cwUKsQ/company-logo_400_400/0/1688459249571?e=1703721600&v=beta&t=Txhk_fJ4TXK4ogyJo8EBXBgy4pwDm-ZjV04CvLsNpac",
+                "url": "https://www.linkedin.com/school/code-institute/"
+            },
+            "degree_name": "Diploma in Software Development",
+            "field_of_study": "Full Stack Web Development",
+            "grade": "First Class Honours"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2007
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2009
+                }
+            },
+            "school": {
+                "name": "LOI",
+                "logo": "https://media.licdn.com/dms/image/C510BAQHJNuXcAPGMxw/company-logo_400_400/0/1519856017316?e=1703721600&v=beta&t=BmP4OCBlWAto_i1IoGNH1StoSazF0Rz6PNChz81kd2I",
+                "url": "https://www.linkedin.com/school/loi/"
+            },
+            "degree_name": null,
+            "field_of_study": "Communication & Multimedia design",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 1999
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2002
+                }
+            },
+            "school": {
+                "name": "ROC van Amsterdam",
+                "logo": "https://media.licdn.com/dms/image/C560BAQF7vWdh4UTwEQ/company-logo_400_400/0/1519880656038?e=1703721600&v=beta&t=WgmmCX29QX_-0LvYUUHV3CTZOoRzUm010_0qXdtZm-M",
+                "url": "https://www.linkedin.com/school/roc-van-amsterdam-flevoland/"
+            },
+            "degree_name": "Small / medium-sized company manager",
+            "field_of_study": "Secondary vocational education",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 1995
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 1999
+                }
+            },
+            "school": {
+                "name": "Kalsbeek College (St CVO Woerden)",
+                "logo": "https://media.licdn.com/dms/image/C510BAQEXZ0QI9vmuXQ/company-logo_400_400/0/1519865804987?e=1703721600&v=beta&t=W9HhEbO7FCeUBn0yhp1PoqJ1tNEu2MjOK_DvcJkPK_w",
+                "url": "https://www.linkedin.com/school/kalsbeekcollege/"
+            },
+            "degree_name": "Consumer Engineering",
+            "field_of_study": "Preparatory secondary vocational education",
+            "grade": "C"
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [
+        {
+            "name": "Professional Scrum Master\u2122 I (PSM I)",
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Scrum.org",
+            "url": "https://www.credly.com/badges/4c59e95d-3596-41d4-a3fa-60da3d48bf8c?source=linked_in_profile",
+            "license_number": null,
+            "display_source": "credly.com",
+            "company": {
+                "id": null,
+                "name": "Scrum.org",
+                "logo": "https://media.licdn.com/dms/image/C560BAQFzF6WZjNSHkQ/company-logo_400_400/0/1522074989702?e=1703721600&v=beta&t=-PRmXQFIlx8U4JWR-3B1NpWfKbSbQ6Zx6ONjdC6UVQs",
+                "url": null
+            }
+        },
+        {
+            "name": "Google Cloud Essentials",
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Google Cloud Skills Boost",
+            "url": "https://www.cloudskillsboost.google/public_profiles/cc871471-92f1-4297-8a3d-dc486c1fba4f/badges/1608538?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share",
+            "license_number": "1608538",
+            "display_source": "cloudskillsboost.google",
+            "company": null
+        },
+        {
+            "name": "Diploma in Software Development",
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Code Institute",
+            "url": "https://www.credential.net/e551a473-cf9d-43b1-a8de-678aee1d1f02",
+            "license_number": "22724774",
+            "display_source": "credential.net",
+            "company": {
+                "id": null,
+                "name": "Code Institute",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQH85wN8cwUKsQ/company-logo_400_400/0/1688459249571?e=1703721600&v=beta&t=Txhk_fJ4TXK4ogyJo8EBXBgy4pwDm-ZjV04CvLsNpac",
+                "url": null
+            }
+        },
+        {
+            "name": "FileMaker Advanced Training",
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "FMTraining",
+            "url": "https://imgur.com/KPyjajZ",
+            "license_number": null,
+            "display_source": "imgur.com",
+            "company": {
+                "id": null,
+                "name": "FMTraining",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQFp_aFXE8CVsw/company-logo_400_400/0/1519891173836?e=1703721600&v=beta&t=cdk8RIIk8mygvHwkL0Fnt-Yb1PSPNPmHueArQm6Zzus",
+                "url": null
+            }
+        }
+    ],
+    "organizations": [],
+    "projects": [],
+    "publications": [],
+    "courses": [
+        {
+            "name": "FileMaker Advanced Training",
+            "number": null
+        }
+    ],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 2466193,
+                "name": "Alteza B.V.",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQEUuI-g0qbJbg/company-logo_400_400/0/1519951674107?e=1703721600&v=beta&t=qCXXPU9cZiuMa6tjqxWhqUpSpbxcT1P8GFl_kSUIfVc",
+                "url": "https://www.linkedin.com/company/alteza/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Veenendaal, Utrecht, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Alteza B.V.",
+                    "description": null,
+                    "title": "Full-stack Developer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 166529,
+                "name": "Delft University of Technology",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQFwaGpwaod9mQ/company-logo_400_400/0/1670699851986?e=1703721600&v=beta&t=Aw4oLxoKsIJcblYDjxw9200FClnyhZu8DxzcfJRDFOs",
+                "url": "https://www.linkedin.com/school/tudelft/",
+                "employees": {
+                    "start": 5001,
+                    "end": 10000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Delft, South Holland, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Delft University of Technology",
+                    "description": null,
+                    "title": "Python Developer",
+                    "employment_type": "Contract"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 313670,
+                "name": "Quality Contacts",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQFmfBQy5OaiUQ/company-logo_400_400/0/1519870874302?e=1703721600&v=beta&t=f3gdioD0FaOt2Gocjo88GjqeLbwnJZcuk8XHhlUxMKE",
+                "url": "https://www.linkedin.com/company/quality-contacts/",
+                "employees": {
+                    "start": 201,
+                    "end": 500
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Zwolle, Overijssel, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "Quality Contacts",
+                    "description": "- Introduced co-workers to the benefits of using & working with GIT on GitHub\n- Writing interfaces & scripts for inbound & outbound Call projects like: Delta, Sanquin, Frion & NPO",
+                    "title": "Frontend Developer",
+                    "employment_type": "Contract"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 69604583,
+                "name": "IBS Graphics",
+                "logo": "https://media.licdn.com/dms/image/C560BAQHYKZwtrfEndA/company-logo_400_400/0/1604660903081?e=1703721600&v=beta&t=ytaV7tfYAr4nxTWOB-7G_h_hNl95KphbuwmO3jhURAU",
+                "url": "https://www.linkedin.com/company/ibs-graphics/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2005
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Mijdrecht",
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2021
+                        }
+                    },
+                    "company": "IBS Graphics",
+                    "description": "- Deployed a specialised ordersystem in Django for one of our customers\n- Rebuilding old FileMaker MIS/ERP system in Python/Django to improve integration in the future\n- Evaluated and merged 2 departments to improve communication and efficiency\n- Reintegrated colleagues in newly created and better positions (Like: social platforms, marketing)\n- Re-evaluation of the existing product range to be more eco-friendly",
+                    "title": "Company manager",
+                    "employment_type": "Full-time"
+                },
+                {
+                    "location": "Mijdrecht, Utrecht, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2007
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2018
+                        }
+                    },
+                    "company": "IBS Graphics",
+                    "description": "- Digital editing & preparing of artwork for silkscreen production\n- Accelerate business operations by 20% by building a MIS/ERP system in FileMaker\n- Construction & management of internal network systems\n- Maintenance, upgrading of hardware & software (windows based)\n- Improve marketing by building a company website\n- Customer support by telephone & email",
+                    "title": "Studio employee",
+                    "employment_type": "Full-time"
+                },
+                {
+                    "location": "Mijdrecht",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2005
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2007
+                        }
+                    },
+                    "company": "IBS Graphics",
+                    "description": "- Developing and cleaning of silkscreens\n- Increased production by organizing the supply of silkscreens",
+                    "title": "Silkscreen developer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 2318649,
+                "name": "Randstad (employment agency)",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQHPoVVvmgWn-g/company-logo_400_400/0/1653391701462?e=1703721600&v=beta&t=rMu44uHs0_QIkUT5HmWTpG8dgNnJKSxr3Q3ySOyiIos",
+                "url": "https://www.linkedin.com/company/randstad-nederland/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2003
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2004
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Mijdrecht",
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "day": null,
+                            "year": 2003
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": 2004
+                        }
+                    },
+                    "company": "Randstad Nederland",
+                    "description": "2003 - Alrec\n2003 - Mitsubishi Electric Europe Benelux\n2004 - SC Johson\n2004 - Alpla Netherlands B.V.\n2004 - IBS Graphics",
+                    "title": "Production employee ( temporary worker)",
+                    "employment_type": "Contract"
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Oracle Database",
+        "Leadership",
+        "Business Development",
+        "Web Development",
+        "Scrum",
+        "jQuery",
+        "Microsoft SQL Server",
+        "GitHub",
+        "DevOps",
+        "Celery",
+        "Redis",
+        "SAML 2.0",
+        "Full-Stack Development",
+        "Windows Server",
+        "Premiere Pro",
+        "Software Development",
+        "Graphic Design",
+        "Adobe Creative Suite",
+        "Python (Programming Language)",
+        "JavaScript"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

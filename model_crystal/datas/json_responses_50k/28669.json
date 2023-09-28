@@ -1,0 +1,608 @@
+{
+    "profile_id": "tulio-angeiras",
+    "first_name": "Tulio",
+    "last_name": "Angeiras",
+    "sub_title": "Embedded SW Engineer",
+    "profile_picture": "https://media.licdn.com/dms/image/C4D03AQGJIPTCONkn1A/profile-displayphoto-shrink_800_800/0/1516927201567?e=1701302400&v=beta&t=xm2cqkIwS-rEhonwBZA-dGNsDl0GS-0Y6kZHnIEE82E",
+    "background_image": "https://media.licdn.com/dms/image/C4D16AQHOI2QPsDW9pw/profile-displaybackgroundimage-shrink_350_1400/0/1516927202207?e=1701302400&v=beta&t=aey1fOhmWmwsFILCn7vryT0RR4dv-yhvXBefMLByPJc",
+    "profile_type": "personal",
+    "entity_urn": "ACoAAARxtFsBOPZJKl1Bv8erbeTBIoTSgq0nuU0",
+    "object_urn": 74560603,
+    "birth_date": null,
+    "summary": null,
+    "location": {
+        "country": "Netherlands",
+        "short": "Eindhoven, North Brabant",
+        "city": "Eindhoven",
+        "state": "North Brabant",
+        "default": "Eindhoven, North Brabant, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "BR",
+            "language": "pt"
+        },
+        "supported_locales": [
+            {
+                "country": "BR",
+                "language": "pt"
+            },
+            {
+                "country": "US",
+                "language": "en"
+            },
+            {
+                "country": "NL",
+                "language": "nl"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "Dutch",
+                "proficiency": "ELEMENTARY"
+            },
+            {
+                "name": "Ingl\u00eas",
+                "proficiency": "FULL_PROFESSIONAL"
+            },
+            {
+                "name": "Portugu\u00eas",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ]
+    },
+    "industry": "Semiconductors",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "school": {
+                "name": "Instituto Tecnol\u00f3gico de Aeron\u00e1utica - ITA",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQFCUZQ0yBrV_w/company-logo_400_400/0/1519901998295?e=1703721600&v=beta&t=c8ls7Z9LO2Oej1XWeQWIUGvgJ8vEjoR22IqbNVmw1-w",
+                "url": "https://www.linkedin.com/school/institutotecnologicodeaeronautica/"
+            },
+            "degree_name": "Master's degree",
+            "field_of_study": "Aeronautics Engineering, Aircraft Design",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2008
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "school": {
+                "name": "Universidade Estadual de Campinas",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQGkepCvZp_oww/company-logo_400_400/0/1519892290621?e=1703721600&v=beta&t=vMAL_imD7c0itryzK8E1y_03dfnRFeZiTfoLpoG9OUI",
+                "url": "https://www.linkedin.com/school/universidade-estadual-de-campinas/"
+            },
+            "degree_name": "Bachelor of Science (B.S.)",
+            "field_of_study": "Computer Engineering, Industrial Systems and Processes",
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [
+        {
+            "title": "CREA-SP Award for Professional Education",
+            "description": "First place among students graduated in 2012.",
+            "issuer": "Conselho Regional de Engenharia e Agronomia do Estado de SP",
+            "date": {
+                "month": 2,
+                "day": null,
+                "year": 2013
+            }
+        },
+        {
+            "title": "Graduated with distinction",
+            "description": null,
+            "issuer": "Instituto de Computa\u00e7\u00e3o da Universidade Estadual de Campinas",
+            "date": {
+                "month": 2,
+                "day": null,
+                "year": 2013
+            }
+        },
+        {
+            "title": "Instituto de Engenharia Award",
+            "description": "Best student graduated in 2012.",
+            "issuer": "Instituto de Engenharia",
+            "date": {
+                "month": 2,
+                "day": null,
+                "year": 2013
+            }
+        },
+        {
+            "title": "Gold Medallist",
+            "description": "Awarded gold medal in Brazilian Physics Olympics in 2007.",
+            "issuer": "Sociedade Brasileira de F\u00edsica",
+            "date": {
+                "month": 12,
+                "day": null,
+                "year": 2007
+            }
+        },
+        {
+            "title": "Silver medallist",
+            "description": "Awarded silver medal in Brazilian Physics Olympics in 2006.",
+            "issuer": "Sociedade Brasileira de F\u00edsica",
+            "date": {
+                "month": 12,
+                "day": null,
+                "year": 2006
+            }
+        },
+        {
+            "title": "Bronze Medallist",
+            "description": "Awarded bronze medal in Brazilian Physics Olympics in 2005.",
+            "issuer": "Sociedade Brasileira de F\u00edsica",
+            "date": {
+                "month": 12,
+                "day": null,
+                "year": 2005
+            }
+        }
+    ],
+    "certifications": [],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "PEE 21 completion project",
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "description": "To conclude the Engineering Specialization Program at Embraer, the class is divided in 2 teams of 30 engineers, that must design the early phases of a aircraft's project. To PEE 21, it was proposed the development of a high performance business jet, meeting very specific performance and financial requirements.\n\nDuring the development of this exercise, I was assigned to develop and size the aircraft's Flight Control System and perform the required Stability and Control analysis. Besides these tasks, I participated on the development of Flight Mechanics, Performance and Aerodynamics tools for preliminary sizing of the aircraft, which were also used in the Multidisciplinary Optimization flow that indicated the main characteristics of the Virtus' aircraft.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Tulio",
+                    "last_name": "Angeiras",
+                    "name": null,
+                    "headline": "Embedded SW Engineer"
+                }
+            ]
+        },
+        {
+            "title": "Freescale Cup",
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "description": "Line following robot competition (using Freescale microcontroller).",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Tulio",
+                    "last_name": "Angeiras",
+                    "name": null,
+                    "headline": "Embedded SW Engineer"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Pedro",
+                    "last_name": "T.",
+                    "name": null,
+                    "headline": "Staff Machine Learning Scientist at Intercom"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Marcelo Galv\u00e3o P\u00f3voa",
+                    "headline": null
+                }
+            ]
+        },
+        {
+            "title": "SafeLeon",
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2011
+                }
+            },
+            "description": "Software (embedded Linux) and hardware (VHDL) modifications to the SPARC Leon system in order to create a secure computing system.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Tulio",
+                    "last_name": "Angeiras",
+                    "name": null,
+                    "headline": "Embedded SW Engineer"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Pedro",
+                    "last_name": "T.",
+                    "name": null,
+                    "headline": "Staff Machine Learning Scientist at Intercom"
+                }
+            ]
+        },
+        {
+            "title": "Hardware Portal 2D",
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2010
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2010
+                }
+            },
+            "description": "VHDL implementation on a FPGA of a 2D platform game, based on the concept of Valve's Portal game.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Tulio",
+                    "last_name": "Angeiras",
+                    "name": null,
+                    "headline": "Embedded SW Engineer"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Pedro",
+                    "last_name": "T.",
+                    "name": null,
+                    "headline": "Staff Machine Learning Scientist at Intercom"
+                }
+            ]
+        }
+    ],
+    "publications": [
+        {
+            "name": "A semi-empirical methodology for balanced field length estimation of jet-engined aircraft in early design phases",
+            "publisher": "5th CEAS Air & Space conference",
+            "url": null,
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2015
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Tulio",
+                    "last_name": "Angeiras",
+                    "name": null,
+                    "headline": "Embedded SW Engineer"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Tarik",
+                    "last_name": "Orra",
+                    "name": null,
+                    "headline": "Aircraft Conceptual Design Engineer"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Adson",
+                    "last_name": "Agrico",
+                    "name": null,
+                    "headline": "Adjunct Professor, Departament of Aircraft Design , Instituto Tecnol\u00f3gico de Aeron\u00e1utica (ITA)"
+                }
+            ]
+        }
+    ],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 3894,
+                "name": "ASML",
+                "logo": "https://media.licdn.com/dms/image/C560BAQGssQfw50QsaQ/company-logo_400_400/0/1519855871260?e=1703721600&v=beta&t=Dy9d-y1YEURWKW9gwgee0M1kiJhHIn_5C8HeOomdIr8",
+                "url": "https://www.linkedin.com/company/asml/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Eindhoven Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "ASML",
+                    "description": "Wafer Stage and Wafer Table Cleaning SW team - NXE and EXE programs",
+                    "title": "Embedded SW Design Engineer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 5165624,
+                "name": "MCA Engineering Nederland",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQGrCo7s9ZZBCg/company-logo_400_400/0/1664869260300?e=1703721600&v=beta&t=G5VVau_kqTQazWgNqZDhkessgHyJP_Wp72BKVAX4tV8",
+                "url": "https://www.linkedin.com/company/mca-nederland/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Eindhoven Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "MCA Nederland",
+                    "description": "Allocated as Embedded SW Design Engineer at ASML",
+                    "title": "Technical Consultant",
+                    "employment_type": "Contract"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 4211,
+                "name": "Embraer",
+                "logo": "https://media.licdn.com/dms/image/C510BAQFxHGWL83TwOQ/company-logo_400_400/0/1519855881255?e=1703721600&v=beta&t=67t_YpdMW2npQWR4EW_uIcLRMdxQxOxHE1Zpzes-jyU",
+                "url": "https://www.linkedin.com/company/embraer/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "S\u00e3o Jos\u00e9 dos Campos Area, Brazil",
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2014
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2018
+                        }
+                    },
+                    "company": "Embraer",
+                    "description": "Flight Control Laws, Sensor Consolidation and Software Integration Team - KC-390 Program\n- Automatic Flight Control System: control laws specification and design, simulation and testing,\n- Sensors data processing: Logic design for robustness and safety and system failures detection and effect evaluation,\n- System Integration: design, verification and rig testing of multi-system integration logic,\n- Aircraft and systems modelling and simulation,\n- Support to Systems Flight Test campaign.",
+                    "title": "Product Development Engineer",
+                    "employment_type": "Full-time"
+                },
+                {
+                    "location": "S\u00e3o Jos\u00e9 dos Campos e Regi\u00e3o, Brasil",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2013
+                        },
+                        "end": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2014
+                        }
+                    },
+                    "company": "Embraer",
+                    "description": "Engineering Specialization Program, Emphasis in Hydromechanics and Electronics Systems",
+                    "title": "PEE 21",
+                    "employment_type": "Apprenticeship"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 2309297,
+                "name": "Kryptus Solu\u00e7\u00f5es em Seguran\u00e7a da Informa\u00e7\u00e3o",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQFrGPyg79N_9Q/company-logo_400_400/0/1525888504689?e=1703721600&v=beta&t=JOYpZxCV5b72RoBT9vlMpVPAZePn5E55BnKJyqzLmHk",
+                "url": "https://www.linkedin.com/company/kryptus/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Campinas e Regi\u00e3o, Brasil",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2012
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2012
+                        }
+                    },
+                    "company": "Kryptus Information Security SA (EED)",
+                    "description": "Development of Digital Hardware in VHDL, with FPGA prototyping.",
+                    "title": "Intern",
+                    "employment_type": "Internship"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 986104,
+                "name": "Universidade Estadual de Campinas",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQGkepCvZp_oww/company-logo_400_400/0/1519892290621?e=1703721600&v=beta&t=vMAL_imD7c0itryzK8E1y_03dfnRFeZiTfoLpoG9OUI",
+                "url": "https://www.linkedin.com/school/universidade-estadual-de-campinas/",
+                "employees": {
+                    "start": 5001,
+                    "end": 10000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2009
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2010
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Campinas e Regi\u00e3o, Brasil",
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2009
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2010
+                        }
+                    },
+                    "company": "Universidade Estadual de Campinas",
+                    "description": "PAD - Didactic support program. Chairs:\n\n2s2009: MC102 - Algorithms and Computer Programming, Prof. H\u00e9lio Pedrini, PhD\n\n1s2010: F 329 - Experimental Physics III, Prof. Fl\u00e1vio Cruz, PhD\n\n2s2010: MC404 - Basic Computer Organization and Assembly Language, Prof. Ricardo Pannain, PhD",
+                    "title": "Teaching Assistant",
+                    "employment_type": "Part-time"
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Flight Mechanics",
+        "C (linguagem de programa\u00e7\u00e3o)",
+        "Software Development",
+        "Programming",
+        "Embedded Systems",
+        "System Architecture",
+        "C",
+        "VHDL",
+        "Linux",
+        "Computer Science",
+        "Embedded Software",
+        "Programa\u00e7\u00e3o de computadores",
+        "Algoritmo",
+        "Desenvolvimento de software",
+        "English",
+        "Algorithms",
+        "Matlab",
+        "Simulink",
+        "Autopilot",
+        "Flight Control Systems"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

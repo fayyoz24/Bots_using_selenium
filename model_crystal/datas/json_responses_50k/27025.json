@@ -1,0 +1,631 @@
+{
+    "profile_id": "skhudyakov",
+    "first_name": "Sergey",
+    "last_name": "Khudyakov",
+    "sub_title": "Senior Data Engineer at Booking.com",
+    "profile_picture": "https://media.licdn.com/dms/image/C4D03AQFNLj8Xap8XvQ/profile-displayphoto-shrink_800_800/0/1547974333594?e=1701302400&v=beta&t=HHXcQwfdb30Uup5O6Z3E93GokyC6jhAI-sFCHu99-w4",
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAAAnpM_cBNWUn2qKt3_bzwYwIORo3rYR4UKc",
+    "object_urn": 166278135,
+    "birth_date": null,
+    "summary": "Software engineer with 10+ years of experience in building applications of different kinds from standalone and web applications to high-loaded distributed systems, mostly using JVM ecosystem. Quick learner. Polyglot programmer. Currently, into Big Data and data-intensive applications. \n\nGithub: https://github.com/sergeyh\nStack Overflow: https://stackoverflow.com/users/2271325/sergey-khudyakov?tab=profile\n\nLanguages: Java, Scala, Python, SQL, JavaScript, Ruby\nDatabases: RDBMS (PostgreSQL, MySQL, Redis, Kafka, DynamoDB, HBase, MongoDB, Elasticsearch\nBig Data: Hadoop, Hive, Apache Spark, Apache Beam, Airflow, Luigi, Clickhouse, Druid, GCP (PubSub, Dataflow, BigQuery), AWS (Serverless, S3, Kinesis, Athena)\nMachine Learning: Spark ML, scikit-learn, H2O\nPlatforms: Linux, OSX, AWS, Google Cloud, Docker, Kubernetes\nCaches: Redis, Hazelcast, Oracle Coherence, Infinispan\nBuild: Gradle, Maven, Ant, Jenkins CI, Teamcity\nIDE/Tools: Intellij IDEA, YourKit, VisualVM, jstack, nagios, AppDynamics, New Relic, Grafana",
+    "location": {
+        "country": "Netherlands",
+        "short": "Amsterdam, North Holland",
+        "city": "Amsterdam",
+        "state": "North Holland",
+        "default": "Amsterdam, North Holland, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "English",
+                "proficiency": null
+            },
+            {
+                "name": "Russian",
+                "proficiency": null
+            }
+        ]
+    },
+    "industry": "Computer Software",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2009
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "school": {
+                "name": "National Research Nuclear University MEPhI (Moscow Engineering Physics Institute)",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQGcmwJrDX3Xeg/company-logo_400_400/0/1638366425026?e=1703721600&v=beta&t=aFscV6BL_cQZ_UQww8mGo_JnXBrK-zpC2f5mmXNWkYU",
+                "url": "https://www.linkedin.com/school/%D0%BD%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-%D0%B8%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9-%D1%8F%D0%B4%D0%B5%D1%80%D0%BD%D1%8B%D0%B9-%D1%83%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82-%D0%BC%D0%B8%D1%84%D0%B8-/"
+            },
+            "degree_name": "Specialist",
+            "field_of_study": "Electrical and Electronics Engineering",
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [
+        {
+            "name": "Functional Program Design in Scala",
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Coursera",
+            "url": "https://www.coursera.org/account/accomplishments/records/D7PGEAC5RVAA",
+            "license_number": null,
+            "display_source": "coursera.org",
+            "company": {
+                "id": null,
+                "name": "Coursera",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQGexnfBxeEG-g/company-logo_400_400/0/1608039227697?e=1703721600&v=beta&t=D0JCWIFRDe_tPD5hdUkJFaYhM7LSoOyZQ1nVMg-nUzo",
+                "url": null
+            }
+        },
+        {
+            "name": "Programming Reactive Systems",
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "edX",
+            "url": "https://courses.edx.org/certificates/7232eb65415744c5b9385d14bcdb6df6",
+            "license_number": null,
+            "display_source": "edx.org",
+            "company": {
+                "id": null,
+                "name": "edX",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQFG13a41008Dg/company-logo_400_400/0/1688142646058?e=1703721600&v=beta&t=xLsEYK_-is_JC1E-k7wOA7ibIweJHpl9ya3GIEMHp2M",
+                "url": null
+            }
+        },
+        {
+            "name": "Machine Learning",
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Coursera",
+            "url": "https://www.coursera.org/account/accomplishments/verify/BVWETX7NG8ZD",
+            "license_number": "BVWETX7NG8ZD",
+            "display_source": "coursera.org",
+            "company": {
+                "id": null,
+                "name": "Coursera",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQGexnfBxeEG-g/company-logo_400_400/0/1608039227697?e=1703721600&v=beta&t=D0JCWIFRDe_tPD5hdUkJFaYhM7LSoOyZQ1nVMg-nUzo",
+                "url": null
+            }
+        },
+        {
+            "name": "Principles of Reactive Programming",
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Coursera",
+            "url": null,
+            "license_number": null,
+            "display_source": null,
+            "company": {
+                "id": null,
+                "name": "Coursera",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQGexnfBxeEG-g/company-logo_400_400/0/1608039227697?e=1703721600&v=beta&t=D0JCWIFRDe_tPD5hdUkJFaYhM7LSoOyZQ1nVMg-nUzo",
+                "url": null
+            }
+        }
+    ],
+    "organizations": [],
+    "projects": [],
+    "publications": [],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 11348,
+                "name": "Booking.com",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQEgzF5azm3fNA/company-logo_400_400/0/1628510256914?e=1703721600&v=beta&t=5eXz-OHEqUF-i5NTayhj4ycN9m2VUeV-Jyzwe5WhR9g",
+                "url": "https://www.linkedin.com/company/booking.com/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Booking.com",
+                    "description": null,
+                    "title": "Senior Data Engineer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 162479,
+                "name": "Apple",
+                "logo": "https://media.licdn.com/dms/image/C560BAQHdAaarsO-eyA/company-logo_400_400/0/1595530301220?e=1703721600&v=beta&t=RbyciKcaX1I_QObyQkryPmAnyhZZLzzLl1efkxIbdWA",
+                "url": "https://www.linkedin.com/company/apple/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "Apple",
+                    "description": "Data Engineering",
+                    "title": "Staff Software Engineer (via Grid Dynamics)",
+                    "employment_type": "Contract"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 9899,
+                "name": "Azul",
+                "logo": "https://media.licdn.com/dms/image/C560BAQFuSvObH7px_A/company-logo_400_400/0/1652982281729?e=1703721600&v=beta&t=p2-hXUkfZp4v1sn3Tot0tZc64Ka8yF6SqzKWwBL125A",
+                "url": "https://www.linkedin.com/company/azul-systems/",
+                "employees": {
+                    "start": 201,
+                    "end": 500
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "Azul",
+                    "description": "Building a cloud platform for JVM analytics\nTechnologies: Java, Python, AWS, Lambda, Kinesis, DynamoDB, Elasticsearch, PostgreSQL, Redis",
+                    "title": "Senior Software Engineer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1054432,
+                "name": "Tango Me",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQGeqJtFICIdHg/company-logo_400_400/0/1658411533224?e=1703721600&v=beta&t=tLdPgxzVI4OFIytJRkGbNNC1HciCK0Z0RRLufEEKJcs",
+                "url": "https://www.linkedin.com/company/tango-me/",
+                "employees": {
+                    "start": 201,
+                    "end": 500
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2020
+                        }
+                    },
+                    "company": "Tango",
+                    "description": "Building infrastructure for high-loaded live streaming service.\n- Improving performance and reliability of dozens of core microservices: database tuning, cache policies, architecture and inter-service communication refactoring, monitoring, etc\n- Integrated back-end services with Google AI machine learning models\n- Maintaining BI system. Improving data collection pipeline to reduce chances of possible data loss. Building pre-aggregation tables to reduce latency of business critical dashboards.\n\nTechnologies: Java, Python, MySQL, MongoDB, Redis, Kafka, Elasticsearch, Debezium, GCP, Apache Beam, BigQuery, NewRelic, Elastic APM",
+                    "title": "Senior Software Engineer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 582024,
+                "name": "Integral Ad Science (via Grid Dynamics)",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQEktr14KiLIYw/company-logo_400_400/0/1686659199289?e=1703721600&v=beta&t=Zadz7K_Pq6-RrKEbQA4J7pcfoFYYPFRVDYo41Q5vDbw",
+                "url": "https://www.linkedin.com/company/integralads/",
+                "employees": {
+                    "start": 501,
+                    "end": 1000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2017
+                        },
+                        "end": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "Integral Ad Science",
+                    "description": "Building a data science and machine learning platform for Ad Fraud detection\n- Helping data scientists to transform their pipelines from POCs to a production-ready state\n- Performance tuning of Spark/Hive jobs, data storage optimization\n- Building new ML and data pipelines operating with large amounts of data (>8TB daily) using Spark, Spark ML and Hive\n- Created one of the anti-fraud ML models - from researching existing datasets to deploying final model to production\n\nTechnologies:\u200b Scala, Python, Java, Apache Spark, Hive, Hadoop, Elasticsearch, CDH, Apache Airflow, Gradle",
+                    "title": "Lead Software Engineer, Tech Lead",
+                    "employment_type": "Contract"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1441,
+                "name": "Google (via Grid Dynamics)",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQHiNSL4Or29cg/company-logo_400_400/0/1519856215226?e=1703721600&v=beta&t=45pPRW58DELKQ71b8pS1RIvn6yxBngEZqmTF1VwyxzQ",
+                "url": "https://www.linkedin.com/company/google/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "San Francisco Bay Area",
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2017
+                        },
+                        "end": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2017
+                        }
+                    },
+                    "company": "Google",
+                    "description": "Designed the architecture and implemented the back-end of an internal management tool for Google Cloud OCTO.\n\nTechnologies: Java, Google Cloud (AppEngine, CloudSQL, IAM), Bazel, Guice, gRPC, MySQL",
+                    "title": "Software Engineer",
+                    "employment_type": "Contract"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 250774,
+                "name": "Grid Dynamics",
+                "logo": "https://media.licdn.com/dms/image/D560BAQGUMfclOQwN-Q/company-logo_400_400/0/1685759520452?e=1703721600&v=beta&t=Is-qc1lNGxmstXxqVZHdRGk1xRjSBMFMswW4ZT6fIzU",
+                "url": "https://www.linkedin.com/company/grid-dynamics/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "San Francisco Bay Area",
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2017
+                        }
+                    },
+                    "company": "Grid Dynamics",
+                    "description": "Working in a performance engineering team (development and architecture) at a large US beauty retailer. Analyzing the performance and scalability of existing applications, including GC tuning, troubleshooting memory leaks and overall memory consumption, revising cache policies, etc.\n\nTechnologies: Java, Java tools (jvisualvm, jstack, jmap, jstat), Memory Analyzer (MAT), Oracle Coherence, Unix, AppDynamics",
+                    "title": "Senior Software Engineer",
+                    "employment_type": null
+                },
+                {
+                    "location": "Saint Petersburg, Russian Federation",
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2013
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2016
+                        }
+                    },
+                    "company": "Grid Dynamics",
+                    "description": "Financial services company:\n- Implemented a Java REST service with a flexible API for performing an analysis of historical financial data. The data was loaded from multiple data sources and transformed into analytical functions in a lazy/reactive way implemented using Google Guava. \n\nE-commerce web application for a large US grocery retailer:\n- Full stack development\n- Migrated front-end code from jQuery-based monolith to AngularJS, which improved overall UI performance, code maintainability and helped the team to deliver new features faster\n- Pre-production performance tuning for back-end and front-end. Investigated hybris ORM internals and possible performance optimizations\nTechnologies: Java, Spring Core/MVC/Security/Integration, JavaScript, AngularJS, Solr",
+                    "title": "Software Engineer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1133505,
+                "name": "Lognex Ltd (moysklad.ru)",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQHYiwIFXvJ0sA/company-logo_400_400/0/1564996887946?e=1703721600&v=beta&t=S6dudf64F5VgpnP1mVMSuBV2rimyyA2fd7qEHiwb3XA",
+                "url": "https://www.linkedin.com/company/lognex-ltd/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2011
+                        },
+                        "end": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2013
+                        }
+                    },
+                    "company": "MoySklad (LogneX)",
+                    "description": "Full-stack development for one of the leading SaaS services for business and inventory management in Russia. Implemented various integrations with third-party services, e.g. e-commerce platforms, payment systems, accounting software. Introduced integration testing for the billing module, one of the most critical parts of the system.\n\nTechnologies: Java, JavaEE, GWT, Hibernate, JBoss, Arquillian, PostgreSQL",
+                    "title": "Software Engineer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "KeySoft",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2009
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2011
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2009
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2011
+                        }
+                    },
+                    "company": "KeySoft",
+                    "description": "Full-stack development of web applications for company clients, mostly e-commerce and travel businesses. Integrated some of them with existing back-office software. \n\nAs a member of R&D team, developed and released a small casual chess game for iOS. \n\nTechnologies: JavaScript, Ruby, Ruby on Rails, PHP, C#, Objective C",
+                    "title": "Software Engineer",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Terraform",
+        "Snowflake",
+        "Databases",
+        "Java",
+        "Scala",
+        "Big Data",
+        "Software Architecture",
+        "Distributed Systems",
+        "Amazon Web Services (AWS)",
+        "Machine Learning",
+        "Software Development",
+        "Object Oriented Design",
+        "Web Development",
+        "Cloud Computing",
+        "Scalability",
+        "Java Enterprise Edition",
+        "Hibernate",
+        "JavaScript",
+        "AJAX",
+        "Enterprise Software"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

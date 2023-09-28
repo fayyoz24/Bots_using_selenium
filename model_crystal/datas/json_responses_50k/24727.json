@@ -1,0 +1,584 @@
+{
+    "profile_id": "skaasjager",
+    "first_name": "Sander",
+    "last_name": "Kaasjager",
+    "sub_title": "Data Engineer at Zilveren Kruis",
+    "profile_picture": null,
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAABiK_PkB9arroBy7BCHIoh85qr-9Y8xcjSA",
+    "object_urn": 411761913,
+    "birth_date": null,
+    "summary": "I'm an ambitious and goal oriented engineer. I work hard, set goals for myself and go out of my way to achieve these goals. I enjoy the challenge of new problems and try to tackle and analyze them until I come up with solutions.\n\nI have extensive experience with Python and SQL, having done countless projects with it. I enjoy working with scripting languages, whether it is for personal or professional use.\n\nIn a team environment I maintain oversight on all topics. Having led several projects in my academic career, I am able to communicate well with all members and external partners, keeping everyone up to date with the latest project developments.\n\nI graduated Magna Cum Laude from the University of Texas at Dallas in 2014 with a Bachelor of Science in Mechanical Engineering. I got my Master of Science in Mechanical Engineering in 2015, also at the University of Texas at Dallas.",
+    "location": {
+        "country": "Netherlands",
+        "short": "Baarn, Utrecht",
+        "city": "Baarn",
+        "state": "Utrecht",
+        "default": "Baarn, Utrecht, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "Dutch",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "English",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "German",
+                "proficiency": "LIMITED_WORKING"
+            }
+        ]
+    },
+    "industry": "Information Technology & Services",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "school": {
+                "name": "The University of Texas at Dallas",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQEBYU4_oEvArQ/company-logo_400_400/0/1601995944632?e=1703721600&v=beta&t=BTvGg3pyrGpqQ-4f7fP0mL37eiGMZJgNbcVIDY4waOw",
+                "url": "https://www.linkedin.com/school/university-of-texas-at-dallas/"
+            },
+            "degree_name": "Master's Degree",
+            "field_of_study": "Mechanical Engineering",
+            "grade": "3.7 out of 4.0"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2009
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "school": {
+                "name": "The University of Texas at Dallas",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQEBYU4_oEvArQ/company-logo_400_400/0/1601995944632?e=1703721600&v=beta&t=BTvGg3pyrGpqQ-4f7fP0mL37eiGMZJgNbcVIDY4waOw",
+                "url": "https://www.linkedin.com/school/university-of-texas-at-dallas/"
+            },
+            "degree_name": "Bachelor's Degree",
+            "field_of_study": "Mechanical Engineering",
+            "grade": "3.8 out of 4.0 (Magna Cum Laude)"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 1997
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2004
+                }
+            },
+            "school": {
+                "name": "Willem de Zwijger",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "High School",
+            "field_of_study": "VWO Natuur & Techniek",
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [
+        {
+            "name": "VOL-VCA",
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2026
+                }
+            },
+            "authority": "VCA",
+            "url": null,
+            "license_number": null,
+            "display_source": null,
+            "company": null
+        },
+        {
+            "name": "Fundamentals of Engineering",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "NCEES",
+            "url": null,
+            "license_number": null,
+            "display_source": null,
+            "company": {
+                "id": null,
+                "name": "NCEES",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQGui_SbezV5Lg/company-logo_400_400/0/1529069101977?e=1703721600&v=beta&t=z0s5UEYgwJhpC_V8BiHLoz240mFkYJpL8oaWfm4Qtks",
+                "url": null
+            }
+        }
+    ],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "Idle Speed Control",
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "description": "Designed a linear four cylinder idle speed control model (continuous and discrete) in MATLAB and Simulink. The purpose of the system was to remain at or near a constant 800 rev/min while disturbances such as AC/headlights turning on/off were applied. This caused a drop in rpm and was solved using various control techniques such as root locus, PID, linear quadratic regulators and feedforward control. I successfully achieved the design goals by reaching zero steady state error, fast settling time, low overshoot ",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Sander",
+                    "last_name": "Kaasjager",
+                    "name": null,
+                    "headline": "Data Engineer at Zilveren Kruis"
+                }
+            ]
+        },
+        {
+            "title": "Vibration Isolation",
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "description": "As team leader I managed relations internally within our student group, our faculty, and our sponsor New York Air Brake. The company needed a way to passively damp a rigid steel box that took measurements. The damping was needed to reduce noise and to get more accurate data from the tracks and GPS. We designed an isolation system that that reduced noise and disturbances of the provided vibration profile. We used tools such as SolidWorks, MATLAB, and Adams to model and analyze our design. We met every deadline and delivered a prototype vibration system to the company. ",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Sander",
+                    "last_name": "Kaasjager",
+                    "name": null,
+                    "headline": "Data Engineer at Zilveren Kruis"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Antonio Lopez-de-Alda",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Michael Bui",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Casey Cooper",
+                    "headline": null
+                }
+            ]
+        }
+    ],
+    "publications": [],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 1403279,
+                "name": "Zilveren Kruis",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQFNQ9Kc7P8i_g/company-logo_400_400/0/1583414809548?e=1703721600&v=beta&t=0gNZLT8NgQNyyxHFdiywDalIvtaFy_G4LN53D4zVD9w",
+                "url": "https://www.linkedin.com/company/zilveren-kruis-achmea/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Apeldoorn, Gelderland, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Zilveren Kruis",
+                    "description": "\u2022\tMigrated large scale relational databases across platforms\n\u2022\tParticipated in several POC projects to gauge whether project goals could be met with emerging technologies\n\u2022\tDeveloper on a chatbot that communicated insurance and financial questions from customers\n\u2022\tDeveloper on an automated receipt scanner that aimed to decrease customer health care refund times\n\u2022\tImproved testing methodology which resulted in a substantial decrease in testing time and thus faster deployments",
+                    "title": "Senior Data Engineer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 2570042,
+                "name": "Massarius",
+                "logo": "https://media.licdn.com/dms/image/C510BAQGItCxgfp_9PQ/company-logo_400_400/0/1519862840531?e=1703721600&v=beta&t=ZVRJHYeGgrnRkhvy0y0UxD7WlwWDksaq8MFw3jUpywU",
+                "url": "https://www.linkedin.com/company/massarius/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amsterdam, The Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "Massarius",
+                    "description": "\u2022\tDesigned and built a data pipeline (in Python) that combined large data sets from various sources into custom databases for internal team and clients\n\u2022\tDesigned and built reporting dashboards for internal team and clients\n\u2022\tPerformed pricing analysis and tested various pricing strategies\n\u2022\tBuilt trackers for monitoring the advertisement network to detect trends, anomolies and send out notifications to team members\n\u2022\tImplemented new programmatic advertising technology (header bidding) that increased revenue by up to 30% for certain publishers",
+                    "title": "Business Analyst",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 107923,
+                "name": "SteelSeries",
+                "logo": "https://media.licdn.com/dms/image/C560BAQHtKAz_Vh3LKQ/company-logo_400_400/0/1653428308462?e=1703721600&v=beta&t=dF_Gp0yEsITDsF68MmVQP3u13UEsj5eGDhpW0bofSaI",
+                "url": "https://www.linkedin.com/company/steelseries/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "World ",
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2017
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2018
+                        }
+                    },
+                    "company": "SteelSeries",
+                    "description": "\u2022\tProfessional Quake Champions player sponsored by the SteelSeries brand\n\u2022\tCompeting in various tournament worldwide (best result 2nd at Quake World Championships 1v1) and promoting the SteelSeries brand by building an audience\n\u2022\tHelped develop several computer peripheral products by testing and giving thorough feedback to the engineers",
+                    "title": "Professional Video Gamer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 2637508,
+                "name": "Royal HaskoningDHV",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQEXY5RnsEADnQ/company-logo_400_400/0/1688531529168?e=1703721600&v=beta&t=wQisPVOrJTxApL33N-g2XGb-aCXNMdAkTI3RbFdmubs",
+                "url": "https://www.linkedin.com/company/royal-haskoningdhv/",
+                "employees": {
+                    "start": 5001,
+                    "end": 10000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amersfoort, Provincie Utrecht, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2016
+                        }
+                    },
+                    "company": "Royal HaskoningDHV",
+                    "description": "\u2022\tPerformed data analysis relating weather forecasts with drink water usage\n\u2022\tDesigned database structure for importing Excel laboratory spreadsheets\n\u2022\tWorked on software that increases performance and reduces energy costs of equipment used in the water treatment sector",
+                    "title": "Junior Specialist Smart Water",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 166681,
+                "name": "University of Texas at Dallas",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQEBYU4_oEvArQ/company-logo_400_400/0/1601995944632?e=1703721600&v=beta&t=BTvGg3pyrGpqQ-4f7fP0mL37eiGMZJgNbcVIDY4waOw",
+                "url": "https://www.linkedin.com/school/university-of-texas-at-dallas/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Dallas/Fort Worth Area",
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2014
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2015
+                        }
+                    },
+                    "company": "The University of Texas at Dallas",
+                    "description": "I was a teacher assistant for several CAD classes at The University of Texas at Dallas. My main functions were to instruct students and to help them with homework assignments. During the later part of the semester I helped students with their final modeling projects and managed all 3D printer work operations. \n\n\u2022\tInstructed students and assisted with technical in and out of class problems\n\u2022\tManaging supply room inventory and improved assessment of future supply such that there should never be an issue with materials being out of stock\n\u2022\tOperated 3D printer work orders and performed occasional maintenance\n\u2022\tIn charge of CAD lab and helped professors with lectures",
+                    "title": "Teacher's Assistant",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 167326,
+                "name": "Fnatic",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQHdRTK8YIDS1Q/company-logo_400_400/0/1673531595809?e=1703721600&v=beta&t=mDuDwdjSP4GaNiVG7mJ1gORwLbBWOXGdRm-juCFnJrU",
+                "url": "https://www.linkedin.com/company/fnatic/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2004
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2008
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "London, United Kingdom",
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2004
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2008
+                        }
+                    },
+                    "company": "Fnatic",
+                    "description": "FNATIC hired me to compete in the CPL World Tour 2005, where I was a favorite to do very well. Alongside competing I was promoting competitive video gaming as a profession, by giving interviews for numerous media and by doing trade shows. Today my image is still being used as promotional material. FNATIC became the fastest growing team and is currently one of the world's best known professional gaming organizations.\n\n\u2022\tParticipated in worldwide computer game competition in Europe, Asia and the Americas\n\u2022\tWorld champion and MVP in 2004 and 2005\n\u2022\tSponsored by tech companies such as NVIDIA, Intel and MSI\n\u2022\tPromoting the FNATIC brand and professional gaming by doing various TV, radio, magazine, newspaper and website interviews, and performing at trade shows.",
+                    "title": "Professional Gamer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "CompTech World",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2001
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2001
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Naarden, The Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2001
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2001
+                        }
+                    },
+                    "company": "CompTech World",
+                    "description": "Computer hardware assembly. Testing assemblies and checking systems for defects.",
+                    "title": "Computer Assembly",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Python",
+        "SQL",
+        "SAS",
+        "Data Analysis",
+        "Engineering",
+        "Mechanical Engineering",
+        "Solidity",
+        "Blockchain",
+        "PTC Creo",
+        "SolidWorks",
+        "Java",
+        "PHP",
+        "Microsoft Office",
+        "Microsoft Word",
+        "Microsoft Excel",
+        "PowerPoint",
+        "Matlab"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

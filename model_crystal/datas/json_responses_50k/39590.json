@@ -1,0 +1,805 @@
+{
+    "profile_id": "harro-vons",
+    "first_name": "Harro",
+    "last_name": "Vons",
+    "sub_title": "at Luminis",
+    "profile_picture": "https://media.licdn.com/dms/image/D4E03AQFZrsL213BxpQ/profile-displayphoto-shrink_800_800/0/1692950288810?e=1701302400&v=beta&t=GrbQFg6RY9sj3wgUxIpUyXmtzJwD9FCGMxcI7suex-8",
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAAABaOn8BG21IGR5bD1_2iNrIh-jq7WyNazw",
+    "object_urn": 5913215,
+    "birth_date": null,
+    "summary": null,
+    "location": {
+        "country": "Netherlands",
+        "short": "Apeldoorn, Gelderland",
+        "city": "Apeldoorn",
+        "state": "Gelderland",
+        "default": "Apeldoorn, Gelderland, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "Dutch",
+                "proficiency": null
+            },
+            {
+                "name": "English",
+                "proficiency": null
+            }
+        ]
+    },
+    "industry": "Information Technology & Services",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 1990
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 1996
+                }
+            },
+            "school": {
+                "name": "University of Twente",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQGlJy8j9vKdjA/company-logo_400_400/0/1533909472654?e=1703721600&v=beta&t=bKpiljO1A-RW4XDZMlQXM9J7YnPza1KG8jLvYitpPTI",
+                "url": "https://www.linkedin.com/school/university-of-twente/"
+            },
+            "degree_name": "Engineer's Degree",
+            "field_of_study": "Electrical and Electronics Engineering",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 1985
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 1990
+                }
+            },
+            "school": {
+                "name": "Corderius College Amersfoort",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "VWO",
+            "field_of_study": null,
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [
+        {
+            "name": "VWO Diploma",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": null,
+            "url": null,
+            "license_number": null,
+            "display_source": null,
+            "company": null
+        }
+    ],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "Dutch Tax Administration",
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "description": "Within the Dutch Tax Administration, the FAA team is responsible for maintenance and development of new functionality on an application for monitoring several types of tax assessment. As a designer within this team, I was initially responsible for creating specifications for modifications to the application. Later, when the team made the transition from the traditional waterfall method to Scrum, I assumed the role of Agile Coach and helped the team, the product owner and the stakeholders in making this transition.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Harro",
+                    "last_name": "Vons",
+                    "name": null,
+                    "headline": "at Luminis"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Jeroen",
+                    "last_name": "den Breejen",
+                    "name": null,
+                    "headline": "Java-ontwikkelaar bij DUO"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "IN MEMORIAM Peter",
+                    "last_name": "Kraan",
+                    "name": null,
+                    "headline": "SDET_TAEM-member bij Dutch Tax Organisation"
+                }
+            ]
+        },
+        {
+            "title": "Adding interaction with light artwork to Bicycle Buddy App",
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "description": "The Province of Gelderland owns the Bicycle Buddy App. This app was developed by Luminis to promote the use of the fast bicycle path RijnWaalPad between Arnhem and Nijmegen. This route includes a tunnel with a light artwork. Luminis adds functionality to the Bicycle Buddy App that allows cyclists to set the colour of the light artwork when they pass through the tunnel.\nFor this project, I am responsible for the project management.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Harro",
+                    "last_name": "Vons",
+                    "name": null,
+                    "headline": "at Luminis"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Peter",
+                    "last_name": "Doornbosch",
+                    "name": null,
+                    "headline": "software architect at luminis"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Mike",
+                    "last_name": "Westdijk",
+                    "name": null,
+                    "headline": "Design Lead at Luminis"
+                }
+            ]
+        },
+        {
+            "title": "PulseOn",
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "description": "PulseOn delivers a personalized learning experience in any learning organization. PulseOn adapts to the student\u2019s level of development, their effort, ambition and their unique learning style.\nThe owner of the PulseOn platform, Lopexs, continually improves the functionality and user experience for students, teachers and content creators. Within Lopexs, I make sure the development team develops the functionality that is needed by the various stakeholders. ",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Harro",
+                    "last_name": "Vons",
+                    "name": null,
+                    "headline": "at Luminis"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Ivo",
+                    "last_name": "Domburg",
+                    "name": null,
+                    "headline": "Digital product strategy and design"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Ton",
+                    "last_name": "Jansen",
+                    "name": null,
+                    "headline": "Development Manager in software driven innovations"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Erik",
+                    "last_name": "Jansen",
+                    "name": null,
+                    "headline": "Product Owner Mantel.com"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Danh",
+                    "last_name": "Nguyen",
+                    "name": null,
+                    "headline": "Frontend Developer at Zilveren Kruis"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Jago",
+                    "last_name": "de Vreede",
+                    "name": null,
+                    "headline": "Full Stack Developer at OpenValue"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Julia",
+                    "last_name": "Groothof",
+                    "name": null,
+                    "headline": "Software Tester at ParnasSys"
+                }
+            ]
+        },
+        {
+            "title": "Unity Online at Powerhouse",
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "description": "Within Powerhouse, an agile team worked on Unity Online, a portal that gives Essent's corporate customers insight in their energy related matters. Because this portal will be used by Essent's customers, a good user experience is important. \nWithin the Unity Online team, I did the interaction design and visual design of new functionality in the portal. This involved creating wireframes and visuals, discussing them with the business and assisting the rest of the team in during the realisation.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Harro",
+                    "last_name": "Vons",
+                    "name": null,
+                    "headline": "at Luminis"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Shirley",
+                    "last_name": "Klever",
+                    "name": null,
+                    "headline": "Gedreven online & marketing professional \u2726 product owner \u2726 projectmanager\u260f0614359400"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Ivo",
+                    "last_name": "Domburg",
+                    "name": null,
+                    "headline": "Digital product strategy and design"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Niels",
+                    "last_name": "Wissels",
+                    "name": null,
+                    "headline": "Change by Design! Transform organisations and inspire innovation by Design. UX strategist."
+                }
+            ]
+        },
+        {
+            "title": "SafeBridge",
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "description": "Luminis developed SafeBridge for EastBridge RFID. With SafeBridge, inspectors can perform and register inspections on various kinds of equipment. This solution consists of an app for tablets, RFID readers and a web based back office application.\nA team of professionals from Luminis designed and built SafeBridge. I did requirements management and project management.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Harro",
+                    "last_name": "Vons",
+                    "name": null,
+                    "headline": "at Luminis"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Robin",
+                    "last_name": "Rutten",
+                    "name": null,
+                    "headline": "Freelance Software Engineer"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Richard",
+                    "last_name": "van der Laan",
+                    "name": null,
+                    "headline": "Lead @ Nixxes | PlayStation Studios"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Pien",
+                    "last_name": "ten Voorde",
+                    "name": null,
+                    "headline": "Product Owner Nationale Databank Flora en Fauna"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Bram",
+                    "last_name": "B.",
+                    "name": null,
+                    "headline": "Product Manager at In The Pocket"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Tom",
+                    "last_name": "Hanekamp",
+                    "name": null,
+                    "headline": "Software Engineer at Luminis"
+                }
+            ]
+        },
+        {
+            "title": "PulseOn Windows 8 client",
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "description": "PulseOn delivers a personalized learning experience in any learning organization. PulseOn adapts to the student\u2019s level of development, their effort, ambition and their unique learning style.\nThiemeMeulenhoff has asked Luminis to develop a PulseOn App for Students that runs on Windows 8 tablets. I am responsible for the requirements management within this project. Other professionals from Luminis Arnhem do the interaction design and implementation of this product.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Harro",
+                    "last_name": "Vons",
+                    "name": null,
+                    "headline": "at Luminis"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Bart",
+                    "last_name": "Dohmen",
+                    "name": null,
+                    "headline": "Product designer"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Robin",
+                    "last_name": "Van Kaathoven",
+                    "name": null,
+                    "headline": "Digital Transformation | Minimum Loveable Products | Breaking the Cloud |  Gamification of Life"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Ton",
+                    "last_name": "Jansen",
+                    "name": null,
+                    "headline": "Development Manager in software driven innovations"
+                }
+            ]
+        },
+        {
+            "title": "Appy New Year App",
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "description": "The Appy New Year app helps teams to discuss what is important, create actionplans, and encourage to follow through.\nLuminis jointly designed and developed this app with AHO - Leadership in business. The professionals of Luminis did the interaction design and the visual design and realised an app for Android and iPhone, as well as a server with a backend. I managed this project and was responsible for requirements management.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Harro",
+                    "last_name": "Vons",
+                    "name": null,
+                    "headline": "at Luminis"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Peter",
+                    "last_name": "Doornbosch",
+                    "name": null,
+                    "headline": "software architect at luminis"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Frank",
+                    "last_name": "W.",
+                    "name": null,
+                    "headline": "Senior Java Software Engineer at JustFrankIT"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Gino",
+                    "last_name": "Biervliet",
+                    "name": null,
+                    "headline": "Android developer bij Flitsmeister B.V."
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Pien",
+                    "last_name": "ten Voorde",
+                    "name": null,
+                    "headline": "Product Owner Nationale Databank Flora en Fauna"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Barry",
+                    "last_name": "Haanstra",
+                    "name": null,
+                    "headline": "Software Engineer at Nedap Retail"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Robin",
+                    "last_name": "Rutten",
+                    "name": null,
+                    "headline": "Freelance Software Engineer"
+                }
+            ]
+        },
+        {
+            "title": "Bicycle Buddy",
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "description": "Luminis developed the Bicycle Buddy app for Stadsregio Arnhem-Nijmegen. This app promotes the use of the fast bicycle path RijnWaalPad between Arnhem and Nijmegen.\nThe professionals of Luminis and Egeniq built this app for iPhone and Android. I was scrum master of this project and did requirements management and project management.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Harro",
+                    "last_name": "Vons",
+                    "name": null,
+                    "headline": "at Luminis"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Barry",
+                    "last_name": "Haanstra",
+                    "name": null,
+                    "headline": "Software Engineer at Nedap Retail"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Remy",
+                    "last_name": "Korrelboom",
+                    "name": null,
+                    "headline": "Software Engineer at Gain.pro"
+                }
+            ]
+        },
+        {
+            "title": "Nedap Luxon",
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "description": "When Nedap Light Controls wanted to redesign their solution for industrial HID lighting, they turned to Luminis for the design. As part of the design team from Luminis, I interviewed potential end-users, partners and other stakeholders. Then I designed the user's interaction with the new product. When the product was nearly finished, I evaluated the usability of the product with a usability test.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Harro",
+                    "last_name": "Vons",
+                    "name": null,
+                    "headline": "at Luminis"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Niels",
+                    "last_name": "Wissels",
+                    "name": null,
+                    "headline": "Change by Design! Transform organisations and inspire innovation by Design. UX strategist."
+                }
+            ]
+        },
+        {
+            "title": "Monuta Draaiboek",
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "description": "Together with Luminis, Monuta has developed 'Draaiboek': a innovative new concept that allows people to do most of the arrangements of their relative's funeral themselves. Professionals from Luminis developed the website and integration with the back-end for this service. I was responsible for collecting and describing the requirements and for establishing them with all stakeholders. When the product was nearly complete, I performed a usability test with consumers.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Harro",
+                    "last_name": "Vons",
+                    "name": null,
+                    "headline": "at Luminis"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Ren\u00e9",
+                    "last_name": "Janssen",
+                    "name": null,
+                    "headline": "Director of Operations Luminis"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Hans",
+                    "last_name": "Gringhuis",
+                    "name": null,
+                    "headline": "CTO at Eijsink"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Jorg",
+                    "last_name": "Hollenberg",
+                    "name": null,
+                    "headline": "Solution Architect at TenneT"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Pascal",
+                    "last_name": "Vos",
+                    "name": null,
+                    "headline": "Senior Front-end ontwikkelaar at Nedap healthcare"
+                }
+            ]
+        },
+        {
+            "title": "RTD Het Dorp iServe",
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "description": "Using the RTD iServe, people with a physical disability can lead a more independent life, by linking them to comfort systems in their house using a (physical) user interface that is customized for each user. I was the scrum master for this project and did requirements management and interaction design. I also organised and executed a usability test.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Harro",
+                    "last_name": "Vons",
+                    "name": null,
+                    "headline": "at Luminis"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Angelo",
+                    "last_name": "Van Der Sijpt",
+                    "name": null,
+                    "headline": "Lead software architect booq"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Tom Hanekamp",
+                    "headline": null
+                }
+            ]
+        }
+    ],
+    "publications": [],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 69936,
+                "name": "Luminis",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQHPpvbHy3T9MQ/company-logo_400_400/0/1614239809464?e=1703721600&v=beta&t=jPUxAyneKS0ddszLyB0gl5qlfbakWozIFY0h67yZrCA",
+                "url": "https://www.linkedin.com/company/luminis/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Arnhem",
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2011
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Luminis",
+                    "description": "Within Luminis, I am responsible for translating customer's ideas into real products. These products are usually mobile apps or web sites. My activities include concept definition, interaction design, requirements management, usability testing and project management with Scrum.",
+                    "title": "Product Creator",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 12565,
+                "name": "Planon bv",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQHEFbgFjC4CiA/company-logo_400_400/0/1646900905859?e=1703721600&v=beta&t=acNGYACepkzvviR1x4P6-VwIBZrnPWNGnBChEGtK7zE",
+                "url": "https://www.linkedin.com/company/planon/",
+                "employees": {
+                    "start": 501,
+                    "end": 1000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2004
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2011
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2004
+                        },
+                        "end": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2011
+                        }
+                    },
+                    "company": "Planon",
+                    "description": "Responsible for developing new products and improving existing products. Specialized in user experience and Scrum.",
+                    "title": "Product Management and UX Design",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 3972,
+                "name": "Baan Company",
+                "logo": null,
+                "url": "https://www.linkedin.com/company/baan/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 1997
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2003
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "day": null,
+                            "year": 1997
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": 2003
+                        }
+                    },
+                    "company": "Baan",
+                    "description": null,
+                    "title": "Usability Consultant",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "User Experience",
+        "Scrum",
+        "Usability Testing",
+        "User Interface",
+        "User Stories",
+        "Usability",
+        "Agile Methodologies",
+        "User Experience Design",
+        "Interaction Design",
+        "Product Management",
+        "Requirements Analysis",
+        "User Interface Design",
+        "Agile Project Management"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

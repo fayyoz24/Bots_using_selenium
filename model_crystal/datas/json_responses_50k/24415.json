@@ -1,0 +1,731 @@
+{
+    "profile_id": "jim-elvers",
+    "first_name": "Jim",
+    "last_name": "Elvers",
+    "sub_title": "Software Engineer",
+    "profile_picture": "https://media.licdn.com/dms/image/C5603AQHizyCOBV5UZw/profile-displayphoto-shrink_800_800/0/1517867381404?e=1701302400&v=beta&t=6hE2rNtKPKq3OpemEJmfxZqijfkWU5q7tLx-vDPuEdQ",
+    "background_image": "https://media.licdn.com/dms/image/D4E16AQFFvwZoRnAsWQ/profile-displaybackgroundimage-shrink_350_1400/0/1695741245835?e=1701302400&v=beta&t=WPIPBq0s-6N1G7cyfHoG-Lw4hJ65SRFPZx5xY0YpW8s",
+    "profile_type": "personal",
+    "entity_urn": "ACoAACQtwB8BH5daE2qBhWzf29l9XDO3cF98os0",
+    "object_urn": 606978079,
+    "birth_date": null,
+    "summary": "Welcome to my shabby place on LinkedIn!\nI'm a Software Engineer graduated at Windesheim Flevoland. I mostly prefer to specialize in the backend development, but have picked up enough frontend and CI/CD knowledge to work in a full-stack position.",
+    "location": {
+        "country": "Netherlands",
+        "short": "Lelystad, Flevoland",
+        "city": "Lelystad",
+        "state": "Flevoland",
+        "default": "Lelystad, Flevoland, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "NL",
+            "language": "nl"
+        },
+        "supported_locales": [
+            {
+                "country": "NL",
+                "language": "nl"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "Duits",
+                "proficiency": "ELEMENTARY"
+            },
+            {
+                "name": "Engels",
+                "proficiency": "PROFESSIONAL_WORKING"
+            },
+            {
+                "name": "Nederlands",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "Toki Pona",
+                "proficiency": "ELEMENTARY"
+            }
+        ]
+    },
+    "industry": "Information Technology & Services",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "school": {
+                "name": "Windesheim",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQGQqD5vAOBKkQ/company-logo_400_400/0/1664798647108?e=1703721600&v=beta&t=lOsimfSxL8u4Qy1gboQ1eLNZBO2neHdNsdoB3nWEEXc",
+                "url": "https://www.linkedin.com/school/hogeschool-windesheim/"
+            },
+            "degree_name": "Bachelor's degree",
+            "field_of_study": "HBO-ICT",
+            "grade": "Software Engineering"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "school": {
+                "name": "HU University of Applied Sciences Utrecht (Hogeschool Utrecht)",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQE5MUvxbWmHLg/company-logo_400_400/0/1616758673383?e=1703721600&v=beta&t=lL0qWwj8v0ehLYT5Eqgh3BYB8vxhABDgceKMn5_bG7c",
+                "url": "https://www.linkedin.com/school/hogeschool-utrecht/"
+            },
+            "degree_name": "Minor",
+            "field_of_study": "B Built Environment (Slimme data in de stad)",
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "DFC website",
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "description": "Webapplication for information about DFC and allowing users to order tickets.\nBuilt with a Symfony API and Angular frontend",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Jim",
+                    "last_name": "Elvers",
+                    "name": null,
+                    "headline": "Software Engineer"
+                }
+            ]
+        },
+        {
+            "title": "Quiz System",
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "description": "Design, build & solder various components together to form a quiz system consisting of a master box and interchangeable team boxes.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Jim",
+                    "last_name": "Elvers",
+                    "name": null,
+                    "headline": "Software Engineer"
+                }
+            ]
+        },
+        {
+            "title": "FoundryVTT System",
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "description": "A gamesystem for FoundryVTT, an application for hosting fantasy roleplaying games, built on NodeJS.\nThe gamesystem development requires designing a structure to accommodate for the rules set by the guide of the game, whilst developing helpful automation for the players to use whilst playing, and importing items from an excel sheet with all their attributes in the right fields.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Jim",
+                    "last_name": "Elvers",
+                    "name": null,
+                    "headline": "Software Engineer"
+                }
+            ]
+        },
+        {
+            "title": "Twitter Bot",
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "description": "Simple Twitter bot that collects pieces of old tweets of the client, glues them into random sentences and then retweets them onto a separate bot account.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Jim",
+                    "last_name": "Elvers",
+                    "name": null,
+                    "headline": "Software Engineer"
+                }
+            ]
+        },
+        {
+            "title": "BeerTracker",
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "description": "Online web application for a group of students, where they can register bought crates of beer, which increases their beer credit. They can then register taking a beer for themselves or someone else, which is then deducted from their beer credit.\nAlso tracks their total liters of beer consumed.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Jim",
+                    "last_name": "Elvers",
+                    "name": null,
+                    "headline": "Software Engineer"
+                }
+            ]
+        }
+    ],
+    "publications": [],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 267563,
+                "name": "Atabix Solutions",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQEfP0_DAXQ8IQ/company-logo_400_400/0/1692611352336?e=1703721600&v=beta&t=MSwxn-54HN1YEC_xcjofWOd4stBaHnhw_Ky9aQrnCQQ",
+                "url": "https://www.linkedin.com/company/atabix/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amsterdam, North Holland, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Atabix",
+                    "description": null,
+                    "title": "Back End Developer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 2260278,
+                "name": "AARTEC Engineering",
+                "logo": "https://media.licdn.com/dms/image/C510BAQH6Iby9V2n0fQ/company-logo_400_400/0/1519909038587?e=1703721600&v=beta&t=_0gVYuEdj4a1P5QS3xRHSq9V0ZukJx_URCzqFirN0mc",
+                "url": "https://www.linkedin.com/company/aartec-engineering/",
+                "employees": {
+                    "start": 2,
+                    "end": 10
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Nunspeet, Gelderland, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "AARTEC Engineering",
+                    "description": null,
+                    "title": "Development Intern",
+                    "employment_type": "Internship"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 11769242,
+                "name": "Enreach",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQFjpiBU72XrgA/company-logo_400_400/0/1649788690646?e=1703721600&v=beta&t=-VtqTKFAy26wq2lwP5jzK5Fg3ti69LMMLIVdqyFbSTE",
+                "url": "https://www.linkedin.com/company/enreachgroup/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Almere, Flevoland, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2020
+                        },
+                        "end": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2021
+                        }
+                    },
+                    "company": "Enreach",
+                    "description": null,
+                    "title": "Development Intern",
+                    "employment_type": "Internship"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 9649,
+                "name": "Waternet",
+                "logo": "https://media.licdn.com/dms/image/C510BAQEgwA1QQmP9YQ/company-logo_400_400/0/1519856339335?e=1703721600&v=beta&t=nOZov2RoLL5saBg7sJRUO-ItlKSlZlBmOuKz4Xq7UwY",
+                "url": "https://www.linkedin.com/company/waternet/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amsterdam, North Holland, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2020
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2020
+                        }
+                    },
+                    "company": "Waternet",
+                    "description": null,
+                    "title": "Internship Geo-3D",
+                    "employment_type": "Internship"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1032045,
+                "name": "SODAQ",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQFTuHsU6BbVfw/company-logo_400_400/0/1651482505455?e=1703721600&v=beta&t=haVlfJehejQhv2g6Hkc0Ooa1yH7Vq6nU-CIEFmcDtn4",
+                "url": "https://www.linkedin.com/company/sodaq/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Hilversum, North Holland, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2020
+                        }
+                    },
+                    "company": "SODAQ",
+                    "description": null,
+                    "title": "Backend Developer & Hardware Engineer Internship",
+                    "employment_type": "Internship"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 123990,
+                "name": "Voiceworks",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQEa4bRE6jzAbQ/company-logo_400_400/0/1648795961919?e=1703721600&v=beta&t=BzdDRKMoH3d2nsRpiDjEqbQ357xsP91IO9Hf0QUMpV0",
+                "url": "https://www.linkedin.com/company/enreachnl/",
+                "employees": {
+                    "start": 201,
+                    "end": 500
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Almere, Flevoland, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "Enreach NL",
+                    "description": null,
+                    "title": "Junior Developer",
+                    "employment_type": null
+                },
+                {
+                    "location": "Almere, Flevoland, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "Enreach NL",
+                    "description": null,
+                    "title": "Backend Developer Internship",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Billy's Lelystad",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Lelystad, Flevoland, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "Billy's Lelystad",
+                    "description": null,
+                    "title": "IJsmixer & IT-support",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 10031312,
+                "name": "Albert Heijn",
+                "logo": "https://media.licdn.com/dms/image/C560BAQE_asn6DhgWeg/company-logo_400_400/0/1549381485173?e=1703721600&v=beta&t=deGEH57SRFqXMyr2fO0fjugNztjwyrrYd3XEu4Wm7Ww",
+                "url": "https://www.linkedin.com/company/albert-heijn/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Lelystad, Flevoland, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "Albert Heijn",
+                    "description": null,
+                    "title": "Vakkenvuller",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Billy's Lelystad",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Lelystad, Flevoland, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2018
+                        }
+                    },
+                    "company": "Billy's Lelystad",
+                    "description": null,
+                    "title": "IJsmixer & IT-support",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 10031312,
+                "name": "Albert Heijn",
+                "logo": "https://media.licdn.com/dms/image/C560BAQE_asn6DhgWeg/company-logo_400_400/0/1549381485173?e=1703721600&v=beta&t=deGEH57SRFqXMyr2fO0fjugNztjwyrrYd3XEu4Wm7Ww",
+                "url": "https://www.linkedin.com/company/albert-heijn/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Lelystad, Flevoland, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2018
+                        }
+                    },
+                    "company": "Albert Heijn",
+                    "description": null,
+                    "title": "Vakkenvuller",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Gitlab",
+        "Bitbucket",
+        "Jira",
+        "Symfony Framework",
+        "Back-End Web Development",
+        "Continuous Integration",
+        "Front-End Development",
+        "TypeScript",
+        "MySQL",
+        "PHP",
+        "Node.js",
+        "JavaScript",
+        "AngularJS",
+        "C#",
+        "C++",
+        "Storage Migrations",
+        "Python (Programming Language)",
+        "Cascading Style Sheets (CSS)",
+        "HTML5",
+        "3D Modeling Software"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

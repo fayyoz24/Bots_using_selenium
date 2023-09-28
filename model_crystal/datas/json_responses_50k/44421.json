@@ -1,0 +1,613 @@
+{
+    "profile_id": "jaapwijnen",
+    "first_name": "Jaap",
+    "last_name": "Wijnen",
+    "sub_title": "Theoretical Physics Msc. | Sr. Software Engineer | Open source enthusiast | Tinkerer/Maker | WWDC scholar 2017",
+    "profile_picture": "https://media.licdn.com/dms/image/C4D03AQH-cgNXyjRb5A/profile-displayphoto-shrink_800_800/0/1553696674454?e=1701302400&v=beta&t=5g1vvqYJWoM5eT79T-k_SHzVxSEXi2neu1wJd0GENNY",
+    "background_image": "https://media.licdn.com/dms/image/C4D16AQGo_OYjcwPHTA/profile-displaybackgroundimage-shrink_350_1400/0/1546368366936?e=1701302400&v=beta&t=DBdN281Xv1YcJIoJZ3d2dUm-DBtxpGPnUYn57xhRFvw",
+    "profile_type": "personal",
+    "entity_urn": "ACoAACVjSR0B4CgHWWEwUMNZH5uvUwzbT1NfXlU",
+    "object_urn": 627263773,
+    "birth_date": null,
+    "summary": "In 2018 I finished my masters in Theoretical Physics. Parallel to my studies I've honed my coding skills through university courses, hackathons, open source contributions, freelance and personal projects ranging from 3D computer graphics and a toy crypto currency to API backends and developing iOS apps. After receiving a scholarship from Apple for WWDC in 2017 and later being admitted to the T500 by TNW, my motivation and interest for programming were even more increased.\n\nI was able to apply my programming skills at BIT, both during and after my studies. Here I have been working on high tech innovation projects for several large companies, both as a developer and a tech lead.\n\nBit also gave me large creative freedom. While my main role was as a developer and tech lead I was also given the freedom to design and build large parts of their new office spaces and contribute to their branding.\n\nAside from Theoretical Physics, programming and tinkering with hard- and software, my passions are  acting, making, surfing, snowboarding and rowing. I also have a passion for art, be it film, music or visual.\n\nI'm currently looking for a new challenge. Preferably at a company with a futuristic, social or environmental mission. I have broad experience in hard- and software, gained from projects covering hardware prototypes, data science, neural networks, computer graphics and backend development.",
+    "location": {
+        "country": "Netherlands",
+        "short": "Amsterdam, North Holland",
+        "city": "Amsterdam",
+        "state": "North Holland",
+        "default": "Amsterdam, North Holland, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "NL",
+            "language": "nl"
+        },
+        "supported_locales": [
+            {
+                "country": "NL",
+                "language": "nl"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "Duits",
+                "proficiency": "PROFESSIONAL_WORKING"
+            },
+            {
+                "name": "Engels",
+                "proficiency": "FULL_PROFESSIONAL"
+            },
+            {
+                "name": "Nederlands",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ]
+    },
+    "industry": "Computer Software",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "school": {
+                "name": "University of Amsterdam",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQEfHBj_we-_kw/company-logo_400_400/0/1659945104460?e=1703721600&v=beta&t=nxt14hUDODg3MttkNj5Qa0fCu2FbgGbRXyFSapRtNv4",
+                "url": "https://www.linkedin.com/school/university-of-amsterdam/"
+            },
+            "degree_name": "Master of Science",
+            "field_of_study": "Theoretical Physics",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "school": {
+                "name": "University of Amsterdam",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQEfHBj_we-_kw/company-logo_400_400/0/1659945104460?e=1703721600&v=beta&t=nxt14hUDODg3MttkNj5Qa0fCu2FbgGbRXyFSapRtNv4",
+                "url": "https://www.linkedin.com/school/university-of-amsterdam/"
+            },
+            "degree_name": "Bachelor of Science - BS",
+            "field_of_study": "Natuur- en Sterrenkunde",
+            "grade": "7.4"
+        }
+    ],
+    "patents": [],
+    "awards": [
+        {
+            "title": "T500",
+            "description": "T500: the definitive list of digital top talents from Holland under 25. Selected by The Next Web",
+            "issuer": "The Next Web",
+            "date": {
+                "month": 5,
+                "day": null,
+                "year": 2018
+            }
+        },
+        {
+            "title": "Apple WWDC Scholarschip 2017",
+            "description": "Applied at Apple for a WWDC scholarship by sending in a project using Swift and their new graphics framework Metal. Got invited by Apple to attend their World Wide Developer Conference in June of 2017.",
+            "issuer": "Apple",
+            "date": {
+                "month": 6,
+                "day": null,
+                "year": 2017
+            }
+        }
+    ],
+    "certifications": [],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "NS International",
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "description": "Multiple datascience projects for NS International, where we looked into predicting delay for trains when outside of the Netherlands and see if customers were able to make it to their transfer in time.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Jaap",
+                    "last_name": "Wijnen",
+                    "name": null,
+                    "headline": "Theoretical Physics Msc. | Sr. Software Engineer | Open source enthusiast | Tinkerer/Maker | WWDC scholar 2017"
+                }
+            ]
+        },
+        {
+            "title": "ING",
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "description": "Datascience project for ING Labs\nDatascience project for Impactor ING",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Jaap",
+                    "last_name": "Wijnen",
+                    "name": null,
+                    "headline": "Theoretical Physics Msc. | Sr. Software Engineer | Open source enthusiast | Tinkerer/Maker | WWDC scholar 2017"
+                }
+            ]
+        },
+        {
+            "title": "SURFnet",
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "description": "Combination of hardware and machine learning where we used a wifi antenna and a machine learning algorithm to detect people's presence through walls. ",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Jaap",
+                    "last_name": "Wijnen",
+                    "name": null,
+                    "headline": "Theoretical Physics Msc. | Sr. Software Engineer | Open source enthusiast | Tinkerer/Maker | WWDC scholar 2017"
+                }
+            ]
+        },
+        {
+            "title": "Physics simulations of cloth",
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "description": "Worked on realistic cloth physics simulations and their visualisation in 3D. ",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Jaap",
+                    "last_name": "Wijnen",
+                    "name": null,
+                    "headline": "Theoretical Physics Msc. | Sr. Software Engineer | Open source enthusiast | Tinkerer/Maker | WWDC scholar 2017"
+                }
+            ]
+        },
+        {
+            "title": "BeFrank",
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "description": "Native iOS app development for BeFrank using new creative ways for users to log in to their services.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Jaap",
+                    "last_name": "Wijnen",
+                    "name": null,
+                    "headline": "Theoretical Physics Msc. | Sr. Software Engineer | Open source enthusiast | Tinkerer/Maker | WWDC scholar 2017"
+                }
+            ]
+        },
+        {
+            "title": "UPS",
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "description": "A project with UPS to optimize the effective time of their drivers\n",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Jaap",
+                    "last_name": "Wijnen",
+                    "name": null,
+                    "headline": "Theoretical Physics Msc. | Sr. Software Engineer | Open source enthusiast | Tinkerer/Maker | WWDC scholar 2017"
+                }
+            ]
+        }
+    ],
+    "publications": [],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 10494813,
+                "name": "PassiveLogic",
+                "logo": "https://media.licdn.com/dms/image/D560BAQFuZyFDO46kSw/company-logo_400_400/0/1695228864534?e=1703721600&v=beta&t=MCO04rP4skCPlTySnpJPM7c7xRZf9zrBc-aV8sFVQ5o",
+                "url": "https://www.linkedin.com/company/passivelogic/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "PassiveLogic",
+                    "description": null,
+                    "title": "Senior Software Engineer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 86046578,
+                "name": "Responsive Software B.V.",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQEprrUd2umxAQ/company-logo_400_400/0/1665697672896?e=1703721600&v=beta&t=XHfU3tgi0RzdqKLR6PfBLtWoDgVUOxDVwZC-3YEJxCs",
+                "url": "https://www.linkedin.com/company/responsive-software-b-v/",
+                "employees": {
+                    "start": 2,
+                    "end": 10
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "Responsive Software B.V.",
+                    "description": "As one of the two software engineers with deep Swift expertise I worked on projects for multiple of our clients (both backend and frontend (iOS)) as well as internal projects such as tooling, products and open source contributions to some of the frameworks we maintain and use.",
+                    "title": "Software Engineer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Snode Plannen",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amsterdam",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "Snode Plannen",
+                    "description": "Freelance programming work. Recent projects ranged from computer graphics and simulations to backend development and iOS apps.",
+                    "title": "Freelance Programmer",
+                    "employment_type": "Freelance"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 27010495,
+                "name": "Workmoose",
+                "logo": "https://media.licdn.com/dms/image/C510BAQGaFAvi43vsTw/company-logo_400_400/0/1519877428441?e=1703721600&v=beta&t=bHvBsQCNV4-_vBy1LwSIH1VHoT0KEWxJk74oUn1o0vE",
+                "url": "https://www.linkedin.com/company/workmoose/",
+                "employees": {
+                    "start": 2,
+                    "end": 10
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amsterdam",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2014
+                        },
+                        "end": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "Workmoose",
+                    "description": "Side project in the industry of Web and Mobile applications. I act as a developer on both mobile and web projects and run the devOps side of our projects.",
+                    "title": "Founder",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 10866206,
+                "name": "Katalysis",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQG0K3clR7HTKA/company-logo_400_400/0/1519915660559?e=1703721600&v=beta&t=lIek61XbOJtyGJSi3vTd_2yT6vDWnJ03Cfx2virgo0Y",
+                "url": "https://www.linkedin.com/company/katalysis/",
+                "employees": {
+                    "start": 2,
+                    "end": 10
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amsterdam",
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2020
+                        },
+                        "end": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2021
+                        }
+                    },
+                    "company": "Katalysis",
+                    "description": "Worked on the following topics:\n- Backend development on our microservice architecture using Vapor (Swift).\n- Content recommendation algorithms.\n- Content extraction algorithms and scraping.",
+                    "title": "Software Engineer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 10417288,
+                "name": "Bit",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQHogtI7ueRWzA/company-logo_400_400/0/1606851115523?e=1703721600&v=beta&t=mOhNl6tUyzlLmXOdAqGwCiMWP-vMfNy_sz9WuwTnU0M",
+                "url": "https://www.linkedin.com/company/wearebit/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amsterdam",
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2017
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2020
+                        }
+                    },
+                    "company": "Bit",
+                    "description": "See the \"Projects\" tab on my profile to see what I have worked on.",
+                    "title": "Tech Lead",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 4081,
+                "name": "Universiteit van Amsterdam",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQEfHBj_we-_kw/company-logo_400_400/0/1659945104460?e=1703721600&v=beta&t=nxt14hUDODg3MttkNj5Qa0fCu2FbgGbRXyFSapRtNv4",
+                "url": "https://www.linkedin.com/school/university-of-amsterdam/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amsterdam en omgeving, Nederland",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2013
+                        },
+                        "end": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2015
+                        }
+                    },
+                    "company": "University of Amsterdam",
+                    "description": "Taught three courses to first year students in the bachelor of physics & astronomy among which, \n- Current challenges in Physics\n- Oscillations, Waves & Optics (Trillingen, Golven & Optica)\n- Condensed matter",
+                    "title": "Teaching Assistant",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Swift (Programming Language)",
+        "String Theory",
+        "Theoretical Physics",
+        "Programmeren",
+        "Ontwikkeling voor iOS",
+        "C++",
+        "LaTeX",
+        "Python",
+        "JavaScript",
+        "C",
+        "Engels",
+        "Nederlands",
+        "Swift",
+        "Metal Graphics Framework"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

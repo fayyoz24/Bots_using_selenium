@@ -1,0 +1,807 @@
+{
+    "profile_id": "almarklein",
+    "first_name": "Almar",
+    "last_name": "Klein",
+    "sub_title": "Indie software developer",
+    "profile_picture": "https://media.licdn.com/dms/image/C5603AQHttLA8nniMKA/profile-displayphoto-shrink_800_800/0/1615539494772?e=1701302400&v=beta&t=WSu-fZLD3yOTMKYxWV9M7Fj3lickcvUBdgAGS1yarug",
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAAAE9A_ABl9cMNyxNkJ3xakRJxjrgMCu3xEA",
+    "object_urn": 20775920,
+    "birth_date": null,
+    "summary": "Scientist, engineer, Python programmer.\n\nInterests and specialties: language design, web assembly (WASM), computer vision, medical imaging, segmentation, image registration, visualization, volume rendering, GUI design.\n\n",
+    "location": {
+        "country": null,
+        "short": "Netherlands",
+        "city": null,
+        "state": null,
+        "default": "Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "Dutch",
+                "proficiency": null
+            },
+            {
+                "name": "English",
+                "proficiency": null
+            }
+        ]
+    },
+    "industry": "Computer Software",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2001
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2006
+                }
+            },
+            "school": {
+                "name": "University of Twente",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQGlJy8j9vKdjA/company-logo_400_400/0/1533909472654?e=1703721600&v=beta&t=bKpiljO1A-RW4XDZMlQXM9J7YnPza1KG8jLvYitpPTI",
+                "url": "https://www.linkedin.com/school/university-of-twente/"
+            },
+            "degree_name": "Msc",
+            "field_of_study": "Electrical Engineering",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 1995
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2001
+                }
+            },
+            "school": {
+                "name": "Koninklijke Scholengemeenschap Apeldoorn",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "VWO",
+            "field_of_study": null,
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "TimeTurtle",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "description": "TimeTurtle is a time tracking app in which you track time by interacting with a continuous timeline. This unique approach results in an intuitive interface that gives direct insight and is a joy to work with!\n\nThis is my attempt at time tracker that's different from all the others, in which I tried to put my experience with visualization and user interaction.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Almar",
+                    "last_name": "Klein",
+                    "name": null,
+                    "headline": "Indie software developer"
+                }
+            ]
+        },
+        {
+            "title": "Pyzo",
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "description": "Pyzo's mission is to provide a computing environment aimed at doing science and building professional applications, that is easy to obtain, easy to use, and free.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Almar",
+                    "last_name": "Klein",
+                    "name": null,
+                    "headline": "Indie software developer"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Rob",
+                    "last_name": "Reilink",
+                    "name": null,
+                    "headline": "Sr. System Engineer at Elekta"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Ludo",
+                    "last_name": "Visser",
+                    "name": null,
+                    "headline": "Mission Analysis & Software Engineer at ESA/ESTEC"
+                }
+            ]
+        },
+        {
+            "title": "Visvis",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2009
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "description": "Visvis is a pure Python library for visualization of 1D to 4D data in an object oriented way. Essentially, visvis is an object oriented layer of Python on top of OpenGl, thereby combining the power of OpenGl with the usability of Python.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Almar",
+                    "last_name": "Klein",
+                    "name": null,
+                    "headline": "Indie software developer"
+                }
+            ]
+        },
+        {
+            "title": "Pyzo",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2008
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "description": "Pyzo is a cross-platform Python IDE focused on interactivity and introspection, which makes it very suitable for scientific computing. Its practical design is aimed at simplicity and efficiency.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Almar",
+                    "last_name": "Klein",
+                    "name": null,
+                    "headline": "Indie software developer"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Rob",
+                    "last_name": "Reilink",
+                    "name": null,
+                    "headline": "Sr. System Engineer at Elekta"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Ludo",
+                    "last_name": "Visser",
+                    "name": null,
+                    "headline": "Mission Analysis & Software Engineer at ESA/ESTEC"
+                }
+            ]
+        },
+        {
+            "title": "Vispy",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "description": "Working on the next generation visualization library for Python.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Almar",
+                    "last_name": "Klein",
+                    "name": null,
+                    "headline": "Indie software developer"
+                }
+            ]
+        }
+    ],
+    "publications": [
+        {
+            "name": "Data Visualization with WebGL: From Python to JavaScript",
+            "publisher": "CRC Press",
+            "url": "http://www.webglinsights.com/",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2015
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Almar",
+                    "last_name": "Klein",
+                    "name": null,
+                    "headline": "Indie software developer"
+                }
+            ]
+        },
+        {
+            "name": "Automatic segmentation of the wire frame of stent grafts from CT data",
+            "publisher": "Medical Image Analysis",
+            "url": "http://dx.doi.org/10.1016/j.media.2011.05.015",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2012
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Almar",
+                    "last_name": "Klein",
+                    "name": null,
+                    "headline": "Indie software developer"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Daan van der Vliet",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Luuk J. Oostveen",
+                    "headline": null
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Yvonne",
+                    "last_name": "Hoogeveen",
+                    "name": null,
+                    "headline": "PhD. Vascular Medical Devices Research"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "L. SchultzeKool",
+                    "headline": null
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "KlaasJan",
+                    "last_name": "Renema",
+                    "name": null,
+                    "headline": "CIO / Manager MICT at Jeroen Bosch Ziekenhuis"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "C.H. Slump",
+                    "headline": null
+                }
+            ]
+        },
+        {
+            "name": "Segmentation and motion estimation of stent grafts in abdominal aortic aneurysms",
+            "publisher": "University of Twente",
+            "url": "http://dx.doi.org/10.3990/1.9789036532662",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2011
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Almar",
+                    "last_name": "Klein",
+                    "name": null,
+                    "headline": "Indie software developer"
+                }
+            ]
+        },
+        {
+            "name": "Motion Calculations on Stent Grafts in AAA",
+            "publisher": "Diagnosis, Screening and Treatment of Abdominal, Thoracoabdominal and Thoracic Aortic Aneurysms",
+            "url": "http://www.intechopen.com/articles/show/title/motion-calculations-on-stent-grafts-in-aaa",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2011
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Almar",
+                    "last_name": "Klein",
+                    "name": null,
+                    "headline": "Indie software developer"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "KlaasJan",
+                    "last_name": "Renema",
+                    "name": null,
+                    "headline": "CIO / Manager MICT at Jeroen Bosch Ziekenhuis"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "J. Adam van der Vliet",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Luuk J. Oostveen",
+                    "headline": null
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Yvonne",
+                    "last_name": "Hoogeveen",
+                    "name": null,
+                    "headline": "PhD. Vascular Medical Devices Research"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Leo J. Schultze Kool",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "C.H. Slump",
+                    "headline": null
+                }
+            ]
+        },
+        {
+            "name": "Detectability of motions in AAA with ECG-gated CTA: A quantitative study",
+            "publisher": "Medical Physics",
+            "url": "http://dx.doi.org/10.1118/1.3213530",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2009
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Almar",
+                    "last_name": "Klein",
+                    "name": null,
+                    "headline": "Indie software developer"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Luuk J. Oostveen",
+                    "headline": null
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Marcel",
+                    "last_name": "Greuter",
+                    "name": null,
+                    "headline": "medical physicist at UMCG"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Yvonne",
+                    "last_name": "Hoogeveen",
+                    "name": null,
+                    "headline": "PhD. Vascular Medical Devices Research"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "L.J. Schultze Kool",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "C.H. Slump",
+                    "headline": null
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "KlaasJan",
+                    "last_name": "Renema",
+                    "name": null,
+                    "headline": "CIO / Manager MICT at Jeroen Bosch Ziekenhuis"
+                }
+            ]
+        }
+    ],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": null,
+                "name": "Almar Klein Scientific Computing",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Almere",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Almar Klein Scientific Computing",
+                    "description": "Working for most of my time on creating the next generation data analysis tools.",
+                    "title": "Freelance Software Engineer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Cinoptics (formerly known as Cybermind)",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Enschede Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2013
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2014
+                        }
+                    },
+                    "company": "Cinoptics (formerly known as Cybermind)",
+                    "description": "Working on virtual and augmented reality, in specific its application in a clinical setting such as an operating room.",
+                    "title": "Software Engineer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 166686,
+                "name": "University of Twente",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQGlJy8j9vKdjA/company-logo_400_400/0/1533909472654?e=1703721600&v=beta&t=bKpiljO1A-RW4XDZMlQXM9J7YnPza1KG8jLvYitpPTI",
+                "url": "https://www.linkedin.com/school/university-of-twente/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Enschede Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2013
+                        },
+                        "end": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2014
+                        }
+                    },
+                    "company": "University of Twente",
+                    "description": "Doing research to the motion of stent grafts in AAA.",
+                    "title": "Researcher",
+                    "employment_type": null
+                },
+                {
+                    "location": "Enschede Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2012
+                        },
+                        "end": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2013
+                        }
+                    },
+                    "company": "University of Twente",
+                    "description": "Two days a week I worked on setting up a post-graduate course on image processing.",
+                    "title": "Education developer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Science Applied v.o.f.",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Enschede Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2012
+                        },
+                        "end": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2014
+                        }
+                    },
+                    "company": "Science Applied v.o.f.",
+                    "description": "Science Applied is a software consultancy firm aimed at translating scientific research into technological applications. Our key strength comes from pyzo.org, an open source development framework that we develop from Science Applied.",
+                    "title": "co-founder",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 166686,
+                "name": "University of Twente",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQGlJy8j9vKdjA/company-logo_400_400/0/1533909472654?e=1703721600&v=beta&t=bKpiljO1A-RW4XDZMlQXM9J7YnPza1KG8jLvYitpPTI",
+                "url": "https://www.linkedin.com/school/university-of-twente/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2007
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Enschede Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2011
+                        },
+                        "end": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2012
+                        }
+                    },
+                    "company": "University of Twente",
+                    "description": "Working on the imaging of endothelial cells.",
+                    "title": "Postdoc",
+                    "employment_type": null
+                },
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2007
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2011
+                        }
+                    },
+                    "company": "University of Twente",
+                    "description": "Research on segmentation and motion estimation of stentgrafts in the abdominal aorta from ECG-gated CTA data. Received my PhD on November 21, 2011.",
+                    "title": "PhD student",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1090,
+                "name": "Philips Research",
+                "logo": "https://media.licdn.com/dms/image/C510BAQG4O5wCG6zf2Q/company-logo_400_400/0/1519855869410?e=1703721600&v=beta&t=AwT4OtKaChfPg1Rv0FCXPZ0aI3a7TPbiAfYxHqJIa04",
+                "url": "https://www.linkedin.com/company/philips/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2005
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2005
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2005
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2005
+                        }
+                    },
+                    "company": "Philips",
+                    "description": "Research to the stability of keypoints produced by the SIFT algorithm (an algorithm used for object recognition and image registration).",
+                    "title": "Internship",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Python",
+        "Matlab",
+        "Qt",
+        "C++",
+        "C#",
+        "LaTeX",
+        "Cython",
+        "Computer Vision",
+        "Simulations",
+        "Programming",
+        "Image Processing",
+        "Pattern Recognition",
+        "Medical Imaging",
+        "Web assembly (WASM)",
+        "JavaScript"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

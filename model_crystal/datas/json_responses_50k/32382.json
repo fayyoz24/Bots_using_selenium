@@ -1,0 +1,638 @@
+{
+    "profile_id": "hrshtkpr",
+    "first_name": "Harshit",
+    "last_name": "Kapoor",
+    "sub_title": "Senior Consultant at Ciber",
+    "profile_picture": "https://media.licdn.com/dms/image/C4D03AQGZHsttWAVsFg/profile-displayphoto-shrink_800_800/0/1516526315005?e=1701302400&v=beta&t=bw-yYlcI8bztPCWEeAKjD5QSTtR9rtpqn_lZ7-rol_k",
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAAALg4bIBDuVhjX-v3Cz7il6alEHgWC3VELo",
+    "object_urn": 48292274,
+    "birth_date": null,
+    "summary": "Harshit finished his Master in Information Technology from DA-IICT, in India, and started his first job in EAI. In his first company, Reliance Infocom, he was part of the team which was responsible to develop and maintain SOA based integration layer, implemented in TIBCO.\n\nAt AtosOrigin, he was responsible to offshore all TIBCO development to AtosOrigin offshore center in India. He contributed in establishment of processes that facilitated working in onshore-offshore model. He created a number of tools as part of factory-model of development.\n\nAt CIBER, he worked on a project to build Canonical Data Model and Centralized Transformation Service. He also worked on Data Integration project for one of US County\u2019 Social Services. He also contributed in RFPs, SOA Methodology and Enterprise Integration Architecture. He has also worked extensively with the TIBCO stack for Enexis, Essent and RWE Supply & Trading Netherlands. He  gained much experience in the practical aspects of middleware. He knows what is crucial to keep high-availability application running stably in live production environment. He has worked on projects that involved redesigning entire landscape, including migration across datacenters, migration of messaging bus technology from Rendezvous to EMS, migration of orchestration layer from Cordys to TIBCO, redesigning monitoring. His responsibilities include implementation of change requests on mission critical interfaces and maintaining a TIBCO applications spanning across TIBCO stack. \n\nAt the moment he is working on a project to migrate policies built in TIBCO Policy Manager to TIBCO AMX Meditation and upgrading version of BusinessConnect. He has actively participated in POC involving AMX Service Bus that is used by client as reference implementation. Harshit has also undergone training on AMX BPM and AMX Service Bus.\n\nHe is a self motivated team player and takes great pride in what he does. His goal is to develop into an Enterprise Architect.",
+    "location": {
+        "country": "Netherlands",
+        "short": "Tilburg, North Brabant",
+        "city": "Tilburg",
+        "state": "North Brabant",
+        "default": "Tilburg, North Brabant, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "English",
+                "proficiency": "FULL_PROFESSIONAL"
+            }
+        ]
+    },
+    "industry": "Information Technology & Services",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2003
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2005
+                }
+            },
+            "school": {
+                "name": "Dhirubhai Ambani Institute Of Information and Communication Technology",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "Master's degree",
+            "field_of_study": "Information Technology",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2000
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2003
+                }
+            },
+            "school": {
+                "name": "BIT Mesra Student-Industry Relations Cell",
+                "logo": "https://media.licdn.com/dms/image/C560BAQF6c47F0LRulg/company-logo_400_400/0/1593608117563?e=1703721600&v=beta&t=5bOs5tuq5L919LXQBPAFnjgXmdQA8Wl6pKvdKav6DVw",
+                "url": "https://www.linkedin.com/school/birla-institute-of-technology-student-association/"
+            },
+            "degree_name": "Bachelor's degree",
+            "field_of_study": "Computer Application",
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "TIBCO Silver Fabric POC",
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "description": "This Proof-Of-Concept (POC) was used to evaluate the capabilities of TIBCO' Cloud Enablement offering. The POC was meant to evaluate following possibilities:\n1. Growing and shrinking application capacity based on demand\n2. Creating template of TIBCO environment, such that entire environment can be rolled out in matter of minutes.\n3. Automatically allocate resources based on schedule.\n4. Integrating TIBCO Silver Fabric with VMWare vSphere.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Harshit",
+                    "last_name": "Kapoor",
+                    "name": null,
+                    "headline": "Senior Consultant at Ciber"
+                }
+            ]
+        },
+        {
+            "title": "Beheer  - Essent / Enexis / RWE Supply and Trading Netherlands",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "description": "CMS-EAI provides development and application support services to Essent, RWEST, Enexis. While Essent landscape centered around B2C interactions, Enexis and RWEST landscapes majorly implemented B2B integration. Adapters received requests from external systems, in external system\u2019 data model and translated them to Canonical Data Model and placed them on TIBCO RV/EMS based message bus. The messages were picked by a Composite Service and/or by other Adapter Service. Composite Services are responsible to implement complex orchestrations by invoking one or more Adapter services. The Business Process are implemented in iProcess, which communicate with a gateway component (implemnented in TIBCO BusinessWorks). The gateway component communicates with rest of EAI landscape\n\nHarshit is involved in support of a large TIBCO landscape in a high-availability environment. Among the many applications Harshit supported were systems for real-time direction of energy plants, trade on the power and gas markets and BPM systems for connecting new customers.\nFirst among Harshit\u2019 responsibilities was the availability of the production environments, but other important tasks were planned maintenance, improvement analysis, project support, building changes on supported applications and building new TIBCO Applications that span across TIBCO Stack. He revamped monitoring infrastructure for all the customers and also improved 24*7 availability of applications.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Harshit",
+                    "last_name": "Kapoor",
+                    "name": null,
+                    "headline": "Senior Consultant at Ciber"
+                }
+            ]
+        },
+        {
+            "title": "Consolidation - RISE, RISE-T, STPA",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "description": "Client wanted migration of TIBCO Applications to new datacenter.  Client also wanted migration of Messaging Bus transport from Rendezvous to EMS.\nHarshit contributed in redesigning of EAI Architecture. He worked with EAI Architects to create deployment architecture and disaster recovery environment. Part of Harshit\u2019 responsibility was to elicit system requirements, modification of TIBCO Applications to use JMS instead of RV, creating destinations in EMS, setting up monitoring and maintenance for entire environment. There was huge time pressure any slippage in deadline could have imposed heavy cost on customer. The main challenge was to finish the project on time.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Harshit",
+                    "last_name": "Kapoor",
+                    "name": null,
+                    "headline": "Senior Consultant at Ciber"
+                }
+            ]
+        },
+        {
+            "title": "Enterprise Data Warehouse: Santa Clara County",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "description": "Social Services Agency was facing problems due to latency in report generation. Due to lack of single version of truth, SSA was losing funds through duplicate correspondence. Complex reports, those spanned across multiple departments, were not being generated in time. Lack of visualizations in existing reports made decision making difficult.\nData Integration was brought about by building Enterprise Data Warehouse using Oracle Warehouse Builder. Complex reports were generated and distributed using Business Objects XI 3.1 and Xcelsius Enterprise 2008 for dashboards.\nHarshit was involved in designing, modeling and building of data mart, dashboard & reporting solution. He worked in close coordination with SME to elicit, document and baseline requirements. The solution utilized Restful services to access data entities and used Master Data Management techniques to manage non-transactional data entities of the organization.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Harshit",
+                    "last_name": "Kapoor",
+                    "name": null,
+                    "headline": "Senior Consultant at Ciber"
+                }
+            ]
+        },
+        {
+            "title": "KPN Telecom",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "description": "KPN Mobile had a number of systems to provide its telephone and WIFI services. Those systems were integrated through a number of point-to-point connections, which made integration layer rigid. Moreover, there were no reusable components that could provide functionality to handle exceptions, monitor messages, provide centralized lookup etc.\nThe goal of this project was migration of all functional components to SOA, which allows extensive reusability. The solution also involved implementing Canonical Data Model. Integration components were classified into 4 types, namely Frontend Adapters, Composite Services, Backend Adapters and Platform Components. \nHarshit has participated in the project when it had to be offshored. Harshit played instrumental role in off-shoring of integration project from the Netherlands to India. He was involved in development of adapters, composite services and platform components. He actively participated in knowledge transition, creation of knowledge-base, and provided technical leadership to the offshore team. He also developed JAVA based tool to generate BW code, in order to reduce number of defects due to compliance with framework\u2019s standards & guidelines. The tool was able to reduce the development time of low-complexity service by 68%, medium-complexity service by 42% and high-complexity service by 28%",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Harshit",
+                    "last_name": "Kapoor",
+                    "name": null,
+                    "headline": "Senior Consultant at Ciber"
+                }
+            ]
+        },
+        {
+            "title": "SOA Implementation and BW Migration",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "description": "The integration architecture at Reliance Communications was monolithic-project based. Relince Infocom had separate integration systems that performed specific business functions. These systems were implemented using Integration Manager. Due to project based approach operation within the system could not be reused. In addition to this, the system had evolved to spaghetti of business logic because of which addition of new functionality had become extremely difficult and time consuming.\nThe objective of the project was to migrate to SOA implementation through BusinessWorks.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Harshit",
+                    "last_name": "Kapoor",
+                    "name": null,
+                    "headline": "Senior Consultant at Ciber"
+                }
+            ]
+        },
+        {
+            "title": "TIBCO Redesign",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "description": "The customer wants migration of its TIBCO applications to TIBCO AMX suite of products and also needs to migrate to newer version of BusinessConnect to meet security compliance. Part of migration involves phasing out TIBCO Policy Manager and implementing policies in AMX Mediation. The migration involves close arounf 85 TIBCO BusinessWorks applications and over 150 TIBCO Engines, besides 4 instances of BusinessConnect and 2 instances of iProcess.\n\nHarshit is contributing in setting up of AMX environment. He is working in coordination with EAI Architect to create migration strategy and deployment architecture.  Part of Harshit\u2019 responsibility is to elicit system requirement for AMX environment. He is also responsible to setup up monitoring and maintenance for the environment. He is also responsible to transfer knowledge in AMX Administration and Development to his team.\n",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Harshit",
+                    "last_name": "Kapoor",
+                    "name": null,
+                    "headline": "Senior Consultant at Ciber"
+                }
+            ]
+        },
+        {
+            "title": "Transparency",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "description": "Transparency was integrated Plant Management Solution for Essent\u2019 Netherlands and Belgium plants. It provided Plant/Unit Registration, Outage Registration, Transparency Reporting, Production Reporting etc. One of the most important requirements from the solution was that it had to be flexible. Cordys was used to implement the orchestration layer. The solution proved to be inflexible. Customer was not able to add functionality in time.\nThe solution was redone using TIBCO stack. Harshit was involved from inception of the project. Together with a colleague, he was responsible for every phase from requirements gathering to monitoring and maintenance. This was a very critical project for client as compliance deadlines had to be met within stipulated budget.\n",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Harshit",
+                    "last_name": "Kapoor",
+                    "name": null,
+                    "headline": "Senior Consultant at Ciber"
+                }
+            ]
+        },
+        {
+            "title": "US based Utility",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "description": "Client had been complaining that existing architecture was not up to speed with evolving service and product line of the organization. It took too much time to realize a service or product with existing architecture. This was partly due to duplicate logic that existed in silo applications and too many point-to-point connections between endpoints. The business rules of the organization were hard-coded within silo applications which made it very difficult to respond to dynamic markets. Client was also involved in energy trading and required a system that could correlate and respond to events such as weather forecasts.\n\nClient required a solution that could alleviate it from the above mentioned problems.  Use of CDM, CEP, Centralized Transformation Service and Business Rule Service was proposed.\n\nThe implementation not only catered to various transport protocols but also involved XML and Non-XML based message formats. Created Central Transformation Service that allowed reuse of existing transformations.  Content based routers were developed to route messages to appropriate destinations. Centralized business rules services was implemented to provide centrally managed business rules. Utilized ESPER as CEP engine to correlate events and respond to the same by sending messages to downstream applications.  Coordinated with client' business analysts to elicit requirements and create a fully functional solution in very short span of time. Worked with analysts to envision services and also contributed in creation of Canonical Data Model.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Harshit",
+                    "last_name": "Kapoor",
+                    "name": null,
+                    "headline": "Senior Consultant at Ciber"
+                }
+            ]
+        },
+        {
+            "title": "eServeGlobal Integration",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "description": "Integrating eServeGlobal Credit Control System with rest of application landscape.\nHarshit developed a custom adapter for eServeGlobal Credit Control System. The system exposed TCP/IP based interface to receive commands and parameters. The custom adapter accepted request over RV protocol in CDM and translated it into eServGlobal CCS system Application Specific Object Model and vice versa. The key challenge in development was to isolate transformation logic from communication channel.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Harshit",
+                    "last_name": "Kapoor",
+                    "name": null,
+                    "headline": "Senior Consultant at Ciber"
+                }
+            ]
+        }
+    ],
+    "publications": [],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 157295,
+                "name": "Ciber",
+                "logo": "https://media.licdn.com/dms/image/D560BAQHfo4pjlj9ZBw/company-logo_400_400/0/1692266034841?e=1703721600&v=beta&t=ZZgICS20yL_1a-HwpbUTpXZjGViw5IUKQy_IqpygcUY",
+                "url": "https://www.linkedin.com/company/ciber/",
+                "employees": {
+                    "start": 5001,
+                    "end": 10000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2010
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Tilburg Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2010
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Ciber Global",
+                    "description": "\u2022\tRedesigning of EAI landscape.\n\u2022\tMigrating complete landscape across data center.\n\u2022\tMigrating from Cordy to TIBCO.\n\u2022\tContributing in RFP responses.\n\u2022\tImplementation of change requests on mission critical interfaces and maintaining a TIBCO applications spanning across TIBCO stack. \n\u2022\tReview on all major development work within the team.\n\u2022\tCreation of Service Improvement Proposal to improve stability of EAI landscape.\n\u2022\tExtending functional/technical functionality of existing TIBCO applications.\n\u2022\tProviding 3rd line technical support for TIBCO based applications.\n\u2022\tDeveloping Proof-Of-Concept for continuous improvement \n\u2022\tTIBCO Tools used:\n\nTIBCO Silver Fabric\nTIBCO AMX Service Bus\nTIBCO BusinessWorks\nTIBCO SmartMapper\nTIBCO Active Database Adapter\nTIBCO SAP R/3 Adapter\nTIBCO Rendezvous\nTIBCO Administrator\nTIBCO BusinessConnect\nTIBCO EDI Protocol Plugin For BusinessConnect\nTIBCO SOAP Protocol Plugin For BusinessConnect\nTIBCO EZComm Protocol Plugin For BusinessConnect\nTIBCO Hawk\nTIBCO iPRocess",
+                    "title": "Senior Consultant",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 640147,
+                "name": "APG Asset Management",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQH5Gt5_IuQ1xQ/company-logo_400_400/0/1691995555791?e=1703721600&v=beta&t=Ul-1El9gSuP2ZFv-Z4Rv8xFJYdiJdbAUw4LDgXtVKxA",
+                "url": "https://www.linkedin.com/company/apg-asset-management/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": 2015
+                        }
+                    },
+                    "company": "APG Asset Management",
+                    "description": null,
+                    "title": "Senior Consultant",
+                    "employment_type": null
+                },
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": 2015
+                        }
+                    },
+                    "company": "APG Asset Management",
+                    "description": null,
+                    "title": "Senior Consultant",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 157295,
+                "name": "Ciber",
+                "logo": "https://media.licdn.com/dms/image/D560BAQHfo4pjlj9ZBw/company-logo_400_400/0/1692266034841?e=1703721600&v=beta&t=ZZgICS20yL_1a-HwpbUTpXZjGViw5IUKQy_IqpygcUY",
+                "url": "https://www.linkedin.com/company/ciber/",
+                "employees": {
+                    "start": 5001,
+                    "end": 10000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2008
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2010
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Bengaluru Area, India",
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2008
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2010
+                        }
+                    },
+                    "company": "Ciber Global",
+                    "description": "\u2022\tResponded to request-for-proposals.\n\u2022\tContributed toward creation of methodologies and reference architectures.\n\u2022\tEvaluated open source & commercial tools.\n\u2022\tDeveloped proof-of-concept in Complex Event Processing and Enterprise Service Bus.\n\u2022\tImplemented Canonical Data Model.\n\u2022\tContributed in implementation Data Integration Solution.\n\u2022\tTools used are:\n\nTIBCO BusinessWorks\nTIBCO EMS\nApache ServiceMix\nESPER\nOracle Warehouse Builder\nSAP BusinessObjects\nSAP Xcelsius",
+                    "title": "Senior Consultant",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1259,
+                "name": "Atos Origin",
+                "logo": "https://media.licdn.com/dms/image/D4D0BAQEYl-E6odacMA/company-logo_400_400/0/1688547763698?e=1703721600&v=beta&t=g0_p9tLBvew5nbTSjeJWS2k1rT6LeRqCvKKPXFxKPY8",
+                "url": "https://www.linkedin.com/company/atos/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2006
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2008
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2007
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2008
+                        }
+                    },
+                    "company": "Atos",
+                    "description": "\u2022\tEstablished/improved process and lead the team to achieve higher quality standards.\n\u2022\tCreated a Java based tool to generate TIBCO Business Works code.\n\u2022\tContributed to organization-level quality audits and training camps. \n\u2022\tProvided technical leadership to the team.\n\u2022\tCoached junior team members\n\u2022\tQ & A of all development work form offshore.\n\u2022\tDeveloped a number business services and platform components with various TIBCO products.",
+                    "title": "System Analyst/Team Lead",
+                    "employment_type": null
+                },
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2006
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2007
+                        }
+                    },
+                    "company": "Atos",
+                    "description": "\u2022\tOffshored complete development for KPN' Wireless business line.  \n\u2022\tMentored/coached fresh graduates and experienced team members.\n\u2022\tWas responsible for complete development lifecycle of TIBCO components, including requirement analysis, designing, implementation, testing, review and documentation\n\u2022\tDeveloped a number of business services and platform components with various TIBCO products.\n\u2022\tTIBCO products used:\n\nTIBCO Business Works\nTIBCO Smart Mapper\nTIBCO Rendezvous\nTIBCO EMS\nTIBCO Administrator",
+                    "title": "Software Engineer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 2377,
+                "name": "Reliance Infocomm",
+                "logo": "https://media.licdn.com/dms/image/C510BAQHAnODmifWl_Q/company-logo_400_400/0/1535090127589?e=1703721600&v=beta&t=pvGexoX_W20VTo-YGxvpTNzHFnhEHCOEllQsUdAiAI4",
+                "url": "https://www.linkedin.com/company/reliance-communications/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2005
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2006
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2005
+                        },
+                        "end": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2006
+                        }
+                    },
+                    "company": "Reliance Communications",
+                    "description": "\u2022\tWorked with various TIBCO Products to develop integration modules such as order management system, customer request fulfillment and credit control system.\n\u2022\tProvided tier 3 support. \n\u2022\tTIBCO products used:\n\n                   TIBCO Integration Manager\n                   TIBCO Business Works\n                   TIBCO Active Database Adapter\n                   TIBCO SAP R/3 Adapter\n                   TIBCO Rendezvous\n                   TIBCO Adapter SDK\n                   TIBCO Administrator",
+                    "title": "TIBCO Developer",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "TIBCO",
+        "SOA",
+        "EAI",
+        "ESB",
+        "SOAP",
+        "JMS",
+        "TIBCO Rendezvous",
+        "Integration",
+        "Architecture",
+        "Architectures",
+        "Java",
+        "Web Services",
+        "REST",
+        "Enterprise Integration",
+        "Messaging",
+        "EAI Design Patterns",
+        "TIBCO ADB Adapter",
+        "TIBCO Adapter SDK",
+        "TIBCO Administrator",
+        "TIBCO Silver Fabric"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

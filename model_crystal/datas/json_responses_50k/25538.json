@@ -1,0 +1,871 @@
+{
+    "profile_id": "maelstrom",
+    "first_name": "Damian Andrew",
+    "last_name": "Tamburri",
+    "sub_title": "Associate Professor at TU/e - JADS",
+    "profile_picture": "https://media.licdn.com/dms/image/C4D03AQEISryfyEnlFA/profile-displayphoto-shrink_800_800/0/1573554939513?e=1701302400&v=beta&t=z6M1YKIpBiD-sVA5TPDYRqd-YtNO6_xWaVRAXeERRic",
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAAAENxHcBa1H1ublQptnDohzQbexUOXbuXNw",
+    "object_urn": 17679479,
+    "birth_date": null,
+    "summary": "Damian is an Associate Professor at the Eindhoven Univ. of Technology and Jheronimus Academy of Data Science, in s'Hertogenbosch, The Netherlands. Damian completed his Ph.D. at VU University Amsterdam, The Netherlands in March 2014 \"with mention\" one year in advance of a standard Ph.D. Contract. His research interests lie mainly in Complex Software and Data Architectures (with a focus on Data-Intensive Architectures, Cloud & Microservices as well as Machine-Learning & Computational Intelligence Architectures), Complex Software Architecture Properties (with a focus on Privacy & Security), and Empirical Software Engineering (with a focus on Organisational, Social, and Societal aspects with Qualitative Methods, social-networks analysis as well as Machine-Learning). Damian has published over 100+ papers in either Journals such as the Transactions on Software Engineering (TSE) Journal, The ACM Computing Surveys (CSUR) Journal, the IEEE Software Magazine or top software engineering conferences (such as ICSE or FSE) and top software architecture conferences (such as ECSA or WICSA). Also, Damian is an active contributor and lead research in many EU FP6, FP7, and H2020 projects, such as S-Cube, MODAClouds, SeaClouds, DICE, ANITA, DossierCLOUD, ProTECT, RADON, SODALITE, and more. In addition, Damian is IEEE Software and ACM TOSEM editorial board member, secretary of the TOSCA TC as well as secretary of the IFIP TC2, TC6, and TC8 WG on \u201cService-Oriented Computing\u201d. ",
+    "location": {
+        "country": "Netherlands",
+        "short": "\u2019s-Hertogenbosch, North Brabant",
+        "city": "\u2019s-Hertogenbosch",
+        "state": "North Brabant",
+        "default": "\u2019s-Hertogenbosch, North Brabant, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [
+        {
+            "url": null,
+            "title": "From Technical to Social Debt: Analyzing Software Development Communities using Social-Networks Analysis",
+            "description": "An established body of knowledge discusses the importance of technical debt for product quality. In layman\u00e2\u0080\u0099s terms, Technical debt represents the current state of a software product as a result of accumulated technical decisions (e.g., architecture decisions, etc.). Techniques to study product quality limitations inherent to technical debt include technical data mining, code-analysis. \r\nNevertheless, quite recently we figured out that technical debt is only one face of the coin. In fact, social debt, the social and organisational counterpart to technical debt, plays a pivotal role in determining software product and process quality. Social debt reflects the social and organisational problems occurring in software development communities. Social debt reflects socio-technical decisions (e.g., adopting agile methods or outsourcing) and can compromise the quality of software development communities, eventually leading to  software failure.\r\n\r\nStudying and harnessing social debt is paramount to ensure successful software engineering in large-scale software development communities. This talk will focus on explaining the relations between technical and social debt while delineating techniques inherited from technical debt, organisational research and social networks research that could be rephrased to investigate social debt in software engineering (e.g., socio-technical code analysis, social-code graphs, socio-technical debt patterns, etc.).",
+            "image": "https://media.licdn.com/dms/image/C4E2DAQGLhaj3Y5mrpA/profile-treasury-document-cover-images_1920/0/1583743863116?e=1696438800&v=beta&t=V7xQ-3s9MP8lUfRjMSr1Bdul_FZRpV58A7_xKWfplUw"
+        }
+    ],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "English",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "French",
+                "proficiency": "LIMITED_WORKING"
+            },
+            {
+                "name": "German",
+                "proficiency": "LIMITED_WORKING"
+            },
+            {
+                "name": "Italian",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "Spanish",
+                "proficiency": "LIMITED_WORKING"
+            }
+        ]
+    },
+    "industry": "Research",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2007
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2009
+                }
+            },
+            "school": {
+                "name": "University of LAquila",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "MSc",
+            "field_of_study": "Software Engineering and Architectures",
+            "grade": "110/110 Summa Cum Laude"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2007
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2008
+                }
+            },
+            "school": {
+                "name": "BORLAND Academy Course",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "MDA Modeller",
+            "field_of_study": "MDA, QVT, ECLIPSE, EMF",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2002
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2006
+                }
+            },
+            "school": {
+                "name": "Universit\u00e0 degli Studi dell' Aquila",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "BSc",
+            "field_of_study": "Computer Science",
+            "grade": "104/110"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2005
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2005
+                }
+            },
+            "school": {
+                "name": "NOTE",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "B.Sc; M.Sc",
+            "field_of_study": "Computer Science and Engineering; Advanced Engineering;",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 1997
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2002
+                }
+            },
+            "school": {
+                "name": "Liceo Scientifico",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "Maths/Physics Major",
+            "field_of_study": "National Computer Science Program",
+            "grade": "100/100 Summa Cum Laude"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 1997
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2002
+                }
+            },
+            "school": {
+                "name": "Liceo Scientifico \"E. Majorana\" - Isernia",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "Diploma Matematico-Fisico con specializzazione nel Piano Nazionale Informatica (PNI)",
+            "field_of_study": "Exact Sciences",
+            "grade": "100/100"
+        }
+    ],
+    "patents": [
+        {
+            "inventors": [
+                {
+                    "first_name": "Damian Andrew",
+                    "last_name": "Tamburri",
+                    "headline": "Associate Professor at TU/e - JADS",
+                    "profile_picture": "https://media.licdn.com/dms/image/C4D03AQEISryfyEnlFA/profile-displayphoto-shrink_800_800/0/1573554939513?e=1701302400&v=beta&t=z6M1YKIpBiD-sVA5TPDYRqd-YtNO6_xWaVRAXeERRic"
+                }
+            ],
+            "patent_number": null,
+            "title": "\"An Automated Hardware-Assisted Camera-Tracking Software Processor\" Patent Pending",
+            "issuer": "eu",
+            "date": null,
+            "application_number": null
+        }
+    ],
+    "awards": [
+        {
+            "title": "ESA Services Proposal Review",
+            "description": "I was selected among many possible candidates to be a reviewer of the Services Proposal Standard for the European Space Agency (ESA).",
+            "issuer": "TERMA GmbH / ESA",
+            "date": {
+                "month": 5,
+                "day": null,
+                "year": 2007
+            }
+        },
+        {
+            "title": "Regional Merit Scholarship",
+            "description": "I was awarded a regional merit scholarship of symbolic and economic value to pay my outstanding marks in the last three years of Senior High School.",
+            "issuer": "Regione Molise",
+            "date": {
+                "month": 6,
+                "day": null,
+                "year": 2002
+            }
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Borland MDA Specialist",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Borland Certification Academy",
+            "url": null,
+            "license_number": null,
+            "display_source": null,
+            "company": null
+        }
+    ],
+    "organizations": [
+        {
+            "name": "Senior Member of IEEE and Senior Member of ACM",
+            "position": "IEEE Translation Editor and Facebook Ambassador",
+            "date_start": {
+                "month": 9,
+                "day": null,
+                "year": 2009
+            },
+            "date_end": null
+        }
+    ],
+    "projects": [
+        {
+            "title": "Dually",
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2005
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2008
+                }
+            },
+            "description": "Many architectural languages have been proposed in the last fifteen years, each one with the chief aim of becoming the ideal language for specifying software architectures. What is evident nowadays, instead, is that architectural languages are defined by stakeholder concerns. Capturing all such concerns within a single, narrowly focused notation is very difficult. At the same time it is also impractical to define and use a \"universal\" notation, such as UML. As a result, many domain specific notations for architectural modeling have been proposed, each one focussing on a specific application domain, analysis type, or modeling environment.\n\nThese considerations led us to propose DUALLy as a framework to create interoperability among ADLs themselves as well as UML. DUALLy allows architects to transform concepts of an architectural model into semantically equivalent concepts in other architectural models. DUALLy works at two abstraction levels: meta-modeling and modeling.\n\nDUALLy is implemented as an Eclipse plugin.\n\nThe main advantages DUALLy exposes can be summarized as follows:\n\nDUALLy works at two abstraction levels, providing a clear separation between model driven experts (the technical stakeholder) and software architects (the final users). The model transformation engine is completely hidden to a software architect, making DUALLy easy to use.\nDUALLy allows software archtiects to transform among formal ADLs and UML model-based notations and viceversa.\nSoftware architects can continue using familiar architectural notations and tools, and reusing existing architectural models.\nDUALLy permits both languages and tools interoperability.\nThe weaving models among two architectural notations are defined once, and reused for each model that will be made.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Damian Andrew",
+                    "last_name": "Tamburri",
+                    "name": null,
+                    "headline": "Associate Professor at TU/e - JADS"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Patrizio",
+                    "last_name": "Pelliccione",
+                    "name": null,
+                    "headline": "Director of the Computer Science area and Full Professor in Software Engineering at Gran Sasso Science Institute (GSSI)"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Ivano",
+                    "last_name": "Malavolta",
+                    "name": null,
+                    "headline": "Associate Professor at VU | Director of the Network Institute VU"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Alfonso",
+                    "last_name": "Pierantonio",
+                    "name": null,
+                    "headline": "Professore presso Universit\u00e0 degli Studi dell'Aquila"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Davide",
+                    "last_name": "Di Ruscio",
+                    "name": null,
+                    "headline": "Associate Professor at University of L'Aquila"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Romina",
+                    "last_name": "Eramo",
+                    "name": null,
+                    "headline": "Assistant Professor at Universit\u00e0 degli Studi di Teramo"
+                }
+            ]
+        }
+    ],
+    "publications": [
+        {
+            "name": "Complete List of Publications",
+            "publisher": "Google Scholar",
+            "url": "http://scholar.google.it/citations?user=l7BGAq8AAAAJ",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2013
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Damian Andrew",
+                    "last_name": "Tamburri",
+                    "name": null,
+                    "headline": "Associate Professor at TU/e - JADS"
+                }
+            ]
+        },
+        {
+            "name": "Organizational Social Structures for Software Engineering",
+            "publisher": "ACM Computing Surveys",
+            "url": "https://www.researchgate.net/publication/230764805_Organizational_Social_Structures_for_Software_Engineering?ev=prf_pub",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2012
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Damian Andrew",
+                    "last_name": "Tamburri",
+                    "name": null,
+                    "headline": "Associate Professor at TU/e - JADS"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Patricia",
+                    "last_name": "Lago",
+                    "name": null,
+                    "headline": "Professor of Software and Sustainability at Vrije Universiteit Amsterdam"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Hans van Vliet",
+                    "headline": null
+                }
+            ]
+        },
+        {
+            "name": "Expertise overlap in collaborative relationships",
+            "publisher": null,
+            "url": null,
+            "date": {
+                "month": null,
+                "day": null,
+                "year": null
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Damian Andrew",
+                    "last_name": "Tamburri",
+                    "name": null,
+                    "headline": "Associate Professor at TU/e - JADS"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Francesco",
+                    "last_name": "Castri",
+                    "name": null,
+                    "headline": "Senior WordPress Developer at Reiss Digital Life"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Zuzana",
+                    "last_name": "Sasovova",
+                    "name": null,
+                    "headline": "Associate Professor at Vrije Universiteit Amsterdam"
+                }
+            ]
+        }
+    ],
+    "courses": [
+        {
+            "name": "Component Based Systems Analysis Design and Testing",
+            "number": null
+        },
+        {
+            "name": "JET Development",
+            "number": null
+        },
+        {
+            "name": "MDA Expertise",
+            "number": null
+        },
+        {
+            "name": "QVT Development",
+            "number": null
+        }
+    ],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 10586981,
+                "name": "Jheronimus Academy of Data Science",
+                "logo": "https://media.licdn.com/dms/image/C510BAQG3Hkz64R-XBA/company-logo_400_400/0/1519886942565?e=1703721600&v=beta&t=sh0LVb5288_NtECu-MQ1qY_Jmw7zPm4bO3MVdugSlus",
+                "url": "https://www.linkedin.com/school/jheronimus-academy-of-data-science/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "s'Hertogenbosch",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Jheronimus Academy of Data Science",
+                    "description": "Damian is an Associate Professor at the Jheronimus Academy of Data Science, in s'Hertogenbosch, The Netherlands. Damian completed his Ph.D. at VU University Amsterdam, The Netherlands in March 2014 \"with mention\" one year in advance of a standard Ph.D. Contract. His research interests lie mainly in Complex Software Architectures (with a focus on Data-Intensive Architectures, Cloud & Microservices as well as Machine-Learning & Computational Intelligence Architectures), Complex Software Architecture Properties (with a focus on Privacy & Security), and Empirical Software Engineering (with a focus on Organisational, Social, and Societal aspects with Qualitative Methods, social-networks analysis as well as Machine-Learning). Though still in his very early career, Damian has published over 100+ papers in either Journals such as the Transactions on Software Engineering (TSE) Journal, The ACM Computing Surveys (CSUR) Journal, the IEEE Software Magazine or top software engineering conferences (such as ICSE or FSE) and top software architecture conferences (such as ECSA or WICSA). Also, Damian has been an active contributor and lead research in many EU FP6, FP7, and H2020 projects, such as S-Cube, MODAClouds, SeaClouds, DICE, ANITA, DossierCLOUD, ProTECT, and more. In addition, Damian is IEEE Software editorial board member, secretary of the TOSCA TC as well as secretary of the IFIP TC2, TC6, and TC8 WG on \u201cService-Oriented Computing\u201d.",
+                    "title": "Associate Professor",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Jeronimus Academy of Data Science",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "s'Hertogenbosh",
+                    "date": {
+                        "start": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2017
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "Jeronimus Academy of Data Science",
+                    "description": "Anything between Big Data Architectures, Machine Learning, and how to combine those two.",
+                    "title": "Assistant Professor",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 165509,
+                "name": "Politecnico di Milano",
+                "logo": "https://media.licdn.com/dms/image/C560BAQGRQliQAbXOSQ/company-logo_400_400/0/1519878058613?e=1703721600&v=beta&t=rf6WLX88EAomfsH2caZcPaLDVZtKOJQnO-xJ56Cx7bk",
+                "url": "https://www.linkedin.com/school/polimi/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Milano",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2017
+                        }
+                    },
+                    "company": "Politecnico di Milano",
+                    "description": "I contributed to the Model-Driven Specification of an Architectural Description Language (ADL) to describe and actionalize cloud applications on-the-fly using enabled interpreters. Also, I defined model-driven specifications to build Big-Data analytics using cloud technologies and in support of complex distributed organizational dynamics during software engineering, such as DevOps. Finally, I continued my pursuit of the additional project cost to software engineering, linked to social and organizational dynamics, a.k.a. social debt, by means of organizations and social-networks analysis (SNA).",
+                    "title": "Postdoctoral Fellow",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "IEEE Software",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": 2017
+                        }
+                    },
+                    "company": "IEEE Software",
+                    "description": null,
+                    "title": "Social Media Leader",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 5570,
+                "name": "Vrije Universiteit Amsterdam",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQGFG964atm3Ow/company-logo_400_400/0/1682661887840?e=1703721600&v=beta&t=871s4br2EokXU4GPzYVwsoy3BpQAoKkgU-c2zYvtGmQ",
+                "url": "https://www.linkedin.com/school/vrije-universiteit-amsterdam/",
+                "employees": {
+                    "start": 5001,
+                    "end": 10000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2014
+                        },
+                        "end": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2015
+                        }
+                    },
+                    "company": "Vrije Universiteit Amsterdam (VU Amsterdam)",
+                    "description": "An established body of knowledge discusses the importance of technical debt for product quality. In layman\u2019s terms, Technical debt represents the current state of a software product as a result of accumulated technical decisions (e.g., architecture decisions, etc.). Techniques to study product quality limitations inherent to technical debt include technical data mining, code-analysis. \nNevertheless, quite recently we figured out that technical debt is only one face of the coin. In fact, social debt, the social and organisational counterpart to technical debt, plays a pivotal role in determining software product and process quality. Social debt reflects the social and organisational problems occurring in software development communities. Social debt reflects socio-technical decisions (e.g., adopting agile methods or outsourcing) and can compromise the quality of software development communities, eventually leading to  software failure.\n\nStudying and harnessing social debt is paramount to ensure successful software engineering in large-scale software development communities. This talk will focus on explaining the relations between technical and social debt while delineating techniques inherited from technical debt, organisational research and social networks research that could be rephrased to investigate social debt in software engineering (e.g., socio-technical code analysis, social-code graphs, socio-technical debt patterns, etc.)",
+                    "title": "Post-Doc",
+                    "employment_type": null
+                },
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2011
+                        },
+                        "end": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2014
+                        }
+                    },
+                    "company": "Vrije Universiteit Amsterdam (VU Amsterdam)",
+                    "description": "I worked on Agile Service Networks, Organizational Social Structures, Global Software Development and Cloud Computing. My plan was to establish the feasibility of Agile Service Networks for Global Software Engineering and Knowledge Management. These ended up being SOA-Enabled communication and coordination devices which were supporting, Social, Business-oriented services during DevOps and targeted to professionals.",
+                    "title": "Ph.D. Researcher",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 719180,
+                "name": "Universit\u00e0 dell'Aquila",
+                "logo": null,
+                "url": "https://www.linkedin.com/company/universit-dell'aquila/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2003
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2009
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2003
+                        },
+                        "end": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2009
+                        }
+                    },
+                    "company": "Universit\u00e0 dell'Aquila",
+                    "description": "Research on DUALLy and Dynamic Software Architectures",
+                    "title": "Doc.",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "TERMA GmbH / ESA",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2007
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2009
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2007
+                        },
+                        "end": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2009
+                        }
+                    },
+                    "company": "TERMA GmbH / ESA",
+                    "description": "Reverse Engineering of Large and Complex Legacy Space Operations Control Systems. MDA oriented Architecting and re-engineering of legacy systems. R&amp;D. Proposal writing and Review. Modeling, Modeling Framework Meta-Specification.",
+                    "title": "Software Engineer - MDA Expert",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Private Contractor",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 1999
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2000
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 1999
+                        },
+                        "end": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2000
+                        }
+                    },
+                    "company": "Private Contractor",
+                    "description": "I was responsible for the maintenace and repair of computer systems.",
+                    "title": "Maintenance Expert",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [
+        {
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2009
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2009
+                }
+            },
+            "role": "IT attach\u00e9",
+            "company": {
+                "id": null,
+                "name": "Italian Army during The AQ earthquake crysis",
+                "logo": null,
+                "url": null
+            },
+            "cause": "SOCIAL_SERVICES",
+            "description": "Life forming experience in helping the set-up and activities of the earthquake insurgency management teams at L'Aquila under the coordination of Ltnt. Cristian Franciosi"
+        }
+    ],
+    "skills": [
+        "Rational Software Architect",
+        "Software Verification",
+        "Software Design",
+        "Software Engineering",
+        "Software Development",
+        "Architecture",
+        "UML",
+        "SOA",
+        "Requirements Analysis",
+        "Testing",
+        "Java",
+        "C",
+        "Programming",
+        "Eclipse",
+        "Research",
+        "C++",
+        "Linux",
+        "Modeling",
+        "XML",
+        "Analysis"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

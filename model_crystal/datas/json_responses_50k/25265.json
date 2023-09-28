@@ -1,0 +1,385 @@
+{
+    "profile_id": "christoslouizos",
+    "first_name": "Christos",
+    "last_name": "Louizos",
+    "sub_title": "PhD candidate in Machine Learning",
+    "profile_picture": null,
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAAA7C1hwBv5YqHZ7KVcNv7ttCRUYaGGE5UFY",
+    "object_urn": 247649820,
+    "birth_date": null,
+    "summary": null,
+    "location": {
+        "country": "Netherlands",
+        "short": "Amsterdam, North Holland",
+        "city": "Amsterdam",
+        "state": "North Holland",
+        "default": "Amsterdam, North Holland, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "English",
+                "proficiency": "PROFESSIONAL_WORKING"
+            },
+            {
+                "name": "French",
+                "proficiency": "LIMITED_WORKING"
+            },
+            {
+                "name": "Greek",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ]
+    },
+    "industry": "Computer Software",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "school": {
+                "name": "University of Amsterdam",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQEfHBj_we-_kw/company-logo_400_400/0/1659945104460?e=1703721600&v=beta&t=nxt14hUDODg3MttkNj5Qa0fCu2FbgGbRXyFSapRtNv4",
+                "url": "https://www.linkedin.com/school/university-of-amsterdam/"
+            },
+            "degree_name": "Master of Science (M.Sc.)",
+            "field_of_study": "Artificial Intelligence",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "school": {
+                "name": "Summer School at the Institute of Informatics & Telecommunications of NCSR \"Demokritos\"",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": null,
+            "field_of_study": "Cognitive Systems and Interactive Robotics, Social Media, Digital Preservation",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2006
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "school": {
+                "name": "Ethnikon kai Kapodistriakon Panepistimion Athinon",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQFb2kiXq0tftw/company-logo_400_400/0/1519863326011?e=1703721600&v=beta&t=qUTNGmhvE1i4bhTw8cFy7DIQpnkOwgKXNqjKOjNaevQ",
+                "url": "https://www.linkedin.com/school/ethnikon-kai-kapodistriakon-panepistimion-athinon/"
+            },
+            "degree_name": "Bachelor of Science (B.Sc.)",
+            "field_of_study": "Informatics and Telecommunications",
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "Argument Extraction on Social Media",
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "description": "Explored the literature on state of the art argument extraction techniques and developed an approach for the mining of arguments from social media texts. The proposed approach employed machine learning in order to identify argumentative sentences, as well as to extract the components of the arguments in those sentences, more specifically the premises and the claim.\n\nSupervision: Dr. George Petasis at N.C.S.R. Demokritos, Dr. Evangelos Kanoulas at Google Inc.\n",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Christos",
+                    "last_name": "Louizos",
+                    "name": null,
+                    "headline": "PhD candidate in Machine Learning"
+                }
+            ]
+        },
+        {
+            "title": "Online Clustering Scheme for Novelty Detection in Data Streams",
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "description": "Research project which involved the efficient treatment of the clustering problems in\ndata streams. Developed an improved variant of ART(Adaptive Resonance Theory)\nscheme by accomplishing the objective to discover a way for online clustering through\nappropriate handling of the novelties, outliers and concept drifts that occur in real\nstreams of data.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Christos",
+                    "last_name": "Louizos",
+                    "name": null,
+                    "headline": "PhD candidate in Machine Learning"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Dimitra",
+                    "last_name": "Zafeiropoulou",
+                    "name": null,
+                    "headline": "Senior Software Engineer at IKEA"
+                }
+            ]
+        }
+    ],
+    "publications": [],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 4081,
+                "name": "University of Amsterdam",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQEfHBj_we-_kw/company-logo_400_400/0/1659945104460?e=1703721600&v=beta&t=nxt14hUDODg3MttkNj5Qa0fCu2FbgGbRXyFSapRtNv4",
+                "url": "https://www.linkedin.com/school/university-of-amsterdam/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amsterdam Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "University of Amsterdam",
+                    "description": null,
+                    "title": "PhD Candidate",
+                    "employment_type": null
+                },
+                {
+                    "location": "Amsterdam Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2014
+                        },
+                        "end": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2015
+                        }
+                    },
+                    "company": "University of Amsterdam",
+                    "description": null,
+                    "title": "Research Assistant",
+                    "employment_type": null
+                },
+                {
+                    "location": "Amsterdam Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2014
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2014
+                        }
+                    },
+                    "company": "University of Amsterdam",
+                    "description": null,
+                    "title": "Student Research Assistant",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 2017,
+                "name": "Qualcomm",
+                "logo": "https://media.licdn.com/dms/image/C560BAQHHmRgEadFrdA/company-logo_400_400/0/1611250856145?e=1703721600&v=beta&t=wrzOy57fVbVDLO8UGuCpsNhDBgAkjOBfujzNupRBFTk",
+                "url": "https://www.linkedin.com/company/qualcomm/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amsterdam Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2018
+                        }
+                    },
+                    "company": "Qualcomm",
+                    "description": null,
+                    "title": "Research Intern",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 11130470,
+                "name": "OpenAI",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQG0lRhNgYJCXw/company-logo_400_400/0/1678382029586?e=1703721600&v=beta&t=4Mq8evwtsT58n0n7njLQ66Kp3jO_HOt6A04l56tJh84",
+                "url": "https://www.linkedin.com/company/openai/",
+                "employees": {
+                    "start": 201,
+                    "end": 500
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "San Francisco, California",
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2017
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2017
+                        }
+                    },
+                    "company": "OpenAI",
+                    "description": null,
+                    "title": "Research Intern",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Machine Learning",
+        "Artificial Intelligence",
+        "Linux",
+        "Java",
+        "Data Mining",
+        "Pattern Recognition",
+        "MySQL",
+        "Teamwork",
+        "Python",
+        "OOP",
+        "Algorithms",
+        "Databases",
+        "Programming",
+        "Software Development",
+        "Software Engineering",
+        "Distributed Systems",
+        "LaTeX",
+        "Subversion",
+        "Git",
+        "Data Analysis"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

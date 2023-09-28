@@ -1,0 +1,877 @@
+{
+    "profile_id": "ronaldpaloschi",
+    "first_name": "Ronald",
+    "last_name": "Paloschi",
+    "sub_title": "Senior Software Developer at Booking.com",
+    "profile_picture": "https://media.licdn.com/dms/image/C4D03AQEqwlHPLhcTow/profile-displayphoto-shrink_800_800/0/1517594742899?e=1701302400&v=beta&t=e6BAbdFz-gm29oJAKgUEA3OOYSVzyY8vmFueFx1Maak",
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAAAYdbYsB23Kt4m6G0HPokAWHviA24dunuxI",
+    "object_urn": 102591883,
+    "birth_date": null,
+    "summary": "I've been working with technology since the late nineties. Self-taught and extremely curious, I began my career working on computer maintenance at the age of 16. \n\nThe following year, I started working with technical support at Audaces. I then used this opportunity to prepare myself with the knowledge of the problem domain (CAD/CAM for textile industry) and evolve my professional skills, doing the bridge between technical support and the development team. \n\nDue to results shown, I was promoted to Junior Developer, doing C++ development at the company's main product, where I also obtained extensive experience in reverse engineering binary streams. \n\nHaving evolved technically and professionally, I climbed up until reaching the position of Senior Developer (2007), having composed several teams, developing systems in C++, C, Python and Java. Also leading the adoption of several agile development practices like TDD, peer code review and continuous build. At this point I have accumulated a broad range of experiences in several fields of software engineering: from code quality metrics to code coverage, from legacy code to greenfield development.",
+    "location": {
+        "country": "Netherlands",
+        "short": "Amsterdam, North Holland",
+        "city": "Amsterdam",
+        "state": "North Holland",
+        "default": "Amsterdam, North Holland, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "BR",
+            "language": "pt"
+        },
+        "supported_locales": [
+            {
+                "country": "BR",
+                "language": "pt"
+            },
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "English",
+                "proficiency": "FULL_PROFESSIONAL"
+            },
+            {
+                "name": "Portuguese",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ]
+    },
+    "industry": "Computer Software",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2010
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "school": {
+                "name": "Est\u00e1cio",
+                "logo": "https://media.licdn.com/dms/image/C560BAQEc8le1aXrovQ/company-logo_400_400/0/1620397406171?e=1703721600&v=beta&t=0jGuCUQ90jLKX_yeKqxQB2DYOP-VWV-df344S4Mm6Ao",
+                "url": "https://www.linkedin.com/school/estacio/"
+            },
+            "degree_name": "Bacharelado em Sistemas de Informa\u00e7\u00e3o",
+            "field_of_study": "Sistemas de Informa\u00e7\u00e3o, Ci\u00eancias da Computa\u00e7\u00e3o",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2001
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2005
+                }
+            },
+            "school": {
+                "name": "UFSC - Universidade Federal de Santa Catarina",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "Bacharelado em Ci\u00eancias da Computa\u00e7\u00e3o",
+            "field_of_study": "Ci\u00eancias da computa\u00e7\u00e3o",
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "Audaces Apparel - Internal Model",
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "description": "The Model of the Audaces Apparel system is an ancient in-house developed library that abstracts everything, from the base maths to the high level model. It reached a limit of how much it can scale. South American markets are less demanding on the garment characteristics therefore demanding less specialized tools. \n\nTrying to enter European and Asian markets has shown that that limit was reached. It was no longer possible to add new features to be able to sell on those markets. \n\nContributions: \n- Added an abstraction to the low level math library. \n- Added three implementations: One using the old in-house library, another over the CGAL library and a third one using OpenCasCade library. \n- Added a battery of tests to show that the three implementations behave exactly the same. \n- OpenCasCade was chosen after a comparative analysis has shown it was the best option.\n- With this new maths library in place we were able to evolve the model abstraction with the help of a Specialist (Patricia). \n- Defined a new architecture using modern C++ '11 and '14 features.\n",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Ronald",
+                    "last_name": "Paloschi",
+                    "name": null,
+                    "headline": "Senior Software Developer at Booking.com"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Leonardo Vitor",
+                    "last_name": "D.",
+                    "name": null,
+                    "headline": "Software Developer"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Alessandro Jackson de Oliveira",
+                    "headline": null
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Patricia",
+                    "last_name": "Ferrari",
+                    "name": null,
+                    "headline": "Product Manager"
+                }
+            ]
+        },
+        {
+            "title": "CBin: DSL for reverse engineering binary files and protocols",
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "description": "Implementation of final work's DSL with an Eclipse based editor and utilities. \n\nA DSL to describe binary streams. The runtime read and interpret a binary stream according to what was described with the language. The code is generated so every change is done on the DSL. It means less duplications and better, more readable code.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Ronald",
+                    "last_name": "Paloschi",
+                    "name": null,
+                    "headline": "Senior Software Developer at Booking.com"
+                }
+            ]
+        },
+        {
+            "title": "Audaces Data Interchange Team",
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "description": "Most of the company's products are C++ native systems, protected by a co-processor and a packer over the final executable, as a consequence, all of the solutions are native. \n\nIt had two requirements: \n1) Reverse engineer a new binary format. \n2) Implement a better framework for reverse engineer and import/export data as the company had issues with development speed and scalability. \n\nIt was decided to use Python to create a simple framework, easy to understand and scale. No linking time during the development and investigation process led to a big improvement in validation time. \n\nIt integrates back to the native C++ application using the Nuitka compiler and that solved the problem of protecting the Python code. \n\nContributions: \n- All requirements met, plus... \n- A Python code base with code coverage (TDD and BDD), metrics and isolated from the rest of the application code, allowing a separate team to work on it. \n- Python made the development faster and made it easier to add features/developers. \n- A precedent on mixed technologies to help the company to evolve it's stack without a huge investment at once.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Ronald",
+                    "last_name": "Paloschi",
+                    "name": null,
+                    "headline": "Senior Software Developer at Booking.com"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Tarcisio Eduardo",
+                    "last_name": "Moreira Crocomo",
+                    "name": null,
+                    "headline": "Software Developer at ESSS"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Matheus",
+                    "last_name": "Amorim",
+                    "name": null,
+                    "headline": "Software Developer"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "\u00c1lvaro Francisco",
+                    "last_name": "Fleith",
+                    "name": null,
+                    "headline": "Software Development Engineer at Amazon Devices"
+                }
+            ]
+        },
+        {
+            "title": "Audaces Supera",
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "description": "Automatic nesting of patterns is an essential element in the textile industry as it helps to save material while trying to nest all the desired patterns into its smallest possible area. \n\n- This solution is designed to execute those algorithms in a distributed way. \n- It features object serialization in C++ aimed to support multiple client versions. \n- Project developed by a Scrum Team, using XP techniques such as pair programming, code review of all code and unit testing (TDD largely applied). \n- It was a very interesting project as the team was able to validate several ideas with potential customers before implementing it: an MVP.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Ronald",
+                    "last_name": "Paloschi",
+                    "name": null,
+                    "headline": "Senior Software Developer at Booking.com"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Leonardo Vitor",
+                    "last_name": "D.",
+                    "name": null,
+                    "headline": "Software Developer"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Fabiano Vicente",
+                    "last_name": "Siegel",
+                    "name": null,
+                    "headline": "Software Developer"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Camila",
+                    "last_name": "Ruas",
+                    "name": null,
+                    "headline": "Product Manager | Product Owner"
+                }
+            ]
+        },
+        {
+            "title": "Better Developer course",
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "description": "Co-Instructor: Course dedicated to the application of agile development practices for brownfield and greenfield development.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Ronald",
+                    "last_name": "Paloschi",
+                    "name": null,
+                    "headline": "Senior Software Developer at Booking.com"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Marcio",
+                    "last_name": "Marchini",
+                    "name": null,
+                    "headline": "CTO | Director of Engineering  | Chief Architect"
+                }
+            ]
+        },
+        {
+            "title": "Audaces Apparel",
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2009
+                },
+                "end": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "description": "A 2D CAD/CAM system for apparel pattern making, grading and nesting. \n\nAudaces Apparel is one of the market's leading softwares for pattern design, it offers tools and facilities to create patterns with precision, quickly grade bases, perform quality fits, and make better use of material. \n\nMain Contributions: \n- Worked on the initiative of porting the existing product's architecture to a plugin oriented (OSGI like) using dependency injection in C++. \n- SOLID principles were applied and techniques from Feathers' Working Effectively With Legacy Code book were used extensively. \n- Worked on the effort of updating the compiler and GUI toolkit (from Borland + VCL to Visual Studio + Qt). The change of compiler and GUI toolkit was done in parallel while releasing new features to the customers until the team got comfortable to leave the old compiler and toolkit behind. One of the greatest experiences of Ronald's career as it was possible to apply most of the modern techniques of software engineering in a big team. \n- Implemented a strategy to apply automated tests to the legacy untested code, from GUI characterization tests down to unit tests. \n- Technical leadership and mentoring. \n- Part of a technical group that took most of the decisions inside the developer teams.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Ronald",
+                    "last_name": "Paloschi",
+                    "name": null,
+                    "headline": "Senior Software Developer at Booking.com"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Leonardo Vitor",
+                    "last_name": "D.",
+                    "name": null,
+                    "headline": "Software Developer"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Eneias",
+                    "last_name": "Silva",
+                    "name": null,
+                    "headline": "Senior Software Engineer"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Fabiano Vicente",
+                    "last_name": "Siegel",
+                    "name": null,
+                    "headline": "Software Developer"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Martim",
+                    "last_name": "Nascimento",
+                    "name": null,
+                    "headline": "Platform Engineer at SkyWatch"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Guilherme",
+                    "last_name": "Lepsch",
+                    "name": null,
+                    "headline": "Senior Full Stack Developer at Duckly"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Alessandro Jackson de Oliveira",
+                    "headline": null
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Evil\u00e1sio",
+                    "last_name": "Garcia",
+                    "name": null,
+                    "headline": "VP Carriers no Grupo Intelipost"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Maikel",
+                    "last_name": "Dal Farra",
+                    "name": null,
+                    "headline": "Software Engineer at Genesys"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Fernanda",
+                    "last_name": "Peters",
+                    "name": null,
+                    "headline": "Software Developer"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Victor",
+                    "last_name": "Botamedi",
+                    "name": null,
+                    "headline": "Flutter Specialist"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Gustavo",
+                    "last_name": "Muenz",
+                    "name": null,
+                    "headline": "Senior Software Development Engineer at Amazon"
+                }
+            ]
+        },
+        {
+            "title": "Audaces IDEA",
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2009
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2009
+                }
+            },
+            "description": "Vector graphics editor for fashion design. \n\nTechnology stack: \n- Borland C++ Builder 6 \n- SVN \n- Report Builder \n- PostgreSQL \n- Adobe Flash \n\nSpecific Contributions: \n- Implemented a binding so that this C++ project was able to use a Java library for SVG (Batik). As the library is very mature, it was the optimal way to get a library of that quality for a C++ project at the time. \n\n- Implemented a wrapper that allowed this project to switch its legacy homemade True Type implementation for the LGPL version of Freetype.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Ronald",
+                    "last_name": "Paloschi",
+                    "name": null,
+                    "headline": "Senior Software Developer at Booking.com"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Leonardo Vitor",
+                    "last_name": "D.",
+                    "name": null,
+                    "headline": "Software Developer"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Eneias",
+                    "last_name": "Silva",
+                    "name": null,
+                    "headline": "Senior Software Engineer"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Roni Anderson",
+                    "last_name": "Lessa",
+                    "name": null,
+                    "headline": "Programador na Audaces Automa\u00e7\u00e3o e Inform\u00e1tica Industrial Ltda"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "\u00c1lvaro Francisco",
+                    "last_name": "Fleith",
+                    "name": null,
+                    "headline": "Software Development Engineer at Amazon Devices"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Eduardo",
+                    "last_name": "Pereira",
+                    "name": null,
+                    "headline": "Director of Product Development at Cleo"
+                }
+            ]
+        },
+        {
+            "title": "Audaces Agile Infrastructure",
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2007
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2008
+                }
+            },
+            "description": "A project that guided the agile adoption in software development projects, introducing TDD practices, Lean concepts and Continuous Delivery.  It applied to all software projects of the company and infected other areas of the company. \n\nCreated the Continuous Build and Integration infrastructure for the company. This helped to accelerate the adoption of the practices and tools.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Ronald",
+                    "last_name": "Paloschi",
+                    "name": null,
+                    "headline": "Senior Software Developer at Booking.com"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Victor Hugo",
+                    "last_name": "Germano",
+                    "name": null,
+                    "headline": "Lambda3 Founder, Digital & Agile Geek"
+                }
+            ]
+        }
+    ],
+    "publications": [],
+    "courses": [
+        {
+            "name": "Object Menthor's BlendedTDD for C++ BETA (2009)",
+            "number": null
+        },
+        {
+            "name": "Object Menthor's BlendedTDD for Java (2008)",
+            "number": null
+        }
+    ],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 11348,
+                "name": "Booking.com",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQEgzF5azm3fNA/company-logo_400_400/0/1628510256914?e=1703721600&v=beta&t=5eXz-OHEqUF-i5NTayhj4ycN9m2VUeV-Jyzwe5WhR9g",
+                "url": "https://www.linkedin.com/company/booking.com/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amsterdam Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Booking.com",
+                    "description": null,
+                    "title": "Senior Software Developer",
+                    "employment_type": null
+                },
+                {
+                    "location": "Amsterdam, North Holland, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2017
+                        },
+                        "end": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2021
+                        }
+                    },
+                    "company": "Booking.com",
+                    "description": null,
+                    "title": "Software Developer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 798671,
+                "name": "BairesDev",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQGNvQASzrdL_w/company-logo_400_400/0/1687874736023?e=1703721600&v=beta&t=GwAX_NpkCNq8F3piC1TnehmF7ZAIeczoKCVFT6hIpZI",
+                "url": "https://www.linkedin.com/company/bairesdev/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2017
+                        }
+                    },
+                    "company": "BairesDev",
+                    "description": null,
+                    "title": "Software Engineer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 11405372,
+                "name": "AdRoll",
+                "logo": "https://media.licdn.com/dms/image/D560BAQG7MHeKDWULrA/company-logo_400_400/0/1688149303429?e=1703721600&v=beta&t=KQEOoQyKvZ3Ijyr111_oLbO1Pp3y9cHhhB0Fi6YdSnk",
+                "url": "https://www.linkedin.com/company/nextroll/",
+                "employees": {
+                    "start": 501,
+                    "end": 1000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2017
+                        }
+                    },
+                    "company": "NextRoll",
+                    "description": null,
+                    "title": "Software Engineer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 147278,
+                "name": "Grupo Nexxera",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQG3k3pu1XNYWw/company-logo_400_400/0/1605737678006?e=1703721600&v=beta&t=2rychoi4t05TERM9hFp5enEDazeh3wwMyqKvt4xh1Fw",
+                "url": "https://www.linkedin.com/company/nexxerabr/",
+                "employees": {
+                    "start": 201,
+                    "end": 500
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Florian\u00f3polis e Regi\u00e3o, Brasil",
+                    "date": {
+                        "start": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2016
+                        }
+                    },
+                    "company": "Nexxera",
+                    "description": "Architect and Technical leader of the team responsible for the \"Nexxera Financial Platform\".\nThe platform is composed of a set of REST micro-services, highly scalable and decoupled. \nThe technology stack involves:\n* Python;\n* Flask;\n* Marshmallow;\n* SQLAlchemy;\n* Alembic;\n* ElasticSearch;\n* RabbitMQ;\n* TDD, BDD and other automated testing technologies.",
+                    "title": "Software Architect II",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 282131,
+                "name": "Audaces Automa\u00e7\u00e3o e Inform\u00e1tica Industrial Ltda",
+                "logo": "https://media.licdn.com/dms/image/C560BAQHQCNM4L9rUiA/company-logo_400_400/0/1519903716220?e=1703721600&v=beta&t=3Cua6YmJFRRwscbDps6DOJU2mgWQ8OumuOImkmsD2m0",
+                "url": "https://www.linkedin.com/company/audaces-we-are-the-industry-4-0/",
+                "employees": {
+                    "start": 201,
+                    "end": 500
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2001
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Florian\u00f3polis e Regi\u00e3o, Brasil",
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2007
+                        },
+                        "end": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2016
+                        }
+                    },
+                    "company": "Audaces",
+                    "description": "Technical leader, responsible for Envisioning, Planning and Implementation of software solutions in C++, C, Java, C# and Python.",
+                    "title": "Senior Software Developer",
+                    "employment_type": null
+                },
+                {
+                    "location": "Florian\u00f3polis e Regi\u00e3o, Brasil",
+                    "date": {
+                        "start": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2005
+                        },
+                        "end": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2007
+                        }
+                    },
+                    "company": "Audaces",
+                    "description": "\u0095 C/C++ Software Developer of Audaces Vestuario CAD/CAM system for textile industry.\n \u0095 Created a structure to facilitate the reverse engineering of binary formats that helped the company to enter new markets. \n \u0095 Implemented the transition from Starteam version control to Subversion. \n \u0095 Implemented a vector font editor to help customers design non-ASCII characters for pen-plotters targeting Asian markets.",
+                    "title": "Software Developer",
+                    "employment_type": null
+                },
+                {
+                    "location": "Florian\u00f3polis e Regi\u00e3o, Brasil",
+                    "date": {
+                        "start": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2002
+                        },
+                        "end": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2005
+                        }
+                    },
+                    "company": "Audaces",
+                    "description": "Due to results shown while working at the technical support team, Ronald was given his opportunity to start working with software development. The experience and knowledge obtained while working with technical support proved to be of great value.\n\nMain achievements:\n- Developed a simple True Type engine for the 2D CAD Audaces Apparel in C++. That was very important as a preparation to work on a CAD/CAM system.\n- Basic system maintenance and implementation of simple features for Audaces Apparel.\n- Development of a Java portal based on JSR-168 Portlets API. A project that was done in collaboration with the CRM provider. An opportunity to work with a different team and different technologies. \n- Reverse engineering of several binary formats.",
+                    "title": "Junior Software Developer",
+                    "employment_type": null
+                },
+                {
+                    "location": "Florian\u00f3polis e Regi\u00e3o, Brasil",
+                    "date": {
+                        "start": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2001
+                        },
+                        "end": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2002
+                        }
+                    },
+                    "company": "Audaces",
+                    "description": "Audaces offered an opportunity with technical support where Ronald started learning to understand user needs and the core problem domain. \n\nThen started to make the bridge between technical support and development team.  \n\nThe company developed people and communication skills preparing to a promotion to the development team.",
+                    "title": "Technical Support Assistant",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "West Odissey Internet",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2000
+                },
+                "end": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2000
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "S\u00e3o Miguel do Oeste, SC",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2000
+                        },
+                        "end": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2000
+                        }
+                    },
+                    "company": "West Odissey Internet",
+                    "description": "Internet Service Provider System Maintenance and technical support.\n\nThis company was the first internet provider of the West region of Santa Catarina state. \n\nBecause of his skills with computers, Ronald was hired to help with maintenance at the company and for customers, covering 7 small cities, improving his responsibility and professional relations skills.",
+                    "title": "Maintenance Technician",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Software Engineering",
+        "Software Development",
+        "Test Driven Development",
+        "C++",
+        "Agile Methodologies",
+        "Design Patterns",
+        "Python",
+        "C",
+        "Continuous Integration",
+        "Scrum",
+        "Visual Studio",
+        "Qt",
+        "Java",
+        "Object Oriented Design",
+        "OOP",
+        "Subversion",
+        "CAD/CAM",
+        "Jenkins",
+        "Ant",
+        "Refactoring"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

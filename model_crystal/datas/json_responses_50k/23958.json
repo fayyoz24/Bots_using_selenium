@@ -1,0 +1,711 @@
+{
+    "profile_id": "abinavsridhar",
+    "first_name": "Abinav",
+    "last_name": "S.",
+    "sub_title": "Scalability | Resiliency | Efficiency Engineering",
+    "profile_picture": "https://media.licdn.com/dms/image/D5603AQEDYHdJ4urWbQ/profile-displayphoto-shrink_800_800/0/1677837622979?e=1701302400&v=beta&t=M8vS5UqQ0J7NP7pXWjnJ2zwT-j77yD2S7rGTlf-9amM",
+    "background_image": "https://media.licdn.com/dms/image/C4E16AQGmSq7XqD68LA/profile-displaybackgroundimage-shrink_350_1400/0/1517025187641?e=1701302400&v=beta&t=lVjvqxVtibbVjiGMdjMcrdjTIRNalI9hMxWttEqvvCI",
+    "profile_type": "personal",
+    "entity_urn": "ACoAABJdFtIBq5q1w50mW7T-5pJXoSok1PjRpNo",
+    "object_urn": 308090578,
+    "birth_date": null,
+    "summary": "Worked on some cool products.\nMy interests include, not limited to\n- Big Data Management\n- Statistical data Analysis\n- Machine Learning\n- Unix\n\nTechnical Skills:\nJack of all trades Master of some!\n\nI always wish to experiment and juggle roles in the vast field of Computers.",
+    "location": {
+        "country": "Netherlands",
+        "short": "Amsterdam, North Holland",
+        "city": "Amsterdam",
+        "state": "North Holland",
+        "default": "Amsterdam, North Holland, Netherlands"
+    },
+    "premium": true,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "English",
+                "proficiency": "FULL_PROFESSIONAL"
+            },
+            {
+                "name": "Hindi",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "Tamil",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ]
+    },
+    "industry": "Internet",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "school": {
+                "name": "The University of Texas at Dallas",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQEBYU4_oEvArQ/company-logo_400_400/0/1601995944632?e=1703721600&v=beta&t=BTvGg3pyrGpqQ-4f7fP0mL37eiGMZJgNbcVIDY4waOw",
+                "url": "https://www.linkedin.com/school/university-of-texas-at-dallas/"
+            },
+            "degree_name": "Master's degree",
+            "field_of_study": "Computer Science (Data Science)",
+            "grade": "3.75"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2007
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2011
+                }
+            },
+            "school": {
+                "name": "Amrita Vishwa Vidyapeetham, Coimbatore",
+                "logo": "https://media.licdn.com/dms/image/C510BAQFMZa1CsVsAxQ/company-logo_400_400/0/1519869270412?e=1703721600&v=beta&t=trohWBkoselmgR4TmAzrRlY-ZEu7AjRm6hPdy9W2BiA",
+                "url": "https://www.linkedin.com/school/amrita-vishwa-vidyapeetham-coimbatore/"
+            },
+            "degree_name": "Bachelor's degree",
+            "field_of_study": "Computer Science",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "school": {
+                "name": "P S  Senior Secondary School",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": null,
+            "field_of_study": null,
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "Parallelization of Burrows\u2013Wheeler Transformation for Genome codes",
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "description": "Technologies: Hadoop, Java, Map-Reduce\nBurrows\u2013Wheeler transformation rearranges a string sequence into runs of similar characters. With the power of Hadoop and Map Reduce, sets of mouth swabs data were analysed and transformed by using minimal resources and time in comparison to the GPU techniques. The transformed strings were matched with an existing reference string and the traits of a the mouth swab samples were predicted with immense accuracy.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Abinav",
+                    "last_name": "S.",
+                    "name": null,
+                    "headline": "Scalability | Resiliency | Efficiency Engineering"
+                }
+            ]
+        },
+        {
+            "title": "Website Fingerprinting Using Latent Dirichlet allocation algorithm",
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "description": "Technologies: Python, Java, Weka\nThe packet data of various websites were collected as Attribute-Relation Files. This data was used by Weka and a python based Naive Bayes classifier for predicting the website trends. The packet data and the burst cycles were used as features for these supervised learning model. The obtained results were compared with the results generated by the LDA algorithm implemented in Java by using the Gibbs sampling technique. For certain data sets, it was found that the unsupervised LDA model was performing better than the supervised learning techniques.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Abinav",
+                    "last_name": "S.",
+                    "name": null,
+                    "headline": "Scalability | Resiliency | Efficiency Engineering"
+                }
+            ]
+        },
+        {
+            "title": "Teradata to Hadoop Eco-System Migration",
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "description": "Technologies: UNIX Shell Scripting, Hadoop, Hive, Oozie, Teradata, Autosys\nThe stored procedures used for generating critical reports were analyzed comprehensively and all the required tables were migrated to Hadoop Ecosystem, loaded into Hive and were refreshed regularly. The stored procedures were then split into set of parallel/sequential steps and redesigned using the Hive Query Language. Some performance boosts were also introduced and the remodeled procedure was orchestrated by deploying oozie workflows. Upon successful testing, the Autosys framework was utilized to execute the deployed oozie jobs in a timely manner by taking into consideration the complex set of dependencies required for successful execution of the procedures.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Abinav",
+                    "last_name": "S.",
+                    "name": null,
+                    "headline": "Scalability | Resiliency | Efficiency Engineering"
+                }
+            ]
+        },
+        {
+            "title": "Archival and Retrieval of HDFS data",
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "description": "Technologies: UNIX Shell Scripting, Hadoop, Pig Latin\nThe data generated by Informatica was transformed into files, and these were loaded into Hadoop\nEco-Sytem with the help of Unix shell script. The integrity of the data was verified using the shasum algorithm and the files were compressed to reduce the Cluster memory utilization and then loaded into the Distributed File System. The archived files were used for further processing. The same set of files were also retrieved and loaded into Oracle tables for report generation.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Abinav",
+                    "last_name": "S.",
+                    "name": null,
+                    "headline": "Scalability | Resiliency | Efficiency Engineering"
+                }
+            ]
+        },
+        {
+            "title": "Realtime Logs Processing",
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "description": "Technologies: UNIX Shell Scripting, Hadoop, Pig Latin, Hive, HBase, Java MapReduce\nThe motivation behind the project is to utilize the Hadoop framework to process massive amounts of\nlog files in real time. The logs of a widely used application were processed to draw financial conclusions. This included the scheduled execution of shell scripts on hourly, daily, weekly, and monthly basis. These shell scripts would in turn trigger various map reduce jobs, pig latin scripts, hive queries that compute the required dimensions as per the scheduled frequency. The calculated dimensions facilitate in building crucial business decisions.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Abinav",
+                    "last_name": "S.",
+                    "name": null,
+                    "headline": "Scalability | Resiliency | Efficiency Engineering"
+                }
+            ]
+        },
+        {
+            "title": "Extreme data hub",
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "description": "Technologies: Hadoop, Hive, Pig Latin, HBase, Oozie, Mahout, NoSQL\nThis project is dedicated to the development of product providing one stop solution for all the big data needs. Most of the existing Hadoop Ecosystem tools are integrated in such a way to address business specific BIG data needs. As all the tools are integrated, the end user can ingest and process data according to the user\u2019s discretion with minimal effort.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Abinav",
+                    "last_name": "S.",
+                    "name": null,
+                    "headline": "Scalability | Resiliency | Efficiency Engineering"
+                }
+            ]
+        },
+        {
+            "title": "Recommendations Engine",
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "description": "Technologies: Hadoop,Mahout,Java\nThe purpose of the project is to enhance the shopping experience of an end user by providing rational and smart recommendations by exploiting the user\u2019s history. The inbuilt mahout algorithms were applied to determine the products that can possibly be recommended.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Abinav",
+                    "last_name": "S.",
+                    "name": null,
+                    "headline": "Scalability | Resiliency | Efficiency Engineering"
+                }
+            ]
+        },
+        {
+            "title": "Oracle loader for Hadoop",
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2011
+                }
+            },
+            "description": "Technologies: Oracle, Hadoop, Hive\nThe beta version of the Oracle loader for Hadoop (OLH) was tested extensively and the results\nreported to Oracle were facilitative in fine tuning the OLH. Furthermore, the inputs provided were helpful in drawing important conclusions regarding performance.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Abinav",
+                    "last_name": "S.",
+                    "name": null,
+                    "headline": "Scalability | Resiliency | Efficiency Engineering"
+                }
+            ]
+        }
+    ],
+    "publications": [],
+    "courses": [
+        {
+            "name": "Big Data Management and Analytics",
+            "number": "CS 6350"
+        },
+        {
+            "name": "Database Design",
+            "number": "CS 6360"
+        },
+        {
+            "name": "Machine Learning",
+            "number": "CS 6375"
+        },
+        {
+            "name": "Natural Language Processing",
+            "number": "CS 6320"
+        },
+        {
+            "name": "Statistical Methods for Data Science",
+            "number": "CS 6313"
+        },
+        {
+            "name": "Statistical Methods in AI & ML",
+            "number": "CS 6347"
+        },
+        {
+            "name": "Web Prgramming Languages",
+            "number": "CS 6314"
+        }
+    ],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 202872,
+                "name": "Mollie",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQH1ABy2f4cF-A/company-logo_400_400/0/1660833760681?e=1703721600&v=beta&t=Xy0Kw848qAsIxEgPJF7Nf1oqRs1yAXKahpUsEJQFiMc",
+                "url": "https://www.linkedin.com/company/molliepayments/",
+                "employees": {
+                    "start": 501,
+                    "end": 1000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2023
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amsterdam Area",
+                    "date": {
+                        "start": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2023
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Mollie",
+                    "description": "Automating the Mollie Payment Processing at scale",
+                    "title": "Site Reliability Engineer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1337,
+                "name": "LinkedIn",
+                "logo": "https://media.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_400_400/0/1638831589865?e=1703721600&v=beta&t=KNdxtUphPuS9FSsMLufiLiJkk8rvPVMnZH848WjKHl0",
+                "url": "https://www.linkedin.com/company/linkedin/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2023
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Bengaluru, Karnataka, India",
+                    "date": {
+                        "start": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2023
+                        }
+                    },
+                    "company": "LinkedIn",
+                    "description": null,
+                    "title": "Senior Site Reliability Engineer",
+                    "employment_type": "Full-time"
+                },
+                {
+                    "location": "San Francisco Bay Area",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2020
+                        },
+                        "end": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2021
+                        }
+                    },
+                    "company": "LinkedIn",
+                    "description": null,
+                    "title": "Senior Site Reliability Engineer",
+                    "employment_type": "Full-time"
+                },
+                {
+                    "location": "San Francisco Bay Area",
+                    "date": {
+                        "start": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2020
+                        }
+                    },
+                    "company": "LinkedIn",
+                    "description": null,
+                    "title": "Site Reliability Engineer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1043,
+                "name": "Siemens",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQHYr4M_PHhGdg/company-logo_400_400/0/1688363990057?e=1703721600&v=beta&t=NxqPbhz2eEAtYqYyPdrSPz3eQlRjrtLBfWpcytp1skI",
+                "url": "https://www.linkedin.com/company/siemens/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Princeton, New Jersey",
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2017
+                        },
+                        "end": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2018
+                        }
+                    },
+                    "company": "Siemens",
+                    "description": null,
+                    "title": "Big Data Engineer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 166681,
+                "name": "University of Texas at Dallas",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQEBYU4_oEvArQ/company-logo_400_400/0/1601995944632?e=1703721600&v=beta&t=BTvGg3pyrGpqQ-4f7fP0mL37eiGMZJgNbcVIDY4waOw",
+                "url": "https://www.linkedin.com/school/university-of-texas-at-dallas/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Dallas/Fort Worth Area",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2017
+                        }
+                    },
+                    "company": "The University of Texas at Dallas",
+                    "description": null,
+                    "title": "Graduate Student - CS",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 3435,
+                "name": "Siemens PLM Software",
+                "logo": "https://media.licdn.com/dms/image/C560BAQE-ck-VrlcKGg/company-logo_400_400/0/1521237425138?e=1703721600&v=beta&t=C7mgBj09zB4SSwZgzrztYqgPdM4rP9M8uQTtvW6oPMY",
+                "url": "https://www.linkedin.com/company/siemens-plm-software/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Charlotte, North Carolina Area",
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2016
+                        }
+                    },
+                    "company": "Siemens PLM Software",
+                    "description": null,
+                    "title": "Data Scientist Intern",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1283,
+                "name": "Infosys",
+                "logo": "https://media.licdn.com/dms/image/D4D0BAQE7Zf1-vvfbUA/company-logo_400_400/0/1692876768110?e=1703721600&v=beta&t=H7GHPL6L77yHYPLgpIpPegBfJxsNJ79O_kRL_7uXg6s",
+                "url": "https://www.linkedin.com/company/infosys/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Chennai Area, India",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2014
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2014
+                        }
+                    },
+                    "company": "Infosys",
+                    "description": null,
+                    "title": "Senior Systems Engineer",
+                    "employment_type": null
+                },
+                {
+                    "location": "Bhubaneshwar Area, India",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2011
+                        },
+                        "end": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2014
+                        }
+                    },
+                    "company": "Infosys",
+                    "description": null,
+                    "title": "Systems Engineer",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Python (Programming Language)",
+        "Amazon Web Services (AWS)",
+        "Kubernetes",
+        "Google Kubernetes Engine (GKE)",
+        "Amazon EKS",
+        "Kubeflow",
+        "Docker Products",
+        "Google Cloud Platform (GCP)",
+        "Kafka Streams",
+        "Java",
+        "Java Enterprise Edition",
+        "C",
+        "Unix",
+        "Core Java",
+        "JavaScript",
+        "Shell Scripting",
+        "SQL",
+        "Eclipse",
+        "Linux",
+        "C++"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

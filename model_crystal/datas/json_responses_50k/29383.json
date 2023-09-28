@@ -1,0 +1,784 @@
+{
+    "profile_id": "martin-eimermann-3188aa10",
+    "first_name": "Martin",
+    "last_name": "Eimermann",
+    "sub_title": "SIMSTUDIO: CFD, Wind, Fire Safety, HVAC (Indoor Climate), datacenters, cleanrooms, Product Development, etc",
+    "profile_picture": "https://media.licdn.com/dms/image/C4E03AQF5WkMzND8t9g/profile-displayphoto-shrink_800_800/0/1662057349670?e=1701302400&v=beta&t=RDuOW2PIYnYdTMAais_vZrsv-C9KqU_rlChik92l8QI",
+    "background_image": "https://media.licdn.com/dms/image/C5616AQHvD67yuiPnvg/profile-displaybackgroundimage-shrink_350_1400/0/1571658728206?e=1701302400&v=beta&t=fbBZCl3DpfaADW5gWB85aLLLYU8cBKXiKCJyL2hxgA8",
+    "profile_type": "personal",
+    "entity_urn": "ACoAAAJEj0QB-l2Ij5ZJ_2uxNeI5f_U0juD-Jl8",
+    "object_urn": 38047556,
+    "birth_date": null,
+    "summary": "Proactive engineer that uses advanced computer simulations in order to improve the performance of systems and or products.\n\nWorldwide experience on CFD and Crowd modelling projects for multiple industries. \n\nOur mission is to support designers in all sort of segments that require in depth knowledge about the physics that take place in their particular discipline. The combination of your expertise and yours will enable us to accelerate and find the next generation of solutions.\n\nAs simulations are our core business we have invested in the required knowledge, software and hardware to deliver you accurate and useable results within an acceptable time frame. CFD (Computational Fluid Dynamics) simulations is our main activity. For this type of simulations we have a High Performance Computing cluster of 128 cores interconnected by a dedicated network. We use ANSYS CFD (CFX and Fluent) for the simulations, which is known to be one of the best multipurpose CFD software worldwide.\n",
+    "location": {
+        "country": "Netherlands",
+        "short": "Zoetermeer, South Holland",
+        "city": "Zoetermeer",
+        "state": "South Holland",
+        "default": "Zoetermeer, South Holland, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "Dutch",
+                "proficiency": null
+            },
+            {
+                "name": "English",
+                "proficiency": null
+            }
+        ]
+    },
+    "industry": "Research",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2002
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2005
+                }
+            },
+            "school": {
+                "name": "Eindhoven University of Technology",
+                "logo": "https://media.licdn.com/dms/image/C560BAQG4PGSYiNG4CA/company-logo_400_400/0/1642150189320?e=1703721600&v=beta&t=omf4Ziy8Suete_GTJ3Qn1mOBS7ZrKSPido6Ld2LseBU",
+                "url": "https://www.linkedin.com/school/eindhoven-university-of-technology/"
+            },
+            "degree_name": null,
+            "field_of_study": null,
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 1998
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2002
+                }
+            },
+            "school": {
+                "name": "De Haagse Hogeschool / The Hague University of Applied Sciences",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQFtr7VqGaVWcQ/company-logo_400_400/0/1519902744083?e=1703721600&v=beta&t=ew41NCanlNmwyTdBrEWlDbT-UPrngQr0UpMZx5yzjCw",
+                "url": "https://www.linkedin.com/school/haagse-hogeschool/"
+            },
+            "degree_name": "Bachelor",
+            "field_of_study": "Mechanical engineering, Marketing and PR, advanced simulation techniques",
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "Short Sea IMO II - Chemical Tanker",
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "description": "Wave and friction analyses of different hulls at different drafts in order to optimize the hull design to lower the energy consumption.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Martin",
+                    "last_name": "Eimermann",
+                    "name": null,
+                    "headline": "SIMSTUDIO: CFD, Wind, Fire Safety, HVAC (Indoor Climate), datacenters, cleanrooms, Product Development, etc"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Petteri",
+                    "last_name": "Kojonen",
+                    "name": null,
+                    "headline": "Senior Ship Manager at Carnival Maritime GmbH"
+                }
+            ]
+        },
+        {
+            "title": "Lowering monobase CFD simulation",
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "description": "A lowering simulation has been performed using Computational Fluid Dynamics. The simulation shows that the free falling base de-accellerates starting at about 10 m from the seabed before a smooth landing occurs. The simulation has been performed using ANSYS CFX with a 3D model containing 10 million grid cells which took a 27 parallel processor computer about 10 hours to analyse. With this run the relation beteen ballast overweight, fall velocity and water evacuation velocity over the seabed has been determined. ",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Martin",
+                    "last_name": "Eimermann",
+                    "name": null,
+                    "headline": "SIMSTUDIO: CFD, Wind, Fire Safety, HVAC (Indoor Climate), datacenters, cleanrooms, Product Development, etc"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Richard",
+                    "last_name": "van de Nes",
+                    "name": null,
+                    "headline": "CFD specialist and managing director at One Simulations"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Herm",
+                    "last_name": "Bussemaker",
+                    "name": null,
+                    "headline": "Owner Orca Offshore"
+                }
+            ]
+        },
+        {
+            "title": "Website ONE Simulations",
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2010
+                },
+                "end": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2010
+                }
+            },
+            "description": "ONE Simulations is an independent engineering company that specialises in advanced simulations in the fields of fluid dynamics, fire safety, the environment and energy. I developed their website and designed the graphics.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Martin",
+                    "last_name": "Eimermann",
+                    "name": null,
+                    "headline": "SIMSTUDIO: CFD, Wind, Fire Safety, HVAC (Indoor Climate), datacenters, cleanrooms, Product Development, etc"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Joost",
+                    "last_name": "van Duren",
+                    "name": null,
+                    "headline": "Productmanager, Product Owner, UX/UI lead -  Accounting and ERP at Visma CASH"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Richard",
+                    "last_name": "van de Nes",
+                    "name": null,
+                    "headline": "CFD specialist and managing director at One Simulations"
+                }
+            ]
+        },
+        {
+            "title": "Kinaxixi complex, Luanda, Angola",
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2010
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2010
+                }
+            },
+            "description": "The influence of this MXD building on its surrounding environment is evaluated by ONE Simulations for three effects:\n\u2022 Dispersion of diesel generators emissions\n\u2022 Dispersion of water vapour emitted by cooling towers\n\u2022 Wind comfort on the terrace and direct surroundings\n\nDetailed spatial knowledge of the airflow, heat, humidity and emission dispersion in the surroundings is gained by CFD simulations. The surrounding buildings are included in the model, as shown in the figures on the right. Further surroundings (>300 meter radius) are modelled as terrain roughness to obtain the correct upstream flow pattern.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Martin",
+                    "last_name": "Eimermann",
+                    "name": null,
+                    "headline": "SIMSTUDIO: CFD, Wind, Fire Safety, HVAC (Indoor Climate), datacenters, cleanrooms, Product Development, etc"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Pedro",
+                    "last_name": "Nazareth",
+                    "name": null,
+                    "headline": "Chief Executive Officer | ELECTR\u00c3O - Establishing and managing recycling systems for the products we consume and dispose"
+                }
+            ]
+        }
+    ],
+    "publications": [
+        {
+            "name": "Ventilatorloze koeling van dataruimten",
+            "publisher": "DatacenterWorks",
+            "url": "http://www.datacenterworks.nl/uploads/DCW-12-2013.pdf",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2013
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Martin",
+                    "last_name": "Eimermann",
+                    "name": null,
+                    "headline": "SIMSTUDIO: CFD, Wind, Fire Safety, HVAC (Indoor Climate), datacenters, cleanrooms, Product Development, etc"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Elbert",
+                    "last_name": "Raben (ATD\u00ae - DCS\u00ae)",
+                    "name": null,
+                    "headline": "Helping you to achieve the best IT Infrastructure | Consultancy"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Paul Corneth",
+                    "headline": null
+                }
+            ]
+        },
+        {
+            "name": "CFD analyse tijdens de conceptuele ontwerpfase",
+            "publisher": "TI-K VIV",
+            "url": "http://www.infoham.be/media/BOFY7ASCCFD_finaal.pdf",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2007
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Martin",
+                    "last_name": "Eimermann",
+                    "name": null,
+                    "headline": "SIMSTUDIO: CFD, Wind, Fire Safety, HVAC (Indoor Climate), datacenters, cleanrooms, Product Development, etc"
+                }
+            ]
+        },
+        {
+            "name": "Defining the governing parameters for reliable numerical simulations of smoke evacuation in underground parking garages",
+            "publisher": "Clima 2007 WellBeing Indoors",
+            "url": "http://www.irbnet.de/daten/iconda/CIB7948.pdf",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2007
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Martin",
+                    "last_name": "Eimermann",
+                    "name": null,
+                    "headline": "SIMSTUDIO: CFD, Wind, Fire Safety, HVAC (Indoor Climate), datacenters, cleanrooms, Product Development, etc"
+                }
+            ]
+        },
+        {
+            "name": "Defini\u00e7\u00e3o dos par\u00e2metros dominantes para a simula\u00e7\u00e3o num\u00e9rica fi\u00e1vel da evacua\u00e7\u00e3o de fumos em pargues de estacionamento subterr\u00e2neos.",
+            "publisher": "Conferencia NFPA - Portugal",
+            "url": null,
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2006
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Martin",
+                    "last_name": "Eimermann",
+                    "name": null,
+                    "headline": "SIMSTUDIO: CFD, Wind, Fire Safety, HVAC (Indoor Climate), datacenters, cleanrooms, Product Development, etc"
+                }
+            ]
+        },
+        {
+            "name": "Kansen en (on)mogelijkheden van simulaties",
+            "publisher": "IBPSA-NVL",
+            "url": null,
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2004
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Martin",
+                    "last_name": "Eimermann",
+                    "name": null,
+                    "headline": "SIMSTUDIO: CFD, Wind, Fire Safety, HVAC (Indoor Climate), datacenters, cleanrooms, Product Development, etc"
+                }
+            ]
+        }
+    ],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 29328410,
+                "name": "SIMSTUDIO International Consultants",
+                "logo": "https://media.licdn.com/dms/image/C560BAQF3osxb1CVTlA/company-logo_400_400/0/1571757887571?e=1703721600&v=beta&t=pBRqD8N7tJu3RryMtyNJNhglkWRvXE8UaqHFx1X2Cv0",
+                "url": "https://www.linkedin.com/company/simstudio-international-consultants/",
+                "employees": {
+                    "start": 2,
+                    "end": 10
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Zoetermeer, The Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "SIMSTUDIO International Consultants",
+                    "description": null,
+                    "title": "Managing Director",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 625854,
+                "name": "ONE Simulations",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQEm4d1IfXN9Ng/company-logo_400_400/0/1679328796612?e=1703721600&v=beta&t=hzHqTWrTw7yfJRWEt-qhzp1yh0ZBLWMI--CqOxTFrJ0",
+                "url": "https://www.linkedin.com/company/one-simulations-part-of-sweco/",
+                "employees": {
+                    "start": 2,
+                    "end": 10
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2008
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Leiden, the Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2008
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "One Simulations, part of Sweco",
+                    "description": "ONE Simulations is experienced in performing quality simulations within reasonable time for a large variety of applications and many countries. We are specialized to convert your question into a simulation model and return clear and useful results.\n\nFire Safety, Indoor Climate, Evacuation, Crowd movement  assessments for: \nTunnels, Car Parks, Hospitals, Datacentres, Shopping Centres, Mixed Use, Theatres, Offices, Residences, Metro\u2019s, Stations, Prisons, Ships, Offshore, Airports, etc.\n\nOffshore and Marine:\nShip Hull resistance and wave making analyses to indicate hull design performance. We have the possibility to simulate and predict trim and heave for a certain ship condition.\nWave Motion Response simulations.\nMachine Room Ventilation assessment\n\nR&D and Product Development:\nFor multiple products, small and large, we have performed simulations to optimize flow patterns, reduce resistance, improve performance, achieve objectives etc. We are used working with NDA to ensure that your development is protected.\n\nWe have performed projects in:\nThe Netherlands, Belgium, UK, Ireland, Germany, France, Portugal, Italy, Turkey, Dubai, Abu Dhabi, Qatar, Oman, Saudi Arabia, Bahrein, Lebanon, Angola, Malaysia, Singapore, Indonesia, US and more.",
+                    "title": "Managing partner",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "HCPS international",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2007
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2011
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2007
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2011
+                        }
+                    },
+                    "company": "HCPS international",
+                    "description": "HCPS car park ventilation system is a supplier of Car Park Ventilation systems. We offer you a unique product called the 'Induction fan' which is specially designed for car park ventilation. In export countries we offer you support during the design, execution and commissioning phase through our local dealers. You benefit from the local support in your native language and the experience from the employees of the headquarters in the Netherlands. You can contact us for more information about the products and services in your region.",
+                    "title": "Export director",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 203480,
+                "name": "Smits van Burgst",
+                "logo": "https://media.licdn.com/dms/image/C510BAQEiAZDnoDsRGQ/company-logo_400_400/0/1519885535637?e=1703721600&v=beta&t=LY55txmIP4jgts_0YtXhPzDWoeSyGHAZUTY4utu0iS4",
+                "url": "https://www.linkedin.com/company/smits-van-burgst/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2002
+                },
+                "end": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2007
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2002
+                        },
+                        "end": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2007
+                        }
+                    },
+                    "company": "Smits van Burgst",
+                    "description": "Our department performed studies for the building environment. Mainly on energy, safety and comfort. As part of First-Q we have worked throughout Europe and the Middle East.",
+                    "title": "Head of advanced simulations department",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "First-Q",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2002
+                },
+                "end": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2007
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2002
+                        },
+                        "end": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2007
+                        }
+                    },
+                    "company": "First-Q",
+                    "description": "Our department performed studies for the building environment. Mainly on energy, safety and comfort. As part of First-Q we have worked throughout Europe and the Middle East.",
+                    "title": "Simulation specialist",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Tebodin",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2002
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2002
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2002
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2002
+                        }
+                    },
+                    "company": "Tebodin",
+                    "description": "Built a software tool to calculate the heat transfer through a double skin facade. Including solar blinds, glass interreflection and airflow. The calculation was validated with performed test results.",
+                    "title": "Stagaire",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 264461,
+                "name": "Haagse Hogeschool",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQFtr7VqGaVWcQ/company-logo_400_400/0/1519902744083?e=1703721600&v=beta&t=ew41NCanlNmwyTdBrEWlDbT-UPrngQr0UpMZx5yzjCw",
+                "url": "https://www.linkedin.com/school/haagse-hogeschool/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2001
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2002
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2001
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2002
+                        }
+                    },
+                    "company": "De Haagse Hogeschool / The Hague University of Applied Sciences",
+                    "description": "From the faculty mechanical engineering a project was started with the name Climasim. Climasim is a HVAC design tool programmed in Matlab Simulink and based on the ISSO 43. The tool allows the user to analyze the system performance and test optimizations.\n\nSecondly I worked as career planning coach for first and second year students.\n\nThirdly I participated as Techno Talent scout. A project to motivate secondary school students to choose for technical career. This program includes teaching fysics to the students by small experiments.",
+                    "title": "Projectmedewerker",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Technical Management",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2001
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2001
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2001
+                        },
+                        "end": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2001
+                        }
+                    },
+                    "company": "Technical Management",
+                    "description": "I build a computer model to compare the performance of a VAV  with a CAV system based on data achieved from VABI114.",
+                    "title": "Stagaire",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Plantages PortoMari",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2000
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2001
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Curacao",
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2000
+                        },
+                        "end": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2001
+                        }
+                    },
+                    "company": "Plantages PortoMari",
+                    "description": "Researched methods to purify salt and brackish water for drinking purposes with a minimal use of energy. The general objectives of Plantages PortoMari was to build an ECO-friendly resort that is self supporting and created from sustainable materials.",
+                    "title": "Stagaire",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Computational fluid dynamics",
+        "Thermal Analysis",
+        "Car park and tunnel ventilation",
+        "Fire Safety",
+        "Sales Management",
+        "Engineering",
+        "Coaching",
+        "Interim Management",
+        "Microsoft Excel",
+        "HVAC",
+        "Thermal Comfort",
+        "AutoCAD",
+        "CAD",
+        "Sustainability",
+        "Heat Transfer",
+        "Mechanical Engineering",
+        "Simulations",
+        "Energy Efficiency"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

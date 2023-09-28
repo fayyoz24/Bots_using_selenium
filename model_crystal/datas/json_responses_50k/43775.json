@@ -1,0 +1,384 @@
+{
+    "profile_id": "wei-kong-316b05ab",
+    "first_name": "Wei",
+    "last_name": "Kong",
+    "sub_title": "Sr. Validation engineer at NXP Semiconductors",
+    "profile_picture": null,
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAABd6l4IBZ6mhjO2dlBrEj7lhuox--TsUpH8",
+    "object_urn": 393910146,
+    "birth_date": null,
+    "summary": "I am an electrical and electronic engineering professional person. I have been working in NXP-semiconductor as a validation engineer for three and half years. I did a lot of different projects like AQUA(CMOS 40nm technology), NW-PKE(CMOS 40nm technology), Caterpillar(CMOS 40nm technology), EVO(CMOS 65nm technology), ABCD9(CMOS 140nm technology) and so on. I am very familiar with a lot of IPs which are included Phase lock loop(PLL), Analog digital convertor(ADC), Digital analog convertor(DAC), Oscillator(XO), DC-DC convertor, Tunable delay line(TDL), Free random oscillator(FRO), Modular-LDO, Bandgap(BG), Temperature sensor(TS), Power on reset(POR), Brown out detector(BOD), Supply noise sensor(SNS) and so on. All above IPs which I did fully silicon function(SF) and silicon validation (SV) from my work. For the hardware part, I am good at PCB board debugging, soldering and generating a lot of good and new method for measurement. I am familiar with many kinds of instrument for measuring like spectrum analyzer, network analyzer, logic analyzer, jitter analyzer, pattern generator, functional generator, scope, source meter, power supply, multi-meter, impedance analyzer, thermos-streamer and so on. For the software part, I am the specialist for using LabVIEW. The validation environment is called AMOS-TESTER(LabVIEW) from my work. I did IP validation architect and generate chip control part, instrument drivers part, communication part which is like SPI, I2C, JTAG and so on, measurement VI part with using LabVIEW. After measuring, I use Python, Exensio, Matlab to do the data crunching that means I am also very good at these software. In addition, I use VISIO and Orcad to do the schematic design of PCB boards. In this three and half years, I did more than 30 IPs fully validation and more than 40 IPs validation architect.",
+    "location": {
+        "country": "Netherlands",
+        "short": "Eindhoven, North Brabant",
+        "city": "Eindhoven",
+        "state": "North Brabant",
+        "default": "Eindhoven, North Brabant, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "Chinese",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "Dutch",
+                "proficiency": "ELEMENTARY"
+            },
+            {
+                "name": "English",
+                "proficiency": "FULL_PROFESSIONAL"
+            }
+        ]
+    },
+    "industry": "Semiconductors",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "school": {
+                "name": "Hogeschool van Arnhem en Nijmegen (HAN)",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQE_-3BSObKKhw/company-logo_400_400/0/1561721136820?e=1703721600&v=beta&t=2FjoelfC7Q57j-cIZVF0MHph40qwze9WcfqLfiBa7y8",
+                "url": "https://www.linkedin.com/school/hogeschool-van-arnhem-en-nijmegen/"
+            },
+            "degree_name": "Master's Degree",
+            "field_of_study": "Electrical and mechanical Engineering",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2005
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2009
+                }
+            },
+            "school": {
+                "name": "Beijing Jiaotong University",
+                "logo": "https://media.licdn.com/dms/image/C560BAQF2fx8yRMuy2A/company-logo_400_400/0/1519895939443?e=1703721600&v=beta&t=3TR-pQh4iMBeqPtzcSmhOpSzhUY0zMAcTAwnKeetiOY",
+                "url": "https://www.linkedin.com/school/beijing-jiaotong-university/"
+            },
+            "degree_name": "Bachelor's Degree",
+            "field_of_study": "Electronic engineering",
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "Control and safety mechanisms for 3 DOF manipulator with human interaction",
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "description": "\uf06cUsing mathematical way to set up 3 DOF robot manipulator model\n\uf06cUsing Matlab/Simulink to set up 3 DOF robot manipulator and simulation\n\uf06cUsing PID controller to control robot manipulator move and stop in the desired position\n\uf06cUsing robot manipulator itself as a sensor to check the interaction between human and robot manipulator\n\uf06cAnalyzing the safety situation when there is an interaction between human and robot manipulator  ",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Wei",
+                    "last_name": "Kong",
+                    "name": null,
+                    "headline": "Sr. Validation engineer at NXP Semiconductors"
+                }
+            ]
+        },
+        {
+            "title": "NW-PKE(CMOS 40nm technology)",
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "description": "\uf06c\tPCB board schematic design with using Orcad and VISIO.\n\uf06c\tLearning and familiar with all the IPs knowledge background.\n\uf06c\tPCB board & IPs bring-up and debugging with using different instruments.\n\uf06c\tDoing validation architect with using LabVIEW.\n\uf06c\tDoing fully validation.\n\uf06c\tDoing data crunching with using Matlab, Python, Exensio and writing SV report.\n\uf06c\tThis project is included DAC7b2G, PLL550M, Modular-LDO, XO66M, FRO125k, TDL125M.\n",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Wei",
+                    "last_name": "Kong",
+                    "name": null,
+                    "headline": "Sr. Validation engineer at NXP Semiconductors"
+                }
+            ]
+        },
+        {
+            "title": "Caterpillar(CMOS 40nm technology)",
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "description": "\uf06c\tPCB board schematic design with using Orcad and VISIO.\n\uf06c\tLearning and familiar with all the IPs knowledge background.\n\uf06c\tPCB board & IPs bring-up and debugging with using different instruments.\n\uf06c\tDoing validation architect with using LabVIEW.\n\uf06c\tDoing fully validation.\n\uf06c\tDoing data crunching with using Matlab, Python, Exensio and writing SV report.\n\uf06c\tThis project is included ad8b80M, BG_ULP, BG0V8\n",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Wei",
+                    "last_name": "Kong",
+                    "name": null,
+                    "headline": "Sr. Validation engineer at NXP Semiconductors"
+                }
+            ]
+        },
+        {
+            "title": "EVO(CMOS 65nm technology)",
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "description": "\uf06c\tPCB board schematic design with using Orcad and VISIO.\n\uf06c\tLearning and familiar with all the IPs knowledge background.\n\uf06c\tPCB board & IPs bring-up and debugging with using different instruments.\n\uf06c\tDoing validation architect with using LabVIEW.\n\uf06c\tDoing fully validation.\n\uf06c\tDoing data crunching with using Matlab, Python, Exensio and writing SV report.\n\uf06c\tThis project is included TDL125M, DAC10b400M, AD12b80M.\n",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Wei",
+                    "last_name": "Kong",
+                    "name": null,
+                    "headline": "Sr. Validation engineer at NXP Semiconductors"
+                }
+            ]
+        },
+        {
+            "title": "AQUA(CMOS 40nm technology)",
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "description": "\uf06c\tPCB board schematic design with using Orcad and VISIO.\n\uf06c\tLearning and familiar with all the IPs knowledge background.\n\uf06c\tPCB board & IPs bring-up and debugging with using different instruments.\n\uf06c\tDoing validation architect with using LabVIEW.\n\uf06c\tDoing fully validation.\n\uf06c\tDoing data crunching with using Matlab, Python, Exensio and writing SV report.\n\uf06c\tThis project is included AD12b1M, AD10b16M, AD10b16M_HT, AD10b400k, PL4G8, PLL550M, XO32M, XO66M, XO66M_TRX, CB, POR, AD12b100k_3v6, BG_ULP, BG0V8, BOD, BOD_LV, FRO192M, FRO1M, FRO32k, Modular-LDO, XO32k, TS_ULP, TS_HP, BG0V8_LP, SNS, DC-DC.\n",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Wei",
+                    "last_name": "Kong",
+                    "name": null,
+                    "headline": "Sr. Validation engineer at NXP Semiconductors"
+                }
+            ]
+        }
+    ],
+    "publications": [],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 1088,
+                "name": "NXP Semiconductors",
+                "logo": "https://media.licdn.com/dms/image/C510BAQFopDEhRcpz9g/company-logo_400_400/0/1519855915315?e=1703721600&v=beta&t=eX4VOzxpSqMPm7vRUcHWlZJuKSUSTb8F8TdbyJUHXl8",
+                "url": "https://www.linkedin.com/company/nxp-semiconductors/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Eindhoven Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "NXP Semiconductors",
+                    "description": null,
+                    "title": "Sr. Validation Engineer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Brunel/NXP",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Eindhoven Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2018
+                        }
+                    },
+                    "company": "Brunel/NXP",
+                    "description": null,
+                    "title": "Jr. Validation Engineer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "DiTeWei, YiQun, Beijing Subway",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2009
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2011
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Beijing City, China",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2009
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2011
+                        }
+                    },
+                    "company": "DiTeWei, YiQun, Beijing Subway",
+                    "description": null,
+                    "title": "Internship of the electrical and mechanical engineering",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Simulink",
+        "Matlab",
+        "LabVIEW",
+        "Control Systems Design",
+        "Engineering",
+        "Automation",
+        "Electricians",
+        "Power Systems",
+        "Power Electronics",
+        "Mechanical Engineering",
+        "Python"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

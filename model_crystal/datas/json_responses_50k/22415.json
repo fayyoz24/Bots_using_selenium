@@ -1,0 +1,564 @@
+{
+    "profile_id": "bwitteveen",
+    "first_name": "Bart",
+    "last_name": "W.",
+    "sub_title": "Software Architect at Smartshore Ability",
+    "profile_picture": "https://media.licdn.com/dms/image/C4E03AQG2aqIUNcy--A/profile-displayphoto-shrink_800_800/0/1555340456932?e=1701302400&v=beta&t=16Pm4mEexVPKKBxp3XH8MG-k4gC-nubeMmepUwtzH9w",
+    "background_image": "https://media.licdn.com/dms/image/C5616AQHt4T8TYwhYLA/profile-displaybackgroundimage-shrink_350_1400/0/1517367213230?e=1701302400&v=beta&t=mnC5psqG-kNk2Jy2x1Ouooc17kybZZZSy8lCYrYDz7g",
+    "profile_type": "personal",
+    "entity_urn": "ACoAAAzyugMBzryeWWUY6iGyeO0hVd-vGHei3B4",
+    "object_urn": 217233923,
+    "birth_date": null,
+    "summary": null,
+    "location": {
+        "country": "Netherlands",
+        "short": "The Randstad, Netherlands",
+        "city": "The Randstad",
+        "state": "Netherlands",
+        "default": "The Randstad, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "Dutch",
+                "proficiency": null
+            },
+            {
+                "name": "English",
+                "proficiency": null
+            }
+        ]
+    },
+    "industry": "Information Technology & Services",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "school": {
+                "name": "University of Amsterdam",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQEfHBj_we-_kw/company-logo_400_400/0/1659945104460?e=1703721600&v=beta&t=nxt14hUDODg3MttkNj5Qa0fCu2FbgGbRXyFSapRtNv4",
+                "url": "https://www.linkedin.com/school/university-of-amsterdam/"
+            },
+            "degree_name": "Master of Science (MSc)",
+            "field_of_study": "Information Studies (Human Centered Multimedia)",
+            "grade": "Cum Laude"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2010
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "school": {
+                "name": "Utrecht University",
+                "logo": "https://media.licdn.com/dms/image/C510BAQG6HfmPTdJKXw/company-logo_400_400/0/1519884681258?e=1703721600&v=beta&t=dip0JQLPHIafltY09rUwsjeZiPiJpmfD6vJeMHxW-84",
+                "url": "https://www.linkedin.com/school/universiteit-utrecht/"
+            },
+            "degree_name": "Bachelor of Science (BSc)",
+            "field_of_study": "Information Science/Studies",
+            "grade": "Final GPA 3.69"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2004
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2010
+                }
+            },
+            "school": {
+                "name": "de Amersfoortse Berg",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "VWO",
+            "field_of_study": "Natuur & Techniek",
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "WestGate Attack Visualization",
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "description": "Visualization about the Westgate shopping mall attack case, that took place in Nairobi, Kenya, during 21-24 September 2013. This project analyzed around 700'000 Tweets and tried to describe the events throught the users' behaviour. Tools used: Python, SQLAlchemy, PIL, D3js.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Bart",
+                    "last_name": "W.",
+                    "name": null,
+                    "headline": "Software Architect at Smartshore Ability"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Marco De Nadai",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Nicholas Vieira",
+                    "headline": null
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Timur",
+                    "last_name": "Carpeev \ud83c\uddfa\ud83c\udde6",
+                    "name": null,
+                    "headline": "Head of Product at Saleor"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Cristina",
+                    "last_name": "Meniuc",
+                    "name": null,
+                    "headline": "Executive Experience & Design Director | Associate Partner @ IBM iX"
+                }
+            ]
+        }
+    ],
+    "publications": [],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 2704380,
+                "name": "Smartshore Ability",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQF3l3ElNCV4_g/company-logo_400_400/0/1578908458425?e=1703721600&v=beta&t=7SM_ciGfyOiCSn57cT5TrzOoXX7pIxSXDFnYnWtxXlk",
+                "url": "https://www.linkedin.com/company/smartshore-ability/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Utrecht Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2017
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Smartshore Ability",
+                    "description": null,
+                    "title": "Software Architect",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 10561158,
+                "name": "OCENTRI B.V.",
+                "logo": "https://media.licdn.com/dms/image/C560BAQEPGCreNbtQdQ/company-logo_400_400/0/1519878021491?e=1703721600&v=beta&t=IT8TGNVQlQcdPxV0ur2EHU8e0n6r6Z6PN4MfiQXNWyA",
+                "url": "https://www.linkedin.com/company/ocentri-b.v./",
+                "employees": {
+                    "start": 2,
+                    "end": 10
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2017
+                        }
+                    },
+                    "company": "OCENTRI B.V.",
+                    "description": null,
+                    "title": "Software Architect / Interaction Designer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 200875,
+                "name": "Pilotfish",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQEqKncdkaY-6g/company-logo_400_400/0/1519913231235?e=1703721600&v=beta&t=aZabcxhKQh8AD5CbA3g0cIgzz_MgsmZAe6ldUN6Y680",
+                "url": "https://www.linkedin.com/company/pilotfish/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amsterdam Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2014
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2015
+                        }
+                    },
+                    "company": "Pilotfish",
+                    "description": null,
+                    "title": "Front-end Developer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 3333480,
+                "name": "123-bServices",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQHbjSL2-38LSg/company-logo_400_400/0/1519899633541?e=1703721600&v=beta&t=pN7zqcU2k1PwDz2DHJP5k_aJjQqF1QnDiU3C0-xRPd8",
+                "url": "https://www.linkedin.com/company/123-bservices/",
+                "employees": {
+                    "start": 2,
+                    "end": 10
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2013
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2014
+                        }
+                    },
+                    "company": "123-bServices",
+                    "description": null,
+                    "title": "(Web) Developer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 2232620,
+                "name": "Van Berkum Studiebegeiding B.V.",
+                "logo": "https://media.licdn.com/dms/image/C560BAQGRKgzgBnlkUg/company-logo_400_400/0/1519897392424?e=1703721600&v=beta&t=1biXS8HGBebHGRu2SrhnPUYPb_DGuvamdwvzmEsquKw",
+                "url": "https://www.linkedin.com/company/van-berkum-studiebegeleiding-b-v-/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2012
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2013
+                        }
+                    },
+                    "company": "Van Berkum Studiebegeleiding B.V.",
+                    "description": null,
+                    "title": "Studiebegeleider",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 166740,
+                "name": "Universiteit Utrecht",
+                "logo": "https://media.licdn.com/dms/image/C510BAQG6HfmPTdJKXw/company-logo_400_400/0/1519884681258?e=1703721600&v=beta&t=dip0JQLPHIafltY09rUwsjeZiPiJpmfD6vJeMHxW-84",
+                "url": "https://www.linkedin.com/school/universiteit-utrecht/",
+                "employees": {
+                    "start": 5001,
+                    "end": 10000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2013
+                        },
+                        "end": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2013
+                        }
+                    },
+                    "company": "Utrecht University",
+                    "description": "E-business",
+                    "title": "Student Assistent",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 26748,
+                "name": "ANVA",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQGDPuqbFlIPtA/company-logo_400_400/0/1519856109163?e=1703721600&v=beta&t=GydqizImSztY9dcHzm5cCt9X7kVwVfUogtVzfkK_28w",
+                "url": "https://www.linkedin.com/company/anva/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amersfoort",
+                    "date": {
+                        "start": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2013
+                        },
+                        "end": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2013
+                        }
+                    },
+                    "company": "ANVA",
+                    "description": "Bachelor thesis: Customer Involvement in Software Development: Techniques and\nFocus Point for a Software Company in the Insurance Industry (8.5)",
+                    "title": "Afstudeerstage",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 166740,
+                "name": "Universiteit Utrecht",
+                "logo": "https://media.licdn.com/dms/image/C510BAQG6HfmPTdJKXw/company-logo_400_400/0/1519884681258?e=1703721600&v=beta&t=dip0JQLPHIafltY09rUwsjeZiPiJpmfD6vJeMHxW-84",
+                "url": "https://www.linkedin.com/school/universiteit-utrecht/",
+                "employees": {
+                    "start": 5001,
+                    "end": 10000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2012
+                        },
+                        "end": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2012
+                        }
+                    },
+                    "company": "Utrecht University",
+                    "description": "Wetenschappelijke Onderzoeksmethoden",
+                    "title": "Student Assistent",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Docker",
+        "JavaScript",
+        "TypeScript",
+        "Kubernetes",
+        "Vue.js",
+        "Node.js",
+        "Terraform",
+        "Interaction Design",
+        "Ansible",
+        "User Interface Design",
+        "Information Technology",
+        "User Experience",
+        "Web Design",
+        "Computer Science",
+        "Human Computer Interaction",
+        "React.js",
+        "Traefik",
+        "ElasticSearch",
+        "Coaching",
+        "Teaching"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

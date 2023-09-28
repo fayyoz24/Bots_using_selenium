@@ -1,0 +1,508 @@
+{
+    "profile_id": "tim-van-der-lee-33247b116",
+    "first_name": "Tim",
+    "last_name": "van der Lee",
+    "sub_title": "System Engineer, Fleet modeling & Simulation at SES Satellites",
+    "profile_picture": null,
+    "background_image": "https://media.licdn.com/dms/image/C5116AQF9mr_WU4LW5Q/profile-displaybackgroundimage-shrink_350_1400/0/1517475637290?e=1701302400&v=beta&t=AtVwuoa2_U0yLXREOu3SSHtIg6nQG3IJAy-TwsnFAnE",
+    "profile_type": "personal",
+    "entity_urn": "ACoAABzm0xYBhYbGoRVM4LgIYauuyoG4OTsKEEQ",
+    "object_urn": 484889366,
+    "birth_date": null,
+    "summary": null,
+    "location": {
+        "country": "Netherlands",
+        "short": "The Hague, South Holland",
+        "city": "The Hague",
+        "state": "South Holland",
+        "default": "The Hague, South Holland, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "FR",
+            "language": "fr"
+        },
+        "supported_locales": [
+            {
+                "country": "FR",
+                "language": "fr"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "Allemand",
+                "proficiency": "LIMITED_WORKING"
+            },
+            {
+                "name": "Anglais",
+                "proficiency": "PROFESSIONAL_WORKING"
+            },
+            {
+                "name": "Fran\u00e7ais",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "N\u00e9erlandais",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ]
+    },
+    "industry": "Defense & Space",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "school": {
+                "name": "Eindhoven University of Technology",
+                "logo": "https://media.licdn.com/dms/image/C560BAQG4PGSYiNG4CA/company-logo_400_400/0/1642150189320?e=1703721600&v=beta&t=omf4Ziy8Suete_GTJ3Qn1mOBS7ZrKSPido6Ld2LseBU",
+                "url": "https://www.linkedin.com/school/eindhoven-university-of-technology/"
+            },
+            "degree_name": null,
+            "field_of_study": "Mathematics and Computer Science",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "school": {
+                "name": "Grenoble INP - UGA",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQEYD6BD6zoL0w/company-logo_400_400/0/1625144359750?e=1703721600&v=beta&t=6OsvMZgn29njWWyqOvB5jmW7NBFeRlphqLcZyZX0lK8",
+                "url": "https://www.linkedin.com/school/institut-polytechnique-de-grenoble/"
+            },
+            "degree_name": "Dipl\u00f4me d'ing\u00e9nieur",
+            "field_of_study": "Syst\u00e8mes et Logiciels embarqu\u00e9s",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "school": {
+                "name": "Lyc\u00e9e Blaise Pascal (Orsay)",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "Classe pr\u00e9paratoire aux grandes \u00e9coles",
+            "field_of_study": "Mathematics and Physics",
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [
+        {
+            "name": "Bulats B2",
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": null,
+            "url": null,
+            "license_number": null,
+            "display_source": null,
+            "company": null
+        }
+    ],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "Projet 2A : Localisation des syst\u00e8mes LoRa",
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "description": "Localisation de syst\u00e8mes LoRa grace aux ondes radio et estimation de leur efficacit\u00e9.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Tim",
+                    "last_name": "van der Lee",
+                    "name": null,
+                    "headline": "System Engineer, Fleet modeling & Simulation at SES Satellites"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Jordan Broisin",
+                    "headline": null
+                }
+            ]
+        },
+        {
+            "title": "Projet GL",
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "description": "Cr\u00e9ation d'un compilateur en java",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Tim",
+                    "last_name": "van der Lee",
+                    "name": null,
+                    "headline": "System Engineer, Fleet modeling & Simulation at SES Satellites"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Am\u00e9lie Fondevilla",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Adrien Lachambre",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Thomas Poncet",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Tanguy Esteoule",
+                    "headline": null
+                }
+            ]
+        },
+        {
+            "title": "Projet de groupe 1A : cr\u00e9ation d'un \u00e9cran transparent",
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "description": "Cr\u00e9ation d'un \u00e9cran transparent bas\u00e9 sur la persistence r\u00e9tienne",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Tim",
+                    "last_name": "van der Lee",
+                    "name": null,
+                    "headline": "System Engineer, Fleet modeling & Simulation at SES Satellites"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Alexandre Bouth\u00e9on",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Julien Lemaistre",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Luca Planat",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Louis Pequignot",
+                    "headline": null
+                }
+            ]
+        }
+    ],
+    "publications": [],
+    "courses": [],
+    "test_scores": [
+        {
+            "name": "Bachelor Degree - Grenoble INP",
+            "score": "Bachelor Degree",
+            "date": {
+                "month": 9,
+                "day": null,
+                "year": 2014
+            }
+        }
+    ],
+    "position_groups": [
+        {
+            "company": {
+                "id": 9157,
+                "name": "SES Satellites",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQFp6xZjQCpE6A/company-logo_400_400/0/1606096400601?e=1703721600&v=beta&t=TbLQgxUU04zMxDoik7_DoZxq4YLPUKKQntbSMlpctUA",
+                "url": "https://www.linkedin.com/company/ses/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "The Hague, South Holland, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2020
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "SES Satellites",
+                    "description": null,
+                    "title": "System Engineer, Fleet modeling & Simulation",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 4838,
+                "name": "TU/e Eindhoven University of Technology",
+                "logo": "https://media.licdn.com/dms/image/C560BAQG4PGSYiNG4CA/company-logo_400_400/0/1642150189320?e=1703721600&v=beta&t=omf4Ziy8Suete_GTJ3Qn1mOBS7ZrKSPido6Ld2LseBU",
+                "url": "https://www.linkedin.com/school/eindhoven-university-of-technology/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "R\u00e9gion de Eindhoven, Pays-Bas",
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2020
+                        }
+                    },
+                    "company": "Eindhoven University of Technology",
+                    "description": "- In-depth analysis of the IEEE802.15.4 communication protocols for IoT.\n- Development of a fully distributed and autonomous swarm-based scheduling algorithm optimizing energy-efficiency.\n- Application of swarm-based systems to directional antenna control, distributed optimization of constrained problems.\n- Study of the integration of Machine Learning and Artificial Neural Network techniques into constrained devices and wireless networks.\n- Teaching assistant in Computer Networks and IoT courses, management of bachelor and master projects.\n- Participation in the H2020 EU Project INTER-IoT.",
+                    "title": "PhD",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 72604,
+                "name": "Arturia",
+                "logo": "https://media.licdn.com/dms/image/C560BAQGJPZZEmGOwgA/company-logo_400_400/0/1582559860907?e=1703721600&v=beta&t=FmaVpmp8TFWikltfmCwOc4nYRnJRuMoADSndxxfn0Tw",
+                "url": "https://www.linkedin.com/company/arturia/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "R\u00e9gion de Grenoble, France",
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2015
+                        }
+                    },
+                    "company": "ARTURIA",
+                    "description": "Research and development of a new graphical user interface module for Arturia\u2019s softwares and VST Plugins",
+                    "title": "Internship as a Software Developer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1618,
+                "name": "STMicroelectronics",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQFyQ-q6iu6L0g/company-logo_400_400/0/1584338976031?e=1703721600&v=beta&t=A2AO02PjSx6_aCffBSLZjGVNc_8PD5DTrNZt-I4Ghz4",
+                "url": "https://www.linkedin.com/company/stmicroelectronics/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "R\u00e9gion de Grenoble, France",
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2014
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2014
+                        }
+                    },
+                    "company": "STMicroelectronics",
+                    "description": "Work experience with STM\u2019s chipset in a clean-room environment, as a member of the photolitography team",
+                    "title": "Internship (operator)",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Ing\u00e9nierie",
+        "Syst\u00e8me d'op\u00e9ration",
+        "Microsoft Office",
+        "OpenGL",
+        "LaTeX",
+        "PowerPoint",
+        "Intelligence artificielle",
+        "Algorithmes",
+        "Optimisation",
+        "Java",
+        "C",
+        "C++",
+        "Python",
+        "Gestion de projet",
+        "Gestion de projet logiciel",
+        "GitHub",
+        "SQL",
+        "VHDL",
+        "Eclipse",
+        "Syst\u00e8mes embarqu\u00e9s"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}
