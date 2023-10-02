@@ -1,0 +1,521 @@
+{
+    "profile_id": "himanshu-yadav-25622853",
+    "first_name": "Himanshu",
+    "last_name": "Yadav",
+    "sub_title": "Senior Software Developer at Booking.com",
+    "profile_picture": "https://media.licdn.com/dms/image/C4D03AQEMFCp_sVNJQA/profile-displayphoto-shrink_800_800/0/1651221947555?e=1701302400&v=beta&t=Dz3KIzl_AGejMWjVPAjHRo2kvy7PqCqHs4vwDa0Ofq0",
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAAAs-4WIBJIpjBsCSUESyxwT1jgDZBmo3it8",
+    "object_urn": 188670306,
+    "birth_date": null,
+    "summary": "6+ years of experience in Software Development in Azure for Microsoft. \n\nDesigned and implemented:\n- Login, logout, profile (identity) and banner notification across Azure Collaborative Service UI. Used AAD, Microsoft.Graph, MSAL.JS, React.Js, Redux;\n\n- Architecture for Server/Agent less Pipeline tasks in Azure DevOps as part of Release Management team. Also SPEAR HEADED the first Server/Agent less task: Invoke Rest/Function API. Used to run MILLIONS of tasks every day.\n\n- SQL Database for DevOps Starter in Azure: https://ms.portal.azure.com/#create/Microsoft.AzureProject\nCreated new Azure Resource Provider in Azure DevOps.\nDesigned and implemented complete database requirements\n\n- Designed and implemented: Reuse existing Azure resources capability (like: Azure Kubernetes or Azure service fabric clusters, Azure Webapps, Azure docker container registries etc.)\nThis spanned across the UX, Service, Arm templates, Database.\n\nOpen Source World:\n- Lead .NET Core deployment environment in Azure DevOps while interacting with clients and building the required capabilities in Azure DevOps offerings to support all .NET Core versions.\n\n- Contributed to open source repositories in GitHub to create and maintain some of the most used tasks in Azure DevOps: Azure CLI, Azure ARM template deployment, Service Fabric Deployment.\n\nIdentity and Authentication:\n- Build Auth N/Z capabilities for our website and service using MSAL.Js, MSAL.NET and ADAL. Also supported both AAD backed accounts and personal accounts to be able to login and use our service, while doing tenant discovery on the backend.\n\n- Educated and helped many other teams in our organizations to bootstrap authentication and identity in their services\n\nProfound knowledge of:\nAzure Active Directory, Azure Synapse, Azure Service Fabric, Async programming, DevOps, REST API, MSAL and ADAL, Managed Identities, Azure Web Apps, Azure Kubernetes, Azure Cosmos DB, ETL on data using Azure Technologies.\n\nKnow about:\nDistributed orchestrations, Database query optimization, Worker/Background job architecture,",
+    "location": {
+        "country": null,
+        "short": "Netherlands",
+        "city": null,
+        "state": null,
+        "default": "Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "English",
+                "proficiency": "FULL_PROFESSIONAL"
+            }
+        ]
+    },
+    "industry": "Computer Software",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "school": {
+                "name": "National Institute of Technology Kurukshetra",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQF-TwKGUdiOag/company-logo_400_400/0/1628393912593?e=1703721600&v=beta&t=lk2-k5UBLsEWi3k65G5QJGnJBnaFMgcHytCAAbKt73I",
+                "url": "https://www.linkedin.com/school/national-institute-of-technology-kurukshetra/"
+            },
+            "degree_name": "Bachelor of Technology - BTech",
+            "field_of_study": "Computer Science",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 1998
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "school": {
+                "name": "chiranjiv bharti school",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "12th CBSE Board",
+            "field_of_study": null,
+            "grade": "91.2"
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "Generating Azure Synapse pipelines to merge data adhering to a data model while collaborating from multiple locations",
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "description": "Designed and implemented: Merge pipelines feature for AICS service, involving: integrations with 7 other Azure and AAD services (Azure Resource Manager, Azure Storage, Azure data share, Azure Synapse, Azure IDW, Microsoft Graph, Azure Active Directories)\n\n- We explored the various options of the final design for the generated pipeline by using different available tasks/automation jobs in Azure Synapse \n- Designed and scoped the new resource type in respect to the existing resources and maintained the ARM proxy resource stage for the new resource type\n- Database changes to accommodate merge pipelines in respect of Data models of a Custodian Collaborative resource\n- Implemented the core job/worker logic for the long running process of generating required pre-requisites, generating pipeline, triggering the pipeline, polling and updating the result into the database\n- Designed with extensibility and modularity in mind, so that later new data packages could also be accommodated inside existing pipelines, removing the need to generate new ones.\n- Setup the S2S authentication for cross service bilateral talk.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Himanshu",
+                    "last_name": "Yadav",
+                    "name": null,
+                    "headline": "Senior Software Developer at Booking.com"
+                }
+            ]
+        },
+        {
+            "title": "Authentication and Identity framework for Azure PAAS service",
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "description": "Auth N/Z:\n- Designed and Implemented: Authentication and authorization framework for UX and Service for different environments: Dev, Test, Pre-prod, Prod.\n- Onboarded to both: Certificate and JWT token based authentication schemes with different intended clients\n- Supported Live/Personal accounts as well as AAD backed accounts\n- Added support for AAD apps/SPN to be able to interact with the service.\n\nIdentities:\n- Designed the integration of Managed Identities for Azure Resources into our service\n- Spear headed the Managed Identities world while making it work in all environments and making developer experience smooth\n- Secret storage, rotation, caching  and regional endpoint discovery to improve resiliency and decrease impact of AAD latency and secret replication\n\nHelping others:\n- Educated and helped many teams (5+) in getting the Auth N/Z and Identity story right.\n- Shared service authentication and token exchange platform. This was later directly consumed by two other teams\n\nInitiatives:\n- Created automated alerts and monitors for Auth failures in different regions\n- Matured the code through various changes about Zero Touch Secret rotation (certificates)\n- Token encryption and decryption for added security\n- Sharing and establishing best practices for Secret management across teams in our organization.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Himanshu",
+                    "last_name": "Yadav",
+                    "name": null,
+                    "headline": "Senior Software Developer at Booking.com"
+                }
+            ]
+        },
+        {
+            "title": "ARM template deployment engine in Azure Collaborative Service's UX",
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "description": "Designed and Implemented the reusable engine for deployment ARM templates from our UX based on REACT.JS:\n- It would stich up complex, multi layered, dependent ARM templates to deploy multiple resources and provision role assignments all at once.\n- Poll for final state while the deployment is in progress and then parse and show the result to the end user in UX\n- Created environment profiles in UX and utilized browser session storage to make engine intelligently choose the right set of resources to be created and the endpoints to be used\n\nEventually all our resources and actions used to deploy ARM templates.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Himanshu",
+                    "last_name": "Yadav",
+                    "name": null,
+                    "headline": "Senior Software Developer at Booking.com"
+                }
+            ]
+        },
+        {
+            "title": "Built new first party (in-box) Azure Resource Provider for ground up",
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "description": "- Registered new Azure Resource Provider with Azure and created its manifest\n- Modeled resources of different types adhering to Azure guidelines, such as: tracked, proxy, tenant level in the RP manifest and did corresponding implementation in the service\n- Setting up of certificates and getting domains for the service\n- Created Feature flags to keep the RP and service hidden from the world and only allow access to select few customers\n- Setup the right RBAC validations for dependent resource creation, leveraging ARM provided framework",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Himanshu",
+                    "last_name": "Yadav",
+                    "name": null,
+                    "headline": "Senior Software Developer at Booking.com"
+                }
+            ]
+        },
+        {
+            "title": "Deploy to Azure: VS Code Extension",
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "description": "\u2018Deploy to Azure\u2019 \u2013 Extension for VS-Code IDE: \nDesigned, Implemented and Launched (Microsoft Ignite conference, 2019) the extension. It analyses user\u2019s code to bring out suggestions of Azure services to which customer\u2019s code can be deployed to. The auto setup CI/CD pipelines in Azure Pipelines or GitHub Actions for the user based on their selection:\n-\tDesigned and implemented Code Analyzer: Analyze code repository to produce the detected languages used and possible azure service to which user\u2019s code can be deployed to.\n-\tDesigned and implemented: Auto create YAML CI/CD pipeline for user\u2019s code repository. Check in the YAML file and create CI/CD pipeline in Azure Pipelines/GitHub Repo.\n-\tSetup authentication with Azure Repos, Azure Pipelines and GitHub\n-\tSetup telemetry, monitoring system, and CI/CD pipeline for the extension.\nDesigned Parameterization Model of YAML Pipeline templates being consumed across Azure Pipelines, GitHub Actions, VS Code, VS IDE, AZ CLI and DevOps Project on Azure: \nDesigned the structure of templates, to contain relevant metadata using which suggestion engine performance can be enhanced.\n",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Himanshu",
+                    "last_name": "Yadav",
+                    "name": null,
+                    "headline": "Senior Software Developer at Booking.com"
+                }
+            ]
+        },
+        {
+            "title": "Azure DevOps project",
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "description": "Designed and developed underlying database and API later to store and fetch CI/CD pipeline information.\nCreated Java web apps CI/CD on windows webapp and container based webaap for Azure DevOps project.\nRestrcutured the Azure DevOps project Resource providers APIs.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Himanshu",
+                    "last_name": "Yadav",
+                    "name": null,
+                    "headline": "Senior Software Developer at Booking.com"
+                }
+            ]
+        },
+        {
+            "title": "Server orchestration for distributed computing in VSTS Server side tasks.",
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "description": "Leveraged existing distributed task (open source) orchestration mechanism to schedule and run server side tasks triggered by users as part of CI/CD pipelines.\nThe project needed to be highly scalable and fail proof. It required working on Sql azure databases, Azure service bus, constructing distributed task orchestration and leveraging mechanism to automatically pick up one task a time with fall back mechanism. also had to put in limitations on per user allowance.\nt\nThis mechanism is now being used to power Server Side Tasks in VSTS Release Management.\n\nTechnology used: C#, .Net, Distributed computing orchestrations mechanism (distibuted tasks), Azure Sql, Azure service bus, encrypting/decrypting data, Tasks schedulers.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Himanshu",
+                    "last_name": "Yadav",
+                    "name": null,
+                    "headline": "Senior Software Developer at Booking.com"
+                }
+            ]
+        },
+        {
+            "title": "UI Grid extensions for VSTS tasks view",
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "description": "The requirement was for the extension to be able to read file and then display parameters in a key value editable grid.\nFor this I had to understand current framework on Knockout.JS and then design how the extension would work.\nHad to use delegation to pass on function. This function would be used to get file data from git based repository or from build artifact.\nWrote a Json parser for extracting right parameters and there values.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Himanshu",
+                    "last_name": "Yadav",
+                    "name": null,
+                    "headline": "Senior Software Developer at Booking.com"
+                }
+            ]
+        },
+        {
+            "title": "Azure CLI task",
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "description": "Designed and Implemented:\n\n- An open source, Node.JS based task to be used in Azure DevOps\n- Provided different option of logging into the command line via non-interactive flow and always handle clean up of the environment irrespective of the task execution status\n- It went on to become one of the most used task in Azure DevOps with millions of executions in a day.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Himanshu",
+                    "last_name": "Yadav",
+                    "name": null,
+                    "headline": "Senior Software Developer at Booking.com"
+                }
+            ]
+        }
+    ],
+    "publications": [],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 11348,
+                "name": "Booking.com",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQEgzF5azm3fNA/company-logo_400_400/0/1628510256914?e=1703721600&v=beta&t=5eXz-OHEqUF-i5NTayhj4ycN9m2VUeV-Jyzwe5WhR9g",
+                "url": "https://www.linkedin.com/company/booking.com/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amsterdam, North Holland, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Booking.com",
+                    "description": null,
+                    "title": "Senior Software Engineer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1035,
+                "name": "Microsoft",
+                "logo": "https://media.licdn.com/dms/image/C560BAQE88xCsONDULQ/company-logo_400_400/0/1618231291419?e=1703721600&v=beta&t=xic8lPBHmNYz9qHIoiuq_itbJ4T3xDqNu9Bb5EuYkZ0",
+                "url": "https://www.linkedin.com/company/microsoft/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2023
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Hyderabad, Telangana, India",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2023
+                        }
+                    },
+                    "company": "Microsoft",
+                    "description": null,
+                    "title": "Senior Software Developer",
+                    "employment_type": "Full-time"
+                },
+                {
+                    "location": "Hyderabad, Telangana, India",
+                    "date": {
+                        "start": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2020
+                        },
+                        "end": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2023
+                        }
+                    },
+                    "company": "Microsoft",
+                    "description": "Azure Global: March 2020 \u2013 present\nManaged PAAS launch from August to September 2020:\n-\tTrack bugs and follow up with team members to track progress.\n-\tQuality control\n-\tDeployment to dev, test, pre product and production environments for initial launch.\nArchitected Identity and Auth N/Z for Azure PAAS: Setup Auth N/Z for Azure PAAS with Azure Active Directory (AAD). \n-\tUsed MSAL and ADAL library with AAD applications & managed identities to setup Auth N & Z on UX and service.\n-\tThe same model is now being adopted by other azure teams in Hyderabad and Bengaluru.\n-\tLogin experience for the website.\nDesigned and Implemented backend for Data Sharing and Validation pipelines for Azure PAAS: Enabled customer to validate the data being shared with another customer via CDM schemas and enforce validation policies for data.\n-\tImplemented long running async jobs for our service to be able to run and poll pipelines with regular status updates.\n-\tImplemented clients to interact with other Azure Services like: Synapse, Data Share, Storage Account, Microsoft Graph\n-\tCollaborated with other team to create required framework for the solution to work.\nSetup Cloud Infrastructure for website and service: \n-\tSetup infra via CI/CD pipelines (deployments) for \nO\tAzure Webapp (for website)\nO\tAZURE Service Fabric cluster on Azure Virtual machine scale set (service).\n-\tSetup secrets (certificates) storing, utilization and rotation in the service.\nDesign and implemented creation of Azure PAAS resources using ARM templates (UX and Service REST APIs):\n-\tREST APIS: CRUD calls for major resources offered in our Azure PAAS.\n-\tImplemented unit and end to end testing infrastructure.\n-\tImplemented UX for user to create required resources.\n-\tPopulate ARM template for user inputs and use them over Azure REST APIs\n-\tImplemented live status updated in UX.",
+                    "title": "Software Developer 2",
+                    "employment_type": "Full-time"
+                },
+                {
+                    "location": "Hyderabad, Telangana, India",
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2020
+                        }
+                    },
+                    "company": "Microsoft",
+                    "description": "Azure DevOps: June 2019 \u2013  March 2020\n\u2018Deploy to Azure\u2019 \u2013 Extension for VS-Code IDE: \nDesigned, Implemented and Launched (Microsoft Ignite conference, 2019) the extension. It analyses user\u2019s code to bring out suggestions of Azure services to which customer\u2019s code can be deployed to. The auto setup CI/CD pipelines in Azure Pipelines or GitHub Actions for the user based on their selection:\n-\tDesigned and implemented Code Analyzer: Analyze code repository to produce the detected languages used and possible azure service to which user\u2019s code can be deployed to.\n-\tDesigned and implemented: Auto create YAML CI/CD pipeline for user\u2019s code repository. Check in the YAML file and create CI/CD pipeline in Azure Pipelines/GitHub Repo.\n-\tSetup authentication with Azure Repos, Azure Pipelines and GitHub\n-\tSetup telemetry, monitoring system, and CI/CD pipeline for the extension.",
+                    "title": "Software engineer 2",
+                    "employment_type": "Full-time"
+                },
+                {
+                    "location": "Hyderabad Area, India",
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "Microsoft",
+                    "description": "Azure DevOps: June 2016 \u2013 May 2019\nAzure Pipelines tasks and Agents:\n-\tDesigned and implement server-side tasks framework. Used Distributed Task Orchestration to run background jobs.\n-\tThis framework has now been leveraged to add multiple server-side tasks by internal as well as external contributors.\n-\tAdded/managed Azure cli, Azure rm manager, .Net Core tasks, Service Fabric tasks, Invoke Rest API\n-\tManaged .Net Core and Service fabric infrastructure in thousands of Azure Agent images used to create agent instances, like VS2016, VS2019.\nArchitected deployment resource database and REST API for Deployment Resource: Designed and implemented database and REST API\u2019s for CRUD operations on DevOps Project. This data was then also connected to existing resources and piggybacked with them for additional insights. This was the first piece of data being handled/stored by our service.\n\nDesigned and implemented resource reuse in DevOps project: Designed an end-to-end system of how the service and front end will work together to enable reusing Azure resource while setting up DevOps project in Azure portal. As part of this, the following work was involved:\n\u2022\tChanges to Deployment Resource Database tables and indexes\n\u2022\tStored metadata in Azure resources\u2019 hidden tags\n\u2022\tChanges to Portal extension service: to inculcate setting up the metadata as part of extensible approach, so that more metadata types can be contributed using extensions\nTeam members on the project: One another team mate to implement the UX side.",
+                    "title": "Software Developer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [
+        {
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "role": "Guest Teacher",
+            "company": {
+                "id": null,
+                "name": "Teach For India",
+                "logo": "https://media.licdn.com/dms/image/C560BAQEaDE_wvYMOJA/company-logo_400_400/0/1596779736470?e=1703721600&v=beta&t=rnxSxCB2t-DSQLpD5K4QZj9foqWbVFV-ilgG2aJ_0t8",
+                "url": "https://www.linkedin.com/company/teach-for-india/"
+            },
+            "cause": "EDUCATION",
+            "description": "As part of giving campaign, i devoted one day to teach children at a Teach For India managed school in Hyderabad."
+        }
+    ],
+    "skills": [
+        ".NET Core",
+        "DevOps",
+        "Node.js",
+        "Data Structures",
+        "Algorithms",
+        "Continuous Integration",
+        "C#",
+        "React.js",
+        "C++",
+        "C",
+        "MySQL",
+        "Android",
+        ".NET Framework",
+        "Microsoft Azure",
+        "Visual Studio",
+        "REST API",
+        "Orchestration",
+        "API Development",
+        "KnockoutJS",
+        "Continuous Delivery"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

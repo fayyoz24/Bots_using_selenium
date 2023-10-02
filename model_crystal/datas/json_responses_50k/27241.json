@@ -1,0 +1,517 @@
+{
+    "profile_id": "xcarrillocorco",
+    "first_name": "Xavier",
+    "last_name": "Carrillo C\u00f3rcoles",
+    "sub_title": "Research Engineer - Aerospace Structures and Computational Mechanics at Technische Universiteit Delft",
+    "profile_picture": "https://media.licdn.com/dms/image/C4D03AQHBzBR5rkM8-A/profile-displayphoto-shrink_800_800/0/1650276226149?e=1701302400&v=beta&t=EP0Yt6P-BuXLtpCDlctb64h9V8YpC2htyJqMfsX5R0g",
+    "background_image": "https://media.licdn.com/dms/image/C5616AQFHQ3OI-WOMog/profile-displaybackgroundimage-shrink_350_1400/0/1568481286431?e=1701302400&v=beta&t=KNNd8AIdw51VIRGDrkYu7PL9I1UlHouRtzIefaJMMUU",
+    "profile_type": "personal",
+    "entity_urn": "ACoAAC1lj68BCW1zwqgAVc7JzCrzlC0HMESePx0",
+    "object_urn": 761630639,
+    "birth_date": null,
+    "summary": null,
+    "location": {
+        "country": "Netherlands",
+        "short": "Delft, South Holland",
+        "city": "Delft",
+        "state": "South Holland",
+        "default": "Delft, South Holland, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "ES",
+            "language": "es"
+        },
+        "supported_locales": [
+            {
+                "country": "ES",
+                "language": "es"
+            },
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "Catal\u00e1n",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "English",
+                "proficiency": "FULL_PROFESSIONAL"
+            },
+            {
+                "name": "Espa\u00f1ol",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ]
+    },
+    "industry": "Aviation & Aerospace",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "school": {
+                "name": "Delft University of Technology",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQFwaGpwaod9mQ/company-logo_400_400/0/1670699851986?e=1703721600&v=beta&t=Aw4oLxoKsIJcblYDjxw9200FClnyhZu8DxzcfJRDFOs",
+                "url": "https://www.linkedin.com/school/tudelft/"
+            },
+            "degree_name": "Master's degree in Aerospace Engineering",
+            "field_of_study": "Aerodynamics",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "school": {
+                "name": "ESEIAAT-UPC",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQFU2wWz9yf9eA/company-logo_400_400/0/1519952239171?e=1703721600&v=beta&t=fPU-SQik13xBEm1kGnOVGspr2PE4krBUatSvvV3R_bU",
+                "url": "https://www.linkedin.com/school/eseiaat-upc/"
+            },
+            "degree_name": "Bachelor's degree in Aerospace Vehicles Engineering",
+            "field_of_study": null,
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [
+        {
+            "name": "Cambridge Exams: Advanced (CAE)",
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Exams Catalunya - Cambridge English Platinum Exam Centre ES439",
+            "url": null,
+            "license_number": null,
+            "display_source": null,
+            "company": {
+                "id": null,
+                "name": "Exams Catalunya - Cambridge English Platinum Exam Centre ES439",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQFtOkKW0qOBxQ/company-logo_400_400/0/1519903787736?e=1703721600&v=beta&t=owO4GzEJk9LGV5l7wiAptC9vMpJyaa4tfchzpans6M4",
+                "url": null
+            }
+        },
+        {
+            "name": "Graduate Record Examination (GRE)",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "ETS",
+            "url": null,
+            "license_number": null,
+            "display_source": null,
+            "company": {
+                "id": null,
+                "name": "ETS",
+                "logo": "https://media.licdn.com/dms/image/C560BAQG8wr1PJuA-qw/company-logo_400_400/0/1582914511307?e=1703721600&v=beta&t=wcw0hWfMbqgj4pWyz0-zIgoqhjY3JRECma9wtUKGfUM",
+                "url": null
+            }
+        }
+    ],
+    "organizations": [],
+    "projects": [],
+    "publications": [
+        {
+            "name": "Effect of Wing Stiffness and Folding Wingtip Release Threshold on Gust Loads",
+            "publisher": "Journal of Aircraft",
+            "url": "https://doi.org/10.2514/1.C037108",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2023
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Xavier",
+                    "last_name": "Carrillo C\u00f3rcoles",
+                    "name": null,
+                    "headline": "Research Engineer - Aerospace Structures and Computational Mechanics at Technische Universiteit Delft"
+                }
+            ]
+        },
+        {
+            "name": "Nonlinear Low-Fidelity Numerical Model of the Flared Folding Wingtip",
+            "publisher": "AIAA Scitech 2023 Forum",
+            "url": "https://doi.org/10.2514/6.2023-0378",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2023
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Xavier",
+                    "last_name": "Carrillo C\u00f3rcoles",
+                    "name": null,
+                    "headline": "Research Engineer - Aerospace Structures and Computational Mechanics at Technische Universiteit Delft"
+                }
+            ]
+        },
+        {
+            "name": "Wing Stiffness and Hinge Release Threshold Effects on Folding Wingtip Gust Load Alleviation",
+            "publisher": "AIAA Scitech 2022 Forum",
+            "url": "https://doi.org/10.2514/6.2022-1559",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2021
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Xavier",
+                    "last_name": "Carrillo C\u00f3rcoles",
+                    "name": null,
+                    "headline": "Research Engineer - Aerospace Structures and Computational Mechanics at Technische Universiteit Delft"
+                }
+            ]
+        }
+    ],
+    "courses": [
+        {
+            "name": "CATIA v5 - Part, Assembly and Sheet Metal design",
+            "number": null
+        },
+        {
+            "name": "NX Unigraphics - Part, Assembly and Sheet Metal design",
+            "number": null
+        }
+    ],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 166529,
+                "name": "Delft University of Technology",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQFwaGpwaod9mQ/company-logo_400_400/0/1670699851986?e=1703721600&v=beta&t=Aw4oLxoKsIJcblYDjxw9200FClnyhZu8DxzcfJRDFOs",
+                "url": "https://www.linkedin.com/school/tudelft/",
+                "employees": {
+                    "start": 5001,
+                    "end": 10000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Delft, South Holland, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2023
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Delft University of Technology",
+                    "description": null,
+                    "title": "Research Engineer in project HERWINGT within Clean Aviation",
+                    "employment_type": "Full-time"
+                },
+                {
+                    "location": "Delft, South Holland, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2023
+                        }
+                    },
+                    "company": "Delft University of Technology",
+                    "description": "MANTA is a European Clean Sky 2 R&D program focused on innovative movables for fuel reduction of next-generation high-speed aircraft.\n\u2022 FE modelling of the closure flap of the Ram Air Inlet (RAI) of the A320.\n\u2022 Design of the optimization framework to define the thickness distribution of a composite laminate plate.\n\u2022 Redesign study of the A320 RAI flap.",
+                    "title": "Research Engineer in project MANTA within Clean Sky 2",
+                    "employment_type": "Full-time"
+                },
+                {
+                    "location": "Delft, South Holland, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "Delft University of Technology",
+                    "description": "Experimental aeroelastic study of the effects of bending stiffness, stiffness tailoring and hinge release threshold on the gust load alleviation capabilities of the flared folding wingtip:\n\u2022\tDesign and simulation of a wind tunnel model featuring a flared folding wingtip and a hinge release mechanism.\n\u2022\tManufacturing and instrumentation of the wind tunnel model and design of the data acquisition system.\n\u2022\tWind tunnel experiment to study the static response of the wing and the response against 1-cosine gusts.\n\nConference paper at Scitech 2022: https://doi.org/10.2514/6.2022-1559\nFull report: https://repository.tudelft.nl/islandora/object/uuid:ef44ea11-a9b4-415d-97be-51d38380a3a5?collection=education",
+                    "title": "Master Thesis Project: An experimental study on flared folding wingtips",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 28423178,
+                "name": "Siemens Digital Industries Software",
+                "logo": "https://media.licdn.com/dms/image/D560BAQGza0ladawKLQ/company-logo_400_400/0/1689958983703?e=1703721600&v=beta&t=ZdPruMHTit_xN9CJpVIPE-GwzeGbBsPGhTjTSo7j1wU",
+                "url": "https://www.linkedin.com/company/siemenssoftware/",
+                "employees": {
+                    "start": 5001,
+                    "end": 10000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Leuven, Flemish Region, Belgium",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2020
+                        },
+                        "end": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2021
+                        }
+                    },
+                    "company": "Siemens Digital Industries Software",
+                    "description": "\u2022\tStick-model development for analysis of complex aircraft wing-box structures.\n\u2022\tDevelopment of wing structure design workflow for ELICA project.",
+                    "title": "Research intern in Aerospace & Defense department",
+                    "employment_type": "Internship"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 166858,
+                "name": "WABCO",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQE7gxvXiPhnVA/company-logo_400_400/0/1639587082148?e=1703721600&v=beta&t=f_3OT5WEF7tED7xdDO-nfWqGTjI5PtyiMdescpeAkrE",
+                "url": "https://www.linkedin.com/company/wabco/",
+                "employees": {
+                    "start": 0,
+                    "end": 1
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Rotterdam, South Holland, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2020
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2020
+                        }
+                    },
+                    "company": "WABCO",
+                    "description": "\u2022\tImage processing in product development project.\n\u2022\tDesign of aerodynamic add-ons for Heavy-Duty Vehicles.",
+                    "title": "R&D Intern",
+                    "employment_type": "Internship"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 16255418,
+                "name": "UPC VENTURI",
+                "logo": "https://media.licdn.com/dms/image/C510BAQHD5f54mrM_WA/company-logo_400_400/0/1519863704676?e=1703721600&v=beta&t=cpdlnNzUyDXHbGq6qGy_El4BSlctjO-x_9tL_qWZ1Vc",
+                "url": "https://www.linkedin.com/company/upcventuri/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Barcelona",
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "UPC VENTURI",
+                    "description": "Design and manufacturing of RC aircraft for Air Cargo Challenge '17 and '19",
+                    "title": "Aerodynamics, CAD design and Purchase departments member",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 27965,
+                "name": "SENER",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQFwhWbg20ALJw/company-logo_400_400/0/1669984237808?e=1703721600&v=beta&t=3eOcilrHFJlHLrGCh-kZiJGp6rikTM91PexJVp8mcrk",
+                "url": "https://www.linkedin.com/company/sener/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Barcelona",
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "Sener",
+                    "description": "Mechanical design in railway projects",
+                    "title": "Mechanical Design Trainee",
+                    "employment_type": "Internship"
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "MATLAB",
+        "Matlab",
+        "Research and Development (R&D)",
+        "Aeroelasticity",
+        "Aerospace Engineering",
+        "Image Processing",
+        "Computational Fluid Dynamics (CFD)",
+        "Finite Element Analysis (FEA)",
+        "Computer-Aided Design (CAD)",
+        "Research",
+        "Rapid Prototyping",
+        "CATIA",
+        "Python",
+        "ANSYS",
+        "C",
+        "C++",
+        "NX Unigraphics",
+        "SolidWorks",
+        "Arduino",
+        "Microsoft Office"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

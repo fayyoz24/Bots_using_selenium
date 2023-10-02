@@ -1,0 +1,746 @@
+{
+    "profile_id": "b5468995",
+    "first_name": "Shuchita",
+    "last_name": "Sachdev",
+    "sub_title": "Software Engineer at Google | MS CS UPenn",
+    "profile_picture": null,
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAABQ2IzABnepQa-vrgzZWKQTVt6aCZ9VuvYs",
+    "object_urn": 339092272,
+    "birth_date": null,
+    "summary": "Interested in large-scale distributed systems, cloud computing, algorithms.\nMasters in Computer Science at the University of Pennsylvania.\n",
+    "location": {
+        "country": "Netherlands",
+        "short": "Amsterdam, North Holland",
+        "city": "Amsterdam",
+        "state": "North Holland",
+        "default": "Amsterdam, North Holland, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "English",
+                "proficiency": "FULL_PROFESSIONAL"
+            },
+            {
+                "name": "Hindi",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ]
+    },
+    "industry": "Internet",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "school": {
+                "name": "University of Pennsylvania",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQHnbnsnJlBiZg/company-logo_400_400/0/1574783042416?e=1703721600&v=beta&t=AknjVAfwGkucpnT_a-o5SJtj-CYYtlZqdC2o-zKFbbQ",
+                "url": "https://www.linkedin.com/school/university-of-pennsylvania/"
+            },
+            "degree_name": "Masters",
+            "field_of_study": "Computer Science",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "school": {
+                "name": "Delhi College of Engineering",
+                "logo": "https://media.licdn.com/dms/image/C560BAQFXWfIz3NjOVw/company-logo_400_400/0/1519892423945?e=1703721600&v=beta&t=gVevjDN5R7rXRP6lRa0Hijc8eYNj9KVDGeJcJQo5xf8",
+                "url": "https://www.linkedin.com/school/delhi-college-of-engineering/"
+            },
+            "degree_name": "Bachelor of Technology (B.Tech.)",
+            "field_of_study": "Information Technology",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2009
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2011
+                }
+            },
+            "school": {
+                "name": "Delhi Public School, Vasant Kunj",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "High School",
+            "field_of_study": null,
+            "grade": "95.8%"
+        }
+    ],
+    "patents": [],
+    "awards": [
+        {
+            "title": "Scholarship offer from CBSE",
+            "description": "was given a scholarship offer for being in the top 1% students in class 12th board.",
+            "issuer": null,
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2011
+            }
+        }
+    ],
+    "certifications": [],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "Search Engine",
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "description": "Implemented a large scale distributed search engine supporting more than 1 million documents (in Java)\nIt had 4 major components:\n1. A distributed crawler where load was balanced between multiple crawlers running on multiple AWS EC2 machines, where the number could be dynamically increased/decreased.\n2. An Indexer- A distributed indexer for building the inverted index using the crawled documents using Map Reduce (using AWS EMR)\n3. Page Rank - A map reduce page rank algorithm to rank documents\n4. A search engine which queried data from the inverted Index stored in MongoDB, used a custom ranking algorithm using page rank, TF-IDF values and presented results to the user",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Shuchita",
+                    "last_name": "Sachdev",
+                    "name": null,
+                    "headline": "Software Engineer at Google | MS CS UPenn"
+                }
+            ]
+        },
+        {
+            "title": "Penn OS - User Level Operating system",
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "description": "Developed a Linux based user-level Operating system (which ran as a process on the host OS) in C.\nIt had 3 major components:\n1. A multilevel-feedback priority scheduler along with the complete PCB structure, signal handling, all process states.\n2. A virtual FAT file system supporting multilevel directories, running internally on a single file on the host OS. It supported operations such as - read, write, seek, unlink, open, close, etc.\n3. A Shell for user interaction which supported redirection, pipelining, synchronous signal handling and commands such as history, mk, cat, sleep, busy, ls, touch, rm, ps, nice_pid, bg, fg, jobs, pwd, etc.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Shuchita",
+                    "last_name": "Sachdev",
+                    "name": null,
+                    "headline": "Software Engineer at Google | MS CS UPenn"
+                }
+            ]
+        },
+        {
+            "title": "City information and travel guide web application",
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "description": "Implemented a complete city tourist guide web application (full-stack) which showed general city information, demographics, restaurants (yelp data) and places to stay (Airbnb data) using Angular, Nodejs, MongoDB, MySQL.\nThe project involved data extraction from heterogeneous sources, data cleaning using python, importing\ninto MySQL and MongoDB databases, normalization, indexing, SQL and NoSQL queries.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Shuchita",
+                    "last_name": "Sachdev",
+                    "name": null,
+                    "headline": "Software Engineer at Google | MS CS UPenn"
+                }
+            ]
+        },
+        {
+            "title": "Penn Cloud - Distributed and fault-tolerant cloud platform analogous to Google Drive & GMail",
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "description": "Implemented from scratch a fault-tolerant and scalable cloud platform supporting file storage and email using HTTP, TCP, SMTP, POP3 (in C++). Data was stored in a Big Table like format across multiple servers.\nScalability was ensured through multiple load-balanced HTTP servers with the help of a master server. Replication along with sequential consistency on the backend servers ensured fault tolerance and availability, accuracy of data.\n",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Shuchita",
+                    "last_name": "Sachdev",
+                    "name": null,
+                    "headline": "Software Engineer at Google | MS CS UPenn"
+                }
+            ]
+        },
+        {
+            "title": "Distributed Chat Server ",
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "description": "Implemented a distributed chat server supporting multicast communication over UDP (in C++). Users could join multiple chat rooms, and send messages to all the users connected to different servers (in the same chat room)\nThe server supported FIFO ordering, total-ordering of chat messages.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Shuchita",
+                    "last_name": "Sachdev",
+                    "name": null,
+                    "headline": "Software Engineer at Google | MS CS UPenn"
+                }
+            ]
+        },
+        {
+            "title": "Social-Network based Recommender System",
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "description": "Implemented a restaurant recommender system based on social influence and past preferences.\nImproved upon the accuracy of the social network based recommender system by filtering the most\n\u2018informational friends\u2019 (connections) through the use of clustering, correlation, entropy in MATLAB and Python",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Shuchita",
+                    "last_name": "Sachdev",
+                    "name": null,
+                    "headline": "Software Engineer at Google | MS CS UPenn"
+                }
+            ]
+        },
+        {
+            "title": "Movie recommender system",
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "description": "built a movie recommender system in MATLAB \nusing collaberative filtering approach which suggested movies(with predicted rating) to users by learning their taste according to their previous ratings.\n\nAlso used minCEntropy clustering (which minimizes Entropy amongst the data points in a cluster) to group together \n1)users having similar taste  \n2)movies having similar features\n\nAlso improved the scalabilty of the system by applying clustering before collaborative filtering",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Shuchita",
+                    "last_name": "Sachdev",
+                    "name": null,
+                    "headline": "Software Engineer at Google | MS CS UPenn"
+                }
+            ]
+        }
+    ],
+    "publications": [
+        {
+            "name": "Finding the most informational friends in a Social Network based Recommender System",
+            "publisher": "IEEE (2015 Annual IEEE India Conference (INDICON))",
+            "url": "http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=7443226",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2015
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Shuchita",
+                    "last_name": "Sachdev",
+                    "name": null,
+                    "headline": "Software Engineer at Google | MS CS UPenn"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Mehak",
+                    "last_name": "Maniktala, Ph.D.",
+                    "name": null,
+                    "headline": "Staff Engineer, XR SW, Qualcomm"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Naveen",
+                    "last_name": "Bansal",
+                    "name": null,
+                    "headline": "Senior Software Engineer at Bloomberg LP"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Seba Susan",
+                    "headline": null
+                }
+            ]
+        }
+    ],
+    "courses": [
+        {
+            "name": "Analysis of Algorithms",
+            "number": "CIS 502"
+        },
+        {
+            "name": "Artificial Intelligence",
+            "number": "CIS 521"
+        },
+        {
+            "name": "Big data Analytics",
+            "number": "CIS 545"
+        },
+        {
+            "name": "Databases and Information Systems",
+            "number": "CIS 550"
+        },
+        {
+            "name": "Engineering Entrepreneurship",
+            "number": "EAS 545"
+        },
+        {
+            "name": "Internet and Web Systems",
+            "number": "CIS 555"
+        },
+        {
+            "name": "Introduction to machine learning",
+            "number": "CIS 519"
+        },
+        {
+            "name": "Networked Systems",
+            "number": "CIS 553"
+        },
+        {
+            "name": "Operating Systems",
+            "number": "CIS 548"
+        },
+        {
+            "name": "Software Systems (Distributed systems)",
+            "number": "CIS 505"
+        }
+    ],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 1441,
+                "name": "Google",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQHiNSL4Or29cg/company-logo_400_400/0/1519856215226?e=1703721600&v=beta&t=45pPRW58DELKQ71b8pS1RIvn6yxBngEZqmTF1VwyxzQ",
+                "url": "https://www.linkedin.com/company/google/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amsterdam, North Holland, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2023
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Google",
+                    "description": "Google Data Infrastructure - Scalable, low latency and eventually consistent key-value storage service",
+                    "title": "Software Engineer",
+                    "employment_type": "Full-time"
+                },
+                {
+                    "location": "Sunnyvale, California, United States",
+                    "date": {
+                        "start": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Google",
+                    "description": "Google Data Infrastructure - Scalable, low latency and eventually consistent key-value storage service",
+                    "title": "Software Engineer",
+                    "employment_type": "Full-time"
+                },
+                {
+                    "location": "Mountain View",
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2021
+                        }
+                    },
+                    "company": "Google",
+                    "description": "Google Ads",
+                    "title": "Software Engineer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 3165,
+                "name": "University of Pennsylvania",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQHnbnsnJlBiZg/company-logo_400_400/0/1574783042416?e=1703721600&v=beta&t=AknjVAfwGkucpnT_a-o5SJtj-CYYtlZqdC2o-zKFbbQ",
+                "url": "https://www.linkedin.com/school/university-of-pennsylvania/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Greater Philadelphia Area",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "University of Pennsylvania",
+                    "description": "TA for CIS 548 (Operating Systems) under Professor Boon Thau Loo",
+                    "title": "Graduate Teaching Assistant",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 5290,
+                "name": "The Wharton School",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQFQu7wZniptpA/company-logo_400_400/0/1677690193613?e=1703721600&v=beta&t=PVmPPM61lZ_t3hsgQ-qF2QbvyibupEaB6oarDqOOUO0",
+                "url": "https://www.linkedin.com/school/the-wharton-school/",
+                "employees": {
+                    "start": 501,
+                    "end": 1000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Philadelphia, Pennsylvania, United States",
+                    "date": {
+                        "start": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "The Wharton School",
+                    "description": null,
+                    "title": "Backend Web Developer ",
+                    "employment_type": "Part-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1382,
+                "name": "Goldman Sachs",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQHm5bYK6emQSg/company-logo_400_400/0/1595518030728?e=1703721600&v=beta&t=ydCUC0l4FlQZXmQT3D2WGL7pUb5VqcBsxxVYV8pCcVU",
+                "url": "https://www.linkedin.com/company/goldman-sachs/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Greater New York City Area",
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2018
+                        }
+                    },
+                    "company": "Goldman Sachs",
+                    "description": "Developed a web application which provided a 360-degree view of clients and cross-selling product recommendations for the clients.\nBuilt a Neo4j knowledge graph, implemented collaborative filtering and clustering algorithms for product recommendations, and developed RESTful web services in Java.",
+                    "title": "Technology Analyst - Intern",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 206141,
+                "name": "ixigo.com",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQGoBqTRWTZ9_g/company-logo_400_400/0/1634119781021?e=1703721600&v=beta&t=LkhFFafLhbpfNI6g5rciSZKH_rq8jMKoOxvsss6wlso",
+                "url": "https://www.linkedin.com/company/ixigo/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Gurgaon, India",
+                    "date": {
+                        "start": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2017
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2017
+                        }
+                    },
+                    "company": "ixigo",
+                    "description": null,
+                    "title": "Senior Software Engineer, Android",
+                    "employment_type": null
+                },
+                {
+                    "location": "Gurgaon, India",
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2017
+                        }
+                    },
+                    "company": "ixigo",
+                    "description": null,
+                    "title": "Software Engineer, Android",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1038,
+                "name": "Deloitte India (Offices of the US)",
+                "logo": "https://media.licdn.com/dms/image/C560BAQGNtpblgQpJoQ/company-logo_400_400/0/1662120927694?e=1703721600&v=beta&t=bmmwvJxo-_SXyHSdxzuptxzpnaI8vEdRYh7es-YNMaw",
+                "url": "https://www.linkedin.com/company/deloitte/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Gurgaon, India",
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2014
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2014
+                        }
+                    },
+                    "company": "Deloitte",
+                    "description": "Information Management:\nBusiness Intelligence/ Data Warehousing\n\nLearnt about Data warehousing, SAP Business Objects, Data Services.\n\nDeveloped a performance Dashboard in Java which monitored BODS and BO server\u2019s resource consumption(overall and per task) and generated graphs for the same.\n\nThis helped identify causes of bottlenecks and improve performance",
+                    "title": "Business Technology Analyst Intern",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Programming",
+        "Android Development",
+        "Java",
+        "C",
+        "C++",
+        "OOP",
+        "Algorithms",
+        "Data Structures",
+        "Recommender Systems",
+        "Python",
+        "JavaScript",
+        "Matlab",
+        "SQL",
+        "HTML",
+        "CSS",
+        "Visual C++",
+        "Microsoft Office",
+        "Angular",
+        "Nodejs",
+        "MongoDB"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

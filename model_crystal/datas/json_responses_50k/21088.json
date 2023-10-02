@@ -1,0 +1,405 @@
+{
+    "profile_id": "dapper91",
+    "first_name": "Dmitry",
+    "last_name": "Pershin",
+    "sub_title": "Software engineer at Tochka Bank",
+    "profile_picture": "https://media.licdn.com/dms/image/C5603AQHb-sJHcq_Pyw/profile-displayphoto-shrink_800_800/0/1551808587462?e=1701302400&v=beta&t=TodkOxrMXokX1pbvchv3dyoOuN5MudqMia8Oy4P_FnI",
+    "background_image": "https://media.licdn.com/dms/image/C4D16AQHrvK2UFLrqmg/profile-displaybackgroundimage-shrink_350_1400/0/1589743147581?e=1701302400&v=beta&t=DpUAx4b3yB6fP4H6pNl0XIP1cW61WKjUTv05ZyGwBvc",
+    "profile_type": "personal",
+    "entity_urn": "ACoAABDujWcBo9GXqzuO7oo4CvwJRzy8-QF0QxE",
+    "object_urn": 284069223,
+    "birth_date": null,
+    "summary": "Software engineer with more than six years of experience working on projects from different fields like cybersecurity, cloud computing, distributed systems, fintech; looking to become a part of an experienced developer team to work on innovative software and services.",
+    "location": {
+        "country": "Russia",
+        "short": "Yekaterinburg, Sverdlovsk",
+        "city": "Yekaterinburg",
+        "state": "Sverdlovsk",
+        "default": "Yekaterinburg, Sverdlovsk, Russia"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [
+        {
+            "url": null,
+            "title": "cv.eng.pdf",
+            "description": "CV\n\nCurriculum Vitae (en)",
+            "image": "https://media.licdn.com/dms/image/C4E2DAQHvHCUL0P_DbA/profile-treasury-document-cover-images_1920/0/1670573990998?e=1696438800&v=beta&t=ZoNVVjzoXAd2-mbjmRWmXjaJ7taf23QB1E5GnjYxrNU"
+        },
+        {
+            "url": null,
+            "title": "cv.rus.pdf",
+            "description": "CV\n\nCurriculum Vitae (ru)",
+            "image": "https://media.licdn.com/dms/image/D562DAQH176gfH1nXfg/profile-treasury-document-cover-images_1920/0/1665688531337?e=1696438800&v=beta&t=b2p-Q2jstm_iS9eCg2tjp7Rko8liPqo7RhpV8wMtTWE"
+        },
+        {
+            "url": "https://github.com/dapper91",
+            "title": "Github",
+            "description": "Github projects",
+            "image": "https://media.licdn.com/dms/image/sync/C4E27AQFtH6n87geH1A/articleshare-shrink_800/0/1695105562561?e=1696438800&v=beta&t=eyeixgB7MGsWtY0-AQixi1hnIzNmtnPQHue04RJck-8"
+        }
+    ],
+    "languages": {
+        "primary_locale": {
+            "country": "RU",
+            "language": "ru"
+        },
+        "supported_locales": [
+            {
+                "country": "RU",
+                "language": "ru"
+            },
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "English",
+                "proficiency": "FULL_PROFESSIONAL"
+            },
+            {
+                "name": "\u0420\u0443\u0441\u0441\u043a\u0438\u0439",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ]
+    },
+    "industry": "Information Technology & Services",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2009
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "school": {
+                "name": "Ural State Technical University",
+                "logo": "https://media.licdn.com/dms/image/C560BAQGuSobJ-lhuWA/company-logo_400_400/0/1566017726357?e=1703721600&v=beta&t=pEf95TbOwcclUwNo1_XchRFA9tnz_duAICECHoKSuIg",
+                "url": "https://www.linkedin.com/school/%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9-%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9-%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9-%D1%83%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82/"
+            },
+            "degree_name": "Master's degree",
+            "field_of_study": "Computer science",
+            "grade": "A+"
+        }
+    ],
+    "patents": [],
+    "awards": [
+        {
+            "title": "summa cum laude",
+            "description": "Summa cum laude at Ural State University",
+            "issuer": "Ural State University",
+            "date": {
+                "month": 7,
+                "day": null,
+                "year": 2015
+            }
+        }
+    ],
+    "certifications": [],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "pydantic-xml",
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "description": "Pydantic xml extension. Over 200K downloads. Public feedback:\n\u2022 https://pythonbytes.fm/episodes/show/327/untangling-xml-with-pydantic\n\u2022 https://www.youtube.com/watch?v=rduFjpb-fAw&t=88s",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Dmitry",
+                    "last_name": "Pershin",
+                    "name": null,
+                    "headline": "Software engineer at Tochka Bank"
+                }
+            ]
+        },
+        {
+            "title": "ext-sort",
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "description": "rust external sort algorithm implementation",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Dmitry",
+                    "last_name": "Pershin",
+                    "name": null,
+                    "headline": "Software engineer at Tochka Bank"
+                }
+            ]
+        },
+        {
+            "title": "python JSON-RPC library",
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "description": "python json-rpc client/server without boilerplate",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Dmitry",
+                    "last_name": "Pershin",
+                    "name": null,
+                    "headline": "Software engineer at Tochka Bank"
+                }
+            ]
+        }
+    ],
+    "publications": [],
+    "courses": [
+        {
+            "name": "coursera.org: Machine Learning Specialization",
+            "number": null
+        },
+        {
+            "name": "yandex programming school",
+            "number": null
+        }
+    ],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 10872584,
+                "name": "Tochka Bank",
+                "logo": "https://media.licdn.com/dms/image/D4D0BAQGAIuGz5WlbQA/company-logo_400_400/0/1683117043577?e=1703721600&v=beta&t=SnXSAR0eo_3U4BbyKodQKmk4z8qMqIVUNJVJBvqfJpU",
+                "url": "https://www.linkedin.com/company/%D0%B1%D0%B0%D0%BD%D0%BA-%D1%82%D0%BE%D1%87%D0%BA%D0%B0/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Yekaterinburg",
+                    "date": {
+                        "start": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "\u0422\u043e\u0447\u043a\u0430",
+                    "description": "Tochka Bank is the most successful russian digital (online) bank oriented on providing Internet services.\n\nAchievements:\n\u2022 Designed, developed and launched the quick payments service. It had been implemented from scratch and handled hundreds of thousands of payments a day. The service became profitable in one year after the launch. The quick payments service is a financial infrastructure that allows customers to make payments without cash or plastic cards using a QR-code (merchant side) and a mobile phone app (customer side) in near-real-time.\n\u2022 Fully designed, implemented and configured CI/CD process including unit and integration testing, code analysis, application build and deployment which increased code quality, lowered bugs quantity and reduced delay from commit to deployment to several minutes.\n\u2022 Took part in development of financial analysis web tools backend that helped entrepreneurs to possess comprehensive information about theirs financial statistics. The tools provided a lot of visual information like charts, graphs and tables based on statistical analysis, classification and clusterization algorithms that helped out customers to reduce their expenses. As a result the service received positive feedback and most of the customers extended theirs trial subscription.",
+                    "title": "Software engineer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 10718,
+                "name": "Yandex",
+                "logo": "https://media.licdn.com/dms/image/C560BAQExT729lfsbuA/company-logo_400_400/0/1618245890497?e=1703721600&v=beta&t=tqC_At1iUqaUJbTH5phIxVfh5-lZU5d2tRnmMpxLNqY",
+                "url": "https://www.linkedin.com/company/yandex/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Saint Petersburg, Russian Federation",
+                    "date": {
+                        "start": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "Yandex",
+                    "description": "Yandex is a russian multinational corporation specializing in Internet-related products and services.\n\nAchievements:\n\u2022 Took part in development of a highly-performant and highly-available task scheduler SAAS platform that provided optimal company cluster resources utilization which reduced the cluster maintenance expenses by about 5%. The service was able to store and process several petabytes of user data in multiple data centers.\n\u2022 Took part in development and improvement of service API and SDK providing an ability to describe complex execution pipelines on several thousand of servers in multiple data centers. As a result the service was able to provide availability 99.99%.",
+                    "title": "Software Engineer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 2486813,
+                "name": "USSC Ltd.",
+                "logo": "https://media.licdn.com/dms/image/C560BAQGVIy_Jhi8Bvw/company-logo_400_400/0/1519868847383?e=1703721600&v=beta&t=zZl6nTHsYlAjudV92MPzv-YOuEhTa-F7Rl-sgVmAAvk",
+                "url": "https://www.linkedin.com/company/ussc-ltd-/",
+                "employees": {
+                    "start": 201,
+                    "end": 500
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Sverdlovsk Region, Russian Federation",
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2018
+                        }
+                    },
+                    "company": "USSC Ltd.",
+                    "description": "Ural Security Systems Center is one of the leading Russian cybersecurity companies specialized in enterprise information security services.\n\nAchievements:\n\u2022 Took part in development of software for industrial networks cybersecurity analysis, malware attacks prevention and network traffic inspection. The product was able to detect cyberattacks on enterprise networks and helped in incident investigation at critical facilities.\n\u2022 Rewritten some security modules from multi-threaded to asynchronous execution model which increased software performance by more than 50% and made it possible to monitor much more production facilities without hardware update.\n\u2022 Developed a module that used SCAP (security content automation protocol) standard to analyze OS integrity and protection using open world-wide vulnerability database which let the system to detect 0-day vulnerabilities as soon as possible.",
+                    "title": "Software Engineer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Vedisoft",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Yekaterinburg",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2016
+                        }
+                    },
+                    "company": "Vedisoft",
+                    "description": "Achievements:\n\u2022 Researched GSM / 3G(UMTS) protocol encoding/decoding algorithms.\n\u2022 Took part in development of project based on osmocom (open-source implementation of GSM protocol stack), openBTS (software defined GSM network node).\n\u2022 Took part in development of mobile phone firmware.\n\u2022 Took part in TCP/IP traffic analysis and filtering tools development.",
+                    "title": "C/C++\u00a0software developer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Python",
+        "Rust (Programming Language)",
+        "Algorithms",
+        "Data Structures",
+        "Software Development",
+        "Distributed Systems",
+        "Computer Science",
+        "Programming",
+        "Machine Learning",
+        "Design Patterns",
+        "SQL",
+        "git",
+        "Linux",
+        "Bash",
+        "Java",
+        "MySQL",
+        "Docker",
+        "PostgreSQL",
+        "Scikit-Learn",
+        "Pandas"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

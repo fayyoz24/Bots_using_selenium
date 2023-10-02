@@ -1,0 +1,853 @@
+{
+    "profile_id": "javiermarasco",
+    "first_name": "Antonio Javier",
+    "last_name": "Marasco",
+    "sub_title": "Principal Platform Engineer",
+    "profile_picture": null,
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAAALP3XoBEGPsbAZ9uVEb8FzlHKhmQZqn4lE",
+    "object_urn": 47177082,
+    "birth_date": null,
+    "summary": "As a principal platform engineer taking care of the planning and implementation of the migration and re-definition of cloud infrastructure using multiple different tools.\n\nSome of the technologies I use are Azure, Terraform/Terragrunt, Powershell, Python, Go, Kubernetes, and Helm.\n\nWork frameworks I know/use: Safe, DevOps, Agile methodologies.\n\nIn my spare time, I enjoy writing articles and recording videos for my youtube channel where I try to help others by sharing my knowledge and experiences. While is not too recurrent I also stream while coding which is a very nice way to share knowledge and build open-source tools.\n\nSome of my open-source works can be found next:\n\n- Powergrafana: https://www.powershellgallery.com/packages/PowerGrafana/0.1.0\n- Theme for oh-my-posh: https://github.com/javiermarasco/mad_unicorn \n\nHere is a list of places where you can find my articles, videos, and software: https://linktr.ee/javi__codes",
+    "location": {
+        "country": "Netherlands",
+        "short": "Breda, North Brabant",
+        "city": "Breda",
+        "state": "North Brabant",
+        "default": "Breda, North Brabant, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "ES",
+            "language": "es"
+        },
+        "supported_locales": [
+            {
+                "country": "ES",
+                "language": "es"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "Ingles",
+                "proficiency": "FULL_PROFESSIONAL"
+            }
+        ]
+    },
+    "industry": "Computer Software",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2010
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "school": {
+                "name": "Universidad Abierta Interamericana",
+                "logo": "https://media.licdn.com/dms/image/D4D0BAQF7JADpMbUp4Q/company-logo_400_400/0/1687970085982?e=1703721600&v=beta&t=qmo8zMzH74jfXn7VYmZL_Kvpk0gs-SX5xXvilvZDk5o",
+                "url": "https://www.linkedin.com/school/universidad-abierta-interamericana_2/"
+            },
+            "degree_name": "Systems Engineer",
+            "field_of_study": "Engeneering degree",
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [
+        {
+            "name": "Microsoft Certified: Azure Administrator Associate",
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2023
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2024
+                }
+            },
+            "authority": "Microsoft",
+            "url": "https://www.credly.com/badges/f85f197f-ce78-487f-840f-4abf4e1ecb1d/linked_in_profile",
+            "license_number": null,
+            "display_source": "credly.com",
+            "company": {
+                "id": null,
+                "name": "Microsoft",
+                "logo": "https://media.licdn.com/dms/image/C560BAQE88xCsONDULQ/company-logo_400_400/0/1618231291419?e=1703721600&v=beta&t=xic8lPBHmNYz9qHIoiuq_itbJ4T3xDqNu9Bb5EuYkZ0",
+                "url": null
+            }
+        },
+        {
+            "name": "SAFe\u00ae 4 Certified Agilist",
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "authority": "Scaled Agile, Inc.",
+            "url": "https://www.youracclaim.com/badges/2083426d-33e5-4cb4-b323-0996b6f851a8/linked_i",
+            "license_number": null,
+            "display_source": "youracclaim.com",
+            "company": {
+                "id": null,
+                "name": "Scaled Agile, Inc.",
+                "logo": "https://media.licdn.com/dms/image/C560BAQFti5SCrDfBWA/company-logo_400_400/0/1668017354645?e=1703721600&v=beta&t=bRAEHLYgASGjmZLkwTgxwmZvhkMYmMV9di2OmMKWwPU",
+                "url": null
+            }
+        },
+        {
+            "name": "VCP5-DC",
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "VMware",
+            "url": "http://mylearn.vmware.com/eCert.cfm?id_reg=14033624&rGUID=ebe98f7f-f80e-40bb-a38d-f6374ba17c10&ccid=VMW-01165788V-00465688",
+            "license_number": null,
+            "display_source": "vmware.com",
+            "company": {
+                "id": null,
+                "name": "VMware",
+                "logo": "https://media.licdn.com/dms/image/C560BAQGRwuYZeI6aaA/company-logo_400_400/0/1588094413060?e=1703721600&v=beta&t=PmaHKyhmz5mEw8oFZfsR7L8i9jW3tU7-fgEycf08FJM",
+                "url": null
+            }
+        },
+        {
+            "name": "VNX Series Implementation Quickstart Assessment",
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "EMC",
+            "url": null,
+            "license_number": "MR-AZN-VNXQSQUIZ",
+            "display_source": null,
+            "company": {
+                "id": null,
+                "name": "Dell EMC",
+                "logo": "https://media.licdn.com/dms/image/C510BAQErubCcqX1TpQ/company-logo_400_400/0/1557939499088?e=1703721600&v=beta&t=OM8y-_YnHTDL040T7C5_0s03V_bjSQM2HmOG8xUxb8w",
+                "url": null
+            }
+        },
+        {
+            "name": "Data Domain Installation, Implementation and Administration QuickStart",
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "EMC",
+            "url": null,
+            "license_number": null,
+            "display_source": null,
+            "company": {
+                "id": null,
+                "name": "Dell EMC",
+                "logo": "https://media.licdn.com/dms/image/C510BAQErubCcqX1TpQ/company-logo_400_400/0/1557939499088?e=1703721600&v=beta&t=OM8y-_YnHTDL040T7C5_0s03V_bjSQM2HmOG8xUxb8w",
+                "url": null
+            }
+        },
+        {
+            "name": "VNXe Base Support/Implementation",
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "EMC",
+            "url": null,
+            "license_number": "MR-AZN-VNXQSQUIZ",
+            "display_source": null,
+            "company": {
+                "id": null,
+                "name": "Dell EMC",
+                "logo": "https://media.licdn.com/dms/image/C510BAQErubCcqX1TpQ/company-logo_400_400/0/1557939499088?e=1703721600&v=beta&t=OM8y-_YnHTDL040T7C5_0s03V_bjSQM2HmOG8xUxb8w",
+                "url": null
+            }
+        },
+        {
+            "name": "Veeam technical sales professional (VMTSP)",
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Veeam Software",
+            "url": null,
+            "license_number": null,
+            "display_source": null,
+            "company": {
+                "id": null,
+                "name": "Veeam Software",
+                "logo": "https://media.licdn.com/dms/image/C560BAQG9wZUpzvUkog/company-logo_400_400/0/1596008377676?e=1703721600&v=beta&t=qzSrUhNTc9Hc3PSNTsHTCy0Eb4U6AdAFc-628hQYYcg",
+                "url": null
+            }
+        },
+        {
+            "name": "VTSP 5.0",
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "VMware",
+            "url": null,
+            "license_number": null,
+            "display_source": null,
+            "company": {
+                "id": null,
+                "name": "VMware",
+                "logo": "https://media.licdn.com/dms/image/C560BAQGRwuYZeI6aaA/company-logo_400_400/0/1588094413060?e=1703721600&v=beta&t=PmaHKyhmz5mEw8oFZfsR7L8i9jW3tU7-fgEycf08FJM",
+                "url": null
+            }
+        },
+        {
+            "name": "CCNA",
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2007
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Cisco",
+            "url": null,
+            "license_number": null,
+            "display_source": null,
+            "company": {
+                "id": null,
+                "name": "Cisco",
+                "logo": "https://media.licdn.com/dms/image/D560BAQFVQnYFvzs9jw/company-logo_400_400/0/1688482473599?e=1703721600&v=beta&t=NJhULXCq52iqfwNCWq5EFS4Zib6fd5eJdAHDBrrzWyk",
+                "url": null
+            }
+        }
+    ],
+    "organizations": [],
+    "projects": [],
+    "publications": [],
+    "courses": [
+        {
+            "name": "Administraci\u00f3n Linux",
+            "number": "Administraci\u00f3n Linux-UTN"
+        },
+        {
+            "name": "Cisco CCNA",
+            "number": null
+        },
+        {
+            "name": "IBM CloudManager (IBM STU2015 San Pablo)",
+            "number": "01/09/2015 al 04/09/2013"
+        },
+        {
+            "name": "Openstack implementation (IBM STU San Pablo 2015)",
+            "number": "01/09/2015 al 04/09/2013"
+        },
+        {
+            "name": "Oracle 10g: Administration workshop I",
+            "number": "Administration workshop I"
+        },
+        {
+            "name": "Oracle 10g: SQL Fundamentals",
+            "number": "Oracle 10g: SQL Fundament"
+        },
+        {
+            "name": "Project Management Orientation",
+            "number": "PMO"
+        },
+        {
+            "name": "VMware Horizon Mirage: Install, Configure, Manage V4.0",
+            "number": "31/7/2014 al 01/08/2013"
+        },
+        {
+            "name": "VMware vSphere Install, Configure, Manage V5.1",
+            "number": "23/8/2013 al 30/8/2013"
+        }
+    ],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 2780,
+                "name": "Amadeus",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQHUTgVyhSmNlw/company-logo_400_400/0/1519856217187?e=1703721600&v=beta&t=TQJkJiNqwjKqFYzY8uiwWGGUdESUc4NWWVEvw06haB8",
+                "url": "https://www.linkedin.com/company/amadeus/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Breda, North Brabant, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Amadeus",
+                    "description": "As a principal platform engineer I am responsible of the following areas and tasks:\n- Ensure the high availability of the cloud resources of the company\n- Participate in the planning of new implementations \n- Investigate new technologies by performing POCs, create the documentation of them and socializing them with my team and other teams in the company.\n- Drive the implementation of new technologies in the company\n- Strive to share knowledge with the rest of the team and other teams to improve the global knowledge within the company\n- Actively support the application lifecycle from the optimization perspective\n- Maintain and expand the usage of Kubernetes inside of the company",
+                    "title": "Principal platform engineer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 16104,
+                "name": "Schuberg Philis",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQFAyJTJXlaVCw/company-logo_400_400/0/1632911217295?e=1703721600&v=beta&t=aLGRhSj5BTzUX5U-DgjJKrLTT6H9UtTsf-nIJLnsU74",
+                "url": "https://www.linkedin.com/company/schuberg-philis/",
+                "employees": {
+                    "start": 201,
+                    "end": 500
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Schiphol-Rijk, North Holland, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2020
+                        },
+                        "end": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2021
+                        }
+                    },
+                    "company": "Schuberg Philis",
+                    "description": "While in my position as mission critical engineer I was performing the following tasks:\n- Ensure the continuos operation of internal services provided by my team to other internal teams in the company\n- Optimize the monitoring and alerting of Azure resources to better control when deviations from the expected SLAs happened.\n- Implement a private AKS infrastructure in accordance with the security requirements from the internal security team to support multiple applications/loads from internal teams in the company including the team I was part of.\n- Implementation of the public website for the company in the previously mentioned AKS infrastructure\n- Run POCs to validate the viability to implement Istio/Traefik and Consul in the Kubernetes environments.\n- Assist my team in maintaining the existing Ansible/puppet infrastructure \n- Participate in update/patching cicles for multiple onprem resources\n- Document existing and new introduced solutions",
+                    "title": "Mission critical engineer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 2780,
+                "name": "Amadeus",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQHUTgVyhSmNlw/company-logo_400_400/0/1519856217187?e=1703721600&v=beta&t=TQJkJiNqwjKqFYzY8uiwWGGUdESUc4NWWVEvw06haB8",
+                "url": "https://www.linkedin.com/company/amadeus/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Breda y alrededores, Pa\u00edses Bajos",
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2020
+                        }
+                    },
+                    "company": "Amadeus",
+                    "description": "Automation of infrastructure \nDevelop/deploy of ARM templates and scripts\nAdministration of Azure environment\nContinually Improvement of infrastructure usage\nMonitoring \nReengineering of pipelines using Azure DevOps",
+                    "title": "DevOps Engineer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1073,
+                "name": "EY",
+                "logo": "https://media.licdn.com/dms/image/C510BAQGpRhkpxp5A9A/company-logo_400_400/0/1561962168715?e=1703721600&v=beta&t=tAPAkLAiWMxOAJFN13ml0X4CazcVODjT4UAaqwq0yxQ",
+                "url": "https://www.linkedin.com/company/ernstandyoung/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Buenos Aires, Argentina",
+                    "date": {
+                        "start": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2017
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2018
+                        }
+                    },
+                    "company": "EY",
+                    "description": "As part of the IaC team my actual role is to implement the needed tools to support the business and investigate new tools that enables the team to provide more infrastructure compliant with the internal security needs at the speed needed by the business.\n\nSome of the tasks Involved in my day to day are:\n\n- Gather business needs and create needed ARM templates to fulfill them\n- Automation with Powershell and python \n- Implement and administer Ansible \n- Implementing Terraform to provision infrastructure\n- Active usage of Git Repositories\n- Pipeline usage with VSTS / Jenkins\n- Being part of an agile team working with the agile methodology\n- Working in the DSC implementation",
+                    "title": "DevOps Engineer - IaC team",
+                    "employment_type": null
+                },
+                {
+                    "location": "Buenos Aires, Argentina",
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2017
+                        }
+                    },
+                    "company": "EY",
+                    "description": "The Cloud Service Engineer is a key position with focus on: \n\n- Cloud Management Platforms Engineering & Support \n- Cloud Orchestration Engineering & Support \n- Virtual Network Engineering & Support \n- 3rd party Endpoint Integration Support \n- Global cloud transformational projects \n- Production IaaS provisioning support (creation of JSON Templates) \n- Implement enforcement of IaaS configurations (DSC and Ansible)\n- Provisioning automation (Powershell - JSON - .NET - Python)\n- Environmental troubleshooting (AD, DNS, SCCM OSD), related to cloud integration \n- Ensure Security & Compliance requirements are met .\n\nPromote component reuse in cloud infrastructure, consolidate platforms, components and applications with the final goal of reduce costs in IT.\n\nProviding support at level 3 and 4 on Azure environment for every solution provided by the Cloud and Hybrid infrastructure team across the globe.\n\nDevelop customized scripts for logging purposes as well as massive provisioning in the cloud.\n\nActive participation in the enablement of new technologies or products in the cloud leveraging the needs and future growth of the customer applications and infrastructure.",
+                    "title": "Cloud Services Engineer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 30006,
+                "name": "Service IT.",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQGZw-PLAwdf9Q/company-logo_400_400/0/1654718819749?e=1703721600&v=beta&t=A6mHxJZPEPxX9ZRptlHRQnZ0GjVKDj_B9wSnsntRbJM",
+                "url": "https://www.linkedin.com/company/service-it-solutions/",
+                "employees": {
+                    "start": 201,
+                    "end": 500
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Buenos Aires, Argentina",
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2013
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2016
+                        }
+                    },
+                    "company": "Service IT.",
+                    "description": "As a Leader in infrastructure my day to day was to meet with the sales force to develop the implementation plans for our customers as well as provide insights in new technologies as well as to lead the team of collaborators to execute the implementations.\n\nSome of my main tasks were:\n\n- Design solutions based on vmware virtualization as well cloud based (AWS mostly)\n- Performance tuning on AIX, VMware, Linux and Windows \n- Installation and training on storage equipment (EMC, IBM)\n- Scripting to automate configurations (Python,  powershell)\n- Setup of monitoring solution for the customer porfolio (Zabbix on cloud)\n- Installation and configuration of Linux servers for our customers\n- Develop of scripts to consume REST APIs to enable our junior members to do complex tasks",
+                    "title": "Infrastructure leader (on prem and cloud)",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 3747,
+                "name": "DIRECTV Latin America",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQFZ8eAo6ff_Aw/company-logo_400_400/0/1688392091311?e=1703721600&v=beta&t=ipjZcyRld6KSlT1yTQaNCHC0fV47Y7FcYNXhZTV8mYA",
+                "url": "https://www.linkedin.com/company/directvla/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Buenos Aires, Argentina",
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2012
+                        },
+                        "end": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2013
+                        }
+                    },
+                    "company": "DIRECTV Latin America",
+                    "description": "As a technical PM I was on charge of leading the team to complete our goals in several locations and different fronts while the business moved and the company created new products.\n\nPart of my tasks were:\n\n- Leading different team members across the organization to fulfill our requirements\n- Create and present to our management informs on progress and timelines\n- Translate business needs to technical terms for our teams to better understand the objectives and motivations for those tasks\n- Leading technical meetings to identify blockers as well to work with different teams to remove them.\n- Actively working in the migration of Windows, Linux and VMware migrations\n- Risk assessment and change management",
+                    "title": "Regional Technical Project Manager",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1494,
+                "name": "Avaya",
+                "logo": "https://media.licdn.com/dms/image/D560BAQFJQ1Wqi0SZUg/company-logo_400_400/0/1687139747305?e=1703721600&v=beta&t=TiXqoU7N66h_ys1zWuwT5yG9LY8JPWHXXT28YOGRXKU",
+                "url": "https://www.linkedin.com/company/avaya/",
+                "employees": {
+                    "start": 5001,
+                    "end": 10000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Buenos Aires, Argentina",
+                    "date": {
+                        "start": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2011
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2012
+                        }
+                    },
+                    "company": "Avaya",
+                    "description": "As an AOS tech PM I led a cross country cross skills team of collaborators joined together with the task to migrate all the equipment in the customers of a company bought by Avaya at the time.\nDuring this migration I needed to interact with different teams to reserve resources for different tasks and coordinate the retrieval of equipment and the installation of new one.\n\nMy main tasks at Avaya at that time were:\n\n- Organice the migration portfolio for Europe and present advances in our weekly meeting to the bussines\n- Create a highly efficient work team to execute the migrations \n- Identify the proper order to work on our customer offices in off hours \n- Coordinate with different companies for the retrieval and storage of the removed hardware\n- Coordinate with Avaya's teams of implementers to install and configure the new equipment\n- Risk assessment and change management on every country we were assigned",
+                    "title": "AOS Technical Project Manager",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1009,
+                "name": "IBM",
+                "logo": "https://media.licdn.com/dms/image/D560BAQGiz5ecgpCtkA/company-logo_400_400/0/1688684715427?e=1703721600&v=beta&t=eAMK4ZqZ9jAX6bPbX5LjyyMurxtQnubuQSv7kNBKpjI",
+                "url": "https://www.linkedin.com/company/ibm/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2006
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2011
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Buenos Aires, Argentina",
+                    "date": {
+                        "start": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2010
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2011
+                        }
+                    },
+                    "company": "IBM",
+                    "description": "As a technical PM at IBM GDC I was tasked with technical refresh projects and datacenter migrations for bank and insurance companies in Argentina and USA. While in this position I traveled to USA several times to personally assist on the datacenter assessment and migrations being onsite for 3 to 6 weeks to complete the migration and test runs.\n\n\nDuring this role I had to do:\n\n- Planing and communicating the project and it's tasks\n- Risk assessment and communicate all risk and mitigation plans to the customers\n- Lead technical meetings to identify the correct path to follow on migrations and create the execution plan\n- Coordinate the technical team to complete the migration plan on time\n- Document any risk and take control of the change management during the migrations.\n- Create the project documentation and lead the progress meetings in a weekly basis\n- Articulate with external providers the contracting of services or equipment\n- Manage the travel documentation and transportation for my team members",
+                    "title": "Technical Project Manager at IBM GDC",
+                    "employment_type": null
+                },
+                {
+                    "location": "Buenos Aires, Argentina",
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2006
+                        },
+                        "end": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2010
+                        }
+                    },
+                    "company": "IBM",
+                    "description": "My first job in IBM was as TSM administrator (backup), after 8 months I was promoted to team coordinator to take care of a customer with a large environment to troubleshoot and maintain being in charge of a team of 10 people with a 24x7 shift coverage. While in this position I created several scripts to automate some daily tasks and created automated reports.\nAfter 2 years as coordinator I moved to a position of Technical Leader being in charge of improving the  backup environments as well as plan and implement disaster recoveries for our customers. For this position I executed 4 Disaster Recovery in USA, all of them successfully. \n\nWhile in this position some of my tasks were:\n\n- Create automation scripts for repetitive tasks\n- Create automated reports to present to the customers with backup status and success rates\n- Document processes on daily tasks \n- Create disaster recovery plans and execution plans\n- Train new hires and act as a mentor in the backup teams\n- Troubleshoot complex storage and library issues\n- Coordinate a team of 10 members directly and indirectly members of other teams\n- Participate in the design of new implementations and expansions on the customers",
+                    "title": "TSM Administrator - Technical Leader - Mentor",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 30006,
+                "name": "Service IT.",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQGZw-PLAwdf9Q/company-logo_400_400/0/1654718819749?e=1703721600&v=beta&t=A6mHxJZPEPxX9ZRptlHRQnZ0GjVKDj_B9wSnsntRbJM",
+                "url": "https://www.linkedin.com/company/service-it-solutions/",
+                "employees": {
+                    "start": 201,
+                    "end": 500
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2005
+                },
+                "end": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2006
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Buenos Aires, Argentina",
+                    "date": {
+                        "start": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2005
+                        },
+                        "end": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2006
+                        }
+                    },
+                    "company": "Service IT.",
+                    "description": "As Sysadmin my regular day to day job was to troubleshoot issues on customer datacenters as well as to install and configure new hardware that Service IT sold. This equipment was both servers (IBM, DELL) and storage (EMC, IBM) as well as taking care of the few customers with VMware GSX.\n\nWhile in Service IT my main tasks were:\n\n- Install and configure linux OS on customer servers\n- Install and configure VMware GSX \n- Troubleshoot issues at customer facilities \n- Administer TSM backup on customer infrastructures\n- Participate in the physical installation of new hardware\n- Install and configure MySQL and Apache",
+                    "title": "System Administrator",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 54944,
+                "name": "DigBang",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQFFcKEIt2M7SQ/company-logo_400_400/0/1674568560304?e=1703721600&v=beta&t=jMkdrvFmKp9ki8ngXdnYo_dDVIuxJqqb5Le-IhoZ1Ew",
+                "url": "https://www.linkedin.com/company/digbang/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2004
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2005
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Buenos Aires, Argentina",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2004
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2005
+                        }
+                    },
+                    "company": "Digbang",
+                    "description": "At DigBang I worked as sysadmin administering a small farm of a few linux servers and windows servers, the company stored it's customer webpages in those servers and I needed to keep them up and updated.\n\nAt DigBang some of my tasks were:\n\n- Keep the servers running by patching and troubleshooting issues on them\n- Participate in technical discussions on improvements to do to the applications\n- Maintain a few PHP scripts to update when a new site was released\n- Configure the apache instances where the sites were running\n- Install and configure MySQL",
+                    "title": "System Administrator",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Powershell",
+        "Computaci\u00f3n en la nube",
+        "Linux",
+        "IT Service Management",
+        "ITIL",
+        "Almacenamineto",
+        "Gesti\u00f3n de servicios TI",
+        "Virtualizaci\u00f3n",
+        "Biblioteca de infraestructura de tecnolog\u00edas de informaci\u00f3n",
+        "Infraestructura",
+        "Gesti\u00f3n de proyectos",
+        "Ingenier\u00eda de sistemas",
+        "Ingenier\u00eda inform\u00e1tica",
+        "Ingenier\u00eda",
+        "Administraci\u00f3n de las tecnolog\u00edas de la informaci\u00f3n",
+        "Guiones shell",
+        "Microsoft SQL Server",
+        "SQL",
+        "Unix",
+        "VMware"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

@@ -1,0 +1,541 @@
+{
+    "profile_id": "willie-scholtz-ams",
+    "first_name": "Willie",
+    "last_name": "Scholtz",
+    "sub_title": "Software Engineer at Adyen",
+    "profile_picture": null,
+    "background_image": "https://media.licdn.com/dms/image/C4D16AQGRW89XBuRUag/profile-displaybackgroundimage-shrink_350_1400/0/1517215923016?e=1701302400&v=beta&t=4oojQLcGSx0-DYHem8dRm80WtAzPXDg7MDOsbaXOfQU",
+    "profile_type": "personal",
+    "entity_urn": "ACoAABsiqUYBCggdx6KYQpwHC2rGoy-c8KxF0-U",
+    "object_urn": 455256390,
+    "birth_date": null,
+    "summary": "I love software, hardware and everything using base 2; I have been coding since 2008 as a full stack developer with experience in Java and Javascript primarily; along the way I have encountered many other languages, frameworks and platforms.\n\nCoding is used loosely, as it involves so many things: meeting with clients, gathering ideas, discussing and converting into proper requirements, architecting solutions and building the actual product with the help of many other people. \n\nI have done the above on many projects and have a can-do attitude about the process as a whole, I love collaborating and working with my peers, but most importantly, sharing knowledge and improving the end value to the customer for any given project. \n\nMy current industry experience lies in the security industry, w.r.t risk management, risk assessment, alarm monitoring and compliance. I have also been involved within the FinTech sector. \n\nMy personal goal is creating software that makes the world a better place. i.e. I want to create and build software which helps people. ",
+    "location": {
+        "country": "Netherlands",
+        "short": "Amsterdam, North Holland",
+        "city": "Amsterdam",
+        "state": "North Holland",
+        "default": "Amsterdam, North Holland, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "Afrikaans",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "Dutch",
+                "proficiency": "LIMITED_WORKING"
+            },
+            {
+                "name": "English",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ]
+    },
+    "industry": "Financial Services",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2007
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2007
+                }
+            },
+            "school": {
+                "name": "CTI Education Group",
+                "logo": "https://media.licdn.com/dms/image/C510BAQGHDQTGHw4cUQ/company-logo_400_400/0/1519907980090?e=1703721600&v=beta&t=FUGB4qenlIfFIDPdIQ5_g4UKWQgRytlNp0FHE4m3U_0",
+                "url": "https://www.linkedin.com/school/cti-education-group/"
+            },
+            "degree_name": "Information Systems Engineering",
+            "field_of_study": "Computer Science",
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [
+        {
+            "name": "Oracle Certified Professional, Java SE 6 Programmer",
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Oracle",
+            "url": "https://www.youracclaim.com/badges/df31b178-fac1-4b36-9099-92c5d03b02af/linked_in_profile",
+            "license_number": null,
+            "display_source": "youracclaim.com",
+            "company": {
+                "id": null,
+                "name": "Oracle",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQHYCgYovUuPtQ/company-logo_400_400/0/1665755678671?e=1703721600&v=beta&t=Dm76HdWfxIWnpbvHLebFl3pVU3k77A1u2lhJxvxe8s4",
+                "url": null
+            }
+        }
+    ],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "Tennis games ",
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "description": "A match generator used for finding sets of doubles tennis players separated by group.\n\n(backend down since I don't want to pay GAE costs).\n\nSource code on github.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Willie",
+                    "last_name": "Scholtz",
+                    "name": null,
+                    "headline": "Software Engineer at Adyen"
+                }
+            ]
+        },
+        {
+            "title": "Backbase Hackathon 2016",
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "description": "3rd place winners in the hackathon!",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Willie",
+                    "last_name": "Scholtz",
+                    "name": null,
+                    "headline": "Software Engineer at Adyen"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Sergio",
+                    "last_name": "Morales",
+                    "name": null,
+                    "headline": "Backend Developer"
+                }
+            ]
+        },
+        {
+            "title": "Browginering",
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "description": "Browginering is a static modern html5 website built for a client from a photoshop PSD provided by a designer.\n\nNo CMS was used since updates would occur very infrequently, a facebook photos integration was done to keep the site up to date with photos of the professional work done",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Willie",
+                    "last_name": "Scholtz",
+                    "name": null,
+                    "headline": "Software Engineer at Adyen"
+                }
+            ]
+        },
+        {
+            "title": "Freelance",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "description": "Developed a brake pad catalog in Java which can be distributed via CD and run on a server. Import and export capabilities to and from the server keeps the catalog updated when a new release is required.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Willie",
+                    "last_name": "Scholtz",
+                    "name": null,
+                    "headline": "Software Engineer at Adyen"
+                }
+            ]
+        },
+        {
+            "title": "Freelance",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "description": "Developed a custom Chrome browser plugin that allows users to logically group keywords on any website.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Willie",
+                    "last_name": "Scholtz",
+                    "name": null,
+                    "headline": "Software Engineer at Adyen"
+                }
+            ]
+        }
+    ],
+    "publications": [],
+    "courses": [
+        {
+            "name": "Certified Secure",
+            "number": null
+        },
+        {
+            "name": "Management Course",
+            "number": null
+        }
+    ],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 279565,
+                "name": "Adyen",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQGCuaSq8TqalA/company-logo_400_400/0/1664880075658?e=1703721600&v=beta&t=6E3ZqCa7a6iATl-DRb8ZjXUMfIf7Hlz2quy-KB_SVAw",
+                "url": "https://www.linkedin.com/company/adyen/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amsterdam, North Holland, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2020
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Adyen",
+                    "description": null,
+                    "title": "Software Engineer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Everon",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amsterdam Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2020
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2020
+                        }
+                    },
+                    "company": "Everon",
+                    "description": "We are a team responsible for the multi-tenant migration of the everon platform from the legacy service in to a new users platform based on Kubernetes and spring-boot running on GCP.\n\nWe are responsible for maintaining the existing system, while creating a new service for user management, including internal libraries required for other teams to validate access tokens and retrieve user information.\n\nThe main goal is to move from a Shiro based authentication system to an external fully automated & provisioned OAuth2 capable IDP.",
+                    "title": "Software Engineer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1970,
+                "name": "Rabobank",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQFJA_0sIwpOnw/company-logo_400_400/0/1691393873969?e=1703721600&v=beta&t=Gjm4OvCF9AaZZLamqp_HlEKpMeaH3LBbvAeSB9fMQlc",
+                "url": "https://www.linkedin.com/company/rabobank/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Utrecht Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "Rabobank",
+                    "description": null,
+                    "title": "Lead Java Developer",
+                    "employment_type": "Full-time"
+                },
+                {
+                    "location": "Utrecht Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "Rabobank",
+                    "description": "We are a small agile team within the RASS (Rabobank Authentication & Signing) platform of the Online Distribution department currently migrating from a Spring based Websphere/Oracle development environment into spring-boot microservices capable of running on PCF (Pivotal Cloud Foundry).\n\nThe set of services we maintain and create, provide a platform for 3rd party vendors (and the bank itself as a client) to authenticate users and sign offers.\n\nThis functionality allows services such as iDEAL and iDIN to function, whether that be as part of a native mobile flow, a web flow, or a merchant flow.\n\nDay to day we follow the 12 factor application as much as possible while migrating the system and providing the required functionality in the cloud; this includes transitioning system contracts, providing JWT capabilities, cloud actuators, distributed logging and tracing, etc.\n\nIt involves a lot of legacy code that needs a phased migration approach while building and migrating new and existing platform services",
+                    "title": "Senior Java Developer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 20992,
+                "name": "Backbase",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQFOmtTiVwZYvA/company-logo_400_400/0/1665989805683?e=1703721600&v=beta&t=X8HO_KxbmZnHDrqnlsMV_cv5Obm_soo-lHOMTRHRRNQ",
+                "url": "https://www.linkedin.com/company/backbase/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amsterdam Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2017
+                        },
+                        "end": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2018
+                        }
+                    },
+                    "company": "Backbase",
+                    "description": null,
+                    "title": "Lead Backend Developer ",
+                    "employment_type": null
+                },
+                {
+                    "location": "Amsterdam Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2017
+                        }
+                    },
+                    "company": "Backbase",
+                    "description": "At Backbase our team was responsible for doing the next version of the company's main product line. This involved creating a new microservice stack from a legacy application.\n\nThe microservices are all spring-boot based and use the Netflix stack for service discovery and routing.\n\nSpecifically I was the System Owner and Lead Backend Developer for a system called Targeting, which handles all the analytics and digital marketing capabilities for the product.\n\nResponsibilities:\n* Architecture, design and implementation of the service\n* Helping with CI/CD Integration for the platform\n* Part of frequent chapter and guild meetups for decisions on the platform",
+                    "title": "Backend Developer ",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 2276600,
+                "name": "Online Intelligence (Pty) Ltd",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQFvyqwmKGmANw/company-logo_400_400/0/1542616165706?e=1703721600&v=beta&t=g__ZIaPFmQe0pj-jCiLQITXHS2mCKO3pm1kv51-s2SA",
+                "url": "https://www.linkedin.com/company/online-intelligence-pty-ltd/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2008
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Pretoria Area, South Africa",
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2008
+                        },
+                        "end": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2016
+                        }
+                    },
+                    "company": "Online Intelligence (Pty) Ltd",
+                    "description": "My main focus at Online Intelligence has been to architect and code large data repositories with statistical analysis and reporting capabilities. \n\nWhen I started at the company, a lot of the applications were written without any framework, which created a lot of code duplication and errors, due to this we set out to create our own internal framework, extremely similar to Spring and Hibernate.\n\nAs a result I have been exposed to almost every aspect of large scale web application architecture.\n\nThis framework is used internally by the companies own developers to build applications according to a client's specific need in addition to being used for the main product line; \n\nOne of the systems does alarm monitoring and deals with highly concurrent access by various devices and users\n\nResponsibilities:\n* Architecture, design, implementation, and testing of enterprise Java software and middleware\n* Client engagements including on-site consulting\n* Mentoring and coaching of junior/senior developers\n* Integrate software with existing systems\n* Developing a front-end JavaScript framework for use by the web applications\n* Support, maintain and document software functionality\n* Research & implementation of new technologies\n* Code quality assurance of a development team of 11 people\n* Technical Lead on a mission critical application",
+                    "title": "System Architect",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Java",
+        "JavaScript",
+        "HTML",
+        "SQL",
+        "Security",
+        "CSS",
+        "Tomcat",
+        "Glassfish",
+        "NetBeans",
+        "Versioning",
+        "Web Applications",
+        "Databases",
+        "Java Enterprise Edition",
+        "Agile Methodologies",
+        "Software Development",
+        "Spring Framework",
+        "Hibernate",
+        "Testing",
+        "MySQL",
+        "Microsoft SQL Server"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

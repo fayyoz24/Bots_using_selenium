@@ -1,0 +1,751 @@
+{
+    "profile_id": "john-j-hermans-1b35b517",
+    "first_name": "John J.",
+    "last_name": "Hermans",
+    "sub_title": "Radiologist at Radboud University Nijmegen Medical Center",
+    "profile_picture": "https://media.licdn.com/dms/image/C4D03AQGGySkJPES5TA/profile-displayphoto-shrink_800_800/0/1639697197484?e=1701302400&v=beta&t=FoeWelwxpSb9oeJVvQs6HhmhSAcjte-fVCpi53AR-LI",
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAAAN4SdcBoYVx9rlDLHI-ZHdBaWccdC7gtcE",
+    "object_urn": 58214871,
+    "birth_date": null,
+    "summary": "I am interested in applying advanced imaging techniques in pancreatic pathology. For acute pancreatic trauma we use secretin-enhanced MRI. For acute pancreatitis we focus on CT perfusion. For cancer we use USPIO-MRI, diffusion-weighted MRI and CT perfusion.\n",
+    "location": {
+        "country": "Netherlands",
+        "short": "Arnhem-Nijmegen Region",
+        "city": null,
+        "state": null,
+        "default": "Arnhem-Nijmegen Region"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [
+        {
+            "url": "https://pancaim.eu/",
+            "title": "https://pancaim.eu/",
+            "description": "PANCAIM will combine genomics and imaging phenomics using AI to generate breakthrough knowledge to increase understanding of PDAC biology. PANCAIM will revolutionize the care for patients. It will develop trusted impactful AI applications for regular clinical use to help clinical decision-makers to give the right treatment to the right patients at the right time, and at the right cost and improve treatment outcomes of PDAC patients.",
+            "image": null
+        }
+    ],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": []
+    },
+    "industry": "Hospital & Health Care",
+    "education": [],
+    "patents": [],
+    "awards": [],
+    "certifications": [],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "PERFUSION-PANC",
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "description": "Defining a vascular phenotype of pancreatic ductal adenocarcinoma with CT perfusion using quantitative radiomics.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "John J.",
+                    "last_name": "Hermans",
+                    "name": null,
+                    "headline": "Radiologist at Radboud University Nijmegen Medical Center"
+                }
+            ]
+        },
+        {
+            "title": "DIA-PANC",
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "description": "A prospective cohort study (n=465) to determine the diagnostic accuracy of contrast-enhanced and diffusion-weighted MRI for detecting liver metastases in patients with pancreatic cancer.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "John J.",
+                    "last_name": "Hermans",
+                    "name": null,
+                    "headline": "Radiologist at Radboud University Nijmegen Medical Center"
+                }
+            ]
+        },
+        {
+            "title": "VUIST study",
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "description": "Volume CT of the Wrist and Carpus After Trauma (VuisT): A Prospective Study",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "John J.",
+                    "last_name": "Hermans",
+                    "name": null,
+                    "headline": "Radiologist at Radboud University Nijmegen Medical Center"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Monique",
+                    "last_name": "Brink",
+                    "name": null,
+                    "headline": "Radiologist at Radboudumc"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Jacky",
+                    "last_name": "de Rooy",
+                    "name": null,
+                    "headline": "Consultant Musculoskeletal Radiologist Radboudumc"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Michael",
+                    "last_name": "Edwards",
+                    "name": null,
+                    "headline": "Professor of traumasurgery at Radboudumc, chairman of OTC-NL (osteosynthesis & Trauma Care) and of the DSATC Netherlands. President of Global OTC Foundation"
+                }
+            ]
+        }
+    ],
+    "publications": [
+        {
+            "name": "Interactive 3D U-net for the Segmentation of the Pancreas in Computed Tomography Scans",
+            "publisher": "Physics in Medicine & Biology",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/31978921/",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2020
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "John J.",
+                    "last_name": "Hermans",
+                    "name": null,
+                    "headline": "Radiologist at Radboud University Nijmegen Medical Center"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Boers TGW",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Hu Y",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Gibson E",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Barratt DC",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Bonmati E",
+                    "headline": null
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Jasenko",
+                    "last_name": "Krdzalic",
+                    "name": null,
+                    "headline": "Radiologist"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "van der Heijden F",
+                    "headline": null
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Henkjan",
+                    "last_name": "Huisman",
+                    "name": null,
+                    "headline": "Professor Medical Imaging AI"
+                }
+            ]
+        },
+        {
+            "name": "Postoperative Surveillance of Pancreatic Cancer Patients",
+            "publisher": "European Journal of Surgical Oncology",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/31204168/",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2019
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "John J.",
+                    "last_name": "Hermans",
+                    "name": null,
+                    "headline": "Radiologist at Radboud University Nijmegen Medical Center"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Daamen LA",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Groot VP",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Intven MPW",
+                    "headline": null
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Marc",
+                    "last_name": "Besselink",
+                    "name": null,
+                    "headline": "Professor of Pancreatic and Hepatobiliary (HPB) surgery at Amsterdam UMC"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Busch OR",
+                    "headline": null
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Bas",
+                    "last_name": "Groot Koerkamp",
+                    "name": null,
+                    "headline": "HPB and transplant surgeon at Erasmus MC"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Mohammad NC",
+                    "headline": null
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "I.Q.",
+                    "last_name": "Molenaar",
+                    "name": null,
+                    "headline": "Professor of Hepato-Pancreato-Biliary Surgery at Regional Academic Cancer Center Utrecht and UMC Utrecht Cancer Center"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Martijn",
+                    "last_name": "Stommel",
+                    "name": null,
+                    "headline": "HPB surgeon Radboudumc"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Hanneke",
+                    "last_name": "van Laarhoven",
+                    "name": null,
+                    "headline": "Professor, head of the Department of Medical Oncology at Amsterdam UMC"
+                }
+            ]
+        },
+        {
+            "name": "Improving Preoperative Detection of Synchronous Liver Metastases in Pancreatic Cancer With Combined Contrast-Enhanced and Diffusion-Weighted MRI",
+            "publisher": "Abdominal Radiology (NY)",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/30659309/",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2019
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "John J.",
+                    "last_name": "Hermans",
+                    "name": null,
+                    "headline": "Radiologist at Radboud University Nijmegen Medical Center"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "van der Kolk BM",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "van Laarhoven CJHM",
+                    "headline": null
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Deniece",
+                    "last_name": "Riviere",
+                    "name": null,
+                    "headline": "Radioloog in opleiding bij Jeroen Bosch Ziekenhuis"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Erwin",
+                    "last_name": "van Geenen",
+                    "name": null,
+                    "headline": "Consultant Gastroenterologist at UMC St Radboud"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Iris",
+                    "last_name": "Nagtegaal",
+                    "name": null,
+                    "headline": "Professor of Gastrointestinal Pathology at Radboud University Medical Centre Nijmegen"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "sandra",
+                    "last_name": "radema",
+                    "name": null,
+                    "headline": "medical oncologist at UMC St Radboud"
+                }
+            ]
+        },
+        {
+            "name": "Optimal Respiratory-Gated [ 18 F]FDG PET/CT Significantly Impacts the Quantification of Metabolic Parameters and Their Correlation With Overall Survival in Patients With Pancreatic Ductal Adenocarcinoma",
+            "publisher": "European Journal of Nuclear Medicine and Molecular Imaging",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/30868318/",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2019
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "John J.",
+                    "last_name": "Hermans",
+                    "name": null,
+                    "headline": "Radiologist at Radboud University Nijmegen Medical Center"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Smeets EMM",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Withaar DS",
+                    "headline": null
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Willem",
+                    "last_name": "Grootjans",
+                    "name": null,
+                    "headline": "Assistant Professor and Head of the Imaging Services Group at the department of Radiology, Leiden University Medical Center"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Kees",
+                    "last_name": "van Laarhoven",
+                    "name": null,
+                    "headline": "Professor and Chair Department of Surgery, Radboud University Medical Center, Nijmegen"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Lioe Fee",
+                    "last_name": "De Geus-Oei",
+                    "name": null,
+                    "headline": "Clinical Professor in Nuclear Medicine and Molecular Imaging at Leiden University Medical Center, University of Twente and Delft University of Technology"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Martin",
+                    "last_name": "Gotthardt",
+                    "name": null,
+                    "headline": "Prof. dr. bij Radboud university medical centre"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Erik",
+                    "last_name": "Aarntzen",
+                    "name": null,
+                    "headline": "Nuclear medicine, Imaging the immune system"
+                }
+            ]
+        },
+        {
+            "name": "The Diagnostic Accuracy of CT and MRI for the Detection of Lymph Node Metastases in Gallbladder Cancer: A Systematic Review and Meta-Analysis",
+            "publisher": "European Journal of Radiology",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/30599854/",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2019
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "John J.",
+                    "last_name": "Hermans",
+                    "name": null,
+                    "headline": "Radiologist at Radboud University Nijmegen Medical Center"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "de Savornin Lohman EAJ",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "de Bitter TJJ",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "van Laarhoven CJHM",
+                    "headline": null
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Robbert",
+                    "last_name": "de Haas",
+                    "name": null,
+                    "headline": "MD, PhD, Abdominal Radiologist at UMCG"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Philip",
+                    "last_name": "de Reuver",
+                    "name": null,
+                    "headline": "Gastro intestinal surgeon, Radboudumc. Medical director Center for complex abdominal and pelvic disorders. "
+                }
+            ]
+        },
+        {
+            "name": "The Accuracy of Pancreatic Perfusion Computed Tomography and Angiography in Predicting Necrotizing Pancreatitis: A Systematic Review",
+            "publisher": "Pancreas",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/29894416/",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2018
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "John J.",
+                    "last_name": "Hermans",
+                    "name": null,
+                    "headline": "Radiologist at Radboud University Nijmegen Medical Center"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Smeets XJNM",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Litjens G",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Gijsbers K",
+                    "headline": null
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Mathias",
+                    "last_name": "Prokop",
+                    "name": null,
+                    "headline": "Chairman of Medical Imaging at Radboud University Nijmegen Medical Centre"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Joost PH",
+                    "last_name": "Drenth",
+                    "name": null,
+                    "headline": "Gastroenterologist | Clinical Investigator | Editor | European citizen "
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Erwin",
+                    "last_name": "van Geenen",
+                    "name": null,
+                    "headline": "Consultant Gastroenterologist at UMC St Radboud"
+                }
+            ]
+        },
+        {
+            "name": "MEASUREMENTS OF THE STERNUM FOR BETTER CARDIOPULMONARY RESUSCITATION",
+            "publisher": "Nordic Ergonomic Society",
+            "url": "http://www.nordiskergonomi.org/nes2007/CD_NES_2007/papers/A110_Pedersen.pdf",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2007
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "John J.",
+                    "last_name": "Hermans",
+                    "name": null,
+                    "headline": "Radiologist at Radboud University Nijmegen Medical Center"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Inger Marie Gaard",
+                    "last_name": "Barking",
+                    "name": null,
+                    "headline": "Fremtind Innovation forum, Problemsolving on a high level, Managing strategic processes"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Johan FM",
+                    "last_name": "Molenbroek",
+                    "name": null,
+                    "headline": "Associate Professor Applied Ergonomics, retired and hired again for an EU project kidscan.nl  to 3d scan and measure children"
+                }
+            ]
+        }
+    ],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 388762,
+                "name": "Radboud University Medical Centre Nijmegen, the Netherlands",
+                "logo": null,
+                "url": "https://www.linkedin.com/company/radboud-university-medical-centre-nijmegen-the-netherlands/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2010
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "day": null,
+                            "year": 2010
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Radboud University Medical Centre Nijmegen, the Netherlands",
+                    "description": "Specialized in imaging of the pancreas.",
+                    "title": "Radiologist",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Erasmus University Medical Center Rotterdam",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 1999
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2010
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "day": null,
+                            "year": 1999
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": 2010
+                        }
+                    },
+                    "company": "Erasmus University Medical Center Rotterdam",
+                    "description": null,
+                    "title": "Radiologist",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "UMCG",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 1994
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 1999
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "day": null,
+                            "year": 1994
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": 1999
+                        }
+                    },
+                    "company": "UMCG",
+                    "description": null,
+                    "title": "Resident Radiology",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Radiology",
+        "MRI",
+        "Clinical Research",
+        "Medical Imaging",
+        "Medical Research",
+        "Teleradiology",
+        "Hospitals",
+        "Medical Education",
+        "Ultrasound",
+        "Surgery",
+        "PACS",
+        "Cancer",
+        "Healthcare",
+        "Medicine",
+        "Digital Imaging",
+        "Deep learning"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

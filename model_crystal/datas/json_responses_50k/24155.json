@@ -1,0 +1,862 @@
+{
+    "profile_id": "tanya-phung-820251123",
+    "first_name": "Tanya",
+    "last_name": "Phung",
+    "sub_title": "Postdoctoral Researcher",
+    "profile_picture": null,
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAAB54aFgBJD4owtX1qM9OFe4YLxQp-1TFGDU",
+    "object_urn": 511207512,
+    "birth_date": null,
+    "summary": "I am a bioinformatics scientist with experience and skills in pipeline development such as identification of germline mutations from WGS and WES data, somatic mutations from paired tumor-normal WES data and predicting tumor neoantigens. I also analyze, visualize, and interpret of NGS data to understand human health and diseases. I am capable of working independently and collaboratively with a computational team and with experimental collaborators, both in an academic setting and industry setting. I am also detailed-oriented, conscientious, and excellent at documenting, organizing and time-management skills.",
+    "location": {
+        "country": "Netherlands",
+        "short": "Amsterdam, North Holland",
+        "city": "Amsterdam",
+        "state": "North Holland",
+        "default": "Amsterdam, North Holland, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [
+        {
+            "url": null,
+            "title": "Calculate the probability of a true positive in non-invasive prenatal testing",
+            "description": "I developed an RShiny app that calculate the probability of a true positive given a positive test for chromosomal abnormality (Trisomy 13, 18, and 21) in non-invasive prenatal testing. ",
+            "image": null
+        },
+        {
+            "url": null,
+            "title": "An RShiny app to visualize patterns of X-chromosome-inactivation in tissues",
+            "description": "I developed an RShiny app to aid in the visualization of X-chromosome-inactivation to compare between embryonic tissues (the placenta and decidua) and adult tissues. The app also shows gene expression between placenta samples that are male and placenta samples that are females. ",
+            "image": null
+        }
+    ],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "Chinese (Simplified)",
+                "proficiency": "ELEMENTARY"
+            },
+            {
+                "name": "English",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "Vietnamese",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ]
+    },
+    "industry": "Research",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "school": {
+                "name": "UCLA",
+                "logo": "https://media.licdn.com/dms/image/D560BAQEDHp-TpD9AYQ/company-logo_400_400/0/1688403831139/ucla_logo?e=1703721600&v=beta&t=a8r7iYPuJ__JLT8GaE0_gv4td1q3KlMFUF8TnmxZYXw",
+                "url": "https://www.linkedin.com/school/ucla/"
+            },
+            "degree_name": "Doctor of Philosophy (Ph.D.)",
+            "field_of_study": "Bioinformatics",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2010
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "school": {
+                "name": "Massachusetts Institute of Technology",
+                "logo": "https://media.licdn.com/dms/image/D560BAQH-UXRfIDIKug/company-logo_400_400/0/1689799728670/mit_logo?e=1703721600&v=beta&t=0hTO1Z3HV5vnMg5QLPSHGZ_KYFVOOWJNdXfS45HnDHo",
+                "url": "https://www.linkedin.com/school/mit/"
+            },
+            "degree_name": "Bachelor degree of science",
+            "field_of_study": "Biology",
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [
+        {
+            "title": "Ford Predoctoral Fellowship",
+            "description": "Honorable Mention",
+            "issuer": null,
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2016
+            }
+        },
+        {
+            "title": "NIH System and Integrative Biology Program Training Grant",
+            "description": null,
+            "issuer": null,
+            "date": {
+                "month": 10,
+                "day": null,
+                "year": 2015
+            }
+        }
+    ],
+    "certifications": [],
+    "organizations": [],
+    "projects": [],
+    "publications": [
+        {
+            "name": "Determining the effect of natural selection on linked neutral divergence across species",
+            "publisher": "PLOS Genetics",
+            "url": "http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1006199",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2016
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Tanya",
+                    "last_name": "Phung",
+                    "name": null,
+                    "headline": "Postdoctoral Researcher"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Christian",
+                    "last_name": "Huber",
+                    "name": null,
+                    "headline": "Assistant Professor at Penn State University"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Kirk Lohmueller",
+                    "headline": null
+                }
+            ]
+        },
+        {
+            "name": "Evolving New Protein-Protein Interaction Specificity through Promiscuous Intermediates",
+            "publisher": "Cell",
+            "url": "http://www.cell.com/cell/abstract/S0092-8674(15)01272-6",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2015
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Tanya",
+                    "last_name": "Phung",
+                    "name": null,
+                    "headline": "Postdoctoral Researcher"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Chris Aakre",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Julien Herrou",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Barrett Perchuk",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Sean Crosson",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Michael Laub",
+                    "headline": null
+                }
+            ]
+        },
+        {
+            "name": "A bacterial toxin inhibits DNA replication elongation through a direct interaction with the \u03b2 sliding clamp.",
+            "publisher": "Molecular Cell",
+            "url": "http://www.cell.com/molecular-cell/abstract/S1097-2765(13)00756-9",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2013
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Tanya",
+                    "last_name": "Phung",
+                    "name": null,
+                    "headline": "Postdoctoral Researcher"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Chris Aakre",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "David Huang",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Michael Laub",
+                    "headline": null
+                }
+            ]
+        },
+        {
+            "name": "CASZ1 inhibits cell cycle progression in neuroblastoma by restoring pRb activity.",
+            "publisher": "Cell cycle",
+            "url": "http://www.tandfonline.com/doi/abs/10.4161/cc.25265#.V6ADGx9yu1I",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2013
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Tanya",
+                    "last_name": "Phung",
+                    "name": null,
+                    "headline": "Postdoctoral Researcher"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Liu Zhihui",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "JulieAnn Rader",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Stanley He",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Carol Thiele",
+                    "headline": null
+                }
+            ]
+        }
+    ],
+    "courses": [
+        {
+            "name": "Biostatistics - Applied linear regression",
+            "number": null
+        },
+        {
+            "name": "Foundations of Computational and Systems Biology",
+            "number": null
+        },
+        {
+            "name": "Introduction to Computer Science and Programming",
+            "number": null
+        },
+        {
+            "name": "Mathematical and Statistical Phylogenetics",
+            "number": null
+        },
+        {
+            "name": "Population Genetics",
+            "number": null
+        },
+        {
+            "name": "Statistical Methods in Computational Biology",
+            "number": null
+        },
+        {
+            "name": "Stochastic Modelling - Applied Probability",
+            "number": null
+        },
+        {
+            "name": "Theoretical Genetics Modelling",
+            "number": null
+        }
+    ],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 5570,
+                "name": "Vrije Universiteit Amsterdam (VU Amsterdam)",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQGFG964atm3Ow/company-logo_400_400/0/1682661887840?e=1703721600&v=beta&t=871s4br2EokXU4GPzYVwsoy3BpQAoKkgU-c2zYvtGmQ",
+                "url": "https://www.linkedin.com/school/vrije-universiteit-amsterdam/",
+                "employees": {
+                    "start": 5001,
+                    "end": 10000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amsterdam, North Holland, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Vrije Universiteit Amsterdam (VU Amsterdam)",
+                    "description": null,
+                    "title": "Postdoctoral Researcher",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 14435582,
+                "name": "Xbiome",
+                "logo": "https://media.licdn.com/dms/image/C560BAQEUMRUxJYbO0g/company-logo_400_400/0/1599198370683/xbiome_logo?e=1703721600&v=beta&t=qjmUzn27cBLllHj4wIkRG0Iogfu44wGo_nrNRoxqbTw",
+                "url": "https://www.linkedin.com/company/xbiome/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "Xbiome",
+                    "description": "- Developing a bioinformatics pipeline to identify tumor neoantigens from paired tumor-normal WES data from cancer patient\n- Developing a bioinformatics pipeline to map tumor neoantigens to the patient's microbiome to identify crosslink bacterial antigens\n- Applying pipelines that I am developing to analyze cancer datasets to study neoantigen diversity, crosslink bacterial antigen diversity and association to immunotherapy responses\n- Developing a bioinformatics pipeline to identify the microbial species from reads that could not be mapped to the human genome using WES and RNA-seq data",
+                    "title": "Bioinformatics Scientist",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 110510,
+                "name": "Ambry Genetics",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQGf2yQezK22vA/company-logo_400_400/0/1519952615600?e=1703721600&v=beta&t=_PEUsZB7xwiyJIj2vqdDTUA-ewRQA7ji9AQQADdcUn4",
+                "url": "https://www.linkedin.com/company/ambry-genetics/",
+                "employees": {
+                    "start": 501,
+                    "end": 1000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Aliso Viejo, California, United States",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2021
+                        }
+                    },
+                    "company": "Ambry Genetics",
+                    "description": "- Processed NGS data from raw *bcl* files to *fastq* files using bcl2fastq and performed quality control of the sequencing data based on mean coverage, number of bases with different amount of coverage, or percent perfect barcode matching\n- Provided bioinformatics expertise and support to wetlab scientists to troubleshoot failed sequencing runs such as analyzing contamination, on target rate, or DNA fragment sizes\n- Gained knowledge and experience in NGS sequencing from different Illumina machines such as Hiseq, Nextseq, and Novaseq and Roche\u2019s assay for ctDNA\n- Acquired knowledge and experience in sequencing for confirmation of copy number variation such as Sanger sequencing or MLPA\n- Developed a bioinformatics pipeline to identify somatic variants and germline variants from paired tumor-normal whole exome sequence data and from tumor-only whole exome sequence data\n- Developed a bioinformatics pipeline to process RNA-seq data from raw BCL file to gene counts",
+                    "title": "Bioinformatics Scientist I",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 4292,
+                "name": "Arizona State University",
+                "logo": "https://media.licdn.com/dms/image/C560BAQHDGjY1IZJuog/company-logo_400_400/0/1519855922217?e=1703721600&v=beta&t=_aQp8b9tiItc_N7icvuWwqQOJqCTqELjPu7sfTqW0wc",
+                "url": "https://www.linkedin.com/school/arizona-state-university/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Tempe, Arizona, United States",
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2021
+                        }
+                    },
+                    "company": "Arizona State University",
+                    "description": "My role in this position was to analyze Next Generation Sequencing (NGS) datasets to answer biological questions. I analyzed and interpret whole exome sequencing (WES) data, whole genome sequencing (WGS) data, RNA-seq data, and tumor-normal paired data. I collaborated with different medical teams at the Mayo Clinic. I visualized, summarized, and communicated scientific findings to collaborators. I organized data and generated best practice workflows such as germline and somatic mutation genotyping or differential gene expression analysis. I also supported other group members with their programming needs.",
+                    "title": "Bioinformatics Research Scientist",
+                    "employment_type": "Full-time"
+                },
+                {
+                    "location": "Tempe, Arizona, United States",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "Arizona State University",
+                    "description": "I worked with Dr. Melissa Wilson at Arizona State University as a postdoctoral scholar. I am investigating best practices to call variants on the sex chromosomes. I am also studying sex difference in human health and diseases.",
+                    "title": "Postdoctoral Scholar",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 2477,
+                "name": "UCLA",
+                "logo": "https://media.licdn.com/dms/image/D560BAQEDHp-TpD9AYQ/company-logo_400_400/0/1688403831139/ucla_logo?e=1703721600&v=beta&t=a8r7iYPuJ__JLT8GaE0_gv4td1q3KlMFUF8TnmxZYXw",
+                "url": "https://www.linkedin.com/school/ucla/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Greater Los Angeles Area",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2014
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2018
+                        }
+                    },
+                    "company": "UCLA",
+                    "description": "- Analyzed whole genome sequences by writing scripts in Python to calculate summary statistics such as genetic diversity to answer questions about evolutionary history of humans and dogs\n- Wrote pipeline software for next generation sequencing analysis to align sequences using BWA, assess quality using qualimap, and detect variants using GATK\n- Developed an Approximate Bayesian Computational method to understand the genetic architecture of complex traits\n- Developed a maximum likelihood statistical model to determine whether the process of recombination is mutagenic\n- Created data visualizations in R for publication\n- Documented and version controlled scripts (https://github.com/tnphung)",
+                    "title": "Graduate Student Researcher",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 6866,
+                "name": "Vertex Pharmaceuticals",
+                "logo": "https://media.licdn.com/dms/image/C560BAQGG-RxFccXwpg/company-logo_400_400/0/1656690711179/vertex_pharmaceuticals_logo?e=1703721600&v=beta&t=qbdjtV8psw2s5dKkGHesNDuRyRMrJWoAISuVBMeSPfQ",
+                "url": "https://www.linkedin.com/company/vertex-pharmaceuticals/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Greater Boston Area",
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2017
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2017
+                        }
+                    },
+                    "company": "Vertex Pharmaceuticals",
+                    "description": "Developed a user-friendly application using RShiny to be used by researchers within the company",
+                    "title": "Summer Intern",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "NCBI hackathon",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Bethesda, Maryland",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2017
+                        },
+                        "end": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2017
+                        }
+                    },
+                    "company": "NCBI hackathon",
+                    "description": "Collaborated in a team of five and within three days developed a software (PhenVar) to annotate dbSNP records with phenotype from PubMed\n\nWrote Python scripts to obtain annotations for dbSNP records from NCBI database such as allele frequency, clinical significance, or functions\n\nText-mined abstracts to obtain keywords associated with each dbSNP record",
+                    "title": "National Center for Biotechnology Information (NCBI) Hackathon participant",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Hackseq",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Vancouver, British Columbia, Canada",
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2016
+                        }
+                    },
+                    "company": "Hackseq",
+                    "description": "I participated in a hackathon as part of the American Society of Human Genetics 2016 conference. I was part of a team led by Dr. Melissa Wilson Sayres at Arizona State University. Our team developed a method to quickly infer ploidy on the sex chromosome using next-generation sequencing data. I used a sequence alignment program called lastZ and wrote custom Python scripts to identify regions of the chromosomes that are difficult to align correctly.",
+                    "title": "Hackathon participant",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1503,
+                "name": "Massachusetts Institute of Technology (MIT)",
+                "logo": "https://media.licdn.com/dms/image/D560BAQH-UXRfIDIKug/company-logo_400_400/0/1689799728670/mit_logo?e=1703721600&v=beta&t=0hTO1Z3HV5vnMg5QLPSHGZ_KYFVOOWJNdXfS45HnDHo",
+                "url": "https://www.linkedin.com/school/mit/",
+                "employees": {
+                    "start": 5001,
+                    "end": 10000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Cambridge, MA",
+                    "date": {
+                        "start": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2012
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2014
+                        }
+                    },
+                    "company": "Massachusetts Institute of Technology",
+                    "description": "Used molecular cloning to discover that DnaN, a replicative beta clamp, is the cellular target of a new bacterial toxin protein, SocB, in the bacteria Caulobacter crescentus\n\nEmployed a computational framework called mutual information analysis to identify amino acid residues that contribute to the specific interaction between the bacterial toxin and antitoxin proteins\n\nModified an in vitro Forster resonance energy transfer (FRET) assay to quantify interaction strength between two proteins",
+                    "title": "Undergraduate Student Researcher",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1503,
+                "name": "Massachusetts Institute of Technology (MIT)",
+                "logo": "https://media.licdn.com/dms/image/D560BAQH-UXRfIDIKug/company-logo_400_400/0/1689799728670/mit_logo?e=1703721600&v=beta&t=0hTO1Z3HV5vnMg5QLPSHGZ_KYFVOOWJNdXfS45HnDHo",
+                "url": "https://www.linkedin.com/school/mit/",
+                "employees": {
+                    "start": 5001,
+                    "end": 10000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2010
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2011
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2010
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2011
+                        }
+                    },
+                    "company": "Massachusetts Institute of Technology",
+                    "description": "Created hydrogels which were then used to culture single cells\n\nConducted swelling experiments to test the swelling property of hydrogels made with different molecular weights",
+                    "title": "Undergraduate Student Researcher",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [
+        {
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "role": "Teacher",
+            "company": {
+                "id": null,
+                "name": "MIT Educational Studies Program",
+                "logo": null,
+                "url": null
+            },
+            "cause": null,
+            "description": "I designed and taught middle and high school students interesting topics in biology such as the biology of cancer, the biology of the cell, and the biology of a micro-organism. The program occurred on every Saturday for 7 weeks. "
+        }
+    ],
+    "skills": [
+        "Bioinformatics",
+        "Python",
+        "R",
+        "SAS Programming",
+        "Statistical Data Analysis",
+        "Population Genetics",
+        "Molecular Cloning",
+        "Polymerase Chain Reaction (PCR)",
+        "Western Blotting",
+        "Biochemistry",
+        "Protein Purification",
+        "Linux",
+        "Machine Learning",
+        "Data Analysis",
+        "Statistics"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

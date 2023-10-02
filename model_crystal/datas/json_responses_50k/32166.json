@@ -1,0 +1,993 @@
+{
+    "profile_id": "kevinvanderpol",
+    "first_name": "Kevin",
+    "last_name": "van der Pol",
+    "sub_title": "Product Owner",
+    "profile_picture": "https://media.licdn.com/dms/image/C5603AQGuoWWcGlyGLg/profile-displayphoto-shrink_800_800/0/1517062390113?e=1701302400&v=beta&t=DvSfmBz6E5cHXv_2qk2_wRJQKEg-wD8E0s6yWsv71jI",
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAABo4J3kBhZWJwVpNwC2vxlTQxOr85iD_84A",
+    "object_urn": 439887737,
+    "birth_date": null,
+    "summary": "I am a software craftsman to whom writing readable, maintainable and bug-free software is a joy in itself. I strive to always improve my skills as a software engineer, work accurately, and provide complex problems with readily understandable, effective solutions. \n\nBesides delivering quality software, I bring a professional attitude and an open and honest style of communication. As a software professional, I find it important to embrace responsibility and to always honor my commitments. It brings me pleasure to meet a project\u2019s goals within time and with a high quality result.",
+    "location": {
+        "country": "Netherlands",
+        "short": "Eindhoven, North Brabant",
+        "city": "Eindhoven",
+        "state": "North Brabant",
+        "default": "Eindhoven, North Brabant, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "Dutch",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "English",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "German",
+                "proficiency": "PROFESSIONAL_WORKING"
+            }
+        ]
+    },
+    "industry": "Consumer Electronics",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2010
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "school": {
+                "name": "Eindhoven University of Technology",
+                "logo": "https://media.licdn.com/dms/image/C560BAQG4PGSYiNG4CA/company-logo_400_400/0/1642150189320?e=1703721600&v=beta&t=omf4Ziy8Suete_GTJ3Qn1mOBS7ZrKSPido6Ld2LseBU",
+                "url": "https://www.linkedin.com/school/eindhoven-university-of-technology/"
+            },
+            "degree_name": "Master\u2019s Degree",
+            "field_of_study": null,
+            "grade": "Computer Science & Engineering"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2006
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2010
+                }
+            },
+            "school": {
+                "name": "Eindhoven University of Technology",
+                "logo": "https://media.licdn.com/dms/image/C560BAQG4PGSYiNG4CA/company-logo_400_400/0/1642150189320?e=1703721600&v=beta&t=omf4Ziy8Suete_GTJ3Qn1mOBS7ZrKSPido6Ld2LseBU",
+                "url": "https://www.linkedin.com/school/eindhoven-university-of-technology/"
+            },
+            "degree_name": "Bachelor\u2019s Degree",
+            "field_of_study": null,
+            "grade": "Technische Informatica"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "school": {
+                "name": "Dr. Mollercollege",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": null,
+            "field_of_study": null,
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [
+        {
+            "name": "Certified Project Management Associate IPMA Level D",
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2026
+                }
+            },
+            "authority": "IPMA: International Project Management Association",
+            "url": null,
+            "license_number": "NL.D.2021.0335",
+            "display_source": null,
+            "company": {
+                "id": null,
+                "name": "IPMA: International Project Management Association",
+                "logo": "https://media.licdn.com/dms/image/C560BAQGmcubHmzjtPQ/company-logo_400_400/0/1579014436162?e=1703721600&v=beta&t=9Xg8S6lzrDDAeK3h5wW_nAJCe_8VVo0fC6jplJgRzhs",
+                "url": null
+            }
+        }
+    ],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "Master's thesis: Partial Model Checking for mCRL2",
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "description": "Model checking is a technique to mathematically prove that systems work as intended. Systems with many independent components cannot be verified in this way because of the \u201cstate space explosion problem\u201d. Partial model checking could mitigate this problem for our model checker mCRL2. In partial model checking, the verification is performed one component at a time. Aggressive rewriting is needed to keep the problem tractable.\n\nTask:\nApply partial model checking for the mCRL2 modeling language\n\nActivities:\n\u2022\tStudy the literature on partial model checking\n\u2022\tDefine partial model checking for mCRL2 models and \u00b5-calculus\n\u2022\tWrite an academic thesis\n\nResult:\n\u2022\tDefined the partial model checking rewriting rules for mCRL2 models and \u00b5-calculus\n\u2022\tMathematically proved these rewriting rules are correct\n\u2022\tGained experience with formal logics, modal \u00b5-calculus semantics in particular, and mathematical proofs\n\u2022\tDiscovered my talent for reading and writing academic literature",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Tim",
+                    "last_name": "Willemse",
+                    "name": null,
+                    "headline": "Associate Professor@TU/e"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Kevin",
+                    "last_name": "van der Pol",
+                    "name": null,
+                    "headline": "Product Owner"
+                }
+            ]
+        },
+        {
+            "title": "Robotics 2 at Skalar",
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "description": "Skalar Analytical manufactures machines for performing chemical experiments. The Robot product can be fitted with shakers, heaters, diluters, a wide range of measuring devices and other equipment to perform any experiment the customer wishes. The software was never designed to be this configurable and it takes too much time to customize. The company decided to rewrite the application from the ground up.\n\nTask: \nImplement the functions that perform some task on the machine, such as \u201cDecap a tube\u201d or \u201cMove the tube to the heater\u201d.\n\nActivities:\n\u2022\tProject management (planning, reporting, stakeholder communication)\n\u2022\tRequirements gathering\n\u2022\tDatabase design\n\u2022\tArchitecture and design\n\u2022\tImplementation\n\nResult: \n\u2022\tDesigned the communication module to be fully independent of protocol details\n\u2022\tImplemented a path finding algorithm that can avoid collisions and obstacles in a generic way and guarantees the shortest path to the target\n\u2022\tSpun off a project to build a tool for configuring the machine\n\u2022\tSuggested improvements for speeding up the machine and making movements smoother\n\u2022\tIntroduced the software engineering techniques of dependency injection and unit testing",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Kevin",
+                    "last_name": "van der Pol",
+                    "name": null,
+                    "headline": "Product Owner"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Tom",
+                    "last_name": "Suykerbuyk",
+                    "name": null,
+                    "headline": "Senior Software Engineer at 2-Control"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Siem",
+                    "last_name": "Klijn",
+                    "name": null,
+                    "headline": "Hardware engineer Special Products at Skalar Analytical B.V."
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Ayhan",
+                    "last_name": "Dirican",
+                    "name": null,
+                    "headline": "Team Leader Domain Experts Software & Controls at Rockwell Automation"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Frederikus",
+                    "last_name": "Boelema",
+                    "name": null,
+                    "headline": "Servicemanager bij Skalar Analytical B.V."
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Hanco",
+                    "last_name": "Hogenbirk",
+                    "name": null,
+                    "headline": "Software Developer R&D (C#/.NET)"
+                }
+            ]
+        },
+        {
+            "title": "Location Input at Mapscape",
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "description": "Mapscape develop digital navigation maps. To create these customer specific maps, the Division I&D develops software which validates, tests, improves the digital map data and compiles this data in all common navigation map formats. As the software is to be redesigned into a component based architecture, the software had to be refactored and subsystems had to be decoupled. \n\nTask: \nAddition of new functionalities, maintenance and decoupling of dependencies to support the software roadmap. \n\nActivities: \n\u2022\tDesign parts of the software \n\u2022\tImplement new features or updates \n\u2022\tUnit testing \n\u2022\tBug fixing \n\nResult: \n\u2022\tIntroduced Object Oriented design concepts and implementations \n\u2022\tReduced software coupling \n\u2022\tIncreased unit test coverage in existing code, and made new code with over 90% coverage \n\u2022\tGained experience with unit testing and test driven development (TDD)",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Kevin",
+                    "last_name": "van der Pol",
+                    "name": null,
+                    "headline": "Product Owner"
+                }
+            ]
+        },
+        {
+            "title": "Distributed MILS",
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "description": "In the high-tech sector, digital software security is becoming increasingly important. The MILS approach, originally developed in the US military, aims to decouple the components of a system that are crucial to the system\u2019s security from the other parts. These small but critical components can then be very thoroughly verified and re-used in other systems. This saves time and money without decreasing security assurance. \n\nTask: \nProvide modeling and analysis support for security-critical high-tech systems.\n\nActivities:\n\u2022\tDesign a modeling language to model typical high-tech systems with digital security features\n\u2022\tDevelop digital security analysis for this language based on security type checking\n\u2022\tLead a programming team developing the compiler for this language, including extensive checking for syntax, semantic and type errors\n\u2022\tExtend the COMPASS front-end to support this language and analysis, including interfacing with the various back-end engines\n\nResult: \n\u2022\tPublished a conference paper on digital security analysis\n\u2022\tCompleted the project to the full satisfaction of the consortium partners, grant provider and research group\n\u2022\tDesigned the modeling language MILS-AADL\n\u2022\tBuilt a complete, robust compiler for MILS-AADL\n\u2022\tProvided my successors with multiple angles for follow-up research in model checking and digital security\n",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Kevin",
+                    "last_name": "van der Pol",
+                    "name": null,
+                    "headline": "Product Owner"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Thomas Noll",
+                    "headline": null
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Harold",
+                    "last_name": "Bruintjes",
+                    "name": null,
+                    "headline": "Software Developer at evolutionQ GmbH"
+                }
+            ]
+        },
+        {
+            "title": "Organization member of Benelux Algorithm Programming Contest 2011",
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2011
+                }
+            },
+            "description": "The BAPC is an algorithm programming contest for university students. A jury of academics and industry professionals designed the exercises, for which the around 100 participants invent and code an efficient algorithm. Our system automatically tests and grades these solutions. The winners took home \u20ac1024 in prize money and went on to the Northwestern European and then global contest.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Kevin",
+                    "last_name": "van der Pol",
+                    "name": null,
+                    "headline": "Product Owner"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Nicky",
+                    "last_name": "Gerritsen",
+                    "name": null,
+                    "headline": "Head of DevOps at Let's Talk"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Mark",
+                    "last_name": "van Helvoort",
+                    "name": null,
+                    "headline": "Supply Chain Analist bij Jumbo (supermarket)"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Simone",
+                    "last_name": "Alers",
+                    "name": null,
+                    "headline": "Head Of Technology at Let's Talk"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Sebastiaan\u202e",
+                    "last_name": "\u202cCandel",
+                    "name": null,
+                    "headline": "Manager | Specialist Lead AI, DataOps & MLOps | Strategy, Analytics and M&A at Deloitte Nederland"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Teun Koster",
+                    "headline": null
+                }
+            ]
+        },
+        {
+            "title": "Chairman Introduction Week Committee Mathematics and Computer Science 2009",
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2009
+                },
+                "end": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2009
+                }
+            },
+            "description": "The introduction week for new students is packed with fun activities from early morning well into the night.  We were responsible for around 120 students' first experience with student life at the Mathematics and Computer Science department of Eindhoven University of Technology.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Kevin",
+                    "last_name": "van der Pol",
+                    "name": null,
+                    "headline": "Product Owner"
+                }
+            ]
+        }
+    ],
+    "publications": [
+        {
+            "name": "Security Type Checking for MILS-AADL Specifications",
+            "publisher": "Proc. Int. Workshop on MILS: Architecture and Assurance for Secure Systems",
+            "url": "http://mils-workshop-2015.euromils.eu/downloads/hipeac_literature/05-mils15_submission_8.pdf",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2015
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Kevin",
+                    "last_name": "van der Pol",
+                    "name": null,
+                    "headline": "Product Owner"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Thomas Noll",
+                    "headline": null
+                }
+            ]
+        },
+        {
+            "name": "Perception of rubbing sounds",
+            "publisher": "Proc. Intl. Haptic and Auditory Interaction Design Workshop",
+            "url": "http://repository.tue.nl/b74cdb5a-3b6e-401b-b6a7-42d4e7ba7bfc",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2008
+            },
+            "authors": [
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Dik Hermes",
+                    "headline": null
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Kevin",
+                    "last_name": "van der Pol",
+                    "name": null,
+                    "headline": "Product Owner"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Onno",
+                    "last_name": "Kuip",
+                    "name": null,
+                    "headline": "Project Leader at ASML"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Frank",
+                    "last_name": "Boeren",
+                    "name": null,
+                    "headline": "Project leader D&E NXE:4000 Projection"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Arthur",
+                    "last_name": "Vankan",
+                    "name": null,
+                    "headline": "Partner / senior consultant & Teacher AI"
+                }
+            ]
+        }
+    ],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 1086276,
+                "name": "Dimenco ",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQHYiNpF168a0w/company-logo_400_400/0/1689578981907?e=1703721600&v=beta&t=K9uHNYp8Xl93DC-ndwW3VqxyViVziJvWCo7ZVWD_U2M",
+                "url": "https://www.linkedin.com/company/dimenco/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Veldhoven, North Brabant, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2020
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Dimenco ",
+                    "description": null,
+                    "title": "Scrum Product Owner",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 166459,
+                "name": "TMC",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQEb68USDy9V6g/company-logo_400_400/0/1662979451276?e=1703721600&v=beta&t=H4CpzhEb0erplKMOWOIhcL0ikESBqUReWifSVTZDtdE",
+                "url": "https://www.linkedin.com/company/tmc/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Eindhoven Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2021
+                        }
+                    },
+                    "company": "TMC",
+                    "description": "Improving my skills in software development at different assignments. Following courses for self-improvement, both in hard skills and soft skills. TMC is all about empowerment of great engineers.",
+                    "title": "Employeneur Software",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 2443,
+                "name": "Alstom",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQHeGrabdKRiig/company-logo_400_400/0/1569914981715?e=1703721600&v=beta&t=A4UjlUQQfNbUoW1yrQze69279ovz10waYYxLRbpg57s",
+                "url": "https://www.linkedin.com/company/alstom/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Ridderkerk, South Holland, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2020
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2020
+                        }
+                    },
+                    "company": "Alstom",
+                    "description": null,
+                    "title": "Software Engineer (via TMC)",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1090,
+                "name": "Philips",
+                "logo": "https://media.licdn.com/dms/image/C510BAQG4O5wCG6zf2Q/company-logo_400_400/0/1519855869410?e=1703721600&v=beta&t=AwT4OtKaChfPg1Rv0FCXPZ0aI3a7TPbiAfYxHqJIa04",
+                "url": "https://www.linkedin.com/company/philips/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Best, North Brabant, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "Philips",
+                    "description": null,
+                    "title": "Senior Lead Software Designer (via TMC)",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1086276,
+                "name": "Dimenco",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQHYiNpF168a0w/company-logo_400_400/0/1689578981907?e=1703721600&v=beta&t=K9uHNYp8Xl93DC-ndwW3VqxyViVziJvWCo7ZVWD_U2M",
+                "url": "https://www.linkedin.com/company/dimenco/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Veldhoven, North Brabant, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "Dimenco ",
+                    "description": "Built the Simulated Reality SDK in a very short time. From conception to a fully working implementation. My main contribution was in bringing direction to the development effort, making clear decisions and maintaining a accurate planning, to maintain a high pace and get it done! The end result was a project finished on time, with a performant, reliable product. \n\nSimulated Reality brings full immersion without wearables. Not only 3D displays without glasses, but also full surround sound without headphones or multiple speakers, and also touching and manipulating virtual objects without gloves. Maintaining the illusion required a low latency architecture spanning multiple devices and software modules, open to third-party development.",
+                    "title": "Software Architect (via TMC)",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 3614,
+                "name": "TNO",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQEaTotk9sLG7g/company-logo_400_400/0/1695809327920?e=1703721600&v=beta&t=8EjtZcRsl5ttgTkc-2KiFw6XoyZDIUB_vl9Ei_gb1Ik",
+                "url": "https://www.linkedin.com/company/tno/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Eindhoven, North Brabant, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2017
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2018
+                        }
+                    },
+                    "company": "TNO",
+                    "description": "The Renaissance project makes tools for large-scale refactorings on large (millions of lines) legacy codebases. It (1) extracts a model from source code (in C++, IDL/COM, C#), (2) allows analysis and transformation on the model, and (3) applies the transformations to the source code.\n\nBring the prototype tools to a finished product usable by software architects outside the project. This includes much refactoring and redesigning, documentation and testing. We organized a training session where software architects were able to use the product within only an hour of training.\n\nImprove the performance of the model extraction. Analyzing 4 million lines of code is no small task. The prototype took 5 hours to produce a model from the code base. I reduced this to 2 hours. Moreover, I made the model extraction modular, meaning users can analyze only the part of the code base they are interested in in a fraction of the time.\n\nMade a robust, tested and reliable product. The model extraction now runs every night without failing, in time to deliver an analysis report to the engineers at the start of their day.",
+                    "title": "Scientific Programmer (via TMC)",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Sioux CCM",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Nuenen, North Brabant, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2017
+                        },
+                        "end": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2017
+                        }
+                    },
+                    "company": "Sioux CCM",
+                    "description": "Our team developed a handheld real-time 3D scanner from the ground up. The user slowly moves the device along the object, and the system makes a 3D scan in real-time. Being a handheld device, the hardware needs to be light and small, which increases the software challenge to reach the desired accuracy. Furthermore, processing should be real-time on a typical consumer laptop.\n\nImplemented realistic 3D rendering.\n\nImprove the computer vision algorithms. In a short time, I learned how the computer vision algorithms worked and was able to make substantial improvements. Benchmarks showed that my improvements increased the number of recognized points by more than 25% and greatly reduced point mislabeling. This improves the scan accuracy and resolution.\n\nDesigned a user feedback system to improve the scan quality. It matters how the user makes the scan, so the user feedback system intuitively guides the user to obtain the best result.",
+                    "title": "Software Designer (via TMC)",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1505075,
+                "name": "Skalar Analytical",
+                "logo": "https://media.licdn.com/dms/image/C560BAQHafEYs2mODiA/company-logo_400_400/0/1557482722718?e=1703721600&v=beta&t=i2BSNdyJAToUMNIf8Voo8Rzo3asDSqqTeBgew0HN5Hg",
+                "url": "https://www.linkedin.com/company/skalar-analytical-bv/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Breda, North Brabant, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2017
+                        }
+                    },
+                    "company": "Skalar Analytical B.V.",
+                    "description": "Skalar Analytical manufactures machines for performing chemical experiments. The Robot product can be fitted with shakers, heaters, diluters, a wide range of measuring devices and other equipment to perform any experiment the customer wishes. \n\nThe Robotics 2 project is a big upgrade to how this hardware configurability is translated to the software. The goal is to easily configure robots according to the client's wishes, add support for new kinds of equipment and make the software more flexible in general.",
+                    "title": "Software Engineer (via TMC)",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 207301,
+                "name": "Mapscape",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQEaWDowA_c3Gg/company-logo_400_400/0/1519952619434?e=1703721600&v=beta&t=b-O1wmo-Y9QN-aYRAqfwHAkbJBe-8FdfirnCa10D9H0",
+                "url": "https://www.linkedin.com/company/mapscape-b.v./",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Eindhoven, North Brabant, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2016
+                        }
+                    },
+                    "company": "Mapscape B.V.",
+                    "description": "Mapscape creates maps for use in car navigation systems and similar products. The real-world data is provided from different suppliers and is being combined at Mapscape according to the wishes of their clients, which are well-known car manufacturers. Together with their parent company NavInfo, Mapscape delivers maps for every region of the world.\n\nThe Location Input team is responsible for everything to do with names. This involves names in many different languages, writing systems or organization systems (street naming, house numberings, postal codes). Finally, it includes phonetic names, for example in speech recognition or text-to-speech features. \n\nThe software engineers manipulate the map databases in C++ with raw SQL. Because of the high detail of Mapscape's maps, these databases are large. Furthermore, with maps from all over the globe, every seemingly impossible corner case is probably reality in some distant corner of the world. Accurately handling every possible map, however strange, is an interesting challenge!",
+                    "title": "Software Engineer (via TMC)",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 9790,
+                "name": "RWTH Aachen University",
+                "logo": "https://media.licdn.com/dms/image/C510BAQEATKN6xf-EkA/company-logo_400_400/0/1519856450337?e=1703721600&v=beta&t=9K761Rhd55JeH9cAZNN2h9okgZ-4g4uIyX-gO_ilFvw",
+                "url": "https://www.linkedin.com/school/rwth-aachen-university/",
+                "employees": {
+                    "start": 5001,
+                    "end": 10000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Aachen, North Rhine-Westphalia, Germany",
+                    "date": {
+                        "start": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2013
+                        },
+                        "end": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2016
+                        }
+                    },
+                    "company": "RWTH Aachen University",
+                    "description": "In the Distributed MILS project, designed the software modeling language MILS-AADL and was lead programmer for the team implementing this language in the COMPASS verification suite. The verification suite reads the model, translates it to an internal data structure, and checks the model's consistency. It then interfaces with various back-end verification tools to perform the verification and displays the results to the user. \n\nDeveloped a verification technique for MILS-AADL based on security type checking. This resulted in the paper \"Security Type Checking for MILS-AADL Specifications\", published by the International MILS Workshop 2015.\n\nRead more about the Distributed MILS project in the \"Projects\" section.\n\nGive lectures for the practical sessions for the university courses \"Introduction to Model Checking\" and \"Semantics of Programming Languages\". This includes preparing the weekly homework exercises, grading the solutions, and preparing the exam exercises.\n\nCo-supervise a student's Master's thesis. In this thesis, we explore a case study in formal modeling and verification for a file system with mandatory access control: Files that are designated to be confidential, can only be accessed by users who have clearance for confidential files. I supervised the student in her research approach and execution, technical writing and the final presentation.\n\nFor the MOVES seminar course, supervise students in improving understanding of academic literature, technical writing skills and presentation skills. The students are required to perform literature research, write an academic paper and give a presentation on a topic related to formal verification of software.",
+                    "title": "Research Assistant",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [
+        {
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2006
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "role": "Active member",
+            "company": {
+                "id": null,
+                "name": "Study Association GEWIS",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQG3aAz1aM57rg/company-logo_400_400/0/1547198303977?e=1703721600&v=beta&t=Ygg0DSqYLoEhJw-SiT8fol4uoqovYfyiUwNkoGvpiyI",
+                "url": "https://www.linkedin.com/company/study-association-gewis/"
+            },
+            "cause": "EDUCATION",
+            "description": "From my first day at university in 2006, I have been an active member of GEWIS. In this time, I have been a member of various committees. \n\nI was full-time vice-chairman of GEWIS for the college year 2008/2009. The vice-chairman is responsible for the internal organization of GEWIS, with its many committees and fraternities. When the banking crisis suddenly struck in October 2008, many members were concerned about our financial position. I successfully championed and managed spontaneous initiatives to generate revenue. One more senior student I hold in high regard, told me that my work as vice-chairman made GEWIS a more inviting and friendly place. \n\nWith some friends in the association, I founded fraternity GEPWNAGE and organized dozens of activities at the intersection of nerd culture and student life. \n\nChairman of Introduction week committee 2009."
+        },
+        {
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2008
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "role": "Active member",
+            "company": {
+                "id": null,
+                "name": "Fraternity GEPWNAGE",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQFrQJeMr5GrPQ/company-logo_400_400/0/1519907539922?e=1703721600&v=beta&t=cR9KFsc6v1CNwTB8XwAMbR-9GL5-Hs5nDWhMlcEG3rs",
+                "url": "https://www.linkedin.com/company/gepwnage/"
+            },
+            "cause": null,
+            "description": "Member of the organization for 10 annual GEPWNAGE LAN-parties. Over the years, the GEPWNAGE LAN-party has become an iconic event. The most recent edition was held at the Temporary Art Center and counted more than 100 participants.\n\nOrganized many other smaller activities at the crossroads of social life and nerd culture. "
+        }
+    ],
+    "skills": [
+        "Algorithms",
+        "Technical Writing",
+        "Software Analysis",
+        "Science",
+        "LaTeX",
+        "Simulations",
+        "Model Checking",
+        "Programming",
+        "Modeling",
+        "Public Speaking",
+        "Teaching",
+        "Matlab",
+        "Software Engineering",
+        "C++",
+        "Python",
+        "SQL",
+        "OpenGL",
+        "Git",
+        "SVN",
+        "Test Driven Development"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

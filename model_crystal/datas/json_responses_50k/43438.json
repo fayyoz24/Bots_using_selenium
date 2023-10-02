@@ -1,0 +1,966 @@
+{
+    "profile_id": "theadamosman",
+    "first_name": "Adam",
+    "last_name": "Osman",
+    "sub_title": "Systems Engineer III at MediaMath",
+    "profile_picture": null,
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAAAz1kDMBRhMIR3laxcrqYRCwN756UvUq6Tk",
+    "object_urn": 217419827,
+    "birth_date": null,
+    "summary": null,
+    "location": {
+        "country": "Netherlands",
+        "short": "Amsterdam, North Holland",
+        "city": "Amsterdam",
+        "state": "North Holland",
+        "default": "Amsterdam, North Holland, Netherlands"
+    },
+    "premium": true,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": []
+    },
+    "industry": "Internet",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "school": {
+                "name": "Boston University",
+                "logo": "https://media.licdn.com/dms/image/C560BAQFBK74krMig1Q/company-logo_400_400/0/1519855919160?e=1703721600&v=beta&t=V3gTR7_ol1vwJ7k7B8O8MyG8RqGobfd0RuXUXX3_U8E",
+                "url": "https://www.linkedin.com/school/boston-university/"
+            },
+            "degree_name": "Bachelor of Science (B.Sc.)",
+            "field_of_study": "Mechanical Engineering",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "school": {
+                "name": "Dublin City University",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQFPxkpvHFH-Lg/company-logo_400_400/0/1695652275551?e=1703721600&v=beta&t=qa3ebA3Fp3MHZlC508A2kV0NAxxWwH3VCUTGpZD7HLI",
+                "url": "https://www.linkedin.com/school/dublin-city-university/"
+            },
+            "degree_name": "Bachelor of Science (B.Sc.)",
+            "field_of_study": "Mechanical Engineering",
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [
+        {
+            "name": "Machine Learning in Python: Intermediate",
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Dataquest.io",
+            "url": "https://www.dataquest.io/view_cert/NX0D9SHCDPN7M68SVESG/",
+            "license_number": null,
+            "display_source": "dataquest.io",
+            "company": {
+                "id": null,
+                "name": "Dataquest.io",
+                "logo": "https://media.licdn.com/dms/image/D560BAQGHdXiKs7xmBA/company-logo_400_400/0/1665086175424?e=1703721600&v=beta&t=ZMF_x4BnjUuQLZR4EyPItSHg6AP8DKyLI1akwvLB9P0",
+                "url": null
+            }
+        },
+        {
+            "name": " Linear Algebra For Machine Learning Course",
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Dataquest.io",
+            "url": "https://www.dataquest.io/view_cert/IJW8A4IJ3K9MBB8DXGUY/",
+            "license_number": null,
+            "display_source": "dataquest.io",
+            "company": {
+                "id": null,
+                "name": "Dataquest.io",
+                "logo": "https://media.licdn.com/dms/image/D560BAQGHdXiKs7xmBA/company-logo_400_400/0/1665086175424?e=1703721600&v=beta&t=ZMF_x4BnjUuQLZR4EyPItSHg6AP8DKyLI1akwvLB9P0",
+                "url": null
+            }
+        },
+        {
+            "name": " Linear Regression For Machine Learning Course",
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Dataquest.io",
+            "url": "https://www.dataquest.io/view_cert/RTRLE6OCOHIXNSB6O3JA/",
+            "license_number": null,
+            "display_source": "dataquest.io",
+            "company": {
+                "id": null,
+                "name": "Dataquest.io",
+                "logo": "https://media.licdn.com/dms/image/D560BAQGHdXiKs7xmBA/company-logo_400_400/0/1665086175424?e=1703721600&v=beta&t=ZMF_x4BnjUuQLZR4EyPItSHg6AP8DKyLI1akwvLB9P0",
+                "url": null
+            }
+        },
+        {
+            "name": " Machine Learning Fundamentals Course",
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Dataquest.io",
+            "url": "https://www.dataquest.io/view_cert/5KFYLNTQ01B1C33X5OFQ/",
+            "license_number": null,
+            "display_source": "dataquest.io",
+            "company": {
+                "id": null,
+                "name": "Dataquest.io",
+                "logo": "https://media.licdn.com/dms/image/D560BAQGHdXiKs7xmBA/company-logo_400_400/0/1665086175424?e=1703721600&v=beta&t=ZMF_x4BnjUuQLZR4EyPItSHg6AP8DKyLI1akwvLB9P0",
+                "url": null
+            }
+        },
+        {
+            "name": "Calculus For Machine Learning Course",
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Dataquest.io",
+            "url": "https://www.dataquest.io/view_cert/H1ZPZHLJ39FQM6Q631H5/",
+            "license_number": null,
+            "display_source": "dataquest.io",
+            "company": {
+                "id": null,
+                "name": "Dataquest.io",
+                "logo": "https://media.licdn.com/dms/image/D560BAQGHdXiKs7xmBA/company-logo_400_400/0/1665086175424?e=1703721600&v=beta&t=ZMF_x4BnjUuQLZR4EyPItSHg6AP8DKyLI1akwvLB9P0",
+                "url": null
+            }
+        },
+        {
+            "name": "Data Storage For Analytics Subject",
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Dataquest.io",
+            "url": "https://www.dataquest.io/view_cert/CKJ5UZCZGBOK8DUDPZAU/",
+            "license_number": null,
+            "display_source": "dataquest.io",
+            "company": {
+                "id": null,
+                "name": "Dataquest.io",
+                "logo": "https://media.licdn.com/dms/image/D560BAQGHdXiKs7xmBA/company-logo_400_400/0/1665086175424?e=1703721600&v=beta&t=ZMF_x4BnjUuQLZR4EyPItSHg6AP8DKyLI1akwvLB9P0",
+                "url": null
+            }
+        },
+        {
+            "name": " Probability And Statistics In Python: Intermediate Course",
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Dataquest.io",
+            "url": "https://www.dataquest.io/view_cert/Y5DZVSKI7Y1LNJ52K60G/",
+            "license_number": null,
+            "display_source": "dataquest.io",
+            "company": {
+                "id": null,
+                "name": "Dataquest.io",
+                "logo": "https://media.licdn.com/dms/image/D560BAQGHdXiKs7xmBA/company-logo_400_400/0/1665086175424?e=1703721600&v=beta&t=ZMF_x4BnjUuQLZR4EyPItSHg6AP8DKyLI1akwvLB9P0",
+                "url": null
+            }
+        },
+        {
+            "name": " APIs And Web Scraping Subject",
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Dataquest.io",
+            "url": "https://www.dataquest.io/view_cert/VF9AAKF6TWY5UBMFWCPQ/",
+            "license_number": null,
+            "display_source": "dataquest.io",
+            "company": {
+                "id": null,
+                "name": "Dataquest.io",
+                "logo": "https://media.licdn.com/dms/image/D560BAQGHdXiKs7xmBA/company-logo_400_400/0/1665086175424?e=1703721600&v=beta&t=ZMF_x4BnjUuQLZR4EyPItSHg6AP8DKyLI1akwvLB9P0",
+                "url": null
+            }
+        },
+        {
+            "name": " Command Line: Beginner Course",
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Dataquest.io",
+            "url": "https://www.dataquest.io/view_cert/Z66FU5A4YRKJZRRXJ6YD/",
+            "license_number": null,
+            "display_source": "dataquest.io",
+            "company": {
+                "id": null,
+                "name": "Dataquest.io",
+                "logo": "https://media.licdn.com/dms/image/D560BAQGHdXiKs7xmBA/company-logo_400_400/0/1665086175424?e=1703721600&v=beta&t=ZMF_x4BnjUuQLZR4EyPItSHg6AP8DKyLI1akwvLB9P0",
+                "url": null
+            }
+        },
+        {
+            "name": " Data Cleaning Course",
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Dataquest.io",
+            "url": "https://www.dataquest.io/view_cert/0FM15V3C5CF77G0ATUA5/",
+            "license_number": null,
+            "display_source": "dataquest.io",
+            "company": {
+                "id": null,
+                "name": "Dataquest.io",
+                "logo": "https://media.licdn.com/dms/image/D560BAQGHdXiKs7xmBA/company-logo_400_400/0/1665086175424?e=1703721600&v=beta&t=ZMF_x4BnjUuQLZR4EyPItSHg6AP8DKyLI1akwvLB9P0",
+                "url": null
+            }
+        },
+        {
+            "name": " Data Cleaning Subject",
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Dataquest.io",
+            "url": "https://www.dataquest.io/view_cert/WLGADT80H6GE10FPJZD9/",
+            "license_number": null,
+            "display_source": "dataquest.io",
+            "company": {
+                "id": null,
+                "name": "Dataquest.io",
+                "logo": "https://media.licdn.com/dms/image/D560BAQGHdXiKs7xmBA/company-logo_400_400/0/1665086175424?e=1703721600&v=beta&t=ZMF_x4BnjUuQLZR4EyPItSHg6AP8DKyLI1akwvLB9P0",
+                "url": null
+            }
+        },
+        {
+            "name": " Exploratory Data Visualization Course",
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Dataquest.io",
+            "url": "https://www.dataquest.io/view_cert/UDWC4VZML2V0YK9I83MW/",
+            "license_number": null,
+            "display_source": "dataquest.io",
+            "company": {
+                "id": null,
+                "name": "Dataquest.io",
+                "logo": "https://media.licdn.com/dms/image/D560BAQGHdXiKs7xmBA/company-logo_400_400/0/1665086175424?e=1703721600&v=beta&t=ZMF_x4BnjUuQLZR4EyPItSHg6AP8DKyLI1akwvLB9P0",
+                "url": null
+            }
+        },
+        {
+            "name": " Git And Version Control Course",
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Dataquest.io",
+            "url": "https://www.dataquest.io/view_cert/JG2496YTBASEX17XFQN5/",
+            "license_number": null,
+            "display_source": "dataquest.io",
+            "company": {
+                "id": null,
+                "name": "Dataquest.io",
+                "logo": "https://media.licdn.com/dms/image/D560BAQGHdXiKs7xmBA/company-logo_400_400/0/1665086175424?e=1703721600&v=beta&t=ZMF_x4BnjUuQLZR4EyPItSHg6AP8DKyLI1akwvLB9P0",
+                "url": null
+            }
+        },
+        {
+            "name": " Probability And Statistics In Python: Beginner Course",
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Dataquest.io",
+            "url": "https://www.dataquest.io/view_cert/78Z5XLEWKWQTPABDI3RO/",
+            "license_number": null,
+            "display_source": "dataquest.io",
+            "company": {
+                "id": null,
+                "name": "Dataquest.io",
+                "logo": "https://media.licdn.com/dms/image/D560BAQGHdXiKs7xmBA/company-logo_400_400/0/1665086175424?e=1703721600&v=beta&t=ZMF_x4BnjUuQLZR4EyPItSHg6AP8DKyLI1akwvLB9P0",
+                "url": null
+            }
+        },
+        {
+            "name": " SQL And Databases: Advanced Course",
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Dataquest.io",
+            "url": "https://www.dataquest.io/view_cert/QS82JOCUKRTUH4MNF9HK/",
+            "license_number": null,
+            "display_source": "dataquest.io",
+            "company": {
+                "id": null,
+                "name": "Dataquest.io",
+                "logo": "https://media.licdn.com/dms/image/D560BAQGHdXiKs7xmBA/company-logo_400_400/0/1665086175424?e=1703721600&v=beta&t=ZMF_x4BnjUuQLZR4EyPItSHg6AP8DKyLI1akwvLB9P0",
+                "url": null
+            }
+        },
+        {
+            "name": " SQL And Databases: Intermediate Course",
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Dataquest.io",
+            "url": "https://www.dataquest.io/view_cert/2LTH9LRKD5TCXA0XP0GJ/",
+            "license_number": null,
+            "display_source": "dataquest.io",
+            "company": {
+                "id": null,
+                "name": "Dataquest.io",
+                "logo": "https://media.licdn.com/dms/image/D560BAQGHdXiKs7xmBA/company-logo_400_400/0/1665086175424?e=1703721600&v=beta&t=ZMF_x4BnjUuQLZR4EyPItSHg6AP8DKyLI1akwvLB9P0",
+                "url": null
+            }
+        },
+        {
+            "name": " SQL Fundamentals Course",
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Dataquest.io",
+            "url": "https://www.dataquest.io/view_cert/7THN4EUOATTR54JNTSEX/",
+            "license_number": null,
+            "display_source": "dataquest.io",
+            "company": {
+                "id": null,
+                "name": "Dataquest.io",
+                "logo": "https://media.licdn.com/dms/image/D560BAQGHdXiKs7xmBA/company-logo_400_400/0/1665086175424?e=1703721600&v=beta&t=ZMF_x4BnjUuQLZR4EyPItSHg6AP8DKyLI1akwvLB9P0",
+                "url": null
+            }
+        },
+        {
+            "name": " Storytelling Through Data Visualization Course",
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Dataquest.io",
+            "url": "https://www.dataquest.io/view_cert/2A5B5XYF2UQQM3LAMAMB/",
+            "license_number": null,
+            "display_source": "dataquest.io",
+            "company": {
+                "id": null,
+                "name": "Dataquest.io",
+                "logo": "https://media.licdn.com/dms/image/D560BAQGHdXiKs7xmBA/company-logo_400_400/0/1665086175424?e=1703721600&v=beta&t=ZMF_x4BnjUuQLZR4EyPItSHg6AP8DKyLI1akwvLB9P0",
+                "url": null
+            }
+        },
+        {
+            "name": " The Command Line Subject",
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Dataquest.io",
+            "url": "https://www.dataquest.io/view_cert/0C048SKQCTJF8P7AFDUR/",
+            "license_number": null,
+            "display_source": "dataquest.io",
+            "company": {
+                "id": null,
+                "name": "Dataquest.io",
+                "logo": "https://media.licdn.com/dms/image/D560BAQGHdXiKs7xmBA/company-logo_400_400/0/1665086175424?e=1703721600&v=beta&t=ZMF_x4BnjUuQLZR4EyPItSHg6AP8DKyLI1akwvLB9P0",
+                "url": null
+            }
+        },
+        {
+            "name": " Data Analysis Subject",
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Dataquest.io",
+            "url": "https://www.dataquest.io/view_cert/55SZGMMOVGF2D4YJL1XB/",
+            "license_number": null,
+            "display_source": "dataquest.io",
+            "company": {
+                "id": null,
+                "name": "Dataquest.io",
+                "logo": "https://media.licdn.com/dms/image/D560BAQGHdXiKs7xmBA/company-logo_400_400/0/1665086175424?e=1703721600&v=beta&t=ZMF_x4BnjUuQLZR4EyPItSHg6AP8DKyLI1akwvLB9P0",
+                "url": null
+            }
+        }
+    ],
+    "organizations": [],
+    "projects": [],
+    "publications": [],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 239341,
+                "name": "MediaMath",
+                "logo": "https://media.licdn.com/dms/image/C560BAQFQvnalHTwf_w/company-logo_400_400/0/1672998235412?e=1703721600&v=beta&t=3DcZcdZ7q-86g24uFbtaIdMsqjUWc7TcpRvJKpHDo40",
+                "url": "https://www.linkedin.com/company/mediamath/",
+                "employees": {
+                    "start": 501,
+                    "end": 1000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2023
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amsterdam, North Holland, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2023
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2023
+                        }
+                    },
+                    "company": "MediaMath",
+                    "description": null,
+                    "title": "Systems Engineer III",
+                    "employment_type": null
+                },
+                {
+                    "location": "New York, New York, United States",
+                    "date": {
+                        "start": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2020
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "MediaMath",
+                    "description": null,
+                    "title": "Site Reliability Engineer II",
+                    "employment_type": "Full-time"
+                },
+                {
+                    "location": "New York, New York, United States",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2020
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2020
+                        }
+                    },
+                    "company": "MediaMath",
+                    "description": null,
+                    "title": "Software Engineer, Rotational Prorgam",
+                    "employment_type": "Full-time"
+                },
+                {
+                    "location": "New York, NY",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2020
+                        }
+                    },
+                    "company": "MediaMath",
+                    "description": null,
+                    "title": "Senior Analyst, Trading",
+                    "employment_type": null
+                },
+                {
+                    "location": "New York, NY",
+                    "date": {
+                        "start": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "MediaMath",
+                    "description": null,
+                    "title": "Analyst, Trading",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 40813004,
+                "name": "H. Theophile",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQH7mctMMy7ttg/company-logo_400_400/0/1564420997514?e=1703721600&v=beta&t=SEWdYT5r_Y79cB97F6f4YTebR3AGYAQ5sT_GLSAeOAk",
+                "url": "https://www.linkedin.com/company/h-theophile/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "New York, NY",
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2017
+                        }
+                    },
+                    "company": "H. Theophile",
+                    "description": "Engineer and project manager for architectural hardware design projects. Interfaced with multidisciplinary teams including interior designers, architects, engineers, marketing, sales, contractors, and fabricators. Use SolidWorks to replicate antique hardware and design custom mechanisms compatible with historical pieces. Tracked and reported project milestones and provide weekly status reports to team members.",
+                    "title": "Mechanical Engineer (Freelance)",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 788690,
+                "name": "MIDI Product Development",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQEbtqmvPqkaSg/company-logo_400_400/0/1596639266119?e=1703721600&v=beta&t=Ju0ZqmmIyXiXrCKm8qoyfiSHJp4M-LyWpqaPEtD7Lks",
+                "url": "https://www.linkedin.com/company/midi-medical-product-development/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2016
+                        }
+                    },
+                    "company": "MIDI Product Development",
+                    "description": "Collaborated with industrial designers and electrical engineers to fabricate and assemble functional prototypes for client presentations. Oversaw the DFM prototyping work, contributed to final CAD models in Solidworks, and participated in cost reduction exercises. Interacted regularly with both local and international vendors to source materials and manufacturing services that best suited the project\u2019s needs.",
+                    "title": "Mechanical Design Engineer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 880525,
+                "name": "Howard L. Zimmerman Architects, P.C.",
+                "logo": "https://media.licdn.com/dms/image/C560BAQG1d0I3RCEbjg/company-logo_400_400/0/1606242718777?e=1703721600&v=beta&t=PvYF8BIle1BGWHRkgSvzIOiBrkEsnqSUJdkCtJOOGek",
+                "url": "https://www.linkedin.com/company/howard-l-zimmerman-architects/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "New York, NY",
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2013
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2015
+                        }
+                    },
+                    "company": "Howard L. Zimmerman Architects & Engineers, D.P.C.",
+                    "description": "Performed investigations on mechanical, electrical, plumbing, and fire-suppression systems for residential buildings throughout New York City. Drafted construction documents for oil-to-gas conversions, electrical service system upgrades, and cogeneration installations. Oversaw and managed construction projects through to completion.",
+                    "title": "Project Associate",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Ellman, A Cynosure Company",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Oceanside, NY",
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2012
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2012
+                        }
+                    },
+                    "company": "Ellman, A Cynosure Company",
+                    "description": "Designed complex 3D models of existing medical devices for new inventory database. Built and tested prototypes through heat treatment, strength analysis, and material compatibility.",
+                    "title": "Research and Development Intern",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 14474,
+                "name": "Cold Spring Harbor Laboratory",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQFNJcbnxo2Ggw/company-logo_400_400/0/1519856071505?e=1703721600&v=beta&t=FJLLFzUpgBfuxriYz4w3kP3Sde8cuxpvytr57cK5Yvk",
+                "url": "https://www.linkedin.com/school/cold-spring-harbor-laboratory/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2011
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Cold Spring Harbor, NY",
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2011
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2011
+                        }
+                    },
+                    "company": "Cold Spring Harbor Laboratory",
+                    "description": "Tested rodent\u2019s capacity for cooperative/competitive behavior through a rudimentary form of soccer. Designed a reward system actuated by a phototransistor to detect presence of rodent\u2019s mouth. Created a ball retrieval/dispenser system using a series of servo motors, timing belts, and gear boxes. Integrated mechanical systems with a software package using microprocessors and MATLAB.",
+                    "title": "Research Assistant",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "SolidWorks",
+        "Matlab",
+        "PowerPoint",
+        "Data Analysis",
+        "Research",
+        "Mechanical Engineering",
+        "Configuration Management",
+        "Scrum",
+        "Agile Methodologies",
+        "Microsoft Word",
+        "Solidworks",
+        "Pro Engineer",
+        "LabVIEW",
+        "Photoshop",
+        "Microsoft Office",
+        "Labview",
+        "Linux Server",
+        "Ansible",
+        "Ruby",
+        "Bash"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

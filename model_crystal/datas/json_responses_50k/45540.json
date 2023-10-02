@@ -1,0 +1,825 @@
+{
+    "profile_id": "gabrielesarti",
+    "first_name": "Gabriele",
+    "last_name": "Sarti",
+    "sub_title": "PhD Student @ University of Groningen | Explainable AI & Natural Language Generation",
+    "profile_picture": "https://media.licdn.com/dms/image/C4D03AQGTlrVqdZRuDA/profile-displayphoto-shrink_800_800/0/1519095652266?e=1701302400&v=beta&t=H_hI_9qVJfJpN8RYZJFBU4W4OoFD526RO4OcMlmkfHk",
+    "background_image": "https://media.licdn.com/dms/image/C5616AQF87W6pFFmvXg/profile-displaybackgroundimage-shrink_350_1400/0/1517808731734?e=1701302400&v=beta&t=QYru6iVGslya045RSOpjtjgSxGJg7bMOwTSvagkrgJo",
+    "profile_type": "personal",
+    "entity_urn": "ACoAABvpbLoBfWW8ANxjlLuRSIw96lecb2Uzs_I",
+    "object_urn": 468282554,
+    "birth_date": null,
+    "summary": "As a PhD student at the University of Groningen, I work on developing new methods to advance our  understanding of generative language models and, more importantly, putting our new knowledge to work to improve human-AI interaction. I focus in particular on machine translation applications, since the interaction between automatic translation systems and human post-editors is a promising testbed for my studies.\n\nI previously completed a master's degree in data science at the University of Trieste, with a thesis on using human gaze tracking data to adjust natural language processing systems to human preferences. I have published several papers on deep learning and NLP at international venues such as ACL and EMNLP, and I had the chance of applying my knowledge in industrial settings at the synthetic data startup Aindo and Amazon AWS AI Labs. I am passionate about positive social applications of new technologies, and an advocate for good software development practices and open source collaboration.",
+    "location": {
+        "country": null,
+        "short": "Netherlands",
+        "city": null,
+        "state": null,
+        "default": "Netherlands"
+    },
+    "premium": true,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            },
+            {
+                "country": "FR",
+                "language": "fr"
+            },
+            {
+                "country": "IT",
+                "language": "it"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "English",
+                "proficiency": "FULL_PROFESSIONAL"
+            },
+            {
+                "name": "French",
+                "proficiency": "FULL_PROFESSIONAL"
+            },
+            {
+                "name": "Italian",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "Spanish",
+                "proficiency": "LIMITED_WORKING"
+            }
+        ]
+    },
+    "industry": "Research",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2025
+                }
+            },
+            "school": {
+                "name": "University of Groningen",
+                "logo": "https://media.licdn.com/dms/image/C560BAQHjFD1KsBlUnQ/company-logo_400_400/0/1519868080428?e=1703721600&v=beta&t=ibr9rujnIcZokKKBnQd60TZXHnVytrrpVhwxed_gkrk",
+                "url": "https://www.linkedin.com/school/rijksuniversiteit-groningen/"
+            },
+            "degree_name": "Doctor of Philosophy - PhD",
+            "field_of_study": "Natural Language Processing",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "school": {
+                "name": "Universit\u00e0 degli Studi di Trieste",
+                "logo": "https://media.licdn.com/dms/image/D4D0BAQGBGxto2zp_KQ/company-logo_400_400/0/1682520016309?e=1703721600&v=beta&t=GzKuc5fX4Fw-S-Kb3ZYp1XfwhBHS5HmCwvefXJX8XGU",
+                "url": "https://www.linkedin.com/school/universitadeglistudiditrieste/"
+            },
+            "degree_name": "Master of Science (MSc.)",
+            "field_of_study": "Data Science and Scientific Computing",
+            "grade": "110 Cum Laude"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "school": {
+                "name": "C\u00e9gep de Saint-Hyacinthe",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQHThEKXrq9YMQ/company-logo_400_400/0/1538407009569?e=1703721600&v=beta&t=aC1aw3ZOaR0xuVrngsjdrzJAUEEeYt7FAUG4UQLMnTM",
+                "url": "https://www.linkedin.com/school/cegepsainthyacinthe/"
+            },
+            "degree_name": "Collegial Studies Degree (DEC)",
+            "field_of_study": "Management Informatics",
+            "grade": "Valedictorian 2018, R Score: 34"
+        }
+    ],
+    "patents": [],
+    "awards": [
+        {
+            "title": "Language Technology Innovation Research Grant",
+            "description": "20,000 \u20ac research grant to fund a user study evaluating the effectiveness of word-level quality highlights in improving the productivity of machine translation post-editors.",
+            "issuer": "Imminent - Translated Research Center",
+            "date": {
+                "month": 6,
+                "day": null,
+                "year": 2023
+            }
+        },
+        {
+            "title": "eScience Center Fellowship",
+            "description": "2,000 \u20ac fellowship towards further development and promotion of the Inseq interpretability library",
+            "issuer": "Netherlands eScience Center",
+            "date": {
+                "month": 6,
+                "day": null,
+                "year": 2023
+            }
+        },
+        {
+            "title": "Best Master's Thesis Award \"Emanuele Pianta\"",
+            "description": "Yearly award for the best master's thesis in computational linguistics and natural language processing discussed in an Italian university.",
+            "issuer": "Associazione Italiana di Linguistica Computazionale",
+            "date": {
+                "month": 7,
+                "day": null,
+                "year": 2022
+            }
+        },
+        {
+            "title": "Winner of the PiSchool HackParty W21 AI Challenge",
+            "description": "The HackParty is organized by\u00a0Pi Campus, a venture capital firm investing in early-stage AI startups. Winner of the competition among more than 60 participants.",
+            "issuer": "Pi School",
+            "date": {
+                "month": 12,
+                "day": null,
+                "year": 2021
+            }
+        },
+        {
+            "title": "Valedictorian of Information Technology Management cohort of 2018",
+            "description": "Award for obtaining the best academic results between all students in the 2018 cohort of IT Management at C\u00e9gep of Saint-Hyacinthe.",
+            "issuer": "C\u00e9gep de Saint-Hyacinthe",
+            "date": {
+                "month": 11,
+                "day": null,
+                "year": 2018
+            }
+        },
+        {
+            "title": "Excellence Scolarship for Data Science Students",
+            "description": "Excellence admission scholarship awarded by the International School of Advanced Studies to outstanding candidates for the MSc. in Data Science and Scientific Computing in collaboration with University of Trieste.",
+            "issuer": "International School of Advanced Studies (SISSA)",
+            "date": {
+                "month": 10,
+                "day": null,
+                "year": 2018
+            }
+        },
+        {
+            "title": "Hydro-Qu\u00e9bec Persistence Scolarship for IT Students",
+            "description": "Scolarship awarded to IT students who proved their perseverance and dedication to learning throughout their collegial degree.",
+            "issuer": "Hydro-Qu\u00e9bec",
+            "date": {
+                "month": 3,
+                "day": null,
+                "year": 2016
+            }
+        }
+    ],
+    "certifications": [],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "Inseq: An Interpretability Toolkit for Sequence Generation Models",
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "description": "Inseq is a Python library aimed at democratizing the access to post-hoc interpretability of generative language models.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Gabriele",
+                    "last_name": "Sarti",
+                    "name": null,
+                    "headline": "PhD Student @ University of Groningen | Explainable AI & Natural Language Generation"
+                }
+            ]
+        },
+        {
+            "title": "COVID-19 Semantic Browser",
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "description": "Development of a web platform to perform an effective semantic search of COVID-19 related publications, in collaboration with the Italian Association for Computational Linguistics and the Area Science Park of Trieste.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Gabriele",
+                    "last_name": "Sarti",
+                    "name": null,
+                    "headline": "PhD Student @ University of Groningen | Explainable AI & Natural Language Generation"
+                }
+            ]
+        },
+        {
+            "title": "Italo Svevo Letter Corpus Analysis",
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "description": "In collaboration with Cristina Fenu from Biblioteca Civica Attilio Hortis of Trieste and professor Eric Medvet, head of the Machine Learning Lab of University of Trieste, I performed topic modeling and sentiment analysis on the multilingual epistolary corpus of Italo Svevo, one of the great Italian authors of the twentieth century.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Gabriele",
+                    "last_name": "Sarti",
+                    "name": null,
+                    "headline": "PhD Student @ University of Groningen | Explainable AI & Natural Language Generation"
+                }
+            ]
+        }
+    ],
+    "publications": [
+        {
+            "name": "Publication List",
+            "publisher": "ORCID",
+            "url": "https://orcid.org/0000-0001-8715-2987",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": null
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Gabriele",
+                    "last_name": "Sarti",
+                    "name": null,
+                    "headline": "PhD Student @ University of Groningen | Explainable AI & Natural Language Generation"
+                }
+            ]
+        }
+    ],
+    "courses": [
+        {
+            "name": "Advanced Programming and Algorithmic Design",
+            "number": null
+        },
+        {
+            "name": "Cyber-physical Systems and Reinforcement Learning",
+            "number": null
+        },
+        {
+            "name": "Data Management and Big Data",
+            "number": null
+        },
+        {
+            "name": "Foundations of High Performance Computing",
+            "number": null
+        },
+        {
+            "name": "Information Retrieval and Data Visualization",
+            "number": null
+        },
+        {
+            "name": "Machine Learning and Data Analytics",
+            "number": null
+        },
+        {
+            "name": "Natural Language Processing",
+            "number": null
+        },
+        {
+            "name": "Numerical Analysis",
+            "number": null
+        },
+        {
+            "name": "Social Network Analysis",
+            "number": null
+        },
+        {
+            "name": "Statistical Machine Learning",
+            "number": null
+        },
+        {
+            "name": "Statistical Methods for Data Science",
+            "number": null
+        }
+    ],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 165742,
+                "name": "University of Groningen",
+                "logo": "https://media.licdn.com/dms/image/C560BAQHjFD1KsBlUnQ/company-logo_400_400/0/1519868080428?e=1703721600&v=beta&t=ibr9rujnIcZokKKBnQd60TZXHnVytrrpVhwxed_gkrk",
+                "url": "https://www.linkedin.com/school/rijksuniversiteit-groningen/",
+                "employees": {
+                    "start": 5001,
+                    "end": 10000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Groningen, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "University of Groningen",
+                    "description": "Part of the NWO-funded project \"InDeep: Interpreting Deep Learning Models for Text and Sound\". Project focusing on user-centric interpretability perspectives for neural machine translation. Supervisors: Arianna Bisazza, Malvina Nissim and Grzegorz Chrupa\u0142a.",
+                    "title": "Doctoral Researcher",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 2382910,
+                "name": "Amazon Web Services (AWS)",
+                "logo": "https://media.licdn.com/dms/image/C560BAQER_QnUTXrPJw/company-logo_400_400/0/1670264050886?e=1703721600&v=beta&t=3IYmCjBx7-RbiHOyhmKp9bX_etnAR2mcOn2MncQL5u0",
+                "url": "https://www.linkedin.com/company/amazon-web-services/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "New York, United States",
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "Amazon Web Services (AWS)",
+                    "description": "Summer internship in the Amazon Translate team. Manager: Georgiana Dinu. Research project on prompting large multilingual language models for attribute-controlled machine translation.",
+                    "title": "Applied Scientist Intern",
+                    "employment_type": "Internship"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 19100891,
+                "name": "Aindo",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQE6AQwQGu2vJQ/company-logo_400_400/0/1652698079671?e=1703721600&v=beta&t=YwVAyTUvPs-I6k9YmLB7eLsOj2F7IZwSZMmCWHfmplg",
+                "url": "https://www.linkedin.com/company/aindo/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Trieste, Friuli-Venezia Giulia, Italy",
+                    "date": {
+                        "start": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2020
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2021
+                        }
+                    },
+                    "company": "Aindo",
+                    "description": "Research and development of innovative approaches in artificial intelligence. Worked on development, performance assessment, productionization and optimization for the following projects:\n- Structured predictions for the biomedical domain using Transformers for sequence-to-sequence question answering.\n- Experimental work in cross-linguistic transfer to Italian for pre-trained neural language models.\n- Temporally-aware multi-interaction neural recommender systems for online clothes resellers.\n- Graph and attention-based neural networks for molecular synthesis and molecular properties prediction.\n- Controllable sketch-to-image synthesis for the fashion industry.",
+                    "title": "Research Scientist",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1001172,
+                "name": "Institute of Computational Linguistics \"Antonio Zampolli\" - CNR",
+                "logo": "https://media.licdn.com/dms/image/D4D0BAQGuXdxmoTLszQ/company-logo_400_400/0/1683613289938?e=1703721600&v=beta&t=yQtlrQg0iBMFL7akpZ7UBaHfv0PQdk70uA9Rii3Yy4o",
+                "url": "https://www.linkedin.com/company/cnr-ilc-national-research-council-institute-of-computational-linguistics-antonio-zampolli/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Pisa, Tuscany, Italy",
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "Cnr-Istituto di Linguistica Computazionale \u201cAntonio Zampolli\u201d",
+                    "description": "Working within the ItaliaNLP Lab on applications of machine learning and deep learning to psycholinguistics, with a focus on augmenting systems used to detect linguistic complexity with human cognitive data to improve their performances.",
+                    "title": "Research Assistant in Natural Language Processing",
+                    "employment_type": "Internship"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 2460627,
+                "name": "Skytech Communications",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQGLiVMYz2cpsA/company-logo_400_400/0/1623782700770?e=1703721600&v=beta&t=NCnW9sH7Igj8BB9iPNEI4snkMewtoJGy6RvW8c8gwng",
+                "url": "https://www.linkedin.com/company/skytech-communications/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Montreal, Quebec, Canada",
+                    "date": {
+                        "start": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2018
+                        }
+                    },
+                    "company": "Skytech Communications",
+                    "description": "Creation of a convolutional neural network (CNN) for recognizing handwritten characters to improve the performance of a software platform used for automatic document archiviation. This platform is currently in use for the digitalization of archives in many international academic institutions.\n\nDevelopment of a software platform using sentiment analysis techniques in order to highlight inappropriate comments made by University of Montreal students in their evaluation forms to improve the quality of professors' feedback.",
+                    "title": "Machine Learning Intern",
+                    "employment_type": "Internship"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 10073110,
+                "name": "CTT Group",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQGzC9uuJpUvwQ/company-logo_400_400/0/1630602510413?e=1703721600&v=beta&t=5EWaU6GH7Log-MtjGSSarZAytiaNCtK_uDHZmtgMR3I",
+                "url": "https://www.linkedin.com/company/gcttg/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Saint-Hyacinthe, Quebec, Canada",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2017
+                        }
+                    },
+                    "company": "CTT Group",
+                    "description": "Optimization, debugging and development of an ASP.NET MVC website written in C# linked to a Microsoft SQL relational database. This website is used to manage research center's organizational aspects.",
+                    "title": "Research Assistant Intern",
+                    "employment_type": "Part-time"
+                },
+                {
+                    "location": "Saint-Hyacinthe, Quebec, Canada",
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2016
+                        }
+                    },
+                    "company": "CTT Group",
+                    "description": "Design and development of a verification procedure for a new software used for validating lab analysis on textile and geosynthetic products. Macro creation and Visual Basic programming for Microsoft Excel.",
+                    "title": "Research Assistant Intern",
+                    "employment_type": "Part-time"
+                },
+                {
+                    "location": "Saint-Hyacinthe, Qu\u00e9bec, Canada",
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2016
+                        }
+                    },
+                    "company": "CTT Group",
+                    "description": "Optimization and development of a C++ controller software for the production of tridimensional multi-layered textile products for the aeronautic industry.",
+                    "title": "Research Assistant Intern",
+                    "employment_type": "Part-time"
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [
+        {
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2023
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "role": "Research and Upskilling Coordinator",
+            "company": {
+                "id": null,
+                "name": "AI Safety Initiative Groningen",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQFmUu27pi1Zxw/company-logo_400_400/0/1679153546683?e=1703721600&v=beta&t=RJ9N40MRkNfqnyycJaOfVITwdftscEH0JQ8vSba5p7c",
+                "url": "https://www.linkedin.com/company/aisig/"
+            },
+            "cause": "EDUCATION",
+            "description": "Responsible for the organization of AI Safety Gatherings"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "role": "Pi School of AI Mentor",
+            "company": {
+                "id": null,
+                "name": "Pi School",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQHWicuAr31Q5w/company-logo_400_400/0/1519911394556?e=1703721600&v=beta&t=pbLqCOqVgVvuAMMIJBrsOB4qbAcP0xv0wf1x_Rk_RE0",
+                "url": "https://www.linkedin.com/school/pischool/"
+            },
+            "cause": "SCIENCE_AND_TECHNOLOGY",
+            "description": "Advising Priyanshu Sinha and Daniele Pace on relevant literature and state-of-the-art methods in the field of semantic search and keywords extraction for the project \"A computer-assisted query constructor for Enhancing Innovation Processes\" funded by Innovation Engineering."
+        },
+        {
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "role": "Communication Team Member",
+            "company": {
+                "id": null,
+                "name": "AILC - Associazione Italiana di Linguistica Computazionale",
+                "logo": "https://media.licdn.com/dms/image/C560BAQFny3qHzGx4Bg/company-logo_400_400/0/1582233568799?e=1703721600&v=beta&t=2cfsDkEFna07VtTtyySSOUGVsE0LAMS_jkOJ3dsznMM",
+                "url": "https://www.linkedin.com/company/ailc-associazione-italiana-di-linguistica-computazionale/"
+            },
+            "cause": "EDUCATION",
+            "description": "Promote the field of computational linguistics at local and national scientific festivals (e.g. Bergamo Scienza, European Science Open Forum 2020, etc.) through presentations and interactive demonstrations."
+        },
+        {
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "role": "Founder and Executive Committee Member",
+            "company": {
+                "id": null,
+                "name": "AI Student Society (AI2S)",
+                "logo": "https://media.licdn.com/dms/image/C560BAQEsGdZO5FBiZA/company-logo_400_400/0/1583493107829?e=1703721600&v=beta&t=F3Fz0p2S6t2vVk4pIC1oRN3Y2_scman1qA-GN4eRoBU",
+                "url": "https://www.linkedin.com/company/ai-student-society/"
+            },
+            "cause": "SCIENCE_AND_TECHNOLOGY",
+            "description": "Founder of the first nonprofit association in the Friuli-Venezia Giulia region for students in the fields of Data Science and AI. Aims: creating a thriving and engaged community of students, fostering their professional growth through collaborative learning and connecting them to experts and institutions operating in AI-related domains."
+        },
+        {
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "role": "Volounteer",
+            "company": {
+                "id": null,
+                "name": "AFS Intercultural Programs",
+                "logo": "https://media.licdn.com/dms/image/D4D0BAQE7K1rsMVR8JA/company-logo_400_400/0/1688379383033?e=1703721600&v=beta&t=ETO5bKE0wsVpI8wTVpSfZkItQ3oYNxT9hpTXf0UIHUM",
+                "url": "https://www.linkedin.com/company/afs-intercultural-programs/"
+            },
+            "cause": "EDUCATION",
+            "description": "Volounteering for AFS Interculture Canada and AFS Interculture Italy. Held the position of Student Program Coordinator for the Intercultura Trieste in 2019-2020."
+        },
+        {
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "role": "Executive Committee Member",
+            "company": {
+                "id": null,
+                "name": "C\u00e9gep of Saint-Hyacinthe Student Union (R\u00c9\u00c9CSH)",
+                "logo": "https://media.licdn.com/dms/image/C510BAQFpNPmKrGtreQ/company-logo_400_400/0/1519907267732?e=1703721600&v=beta&t=G2AzwqHsk6EalP6oggPxGsEAK-cNChbKT0qKMAFWHVE",
+                "url": "https://www.linkedin.com/company/reecsh/"
+            },
+            "cause": "SOCIAL_SERVICES",
+            "description": "Positions: Sociopolitical Affairs Coordinator ('16-'17) and President ('17-'18). \nSpokesperson for C\u00e9gep de Saint-Hyacinthe students. Coordination of the work of the executive team, supervision of questions concerning members, chairman of the assembly of the executive council and the administrative board. Student member of the administrative board of the C\u00e9gep of Saint-Hyacinthe. Managing a yearly budget of roughly 200'000 CA$ for student rights, services and social initiatives."
+        }
+    ],
+    "skills": [
+        "Explainable AI",
+        "Scientific Writing",
+        "Project Planning",
+        "Natural Language Processing (NLP)",
+        "Machine Learning",
+        "Software Development",
+        "Social Media Communications",
+        "Data Analysis",
+        "Web Development",
+        "Debugging",
+        "Testing",
+        "Optimization",
+        "Computer Science",
+        "Agile Methodologies",
+        "Deep Learning",
+        "Artificial Intelligence (AI)",
+        "Data Mining",
+        "Computer Vision",
+        "Statistics",
+        "C++"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

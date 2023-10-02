@@ -1,0 +1,362 @@
+{
+    "profile_id": "m1v1savva",
+    "first_name": "Ivan",
+    "last_name": "Poliakov",
+    "sub_title": "Recent bachelor's graduate | Development and ML | C++, Python, Java, React",
+    "profile_picture": "https://media.licdn.com/dms/image/D4E03AQHKC_Lv6GXYjg/profile-displayphoto-shrink_800_800/0/1689470622868?e=1701302400&v=beta&t=bCa6zwDKjOFGBXMikzaoBOlrChO6LoZHA-fW8ZPIzQE",
+    "background_image": "https://media.licdn.com/dms/image/D5616AQHuIojSsGW6XA/profile-displaybackgroundimage-shrink_350_1400/0/1691582856584?e=1701302400&v=beta&t=EU5bsDSmOEe_upIO_qTbXiir_lANuLRFxjQOuDjLwaU",
+    "profile_type": "personal",
+    "entity_urn": "ACoAAC3pBvQB_HOu0tANKxf5vNTv0q9mxqw7_O4",
+    "object_urn": 770246388,
+    "birth_date": null,
+    "summary": "https://m1v1savva.github.io/ - for github and CV\n\nOpen to work in EU. \n\nI was born in Moscow and moved to Maastricht in 2019 to pursue bachelor`s degree in Data Science and Artificial Intelligence in Maastricht University. In December 2022 I completed my degree and I am now looking for a job in tech. \n\nEven though my degree emphasized Artificial Intelligence I am just as excited about debugging threads for hours in Java or writing piles of CSS. Hence, I would love to take on a SWE position as much as MLE.",
+    "location": {
+        "country": "Netherlands",
+        "short": "Maastricht, Limburg",
+        "city": "Maastricht",
+        "state": "Limburg",
+        "default": "Maastricht, Limburg, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            },
+            {
+                "country": "RU",
+                "language": "ru"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "English",
+                "proficiency": "FULL_PROFESSIONAL"
+            },
+            {
+                "name": "Russian",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ]
+    },
+    "industry": "Program Development",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "school": {
+                "name": "Maastricht University",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQFA1gR1FvG8aQ/company-logo_400_400/0/1588059465102?e=1703721600&v=beta&t=5E9Moi4Han_VxrPz2BT0jDZmVl8Q-Rn0ESe1JTXGjLA",
+                "url": "https://www.linkedin.com/school/maastricht-university/"
+            },
+            "degree_name": "Bachelor's degree",
+            "field_of_study": "Data Science and Knowledge Engineering",
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "Chesslines",
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "description": "My pet project - a hands-on attempt to learn React.js and build a website for keeping one's chess opening repertoire (for all the chess nerds). I have been busy with studies, part-time work and job search, so I have not worked on it as much as I would like to but a lot of functionality is already there.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Ivan",
+                    "last_name": "Poliakov",
+                    "name": null,
+                    "headline": "Recent bachelor's graduate | Development and ML | C++, Python, Java, React"
+                }
+            ]
+        },
+        {
+            "title": "pentomino tetris",
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "description": "A team project from my year 1 bachelor's studies. I loved the challenge and got quite invested. Our team built a solid Java app with a neat UI, a well-tested tetris game (built on query processing to avoid animation lags) and a strong AI powered by a genetic algorithm.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Ivan",
+                    "last_name": "Poliakov",
+                    "name": null,
+                    "headline": "Recent bachelor's graduate | Development and ML | C++, Python, Java, React"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Nico",
+                    "last_name": "G.",
+                    "name": null,
+                    "headline": "MEng student in Computer Science"
+                }
+            ]
+        },
+        {
+            "title": "mini renderer",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "description": "This was an educational project as I followed an article on building a simplified OpenGL from scratch. This project introduced me to OOP side of C++ as I mostly have been using it for competitive programming.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Ivan",
+                    "last_name": "Poliakov",
+                    "name": null,
+                    "headline": "Recent bachelor's graduate | Development and ML | C++, Python, Java, React"
+                }
+            ]
+        }
+    ],
+    "publications": [],
+    "courses": [
+        {
+            "name": "Calculus",
+            "number": null
+        },
+        {
+            "name": "Computational and Cognitive Neuroscience",
+            "number": null
+        },
+        {
+            "name": "Computer Security",
+            "number": null
+        },
+        {
+            "name": "Data Analysis",
+            "number": null
+        },
+        {
+            "name": "Data Structures and Algorithms",
+            "number": null
+        },
+        {
+            "name": "Databases",
+            "number": null
+        },
+        {
+            "name": "Discrete Maathematics",
+            "number": null
+        },
+        {
+            "name": "Econometric Methods I",
+            "number": null
+        },
+        {
+            "name": "Graph Theory",
+            "number": null
+        },
+        {
+            "name": "Human Computer Interaction & Affective Computing",
+            "number": null
+        },
+        {
+            "name": "ICT and Knowledge Management",
+            "number": null
+        },
+        {
+            "name": "Intelligent Systems",
+            "number": null
+        },
+        {
+            "name": "Introduction to Bio-Informatics",
+            "number": null
+        },
+        {
+            "name": "Introduction to Computer Science 1",
+            "number": null
+        },
+        {
+            "name": "Introduction to Computer Science 2",
+            "number": null
+        },
+        {
+            "name": "Introduction to Data Science and Knowledge Engineering",
+            "number": null
+        },
+        {
+            "name": "Introduction to Image & Video Processing",
+            "number": null
+        },
+        {
+            "name": "Introduction to Quantum Computing",
+            "number": null
+        },
+        {
+            "name": "Linear Algebra",
+            "number": null
+        },
+        {
+            "name": "Linear Programming",
+            "number": null
+        }
+    ],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": null,
+                "name": null,
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": null,
+                    "description": "Some of my students wanted to do competitive programming, some wanted to pass a job interview, an exam, etc. Generally it took a form of either a live-coding session (leetcode, codeforces) or an interactive lecture. Overall I worked with everyone from experienced developers to eleven year olds, both groups and individuals. Some of it was in private but most of connections came from fiverr, some resulting in months-long partnerships.",
+                    "title": "Competitive programming coach",
+                    "employment_type": "Self-employed"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Garant",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Moscow (remote)",
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2021
+                        }
+                    },
+                    "company": "Garant",
+                    "description": "Garant is one the first platforms providing mass legal referencing in Russia. I worked there as a part-time engineer to gain experience while pursuing the bachelor's degree. I was assigned to a small NLP team and was primarily developing one of the search models for the FAQ database.",
+                    "title": "NLP engineer",
+                    "employment_type": "Part-time"
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Graph Theory",
+        "Natural Language Processing (NLP)",
+        "PyTorch",
+        "TensorFlow",
+        "Geometry",
+        "Java Swing",
+        "React.js",
+        "MongoDB",
+        "Flask",
+        "Data Analysis",
+        "Generative Adversarial Networks (GANs)",
+        "Machine Learning",
+        "Linear Programming",
+        "Algorithms",
+        "Data Structures",
+        "Java",
+        "C++",
+        "Python"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

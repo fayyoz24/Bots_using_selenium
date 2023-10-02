@@ -1,0 +1,584 @@
+{
+    "profile_id": "prakyathpn",
+    "first_name": "Prakyath",
+    "last_name": "Pindi Nataraj",
+    "sub_title": "PhD Student | Computational Aeroacoustics | DTU Wind and Energy Systems",
+    "profile_picture": "https://media.licdn.com/dms/image/C5103AQGgiFi1125XlQ/profile-displayphoto-shrink_800_800/0/1583600093424?e=1701302400&v=beta&t=_PbY-nr9nlZhKQzLWdUnlZPwwtYrbrNNWz1Cz5dJImY",
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAACMslZ8Bk0yhGWdTqnH742X3ehatN71rK4k",
+    "object_urn": 590124447,
+    "birth_date": null,
+    "summary": "I'm well versed in the theoretical concepts of numerical methods and CFD. I have used this competence to solve and analyse problems in the domain of lubrication, unsteady aerodynamics (subsonic and supersonic cases) and aeroacoustics. I find this domain of work very engaging and am always eager to learn more by solving some challenging problems.",
+    "location": {
+        "country": "Denmark",
+        "short": "Copenhagen, Capital Region",
+        "city": "Copenhagen",
+        "state": "Capital Region",
+        "default": "Copenhagen, Capital Region, Denmark"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "Dutch",
+                "proficiency": "PROFESSIONAL_WORKING"
+            },
+            {
+                "name": "English",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "German",
+                "proficiency": "PROFESSIONAL_WORKING"
+            },
+            {
+                "name": "Hindi",
+                "proficiency": "PROFESSIONAL_WORKING"
+            },
+            {
+                "name": "Kannada",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "Telugu",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ]
+    },
+    "industry": "Research",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "school": {
+                "name": "University of Twente",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQGlJy8j9vKdjA/company-logo_400_400/0/1533909472654?e=1703721600&v=beta&t=bKpiljO1A-RW4XDZMlQXM9J7YnPza1KG8jLvYitpPTI",
+                "url": "https://www.linkedin.com/school/university-of-twente/"
+            },
+            "degree_name": "Master of Science - MS",
+            "field_of_study": "Mechanical Engineering | Specialization : Thermal and Fluids Engineering ",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "school": {
+                "name": "Bangalore Institute of Technology",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQFzpCTD569Dgw/company-logo_400_400/0/1625034820032?e=1703721600&v=beta&t=pY4q2J4UXWWTm6ilZtWT0u0iNpc5ymJ7Uptr7VWL7xY",
+                "url": "https://www.linkedin.com/school/bitsince1979/"
+            },
+            "degree_name": "Bachelor of Engineering",
+            "field_of_study": "Mechanical Engineering",
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "Process equipment design for converting CO2 captured in flue gases to formic acid",
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "description": "\u2022\tDefined operating conditions and design constraints of a shell\u2013and\u2013tube heat exchanger, a methanol recovery distillation column and a multi-stage feed compressor.\n\u2022\tDeveloped an iterative process in MATLAB to determine impeller dimensions and optimise intercooling positions of the feed compressor.\n\u2022\tUpon deciding on fluid allocation, flow configuration and tube arrangements, an iterative workflow was developed on MATLAB to calculate the shell and tube dimensions, heat transfer coefficients and areas.\n\u2022\tVerified the mechanical soundness of the designed equipment on buckling, flow-induced vibrations and bending.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Prakyath",
+                    "last_name": "Pindi Nataraj",
+                    "name": null,
+                    "headline": "PhD Student | Computational Aeroacoustics | DTU Wind and Energy Systems"
+                }
+            ]
+        },
+        {
+            "title": "Series of mini-projects in a course on turbulent combustion",
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "description": "\u2022\tModelled a T junction in Ansys CFX in which hot and cold streams are mixed. Analysed the frequency and wavenumber spectra of different turbulent flow variables and interpreted their evolution in the flowfield.\n\u2022\tCalculated the chemical equilibrium of natural gas combustion in CANTERA and investigated the effect of air to fuel ratio on the adiabatic flame temperature of dry and wet fuel compositions.\n\u2022\tInvestigated with CANTERA, a freely propagating laminar flame for the combustion of methane for varying air to fuel ratios. Temperature, density and species concentration variation were plotted and analysed. Damkohler and Lewis numbers were determined.\n\u2022\tInvestigated two dump combustor configurations in Ansys CFX with different combustion modelling approaches for premixed and non\u2013premixed combustion regimes. Compared the combustor configurations and combustion models based on combustion regime maps, contours of flowfield and turbulent flow variables.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Prakyath",
+                    "last_name": "Pindi Nataraj",
+                    "name": null,
+                    "headline": "PhD Student | Computational Aeroacoustics | DTU Wind and Energy Systems"
+                }
+            ]
+        },
+        {
+            "title": "Conceptual design of an electric VTOL air-taxi",
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "description": "Conceptual design of a five-seater aircraft (UAM) for a given maximum take of weight, ceiling, global dimensions and cruise speed requirements. Led the aerodynamic design activities of the team.\n\n\u2022\tA canard wing configuration was chosen with distributed electric propulsion. \n\u2022\tDesigned and dimensioned the planforms and chose airfoil profiles for wings, stabilizers and control surfaces by considering aerodynamic efficiency, structural allowance, and longitudinal and lateral stability.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Prakyath",
+                    "last_name": "Pindi Nataraj",
+                    "name": null,
+                    "headline": "PhD Student | Computational Aeroacoustics | DTU Wind and Energy Systems"
+                }
+            ]
+        },
+        {
+            "title": "A sustainable energy power system for the city of Ambon",
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "description": "\u2022\tDetermining the share of biomass, geothermal, solar and wind energy systems.\n\u2022\tEstimated and characterised the variability of the local wind resource based on available wind data. Selected a suitable site and constituent wind turbines for an onshore wind farm. \n\u2022\tProposed a conceptual design of a cooling system based on the vapour compression refrigeration cycle to meet peak cold water requirements. \n\u2022\tMade Sankey and Grassmann diagrams for constituent energy systems and the complete system.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Prakyath",
+                    "last_name": "Pindi Nataraj",
+                    "name": null,
+                    "headline": "PhD Student | Computational Aeroacoustics | DTU Wind and Energy Systems"
+                }
+            ]
+        }
+    ],
+    "publications": [],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 10786279,
+                "name": "DTU Wind and Energy Systems",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQE3rcFlIf6_YA/company-logo_400_400/0/1610960966023?e=1703721600&v=beta&t=tB7FhVmhKeeKGxDEst2dNMWQSO3xGnCoEOWdb014g0Y",
+                "url": "https://www.linkedin.com/company/dtuwindenergy/",
+                "employees": {
+                    "start": 201,
+                    "end": 500
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Roskilde, Zealand, Denmark",
+                    "date": {
+                        "start": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "DTU Wind and Energy Systems",
+                    "description": null,
+                    "title": "PHD Student",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 3614,
+                "name": "TNO",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQEaTotk9sLG7g/company-logo_400_400/0/1695809327920?e=1703721600&v=beta&t=8EjtZcRsl5ttgTkc-2KiFw6XoyZDIUB_vl9Ei_gb1Ik",
+                "url": "https://www.linkedin.com/company/tno/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Petten, North Holland, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "TNO",
+                    "description": "TNO Energy Transition | Wind Energy Research\n\n-\tPreformed DDES simulations of airfoil sections with SU2.\n- \tAdapted a python workflow based on the 1A FW-H integral solution for analytically transporting the noise to the farfield. The acoustic solver was successfully validated, and a permeable FW-H data surface was also implemented.\n- \tUsing tools like Paraview and associated modules of pvpython/pvbatch to get flow-field and aerodynamic data for further frequency domain analysis and acoustic post-processing. \n- \tExplored the use of roughness models to mimic experimental boundary layer tripping.\n- \tManuscript in preparation for AIAA SciTech 2023.",
+                    "title": "Graduate Student",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 7896,
+                "name": "BorgWarner Inc.",
+                "logo": "https://media.licdn.com/dms/image/D560BAQELDkH4Yz0Sow/company-logo_400_400/0/1685962519288?e=1703721600&v=beta&t=uhGSjE4SJ4gCXzDwSaTo82d5GLaUZcTJhAnafKRHRUA",
+                "url": "https://www.linkedin.com/company/borgwarner/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Kirchheimbolanden, Rhineland-Palatinate, Germany",
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2020
+                        },
+                        "end": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2021
+                        }
+                    },
+                    "company": "BorgWarner",
+                    "description": "Borgwarner Turbosystems and Engineering GmbH | Bearing, Seals and NVH\n\n- Carrying out finite element analyses of dynamic fluid films of turbocharger thrust and journal bearings.\n- Determining bearing parameters such as power loss, leakage flows and bearing forces to aid further design and analysis.\n- Automated pre-processing, solver and post-processing tasks in the COMSOL environment and created a holistic thrust bearing application in the COMSOL application builder environment.\n- Gained insights into the influence of the lubricating action of the oil films on the rotordynamic response of the turbocharger.",
+                    "title": "Mechanical Engineering Intern",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 166686,
+                "name": "University of Twente",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQGlJy8j9vKdjA/company-logo_400_400/0/1533909472654?e=1703721600&v=beta&t=bKpiljO1A-RW4XDZMlQXM9J7YnPza1KG8jLvYitpPTI",
+                "url": "https://www.linkedin.com/school/university-of-twente/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Enschede Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2020
+                        },
+                        "end": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2020
+                        }
+                    },
+                    "company": "University of Twente",
+                    "description": "Faculty of Engineering Technology | Engineering Fluid Dynamics research group\n\n- Worked as a teaching assistant for a Bachelor's course on Fluid Mechanics and Heat transfer.\n- Redesigned and improved an existing project on Aircraft Anti-Icing Systems. Care was taken to include a fundamental conceptual analysis of existing anti-icing systems.\n- Set up a proof of concept of a new Wind Tunnel experiment on Icing Scale Droplet visualisation.\n- Supervised two groups of students by clearing their doubts about applying basic concepts of Fluid Mechanics and Heat Transfer and helped them design a basic aircraft anti-icing system.\n- Evaluation of assignments and oral exams.",
+                    "title": "Teaching Assistant",
+                    "employment_type": "Part-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 14409445,
+                "name": "Elecnovo Private Limited ",
+                "logo": "https://media.licdn.com/dms/image/C510BAQHxOvplMV3dYw/company-logo_400_400/0/1532444703932?e=1703721600&v=beta&t=biOgSBivX5Uz6bI16aVWpLiKe5AhW_6mYcpgTGaf6mw",
+                "url": "https://www.linkedin.com/company/elecnovo-private-limited/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Bengaluru, Karnataka, India",
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "Elecnovo Private Limited",
+                    "description": "- Creating conceptual designs of stator and rotor sub-assembly parts for two and three-wheeler PMSM and PMDC motors.\n- Making production drawings and assembly drawings.\n- Collaborating with suppliers to understand their capabilities and make the designed components manufacturable.\n- Liaising with third parties for manufacturing, production and procurement of components for prototyping.\n- Actively involved in prototyping, assembly and testing the designed motors.",
+                    "title": "Mechanical Design Engineer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Team Kratos Racing",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Bangalore",
+                    "date": {
+                        "start": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2014
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2018
+                        }
+                    },
+                    "company": "Team Kratos Racing",
+                    "description": "\u2022\tWon the NKRC Indian Karting Race 2015 and the Student Karting Championship 2015.\n\u2022\tInvolved in the design and fabrication of all the vehicle subsystems.\n\u2022\tOrganized materials, spares and manufacturing activities for the vehicle subsystems.",
+                    "title": "Technical Associate",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Team Stratos",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Bangalore",
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2017
+                        }
+                    },
+                    "company": "Team Stratos",
+                    "description": "\u2022\tInvolved in the design, fabrication and integration activities of the ETD (engine, transmission and differential) and braking sub-systems of the collegiate BAJA SAE INDIA team.\n\u2022\tOrganized workshops and hired members for all the teams under the BIT SAE Collegiate Club.\n\u2022\tTook part in marketing and sponsorship drives.",
+                    "title": "Technical Associate",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [
+        {
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "role": "Hunger Hero",
+            "company": {
+                "id": null,
+                "name": "Feeding India",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQGHcyXLBxGcTw/company-logo_400_400/0/1677834692031?e=1703721600&v=beta&t=zQZDgPv6GsQs_SEeVGeR9TG3-uXu8wED3IktDSh_CZY",
+                "url": "https://www.linkedin.com/company/feeding-india/"
+            },
+            "cause": "SOCIAL_SERVICES",
+            "description": "- Channeling excess food from restaurants to those in need.\n- Creating awareness amongst restaurants on how they can manage their food wastage."
+        }
+    ],
+    "skills": [
+        "C++",
+        "Gmsh",
+        "C (Programming Language)",
+        "CFX",
+        "Ansys Fluent",
+        "Gitlab",
+        "Autodesk Inventor",
+        "AutoCAD",
+        "Design for Manufacturing",
+        "Geometric Dimensioning & Tolerancing",
+        "Wind Tunnel Testing",
+        "Computational Aeroacoustics (CAA)",
+        "JavaScript",
+        "Finite Element Analysis (FEA)",
+        "Linux",
+        "High Performance Computing (HPC)",
+        "Slurm Workload Manager",
+        "MATLAB",
+        "Pointwise",
+        "Computational Fluid Dynamics (CFD)"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

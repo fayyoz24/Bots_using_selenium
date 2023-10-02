@@ -1,0 +1,366 @@
+{
+    "profile_id": "david-k-6a57771a1",
+    "first_name": "David",
+    "last_name": "K.",
+    "sub_title": "Rust Engineer, with interest in backend and distributed computing",
+    "profile_picture": "https://media.licdn.com/dms/image/C4D03AQGqTLlpyFD6XQ/profile-displayphoto-shrink_800_800/0/1644925476367?e=1701302400&v=beta&t=TxUCw8_TQNH4eSh7f5nJQKuIVZo-VeD37CPew1Zr7-Q",
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAAC9HDh0BAmYUHBaasYv-VfjMhNhdVALC4rk",
+    "object_urn": 793185821,
+    "birth_date": null,
+    "summary": "I am a software engineer experience in building async services. I work with a focus on maintainability. I am an active proponent of refactoring. I have deployed to Linux hosts and have worked with tools like Docker, SystemD and HaProxy. My personal projects include a service to on demand move a Minecraft server instance between systems as well as several open source projects. Serving as chair of the Faculty Council I have led meetings and helped shape University policy.",
+    "location": {
+        "country": "Netherlands",
+        "short": "The Hague, South Holland",
+        "city": "The Hague",
+        "state": "South Holland",
+        "default": "The Hague, South Holland, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [
+        {
+            "url": "https://github.com/dvdsk",
+            "title": "My Open Source work on Github",
+            "description": null,
+            "image": "https://media.licdn.com/dms/image/sync/C5627AQH-Q-IR1OxlKA/articleshare-shrink_800/0/1695106412530?e=1696438800&v=beta&t=OMpjDjJLX0rCRmkqgnRpfEkYDfPbY8ABYUSTQKy1vmw"
+        },
+        {
+            "url": null,
+            "title": "Resume",
+            "description": "Includes a more detailed description of my skills",
+            "image": "https://media.licdn.com/dms/image/C562DAQHybpkE7U80-w/profile-treasury-document-cover-images_1920/0/1639674529317?e=1696438800&v=beta&t=dMXUsHPHXFsMsr6Vl0eq_vDhiHqlRpieoXzRGI10DzM"
+        }
+    ],
+    "languages": {
+        "primary_locale": {
+            "country": "NL",
+            "language": "nl"
+        },
+        "supported_locales": [
+            {
+                "country": "NL",
+                "language": "nl"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "Dutch",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "English",
+                "proficiency": "FULL_PROFESSIONAL"
+            }
+        ]
+    },
+    "industry": "Computer Software",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "school": {
+                "name": "Leiden University",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQEFlK1wNecYbA/company-logo_400_400/0/1519855876129?e=1703721600&v=beta&t=D842EBczsDCzHDS7ZG70LkPNH6fNu0NutCEKkHyGGcQ",
+                "url": "https://www.linkedin.com/school/leiden-university/"
+            },
+            "degree_name": "Master of Science - MS",
+            "field_of_study": "Computerwetenschappen",
+            "grade": "Cum Laude"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "school": {
+                "name": "Leiden University",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQEFlK1wNecYbA/company-logo_400_400/0/1519855876129?e=1703721600&v=beta&t=D842EBczsDCzHDS7ZG70LkPNH6fNu0NutCEKkHyGGcQ",
+                "url": "https://www.linkedin.com/school/leiden-university/"
+            },
+            "degree_name": "Bachelor of Science - BS",
+            "field_of_study": "Astronomy",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "school": {
+                "name": "Leiden University",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQEFlK1wNecYbA/company-logo_400_400/0/1519855876129?e=1703721600&v=beta&t=D842EBczsDCzHDS7ZG70LkPNH6fNu0NutCEKkHyGGcQ",
+                "url": "https://www.linkedin.com/school/leiden-university/"
+            },
+            "degree_name": "Bachelor of Science - BS",
+            "field_of_study": "Physics",
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "Pods",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "description": "Pods (working title) is a very basic work in progress full cross platform podcast player. It was created to fill the void of mobile linux podcast apps.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "David",
+                    "last_name": "K.",
+                    "name": null,
+                    "headline": "Rust Engineer, with interest in backend and distributed computing"
+                }
+            ]
+        },
+        {
+            "title": "Prosesitter",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "description": "prosesitter.nvim is a text linting tool that adds grammar, spell and style checking to your comments and strings. It uses language tool and vale as backends to check what you write for problems. Style issues can vary using the passive voice, weasle words ('very' unique) to using noninclusive terms. You set your own style or use an existing one. Prosesitter will offer to setup a self contained install of language tool and vale including some defaults styles from the vales style libary.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "David",
+                    "last_name": "K.",
+                    "name": null,
+                    "headline": "Rust Engineer, with interest in backend and distributed computing"
+                }
+            ]
+        },
+        {
+            "title": "WorldSync",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "description": "A cross platform gui client and server binary to host a Minecraft Server on demand on users machines and synchronize the world.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "David",
+                    "last_name": "K.",
+                    "name": null,
+                    "headline": "Rust Engineer, with interest in backend and distributed computing"
+                }
+            ]
+        }
+    ],
+    "publications": [],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 6077,
+                "name": "Leiden University",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQEFlK1wNecYbA/company-logo_400_400/0/1519855876129?e=1703721600&v=beta&t=D842EBczsDCzHDS7ZG70LkPNH6fNu0NutCEKkHyGGcQ",
+                "url": "https://www.linkedin.com/school/leiden-university/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Leiden, The Netherlands",
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "day": null,
+                            "year": 2017
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": 2018
+                        }
+                    },
+                    "company": "Leiden University",
+                    "description": "Writing a Python framework for second year students to easily interface with laboratory equipment.",
+                    "title": "Student Assistant",
+                    "employment_type": "Part-time"
+                },
+                {
+                    "location": "Old Observatory, Leiden, The Netherlands",
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": 2018
+                        }
+                    },
+                    "company": "Leiden University",
+                    "description": null,
+                    "title": "Museum Custodian",
+                    "employment_type": "Part-time"
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "role": "Chair Faculty Council,",
+            "company": {
+                "id": null,
+                "name": "Leiden University",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQEFlK1wNecYbA/company-logo_400_400/0/1519855876129?e=1703721600&v=beta&t=D842EBczsDCzHDS7ZG70LkPNH6fNu0NutCEKkHyGGcQ",
+                "url": "https://www.linkedin.com/school/leiden-university/"
+            },
+            "cause": "POLITICS",
+            "description": "Elected to the Faculty council for the Faculty of Science of the University of Leiden and elected as chair by its members. Represented the council in meetings with the faculty board."
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "role": "Tour Guide",
+            "company": {
+                "id": null,
+                "name": "Leiden University",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQEFlK1wNecYbA/company-logo_400_400/0/1519855876129?e=1703721600&v=beta&t=D842EBczsDCzHDS7ZG70LkPNH6fNu0NutCEKkHyGGcQ",
+                "url": "https://www.linkedin.com/school/leiden-university/"
+            },
+            "cause": "ARTS_AND_CULTURE",
+            "description": "I gave guided tours through the old observatory in Leiden where I gave an overview of astronomy and, when skies where clear, gave the group a view of Jupiter, Saturn and our Moon through the telescopes,  that great scientists like Einstein, Lorentz, Oort and many others observed with."
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "role": "Member of the observing committee",
+            "company": {
+                "id": null,
+                "name": "Leiden University",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQEFlK1wNecYbA/company-logo_400_400/0/1519855876129?e=1703721600&v=beta&t=D842EBczsDCzHDS7ZG70LkPNH6fNu0NutCEKkHyGGcQ",
+                "url": "https://www.linkedin.com/school/leiden-university/"
+            },
+            "cause": null,
+            "description": "Organized astronomical observations for students at the local observatory in Leiden\n"
+        }
+    ],
+    "skills": [
+        "Linux",
+        "Rust",
+        "Git",
+        "Cloud Computing",
+        "C++",
+        "C",
+        "Python",
+        "Docker",
+        "HAProxy",
+        "Lua",
+        "Async",
+        "Distributed Systems",
+        "Embedded Systems"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

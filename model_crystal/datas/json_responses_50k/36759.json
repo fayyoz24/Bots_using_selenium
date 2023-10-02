@@ -1,0 +1,614 @@
+{
+    "profile_id": "robvanede",
+    "first_name": "Rob",
+    "last_name": "van Ede",
+    "sub_title": "Spatial Data Wizard",
+    "profile_picture": "https://media.licdn.com/dms/image/C4E03AQFi1o7hkF6S5Q/profile-displayphoto-shrink_800_800/0/1516323525716?e=1701302400&v=beta&t=K2c_v7T9nlwRzpHn14MqHiwElZEDbVUFMcmAekphRsY",
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAAACpnK4BsmNwmDCcqvpCZ8xZ7iy1lOLXf28",
+    "object_urn": 11115694,
+    "birth_date": null,
+    "summary": "Rob van Ede is a physical geographer-turned spatial data specialist who is currently taking some well-earned time off to travel a bit through Europe, improve his home towards energy independence, ponder exciting next steps and enjoy a long summer outside.\nFor the last 10 years, he has been working with with TNO \u2013 Geological Survey of the Netherlands. He has experience in field research, modeling, spatial IT and data harmonization and has worked in the Netherlands, many European countries, Saudi Arabia and Australia. Rob\u2019s assignment included data analysis, conceptual data modeling, data harmonization and visualization and project management for TNO \u2013 Geological Survey of the Netherlands. He has written a road-map on data management for offshore wind-farm data and participated in a consultancy project in preparation of a new data repository for the Saudi Geological Survey. Furthermore, he has participated in international projects on data harmonization such as the Ocean Data Interoperability Platform (ODIP) and as facilitator for the INSPIRE Energy Resources thematic cluster of the EU JRC. Under the GeoERA project, he has successfully compiled the HIKE European Fault Database.\nIn the past, he has worked on different environmentally related subjects such as: satellite remote sensing of soil moisture, coastal water quality and coral bleaching, conceptual modeling of geotechnical and geological surveys, modeling of oil and gas production, harmonization and migration of geodata at the Dutch national airport and spatial software development and data analysis for local Dutch municipalities.\n\nApart from his work in geography, Rob has had an interest in sound reproducing technology for a long time. He spent a lot of evenings during his study working as (licensed) 35 mm film projectionist (a trade that no longer exists now that cinema's have turned digital) and as sound technician in a movie theater, and has been designing and building high-quality loudspeakers for many years, something that eventually led to the founding of Throb Audio, a small company that specialized in the design of high-quality loudspeakers and live sound recordings. \n\nRob is also an outdoor enthusiast and avid bicycle user, using the bike for commuting as much as possible and sometimes for more serious expeditions; In 2012 he embarked on a solo bike-trip that brought him from Ulm (Germany) to Istanbul (Turkey) in five weeks on a recumbent bike, and a folding bicycle trip from Mumbai to Goa (India) in 2015. He also held a paragliding pilot license and flew under his own wing for many years.",
+    "location": {
+        "country": "Netherlands",
+        "short": "The Randstad, Netherlands",
+        "city": "The Randstad",
+        "state": "Netherlands",
+        "default": "The Randstad, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "Dutch",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "English",
+                "proficiency": "FULL_PROFESSIONAL"
+            },
+            {
+                "name": "German",
+                "proficiency": "PROFESSIONAL_WORKING"
+            }
+        ]
+    },
+    "industry": "Research",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 1999
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2005
+                }
+            },
+            "school": {
+                "name": "Utrecht University",
+                "logo": "https://media.licdn.com/dms/image/C510BAQG6HfmPTdJKXw/company-logo_400_400/0/1519884681258?e=1703721600&v=beta&t=dip0JQLPHIafltY09rUwsjeZiPiJpmfD6vJeMHxW-84",
+                "url": "https://www.linkedin.com/school/universiteit-utrecht/"
+            },
+            "degree_name": "Master of Science",
+            "field_of_study": "Physical Geography - GIS / Remote Sensing",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "school": {
+                "name": "IPMA / Cito",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "IPMA Level D Certified Project Management Associate",
+            "field_of_study": "Project Management",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2007
+                },
+                "end": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2025
+                }
+            },
+            "school": {
+                "name": "Safe Software",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "FME Certified Professional",
+            "field_of_study": "Data Processing / Data Analysis",
+            "grade": "Certified professional (Desktop)"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 1993
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 1999
+                }
+            },
+            "school": {
+                "name": "CCZ",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "VWO",
+            "field_of_study": null,
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [],
+    "organizations": [],
+    "projects": [],
+    "publications": [
+        {
+            "name": "HIKE European Fault Database",
+            "publisher": "GeoERA / EuroGeoSurveys",
+            "url": "https://geoera.eu/projects/hike10/faultdatabase/",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2021
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Rob",
+                    "last_name": "van Ede",
+                    "name": null,
+                    "headline": "Spatial Data Wizard"
+                }
+            ]
+        },
+        {
+            "name": "FME & sensoring",
+            "publisher": "Vicrea",
+            "url": "https://www.youtube.com/watch?v=Ink4Og623MI",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2016
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Rob",
+                    "last_name": "van Ede",
+                    "name": null,
+                    "headline": "Spatial Data Wizard"
+                }
+            ]
+        }
+    ],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 3614,
+                "name": "TNO",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQEaTotk9sLG7g/company-logo_400_400/0/1695809327920?e=1703721600&v=beta&t=8EjtZcRsl5ttgTkc-2KiFw6XoyZDIUB_vl9Ei_gb1Ik",
+                "url": "https://www.linkedin.com/company/tno/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Utrecht Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2012
+                        },
+                        "end": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "TNO",
+                    "description": "- Data analysis, transformation and conceptual data modelling for harmonization of data and processes around geomodelling of the Dutch subsurface, in the oil-, gas-, salt-mining and geothermal industry, geotechnical subsurface and oceanographic research.\n- Realization of ArcGIS Enterprise (Portal + Enterprise Geodatabase) within the department of Geomodelling. \n- Consultancy on geology-related data solutions for international and Dutch organizations.\n- Development of (international) data exchange standards.\n- Data analysis and modeling towards the Dutch key register for the subsurface (BRO)\n- Compilation, coordination and presentation of HIKE European Fault Database and connection to other knowledge systems using Linked Data.\n- Management of harmonization projects: bringing people together.",
+                    "title": "Data Scientist",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 5400028,
+                "name": "Railexperts",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQHeNoXEgypA4Q/company-logo_400_400/0/1519920103754?e=1703721600&v=beta&t=qAiMRxIRXi3j5E4murtQ2QgCubk_mUCWnS_f5o0VFFY",
+                "url": "https://www.linkedin.com/company/railexperts/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2020
+                        }
+                    },
+                    "company": "Railexperts",
+                    "description": "Conducting one or two carriages on the chartered \"AlpenExpress\" winter-sports sleeper train during journeys between the Netherlands and Austria over weekends in the winter season.",
+                    "title": "Host, Zugbegleiter",
+                    "employment_type": "Part-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 2255094,
+                "name": "Throb Audio",
+                "logo": null,
+                "url": "https://www.linkedin.com/company/throb-audio/",
+                "employees": {
+                    "start": 0,
+                    "end": 1
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2011
+                        },
+                        "end": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2013
+                        }
+                    },
+                    "company": "Throb Audio",
+                    "description": "- Design, prototyping and building of high-performance loudspeaker systems.\n- Binaural recording of music events.",
+                    "title": "Owner, Designer",
+                    "employment_type": "Self-employed"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 6383,
+                "name": "Schiphol Group",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQG0V7aQL5VRkg/company-logo_400_400/0/1519856511240?e=1703721600&v=beta&t=VZinzbTK2qNEBlsrLDRbU09I7J_lMi7RkMDu0RfIsuc",
+                "url": "https://www.linkedin.com/company/royal-schiphol-group/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2009
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2011
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2009
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2011
+                        }
+                    },
+                    "company": "Royal Schiphol Group",
+                    "description": "Data migration from diverse CAD and GIS datasets into an ESRI GeoDatabase and development of connected specialized software.",
+                    "title": "Spatial data migration specialist",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 39829,
+                "name": "Vicrea Solutions",
+                "logo": "https://media.licdn.com/dms/image/C560BAQEIVV0P93-fWQ/company-logo_400_400/0/1587634549571?e=1703721600&v=beta&t=W75njkdNC7ApB3nNw0XqUSSWaJis09ruJp6gwcc_6gk",
+                "url": "https://www.linkedin.com/company/vicrea/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2006
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2011
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2006
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2011
+                        }
+                    },
+                    "company": "Vicrea Solutions",
+                    "description": null,
+                    "title": "Spatial Software Engineer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 814455,
+                "name": "Hotel Theater Figi &amp; Slot Zeist",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQGFJjqRYt2-Zw/company-logo_400_400/0/1681759782736?e=1703721600&v=beta&t=OChWmIoM6GaJLRkgLFVJkV8TT_KBt6D4kw9ERBhKa5k",
+                "url": "https://www.linkedin.com/company/hotel-theater-figi/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2001
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2011
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2001
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2011
+                        }
+                    },
+                    "company": "FIGI",
+                    "description": "Responsible for 35 mm projection and maintenance at 1000 seat movie theater.",
+                    "title": "Film Projectionist",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 6785,
+                "name": "Gemeente Rotterdam",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQGMKTff1Ydxow/company-logo_400_400/0/1609745623465?e=1703721600&v=beta&t=XQItts7MW7nbifo8M9RC_Hzh0tjkGqQUTBCM1K1bXDs",
+                "url": "https://www.linkedin.com/company/gemeente-rotterdam/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2008
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2009
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2008
+                        },
+                        "end": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2009
+                        }
+                    },
+                    "company": "Gemeente Rotterdam",
+                    "description": "Data analysis in preparation of delivery to Key Register Buildings (BAG).",
+                    "title": "GIS specialist",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 163451,
+                "name": "Dienst Landelijk Gebied",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQEPZA-Oe9NOcw/company-logo_400_400/0/1519952580712?e=1703721600&v=beta&t=qDGYx1UvmXNQs3VDkcKeGbyDae2KSu_0PSuw5QqKWRA",
+                "url": "https://www.linkedin.com/company/dienst-landelijk-gebied/",
+                "employees": {
+                    "start": 501,
+                    "end": 1000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2005
+                },
+                "end": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2006
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2005
+                        },
+                        "end": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2006
+                        }
+                    },
+                    "company": "Dienst Landelijk Gebied",
+                    "description": null,
+                    "title": "Trainee GIS",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 163279,
+                "name": "CSIRO",
+                "logo": "https://media.licdn.com/dms/image/C560BAQHmmmT_4lmxkw/company-logo_400_400/0/1678052502209?e=1703721600&v=beta&t=Q-sjlzumPW9C37B9Fa2dZz-hYB4uVBzJkoqcG8Lnbv0",
+                "url": "https://www.linkedin.com/company/csiro/",
+                "employees": {
+                    "start": 5001,
+                    "end": 10000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2004
+                },
+                "end": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2004
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2004
+                        },
+                        "end": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2004
+                        }
+                    },
+                    "company": "CSIRO",
+                    "description": "- Hyperspectral analysis and atmospheric modelling.\n- Collection of ground-truth during marine fieldwork.",
+                    "title": "Trainee Remote Sensing Research",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Spatial",
+        "ESRI",
+        "Data Analysis",
+        "FME",
+        "GIS",
+        "Remote Sensing",
+        "Spatial Databases",
+        "Open Source",
+        "Spatial Analysis",
+        "Databases",
+        "ArcGIS",
+        "English",
+        "Dutch",
+        "Geographic Information Systems (GIS)"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

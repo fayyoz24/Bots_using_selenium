@@ -1,0 +1,713 @@
+{
+    "profile_id": "benjamin-k-miller",
+    "first_name": "Benjamin",
+    "last_name": "Miller",
+    "sub_title": "PhD Student at UvA",
+    "profile_picture": "https://media.licdn.com/dms/image/C4E03AQHTifHqHLUEXQ/profile-displayphoto-shrink_800_800/0/1643707739247?e=1701302400&v=beta&t=d9B6owZve7kot35CCyx68VH3Yd0D1RcVpxrqR-BEvgU",
+    "background_image": "https://media.licdn.com/dms/image/C5616AQFYB7TDD3lNYA/profile-displaybackgroundimage-shrink_350_1400/0/1517536822295?e=1701302400&v=beta&t=cjX0G1WVyUT-jyubePzTp92TdWriaTU4z2ZDwl3T5vE",
+    "profile_type": "personal",
+    "entity_urn": "ACoAABxHN5QB_b2mH_GNY_oZk5-V8YF-_QWEhrE",
+    "object_urn": 474429332,
+    "birth_date": null,
+    "summary": "Math & physics professionally. Pop economics and functional programming in my free time.\nhttp://mathben.com",
+    "location": {
+        "country": "Netherlands",
+        "short": "Amsterdam, North Holland",
+        "city": "Amsterdam",
+        "state": "North Holland",
+        "default": "Amsterdam, North Holland, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "English",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "German",
+                "proficiency": "LIMITED_WORKING"
+            }
+        ]
+    },
+    "industry": "Computer Software",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2024
+                }
+            },
+            "school": {
+                "name": "University of Amsterdam",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQEfHBj_we-_kw/company-logo_400_400/0/1659945104460?e=1703721600&v=beta&t=nxt14hUDODg3MttkNj5Qa0fCu2FbgGbRXyFSapRtNv4",
+                "url": "https://www.linkedin.com/school/university-of-amsterdam/"
+            },
+            "degree_name": "Doctor of Philosophy - PhD",
+            "field_of_study": "Computer Science",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "school": {
+                "name": "Freie Universit\u00e4t Berlin",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQH9scgZqfOqvA/company-logo_400_400/0/1685634293646?e=1703721600&v=beta&t=OSWxhDFbwyErm7aTDJCGeq-ayZqNVq-3WmNLS9u0KMc",
+                "url": "https://www.linkedin.com/school/freie-universitat-berlin/"
+            },
+            "degree_name": "Master of Science (M.Sc.)",
+            "field_of_study": "Computational Science",
+            "grade": "1,0 thesis, 1,2 overall"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "school": {
+                "name": "University of Colorado Boulder",
+                "logo": "https://media.licdn.com/dms/image/C560BAQGueVr_GgFPZg/company-logo_400_400/0/1519856474347?e=1703721600&v=beta&t=BE73IXgPwtRDcMj8WNAgXS-7tTanHN90Phwu--6n_lg",
+                "url": "https://www.linkedin.com/school/cuboulder/"
+            },
+            "degree_name": "Bachelor of Arts (B.A.)",
+            "field_of_study": "Physics",
+            "grade": "3.8"
+        }
+    ],
+    "patents": [],
+    "awards": [
+        {
+            "title": "Graduation with Distinction",
+            "description": "GPA above 3.75.",
+            "issuer": "University of Colorado Boulder",
+            "date": {
+                "month": 12,
+                "day": null,
+                "year": 2015
+            }
+        },
+        {
+            "title": "Outstanding Graduate in Physics - Arts & Sciences",
+            "description": "Awarded to the top graduating student in the physics major within the College of Arts and Sciences. It is based on academic achievement as well as demonstrated excellence in research.",
+            "issuer": "Paul D. Beale - Professor and Chair of the Physics Department",
+            "date": {
+                "month": 12,
+                "day": null,
+                "year": 2015
+            }
+        },
+        {
+            "title": "Summa Cum Laude",
+            "description": "Honors thesis and GPA: 3.82",
+            "issuer": "University of Colorado Boulder",
+            "date": {
+                "month": 12,
+                "day": null,
+                "year": 2015
+            }
+        },
+        {
+            "title": "Individual Research Award - Undergraduate Research Opportunity Grant",
+            "description": "Grant for my thesis, Semi-Classical Analysis of High Harmonic Generation, supervised by Professor Agnieszka Jaron-Becker.",
+            "issuer": "University of Colorado Boulder",
+            "date": {
+                "month": 5,
+                "day": null,
+                "year": 2015
+            }
+        },
+        {
+            "title": "Dean's Scholarship",
+            "description": "Awarded for achieving dean's list two years in a row.",
+            "issuer": "University of Colorado Boulder",
+            "date": {
+                "month": 1,
+                "day": null,
+                "year": 2015
+            }
+        },
+        {
+            "title": "Research Assistantship Award - Undergraduate Research Opportunity Grant",
+            "description": "Grant to finance work on the shutter project with Professor Cindy Regal.",
+            "issuer": "University of Colorado Boulder",
+            "date": {
+                "month": 8,
+                "day": null,
+                "year": 2014
+            }
+        }
+    ],
+    "certifications": [],
+    "organizations": [
+        {
+            "name": "Phi Beta Kappa",
+            "position": "Member",
+            "date_start": {
+                "month": 1,
+                "day": null,
+                "year": 2014
+            },
+            "date_end": null
+        },
+        {
+            "name": "National Society of Collegiate Scholars",
+            "position": "Member",
+            "date_start": {
+                "month": 1,
+                "day": null,
+                "year": 2012
+            },
+            "date_end": null
+        },
+        {
+            "name": "American Physical Society",
+            "position": "Member",
+            "date_start": {
+                "month": 1,
+                "day": null,
+                "year": 2015
+            },
+            "date_end": {
+                "month": 1,
+                "day": null,
+                "year": 2018
+            }
+        }
+    ],
+    "projects": [],
+    "publications": [],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 10667,
+                "name": "Meta",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQFdNatYGiBelg/company-logo_400_400/0/1636138753911?e=1703721600&v=beta&t=g87j9pv7FbO90MM_qv2a2VvH40VrQutHbcDnVb6xE1k",
+                "url": "https://www.linkedin.com/company/meta/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2023
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "San Francisco, California, United States",
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2023
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Meta",
+                    "description": "Open Catalyst Project",
+                    "title": "Research Intern",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 86458246,
+                "name": "ELLIS - European Laboratory for Learning and Intelligent Systems",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQGDmjBE7y0Ybg/company-logo_400_400/0/1695310778528?e=1703721600&v=beta&t=lcM2hb77yIztPyf_I232xytj-izWcSjzxk0rNq44gVo",
+                "url": "https://www.linkedin.com/company/ellisforeurope/",
+                "employees": {
+                    "start": 501,
+                    "end": 1000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amsterdam, North Holland, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "ELLIS - European Laboratory for Learning and Intelligent Systems",
+                    "description": "ELLIS Partnership with Max Welling and Gilles Louppe",
+                    "title": "PhD Student",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 4081,
+                "name": "UvA",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQEfHBj_we-_kw/company-logo_400_400/0/1659945104460?e=1703721600&v=beta&t=nxt14hUDODg3MttkNj5Qa0fCu2FbgGbRXyFSapRtNv4",
+                "url": "https://www.linkedin.com/school/university-of-amsterdam/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amsterdam, North Holland, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2020
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "University of Amsterdam",
+                    "description": "Member of AI4Science, AMLab, and GRAPPA.\nSupervisors: Prof. Dr. Max Welling, Dr. Patrick Forr\u00e9, Dr. Samaya Nissanke, Dr. Christoph Weniger.",
+                    "title": "PhD Student",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1035,
+                "name": "Microsoft",
+                "logo": "https://media.licdn.com/dms/image/C560BAQE88xCsONDULQ/company-logo_400_400/0/1618231291419?e=1703721600&v=beta&t=xic8lPBHmNYz9qHIoiuq_itbJ4T3xDqNu9Bb5EuYkZ0",
+                "url": "https://www.linkedin.com/company/microsoft/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amsterdam, North Holland, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "Microsoft",
+                    "description": null,
+                    "title": "Research Intern",
+                    "employment_type": "Internship"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 163897,
+                "name": "Freie Universit\u00e4t Berlin",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQH9scgZqfOqvA/company-logo_400_400/0/1685634293646?e=1703721600&v=beta&t=OSWxhDFbwyErm7aTDJCGeq-ayZqNVq-3WmNLS9u0KMc",
+                "url": "https://www.linkedin.com/school/freie-universitat-berlin/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Berlin, Germany",
+                    "date": {
+                        "start": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2020
+                        }
+                    },
+                    "company": "Freie Universit\u00e4t Berlin",
+                    "description": "\u2022 Supervisor: Frank No\u00e9\n\u2022 Published at NeurIPS 2020 Workshops: Interpretable Inductive Biases and Physically Structured Learning and Machine Learning and the Physical Sciences.\n\u2022 Created molecular and protein data loader architectures optimized for speed and efficient prototyping by wrapping tensorflow, hdf5 calls, and binary data loaders in easy-to-use python classes.",
+                    "title": "Research Assistant",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 164691,
+                "name": "Berkeley Lab",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQFfc1NOEp9DgA/company-logo_400_400/0/1640018826086?e=1703721600&v=beta&t=p5gNKDBH1LcfJYAlffN6wcYs0Y9BxVDNG6E3jJaQk8I",
+                "url": "https://www.linkedin.com/company/lawrence-berkeley-national-laboratory/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "San Francisco Bay Area",
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "Berkeley Lab",
+                    "description": "\u2022 Designed neural networks suited for molecular data by respecting the symmetries of Euclidean space.",
+                    "title": "Summer Intern",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 7943430,
+                "name": "PAIR Finance",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQEQs-oDKvVsKg/company-logo_400_400/0/1592983349755?e=1703721600&v=beta&t=kINU5PJSigKUAdyYnH7kuKLTf8kMU9XDYS-s31eMNAo",
+                "url": "https://www.linkedin.com/company/pair-finance/",
+                "employees": {
+                    "start": 201,
+                    "end": 500
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Berlin Area, Germany",
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2017
+                        },
+                        "end": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2018
+                        }
+                    },
+                    "company": "PAIR Finance",
+                    "description": "\u2022 Optimized classification and data cleaning of over 200k case files in production from 2 hours to 6 minutes by improving SQL calls & data structures, and parallelizing the training of each classifier.\n\u2022 Automated manual sorting of \u223c100 documents per day by trained operators using a classifier with natural language understanding by using my own RESTful API and server in close collaboration with the development team",
+                    "title": "Data Science Intern",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1188458,
+                "name": "Technische Universit\u00e4t Berlin",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQGMPWp-fo0MWA/company-logo_400_400/0/1675944962790?e=1703721600&v=beta&t=8CN_u0DfkPZfKPC-ouiLPgae515stpYKaP32GDXPZyc",
+                "url": "https://www.linkedin.com/school/tuberlin/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Berlin, Germany",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2017
+                        }
+                    },
+                    "company": "Technische Universit\u00e4t Berlin",
+                    "description": "\u2022 Presented autodidactic research into solid state lasers with feedback to an industry wide conference DPG2017.\n\u2022 Designed studies combining numerical solutions of delay differential equations and bifurcation analyses to optimize laser operation parameters (MATLAB).\n\u2022 Extended an open source bifurcation tool.",
+                    "title": "Guest Researcher",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 3771,
+                "name": "University of Colorado Boulder",
+                "logo": "https://media.licdn.com/dms/image/C560BAQGueVr_GgFPZg/company-logo_400_400/0/1519856474347?e=1703721600&v=beta&t=BE73IXgPwtRDcMj8WNAgXS-7tTanHN90Phwu--6n_lg",
+                "url": "https://www.linkedin.com/school/cuboulder/",
+                "employees": {
+                    "start": 5001,
+                    "end": 10000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2013
+                        },
+                        "end": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2016
+                        }
+                    },
+                    "company": "University of Colorado Boulder",
+                    "description": null,
+                    "title": "Recording Engineer and Stage Manager",
+                    "employment_type": null
+                },
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2016
+                        }
+                    },
+                    "company": "University of Colorado Boulder",
+                    "description": "\u2022 Collaborated with a \u201dMacArthur Genius\u201d lab by developing an intuitive semi-classical model of their experiment.\n\u2022 Communicated my research at JILA Posterfest.",
+                    "title": "Research Assistant",
+                    "employment_type": null
+                },
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2014
+                        },
+                        "end": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2014
+                        }
+                    },
+                    "company": "University of Colorado Boulder",
+                    "description": null,
+                    "title": "Physics Learning Assistant",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [
+        {
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "role": "Dance Ambassador",
+            "company": {
+                "id": null,
+                "name": "Boulder Swing Dance",
+                "logo": null,
+                "url": null
+            },
+            "cause": null,
+            "description": null
+        }
+    ],
+    "skills": [
+        "SQL",
+        "Bayesian statistics",
+        "Algorithms",
+        "Computer Science",
+        "C++",
+        "Python",
+        "Data Science",
+        "Machine Learning",
+        "Data Visualization",
+        "Natural Language Processing",
+        "Git",
+        "Amazon Web Services (AWS)",
+        "Unix",
+        "Optical Character Recognition (OCR)",
+        "PostgreSQL",
+        "Test Driven Development",
+        "Data Analysis",
+        "Mathematics",
+        "Statistics",
+        "LaTeX"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

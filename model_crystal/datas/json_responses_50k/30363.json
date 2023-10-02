@@ -1,0 +1,495 @@
+{
+    "profile_id": "annesaris",
+    "first_name": "Anne",
+    "last_name": "Saris",
+    "sub_title": "Medical Engineer | Postdoctoral researcher at Radboudumc",
+    "profile_picture": null,
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAAB-OlUMBzX-H8eBjxJlfIxMgkFmlFHVf6pk",
+    "object_urn": 529438019,
+    "birth_date": null,
+    "summary": null,
+    "location": {
+        "country": "Netherlands",
+        "short": "Arnhem-Nijmegen Region",
+        "city": null,
+        "state": null,
+        "default": "Arnhem-Nijmegen Region"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "NL",
+            "language": "nl"
+        },
+        "supported_locales": [
+            {
+                "country": "NL",
+                "language": "nl"
+            }
+        ],
+        "profile_languages": []
+    },
+    "industry": "Research",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2009
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "school": {
+                "name": "Eindhoven University of Technology",
+                "logo": "https://media.licdn.com/dms/image/C560BAQG4PGSYiNG4CA/company-logo_400_400/0/1642150189320?e=1703721600&v=beta&t=omf4Ziy8Suete_GTJ3Qn1mOBS7ZrKSPido6Ld2LseBU",
+                "url": "https://www.linkedin.com/school/eindhoven-university-of-technology/"
+            },
+            "degree_name": "Master of Science (MSc)",
+            "field_of_study": "Medical Engineering",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2006
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2009
+                }
+            },
+            "school": {
+                "name": "Eindhoven University of Technology",
+                "logo": "https://media.licdn.com/dms/image/C560BAQG4PGSYiNG4CA/company-logo_400_400/0/1642150189320?e=1703721600&v=beta&t=omf4Ziy8Suete_GTJ3Qn1mOBS7ZrKSPido6Ld2LseBU",
+                "url": "https://www.linkedin.com/school/eindhoven-university-of-technology/"
+            },
+            "degree_name": "Bachelor of Science (BSc)",
+            "field_of_study": "Biomedische technologie (Biomedical engineering)",
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [],
+    "organizations": [],
+    "projects": [],
+    "publications": [
+        {
+            "name": "In vivo blood velocity vector imaging using adaptive velocity compounding in the carotid artery bifurcation",
+            "publisher": "Ultrasound in Medicine and Biology",
+            "url": null,
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2019
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Anne",
+                    "last_name": "Saris",
+                    "name": null,
+                    "headline": "Medical Engineer | Postdoctoral researcher at Radboudumc"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "H.H.G. Hansen",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "S. Fekkes",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "J.J.M. Menssen",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "M.M. Nillesen",
+                    "headline": null
+                }
+            ]
+        },
+        {
+            "name": "A PSF-shape-based beamforming strategy for robust 2D motion estimation in ultrafast data",
+            "publisher": "Applied Sciences",
+            "url": "https://www.mdpi.com/2076-3417/8/3/429",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2018
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Anne",
+                    "last_name": "Saris",
+                    "name": null,
+                    "headline": "Medical Engineer | Postdoctoral researcher at Radboudumc"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "S. Fekkes",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "H.H.G. Hansen",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "M.M. Nillesen",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "J.J.M. Mensen",
+                    "headline": null
+                }
+            ]
+        },
+        {
+            "name": "Simultaneous vascular strain and blood vector velocity imaging using high-frequency versus conventional-frequency plane wave ultrasound: a phantom study",
+            "publisher": "IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control",
+            "url": "https://ieeexplore.ieee.org/document/8356672",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2018
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Anne",
+                    "last_name": "Saris",
+                    "name": null,
+                    "headline": "Medical Engineer | Postdoctoral researcher at Radboudumc"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "S. Fekkes",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "H.H.G. Hansen",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "M.M. Nillesen",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "J.J.M. Menssen",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "C.L. de Korte",
+                    "headline": null
+                }
+            ]
+        },
+        {
+            "name": "A comparison between compounding techniques using large beam-steered plane wave imaging for blood vector velocity imaging in a carotid artery model",
+            "publisher": "IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control",
+            "url": "https://ieeexplore.ieee.org/document/7562358",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2016
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Anne",
+                    "last_name": "Saris",
+                    "name": null,
+                    "headline": "Medical Engineer | Postdoctoral researcher at Radboudumc"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "H.H.G. Hansen",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "S. Fekkes",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "M.M. Nillesen",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "M.C.M. Rutten",
+                    "headline": null
+                }
+            ]
+        },
+        {
+            "name": "Correlation-based discrimination between cardiac tissue and blood for segmentation of the left ventricle in 3D echocardiographic images",
+            "publisher": "Ultrasound in Medicine and Biology",
+            "url": "https://doi.org/10.1016/j.ultrasmedbio.2013.09.025",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2014
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Anne",
+                    "last_name": "Saris",
+                    "name": null,
+                    "headline": "Medical Engineer | Postdoctoral researcher at Radboudumc"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "M.M. Nillesen",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "R.G.P. Lopata",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "C.L. de Korte",
+                    "headline": null
+                }
+            ]
+        }
+    ],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 12199,
+                "name": "Radboudumc",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQH1GYL46xdJmg/company-logo_400_400/0/1580825512622?e=1703721600&v=beta&t=dENGxeCxQ0rGPfnFdScSSqcsGu9-0BXHjZgydHZZJ9U",
+                "url": "https://www.linkedin.com/company/radboudumc/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Nijmegen en omgeving, Nederland",
+                    "date": {
+                        "start": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Radboudumc",
+                    "description": null,
+                    "title": "Postdoctoral Researcher",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 12199,
+                "name": "Radboudumc",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQH1GYL46xdJmg/company-logo_400_400/0/1580825512622?e=1703721600&v=beta&t=dENGxeCxQ0rGPfnFdScSSqcsGu9-0BXHjZgydHZZJ9U",
+                "url": "https://www.linkedin.com/company/radboudumc/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Nijmegen",
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "day": null,
+                            "year": 2012
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2018
+                        }
+                    },
+                    "company": "Radboudumc",
+                    "description": "Medical Ultrasound Imaging Center, Radiology and Nuclear Medicine\nThesis: Blood velocity vector imaging in the carotid artery using ultrasound\nDate of defence: 20th of August 2019",
+                    "title": "PhD candidate",
+                    "employment_type": null
+                },
+                {
+                    "location": "Nijmegen",
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2011
+                        },
+                        "end": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2012
+                        }
+                    },
+                    "company": "Radboudumc",
+                    "description": "Children's hospital\nStudy the usability of temporal information to improve the automated segmentation of the left ventricle in 3D paediatric echocardiographic images.",
+                    "title": "Graduate Student",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 16971,
+                "name": "Maastricht UMC+",
+                "logo": "https://media.licdn.com/dms/image/C560BAQGqqwaYtGz43w/company-logo_400_400/0/1519856235142?e=1703721600&v=beta&t=cu_li7pQoMPyWhPHzQwsdsph4eM9eAsDp9qgIVdEG1w",
+                "url": "https://www.linkedin.com/company/maastricht-umc-mumc/",
+                "employees": {
+                    "start": 5001,
+                    "end": 10000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2010
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2010
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Maastricht",
+                    "date": {
+                        "start": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2010
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2010
+                        }
+                    },
+                    "company": "Maastricht UMC+",
+                    "description": "Internship at the Radiology department\nPilot study on dynamic contrast-enhanced MRI of the abdominal aortic aneurysm vessel wall to quantify microvasculature",
+                    "title": "Student",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Medical Ultrasound",
+        "Blood Flow Imaging",
+        "Image Processing",
+        "Signal analysis",
+        "Matlab",
+        "Engineering"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

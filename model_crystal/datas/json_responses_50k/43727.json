@@ -1,0 +1,234 @@
+{
+    "profile_id": "egor-gusarenko-6a21bb184",
+    "first_name": "Egor",
+    "last_name": "Gusarenko",
+    "sub_title": "C# Web-Backend Developer",
+    "profile_picture": "https://media.licdn.com/dms/image/C4E03AQFwNBBw0MD16g/profile-displayphoto-shrink_800_800/0/1663257164486?e=1701302400&v=beta&t=12LPt_cSuOWMhgWmg4ln_xOIGWwp83xbA1EdZFb8cE0",
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAACt01RoBMXMbXJ_NSB73jiWJKkHZ5r08N70",
+    "object_urn": 729077018,
+    "birth_date": null,
+    "summary": "I'm a web backend developer with mid-to-senior level experience. \n\nMy primary language is C# (\u2764). Also I somewhat frequently use Golang(\ud83c\udf1f) and Python(\u2b50) in my work. Have some minor experience with Rust (one small pet project - telegram bot) and F# (frequently played with and learned the language, but unfortunately still don't have any notable projects with it).\n\nI Have worked with various back-end middleware such as:\n\ud83e\udd47PostgreSQL\n\ud83e\udd47Oracle\n\ud83e\udd47SQL-Server\n\ud83e\udd47Redis\n\nHave somewhat minor experience (but very much would like to know and more) with:\n\ud83e\udd47Elasticsearch,\n\ud83e\udd47Redis\n\nLove debugging complex bugs, dream about developing my own custom relational DB for educational purposes.",
+    "location": {
+        "country": "Netherlands",
+        "short": "Rotterdam, South Holland",
+        "city": "Rotterdam",
+        "state": "South Holland",
+        "default": "Rotterdam, South Holland, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "RU",
+            "language": "ru"
+        },
+        "supported_locales": [
+            {
+                "country": "RU",
+                "language": "ru"
+            },
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "\u0410\u043d\u0433\u043b\u0438\u0439\u0441\u043a\u0438\u0439",
+                "proficiency": "PROFESSIONAL_WORKING"
+            },
+            {
+                "name": "\u0420\u0443\u0441\u0441\u043a\u0438\u0439",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ]
+    },
+    "industry": "Information Technology & Services",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "school": {
+                "name": "Moscow Power Engineering Institute (Technical University)",
+                "logo": "https://media.licdn.com/dms/image/C560BAQEHCXCnoQ0zAA/company-logo_400_400/0/1519862885663?e=1703721600&v=beta&t=iVi2Pe4bj4yNkhdlu9xg7M2C4GqSA_L9iRtBXDL2Ekg",
+                "url": "https://www.linkedin.com/school/%D0%BC%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9-%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B5%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9-%D0%B8%D0%BD%D1%81%D1%82%D0%B8%D1%82%D1%83%D1%82-%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9-%D1%83%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82-/"
+            },
+            "degree_name": "Bachelor",
+            "field_of_study": "Applied mathematics",
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [],
+    "organizations": [],
+    "projects": [],
+    "publications": [],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 9997470,
+                "name": "SimpleFinance Group",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQFvmX5j3kNgXQ/company-logo_400_400/0/1643627278070?e=1703721600&v=beta&t=zLOzvJpO4KHa1RZ-uTN1gJjEMAQ-iVrg7wTbbxTeSNI",
+                "url": "https://www.linkedin.com/company/simplefinance-rus/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Moscow, Russia",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2020
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "SimpleFinance Group",
+                    "description": "Participated in the development of the company's new business platform as a back-end C# (sometimes Golang) developer. Supported other company products (mainly written in C# and Golang). Main responsibilities and activities:\n- Various external API system to system integrations\n- Creation of Document Generation engine and service based on ASP.NET Razor Pages\n- Full infrastructure net core 3.1 to .net 5 and .net 6 migration\n- Debugging and profiling our products\n- Providing Tier 3 - Tier 2 technical support on various company products and their maintenance.\n- Onboarding and providing guidelines for the new members of the development team. Writing wiki guides and some technical documentation. \n\n-",
+                    "title": "C# Developer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Infocom",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "\u041c\u043e\u0441\u043a\u0432\u0430, \u0420\u043e\u0441\u0441\u0438\u044f",
+                    "date": {
+                        "start": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2020
+                        }
+                    },
+                    "company": "Infocom",
+                    "description": "Worked on custom ETL application (gaining data from various sources and storing them in single Data-Lake based on PostgreSQL) and back-end ones. Introduced testing practices to the team and some little custom monitoring solutions and tools.",
+                    "title": "C# Developer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 6583415,
+                "name": "Syntellect",
+                "logo": "https://media.licdn.com/dms/image/C510BAQFkzIShnnClqg/company-logo_400_400/0/1519863961836?e=1703721600&v=beta&t=OnOb_1e-_88aw-nVvn3m4Fj0fCLQr56HUIWsJ_ZuYEg",
+                "url": "https://www.linkedin.com/company/syntellect-%D1%81%D0%B8%D0%BD%D1%82%D0%B5%D0%BB%D0%BB%D0%B5%D0%BA%D1%82/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Moscow, Russia",
+                    "date": {
+                        "start": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "Syntellect/\u0421\u0418\u041d\u0422\u0415\u041b\u041b\u0415\u041a\u0422",
+                    "description": "Worked on customer-specific solutions of company's main product (Document Exchange/ERP platform named TESSA). Developed varoius C# extenstions for Tessa, worked with SQL-Server database (raw sql, schema-index structure development e.t.c.) solved bugs and provided technical support for customers",
+                    "title": "Junior C#-Tessa Developer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "C#",
+        "Linux",
+        ".NET Framework",
+        ".net core",
+        "SQL",
+        "SQL-Server",
+        "PostgreSQL",
+        "REST",
+        "ASP.NET"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

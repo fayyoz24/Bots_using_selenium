@@ -1,0 +1,780 @@
+{
+    "profile_id": "jarvin-mutatiina",
+    "first_name": "Jarvin",
+    "last_name": "Mutatiina",
+    "sub_title": "Data & Machine Learning Engineer at Deloitte Nederland",
+    "profile_picture": "https://media.licdn.com/dms/image/C4E03AQGE4IEtV78flQ/profile-displayphoto-shrink_800_800/0/1646568959673?e=1701302400&v=beta&t=eDm3Q7bo_rv-nHuOStjS9S6YI-bfvYSHzxNSCt7YV9c",
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAABrwu-wBBVPF1c8lsQ5VFdD5nAZkFP4Z8AY",
+    "object_urn": 451984364,
+    "birth_date": null,
+    "summary": "I work at the intersection of MLOps, Data Engineering and AWS cloud computing.  Within my work, I combine my interests in research, problem solving and innovation.\n\nI have a technical background in data science and software engineering with a Masters in Computing Science specializing in Data Science and System complexity from the University of Groningen and a bachelor in software engineering. \n \nI am motivated by novelty, recognition, plus inclusive & dynamic environments that provide the opportunity to explore and nurture multiple technical and business skills. \n\nLet us connect!",
+    "location": {
+        "country": "Netherlands",
+        "short": "Amsterdam, North Holland",
+        "city": "Amsterdam",
+        "state": "North Holland",
+        "default": "Amsterdam, North Holland, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [
+        {
+            "url": null,
+            "title": "ML Versioning with MLflow",
+            "description": "As machine learning is moving towards automated and streamlined tasks and processes, it is crucial to keep track of all the multiple runs, metrics and versions of the models. Version control practices, as commonly used in software development...",
+            "image": null
+        },
+        {
+            "url": null,
+            "title": "Association Rule Mining",
+            "description": "Association rule mining is the basis for pattern recognition within multiple applications to find frequent relations, causal structures or correlations between occurrences of data. Common applications of association rule mining are market basket...",
+            "image": null
+        },
+        {
+            "url": null,
+            "title": "Locality Sensitive Hashing",
+            "description": "Nearest neighbor search is a popular phenomenon for finding the most similar data example to a given query. Similar to K-nearest neighbor clustering, we rely on a given distance metric like euclidean, hamming distance or jaccard similarity to...",
+            "image": null
+        },
+        {
+            "url": null,
+            "title": "Learning by Gradient Descent: Stochastic Approximation",
+            "description": "Learning with Machines on large multidimensional datasets can be computationally intensive especially if significant batches of data samples are necessary or used for each learning step\u200a-\u200aas in batch gradient descent for perceptron training. However,...",
+            "image": null
+        }
+    ],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "Dutch",
+                "proficiency": "LIMITED_WORKING"
+            },
+            {
+                "name": "English",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ]
+    },
+    "industry": "Information Technology & Services",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "school": {
+                "name": "University of Groningen",
+                "logo": "https://media.licdn.com/dms/image/C560BAQHjFD1KsBlUnQ/company-logo_400_400/0/1519868080428?e=1703721600&v=beta&t=ibr9rujnIcZokKKBnQd60TZXHnVytrrpVhwxed_gkrk",
+                "url": "https://www.linkedin.com/school/rijksuniversiteit-groningen/"
+            },
+            "degree_name": "MSc. Computing Science",
+            "field_of_study": "Data Science and Systems Complexity",
+            "grade": "8.0"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "school": {
+                "name": "Makerere University",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQFzLZeYgV5bFw/company-logo_400_400/0/1601559262787?e=1703721600&v=beta&t=P5QY3J9I72iWdrsngG8RljAQabR-Fjeb8XJiVbbsM28",
+                "url": "https://www.linkedin.com/school/makerere/"
+            },
+            "degree_name": "Bachelor\u2019s Degree",
+            "field_of_study": "Computer Software Engineering",
+            "grade": "4.43/5"
+        }
+    ],
+    "patents": [],
+    "awards": [
+        {
+            "title": "Dean's list",
+            "description": "Award given to students that excel with atleast CGPA 4.0 /5.0 and above",
+            "issuer": "Makerere University",
+            "date": {
+                "month": 5,
+                "day": null,
+                "year": 2017
+            }
+        },
+        {
+            "title": "3rd Place in Financial Inclusion",
+            "description": "HingiCredit came in third place  for the Big Ideas Contest @ UC Berkeley 2016/2017 ",
+            "issuer": "Big Ideas Contest at UC Berkeley",
+            "date": {
+                "month": 4,
+                "day": null,
+                "year": 2017
+            }
+        },
+        {
+            "title": "Ugandan Government Merit Scholarship 2013-2017",
+            "description": "Merit Undergraduate scholarship 2013-2017",
+            "issuer": "Government of Uganda",
+            "date": {
+                "month": 9,
+                "day": null,
+                "year": 2013
+            }
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Databricks Certified Data Engineer Associate",
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2023
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Databricks",
+            "url": "https://credentials.databricks.com/d993dc14-1e69-4afd-b482-502b89324295",
+            "license_number": null,
+            "display_source": "databricks.com",
+            "company": {
+                "id": null,
+                "name": "Databricks",
+                "logo": "https://media.licdn.com/dms/image/D560BAQH5mwtzRrjmvA/company-logo_400_400/0/1688755356558?e=1703721600&v=beta&t=9Soj79rv4BxPm2Wgz6GQPz3EVD5IAfkYHaOxRyo72Uc",
+                "url": null
+            }
+        },
+        {
+            "name": "Partner Training - Developer Foundations",
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Databricks",
+            "url": "https://credentials.databricks.com/4cb78646-53ab-4498-8af7-b027037bd515",
+            "license_number": "4cb78646-53ab-4498-8af7-b027037bd515",
+            "display_source": "databricks.com",
+            "company": {
+                "id": null,
+                "name": "Databricks",
+                "logo": "https://media.licdn.com/dms/image/D560BAQH5mwtzRrjmvA/company-logo_400_400/0/1688755356558?e=1703721600&v=beta&t=9Soj79rv4BxPm2Wgz6GQPz3EVD5IAfkYHaOxRyo72Uc",
+                "url": null
+            }
+        },
+        {
+            "name": "AWS Certified Developer \u2013 Associate",
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Amazon Web Services (AWS)",
+            "url": "https://www.credly.com/badges/ddf137f8-31de-450a-b830-a9b41a2beced?source=linked_in_profile",
+            "license_number": null,
+            "display_source": "credly.com",
+            "company": {
+                "id": null,
+                "name": "Amazon Web Services (AWS)",
+                "logo": "https://media.licdn.com/dms/image/C560BAQER_QnUTXrPJw/company-logo_400_400/0/1670264050886?e=1703721600&v=beta&t=3IYmCjBx7-RbiHOyhmKp9bX_etnAR2mcOn2MncQL5u0",
+                "url": null
+            }
+        },
+        {
+            "name": "SnowPro Core Certification",
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Snowflake",
+            "url": "https://www.youracclaim.com/badges/773b0b88-740f-4458-a360-ef3e41b98dc6?source=linked_in_profile",
+            "license_number": null,
+            "display_source": "youracclaim.com",
+            "company": {
+                "id": null,
+                "name": "Snowflake",
+                "logo": "https://media.licdn.com/dms/image/D560BAQF3mYS3WqCB3g/company-logo_400_400/0/1688575708423?e=1703721600&v=beta&t=D1wDUgAklvT3aLtgiG_pyNp_4IHhWFtHuYUerq0d6Bc",
+                "url": null
+            }
+        },
+        {
+            "name": "AWS Certified Cloud Practitioner",
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Amazon Web Services (AWS)",
+            "url": "https://www.youracclaim.com/badges/c7607794-cd6c-4359-81d8-27cd1107cd87?source=linked_in_profile",
+            "license_number": null,
+            "display_source": "youracclaim.com",
+            "company": {
+                "id": null,
+                "name": "Amazon Web Services (AWS)",
+                "logo": "https://media.licdn.com/dms/image/C560BAQER_QnUTXrPJw/company-logo_400_400/0/1670264050886?e=1703721600&v=beta&t=3IYmCjBx7-RbiHOyhmKp9bX_etnAR2mcOn2MncQL5u0",
+                "url": null
+            }
+        },
+        {
+            "name": "Credit Risk Modeling in Python 2020",
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "365 Data Science",
+            "url": "https://www.udemy.com/certificate/UC-61579ddf-cdee-495f-9123-e9e4a9f9e695/",
+            "license_number": "UC-61579ddf-cdee-495f-9123-e9e4a9f9e695",
+            "display_source": "udemy.com",
+            "company": {
+                "id": null,
+                "name": "365 Data Science",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQEw5aWYBeGnXg/company-logo_400_400/0/1633943472086?e=1703721600&v=beta&t=jPp5PaZZUVSYpSyERNcuZut5Vz4mU13Vvu5UwWIUMqU",
+                "url": null
+            }
+        },
+        {
+            "name": "Introduction to Recommender Systems: Non-Personalized and Content-Based",
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Coursera",
+            "url": "https://www.coursera.org/account/accomplishments/certificate/JZ9SAEQK2ZPP",
+            "license_number": "JZ9SAEQK2ZPP",
+            "display_source": "coursera.org",
+            "company": {
+                "id": null,
+                "name": "Coursera",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQGexnfBxeEG-g/company-logo_400_400/0/1608039227697?e=1703721600&v=beta&t=D0JCWIFRDe_tPD5hdUkJFaYhM7LSoOyZQ1nVMg-nUzo",
+                "url": null
+            }
+        },
+        {
+            "name": "Big Data Analytics with Hadoop and Apache Spark",
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "LinkedIn",
+            "url": "https://www.linkedin.com/learning/certificates/e448369308e9b1d7cba921415e1fb337e388814be1db18ce082c3afb203ee419?trk=backfilled_certificate",
+            "license_number": null,
+            "display_source": "linkedin.com",
+            "company": {
+                "id": null,
+                "name": "LinkedIn",
+                "logo": "https://media.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_400_400/0/1638831589865?e=1703721600&v=beta&t=KNdxtUphPuS9FSsMLufiLiJkk8rvPVMnZH848WjKHl0",
+                "url": null
+            }
+        }
+    ],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "Remote Clock-In Application",
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "description": "The mobile application was part of an ongoing project \u201cTime Tracking System\u201d at the organization which monitors the attendance of employees through getting the clock-in and clock-out times from the premises at the biometric devices. This time is used to facilitate the Human Resource Department to remunerate the employees based on their attendance. But for the system to be effective enough, it has to cater for all scenarios of attendance, and a mobile application was necessary to enable employees who are outside the organization\u2019s premises but are doing official work to be able to account for their time. \nMy tasks in this project were not limited to;\n\u2022\tUser Experience design\n\u2022\tRequirements gathering and analysis\n\u2022\tDevelopment of the Windows Mobile platform frontend, Database and PHP server side scripts, web application, all developed in C#, PHP and asp.net for the web application. With the aid of Visual Studio IDE.\n\u2022\tTesting and deployment\n",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Jarvin",
+                    "last_name": "Mutatiina",
+                    "name": null,
+                    "headline": "Data & Machine Learning Engineer at Deloitte Nederland"
+                }
+            ]
+        },
+        {
+            "title": "Master  Thesis: Classification and feature relevance determination for imbalanced astronomical data",
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "description": "Adaptive distance metric variants of Learning Vector Quantization (LVQ) on real astronomical data provided by Kapteyn Astronomical Institute. Additional state of the art techniques used- SMOTE, Borderline-SMOTE, Random Forest, Ensemble learning.\nSupervised By Asst.Prof.Dr. Kerstin Bunte, Prof. Michael Biehl, Mohammad Mohammadi and Teymoor Saifollahi.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Jarvin",
+                    "last_name": "Mutatiina",
+                    "name": null,
+                    "headline": "Data & Machine Learning Engineer at Deloitte Nederland"
+                }
+            ]
+        },
+        {
+            "title": "Research Internship: Regression Models for Financial Time series Analysis",
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "description": "The project explores the semi-stochastic structure of financial time series data and uses multiple regression\nmodels i.e multivariate linear regression, polynomial, random forest regression and Vector autoregressive\nmodels to predict the future stock prices. The research further strengthens the theory of efficient market\nhypothesis.\nSupervised by Prof. Nicolai Petkov",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Jarvin",
+                    "last_name": "Mutatiina",
+                    "name": null,
+                    "headline": "Data & Machine Learning Engineer at Deloitte Nederland"
+                }
+            ]
+        },
+        {
+            "title": "Water Demand Forecasting based on KNMI weather forecast",
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "description": "The project uses weather data from KNMI and water usage data from CBS to train a predictive model\nbased on Spark ML. The model is then set in a data pipeline where streaming weather data comes in and\nwater usage prediction is done.\nTechnologies used:  Apache Spark/PySpark/Kafka/Docker/Cassandra",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Jarvin",
+                    "last_name": "Mutatiina",
+                    "name": null,
+                    "headline": "Data & Machine Learning Engineer at Deloitte Nederland"
+                }
+            ]
+        },
+        {
+            "title": "HingiCredit: Machine learning based credit risk analysis for agricultural financing",
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "description": "HingiCredit is an automated credit risk analysis system that is used to assess the credit worthiness of farmers requesting for loans from financial institutions. The system uses a credit risk analysis model to assess the credit worthiness and is connected to a  web dashboard, that system users(financial institutions) could interact with.  HingiCredit utilizes Big Data and Machine Learning.\n\nHingiCredit came third in the Big Ideas Contest at UC Berkeley in the Financial Inclusion Category.\n",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Jarvin",
+                    "last_name": "Mutatiina",
+                    "name": null,
+                    "headline": "Data & Machine Learning Engineer at Deloitte Nederland"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Mary",
+                    "last_name": "Musimire",
+                    "name": null,
+                    "headline": "Software Engineer at The Yolo Group"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Akankwasa",
+                    "last_name": "Brian ",
+                    "name": null,
+                    "headline": "Senior Specialist Products & Application Development at MTN Uganda"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "lynette",
+                    "last_name": "wabwire",
+                    "name": null,
+                    "headline": "Software Engineer || Women in Tech Advocate || Entrepreneur"
+                }
+            ]
+        },
+        {
+            "title": "Tootoz Class",
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "description": "Tootoz class is an education app that seeks to offer children aged 3 \u2013 6 years old an opportunity to independently learn some of the topics taught in preschool like the alphabet, numbers, counting, sounds and writing outside formal structures of school. The app provides an interactive way for children to learn at their own pace without the pressures of classroom performance and time constraints. ",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Jarvin",
+                    "last_name": "Mutatiina",
+                    "name": null,
+                    "headline": "Data & Machine Learning Engineer at Deloitte Nederland"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Mary",
+                    "last_name": "Musimire",
+                    "name": null,
+                    "headline": "Software Engineer at The Yolo Group"
+                }
+            ]
+        }
+    ],
+    "publications": [],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 1038,
+                "name": "Deloitte",
+                "logo": "https://media.licdn.com/dms/image/C560BAQGNtpblgQpJoQ/company-logo_400_400/0/1662120927694?e=1703721600&v=beta&t=bmmwvJxo-_SXyHSdxzuptxzpnaI8vEdRYh7es-YNMaw",
+                "url": "https://www.linkedin.com/company/deloitte/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amsterdam, North Holland, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Deloitte",
+                    "description": null,
+                    "title": "Data & ML Engineer | Specialist",
+                    "employment_type": "Full-time"
+                },
+                {
+                    "location": "Amsterdam, North Holland, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2020
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "Deloitte",
+                    "description": "Data & MLOps Engineer",
+                    "title": "Analyst | Artificial Intelligence & Data",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 165742,
+                "name": "University of Groningen",
+                "logo": "https://media.licdn.com/dms/image/C560BAQHjFD1KsBlUnQ/company-logo_400_400/0/1519868080428?e=1703721600&v=beta&t=ibr9rujnIcZokKKBnQd60TZXHnVytrrpVhwxed_gkrk",
+                "url": "https://www.linkedin.com/school/rijksuniversiteit-groningen/",
+                "employees": {
+                    "start": 5001,
+                    "end": 10000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Groningen, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2020
+                        }
+                    },
+                    "company": "University of Groningen",
+                    "description": "Teaching Assistant for Pattern Recognition course.\n\u2022 assisting students at practicals and and grading digital assignments, including giving feedback to students\n\u2022 help to improve existing practical assignments, eventually proposing new tests and questions\n\u2022 invigilate exam and/or re-exam.\n\nTechnologies used: Matlab",
+                    "title": "Graduate Teaching Assistant ",
+                    "employment_type": null
+                },
+                {
+                    "location": "Groningen, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2020
+                        }
+                    },
+                    "company": "University of Groningen",
+                    "description": "\u2022 Guide new bachelor students in integrating into the university.\n\u2022 Supply study support and resources\n\u2022 Create a cohesive group through team building activities and encourage social interaction in and outside the classroom.\n\u2022 Recognize complaints or problems and report them to the appropriate representatives\n\u2022 Give international students extra assistance if and when needed",
+                    "title": "Student Mentor",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 18221375,
+                "name": "Pollicy",
+                "logo": "https://media.licdn.com/dms/image/C510BAQE7QXkbYrxQkA/company-logo_400_400/0/1519868907388?e=1703721600&v=beta&t=BEQk8uogpImFjvrsDg0p79CcBqsNu4S2Lo64pK38PLU",
+                "url": "https://www.linkedin.com/company/pollicy/",
+                "employees": {
+                    "start": 2,
+                    "end": 10
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2018
+                        }
+                    },
+                    "company": "Pollicy",
+                    "description": "Roles include;\n\u2022\tWeb development\n\u2022\tTechnical support and Bug fixes\n\u2022\tData analysis and presentation\n\u2022\tProject Management -> DATAStrong project\n\u2022\tDatabase design and Enterprise integration\n\u2022\tSoftware requirements specification\n\n\nTechnologies used: Python, SQL, Tableau, Power Bi, Excel, PHP,",
+                    "title": "Technology Lead",
+                    "employment_type": null
+                },
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2017
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2017
+                        }
+                    },
+                    "company": "Pollicy",
+                    "description": "A technology consulting and development firm aimed at improving government service delivery through improved civic engagement and participation. Their mission is to digitally transform government service delivery for all citizens. Pollicy functions at the intersection of data, technology and design.\nTasks included;\n\u2022\tWeb development\n\u2022\tSocial Media chat-bot development\n\u2022\tData analysis and visualization\n\u2022\tData skills Capacity Development \n\u2022\tResearch\n\u2022\tCurriculum Development",
+                    "title": "Civic Technology  Fellow",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [
+        {
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "role": "General Secretary",
+            "company": {
+                "id": null,
+                "name": "African Students Community Groningen",
+                "logo": null,
+                "url": null
+            },
+            "cause": "EDUCATION",
+            "description": "I volunteer as the General Secretary for the African Students Community(ASC) Groningen that connects African students and people in the diaspora in Groningen.\nThe roles include: being the official correspondent for the ASC, maintain up to date records and minutes and formulation of media announcements"
+        }
+    ],
+    "skills": [
+        "Terraform",
+        "Google Cloud Platform (GCP)",
+        "Scala",
+        "Continuous Integration and Continuous Delivery (CI/CD)",
+        "Apache Airflow",
+        "Delta live tables",
+        "Data Pipelines",
+        "Extract, Transform, Load (ETL)",
+        "MLOps",
+        "Amazon Web Services (AWS)",
+        "Consulting",
+        "Data Science",
+        "Machine Learning",
+        "Python (Programming Language)",
+        "Software Development",
+        "Data Analysis",
+        "Big Data",
+        "software engineering",
+        "Docker",
+        "SQL"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

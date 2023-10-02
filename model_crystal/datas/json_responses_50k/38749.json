@@ -1,0 +1,591 @@
+{
+    "profile_id": "wimstienstra",
+    "first_name": "Wim",
+    "last_name": "Stienstra",
+    "sub_title": "Student Bachelor's Degree - Computer Science at NHL Stenden Hogeschool",
+    "profile_picture": "https://media.licdn.com/dms/image/D4E03AQHS5p5ozBvzCA/profile-displayphoto-shrink_800_800/0/1676489054611?e=1701302400&v=beta&t=h6gEd9WhpSSX02WU2ruQsjnURHc0GLilatJf3GD1OT0",
+    "background_image": "https://media.licdn.com/dms/image/C5616AQEcEz2OIsAUSg/profile-displaybackgroundimage-shrink_350_1400/0/1536089353981?e=1701302400&v=beta&t=MiAYndFIc0pEn2S9a5EmJeazJOYQmgSsuaOWhrZTbGM",
+    "profile_type": "personal",
+    "entity_urn": "ACoAACMVV_YBpaJuyKOY6Id7Pe47ctFrpWfkXmo",
+    "object_urn": 588601334,
+    "birth_date": {
+        "month": 8,
+        "day": 9,
+        "year": null
+    },
+    "summary": "I am Wim, 23 years old. At the moment I am studying HBO-ICT at the NHL Stenden. Have experience and a passion in web development (ReactJS, .NET, Angular, NodeJS), but like to learn more sides of development. Interested in and experience in software for the medical and sustainable world. I also like to experiment in my spare time to solve problems (software) and to play a game every now and then.",
+    "location": {
+        "country": "Netherlands",
+        "short": "Joure, Friesland",
+        "city": "Joure",
+        "state": "Friesland",
+        "default": "Joure, Friesland, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "NL",
+            "language": "nl"
+        },
+        "supported_locales": [
+            {
+                "country": "NL",
+                "language": "nl"
+            },
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "Duits",
+                "proficiency": "LIMITED_WORKING"
+            },
+            {
+                "name": "Engels",
+                "proficiency": "PROFESSIONAL_WORKING"
+            },
+            {
+                "name": "Fries",
+                "proficiency": "ELEMENTARY"
+            },
+            {
+                "name": "Nederlands",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "Spaans",
+                "proficiency": "ELEMENTARY"
+            }
+        ]
+    },
+    "industry": "Computer Software",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2024
+                }
+            },
+            "school": {
+                "name": "NHL Stenden",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQEawk7o8S0w8w/company-logo_400_400/0/1634543245054?e=1703721600&v=beta&t=36WK2cr90VyNxt2rMdTEIA2_1LK11Se0tZnq5eTWHKM",
+                "url": "https://www.linkedin.com/school/nhlstenden/"
+            },
+            "degree_name": "Bachelor's Degree",
+            "field_of_study": "Computer Science",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2023
+                }
+            },
+            "school": {
+                "name": "Thorbecke Academy - NHL Stenden",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "Minor - Bachelor's Degree",
+            "field_of_study": "Cyber Resilience of Citizens & Organisations - Safety & Security Management",
+            "grade": "8"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "school": {
+                "name": "Thorbecke Academy - NHL Stenden",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "Minor - Bachelor's Degree",
+            "field_of_study": "Criminology - Safety & Security Management",
+            "grade": "8"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "school": {
+                "name": "ROC Friese Poort",
+                "logo": "https://media.licdn.com/dms/image/C560BAQGwCh87f4lcvg/company-logo_400_400/0/1633514193442?e=1703721600&v=beta&t=5mWlGscVf7I27gutbZ_lQxScq4hZvvYt0SM89KNJX-I",
+                "url": "https://www.linkedin.com/school/rocfriesepoort/"
+            },
+            "degree_name": "MBO",
+            "field_of_study": "App/media Developer",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "school": {
+                "name": "OSG Sevenwolden",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "Pre-vocational secondary education",
+            "field_of_study": "Secondary education",
+            "grade": "8"
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [
+        {
+            "name": "ROC Light",
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "authority": "EuroUSC\u2122",
+            "url": null,
+            "license_number": "M4785",
+            "display_source": null,
+            "company": {
+                "id": null,
+                "name": "EuroUSC\u2122",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQH19qonzaZ2eg/company-logo_400_400/0/1519892758049?e=1703721600&v=beta&t=S6Emg74ns4VrSsSCv1btFf6Ny3Ez4r4WTAqizGZw0Jg",
+                "url": null
+            }
+        }
+    ],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "JiP B.V. | Google Dialogflow + Respond.io Websupport Implementation",
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "description": "A prototype of implementing Google Assistant and to figure out how this technology works. Expanded the basics of the prototype. Eventually connected this to a third-party frontend, this is used to increase alternatives to help our customers where a phone call can be too much. This way of support is some sort of hybrid-support where a human helps if the bot can't figure it out.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Wim",
+                    "last_name": "Stienstra",
+                    "name": null,
+                    "headline": "Student Bachelor's Degree - Computer Science at NHL Stenden Hogeschool"
+                }
+            ]
+        },
+        {
+            "title": "The Imagineers Holland | 'Dreamcatcher' Proof of Concept",
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "description": "'Dreamcatcher' is a module for the participation platform called 'SEP 2.0' where residents of towns, cities, can share their opinion about changes in their environment in a clear and new way.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Wim",
+                    "last_name": "Stienstra",
+                    "name": null,
+                    "headline": "Student Bachelor's Degree - Computer Science at NHL Stenden Hogeschool"
+                }
+            ]
+        },
+        {
+            "title": "Study ROC Friese Poort | Interactive map for international interns",
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "description": "Map where students from ROC Friese Poort are shown that have an internship abroad.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Wim",
+                    "last_name": "Stienstra",
+                    "name": null,
+                    "headline": "Student Bachelor's Degree - Computer Science at NHL Stenden Hogeschool"
+                }
+            ]
+        },
+        {
+            "title": "Study ROC Friese Poort | Quiz Modelspoorwegmuseum (model railway museum)",
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "description": "Created a quiz for the Modelspoorwegmuseum (model railway museum) in Sneek as an assignment for my study.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Wim",
+                    "last_name": "Stienstra",
+                    "name": null,
+                    "headline": "Student Bachelor's Degree - Computer Science at NHL Stenden Hogeschool"
+                }
+            ]
+        },
+        {
+            "title": "Comecer Netherlands | Proof of Concept for IBC Dashboard",
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "description": "IBC Dashboard is an overview of all information that is available in the systems of Comecer in a hospital in a blink of an eye.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Wim",
+                    "last_name": "Stienstra",
+                    "name": null,
+                    "headline": "Student Bachelor's Degree - Computer Science at NHL Stenden Hogeschool"
+                }
+            ]
+        }
+    ],
+    "publications": [],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 26639,
+                "name": "ChipSoft",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQFn4_8VOJM6wg/company-logo_400_400/0/1682662480798?e=1703721600&v=beta&t=z-MOU95W3hUsPKwV7PRzDyVSO5ds7eYk2NtVadku188",
+                "url": "https://www.linkedin.com/company/chipsoft/",
+                "employees": {
+                    "start": 501,
+                    "end": 1000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2023
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2023
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Heerenveen, Friesland, Nederland",
+                    "date": {
+                        "start": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2023
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2023
+                        }
+                    },
+                    "company": "ChipSoft",
+                    "description": "As an intern at ChipSoft, my focus was specifically on the consult module within the comprehensive healthcare information system HiX. My main task was to design a user-friendly interface that allowed doctors to provide advice and diagnoses to patients. This involved linking criteria such as age, gender, and diagnoses to specific components of the consultation process.\n\nBefore the development phase, I conducted thorough research, including interviews with ChipSoft consultants and a physician. This enabled me to identify the various needs and requirements and align them with the product owner's specifications.\n\nDuring development, I adhered to ChipSoft's business architecture and standards, utilizing the in-house developed framework based on .NET 6.0. This allowed me to effectively implement the desired functionalities.\n\nThe outcome of my work was a new management page within the consult module, which simplified the administration process and proved highly user-friendly for doctors. By taking into account the specific needs of different user groups, I contributed to improving the efficiency and effectiveness of the HiX healthcare information system.",
+                    "title": "Intern Frontend Developer",
+                    "employment_type": "Internship"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1235980,
+                "name": "JIP B.V.",
+                "logo": "https://media.licdn.com/dms/image/C560BAQHXw7ExCQqQng/company-logo_400_400/0/1628243143093?e=1703721600&v=beta&t=UFxC8jKXb8SipVblGYlNHjsiphuX1aqEUxGyAW4bgnM",
+                "url": "https://www.linkedin.com/company/jipsnel/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Joure",
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2020
+                        }
+                    },
+                    "company": "Perfekt Pak B.V",
+                    "description": "Updated different internal apps to a new framework (.NET Core). Changed a lot of styling where among other things I improved the UX on an ultrawide monitor. \n\nI had the opportunity to pick up my own project in which I have explored Google Assistant with DialogFlow, with this I have created a first prototype which could be used with Google Assistant. After some experimenting I had rebuilt it to 'Jip Snel', the personal assistant of JIP. Eventually connected it to a third-party frontend where I achieved a bot-human hybridsystem where a human helps the bot if it can't figure it out.",
+                    "title": "Junior Developer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 468410,
+                "name": "The Imagineers Holland",
+                "logo": "https://media.licdn.com/dms/image/C560BAQGhmSRtnQk-Lg/company-logo_400_400/0/1519866491059?e=1703721600&v=beta&t=oaghF1RqG4XkV03Qa2e4hiYuagAHLDd5e4Q9S6tarjg",
+                "url": "https://www.linkedin.com/company/the-imagineers-holland/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Sneek",
+                    "date": {
+                        "start": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "The Imagineers Holland",
+                    "description": "At this internship I had the opportunity to work on the proof of concept of a module called 'Dreamcatcher' for 'SEP 2.0'. In this module residents of towns and cities can share their opinion about changes in their environment in a clear and new way. SEP is created with React.js and GraphQL.",
+                    "title": "Intern Frontend Webdeveloper",
+                    "employment_type": "Internship"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1399594,
+                "name": "Comecer",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQF-Nh9Cm_DRSg/company-logo_400_400/0/1675785536559?e=1703721600&v=beta&t=C90nl85un3uPm7XFu4gPbuOSUBZB7kH7pSsGf4b_YT4",
+                "url": "https://www.linkedin.com/company/comecergroup/",
+                "employees": {
+                    "start": 201,
+                    "end": 500
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Joure",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2017
+                        },
+                        "end": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2018
+                        }
+                    },
+                    "company": "Comecer",
+                    "description": "As an intern at Comecer, I have worked on 'IBC Dashboard'. This dashboard creates a new overview to see all information that is available in the systems of Comecer in a blink of an eye.\nIn this project I had the possibility to research and create it in my own way. I have chosen for Angular for frontend and Node.JS for backend, which used the already existing Firebird database.",
+                    "title": "Intern Full Stack Developer",
+                    "employment_type": "Internship"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 3251779,
+                "name": "Noord Computers",
+                "logo": "https://media.licdn.com/dms/image/C560BAQHYkuHS3qSRYQ/company-logo_400_400/0/1519872150791?e=1703721600&v=beta&t=GqSq5lBgvZpbH1i-nmZALyetfHT79EsEBB1vHCI96X4",
+                "url": "https://www.linkedin.com/company/noord-computers/",
+                "employees": {
+                    "start": 2,
+                    "end": 10
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Joure",
+                    "date": {
+                        "start": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2015
+                        }
+                    },
+                    "company": "Noord Computers",
+                    "description": null,
+                    "title": "Intern IT",
+                    "employment_type": "Internship"
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "C#",
+        "Cyberbeveiliging",
+        "Engels",
+        "Leiderschap",
+        "NodeJS",
+        "Python",
+        "GraphQL",
+        "Computeronderhoud",
+        "Software-installatie",
+        "Firebird",
+        "Videoproductie",
+        "Communicatie",
+        "Kritisch denken",
+        "Zelfstandigheid",
+        "Onderzoek",
+        "Technische assistentie",
+        "Teamwork",
+        "Data Analytics",
+        "React.js",
+        "Computervaardigheden"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

@@ -1,0 +1,534 @@
+{
+    "profile_id": "madhumitha-jayavel-9a782a129",
+    "first_name": "Madhumitha",
+    "last_name": "Jayavel",
+    "sub_title": "RF/Analog Design Engineer",
+    "profile_picture": null,
+    "background_image": "https://media.licdn.com/dms/image/C5116AQFa3TlKPy6PAQ/profile-displaybackgroundimage-shrink_350_1400/0/1535781695576?e=1701302400&v=beta&t=c79dqGNuUFwI5_rnzRHL_La50P_Sj_aEcJCuiZ-42xk",
+    "profile_type": "personal",
+    "entity_urn": "ACoAAB-f2w8BhvKxzUF63axsGOOi7lh4H9Fzadk",
+    "object_urn": 530569999,
+    "birth_date": null,
+    "summary": "An Electronics Engineer pursuing master's to equip me more to create the change in Electronics field. \n\nPast experience: Design Verification Engineer for an Automotive Sensing IC",
+    "location": {
+        "country": null,
+        "short": "Netherlands",
+        "city": null,
+        "state": null,
+        "default": "Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "English",
+                "proficiency": "FULL_PROFESSIONAL"
+            },
+            {
+                "name": "German",
+                "proficiency": "ELEMENTARY"
+            },
+            {
+                "name": "Hindi",
+                "proficiency": "LIMITED_WORKING"
+            },
+            {
+                "name": "Tamil",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "Telugu",
+                "proficiency": "PROFESSIONAL_WORKING"
+            }
+        ]
+    },
+    "industry": "Semiconductors",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "school": {
+                "name": "Delft University of Technology",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQFwaGpwaod9mQ/company-logo_400_400/0/1670699851986?e=1703721600&v=beta&t=Aw4oLxoKsIJcblYDjxw9200FClnyhZu8DxzcfJRDFOs",
+                "url": "https://www.linkedin.com/school/tudelft/"
+            },
+            "degree_name": "Master of Science - MS",
+            "field_of_study": "Microelectronics",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "school": {
+                "name": "Anna University",
+                "logo": "https://media.licdn.com/dms/image/C560BAQEpZyTSZY9YlQ/company-logo_400_400/0/1519897730494?e=1703721600&v=beta&t=ikhTIWoTqorfEk_ZqddIBhELphQPRDXwkw50fkO-okI",
+                "url": "https://www.linkedin.com/school/anna-university/"
+            },
+            "degree_name": "Bachelor of Engineering - BE",
+            "field_of_study": "Electronics and Communications Engineering",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2010
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "school": {
+                "name": "DAV Gopallapuram, Chennai",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "Higher Secondary Education",
+            "field_of_study": null,
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [
+        {
+            "title": " Distinguished Project Contributor Award",
+            "description": "- Found tricky bugs to enable design closure and also was able to achieve code coverage of more than 97% for a DUT, first block to achieve such high numbers in the project. ",
+            "issuer": null,
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2016
+            }
+        },
+        {
+            "title": "Certification of Achievement",
+            "description": "- Secured school second with a CGPA of 9.8/10\n- Received the award from  G.P.Chopra, Padma Bhushan awardee, President of DAV management committee.",
+            "issuer": "DAV Public School, Chennai",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2010
+            }
+        },
+        {
+            "title": "Certification of Merit",
+            "description": "- Won First place in Code Coliseum and idea presentation for topics \u201cOnshore Windmill Energy\u201d, \u201cThermal Camera Pitch\u201d. ",
+            "issuer": "Inter college symposium",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": null
+            }
+        }
+    ],
+    "certifications": [],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "Radix 4 Decimation in Frequency - Fast Fourier Transform (DIF-FFT) using Distributed Arithmetic Algorithm (DAA)",
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "description": "* Designed and implemented a novel area efficient multiplier less parallel processor and simulated the design on an Alter FPGA board. \n* A comparison study based on the simulation results of different algorithms performing FFT functions   along with DAA showed that the proposed method had higher throughput, higher clock frequency and lesser sequential and combinational elements.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Madhumitha",
+                    "last_name": "Jayavel",
+                    "name": null,
+                    "headline": "RF/Analog Design Engineer"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Abhishek",
+                    "last_name": "Karuna",
+                    "name": null,
+                    "headline": "Analytics Consultant at LatentView Analytics"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Mohamed Kamil Ashiq ",
+                    "last_name": "Mohamed Kalith",
+                    "name": null,
+                    "headline": "Software Engineer - STC | Wipro | Madras Institute of Technology"
+                }
+            ]
+        },
+        {
+            "title": "Multiply Accumulate Circuit (MAC) design for digital Filters",
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "description": "* Implemented and simulated the design to perform accumulation together with multiplication by adding previous MAC results to the partial products of current multiplication in quartus II. \n* Conventional fixed point complex number multiplier-cum-accumulator model uses four fixed point adders and multiplier, whereas in the proposed architecture extra adder depth can be avoided.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Madhumitha",
+                    "last_name": "Jayavel",
+                    "name": null,
+                    "headline": "RF/Analog Design Engineer"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Mohamed Kamil Ashiq ",
+                    "last_name": "Mohamed Kalith",
+                    "name": null,
+                    "headline": "Software Engineer - STC | Wipro | Madras Institute of Technology"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Abhishek",
+                    "last_name": "Karuna",
+                    "name": null,
+                    "headline": "Analytics Consultant at LatentView Analytics"
+                }
+            ]
+        },
+        {
+            "title": "Automatic Floor Cleaner Robot",
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "description": "* Build using PIC 16f877a microcontroller with L293D motor driver and infrared sensor. \n* Upon sensing obstacles through ir sensors, a signal is fed to the microcontroller which in turn drives the motor wheel system to change its direction of motion accordingly. \n* The Algorithm for the state transitions was programmed using the mikroC compliers.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Madhumitha",
+                    "last_name": "Jayavel",
+                    "name": null,
+                    "headline": "RF/Analog Design Engineer"
+                }
+            ]
+        }
+    ],
+    "publications": [
+        {
+            "name": "FPGA Implementation of FFT Architecture using Modified Radix-4 Algorithm",
+            "publisher": "Asian Journal of Research in Social Sciences and Humanities",
+            "url": "https://www.aijsh.com/shop/articlepdf/2017/02/14859291325abstract.pdf",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2017
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Madhumitha",
+                    "last_name": "Jayavel",
+                    "name": null,
+                    "headline": "RF/Analog Design Engineer"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Mohamed Kamil Ashiq ",
+                    "last_name": "Mohamed Kalith",
+                    "name": null,
+                    "headline": "Software Engineer - STC | Wipro | Madras Institute of Technology"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Abhishek",
+                    "last_name": "Karuna",
+                    "name": null,
+                    "headline": "Analytics Consultant at LatentView Analytics"
+                }
+            ]
+        },
+        {
+            "name": "Design and Implementation of FFT Architecture using DA based Radix-4 Butterly Elements",
+            "publisher": "Asia Pacific Conference on Engineering and Applied Sciences",
+            "url": null,
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2016
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Madhumitha",
+                    "last_name": "Jayavel",
+                    "name": null,
+                    "headline": "RF/Analog Design Engineer"
+                }
+            ]
+        }
+    ],
+    "courses": [
+        {
+            "name": "Advanced Wireless Transceivers",
+            "number": null
+        },
+        {
+            "name": "Analog Integrated Circuit Design",
+            "number": null
+        },
+        {
+            "name": "Computer Architecture",
+            "number": null
+        },
+        {
+            "name": "Digital IC",
+            "number": null
+        },
+        {
+            "name": "Digital VLSI",
+            "number": null
+        },
+        {
+            "name": "Electronics Devices",
+            "number": null
+        },
+        {
+            "name": "Embedded Systems",
+            "number": null
+        },
+        {
+            "name": "Integrated Circuits for RF/Wireless Applications",
+            "number": null
+        },
+        {
+            "name": "Methods of System Design",
+            "number": null
+        },
+        {
+            "name": "Nyquist-Rate Data Converters ",
+            "number": null
+        },
+        {
+            "name": "Signal Processing",
+            "number": null
+        },
+        {
+            "name": "Structured Electronics Design",
+            "number": null
+        }
+    ],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 4988256,
+                "name": "ItoM",
+                "logo": "https://media.licdn.com/dms/image/C560BAQE4BjUodmN_Sg/company-logo_400_400/0/1519888465345?e=1703721600&v=beta&t=3LrhZCVBuQMPmgnAG_3C-8ba1jKWIWBMkWAtV4v6Btk",
+                "url": "https://www.linkedin.com/company/itom/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2020
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "ItoM",
+                    "description": "Design specification/requirements feasibility (MATLAB), Schematics level Design (LTSpice, Cadence), and Layout for RF/Analog systems (Cadence)",
+                    "title": "RF/Analog Design Engineer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 25138588,
+                "name": "Catena Microelectronics B.V.",
+                "logo": null,
+                "url": "https://www.linkedin.com/company/catena-microelectronics-b.v./",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Delft Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2020
+                        }
+                    },
+                    "company": "Catena Microelectronics B.V.",
+                    "description": "A  low  power  Mixer  First  receiver  chain  with  programmable  ZIF/LIF  architecture  for  1/2/4MHzbandwidth in 1GHz frequency band for IEEE 802.11ah WiFi HaLow standard.\n\n* Reconfigurable ZIF/LIF architecture with ACR/NACR of 18 dB/30 dB (3[U+135D]order filter roll-offand notch filter) with 4 mW power consumption. A 24 \u2013 44dB gain programmability design with -20 dBinput impedance (S11) and 5 dB NF",
+                    "title": "Master Thesis Student",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1443730,
+                "name": "MulticoreWare",
+                "logo": "https://media.licdn.com/dms/image/C510BAQEmGY9GKelitg/company-logo_400_400/0/1564386059890?e=1703721600&v=beta&t=kkDLJE2b3s-3dBzoMPsU3ivNFgoDSmCcm63ruJlrJas",
+                "url": "https://www.linkedin.com/company/multicoreware-inc/",
+                "employees": {
+                    "start": 201,
+                    "end": 500
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Chennai Area, India",
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2018
+                        }
+                    },
+                    "company": "MulticoreWare Inc",
+                    "description": "Work as a verification engineer,\n* Implement block level SoC verification through Universal Verification Methodology (UVM) and work towards attaining high functional code coverage for DUT.\n* Design algorithm to validate the RTL, integrate the block level test bench to system level and add tests to verify all possible use cases in system verilog.",
+                    "title": "Design Verification Engineer",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Verilog",
+        "C++",
+        "Universal Verification Methodology (UVM)",
+        "Field-Programmable Gate Arrays (FPGA)",
+        "Application-Specific Integrated Circuits (ASIC)",
+        "Very-Large-Scale Integration (VLSI)",
+        "Printed Circuit Board (PCB) Design",
+        "C",
+        "Linux",
+        "Java",
+        "VHDL",
+        "Microchip PIC",
+        "Microprocessors",
+        "SystemVerilog",
+        "RTL Design",
+        "Digital Circuit Design",
+        "System Verilog",
+        "Computer Architecture",
+        "Hardware Description Language",
+        "Electronics Hardware Design"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

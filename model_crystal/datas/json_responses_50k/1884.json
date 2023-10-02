@@ -1,0 +1,629 @@
+{
+    "profile_id": "gouveiajoao",
+    "first_name": "Jo\u00e3o",
+    "last_name": "Gouveia",
+    "sub_title": "Software Engineer at Kopano bv",
+    "profile_picture": "https://media.licdn.com/dms/image/C5603AQGZFg2UuQeuhQ/profile-displayphoto-shrink_800_800/0/1517360731369?e=1701302400&v=beta&t=9i2JIgg2vEapO5uvGA__mi060gIX4ECRPl7BRPAUMGA",
+    "background_image": "https://media.licdn.com/dms/image/C4D16AQHrcxRlzaL5WA/profile-displaybackgroundimage-shrink_350_1400/0/1623770424115?e=1701302400&v=beta&t=bvBJwYv5yT7FPfTVQTEl9i8TyIUoBbQT-iOhsicIVLg",
+    "profile_type": "personal",
+    "entity_urn": "ACoAAAlMfxsBSZdvvgPe_gbzdA8pyDvVWX0AqqY",
+    "object_urn": 156008219,
+    "birth_date": null,
+    "summary": "As a developer I strive to build clean, well designed and tested code. I love to work with a team that aims for consistent and clean implementations. I absolutely love a good architecture and I wish to continue to work on my skills in this area. As far as programming languages go, I tend to consider myself a bit agnostic. I believe a language is a tool and, like so, we should try to choose the right one for the job. My experience comes primarily from C/C++ and a bit of Javascript. Recently I have also taken on Go (or golang if you prefer that moniker)  and have been loving it. I'm also interested in dipping myself in rust and maybe python in the future.\n\nAs for my personal life, I'd say my second passion is flight. When I can, I am always looking for a next Paragliding adventure but I also love flying my FPV drones. Being able to build and tinker with them is  almost as fun as flying them :)\nAs a true nerd I also enjoy learning about science, especially physics and rocket science. Oh and, of course, video games :)\nWriting code is also part of my hobbies. I usually have some project going on at home, usually involving a raspberry pi and some sort of IoT device. Thank you open source!",
+    "location": {
+        "country": null,
+        "short": "Netherlands",
+        "city": null,
+        "state": null,
+        "default": "Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "English",
+                "proficiency": "FULL_PROFESSIONAL"
+            },
+            {
+                "name": "German",
+                "proficiency": "LIMITED_WORKING"
+            },
+            {
+                "name": "Portuguese",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "Spanish",
+                "proficiency": "PROFESSIONAL_WORKING"
+            }
+        ]
+    },
+    "industry": "Computer Software",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2009
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "school": {
+                "name": "NOVA School of Science and Technology",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQEq5mXm2lLnrg/company-logo_400_400/0/1613123339200?e=1703721600&v=beta&t=BWQIGB7rltafW7XxB3Lkn_B0_11WZbp1S3MgAL34ZEc",
+                "url": "https://www.linkedin.com/school/nova-school-of-science-and-technology/"
+            },
+            "degree_name": "Master Degree",
+            "field_of_study": "Computer Engineering",
+            "grade": "16/20"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2011
+                }
+            },
+            "school": {
+                "name": "Technische Universit\u00e4t Dresden",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQGSf2Po21RKDQ/company-logo_400_400/0/1571390393642?e=1703721600&v=beta&t=K3ERdXQEnlOnw67E6XbLpHS2OvLOUGiggUJm_WgDQZs",
+                "url": "https://www.linkedin.com/school/tu-dresden/"
+            },
+            "degree_name": "Masters Degree",
+            "field_of_study": "Computational Engineering",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2006
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2009
+                }
+            },
+            "school": {
+                "name": "NOVA School of Science and Technology",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQEq5mXm2lLnrg/company-logo_400_400/0/1613123339200?e=1703721600&v=beta&t=BWQIGB7rltafW7XxB3Lkn_B0_11WZbp1S3MgAL34ZEc",
+                "url": "https://www.linkedin.com/school/nova-school-of-science-and-technology/"
+            },
+            "degree_name": "Bachelor of Science (B.S.)",
+            "field_of_study": "Computer Engineering",
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [
+        {
+            "name": "Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning",
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Coursera",
+            "url": "https://www.coursera.org/account/accomplishments/verify/MLX4XLNPAVVB",
+            "license_number": "MLX4XLNPAVVB",
+            "display_source": "coursera.org",
+            "company": {
+                "id": null,
+                "name": "Coursera",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQGexnfBxeEG-g/company-logo_400_400/0/1608039227697?e=1703721600&v=beta&t=D0JCWIFRDe_tPD5hdUkJFaYhM7LSoOyZQ1nVMg-nUzo",
+                "url": null
+            }
+        },
+        {
+            "name": "Advanced Unity 2D: Platformer Player Movement",
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "authority": "Lynda.com",
+            "url": "http://www.lynda.com/ViewCertificate/4775791F924F4D2B9581D94C34BAA7AC?utm_source=linkedin&utm_medium=sharing&utm_campaign=certificate",
+            "license_number": "477579",
+            "display_source": "lynda.com",
+            "company": {
+                "id": null,
+                "name": "Lynda.com",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQFfDMello2Gtg/company-logo_400_400/0/1519856598122?e=1703721600&v=beta&t=m8qlMfhpFgMwD6hXTdCu2V5yMeI5MahGc9YlF39e2dI",
+                "url": null
+            }
+        },
+        {
+            "name": "Unity 5 2D Essential Training",
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "authority": "Lynda.com",
+            "url": "http://www.lynda.com/ViewCertificate/A092B7EA6E6845E7BC6BEE6177E0B0E2?utm_source=linkedin&utm_medium=sharing&utm_campaign=certificate",
+            "license_number": "A092B7",
+            "display_source": "lynda.com",
+            "company": {
+                "id": null,
+                "name": "Lynda.com",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQFfDMello2Gtg/company-logo_400_400/0/1519856598122?e=1703721600&v=beta&t=m8qlMfhpFgMwD6hXTdCu2V5yMeI5MahGc9YlF39e2dI",
+                "url": null
+            }
+        },
+        {
+            "name": "Introduction to Game Development",
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Coursera Course Certificates",
+            "url": "https://www.coursera.org/account/accomplishments/verify/3YGR4TZURSE9",
+            "license_number": "3YGR4TZURSE9",
+            "display_source": "coursera.org",
+            "company": {
+                "id": null,
+                "name": "Coursera Course Certificates",
+                "logo": "https://media.licdn.com/dms/image/C560BAQG24u4DKpQ5dQ/company-logo_400_400/0/1519872880167?e=1703721600&v=beta&t=8vKeASx7tVQjpnz7ufoMukQR2V0rjw_xIJcw_BnIuUw",
+                "url": null
+            }
+        },
+        {
+            "name": "Astrobiology and the Search for Extraterrestrial Life",
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Coursera",
+            "url": "https://www.coursera.org/course/astrobio",
+            "license_number": null,
+            "display_source": "coursera.org",
+            "company": {
+                "id": null,
+                "name": "Coursera",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQGexnfBxeEG-g/company-logo_400_400/0/1608039227697?e=1703721600&v=beta&t=D0JCWIFRDe_tPD5hdUkJFaYhM7LSoOyZQ1nVMg-nUzo",
+                "url": null
+            }
+        }
+    ],
+    "organizations": [],
+    "projects": [],
+    "publications": [
+        {
+            "name": "Indirect Keyword Recommendation",
+            "publisher": "The 2014 IEEE/WIC/ACM International Conference on Web Intelligence, WIC 2014",
+            "url": "http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6927569",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2014
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Jo\u00e3o",
+                    "last_name": "Gouveia",
+                    "name": null,
+                    "headline": "Software Engineer at Kopano bv"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Andr\u00e9",
+                    "last_name": "Sabino",
+                    "name": null,
+                    "headline": "Assistant Professor, and Course Coordinator for the BSc in Computer Science and BSc in Information Systems Management at IADE, Universidade Europeia"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Armanda",
+                    "last_name": "Rodrigues",
+                    "name": null,
+                    "headline": "Associate Professor at Faculdade de Ci\u00eancias e Tecnologia da Universidade Nova de Lisboa - FCT NOVA"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Miguel Goul\u00e3o",
+                    "headline": null
+                }
+            ]
+        },
+        {
+            "name": "Project Lx Conventos: Travelling through space and time in Lisbon\u2019s religious buildings",
+            "publisher": "12th International Conference on Urban History/European Association for Urban History ( Netherlands )",
+            "url": null,
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2014
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Jo\u00e3o",
+                    "last_name": "Gouveia",
+                    "name": null,
+                    "headline": "Software Engineer at Kopano bv"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Fernando",
+                    "last_name": "Branco",
+                    "name": null,
+                    "headline": "Senior Engineering Manager at OutSystems"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Armanda",
+                    "last_name": "Rodrigues",
+                    "name": null,
+                    "headline": "Associate Professor at Faculdade de Ci\u00eancias e Tecnologia da Universidade Nova de Lisboa - FCT NOVA"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Nuno",
+                    "last_name": "Correia",
+                    "name": null,
+                    "headline": "Professor"
+                }
+            ]
+        },
+        {
+            "name": "Visualizing productive networks",
+            "publisher": "Proceedings of the 13th International Conference WWW/INTERNET",
+            "url": "http://www.iadisportal.org/ijwi/papers/2014121203.pdf",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2014
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Jo\u00e3o",
+                    "last_name": "Gouveia",
+                    "name": null,
+                    "headline": "Software Engineer at Kopano bv"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Armanda",
+                    "last_name": "Rodrigues",
+                    "name": null,
+                    "headline": "Associate Professor at Faculdade de Ci\u00eancias e Tecnologia da Universidade Nova de Lisboa - FCT NOVA"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Andr\u00e9",
+                    "last_name": "Sabino",
+                    "name": null,
+                    "headline": "Assistant Professor, and Course Coordinator for the BSc in Computer Science and BSc in Information Systems Management at IADE, Universidade Europeia"
+                }
+            ]
+        },
+        {
+            "name": "Temporal and Spatial Evolution through Images",
+            "publisher": "IEEE International Symposium on Multimedia 2015",
+            "url": null,
+            "date": {
+                "month": null,
+                "day": null,
+                "year": null
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Jo\u00e3o",
+                    "last_name": "Gouveia",
+                    "name": null,
+                    "headline": "Software Engineer at Kopano bv"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Fernando",
+                    "last_name": "Branco",
+                    "name": null,
+                    "headline": "Senior Engineering Manager at OutSystems"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Rui",
+                    "last_name": "N\u00f3brega",
+                    "name": null,
+                    "headline": "Assistant Professor at Faculdade de Ci\u00eancias e Tecnologia da Universidade Nova de Lisboa - FCT NOVA"
+                }
+            ]
+        }
+    ],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 10815502,
+                "name": "Kopano bv",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQEhAnszSJ_9AQ/company-logo_400_400/0/1519866630601?e=1703721600&v=beta&t=blH45dil0oXJ17mUqTD0A0MT5_TsSy3g82jDv6HLo94",
+                "url": "https://www.linkedin.com/company/kopano-hq/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Kopano bv",
+                    "description": "Kopano creates open source E-mail, Calendar and Video Call software.\nResponsible for maintaining an E-mail and Calendar server based on MAPI (C++)\nResponsible for developing a secure transport cloud system for SMTP messages (Go)\n(C++, Go (golang), Ubuntu, Debian, LDAP)",
+                    "title": "Software Engineer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 73634,
+                "name": "CADMATIC",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQG5ZMHC8alY7w/company-logo_400_400/0/1530883381434?e=1703721600&v=beta&t=wLcP3wRmp70LVZpw5aMrDDW4OJLEO7KItQXBT7BZpGs",
+                "url": "https://www.linkedin.com/company/cadmatic/",
+                "employees": {
+                    "start": 201,
+                    "end": 500
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Groningen, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2021
+                        }
+                    },
+                    "company": "CADMATIC",
+                    "description": "Cadmatic develops and supplies 3D design software and information management solutions for the plant and marine industries.\nResponsible for developing the integration of the Hull application with the COS system. COS is a system of servers which makes sure all data is kept up-to-date and consistent across several sites.\n(C++)",
+                    "title": "Software Engineer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 2438499,
+                "name": "Horus View and Explore B.V.",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQGkxO5g-oGenQ/company-logo_400_400/0/1635412157637?e=1703721600&v=beta&t=EUqHgx_qLr-UZKgi0fLSUrQI5FEIflEJCxKpJU857Io",
+                "url": "https://www.linkedin.com/company/horus-view-and-explore-b-v-/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Groningen Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2017
+                        },
+                        "end": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2018
+                        }
+                    },
+                    "company": "Horus View and Explore B.V.",
+                    "description": "Horus focuses on Video and Sensor Technology, Geographical Information Systems, Virtual Reality and Live Data Streaming.\n(C++, openGL, QT, Javascript)",
+                    "title": "Software Engineer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 683152,
+                "name": "Faculdade de Ci\u00eancias Sociais e Humanas da Universidade Nova de Lisboa",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQEq5mXm2lLnrg/company-logo_400_400/0/1613123339200?e=1703721600&v=beta&t=BWQIGB7rltafW7XxB3Lkn_B0_11WZbp1S3MgAL34ZEc",
+                "url": "https://www.linkedin.com/school/nova-school-of-science-and-technology/",
+                "employees": {
+                    "start": 501,
+                    "end": 1000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Lisbon, Portugal",
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2014
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2016
+                        }
+                    },
+                    "company": "NOVA School of Science and Technology",
+                    "description": "This grant is within the \"Europeana Space: Spaces of possibility for the creative re-use of Europeana's content\". The project is composed of several domains, and I collaborate with the section dedicated to analysing dance.\nMy job is to develop a tool conceived and designed to assist the creative processes of choreographers, functioning as a digital notebook for personal annotations through video annotation. I am also developing a mobile app to serve as a remote control for the tool. \n\nThe main technologies behind this project are C++, openCV, ffmpeg, and QT.",
+                    "title": "Research Fellow: C++ Developer",
+                    "employment_type": null
+                },
+                {
+                    "location": "Lisbon, Portugal",
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2013
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2014
+                        }
+                    },
+                    "company": "NOVA School of Science and Technology",
+                    "description": "The grant is for a project called LxConventos which comes from a partnership with the City Council of Lisbon, the Faculty of Sciences and Technology and the Faculty of Social Sciences and \nHumanities of the New University of Lisbon. The aim of this project is to build a web application that shows the historical development of Lisbon's convents. \nOne part of the application shows the position and structure of the convents on a map, both as they were in 1834 and as they are in the present, providing users a comparison of the location and structure of the convents. It is also possible to visualize old cartographic maps of Lisbon and compare them. The second part of the project consists in visualizing the historical development of a selected convent through photography, 3D models and textual information. This helps to show users both the structural differences of the convent and the area around it. \n\nThe technologies behind the project are Javascript (with jQuery), HTML5, CSS3 and the ArcGIS Javascript API. Different image analysing algorithms were studied to create the 3D visualizations.",
+                    "title": "Research Fellow: Web Developer",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "C (Programming Language)",
+        "Go (Programming Language)",
+        "Rust (Programming Language)",
+        "C++",
+        "Linux",
+        "golang",
+        "JavaScript",
+        "Node.js",
+        "Git",
+        "QT",
+        "Arduino",
+        "Java",
+        "jQuery",
+        "CSS",
+        "D3",
+        "HTML5",
+        "ArcGIS Javascript API",
+        "Programming",
+        "Web Development"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

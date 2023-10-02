@@ -1,0 +1,543 @@
+{
+    "profile_id": "conradvandenende",
+    "first_name": "Conrad",
+    "last_name": "van den Ende",
+    "sub_title": "Customer Portfolio Analyst for the veterinary information management service at the EMA",
+    "profile_picture": null,
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAABcgaooBrFMNCWQvqTUGvEDH2I8OJi9kGgs",
+    "object_urn": 388000394,
+    "birth_date": null,
+    "summary": "Growing up in east-Africa, its natural beauty fascinated me from a young age and by completion of high school I decided to study Biology. Having completed my bachelor and master\u2019s degree in Biology, I am currently finalising my PhD in evolutionary biology.  My PhD projects have focused on quantifying indices of variation for molecular and morphological data. Thus, I have a thorough understanding of statistics, and I am familiar with a variety of statistical methods, including Bayesian statistics utilising Markov chain Monte Carlo, randomised partition homogeneity tests, phylogenetic least squares analysis, and a variety of non-parametric statistical tests. Through this work, I discovered a love of data which I currently apply in a more practical setting, as a trainee at EMA, at the Information Processing and Analytics service. Nowadays, I bring value from my past and contribute to the continued growth in information management as part of the delivery of the EMA\u2019s regulatory mission.\n\nAs a member of the Agency's Information Processing and Analytics service, I mainly act as a data engineer to evaluate the success of the newly created Veterinary Pharmacovigilance recoding process - an essential part of the New Veterinary Regulation and the Monitoring value stream.\n\nEvaluating the success rate of recoding involved familiarising myself with the Cloud Architecture in place for the New Veterinary Regulation implementation: Data lake storage, Cloud database (Azure CosmosDB), Cloud ETL (Azure Data Factory) and Cloud Big Data Compute (Azure Databricks). I have authored Databricks notebooks in R and Python using the Apache spark technology with the PySpark and SparkR interfaces to analyse the outcome of the recoding process. I also acted as a system analyst to document a business process supporting the recoding activity: the Extended Product Index under the SAFe agile methodology and wrote specifications using user stories. Currently, I am assisting with the implementation of the SPLINK python library for duplicate detection of adverse event reports on the EMA's production environment.",
+    "location": {
+        "country": "Netherlands",
+        "short": "Amsterdam, North Holland",
+        "city": "Amsterdam",
+        "state": "North Holland",
+        "default": "Amsterdam, North Holland, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "NL",
+            "language": "nl"
+        },
+        "supported_locales": [
+            {
+                "country": "NL",
+                "language": "nl"
+            },
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "English",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "Nederlands",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ]
+    },
+    "industry": "Information Technology & Services",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "school": {
+                "name": "Leiden University",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQEFlK1wNecYbA/company-logo_400_400/0/1519855876129?e=1703721600&v=beta&t=D842EBczsDCzHDS7ZG70LkPNH6fNu0NutCEKkHyGGcQ",
+                "url": "https://www.linkedin.com/school/leiden-university/"
+            },
+            "degree_name": "Master of Science (MSc)",
+            "field_of_study": "Evolution, Biodiversity and Conservation Biology",
+            "grade": "8.82"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2008
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "school": {
+                "name": "Utrecht University",
+                "logo": "https://media.licdn.com/dms/image/C510BAQG6HfmPTdJKXw/company-logo_400_400/0/1519884681258?e=1703721600&v=beta&t=dip0JQLPHIafltY09rUwsjeZiPiJpmfD6vJeMHxW-84",
+                "url": "https://www.linkedin.com/school/universiteit-utrecht/"
+            },
+            "degree_name": "Bachelor of Science (BSc)",
+            "field_of_study": "Biologie (Biology)",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2005
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2008
+                }
+            },
+            "school": {
+                "name": "Hogeschool van Arnhem en Nijmegen (HAN)",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQE_-3BSObKKhw/company-logo_400_400/0/1561721136820?e=1703721600&v=beta&t=2FjoelfC7Q57j-cIZVF0MHph40qwze9WcfqLfiBa7y8",
+                "url": "https://www.linkedin.com/school/hogeschool-van-arnhem-en-nijmegen/"
+            },
+            "degree_name": "Propedeuse",
+            "field_of_study": "Life Sciences",
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [],
+    "organizations": [],
+    "projects": [],
+    "publications": [
+        {
+            "name": "Why should we compare morphological and molecular disparity?",
+            "publisher": "Methods in Ecology and Evolution",
+            "url": "https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.14166",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2023
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Conrad",
+                    "last_name": "van den Ende",
+                    "name": null,
+                    "headline": "Customer Portfolio Analyst for the veterinary information management service at the EMA"
+                }
+            ]
+        },
+        {
+            "name": "The existence and break-up of the Antarctic land bridge as indicated by both amphi-Pacific distributions and tectonics",
+            "publisher": "Elsevier",
+            "url": "http://www.sciencedirect.com/science/article/pii/S1342937X16302829",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2017
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Conrad",
+                    "last_name": "van den Ende",
+                    "name": null,
+                    "headline": "Customer Portfolio Analyst for the veterinary information management service at the EMA"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Lloyd",
+                    "last_name": "White",
+                    "name": null,
+                    "headline": "Senior Lecturer at University of Wollongong"
+                }
+            ]
+        },
+        {
+            "name": "Urchins on the edge: an echinoid fauna with a mixed environmental signal from the Eocene of Jamaica - Springer",
+            "publisher": "Swiss journal of Palaeontology",
+            "url": "http://link.springer.com/article/10.1007%2Fs13358-015-0072-3",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2015
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Conrad",
+                    "last_name": "van den Ende",
+                    "name": null,
+                    "headline": "Customer Portfolio Analyst for the veterinary information management service at the EMA"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Stephen K. Donovan",
+                    "headline": null
+                }
+            ]
+        },
+        {
+            "name": "Internal Disorder: Post-Mortem Burrows within the Tests of the Holasteroid Echinoid Echinocorys Leske",
+            "publisher": "Ichnos: An International Journal for Plant and Animal Traces",
+            "url": "http://www.tandfonline.com/doi/abs/10.1080/10420940.2014.907571#.VeVnRvQp-wg",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2014
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Conrad",
+                    "last_name": "van den Ende",
+                    "name": null,
+                    "headline": "Customer Portfolio Analyst for the veterinary information management service at the EMA"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Stephen K. Donovan",
+                    "headline": null
+                }
+            ]
+        },
+        {
+            "name": "TAPHONOMIC SIGNIFICANCE OF A DENSE INFESTATION OF ENSIS AMERICANUS (BINNEY) BY BALANUS CRENATUS BRUGI\u00c8RE, NORTH SEA",
+            "publisher": "PALAIOS",
+            "url": "http://www.bioone.org/doi/abs/10.2110/palo.2013.098",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2013
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Conrad",
+                    "last_name": "van den Ende",
+                    "name": null,
+                    "headline": "Customer Portfolio Analyst for the veterinary information management service at the EMA"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Stephen K. Donovan",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Laura Cotton",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Gennaro Scognamiglio",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Maretti Zitterstein",
+                    "headline": null
+                }
+            ]
+        }
+    ],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 15230,
+                "name": "European Medicines Agency",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQH7mU7EEx39Eg/company-logo_400_400/0/1688974805659?e=1703721600&v=beta&t=dWCx3IqBvCpRDhV8RTRMosJJ1DpTrp4Zu4Qd5DwUMZc",
+                "url": "https://www.linkedin.com/company/european-medicines-agency/",
+                "employees": {
+                    "start": 501,
+                    "end": 1000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amsterdam, Noord-Holland, Nederland",
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2023
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "European Medicines Agency",
+                    "description": "I am working on the data quality framework of veterinary medicine databases. I translate specification from business to technical requirements.",
+                    "title": "Customer Portfolio Analyst at the veterinary information management service",
+                    "employment_type": "Full-time"
+                },
+                {
+                    "location": "Amsterdam",
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2023
+                        }
+                    },
+                    "company": "European Medicines Agency",
+                    "description": "Most recently, I assist with implementing the use of the SPLINK pytyhon library (based on the fastlink algorithm for R) for Duplicate Detection of Adverse Event Reports in the Pharmacovigilance value stream for the EMA.\n\nI have also evaluated the success rate of recoding by familiarising myself with the Cloud Architecture in place for the New Veterinary Regulation implementation: Data lake storage, Cloud database (Azure CosmosDB), Cloud ETL (Azure Data Factory) and Cloud Big Data Compute (Azure Databricks). I authored Databricks notebooks in R and Python using Apache spark with the PySpark and SparkR interfaces to analyse the outcome of the recoding process. I also acted as a system analyst to document a business process supporting the recoding activity: the Extended Product Index under the SAFe agile methodology and wrote specifications using user stories.",
+                    "title": "Trainee",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 9332,
+                "name": "University of Bath",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQHQLVwhPQAQ1g/company-logo_400_400/0/1677695706581?e=1703721600&v=beta&t=2U9H-WfJmgBNOM0uCsqjG6qXkJ4rC0BmgjrBCe9Q1cQ",
+                "url": "https://www.linkedin.com/school/university-of-bath/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2023
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2017
+                        },
+                        "end": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2023
+                        }
+                    },
+                    "company": "University of Bath",
+                    "description": null,
+                    "title": "Phd-student (aio)",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 295651,
+                "name": "Museon",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQFKADTnIeRg2Q/company-logo_400_400/0/1678207158278?e=1703721600&v=beta&t=ygG4TCLWO_aLQUdyoSKkH8Yu0sFIPC-Lm9L8jMnRJQE",
+                "url": "https://www.linkedin.com/company/museonomniversum/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Den Haag",
+                    "date": {
+                        "start": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2016
+                        }
+                    },
+                    "company": "Museon-Omniversum",
+                    "description": "I assisted in the choice of (fossil) collection for the Human Evolution hall and did research on the geology collection in preparation for the development of the domain hall Geology.",
+                    "title": "Vrijwilliger",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 980926,
+                "name": "Naturalis Biodiversity Center",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQEDA0awow20yA/company-logo_400_400/0/1535978883895?e=1703721600&v=beta&t=GoGww8KSFkzo3Y5d6Y98wt7h8dCfsN2Sx0dbgcyR__A",
+                "url": "https://www.linkedin.com/company/naturalisbiodiversitycenter/",
+                "employees": {
+                    "start": 501,
+                    "end": 1000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Leiden",
+                    "date": {
+                        "start": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2014
+                        },
+                        "end": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2015
+                        }
+                    },
+                    "company": "Naturalis Biodiversity Center",
+                    "description": "Examining the Gondwanan land bridge hypothesis with dated, molecular phylogenies of disjunctly distributed species. Using BEAST, and literature.",
+                    "title": "Intern",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 980926,
+                "name": "Naturalis Biodiversity Center",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQEDA0awow20yA/company-logo_400_400/0/1535978883895?e=1703721600&v=beta&t=GoGww8KSFkzo3Y5d6Y98wt7h8dCfsN2Sx0dbgcyR__A",
+                "url": "https://www.linkedin.com/company/naturalisbiodiversitycenter/",
+                "employees": {
+                    "start": 501,
+                    "end": 1000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Leiden",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2013
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2013
+                        }
+                    },
+                    "company": "Naturalis Biodiversity Center",
+                    "description": "Analysis of a fossil echinoderm assemblage from the Eocene of Jamaica.",
+                    "title": "Intern",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Computer Science",
+        "Microsoft Azure",
+        "Analytics",
+        "Molecular Biology",
+        "Agile Methodologies",
+        "Statistics",
+        "Cloud Computing",
+        "Writing",
+        "Communication",
+        "Statistical Modeling",
+        "Databases",
+        "Data Analysis",
+        "Analytical Skills",
+        "Oracle-database",
+        "Public relations",
+        "The Museum System",
+        "Contact met de gemeenschap",
+        "Illustrator",
+        "Academisch onderwijs",
+        "Photoshop"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

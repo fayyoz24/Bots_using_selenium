@@ -1,0 +1,415 @@
+{
+    "profile_id": "armando-ruiz-27289545",
+    "first_name": "Armando",
+    "last_name": "Ruiz",
+    "sub_title": "Sr. Embedded Software Designer at ASML",
+    "profile_picture": null,
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAAAmQLDYBAGiMWtuz4QqOTykQF9rOArj9p2M",
+    "object_urn": 160443446,
+    "birth_date": null,
+    "summary": "As an experienced Software Engineer with 17 years of experience, I am passionate about developing cutting-edge software for complex technology systems. I am committed to delivering next-generation software while maintaining and upgrading the deployed software to meet stakeholder needs. With a Master's degree in Distributed Software and a Bachelor degree in Electronics, I possess deep technical expertise in electronic and software design, hardware architecture, and system design. My work in the automotive and aviation industry has also provided me with knowledge on safety, and product certification.\nThroughout my career, I have successfully led cross-functional teams to design and implement complex integration solutions using model based development, and software design patterns. I am experienced in using project management tools such as JIRA and software development methodologies such as Agile and Waterfall to ensure projects are delivered on time and within budget. I excel at managing multiple stakeholders' needs and requirements, and I possess strong communication skills that enable me to translate complex technical concepts for both technical and non-technical stakeholders.",
+    "location": {
+        "country": "Netherlands",
+        "short": "Eindhoven, North Brabant",
+        "city": "Eindhoven",
+        "state": "North Brabant",
+        "default": "Eindhoven, North Brabant, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "ES",
+            "language": "es"
+        },
+        "supported_locales": [
+            {
+                "country": "ES",
+                "language": "es"
+            }
+        ],
+        "profile_languages": []
+    },
+    "industry": "Semiconductors",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2002
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2006
+                }
+            },
+            "school": {
+                "name": "Tecnol\u00f3gico de Monterrey",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQGKjW3b6Uvd-A/company-logo_400_400/0/1680274847713?e=1703721600&v=beta&t=c4STTTpzis9aEEisAZvXTl2FPjRbgTKOVdXblVDrAeE",
+                "url": "https://www.linkedin.com/school/tecdemonterrey/"
+            },
+            "degree_name": "Bachelor of Engineering (B.E.)",
+            "field_of_study": "Electronics and Communications Engineering",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "school": {
+                "name": "Universidad Aut\u00f3noma de Quer\u00e9taro",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "Master's degree",
+            "field_of_study": "Distributed Software",
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [
+        {
+            "name": "LFD5020 Custom Developing Embedded Linux Device Drivers",
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Linux Foundation",
+            "url": null,
+            "license_number": "LF11190",
+            "display_source": null,
+            "company": {
+                "id": null,
+                "name": "Linux Foundation",
+                "logo": null,
+                "url": null
+            }
+        }
+    ],
+    "organizations": [],
+    "projects": [],
+    "publications": [],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 3894,
+                "name": "ASML",
+                "logo": "https://media.licdn.com/dms/image/C560BAQGssQfw50QsaQ/company-logo_400_400/0/1519855871260?e=1703721600&v=beta&t=Dy9d-y1YEURWKW9gwgee0M1kiJhHIn_5C8HeOomdIr8",
+                "url": "https://www.linkedin.com/company/asml/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Eindhoven Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "ASML",
+                    "description": "\u25cf Component owner for the Linux OS on Embedded Platforms and the Hardware Abstraction Layer. On this role I am responsible for the delivery of the OS layer including BSP, configuration and libraries for hardware abstraction.\n\u25cf On the hardware abstraction layer, I provide support to be able to run on different platforms including different OS's(Linux and VxWorks) or different architectures (ARM, aarch64, PowerPc, x86)\n\u25cf Experience with containers and virtualization technologies.\n\u25cf Experience with QEMU as virtualization technology with KVM and also QEMU for hardware emulation.\n\u25cf Experience with Linux OS tuning for real time applications.\n\u25cf Worked with RKE2, Kubernetes, containerd, docker, Multus and Calico for virtualization of real time applications on high end servers.\n\u25cf Worked with hardware virtualization features as VFIO, mdev, IOMMU and SRIOV for allocation of resources on hosts.\n\u25cf Software Architect and designer for the Board diagnostic GUI. Aligned with stakeholders on the UI and functionality of the diagnostic interface.\n\u25cf Development of the diagnostics UI with Qt5 in C++ to provide information of the embedded hosts.\n\u25cf Development of device drivers for serial devices, communication devices and FPGA IP blocks over PCIe.\n\u25cf Worked with network interfaces as NFS and iSCSI for device booting.\n\u25cf Worked on the network software stack to identify and fix issues.",
+                    "title": "Senior Embedded Software Designer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 5165624,
+                "name": "MCA Engineering Nederland",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQGrCo7s9ZZBCg/company-logo_400_400/0/1664869260300?e=1703721600&v=beta&t=G5VVau_kqTQazWgNqZDhkessgHyJP_Wp72BKVAX4tV8",
+                "url": "https://www.linkedin.com/company/mca-nederland/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Eindhoven Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2020
+                        }
+                    },
+                    "company": "MCA Nederland",
+                    "description": null,
+                    "title": "Senior Embedded Software Designer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 570550,
+                "name": "GE Aviation",
+                "logo": "https://media.licdn.com/dms/image/D560BAQGEU0_PAp08RQ/company-logo_400_400/0/1684425910323?e=1703721600&v=beta&t=XCF1oy5l2OrfNR787nsIGbsacgD511FGL5rXEUPIL30",
+                "url": "https://www.linkedin.com/company/geaerospace/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Quer\u00e9taro Area, Mexico",
+                    "date": {
+                        "start": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2011
+                        },
+                        "end": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "GE Aerospace",
+                    "description": "\u25cf Team leader and architect for the file system, master reset, and built-in test interface components for RTOS on Boeing 777x.\n\u25cf Designed and developed avionics critical software compliant with aviation\r\nstandards. (MISRA, DO178, A653)\r\n\u25cf Experience in board support packages(BSP), board bring up software(Uboot), device\r\ndrivers, communication devices (SPI, I2C), and Non-volatile memory\r\ndrivers for NAND and NOR devices.\r\n\u25cf Knowledge in firmware, RTOS (A653 OS based on vxWorks), and baremetal OS.\r\n\u25cf Experienced in low level programming in C, and assembly for PowerPc NXP\r\nprocessors. Configuration of caches, MMU, hypervisor of PowerPC Architecture for virtualization. \r\n\u25cf As part of my role I have lead teams in all the stages of the Software Life\r\ncycle, including writing requirements, designing high level and low level\r\ndiagrams, developing embedded applications, device drivers, tools,\r\n unit tests, V&V and Integration Testing.\r\n\u25cf Managed engineering teams for design, development and\r\nverification.\r\n\u25cf Performed planning and cost/time estimations for the development of\r\nsoftware components with teams in an international environment (Poland,\r\nUK, India and USA).\r\n\u25cf Experienced in Object Oriented programming languages like C++, C#, and\r\nJava for testing and tools development, and scripting languages like Perl for\r\ntest automation.",
+                    "title": "Lead Embedded Software Engineer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 5344,
+                "name": "Softtek",
+                "logo": "https://media.licdn.com/dms/image/D560BAQFRtOS4b8IN5g/company-logo_400_400/0/1688234268682?e=1703721600&v=beta&t=qqXzL2REojt_wNLZ8FkqWgdM7zNwMMCKebP9zNkxnN4",
+                "url": "https://www.linkedin.com/company/softtek/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2010
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2010
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2010
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2010
+                        }
+                    },
+                    "company": "Softtek",
+                    "description": "\u25cfWorked on an automated test framework for EMC2 LUN services developed in Perl scripting language.\n\u25cfDesign and development of new functionality to the framework.",
+                    "title": "Software Engineer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 21936,
+                "name": "Dextra Technologies a Deloitte business",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQHQG38T-tyYvA/company-logo_400_400/0/1667604063662?e=1703721600&v=beta&t=CFqnB7YWn22sMCDhp_dse0pwrQKQ1K0AUj-OQ5dUbls",
+                "url": "https://www.linkedin.com/company/dextra-technologies/",
+                "employees": {
+                    "start": 201,
+                    "end": 500
+                }
+            },
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2008
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2010
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "day": null,
+                            "year": 2008
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": 2010
+                        }
+                    },
+                    "company": "Dextra Technologies a Deloitte business",
+                    "description": "\u25cfWorked on functional and performance validation and verification of Texas Instruments image and video SoC's OMAP3430.\n\u25cfDevelopment and execution of functional, performance and Robustness test procedures.\n\u25cfAnalysis of results and resolution of problem reports.",
+                    "title": "Software Engineer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Delphi",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2005
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2007
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "day": null,
+                            "year": 2005
+                        },
+                        "end": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2007
+                        }
+                    },
+                    "company": "Delphi",
+                    "description": "\u25cfDesign of low level diagrams for automotive alarms systems.\n\u25cfDevelopment of Test Procedures for crash algorithms.\n\u25cfValidation of the implementation of CAN communication protocols.\n\u25cfTiming analysis of bag deployment systems.",
+                    "title": "Software Engineer",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Red Hat Enterprise Linux (RHEL)",
+        "Administraci\u00f3n de sistemas Linux",
+        "Qt",
+        "Git",
+        "Jenkins",
+        "Kubernetes",
+        "Virtualization ",
+        "Linux",
+        "Embedded Software",
+        "Metodolog\u00edas \u00e1giles",
+        "Ingenier\u00eda de software",
+        "C (programaci\u00f3n)",
+        "DO-178B/C",
+        "ARINC653",
+        "Device Drivers",
+        "RTOS",
+        "english",
+        "VxWorks",
+        "PowerPC",
+        "C++"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

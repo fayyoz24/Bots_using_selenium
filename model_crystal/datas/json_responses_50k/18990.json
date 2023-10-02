@@ -1,0 +1,394 @@
+{
+    "profile_id": "joelduring",
+    "first_name": "Jo\u00ebl",
+    "last_name": "During",
+    "sub_title": "ML Engineer | Master's Student AI | ASML Scholarship RecipientML",
+    "profile_picture": "https://media.licdn.com/dms/image/D4E03AQEYIpbYtbVDDA/profile-displayphoto-shrink_800_800/0/1683539591322?e=1701302400&v=beta&t=1VqqyrBNplAGIm4QAAVMjJm-nqDwpjkMkfoJD14l4Jg",
+    "background_image": "https://media.licdn.com/dms/image/C4E16AQG_0G_B6Pi62w/profile-displaybackgroundimage-shrink_350_1400/0/1650743910771?e=1701302400&v=beta&t=3GNhWNCPJletQFljsdlH3K1TVK2zAimn4GCRbqaNVhk",
+    "profile_type": "personal",
+    "entity_urn": "ACoAACe5Jh8BttvlZrxf3_d6XEZZGlPsC3oXXbw",
+    "object_urn": 666445343,
+    "birth_date": null,
+    "summary": "For my undergraduate studies, I have completed a double Bachelor in Artificial Intelligence and Computing Science. This combination has allowed me to work and study at the intersection of machine learning and software engineering. Currently, I'm pursuing a Master's degree in Artificial Intelligence, aiming to specialize in advanced Deep Learning techniques.",
+    "location": {
+        "country": "Netherlands",
+        "short": "Leiden, South Holland",
+        "city": "Leiden",
+        "state": "South Holland",
+        "default": "Leiden, South Holland, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "Dutch",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "English",
+                "proficiency": "FULL_PROFESSIONAL"
+            },
+            {
+                "name": "Spanish",
+                "proficiency": "ELEMENTARY"
+            }
+        ]
+    },
+    "industry": "Research",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2024
+                }
+            },
+            "school": {
+                "name": "Leiden University",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQEFlK1wNecYbA/company-logo_400_400/0/1519855876129?e=1703721600&v=beta&t=D842EBczsDCzHDS7ZG70LkPNH6fNu0NutCEKkHyGGcQ",
+                "url": "https://www.linkedin.com/school/leiden-university/"
+            },
+            "degree_name": "Master's degree",
+            "field_of_study": "Artificial Intelligence",
+            "grade": "8.6 (preliminary)"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "school": {
+                "name": "University of Groningen",
+                "logo": "https://media.licdn.com/dms/image/C560BAQHjFD1KsBlUnQ/company-logo_400_400/0/1519868080428?e=1703721600&v=beta&t=ibr9rujnIcZokKKBnQd60TZXHnVytrrpVhwxed_gkrk",
+                "url": "https://www.linkedin.com/school/rijksuniversiteit-groningen/"
+            },
+            "degree_name": "Bachelor's degree",
+            "field_of_study": "Artificial Intelligence",
+            "grade": "8.3"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "school": {
+                "name": "University of Groningen",
+                "logo": "https://media.licdn.com/dms/image/C560BAQHjFD1KsBlUnQ/company-logo_400_400/0/1519868080428?e=1703721600&v=beta&t=ibr9rujnIcZokKKBnQd60TZXHnVytrrpVhwxed_gkrk",
+                "url": "https://www.linkedin.com/school/rijksuniversiteit-groningen/"
+            },
+            "degree_name": "Bachelor's degree",
+            "field_of_study": "Computing Science",
+            "grade": "8.4"
+        }
+    ],
+    "patents": [],
+    "awards": [
+        {
+            "title": "ASML Technology Scholarship",
+            "description": "Each year, 40 technical Master's students in the Netherlands are awarded the ASML Technology Scholarship. The scholarship consists of financial support, a personal ASML mentor, and participation in a professional development program for the duration of their Master's degree.",
+            "issuer": "ASML",
+            "date": {
+                "month": 9,
+                "day": null,
+                "year": 2022
+            }
+        }
+    ],
+    "certifications": [],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "Locally Aligned Ant Technique",
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "description": "The Locally Aligned Ant Technique (LAAT) is an algorithm for denoising large data sets and extracting high-density filaments developed by a PhD student at the University of Groningen.\n\nMy contribution to this project is to apply my knowledge of the C++ programming language and parallel computing to optimise the algorithm with respect to execution times and memory usage. I have also used my software engineering skills to improve the structure and usability of the code. \n\nSome highlights of my work on this project are:\n - Perform optimizations and parallelise the algorithm. This led to a 550% decrease in computation times for large datasets on a personal computer while maintaining the same amount of memory usage and the same levels of accuracy.\n - Refactor the entire project and improve usability by creating bindings that allow the algorithm to be installed as a Python module and used with Numpy arrays, which allows for easy integration with existing data-processing pipelines.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Jo\u00ebl",
+                    "last_name": "During",
+                    "name": null,
+                    "headline": "ML Engineer | Master's Student AI | ASML Scholarship RecipientML"
+                }
+            ]
+        },
+        {
+            "title": "PASTAQ, software engineering project",
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "description": "The Pipelines and Systems for Threshold Avoiding Quantification of LC-MS/MS data (PASTAQ) library, written in C++ and Python.\n\nAs a software engineering project, I contributed to this library by adding additional features:\n - Implement parsing of data files with compressed data in order to save disk space and decrease I/O loading times.\n - Create C++ (de)compressing file streams for writing temporary files, in order to reduce the amount of disk space needed for temporary files.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Jo\u00ebl",
+                    "last_name": "During",
+                    "name": null,
+                    "headline": "ML Engineer | Master's Student AI | ASML Scholarship RecipientML"
+                }
+            ]
+        }
+    ],
+    "publications": [],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 2387075,
+                "name": "Helin Data",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQFJMoPzusJzvg/company-logo_400_400/0/1637838924393/helindata_logo?e=1703721600&v=beta&t=E7v0BsrGGkcLlIsrKRAo7rQIl-DN-eka1CEM3mcOpUs",
+                "url": "https://www.linkedin.com/company/helindata/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2023
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Rijswijk, South Holland, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2023
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Helin",
+                    "description": "Research and implementation of machine vision systems for applications in industrial settings.\n\nOptimization of said machine vision systems using TensorRT for use on edge computing systems such as NVIDIA Jetson devices.",
+                    "title": "Machine Learning Engineer",
+                    "employment_type": "Part-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 64268227,
+                "name": "Slimmer AI",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQEKWacH-YrQ6Q/company-logo_400_400/0/1576609990677/slimmer_ai_logo?e=1703721600&v=beta&t=WFp3q_F5AGJKIam04Q0w466Q9GGkurSt3D7inaFWNHs",
+                "url": "https://www.linkedin.com/company/slimmer-ai/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Groningen, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "Slimmer AI",
+                    "description": "Graduation internship focusing on natural Language processing (NLP) and other machine learning techniques.",
+                    "title": "Machine Learning Intern",
+                    "employment_type": "Internship"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 165742,
+                "name": "University of Groningen",
+                "logo": "https://media.licdn.com/dms/image/C560BAQHjFD1KsBlUnQ/company-logo_400_400/0/1519868080428?e=1703721600&v=beta&t=ibr9rujnIcZokKKBnQd60TZXHnVytrrpVhwxed_gkrk",
+                "url": "https://www.linkedin.com/school/rijksuniversiteit-groningen/",
+                "employees": {
+                    "start": 5001,
+                    "end": 10000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Groningen, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "University of Groningen",
+                    "description": "I have been a teaching assistant for 8 first- and second-year courses on programming, AI, and psychology.\n\nMy tasks as a teaching assistant included, but were not limited to:\n- Giving interactive tutorials\n- Supervising practical work\n- Grading homework assignments and scientific papers\n- Supervising a scientific experiment",
+                    "title": "Teaching Assistant",
+                    "employment_type": "Part-time"
+                },
+                {
+                    "location": "Groningen, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2020
+                        },
+                        "end": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2021
+                        }
+                    },
+                    "company": "University of Groningen",
+                    "description": "I mentored a group of first-year students throughout their first semester. I helped the students transition from high school to university by organising weekly meetings and having individual talks. This academic year, extra emphasis was placed on student well-being and studying from home due to the corona-virus pandemic and consequent lockdown in the Netherlands.",
+                    "title": "Student Mentor",
+                    "employment_type": "Part-time"
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [
+        {
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2023
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "role": "Education Mentor",
+            "company": {
+                "id": null,
+                "name": "CoderDojo Leiden",
+                "logo": "https://media.licdn.com/dms/image/C560BAQFZBJ6tnCfN6A/company-logo_400_400/0/1519905093291?e=1703721600&v=beta&t=oj3mofx1ksJbTP9wkoDE49c_DFDofB65hSx9L1jEgcA",
+                "url": "https://www.linkedin.com/company/coderdojo-leiden/"
+            },
+            "cause": "EDUCATION",
+            "description": "Providing support and teaching at monthly programming workshops for children aged 7-17."
+        }
+    ],
+    "skills": [
+        "Deep Learning",
+        "Machine Vision",
+        "Reinforcement Learning",
+        "C++",
+        "Artificial Intelligence (AI)",
+        "Natural Language Processing (NLP)",
+        "Python (Programming Language)",
+        "Machine Learning",
+        "Software Engineering",
+        "MLOps",
+        "Automated Machine Learning (AutoML)",
+        "Mentoring",
+        "Docker",
+        "Parallel Programming",
+        "CUDA",
+        "Computer Graphics",
+        "Edge Computing",
+        "Computational Psychology",
+        "Research",
+        "Data Science"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

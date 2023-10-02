@@ -1,0 +1,502 @@
+{
+    "profile_id": "jschroeven",
+    "first_name": "Joris",
+    "last_name": "Schroeven",
+    "sub_title": "Game developer at Sparkling Society ",
+    "profile_picture": "https://media.licdn.com/dms/image/C4E03AQH9K2rdqRwBmw/profile-displayphoto-shrink_800_800/0/1516824090915?e=1701302400&v=beta&t=93uMhaloxGJt3u-O2hdD_xd4M3klORws0VFwRGmZXIE",
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAABEraw4BZpNW_2mS_msijp99vJTk2SxsPDI",
+    "object_urn": 288058126,
+    "birth_date": null,
+    "summary": "I'm a passionate Game Programmer developing great games everyday.",
+    "location": {
+        "country": "Netherlands",
+        "short": "Delft, South Holland",
+        "city": "Delft",
+        "state": "South Holland",
+        "default": "Delft, South Holland, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "Dutch",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "English (IELTS 7.5)",
+                "proficiency": "FULL_PROFESSIONAL"
+            },
+            {
+                "name": "French",
+                "proficiency": "ELEMENTARY"
+            }
+        ]
+    },
+    "industry": "Computer Games",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "school": {
+                "name": "University of Abertay Dundee",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "Pg. Dip",
+            "field_of_study": "Computer Games Technology",
+            "grade": "80% Average Grade"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2008
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2011
+                }
+            },
+            "school": {
+                "name": "Karel de Grote-Hogeschool",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "Bachelor",
+            "field_of_study": "Application Development",
+            "grade": "70% Average Grade (Cum Laude)"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2005
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2007
+                }
+            },
+            "school": {
+                "name": "KTA Wollemarkt",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "Highschool",
+            "field_of_study": "Applied Informatics",
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [
+        {
+            "title": "Cum Laude",
+            "description": "Graduated with Cum Laude",
+            "issuer": "Karel de Grote-Hogeschool",
+            "date": {
+                "month": 9,
+                "day": null,
+                "year": 2011
+            }
+        },
+        {
+            "title": "Programmer of the Year",
+            "description": "Graduated as the best programmer of my class",
+            "issuer": "KTA Wollemarkt",
+            "date": {
+                "month": 6,
+                "day": null,
+                "year": 2007
+            }
+        }
+    ],
+    "certifications": [],
+    "organizations": [
+        {
+            "name": "Poker For Fun",
+            "position": "Board Member: Web Master",
+            "date_start": {
+                "month": 3,
+                "day": null,
+                "year": 2010
+            },
+            "date_end": null
+        }
+    ],
+    "projects": [
+        {
+            "title": "Poker For Fun Software",
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2010
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "description": "Software used by the tournament managers to fully manage the local tournament and submit the rankings.\nIts fully integrated with the Poker For Fun website, it extracts and submits information through REST services made available from the Poker For Fun website.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Joris",
+                    "last_name": "Schroeven",
+                    "name": null,
+                    "headline": "Game developer at Sparkling Society "
+                }
+            ]
+        },
+        {
+            "title": "Poker For Fun Website",
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2010
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "description": "Development and maintenance of the website and its integration with the Poker For Fun Software",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Joris",
+                    "last_name": "Schroeven",
+                    "name": null,
+                    "headline": "Game developer at Sparkling Society "
+                }
+            ]
+        },
+        {
+            "title": "Hobby Game Project (Part 1)",
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2008
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "description": "Development of a hobby game project (based off existing game code) with the goal to learn more and more about game programming every day.\n\nThe project consists of a multiple components:\n- Client: In theory distributed to players.\n- Login Server: Runs once and handles all account logins.\n- World Server: Can be run multiple times, it represents a single world and each instance represents an alternate dimension. Handles the Character Logins, Guilds and other world-systems that require to be stored.\n- Game Server: Runs a limited number of maps of a single world, there are multiple of these running all at once. They mainly handle all the game play.\n- Gate Server: Handles communication between Game Servers so they can share certain data or requests with each other.\nAnd some sub-components & tools:\n- Auto Updater: Used to automatically update a player's client files. (Built from scratch)\n- PAK Builder: Opens, Displays and Builds PAK (sprite container) files (Built from scratch)\n- AMD Editor: Opens, Displays and Builds AMD (map container) files.\n\nImprovements & Changes made to this project:\n- (Networking) Packet Class: Replaced old and repetitive pointer juggling with a nice and neat generalized class that is used in the 4 main server components (Client, Game, World, Login).\n- (Networking) Extended Colors and Player Effects: Increased the size from an unsigned byte to a unsigned char.\n- (Game Play) Summon Event System: Automated event (created and configured by game masters) that summons (spawns) monsters with dynamic scaling which depends on the number of players present in the event area. This system ties into the Packet class a data must be exchanged (and saved) between multiple components.\n- (Game Play) Advanced Guild System: Rebuilt the guild system from scratch to allow more guild ranks and multiple abilities tied to specific ranks. This system ties in with the world server as guild information must be saved should be available for the entire world instance.\n",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Joris",
+                    "last_name": "Schroeven",
+                    "name": null,
+                    "headline": "Game developer at Sparkling Society "
+                }
+            ]
+        },
+        {
+            "title": "Hobby Game Project (Part 2)",
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2008
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "description": "Improvements & Changes made to this project:\n- (Game Play) Advanced Party System: Rebuilt the party system communications between the Game Servers to allow an increased number of players in a single party (from 8 to 16 with the ability to dynamically expand this) along with a visual display of certain details of other party members. This system ties in with the Client and Game Server.\n- (Game Play) Advanced Quest System: Rebuilt the quest system to allow multiple quests to be active at once (was limited to one quest at a time before the rework). Rebuilt the quest conditions, objectives and rewards to allow them to be dynamically expanded. This system ties in with the Client, Game Server and World Server.\n- (Game Play) Extended Item System: New types of items which decay over time, at a specific date or when their endurance has reached zero.\n- (Game Play) Buff System: Certain magic spells give buffs for a certain period of time, these received their own icons and display on-screen to make it easier for the player to see when his buff is about to run out.\n- (Engine/Game Play) Virtualized Maps: Maps that open and close dynamically using identical configuration both Client and Server side. Keeping in mind that each map is initiliazed when a Game Server loads the map configuration it's supposed to host, this change allows the dynamic addition and removal of any map. With virtualized maps the game can now dynamically open maps for events and close them again after the event is completed.\n- (Engine/Game Play) Dynamic Portals: Visual portals with certain restrictions (configured by game masters) that allow teleportation to another location. Keeping in mind that teleportation between maps is embedded within the AMD map files, this change allows game masters to dynamically create and delete portals to certain maps (such as virtualized maps where events can be hosted).\n",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Joris",
+                    "last_name": "Schroeven",
+                    "name": null,
+                    "headline": "Game developer at Sparkling Society "
+                }
+            ]
+        },
+        {
+            "title": "Hobby Game Project (Part 3)",
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2008
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "description": "Improvements & Changes made to this project:\n- Several optimizations were made to increase performance of the game and reduce code redundancy.\n- Several other minor features were added to the project in both game play (new magic spells, new items, new maps, GUI optimizations...) and mangangement optimization (SQL configs and log files instead of TXT).\n\nOne of the most important and noticable things about this project is the lack of being object-oriented and encapsulation. There are basic objects within the project but there could of been far more advanced OO structures put in place. Encapsulation wise, basically nothing is encapsulated within the code and therefore I've continued this design choice throughout the pieces I've built myself although I am fully aware that it actually should be encapsulated.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Joris",
+                    "last_name": "Schroeven",
+                    "name": null,
+                    "headline": "Game developer at Sparkling Society "
+                }
+            ]
+        }
+    ],
+    "publications": [],
+    "courses": [],
+    "test_scores": [
+        {
+            "name": "IELTS",
+            "score": "7.5/9.0",
+            "date": {
+                "month": 7,
+                "day": null,
+                "year": 2013
+            }
+        }
+    ],
+    "position_groups": [
+        {
+            "company": {
+                "id": 3072775,
+                "name": "Sparkling Society",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQF9pfn__xlZHA/company-logo_400_400/0/1603881982503?e=1703721600&v=beta&t=co0J4fttTZPSKT_ZtRVSg8yTQy3vqBdIJjUIoOOUwvk",
+                "url": "https://www.linkedin.com/company/sparkling-society/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Delft",
+                    "date": {
+                        "start": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Sparkling Society",
+                    "description": null,
+                    "title": "Game Developer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 907316,
+                "name": "Innovattic",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQE8_Mf7yRm1qw/company-logo_400_400/0/1590487718746?e=1703721600&v=beta&t=vPooeIaLXcVXxAcE1qw417Sm0huiWWmTj2zoNwGOL38",
+                "url": "https://www.linkedin.com/company/innovattic/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Delft Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2016
+                        }
+                    },
+                    "company": "Innovattic",
+                    "description": null,
+                    "title": "Game Developer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Otoconsult",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2011
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2013
+                        }
+                    },
+                    "company": "Otoconsult",
+                    "description": "Continue the development of the Audiqueen product, an ORL result management application for ENT practices and audiological services.",
+                    "title": "Software Programmer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1066906,
+                "name": "evoline",
+                "logo": "https://media.licdn.com/dms/image/D4D0BAQE7bt_fUPHqbg/company-logo_400_400/0/1688630927675?e=1703721600&v=beta&t=iEETNuAYD_H2keUcekYq0Zh1uZQzjDd8g9Upq6UbC1U",
+                "url": "https://www.linkedin.com/company/accentureromania/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2011
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2011
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2011
+                        }
+                    },
+                    "company": "Accenture Romania",
+                    "description": "Develop a web-based module that fits into the existing evoline framework for job recruitment making use of ASP.NET and jQuery technologies.",
+                    "title": "Software Programming Internship",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "C#",
+        "Game Development",
+        "C++",
+        "Software Development",
+        "Video Games",
+        "Programming",
+        "OOP",
+        "Java",
+        "PHP",
+        "HTML",
+        "SQL",
+        "JavaScript",
+        "CSS",
+        "jQuery",
+        "jQuery UI",
+        "MySQL",
+        "Linux",
+        "XML",
+        "ASP.NET",
+        "DirectX"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

@@ -1,0 +1,772 @@
+{
+    "profile_id": "rick-van-helvert-71996570",
+    "first_name": "Rick",
+    "last_name": "van Helvert",
+    "sub_title": "Cloud Engineer",
+    "profile_picture": "https://media.licdn.com/dms/image/D4E03AQGyBZWTnXjcVQ/profile-displayphoto-shrink_800_800/0/1664281305902?e=1701302400&v=beta&t=0i_npHNBx_5QxbTBowFjvAQI5nPgXyMixjaAQRwuN-Q",
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAAA8Xd8UBNCS7zB6qwUcp1l8jbCzoRV0MpZ4",
+    "object_urn": 253196229,
+    "birth_date": null,
+    "summary": "Hi there!\n\nI'm Rick, 26 years old, and I live in the city center of Tilburg and an aspiring Cloud/DevOps engineer that is quite junior. \nCurrently, I'm looking for a new challenge that makes my tech heart beat faster and that allows me to solidify my knowledge while working. I received my MBO-4 degree as Netwerkbeheerder from the ROC Tilburg, but went to the open-source route (Ubuntu/Debian and RHEL based for server OS's and Arch Linux on my desktop) after that.\n\nI am familiar with the fundamentals of the following products:\nVirtualization:\n- Proxmox\n- OpenStack\n- Qemu / KVM\n\nContainerisation / Orchestration:\n- Docker\n\nTools:\n- Ansible\n- Puppet\n- Terraform\n- Packer\n\nScripting:\n- Bash\n- Python",
+    "location": {
+        "country": "Netherlands",
+        "short": "Tilburg, North Brabant",
+        "city": "Tilburg",
+        "state": "North Brabant",
+        "default": "Tilburg, North Brabant, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "Dutch",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "English",
+                "proficiency": "PROFESSIONAL_WORKING"
+            },
+            {
+                "name": "German",
+                "proficiency": "LIMITED_WORKING"
+            }
+        ]
+    },
+    "industry": "Information Technology & Services",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "school": {
+                "name": "ROC Tilburg",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "MBO Niveau 4",
+            "field_of_study": "ICT Beheerder",
+            "grade": "Diploma Behaald"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "school": {
+                "name": "ROC Tilburg",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "MBO Niveau 3",
+            "field_of_study": "Medewerker Beheer ICT niv. 3",
+            "grade": "Diploma Behaald"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2009
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "school": {
+                "name": "Frater van Gemert school",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "VMBO-TL",
+            "field_of_study": "Techniek",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2001
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2007
+                }
+            },
+            "school": {
+                "name": "Den Bijstere Tilburg",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "Basis School",
+            "field_of_study": null,
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [
+        {
+            "name": "Amazon Web Services SysOps Administrator - Associate",
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2023
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2026
+                }
+            },
+            "authority": "Amazon Web Services (AWS)",
+            "url": "https://aws.amazon.com/verification",
+            "license_number": "YVBCZ27K4JR4QSCS",
+            "display_source": "amazon.com",
+            "company": {
+                "id": null,
+                "name": "Amazon Web Services (AWS)",
+                "logo": "https://media.licdn.com/dms/image/C560BAQER_QnUTXrPJw/company-logo_400_400/0/1670264050886?e=1703721600&v=beta&t=3IYmCjBx7-RbiHOyhmKp9bX_etnAR2mcOn2MncQL5u0",
+                "url": null
+            }
+        },
+        {
+            "name": "Accredited Partner Technical Engineer",
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2023
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "GitLab",
+            "url": "https://credly.com/go/Tc8FA7Ga",
+            "license_number": "Tc8FA7Ga",
+            "display_source": "credly.com",
+            "company": {
+                "id": null,
+                "name": "GitLab",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQFseuCCBupBOQ/company-logo_400_400/0/1651058101845?e=1703721600&v=beta&t=CpB1_GDpdmYn9u5iuTpDFX5KxEYvz12BmA-JpT-fpRg",
+                "url": null
+            }
+        },
+        {
+            "name": "Certified Kubernetes Administrator",
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2023
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2026
+                }
+            },
+            "authority": "The Linux Foundation",
+            "url": null,
+            "license_number": "LF-39635v5irb",
+            "display_source": null,
+            "company": {
+                "id": null,
+                "name": "The Linux Foundation",
+                "logo": "https://media.licdn.com/dms/image/C560BAQEXYSSWEvEL9g/company-logo_400_400/0/1657565841755?e=1703721600&v=beta&t=Rf5lG3b6QLoEISPXXHKjrWhSon0UpcahDjg9PTMHyuc",
+                "url": null
+            }
+        },
+        {
+            "name": "Professional Scrum Master\u2122 I (PSM I)",
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2023
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Scrum.org",
+            "url": "https://www.credly.com/badges/f6d79b53-0e8a-44cb-bf38-7925a1d676bb/linked_in_profile",
+            "license_number": null,
+            "display_source": "credly.com",
+            "company": {
+                "id": null,
+                "name": "Scrum.org",
+                "logo": "https://media.licdn.com/dms/image/C560BAQFzF6WZjNSHkQ/company-logo_400_400/0/1522074989702?e=1703721600&v=beta&t=-PRmXQFIlx8U4JWR-3B1NpWfKbSbQ6Zx6ONjdC6UVQs",
+                "url": null
+            }
+        },
+        {
+            "name": "HashiCorp Certified: Terraform Associate (002)",
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2023
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2025
+                }
+            },
+            "authority": "HashiCorp",
+            "url": "https://www.credly.com/badges/0e266734-ec5f-41b3-93fa-92ba7f669874/linked_in_profile",
+            "license_number": null,
+            "display_source": "credly.com",
+            "company": {
+                "id": null,
+                "name": "HashiCorp",
+                "logo": "https://media.licdn.com/dms/image/D560BAQEnMb6VZz2LDw/company-logo_400_400/0/1688229275729?e=1703721600&v=beta&t=LxRYu0bAaTmg6qUsuLON3cR-RdpG8oO6jcz05YwuAF4",
+                "url": null
+            }
+        },
+        {
+            "name": "LPIC-101",
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Ictivity",
+            "url": null,
+            "license_number": null,
+            "display_source": null,
+            "company": {
+                "id": null,
+                "name": "Ictivity",
+                "logo": "https://media.licdn.com/dms/image/C560BAQFpKBOhLwq_TA/company-logo_400_400/0/1519856020311?e=1703721600&v=beta&t=bYRQuuYe1DQVypCsAH_bVEXngEKf_FwQiqS301NFtT8",
+                "url": null
+            }
+        },
+        {
+            "name": "Sharepoint Pro",
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "The Sharepoint Academy",
+            "url": null,
+            "license_number": null,
+            "display_source": null,
+            "company": null
+        },
+        {
+            "name": "Aries Hardware",
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": null,
+            "url": null,
+            "license_number": null,
+            "display_source": null,
+            "company": null
+        },
+        {
+            "name": "Aries Software",
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": null,
+            "url": null,
+            "license_number": null,
+            "display_source": null,
+            "company": null
+        }
+    ],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "KubeDock",
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "description": "My own personal project to build a complete virtual Kubernetes cluster.\nIt's blogged about on the URL above where you can follow my progress on building the project.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Rick",
+                    "last_name": "van Helvert",
+                    "name": null,
+                    "headline": "Cloud Engineer"
+                }
+            ]
+        },
+        {
+            "title": "NewCold Burley",
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "description": "Providing IT services during construction of the NewCold Burley project and the preparation of the office spaces.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Rick",
+                    "last_name": "van Helvert",
+                    "name": null,
+                    "headline": "Cloud Engineer"
+                }
+            ]
+        }
+    ],
+    "publications": [],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 28557747,
+                "name": "Sue B.V.  |  Cloud Native Solutions",
+                "logo": "https://media.licdn.com/dms/image/D560BAQHCRAx_-Nofdw/company-logo_400_400/0/1664273444389?e=1703721600&v=beta&t=mrSuCDf_8FLGujY6egUyFZOTyvUrS3_SRjXrVexZpPo",
+                "url": "https://www.linkedin.com/company/suecloudnative/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2023
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2023
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "SUE | Cloud Native Solutions",
+                    "description": null,
+                    "title": "Junior Engineer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 582214,
+                "name": "Tilaa",
+                "logo": "https://media.licdn.com/dms/image/C560BAQGlCNuADyzoVw/company-logo_400_400/0/1606471636033?e=1703721600&v=beta&t=fNry6S3fgXHmAO69OnUTJGv78eCge5YmhZRBZDcuHb4",
+                "url": "https://www.linkedin.com/company/tilaa/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2023
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2020
+                        },
+                        "end": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2023
+                        }
+                    },
+                    "company": "Tilaa",
+                    "description": null,
+                    "title": "Junior Engineer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 74390,
+                "name": "Davanti Warehousing BV",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQGpz_mhSWiT1g/company-logo_400_400/0/1531079121398?e=1703721600&v=beta&t=Ep91k7bn-g3eJCVHA5z4eg_TVpc8hTfqCsKFpiTQy6s",
+                "url": "https://www.linkedin.com/company/davanti-warehousing-bv/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Utrecht Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2020
+                        }
+                    },
+                    "company": "Davanti Warehousing | CORAX wms",
+                    "description": null,
+                    "title": "IT Professional",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 223027,
+                "name": "Advanced Team Systems Center (ATSC)",
+                "logo": "https://media.licdn.com/dms/image/C510BAQGdIJb3ZpLuBg/company-logo_400_400/0/1519918235387?e=1703721600&v=beta&t=SMkH3LjbXjhHe4D99njSbfyJzmLwU0S_6SNZgYIiVc8",
+                "url": "https://www.linkedin.com/company/advanced-team-systems-center-atsc-/",
+                "employees": {
+                    "start": 2,
+                    "end": 10
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Oisterwijk, Nederland",
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2017
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2018
+                        }
+                    },
+                    "company": "Advanced Team Systems Center (ATSC)",
+                    "description": "Vanaf augustus 2017 ben ik werkzaam bij ATSC te Oisterwijk, nadat mijn stage door beide partijen goed werd beoordeeld, werd mij een dienstverband aangeboden. Tijdens dit dienstverband zagen mijn werkzaamheden er als volgt uit: \nHet leveren van 1e-, 2e- en 3e-lijns support, het aansturen van het systeembeheerteam, collega\u2019s ondersteunen waar nodig, het plannen van afspraken voor de afdeling systeembeheer en een korte periode het begeleiden van een niveau 4 stagiaire van het ROC te Tilburg",
+                    "title": "Junior Systeembeheer",
+                    "employment_type": null
+                },
+                {
+                    "location": "Oisterwijk, Nederland",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2017
+                        }
+                    },
+                    "company": "Advanced Team Systems Center (ATSC)",
+                    "description": "In cohort 2016 \u2013 2017 heb ik stage gelopen bij Advanced Team System Center (ATSC) te Oisterwijk. Tijdens deze stageperiode waren mijn werkzaamheden voornamelijk het ontwikkelen van mezelf door het uitvoeren van verschillende schoolprojecten. Daarnaast pakte ik het intern systeembeheer op en ondersteunde ik de helpdesk bij de 1e, 2e en 3e lijn support bij verschillende klanten.",
+                    "title": "Stagair Systeembeheer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 42162,
+                "name": "Efteling",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQFyrx7GeGHp-Q/company-logo_400_400/0/1677780664673?e=1703721600&v=beta&t=LKU2bMDlnlVzAaSLBHAp-ZsPaVT5TgQHuLPoP6IHsnM",
+                "url": "https://www.linkedin.com/company/efteling/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Kaatsheuvel, Nederland",
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2016
+                        }
+                    },
+                    "company": "Efteling",
+                    "description": "Vanaf 2015 was ik werkzaam bij de Efteling, de Efteling is het grootste amusementspark in Nederland met diverse onderscheidingen. \nMijn werkzaamheden bij de Efteling bestonden mijn werkzaamheden uit: Het verkopen van diverse merchandise artikelen (verschillend per locatie in de Efteling), de gast te woord staan, het verzorgen van een betoverende dag voor gasten.",
+                    "title": "Junior Gastheer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 290394,
+                "name": "MaxICT",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQEuNHB1DCCezg/company-logo_400_400/0/1618905478557?e=1703721600&v=beta&t=P_ugcdE7x9FWlIaTB6TSj0Q_2jdPJwQHW9hkqj6ZLOY",
+                "url": "https://www.linkedin.com/company/max-ict/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2013
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2015
+                        }
+                    },
+                    "company": "Max ICT B.V. ",
+                    "description": "Vanaf maart 2013 was ik werkzaam bij Max ICT, Max ICT is een groothandel van een groot assortiment van ICT-producten die zowel levert aan particulier als zakelijk. \nMijn werkzaamheden bij Max ICT bestonden uit: Onderhoud plegen aan de website, assembleren van PC's, telefoonaanname, klanten te woord staan.",
+                    "title": "All Round Medewerker",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Plus IJsselstein",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2010
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Tilburg, Nederland",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2010
+                        },
+                        "end": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2013
+                        }
+                    },
+                    "company": "Plus IJsselstein",
+                    "description": "Vanaf januari 2010 was ik werkzaam bij Plus IJsselstein te Tilburg.\nBij Plus IJsselstein bestonden mijn werkzaamheden uit het vullen van de verschillende artikelstellingen binnen de winkel, het zorgvuldig controleren van producthoudbaarheidsdata en vragen van klanten beantwoorden.",
+                    "title": "KW Medewerker",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Amazon Web Services (AWS)",
+        "Terraform",
+        "Linux",
+        "CentOS",
+        "Computer Hardware",
+        "English",
+        "Dutch",
+        "Computer Hardware Installation",
+        "Computer Software Training",
+        "Mac OS",
+        "Windows",
+        "Windows Server",
+        "VMWare",
+        "Postfix",
+        "Dovecot",
+        "DHCP",
+        "Firewalls",
+        "Lotus Domino",
+        "Networking",
+        "Hyper-V"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

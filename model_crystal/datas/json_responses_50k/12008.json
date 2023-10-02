@@ -1,0 +1,701 @@
+{
+    "profile_id": "borys-ponomarenko-0258394",
+    "first_name": "Borys",
+    "last_name": "Ponomarenko",
+    "sub_title": "Tech Lead at Adyen",
+    "profile_picture": "https://media.licdn.com/dms/image/C4D03AQEQjqmG9Pftpg/profile-displayphoto-shrink_800_800/0/1624629576990?e=1701302400&v=beta&t=W0IxejxlGSEDryfqjaV9byM1NjRryJbOk0iX-Dfz_GM",
+    "background_image": "https://media.licdn.com/dms/image/C5616AQGJReQ6zJKNDA/profile-displaybackgroundimage-shrink_350_1400/0/1540729506404?e=1701302400&v=beta&t=3fXfTinen1uKq7BLqVtGaO9ZD5dora9E9QkCBb8JO8M",
+    "profile_type": "personal",
+    "entity_urn": "ACoAAADVz90BUSQKcVwYLQazhtToMB8DPj6ltTk",
+    "object_urn": 14012381,
+    "birth_date": null,
+    "summary": "For the past years my main sphere of interests and work area is Frontend development. My experience vary from building small web sites to rich, client-side applications with a focus on solid, extensible architecture and performance. I have a clear understanding of product lifecycle, and have been taking part in all parts of it:\n- research, requirements analysis and PoC implementation\n- develop product's internal and external architecture, actual implementation\n- refactoring and optimisation\n- debugging and bug fixes\n- designing CI/CD project workflows, setup and configuration\n- leading team and development process as scrum master and tech lead\n- communication with customers, customer support and hotfix delivery\n- sharing knowledge and education of peer developers\n\nI have also rich experience in interviewing candidates, mentoring newcomers, code reviewing, Scrum development (obtained Scrum Master certification in past).\n\nSpecialities:\n\nJavaScript, TypeScript, Vue.js, Angular, AngularJS, NodeJS, Unit Testing, Webpack/Grunt/Gulp, HTML5, CSS (LESS, SASS), OpenAPI/Swagger/RAML, JSON Schemas, XML (XSL, XSD).\n\nAgile development (SCRUM), Spotify model, TDD, Design patterns, Continuous Integration (Jenkins, TravisCI), Electron.io, Git.\n\nHas experience creating ChatBot for Telegram messenger.",
+    "location": {
+        "country": null,
+        "short": "Netherlands",
+        "city": null,
+        "state": null,
+        "default": "Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "English",
+                "proficiency": "FULL_PROFESSIONAL"
+            },
+            {
+                "name": "Russian",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "Ukrainian",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ]
+    },
+    "industry": "Financial Services",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2002
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2008
+                }
+            },
+            "school": {
+                "name": "National Technical University of Ukraine 'Kyiv Polytechnic Institute'\u200b",
+                "logo": "https://media.licdn.com/dms/image/C560BAQG6AO47AedJeg/company-logo_400_400/0/1519897730466?e=1703721600&v=beta&t=RyXm3hDWbAcM4G1R80kr6YleP9YhiCSv2_wHXV6lOrc",
+                "url": "https://www.linkedin.com/school/national-technical-university-of-ukraine-'kyiv-pol/"
+            },
+            "degree_name": "Master's degree",
+            "field_of_study": "Automation Engineer Technology/Technician",
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [
+        {
+            "name": "Angular 2",
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Udemy",
+            "url": "https://www.udemy.com/certificate/UC-X85OIAL5/",
+            "license_number": null,
+            "display_source": "udemy.com",
+            "company": {
+                "id": null,
+                "name": "Udemy",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQFQr9e68bBOPQ/company-logo_400_400/0/1626275253364?e=1703721600&v=beta&t=ImIOnB0R3ZxB44ruUbPVZgJ8M1kohd7s7pDEh8ytIkA",
+                "url": null
+            }
+        },
+        {
+            "name": "Scrum Master",
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Scrum Alliance",
+            "url": "http://www.scrumalliance.org",
+            "license_number": null,
+            "display_source": "scrumalliance.org",
+            "company": {
+                "id": null,
+                "name": "Scrum Alliance",
+                "logo": "https://media.licdn.com/dms/image/C560BAQHoLJQjSDYtpg/company-logo_400_400/0/1653513869114?e=1703721600&v=beta&t=wFEBLjcmJJ3LpzBmX1KT7VNU-8zIEzwXCSptqCWj9i8",
+                "url": null
+            }
+        }
+    ],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "MacOS/Web application in Angular 2 to manage VM environments",
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "description": "This project is built in TypeScript and Angular 2+ to provide UI for some of the company's REST API. Created UI Application is available as a webpage hosted on GitPages, but also it can be installed as native MacOS application. MacOS desktop application is built using Electron project (electron.atom.io)",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Borys",
+                    "last_name": "Ponomarenko",
+                    "name": null,
+                    "headline": "Tech Lead at Adyen"
+                }
+            ]
+        },
+        {
+            "title": "NodeJS client for Atlassian Stash",
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "description": "Created NodeJS library, which provides access to some of the Stash's API which is not available with official REST API and was only accessible throw the Web interface.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Borys",
+                    "last_name": "Ponomarenko",
+                    "name": null,
+                    "headline": "Tech Lead at Adyen"
+                }
+            ]
+        },
+        {
+            "title": "DBP Mobile",
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "description": "Development of mobile hybrid application for US market.\nJavascript, Cordova, AngularJS, SASS",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Borys",
+                    "last_name": "Ponomarenko",
+                    "name": null,
+                    "headline": "Tech Lead at Adyen"
+                }
+            ]
+        },
+        {
+            "title": "New version of CMS product",
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "description": "Entirely new product based on set of existing company products. Main responsibilities are:\n\u2022 create product\u2019s UI from scratch, based on another internally created framework (used TypeScript language)\n\u2022 collaborate with designer to create input to build product\u2019s UX\n\u2022 connect to REST API on backend, integrate UI with SignalR updates\n\u2022 contribute to internal MVC project, based on KnockoutJS\n\u2022 creation of build&deployment script with use of Grunt tool\n",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Borys",
+                    "last_name": "Ponomarenko",
+                    "name": null,
+                    "headline": "Tech Lead at Adyen"
+                }
+            ]
+        },
+        {
+            "title": "SDL Media Manager",
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "description": "Leading development of new UI version based on web best practicies and frameworks (jQuery and Knockout)",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Borys",
+                    "last_name": "Ponomarenko",
+                    "name": null,
+                    "headline": "Tech Lead at Adyen"
+                }
+            ]
+        },
+        {
+            "title": "SDL SmartTarget",
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "description": "Main task was to improve SmartTarget product by refactoring existing code and developing new features.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Borys",
+                    "last_name": "Ponomarenko",
+                    "name": null,
+                    "headline": "Tech Lead at Adyen"
+                }
+            ]
+        },
+        {
+            "title": "SDL Experience Manager",
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "description": "Experience Manager (XPM) is absolutely new product which allows users to edit CMS content directly on published web pages. During this project there was a lot of interesting layout, cross-window, cross-frame, performance problems and found solutions.\nXPM was built on the same framework as SDL Web CMS system.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Borys",
+                    "last_name": "Ponomarenko",
+                    "name": null,
+                    "headline": "Tech Lead at Adyen"
+                }
+            ]
+        },
+        {
+            "title": "SDL Web CMS",
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2009
+                },
+                "end": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2011
+                }
+            },
+            "description": "Main goal of this project was to develop new version from scratch of Tridion CMS UI with focus on MVC cross-window architecture, cross-browser, rich extensibility support, internationalization. As a base for new UI we developed internal pure-JavaScript frameword with ASP.NET server side.\n\nMy main responsibilities for this project:\n- development of internal JavaScript framework\n- development of CMS UI (both front-end and back-end)\n- setup of continuous integration process\n- knowledge transfers\n- bugfixing, hotfixing and RFA's processing\n- code reviews\n",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Borys",
+                    "last_name": "Ponomarenko",
+                    "name": null,
+                    "headline": "Tech Lead at Adyen"
+                }
+            ]
+        },
+        {
+            "title": "SDL Content Porter",
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2007
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2009
+                }
+            },
+            "description": "Content Porter product allows users to import/export data between different SDL CMS instances. As part of this project I were doing bug fixing and development of new version of Content Porter product. In my responsibility was also implementation of continuous intergration process and development of ClickOnce application.\n\n.NET, ClickOnce, XML (XSD, XSL), NUnit, NAnt, Jenkins",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Borys",
+                    "last_name": "Ponomarenko",
+                    "name": null,
+                    "headline": "Tech Lead at Adyen"
+                }
+            ]
+        }
+    ],
+    "publications": [],
+    "courses": [
+        {
+            "name": "Codiscope \u2013 Foundations of Software Security",
+            "number": null
+        },
+        {
+            "name": "Codiscope \u2013 Introduction to Cryptography for Architects and Developers",
+            "number": null
+        },
+        {
+            "name": "Codiscope \u2013 OWASP Top 10",
+            "number": null
+        }
+    ],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 279565,
+                "name": "Adyen",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQGCuaSq8TqalA/company-logo_400_400/0/1664880075658?e=1703721600&v=beta&t=6E3ZqCa7a6iATl-DRb8ZjXUMfIf7Hlz2quy-KB_SVAw",
+                "url": "https://www.linkedin.com/company/adyen/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Adyen",
+                    "description": "Leading a team of developers and designers to create a product that facilitates donations at checkout for the shoppers. It is truly a position with multiple hats that requires deep understanding of a totally different worlds of merchants and charities. Besides my responsibilities involves collaboration with various stakeholders but also other dev teams across the company as the product is built on top of different existing systems \u2013\u00a0Core Payments platform, Checkout components & API, Point-of-sale terminals, etc.\n\nhttps://www.adyen.com/impact",
+                    "title": "Tech lead - Impact team",
+                    "employment_type": "Full-time"
+                },
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Adyen",
+                    "description": "In this truly multi-hat role, my main focus is architecture of the main company portals written \u2013\u00a0setting up scaleable solution with Vue.js to replace legacy systems, define a strategy for a graceful adoption, but also make sure that existing teams are fully equipped to work with the new system and guide them through the migration process.\n\nApart from that I have also been helping to bring UI/UX in the company to the \"next level\":\n- communication with the product stakeholders on upcoming changes and discovering their needs\n- drive initiative for continuous localization and internationalization of the UI, which includes developing and implementing portals translations process.\n- work with the Security team to stay one step ahead in protecting our UIs \n- collaborate with existing Frontend and Backend engineers to define company guidelines and best practices for development, mentor new joiners\n- help Recruitment team with hiring developers",
+                    "title": "Principal Frontend Engineer",
+                    "employment_type": "Full-time"
+                },
+                {
+                    "location": "Amsterdam Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2017
+                        },
+                        "end": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "Adyen",
+                    "description": "Even so I joined Adyen as part of one dedicated team, apart of delivering team-related functionality my main focus was migration of the main customer platform to a new Frontend tech stack with Vue.js, Webpack, Jest. Starting from requirements analysis and communication with all involved teams, I successfully implemented proof-of-concept architecture and started migration with a proper transition period in place. This process also involved gradual integration into existing platform, introduction of developers to a new Frontend stack through workshops and code reviews, documenting new architecture on internal knowledge portal, communication with other company departments about upcoming changes.\n\nAnother areas of my work interest involved:\n- helping to bootstrap couple new internal projects\n- setup internal component gallery based on Storybook\n- participating in recruitment process by attending conferences, speaking at meetups, interviewing candidates\n- close collaboration with Infrastructure team for CI/CD workflows improvements\n\nSome notable projects worth mentioning:\n- created website for internal tech conference\n- designed and developed digital art project based on modern web technologies like WebSockets and Variables Fonts for internal tech conference\n- custom-built solution with a Webpack to secure Single Page Application architecture on the frontend in connection with REST API.\n- active work on a tool to secure usage of the npm ecosystem packages in the internal projects",
+                    "title": "Senior Frontend Developer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 20992,
+                "name": "Backbase",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQFOmtTiVwZYvA/company-logo_400_400/0/1665989805683?e=1703721600&v=beta&t=X8HO_KxbmZnHDrqnlsMV_cv5Obm_soo-lHOMTRHRRNQ",
+                "url": "https://www.linkedin.com/company/backbase/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amsterdam Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2017
+                        }
+                    },
+                    "company": "Backbase",
+                    "description": "Main goals for me, in a role of FE Chapter Lead, was code quality improvement of the product, knowledge and best practices sharing within Tribe squads, trainings and improved problems solving of my teammates. Our FE Chapter contains of developers from 5+ different teams, working on the same product. For sure, this requires some synchronisation within the Chapter, but also with other Chapters. Thus my responsibility is also proper communication between FE, QA and UX Chapters, but also aligning with Product Owners on upcoming FE roadmap.",
+                    "title": "Frontend Chapter Lead",
+                    "employment_type": null
+                },
+                {
+                    "location": "Amsterdam Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2017
+                        }
+                    },
+                    "company": "Backbase",
+                    "description": "Working on Web Widgets for Retail and Business Banking functionality. Major technical requirements for them are:\n- accessibility\n- omni-channel (should work in desktop and mobile browsers, but also in native hybrid mobile applications)\n- internationalisation and localisation of the widgets\n\nAlso responsible for developing RAML (v1.0) specifications for API contracts, including JSON Schemas (v4) definitions.",
+                    "title": "Senior Frontend Developer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 165895,
+                "name": "SDL Tridion",
+                "logo": "https://media.licdn.com/dms/image/C560BAQE99G33vv9eEw/company-logo_400_400/0/1607434446230?e=1703721600&v=beta&t=VUYjQVVJYjGBjB3_TwLM99sXOlOKlqmp-XMP1kvcWCE",
+                "url": "https://www.linkedin.com/company/sdl/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2008
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Kyiv, Ukraine",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2013
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2015
+                        }
+                    },
+                    "company": "SDL",
+                    "description": null,
+                    "title": "Senior Product Developer",
+                    "employment_type": null
+                },
+                {
+                    "location": "Kyiv",
+                    "date": {
+                        "start": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2008
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2013
+                        }
+                    },
+                    "company": "SDL",
+                    "description": null,
+                    "title": "Product Developer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 27073,
+                "name": "Negeso",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQHNAvg51zOgqw/company-logo_400_400/0/1519856104199?e=1703721600&v=beta&t=gzAtSVCaxYalQn6gkxO-f2ega6nO-LEKfYmUCRWlcuw",
+                "url": "https://www.linkedin.com/company/negeso/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2007
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2008
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Kyiv",
+                    "date": {
+                        "start": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2007
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2008
+                        }
+                    },
+                    "company": "Negeso",
+                    "description": null,
+                    "title": "Developer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 165895,
+                "name": "Tridion Development Center",
+                "logo": "https://media.licdn.com/dms/image/C560BAQE99G33vv9eEw/company-logo_400_400/0/1607434446230?e=1703721600&v=beta&t=VUYjQVVJYjGBjB3_TwLM99sXOlOKlqmp-XMP1kvcWCE",
+                "url": "https://www.linkedin.com/company/sdl/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2006
+                },
+                "end": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2007
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2006
+                        },
+                        "end": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2007
+                        }
+                    },
+                    "company": "SDL",
+                    "description": null,
+                    "title": "Technical Tester",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "JavaScript",
+        "Vue",
+        "Node.js",
+        "Scrum",
+        "Agile Methodologies",
+        "Test Driven Development",
+        "Software Development",
+        "Web Development",
+        "Web Applications",
+        "OOP",
+        "TDD",
+        "Test Automation",
+        "Object-Oriented Programming (OOP)",
+        "Design Patterns",
+        "Continuous Integration",
+        "Unit Testing",
+        "AJAX",
+        "JIRA",
+        "SQL",
+        "HTML"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

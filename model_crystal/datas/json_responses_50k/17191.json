@@ -1,0 +1,580 @@
+{
+    "profile_id": "janpjdriessen",
+    "first_name": "Jan",
+    "last_name": "Driessen",
+    "sub_title": "Smart Manufacturing Architect at Nexperia",
+    "profile_picture": "https://media.licdn.com/dms/image/D4E03AQEg631-mhb88A/profile-displayphoto-shrink_800_800/0/1683548744953?e=1701302400&v=beta&t=GgjjklggUpN12Xi-trl3FYWozZmAuMHeATdy-RrgXvQ",
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAAAS1EAoBdx0l-NR7yIrO-H1tB4lR57YCyvw",
+    "object_urn": 78974986,
+    "birth_date": null,
+    "summary": "PROFILE\nWith experiences in 1) semiconductor manufacturing (process engineer metal deposition), 2) solution design for advanced process control (functional architect of AEC/APC systems at NXP Nijmegen), and 3) smart manufacturing (principal engineer for data analysis and capacity modeling), I have built a solid expertise of support functions in one of the most complex industries: Semiconductor Manufacturing.\n\nMY GOAL?\nGet the full potential of Industry 4.0 by developing projects in the field of data collection and big data analysis to develop smart solutions to optimize the overall fab output (both throughput and quality).\n\nSPECIALTIES:\nIndustrial engineering: Lean Manufacturing, Scheduling and Dispatching, Tool Speed, Efficiency Improvement, Optimization, OEE (Operational Equipment Efficiency), Cycle Time, Factory Automation, Statistical Process Control, Big Data Analysis, Problem Solving, Functional Architect, FICS (Factory Information and Control Systems)\n\nSKILLS\n\u2022\tOrganized and self-motivated self-starter with creative abilities in management and problem solving skills\n\u2022\tCoordinator within a research group\n\u2022\tTeam player with personality, positive attitude, and a strong sense of duty\n\u2022\tAbility to relate to people and good reflective listener\n\u2022\tPractical and experimental skills in computer simulations, electronics and mechanical engineering\n\u2022\tMake explanatory visualizations of complex problems in layman\u2019s terms\n\u2022\tExcellent oral and written communication skills: presentations and clarifications for worldwide customers, research papers published and presented at national and international conferences\n",
+    "location": {
+        "country": "Netherlands",
+        "short": "Arnhem-Nijmegen Region",
+        "city": null,
+        "state": null,
+        "default": "Arnhem-Nijmegen Region"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "Dutch",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "English",
+                "proficiency": "FULL_PROFESSIONAL"
+            },
+            {
+                "name": "French",
+                "proficiency": "PROFESSIONAL_WORKING"
+            },
+            {
+                "name": "German",
+                "proficiency": "FULL_PROFESSIONAL"
+            }
+        ]
+    },
+    "industry": "Semiconductors",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 1985
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 1989
+                }
+            },
+            "school": {
+                "name": "Eindhoven University of Technology",
+                "logo": "https://media.licdn.com/dms/image/C560BAQG4PGSYiNG4CA/company-logo_400_400/0/1642150189320?e=1703721600&v=beta&t=omf4Ziy8Suete_GTJ3Qn1mOBS7ZrKSPido6Ld2LseBU",
+                "url": "https://www.linkedin.com/school/eindhoven-university-of-technology/"
+            },
+            "degree_name": "Doctor of Philosophy (PhD)",
+            "field_of_study": "Physics",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 1980
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 1985
+                }
+            },
+            "school": {
+                "name": "Eindhoven University of Technology",
+                "logo": "https://media.licdn.com/dms/image/C560BAQG4PGSYiNG4CA/company-logo_400_400/0/1642150189320?e=1703721600&v=beta&t=omf4Ziy8Suete_GTJ3Qn1mOBS7ZrKSPido6Ld2LseBU",
+                "url": "https://www.linkedin.com/school/eindhoven-university-of-technology/"
+            },
+            "degree_name": "Graduate Degree",
+            "field_of_study": "Physics",
+            "grade": "cum laude"
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "Spin-off projects from INTEGRATE ",
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "description": "\u25aa Implement smart IT-solutions to raise fab throughput. In my role as principal industrial engineer I have coordinated the various activities to implement these new solutions (design, write specifications, testing, debugging, roll-out into fab) \n\u25aa Loading Trigger application \u2013 implement and deploy a GUI-screen to inform operator which tool needs to be (un)loaded urgently. In the lithography department the \u2018operational efficiency\u2019 has been increased enormously (idle time reduction \u2206 = -6.5%, hiccup reduction \u2206 = -1.5%). \n\u25aa Smart solution to optimize reticle jobs (= reduce time-consumption blade movement). This traveling salesman problem is tackled with an \u2018integer linear programming\u2019 solver. It has been implemented in the IT-architecture and resulted in an overall capacity gain on the lithography steppers by \u2206 = +1.2%.\nACHIEVEMENT: capacity gain of > 8% for lithography processing (i.e. bottleneck of fab)",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Jan",
+                    "last_name": "Driessen",
+                    "name": null,
+                    "headline": "Smart Manufacturing Architect at Nexperia"
+                }
+            ]
+        },
+        {
+            "title": "ENIAC INTEGRATE",
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "description": "Leader WP2 \u2013 Equipment Usage Optimization (= development of tools and visual aids which can help to understand and optimize the time consumption of semiconductor process tools)\n\u25aa INTEGRATE aims to develop \u2018smart solutions\u2019 to maximize the fab throughput of European semiconductor fabs. This daunting task is characterized by various complicating factors \u2013 legacy equipment, compatibility with existing IT-solutions, high-mix (product diversity) and low volumes (many customers).\n\u25aa Responsible for reporting at EU- and NL-level.\n\u25aa Organizer of monthly telecons as well as face-to-face meetings (twice a year) where the collaborators shared their ideas, solution strategies, algorithms and lessons-learned which helped to lower the threshold for \u2018copy-paste\u2019 actions to implement smart solutions.\n\u25aa ACHIEVEMENT: world-wide acknowledgement that the wait-time-waste approach can also be applied to legacy equipment, allowing for \u2018smart solutions\u2019 in the existing legacy 200mm fabs",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Jan",
+                    "last_name": "Driessen",
+                    "name": null,
+                    "headline": "Smart Manufacturing Architect at Nexperia"
+                }
+            ]
+        },
+        {
+            "title": "Implementation of AEC/APC solution at NXP-Semiconductors Nijmegen",
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2006
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "description": "\u25aa Functional architect of APC-solution: design, implementation, testing and deployment.\n\u25aa Initiator of an ICN8-wide program to store process data for analysis and tool-control (called TEMPTATION \u201cTune Equipment & Match Processes To Analyse Tool data Imported Over Network\u201d).\n\u25aa Intensive collaboration with IT-department at NXP to specify and build and internal APC/APC system (Advanced Equipment/Process Control).\n\u25aa Responsible for business case(s) for continued progress in this program (maintenance and development is currently performed in collaboration with an external IT company - www.avisi.nl).  Process control application rolled out to other external companies (Nexperia).\n\u25aa Performed all pilot analysis to test and implement the system, with many successes in my other roles - 1. improved tungsten processing (process engineer), 2. incident prevention (line yield coordinator), 3. analysis of takt times allowing the identification of operational losses (industrial engineer).",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Jan",
+                    "last_name": "Driessen",
+                    "name": null,
+                    "headline": "Smart Manufacturing Architect at Nexperia"
+                }
+            ]
+        }
+    ],
+    "publications": [
+        {
+            "name": "Wait-Time-Waste improvement opportunities and 'smart manufacturing' in legacy 200mm fabs",
+            "publisher": "2016 27th Annual SEMI Advanced Semiconductor Manufacturing Conference (ASMC)",
+            "url": "https://ieeexplore.ieee.org/document/7491092",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2016
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Jan",
+                    "last_name": "Driessen",
+                    "name": null,
+                    "headline": "Smart Manufacturing Architect at Nexperia"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Rene",
+                    "last_name": "Sjardijn",
+                    "name": null,
+                    "headline": "IT Principal In SemiConductor Industry"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Frank van Heukelom",
+                    "headline": null
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Corstian",
+                    "last_name": "van Roest",
+                    "name": null,
+                    "headline": "Technical Product Manager at Ratio Electric"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Martijn",
+                    "last_name": "Mom",
+                    "name": null,
+                    "headline": "Manager Capacity Modelling & Supply Chain Improvements at NXP Semiconductors"
+                }
+            ]
+        },
+        {
+            "name": "an OEE increase of 10 percent on litho equipment",
+            "publisher": "12th European Advanced Process Control and Manufacturing Conference - APCM 2012",
+            "url": null,
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2012
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Jan",
+                    "last_name": "Driessen",
+                    "name": null,
+                    "headline": "Smart Manufacturing Architect at Nexperia"
+                }
+            ]
+        }
+    ],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 15183110,
+                "name": "Nexperia",
+                "logo": "https://media.licdn.com/dms/image/D560BAQGjSfbCkgK6Ag/company-logo_400_400/0/1691569782683?e=1703721600&v=beta&t=Rafsv7xwe9ppmRYHY1Vx1yfVIm4SlDsSuJPfqpCJfME",
+                "url": "https://www.linkedin.com/company/nexperia/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Nijmegen Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Nexperia",
+                    "description": null,
+                    "title": "Smart Manufacturing Architect",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1088,
+                "name": "NXP Semiconductors - Nijmegen",
+                "logo": "https://media.licdn.com/dms/image/C510BAQFopDEhRcpz9g/company-logo_400_400/0/1519855915315?e=1703721600&v=beta&t=eX4VOzxpSqMPm7vRUcHWlZJuKSUSTb8F8TdbyJUHXl8",
+                "url": "https://www.linkedin.com/company/nxp-semiconductors/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2000
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Nijmegen Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2010
+                        },
+                        "end": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "NXP Semiconductors",
+                    "description": "\u25aa Initiator for analytical research:  started modeling of capacity performance of ICN8 fab by investigating timing information collected in AEC/APC system\n\u25aa In the pilot study for the metal deposition equipment (installed base = 20 AMAT ENDURA) a hidden capacity loss of >7% was identified and recovered in collaboration with the equipment engineers.\n\u25aa Implementation of OEE metric (Overall Equipment Efficiency) in high-mix ICN8 fab, with accurate indicators of rate efficiency losses\n\u25aa The performance analysis of lithography processing (installed base = 35 ASML systems) identified an efficiency loss of >10%.  The ideas for analysis and possible solutions were used in the research proposal for the European collaborative project INTEGRATE (https://cordis.europa.eu/project/rcn/201967/factsheet/en).",
+                    "title": "Principal Industrial Engineer, ICN8 fab",
+                    "employment_type": null
+                },
+                {
+                    "location": "Nijmegen Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2004
+                        },
+                        "end": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2018
+                        }
+                    },
+                    "company": "NXP Semiconductors",
+                    "description": "\u25aa Initiator of an ICN8-wide program to store process data for analysis and tool-control (called TEMPTATION \u201cTune Equipment & Match Processes To Analyse Tool data Imported Over Network\u201d).\n\u25aa Intensive collaboration with IT-department at NXP to specify and build and internal APC/APC system (Advanced Equipment/Process Control).\n\u25aa Responsible for business case(s) for continued progress in this program (maintenance and development is currently performed in collaboration with an external IT company - www.avisi.nl).  Process control application rolled out to other external companies (Nexperia).\n\u25aa Performed all pilot analysis to test and implement the system, with many successes in my other roles - 1. improved tungsten processing (process engineer), 2. incident prevention (line yield coordinator), 3. analysis of takt times allowing the identification of operational losses (industrial engineer).",
+                    "title": "AEC/APC coordinator, ICN8 fab",
+                    "employment_type": null
+                },
+                {
+                    "location": "Nijmegen Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2008
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2010
+                        }
+                    },
+                    "company": "NXP Semiconductors",
+                    "description": "Responsible for Improvement Actions with respect to Line Yield Losses\n\u25aa Chairman of weekly LY-team meeting.\n\u25aa Monthly reporting to upper management.\n\u25aa Perform extensive analysis on historical data.\n\u25aa Introduce improved scrap registration (standardized reporting).",
+                    "title": "Line Yield Coordinator, ICN8 fab",
+                    "employment_type": null
+                },
+                {
+                    "location": "Nijmegen Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2000
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2008
+                        }
+                    },
+                    "company": "NXP Semiconductors",
+                    "description": "Process Engineer:  W-CVD deposition / W-etch back. \n\u25aa Coordinate maintenance and improvement actions to guarantee equipment condition and machine uptime to process the daily expected capacity demand (i.e. throughput and WIP-level).  \n\u25aa Responsible for developing new processes or modifying/improving existing ones.\n(2002 \u2013 2005) Chairman of Philips (NXP) internal user group W-CVD deposition (Chemical Vapor Deposition) to share lessons learned in the various world-wide Philips fabs.\n(2003 \u2013 2005) Member Philips (NXP) internal user group Metallization, i.e. thin film deposition using the Physical Vapor Deposition process (PVD).",
+                    "title": "Principal Process Engineer, ICN8 fab",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 165286,
+                "name": "Oerlikon",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQEmJdf1FFWPyQ/company-logo_400_400/0/1689602731394?e=1703721600&v=beta&t=23pwFguaSPZFzJCxAg_AYGfsRlSZpx9HXmTQu29PA9Y",
+                "url": "https://www.linkedin.com/company/oerlikon/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 1997
+                },
+                "end": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2000
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Palaiseau, France",
+                    "date": {
+                        "start": {
+                            "month": 4,
+                            "day": null,
+                            "year": 1997
+                        },
+                        "end": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2000
+                        }
+                    },
+                    "company": "Oerlikon",
+                    "description": "\u2022\tOrganizing the R&D activities in physical vapour deposition\n\u2022\tManager of an R&D team comprising of process engineers and technicians\n\u2022\tManagement of the budget and the technical resources\n\u2022\tCoordinating development work with system designers\n\u2022\tCollaboration programs with public research laboratories and universities\n\u2022\tPreparing publications and presentation material with fundamental technological information\n\u2022\tVisits and meetings at customers sites to clarify technological and scientific issues\n\u2022\tIdentifying request of the market for new technologies\n\u2022\tDevelopment of R&D programs to address these requests",
+                    "title": "PVD Process Manager, R&D center, TFT Displays Division",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 4838,
+                "name": "Eindhoven University of Technology",
+                "logo": "https://media.licdn.com/dms/image/C560BAQG4PGSYiNG4CA/company-logo_400_400/0/1642150189320?e=1703721600&v=beta&t=omf4Ziy8Suete_GTJ3Qn1mOBS7ZrKSPido6Ld2LseBU",
+                "url": "https://www.linkedin.com/school/eindhoven-university-of-technology/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 1992
+                },
+                "end": {
+                    "month": 3,
+                    "day": null,
+                    "year": 1997
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Eindhoven Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 1996
+                        },
+                        "end": {
+                            "month": 3,
+                            "day": null,
+                            "year": 1997
+                        }
+                    },
+                    "company": "Eindhoven University of Technology",
+                    "description": "R&D coordinator for 10 Gbit telecommunications project ESPRIT\n\u2022\tSetting up experiments to test 10Gbit optical amplifiers\n\u2022\tAdvisor of trainees and undergraduate students\n\u2022\tCollaboration with European Partners in ESPRIT",
+                    "title": "Research Associate, Telecommunications Group",
+                    "employment_type": null
+                },
+                {
+                    "location": "Eindhoven Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 1992
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 1996
+                        }
+                    },
+                    "company": "Eindhoven University of Technology",
+                    "description": "\u2022\tResearch on (ultra-) cold atomic collisions\n\u2022\tDesign innovative solutions to implement laser cooling in practical apparatuses\n\u2022\tThesis advisor of two Ph.D students\n\u2022\tStarted a NATO collaboration with prof. dr. S.R. Leone\n\u2022\tEducational tasks: give classes and examinations",
+                    "title": "Research Fellow of the Royal Dutch Academy of Sciences",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 3771,
+                "name": "Joint Institute for Laboratory Astrophysics",
+                "logo": "https://media.licdn.com/dms/image/C560BAQGueVr_GgFPZg/company-logo_400_400/0/1519856474347?e=1703721600&v=beta&t=BE73IXgPwtRDcMj8WNAgXS-7tTanHN90Phwu--6n_lg",
+                "url": "https://www.linkedin.com/school/cuboulder/",
+                "employees": {
+                    "start": 5001,
+                    "end": 10000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 1990
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 1992
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Boulder, Colorado, USA",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 1990
+                        },
+                        "end": {
+                            "month": 4,
+                            "day": null,
+                            "year": 1992
+                        }
+                    },
+                    "company": "University of Colorado Boulder",
+                    "description": "Supervisor: prof.dr. Stephen R. Leone\n\u2022\tScientific research to study atomic coherence\n\u2022\tWork with pulsed laser systems\n\u2022\tSetup of data acquisition and data analysis\n\u2022\tDevelop theoretical models to interpret and visualize experimental data\n\u2022\tOrganized weekly scientific meeting to stimulate collaboration\n\u2022\tAuthor of several scientific papers",
+                    "title": "Post-Doctoral Research Associate",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Semiconductor Manufacturing",
+        "Semiconductors",
+        "SPC",
+        "FMEA",
+        "CVD",
+        "PVD",
+        "Etching",
+        "Thin Films",
+        "Six Sigma",
+        "Lean Manufacturing",
+        "Automation",
+        "Process Engineering",
+        "Process Improvement",
+        "Reliability",
+        "Troubleshooting",
+        "Quality Management",
+        "Black Belt",
+        "Green Belt",
+        "DOE",
+        "Design of Experiments"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

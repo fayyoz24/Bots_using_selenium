@@ -1,0 +1,858 @@
+{
+    "profile_id": "seangoosen-ips",
+    "first_name": "Sean",
+    "last_name": "Goosen",
+    "sub_title": "Technical Director at Infinite Process Solutions",
+    "profile_picture": null,
+    "background_image": "https://media.licdn.com/dms/image/C4D16AQF2384cCBttmQ/profile-displaybackgroundimage-shrink_350_1400/0/1622802497179?e=1701302400&v=beta&t=NKc-rCYFoUVQoRzwWBBkmYzeRjtsqVOx5C8L34jIAAc",
+    "profile_type": "personal",
+    "entity_urn": "ACoAAAWQ9PMBEsqtaXhc-rmvIQ40FndJ5QAR_KM",
+    "object_urn": 93385971,
+    "birth_date": null,
+    "summary": null,
+    "location": {
+        "country": "Netherlands",
+        "short": "Eindhoven, North Brabant",
+        "city": "Eindhoven",
+        "state": "North Brabant",
+        "default": "Eindhoven, North Brabant, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [
+        {
+            "url": "https://www.infinite-process.com",
+            "title": "Infinite Process Solutions",
+            "description": "We are a high-tech software engineering company that focuses on industrial and process automation for various industries. See our website or contact us for further information on our service offering.",
+            "image": "https://media.licdn.com/dms/image/sync/D4D27AQFgAWSarb83sA/articleshare-shrink_1280_800/0/1694699677442?e=1696446000&v=beta&t=LMEgGQxvnCUo3HiutasOExJjn6vFoMq-FSTecqkguDY"
+        }
+    ],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "Afrikaans",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "Dutch",
+                "proficiency": "PROFESSIONAL_WORKING"
+            },
+            {
+                "name": "English",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ]
+    },
+    "industry": "Industrial Automation",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "school": {
+                "name": "Nelson Mandela Metropolitan University",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "Bachelor of Technology (BTech)",
+            "field_of_study": "Electrical Engineering",
+            "grade": "8"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2008
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2010
+                }
+            },
+            "school": {
+                "name": "Nelson Mandela University",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQEKiGSkcw-m9g/company-logo_400_400/0/1519879493699?e=1703721600&v=beta&t=9DEjnb6MreJexTkoxyfp1UcQIlADqttsfD26C-QSeWc",
+                "url": "https://www.linkedin.com/school/nelson-mandela-university/"
+            },
+            "degree_name": "Electrical Engineering",
+            "field_of_study": "Computers, instrumentation, communication, industrial",
+            "grade": "6"
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "R&D Product Development",
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "description": "Fullstack application, services and research & development for products. Products use various languages including python, nodejs and c++ with machine learning algorithms.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Sean",
+                    "last_name": "Goosen",
+                    "name": null,
+                    "headline": "Technical Director at Infinite Process Solutions"
+                }
+            ]
+        },
+        {
+            "title": "IOT2050 OPC UA server gateway backend development",
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "description": "Design and development of a backend application running on a IOT2050 device with a linux debian kernel. The application was built to interface to any Siemens PLC via OPC UA to store and retrieve traces  in binary files.\n\nThe application was built from python and entails a OPCUA server. Any OPC UA client can connect to it via secure connection to retrieve data from traces.\n\nA framework was developed for a Siemens PLC for easy and flexible interface.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Sean",
+                    "last_name": "Goosen",
+                    "name": null,
+                    "headline": "Technical Director at Infinite Process Solutions"
+                }
+            ]
+        },
+        {
+            "title": "VDL, ASML 3FM Zeiss Software Support - The Netherlands",
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "description": "I have been assigned from VDL as a Lead Software Engineer to support ASML/Zeiss and MI-Partners on their control system software development for a complex measuring machine.\n\nControl hardware consists of \nSiemens S7-1518F, \nSiemens Sinumerik 840d with Siemens Sinamics S120 racks. \n\nProject software is \nTIA Portal v15.1\nSafety\nStep 7 Professional 2010 - legacy\nStarter\nPython Integration for testing.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Sean",
+                    "last_name": "Goosen",
+                    "name": null,
+                    "headline": "Technical Director at Infinite Process Solutions"
+                }
+            ]
+        },
+        {
+            "title": "Project Salalah - Siemens SGT400 + Compressor Software Engineering",
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "description": "I was assigned from Siemens NL on the Salalah Project for the control description design, software design, software engineering and finally Customer FAT for x2 SGT-400 compressor coupled units. System used is S7-410H AS with Siemens PCS 7 v8.1.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Sean",
+                    "last_name": "Goosen",
+                    "name": null,
+                    "headline": "Technical Director at Infinite Process Solutions"
+                }
+            ]
+        },
+        {
+            "title": "Project Ghana - Siemens SGT400 + Compressor Software Engineering",
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "description": "I was assigned from Siemens NL to the Ghana ENI Project for the software design, software engineering and finally Customer FAT for the third unit. Project consisted of x3 SGT400s with Compressors. System used is S7-410H AS with Siemens PCS 7 v8.2.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Sean",
+                    "last_name": "Goosen",
+                    "name": null,
+                    "headline": "Technical Director at Infinite Process Solutions"
+                }
+            ]
+        },
+        {
+            "title": "Project TAP - Siemens SGT400 + Compressor Software Engineering",
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "description": "I was assigned from Siemens NL on the TAP Albania and Greece project for the software design, software engineering and finally Customer FAT. Project consisted of  x4 SGT400s with Compressor coupled. System used is S7-410H AS with Siemens PCS 7 v8.2. Modbus TCP via x2 firewalls and software FAT was passed with customer.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Sean",
+                    "last_name": "Goosen",
+                    "name": null,
+                    "headline": "Technical Director at Infinite Process Solutions"
+                }
+            ]
+        },
+        {
+            "title": "Project Culzean Siemens SGT400 + Compressor, E drive + Compressor",
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "description": "Project was assigned to myself from Siemens NV for the additional software items which customer required. A new standard design and safety design was done by us, and a recode took place on both projects.\n\nFAT for software and modbus communication test was passed with end user from Maersk oil / Total. ",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Sean",
+                    "last_name": "Goosen",
+                    "name": null,
+                    "headline": "Technical Director at Infinite Process Solutions"
+                }
+            ]
+        },
+        {
+            "title": "Botas Hanak Siemens Gas Turbine and Compressor Project upgrade and additions",
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "description": "Contracted by Siemens NL to upgrade the project from PCS 7 V6 SP2 to PCS 7 V8.1. \n\nAll requirements were followed as per contract. \n\nSoftware Version: Siemens PCS 7 V8.1",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Sean",
+                    "last_name": "Goosen",
+                    "name": null,
+                    "headline": "Technical Director at Infinite Process Solutions"
+                }
+            ]
+        },
+        {
+            "title": "Nawara Gas Turbine and Compressor Station Siemens NL",
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "description": "Contracted by Siemens NL to write the software for 4x turbine compressor trains for gas transportation. SGT100 x 2. SGT400 x2. Bentley Nevada BN3500 Controller has been configured aswell.\n\nAll requirements were followed as per contract and project passed FAT successfully.\n\nSoftware Version: Siemens PCS 7 V8 SP2",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Sean",
+                    "last_name": "Goosen",
+                    "name": null,
+                    "headline": "Technical Director at Infinite Process Solutions"
+                }
+            ]
+        },
+        {
+            "title": "Software Commissioning support - Siemens NL",
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "description": "Assisted the commissioning engineers on the following gas turbine and compressor projects with technical requirements and software changes:\n\nBotas eskisehir - Turkey - PCS 7 V6\nTuba and Zubair - Iraq - PCS 7 V6\n\n",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Sean",
+                    "last_name": "Goosen",
+                    "name": null,
+                    "headline": "Technical Director at Infinite Process Solutions"
+                }
+            ]
+        },
+        {
+            "title": "Jeleniow Siemens Gas Turbine and Compressor station, engineering and commissioning",
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "description": "Contracted by Siemens NL to edit and commission the software for 2 x turbine compressor trains for gas transportation. SGT100-2s x 2. \n\nProgrammed, paramitized and commissioned compressor software which includes functions for Anti surge controllers, performance controllers, partial blowdowns, sequence control and  loadsharing.\n\nAll requirements were followed as per contract.\n\nSoftware Version: Siemens PCS 7 V8 SP1",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Sean",
+                    "last_name": "Goosen",
+                    "name": null,
+                    "headline": "Technical Director at Infinite Process Solutions"
+                }
+            ]
+        },
+        {
+            "title": "Anglo American Platinum - Anglo Converting Process - Dewatering Bin Upgrade",
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "description": "Position: Lead C&I Engineer\n\nAdding of an additional bin on to current process, equipment modules has been added and integrated into system. All control module blocks has been upgraded. Once new bin was commissioned, the other three bins was upgraded to the new standard and training was given.\n\nSoftware Specification : Siemens PCS7  V 7.1.3",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Sean",
+                    "last_name": "Goosen",
+                    "name": null,
+                    "headline": "Technical Director at Infinite Process Solutions"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Matthew",
+                    "last_name": "Kuhn",
+                    "name": null,
+                    "headline": "Managing Director at Prolific Technologies"
+                }
+            ]
+        },
+        {
+            "title": "Anglo American Platinum - Unki Mine - Unki Concentrator - Zimbabwe",
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "description": "Position : Lead Control and Instruments Engineer\n\nUpgrade of Control Systems Software, new server pair, clients and engineering station, installation, setup and commissioning. Project has been sucessfully upgraded to PCS7 V 8, all blocks were upgraded according to specification to new Anglo standard.\n\nSoftware Specification : PCS7 V7.0 SP2 to V8.0 SP2",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Sean",
+                    "last_name": "Goosen",
+                    "name": null,
+                    "headline": "Technical Director at Infinite Process Solutions"
+                }
+            ]
+        },
+        {
+            "title": "Anglo American Platinum - Mototolo JV Concentrator - PCS7 Upgrade",
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "description": "Position : Lead Controls and Instruments Engineer\n\nUpgrade of the control system software, new server pair, client and engineering station installation, setup and commissioning.\n\nSoftware Specification: PCS7 Upgrade from V7.0 SP3 to V8.0 SP2",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Sean",
+                    "last_name": "Goosen",
+                    "name": null,
+                    "headline": "Technical Director at Infinite Process Solutions"
+                }
+            ]
+        },
+        {
+            "title": "VWSA Robot Zone 1",
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "description": "Position : Project Engineer\n\nAdding of two additional robot zones. Development, Implementation and re-commissioning of Zone 1 according to VWSA standard\n\nSoftware specification : Siemens Step 7 and WinCC 600 +I/O\n",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Sean",
+                    "last_name": "Goosen",
+                    "name": null,
+                    "headline": "Technical Director at Infinite Process Solutions"
+                }
+            ]
+        },
+        {
+            "title": "ExxonMobil Angola Block 15 Kizomba A Subsea Simulation",
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "description": "Position : Application Engineer\n\nInitial development of Subsea Well and Manifold Simulation.\n\nSoftware specification :SCL, CFC, Ansi C, VB, AS and OS. Siemens PCS7 V8.0 SP1. Visual Basic 2013. KEPServer EX OPC server. Invensys DYNsim. 8000 + I/O",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Sean",
+                    "last_name": "Goosen",
+                    "name": null,
+                    "headline": "Technical Director at Infinite Process Solutions"
+                }
+            ]
+        },
+        {
+            "title": "ENI Angola Block 15/06 Ngoma FPSO Subsea MCS",
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "description": "Position : Application engineer\n\nDesign, Development and Implementation of AS and OS for all wells and manifolds. Development of new custom Subsea library which includes blocks and faceplates.\n\nSoftware specification :SCL, CFC, Ansi C, Visual Basic, AS and OS. Siemens PCS7 V8.0 Update 1. 40000+ I/O",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Sean",
+                    "last_name": "Goosen",
+                    "name": null,
+                    "headline": "Technical Director at Infinite Process Solutions"
+                }
+            ]
+        },
+        {
+            "title": "ExxonMobil Angola Block 15 Kizomba C \u2013 Mondo South",
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "description": "Position : Application engineer\n\nDevelopment of additional blocks and faceplates to library for automated strategies. Development of sequences for automated strategies.\n\nSoftware specification :SCL, CFC, Ansi C, AS and OS. Siemens PCS7 V8.0 SP1. 6000 + I/O",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Sean",
+                    "last_name": "Goosen",
+                    "name": null,
+                    "headline": "Technical Director at Infinite Process Solutions"
+                }
+            ]
+        },
+        {
+            "title": "Eberspacher 400 ton Reef press",
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "description": "Position : Software engineer\n\nReef press upgrade. Development, Implementation and re-commissioning of press according to safety standards.\n\nSoftware specification : Siemens Step 7 distributed safety and WinCC v7.200+ I/O",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Sean",
+                    "last_name": "Goosen",
+                    "name": null,
+                    "headline": "Technical Director at Infinite Process Solutions"
+                }
+            ]
+        },
+        {
+            "title": "MBSA W205 Paint shop",
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "description": "Position : Software engineer\n\nPaint shop upgrade of AS and OS from Siemens S5 to Siemens S7 according to Integra Wave 4 specification. Development and Implementation.\n\nSoftware specification : Siemens Step 7 and WinCC V7. 200+ I/O",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Sean",
+                    "last_name": "Goosen",
+                    "name": null,
+                    "headline": "Technical Director at Infinite Process Solutions"
+                }
+            ]
+        }
+    ],
+    "publications": [],
+    "courses": [
+        {
+            "name": "Android, iOS & UWP Development",
+            "number": null
+        },
+        {
+            "name": "C++20",
+            "number": null
+        },
+        {
+            "name": "Json, XML & UI Development",
+            "number": null
+        },
+        {
+            "name": "NodeJS Backend development",
+            "number": null
+        },
+        {
+            "name": "Poland Gas Course",
+            "number": null
+        },
+        {
+            "name": "Python Development",
+            "number": null
+        },
+        {
+            "name": "Siemens AC Drives",
+            "number": null
+        },
+        {
+            "name": "Siemens PCS 7",
+            "number": null
+        },
+        {
+            "name": "Siemens Sinamics Motion Control",
+            "number": null
+        },
+        {
+            "name": "Siemens Step 7 Pro 1",
+            "number": null
+        },
+        {
+            "name": "Siemens Step 7 Pro 2",
+            "number": null
+        },
+        {
+            "name": "Siemens WinCC",
+            "number": null
+        },
+        {
+            "name": "TIA Portal ",
+            "number": null
+        },
+        {
+            "name": "Xamarin App Development",
+            "number": null
+        }
+    ],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 3508245,
+                "name": "Infinite Process Solutions",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQH8dHWt25mptA/company-logo_400_400/0/1694525565863?e=1703721600&v=beta&t=6fW3z92VPWkO6t5HnmPP5-UTZUxoRhji7550wMUlfOI",
+                "url": "https://www.linkedin.com/company/infiniteprocess-solutions/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Eindhoven, North Brabant, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Infinite Process Solutions",
+                    "description": null,
+                    "title": "Technical Director",
+                    "employment_type": "Permanent"
+                },
+                {
+                    "location": "Centurion, Gauteng",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2014
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Infinite Process Solutions",
+                    "description": null,
+                    "title": "Technical Director",
+                    "employment_type": "Permanent"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Design Manufacturing",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Port Elizabeth Area, South Africa",
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2013
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2014
+                        }
+                    },
+                    "company": "Design Manufacturing",
+                    "description": null,
+                    "title": "Project Manager",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Siemens Ltd",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2008
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Port Elizabeth Area, South Africa",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2008
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2012
+                        }
+                    },
+                    "company": "Siemens Ltd",
+                    "description": null,
+                    "title": "Internal Technical Support",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Automation",
+        "SCADA",
+        "Engineering",
+        "PLC",
+        "Integration",
+        "Project Management",
+        "Project Engineering",
+        "Control Systems Design",
+        "Commissioning",
+        "Electrical Engineering",
+        "Instrumentation",
+        "Process Automation",
+        "Troubleshooting",
+        "Process Control",
+        "DCS",
+        "Control Engineering",
+        "Embedded Systems",
+        "Advanced Process Control",
+        "Hardware",
+        "Software Development"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

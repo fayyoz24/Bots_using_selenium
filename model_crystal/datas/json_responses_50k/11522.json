@@ -1,0 +1,1125 @@
+{
+    "profile_id": "romannikitchenko",
+    "first_name": "Roman",
+    "last_name": "Nikitchenko",
+    "sub_title": "Platform integrator / technology bringup engineer / software RND expert",
+    "profile_picture": "https://media.licdn.com/dms/image/C4E03AQGOuMjq_gnAUw/profile-displayphoto-shrink_800_800/0/1517752812865?e=1701302400&v=beta&t=O5z3d0nwohOU4BGawW68BZRslQ6pZmMgSbf34aATReY",
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAAAD844EBI1YJBlzdplmtOSc2zfo1lQ8ukjY",
+    "object_urn": 16573313,
+    "birth_date": null,
+    "summary": "Top level engineer with broad experience of research and new technology adoption up to the organization level. Contributions up to the several strategic areas at once. Solid experience of project recovery proven by positive customer feedback. Successful technical coordination for teams with more then 15 engineers starting from work breakdown and code inspection and up to negotiations. Experience of project bring-ups on customer site.\n\nStrong analytical background. Marketing to technical requirements translation and solution design up to product line level. Huge refactoring experience for projects on late stages / in production with very high success rate. Solid feature planning and usage case analysis expertise.\n\nStrong technology background. Big Data area as current primary subject matter. Mostly Apache Hadoop infrastructure including fresh things like Apache Spark or real-time oriented approaches like Apache HBase. Due to previous broad engineering experience ability to use both high level approaches and low level ones. Example of this is current set of programming languages ranging from plain C through C++ and Java and up to the Scala.\n\nSolid telecommunication expertise (Carrier Ethernet, pseudowire technologies, VoIP both on signalling and media level, Ethernet over PDH, SONET/SDH, TDM with such exotics as ITU-T H.223 / H.245 based audio / video multiplexing), ATM, MPLS,\n\nUNIX (FreeBSD, some Solaris) / embedded (Linux, VxWorks, RTXC) based experience including kernel level development (RTXC, FreeBSD), contributions to drivers and BSP improvements (Linux, VxWorks, FreeBSD). Understanding of ARM architecture, some experience with Power and x86. Huge multithreading, multiprocessor (including cache coherency problems handling) and distributed programming experience with very strict limitations and high system load.\n\nPrevious experience with broad range of VoIP and other networking hardware. Previous experience on internet service provider side.",
+    "location": {
+        "country": "Netherlands",
+        "short": "Eindhoven, North Brabant",
+        "city": "Eindhoven",
+        "state": "North Brabant",
+        "default": "Eindhoven, North Brabant, Netherlands"
+    },
+    "premium": true,
+    "influencer": false,
+    "treasury_media": [
+        {
+            "url": null,
+            "title": "Public presentations for software engineers",
+            "description": "Public presentations skill is critical for any software engineer career. But here we have some specials which we must account. This presentation is based on my practical experience as solutions architect and speaker of technology conferences in Ukraine. Its main goal is to help engineers to understand and avoid most frequent pitfalls.",
+            "image": "https://media.licdn.com/dms/image/C4D2DAQEcTBdxk7Hd9Q/profile-treasury-document-cover-images_1920/0/1583482702721?e=1696420800&v=beta&t=-bC8ulTe4lO2sGSyV8ENaKmnahCZbtgqEjqbt0_uQfs"
+        },
+        {
+            "url": null,
+            "title": "BIG DATA: From mammoth to elephant",
+            "description": "You run your SQL-centric infrastructure for 10 years and slowly starting to note you can\u2019t do this way anymore \u2013 everything is getting too expensive but your business requires things which are simply impossible without radical cahnges.\r\n\r\nThis is exact situation we had 2 years before. So we\u2019d like to shouw our experience:\r\n- Why and how we came into Big Data?\r\n- Why we choose Apache and Hadoop?\r\n- What to do and what is already done?\r\n- What lessans were learned?\r\n- Hadoop and relational databases: fight or synergy?\r\n- Reactive Big Data manifest.",
+            "image": "https://media.licdn.com/dms/image/C4D2DAQGu-7KwSDv-bg/profile-treasury-document-cover-images_1920/0/1583729719708?e=1696420800&v=beta&t=3_nKuL1AM06VELYzumeZAU9i2PFRnT_7boIzqrAiWM8"
+        },
+        {
+            "url": null,
+            "title": "Big data & frameworks: no book for you anymore.",
+            "description": "When your clients need only small database for personal music library and some kind of HTTP interface to it, everything looks nice and you can use lot of bright frameworks and trusted approaches for your application. But what changes if you step ahead of existing solutions to bring things like population health management?\r\n\r\nLet's talk about our Big Data experience and meaningful framework usage:\r\n- What makes the difference when you go Big Data and Hadoop.\r\n- Frameworks and big data: hamsters vs hipsters.\r\n- Reality matters. Frameworks cost. How much?\r\n- What framework is good for you?\r\n- Making your own frameworks.",
+            "image": "https://media.licdn.com/dms/image/C4D2DAQHY22UV3m0kMw/profile-treasury-document-cover-images_1920/0/1583143322139?e=1696420800&v=beta&t=X6hLPbTHJcNBoK_d4pbJP51ebqvI6h2Im2shGCIxB_s"
+        },
+        {
+            "url": null,
+            "title": "Elephant grooming: quality with Hadoop",
+            "description": "Good software quality matters. How about Big Data and Hadoop? Every day we process large amount of medical information, population scale. Any question why we pay attention to quality? Let's disclosure some points based on our practical cases.\r\n\r\n- Quality assurance in Hadoop: fears and reality.\r\n- Practical options for testing infrastructure.\r\n- Test strategy specials.\r\n- Lowering verification efforts.\r\n- Growth driven development: verification at scale.\r\n- I want better elephant: current gaps.",
+            "image": "https://media.licdn.com/dms/image/C4D2DAQHYGYoGGeTtog/profile-treasury-document-cover-images_1920/0/1583566669432?e=1696420800&v=beta&t=u72qTGV0-BeU3Jd86bjjpNkGec6PMGE3pmCueF8crMU"
+        },
+        {
+            "url": null,
+            "title": "Big Data - Big Pitfalls.",
+            "description": "Big Data technologies promise lot of advantages both from business and engineering point of view. But nothing comes for free. 2 years on this path led to lot of pitfalls discovered in term of infrastructure approaches, solutions complexity balance and technology stack selection approaches. Now we intend to warn you and have some fun.",
+            "image": "https://media.licdn.com/dms/image/C4D2DAQFbSrWtfNSHuA/profile-treasury-document-cover-images_1920/0/1583220776227?e=1696420800&v=beta&t=3fiFDV35mC-KV6LnqcLqvbhbAZLXM4WaPy9SkBi_h98"
+        },
+        {
+            "url": null,
+            "title": "Big data: current technology scope.",
+            "description": "Current big data technology scope overview prepared for V.I.Tech and Wellcentive companies. Answers questions why we are taking these products and what do we really do with them on very high level.",
+            "image": "https://media.licdn.com/dms/image/C4D2DAQE1pq6oufOEPw/profile-treasury-document-cover-images_1920/0/1583501362118?e=1696420800&v=beta&t=dwLdRaKHHmXK49pG2NoqCF2pC80MUpDlcpCfirzAJys"
+        },
+        {
+            "url": null,
+            "title": "Hbase.crazy.dances",
+            "description": "",
+            "image": "https://media.licdn.com/dms/image/C4D2DAQHzH-_BMXYexQ/profile-treasury-document-cover-images_1920/0/1583483424457?e=1696420800&v=beta&t=xSi-snqOJQAzaADrHho3kuWypQphCm2HGN3yBMEnna0"
+        },
+        {
+            "url": null,
+            "title": "Big Data: fall seven times, stand up eight!",
+            "description": "More than year of extremely intensive Big Data technologies development with Hadoop, HBase, MapReduce and ZooKeeper as key technologies. New company that has established infrastructure which grows pretty fast. Lot of experience in networking and distributed systems but completely new enterprise solutions world. What tasks does this bring? What issue and traps? What lessons were learned and what is considered as near future tasks? How embedded developer can enter this new world and what advantages he or she has? What challenges should you be ready to face?",
+            "image": "https://media.licdn.com/dms/image/C4D2DAQG0wY5DfVr5lw/profile-treasury-document-cover-images_1920/0/1583549782957?e=1696420800&v=beta&t=g6rFMKkLTmnILvytgcyHE8zeEfPRTpcVFQK52x9oUMI"
+        },
+        {
+            "url": null,
+            "title": "Big data technologies and Hadoop infrastructure",
+            "description": "Big Data technologies are bringing new complexity, new tasks and new opportunities in this world. How good is Apache Hadoop for all of this?",
+            "image": "https://media.licdn.com/dms/image/C4D2DAQHgtXxqN2j2Eg/profile-treasury-document-cover-images_1920/0/1583846306037?e=1696420800&v=beta&t=JqY4G41etmSjPcL64fe8YC2AgBMQsJciPea9stDN3Bc"
+        },
+        {
+            "url": null,
+            "title": "HBase, dances on the elephant back.",
+            "description": "Apache HBase is a technology that turns everything in Hadoop infrastructure upside down. An elephant cannot become an antelope, but yet it is possible to do a group dance on its back.",
+            "image": "https://media.licdn.com/dms/image/C4D2DAQHUE0JXnJyg7w/profile-treasury-document-cover-images_1920/0/1583783254331?e=1696420800&v=beta&t=ODev9avx86CArlxiEo4FYjHTwmztkA1q_xUK6R4lsrY"
+        }
+    ],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "Dutch",
+                "proficiency": "LIMITED_WORKING"
+            },
+            {
+                "name": "English",
+                "proficiency": "FULL_PROFESSIONAL"
+            },
+            {
+                "name": "German",
+                "proficiency": "ELEMENTARY"
+            },
+            {
+                "name": "Hebrew",
+                "proficiency": "ELEMENTARY"
+            },
+            {
+                "name": "Polish",
+                "proficiency": "ELEMENTARY"
+            },
+            {
+                "name": "Russian",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "Ukrainian",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ]
+    },
+    "industry": "Computer Software",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 1996
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2000
+                }
+            },
+            "school": {
+                "name": "Dnipropetrovs'kij Nacional'nij Universitet",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQFqhfbFX7Sayw/company-logo_400_400/0/1617728989804?e=1703721600&v=beta&t=oqxdeOypMqCN1iDBhFIjRJVxY4JMA6rn_F69cId2stU",
+                "url": "https://www.linkedin.com/school/dnipropetrovs'kij-nacional'nij-universitet/"
+            },
+            "degree_name": "MS",
+            "field_of_study": "Applicable Maths, Computer Science",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 1992
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 1996
+                }
+            },
+            "school": {
+                "name": "Dnipropetrovsk College of Automatics and Telemechanics",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "BS",
+            "field_of_study": "Software development (computers and embedded systems)",
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [
+        {
+            "name": "AWS Certified SysOps Administrator \u2013 Associate",
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2023
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2026
+                }
+            },
+            "authority": "Amazon Web Services (AWS)",
+            "url": "https://www.credly.com/badges/3212e52f-def1-42a1-8133-064591181353/linked_in_profile",
+            "license_number": "0E7H9PH28BRE1G3W",
+            "display_source": "credly.com",
+            "company": {
+                "id": null,
+                "name": "Amazon Web Services (AWS)",
+                "logo": "https://media.licdn.com/dms/image/C560BAQER_QnUTXrPJw/company-logo_400_400/0/1670264050886?e=1703721600&v=beta&t=3IYmCjBx7-RbiHOyhmKp9bX_etnAR2mcOn2MncQL5u0",
+                "url": null
+            }
+        },
+        {
+            "name": "AWS Certified Developer \u2013 Associate",
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2023
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2026
+                }
+            },
+            "authority": "Amazon Web Services (AWS)",
+            "url": "https://www.credly.com/badges/48057575-0abf-4713-81a3-3103e53b4e24/linked_in_profile",
+            "license_number": "2JWSD9HC8JB417GL",
+            "display_source": "credly.com",
+            "company": {
+                "id": null,
+                "name": "Amazon Web Services (AWS)",
+                "logo": "https://media.licdn.com/dms/image/C560BAQER_QnUTXrPJw/company-logo_400_400/0/1670264050886?e=1703721600&v=beta&t=3IYmCjBx7-RbiHOyhmKp9bX_etnAR2mcOn2MncQL5u0",
+                "url": null
+            }
+        },
+        {
+            "name": "AWS Certified Solutions Architect \u2013 Associate",
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2023
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2026
+                }
+            },
+            "authority": "Amazon Web Services (AWS)",
+            "url": "https://www.credly.com/badges/064fc398-42de-496b-a7b0-6f9c075bd995/linked_in_profile",
+            "license_number": "BN4N77F27NR4QFSY",
+            "display_source": "credly.com",
+            "company": {
+                "id": null,
+                "name": "Amazon Web Services (AWS)",
+                "logo": "https://media.licdn.com/dms/image/C560BAQER_QnUTXrPJw/company-logo_400_400/0/1670264050886?e=1703721600&v=beta&t=3IYmCjBx7-RbiHOyhmKp9bX_etnAR2mcOn2MncQL5u0",
+                "url": null
+            }
+        },
+        {
+            "name": "Certified SAFe\u00ae 6 Product Owner/Product Manager",
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2023
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2023
+                }
+            },
+            "authority": "Scaled Agile, Inc.",
+            "url": "https://www.credly.com/badges/4033b556-3b53-4133-a16d-b5aefbbdac57/linked_in_profile",
+            "license_number": null,
+            "display_source": "credly.com",
+            "company": {
+                "id": null,
+                "name": "Scaled Agile, Inc.",
+                "logo": "https://media.licdn.com/dms/image/C560BAQFti5SCrDfBWA/company-logo_400_400/0/1668017354645?e=1703721600&v=beta&t=bRAEHLYgASGjmZLkwTgxwmZvhkMYmMV9di2OmMKWwPU",
+                "url": null
+            }
+        },
+        {
+            "name": "AWS Certified Cloud Practitioner",
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2026
+                }
+            },
+            "authority": "Amazon Web Services (AWS)",
+            "url": "https://www.credly.com/badges/98665f55-a9a9-4855-8fc5-08a4eb944151/linked_in_profile",
+            "license_number": "B477T4HCTNB11FGG",
+            "display_source": "credly.com",
+            "company": {
+                "id": null,
+                "name": "Amazon Web Services (AWS)",
+                "logo": "https://media.licdn.com/dms/image/C560BAQER_QnUTXrPJw/company-logo_400_400/0/1670264050886?e=1703721600&v=beta&t=3IYmCjBx7-RbiHOyhmKp9bX_etnAR2mcOn2MncQL5u0",
+                "url": null
+            }
+        },
+        {
+            "name": "Certificate of Completion - HealthSuite Cloud Accelerator Program",
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Philips",
+            "url": null,
+            "license_number": "iSCBgj5tyA",
+            "display_source": null,
+            "company": {
+                "id": null,
+                "name": "Philips",
+                "logo": "https://media.licdn.com/dms/image/C510BAQG4O5wCG6zf2Q/company-logo_400_400/0/1519855869410?e=1703721600&v=beta&t=AwT4OtKaChfPg1Rv0FCXPZ0aI3a7TPbiAfYxHqJIa04",
+                "url": null
+            }
+        },
+        {
+            "name": "Certified SAFe\u00ae 5 Product Owner/Product Manager",
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2023
+                }
+            },
+            "authority": "Scaled Agile, Inc.",
+            "url": "https://www.youracclaim.com/badges/c3f91724-2a6c-40f4-b8e9-dc740fd01a0c?source=linked_in_profile",
+            "license_number": null,
+            "display_source": "youracclaim.com",
+            "company": {
+                "id": null,
+                "name": "Scaled Agile, Inc.",
+                "logo": "https://media.licdn.com/dms/image/C560BAQFti5SCrDfBWA/company-logo_400_400/0/1668017354645?e=1703721600&v=beta&t=bRAEHLYgASGjmZLkwTgxwmZvhkMYmMV9di2OmMKWwPU",
+                "url": null
+            }
+        },
+        {
+            "name": "Current Pluralsight profile",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Pluralsight",
+            "url": "https://app.pluralsight.com/profile/roman-nikitchenko",
+            "license_number": null,
+            "display_source": "pluralsight.com",
+            "company": {
+                "id": null,
+                "name": "Pluralsight",
+                "logo": "https://media.licdn.com/dms/image/D560BAQFh4D8Qj44-0Q/company-logo_400_400/0/1684255188691?e=1703721600&v=beta&t=nlh9xKE1ZJQNCR4bjtUntQtyQ1dZyZ0H5q0w0onJO5c",
+                "url": null
+            }
+        }
+    ],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "Telrad TAG-1120",
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2009
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2009
+                }
+            },
+            "description": null,
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Roman",
+                    "last_name": "Nikitchenko",
+                    "name": null,
+                    "headline": "Platform integrator / technology bringup engineer / software RND expert"
+                }
+            ]
+        },
+        {
+            "title": "Telrad TAG-10",
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2008
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2009
+                }
+            },
+            "description": "I didn't even expected technologies like EoPDH to be needed before this product. Happened to be really tough and good project.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Roman",
+                    "last_name": "Nikitchenko",
+                    "name": null,
+                    "headline": "Platform integrator / technology bringup engineer / software RND expert"
+                }
+            ]
+        },
+        {
+            "title": "CIS business directory",
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2000
+                },
+                "end": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2006
+                }
+            },
+            "description": "One of the first on-line CIS business directories with good search capabilities.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Roman",
+                    "last_name": "Nikitchenko",
+                    "name": null,
+                    "headline": "Platform integrator / technology bringup engineer / software RND expert"
+                }
+            ]
+        },
+        {
+            "title": "SmartGate",
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2000
+                },
+                "end": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2006
+                }
+            },
+            "description": "Serious VoIP solution which included level 4/5 VoIP softswitch / border gateway, billing system, VXML answering machine and even test VoIP traffic generator for network load testing.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Roman",
+                    "last_name": "Nikitchenko",
+                    "name": null,
+                    "headline": "Platform integrator / technology bringup engineer / software RND expert"
+                }
+            ]
+        },
+        {
+            "title": "Local yellow pages",
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2000
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2000
+                }
+            },
+            "description": "Local yellow pages from times of early ukrainian internet growth. Was fully reworked.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Roman",
+                    "last_name": "Nikitchenko",
+                    "name": null,
+                    "headline": "Platform integrator / technology bringup engineer / software RND expert"
+                }
+            ]
+        },
+        {
+            "title": "Comcerto VoIP processors family",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "description": "State of the art SoC I had chance to put hands on.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Roman",
+                    "last_name": "Nikitchenko",
+                    "name": null,
+                    "headline": "Platform integrator / technology bringup engineer / software RND expert"
+                }
+            ]
+        },
+        {
+            "title": "Telrad TAG-11",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "description": null,
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Roman",
+                    "last_name": "Nikitchenko",
+                    "name": null,
+                    "headline": "Platform integrator / technology bringup engineer / software RND expert"
+                }
+            ]
+        },
+        {
+            "title": "Telrad TAG-12",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "description": null,
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Roman",
+                    "last_name": "Nikitchenko",
+                    "name": null,
+                    "headline": "Platform integrator / technology bringup engineer / software RND expert"
+                }
+            ]
+        }
+    ],
+    "publications": [],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 1090,
+                "name": "Philips",
+                "logo": "https://media.licdn.com/dms/image/C510BAQG4O5wCG6zf2Q/company-logo_400_400/0/1519855869410?e=1703721600&v=beta&t=AwT4OtKaChfPg1Rv0FCXPZ0aI3a7TPbiAfYxHqJIa04",
+                "url": "https://www.linkedin.com/company/philips/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Eindhoven",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Philips",
+                    "description": "Rapid prototyping and deployment solutions, cloud-based solutions (IaaS, PaaS), containerisation, project engineering environments. Full stack rapid development and prototyping starting from deployment approach and up to the UI.\n\nData models and scalability engineering tasks. Participation into key infrastructure bringup and planning activities for research projects. Leading role in application specific research data management platform as a coordinator of platform core team.",
+                    "title": "Digital Platform Integration engineer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1994207,
+                "name": "V.I.Tech",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQEUqixc-CNxHQ/company-logo_400_400/0/1654863028829?e=1703721600&v=beta&t=QZZ8RJxc_-XU6EizUJBaKTxn8LWoairdRNiuu-EYIMY",
+                "url": "https://www.linkedin.com/company/vitechteam/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Ukraine",
+                    "date": {
+                        "start": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2013
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2015
+                        }
+                    },
+                    "company": "VITech",
+                    "description": "True R&D work with cutting edge technologies like Apache Hadoop, Spark and HBase infrastructure in Java enterprise environment. Scope of responsibility includes initial technology research and adoption, prototyping, key solutions development, best practice establishment, decision making rand knowledge sharing in scope of advanced engineering, especially related to Big Data infrastructure. Some Scala experience mostly in Spark context. Leading expert role caused company wide changes in architecture approaches.",
+                    "title": "Big data solutions architect and research engineer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 72247,
+                "name": "AFORE Solutions",
+                "logo": "https://media.licdn.com/dms/image/C560BAQEMgijoEI8Enw/company-logo_400_400/0/1519881037980?e=1703721600&v=beta&t=3NjFDQl3DpMjveaScb_jvzWQ_KtjutPJXiNlzHQrxkA",
+                "url": "https://www.linkedin.com/company/cloudlinktechnologies/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Ukraine",
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2011
+                        },
+                        "end": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2013
+                        }
+                    },
+                    "company": "CloudLink Technologies",
+                    "description": "New small office setup starting from finding good place and ending with active role in initial team hiring. Administrative and technical assistance to newcomers. Part in resource placement and work breakdown. Temporary background duties related to office environment maintenance.",
+                    "title": "Site manager",
+                    "employment_type": null
+                },
+                {
+                    "location": "Ukraine",
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2011
+                        },
+                        "end": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2013
+                        }
+                    },
+                    "company": "CloudLink Technologies",
+                    "description": "Key contributions for a few fast running projects which mostly are related to new technology areas. Scope starting from drivers and BSP integration and and up to the management (SNMP) layer. Fully geographically independent work experience. Periodic system engineering actions.\nTechnology areas: Carrier Ethernet (IEEE, ITU-T and MEF standard base) including SOAM, PWE3 architecture. New areas such as GMPLS, RSVP-TE. Some experience of automated testing environments refactoring for whole platforms with results such a days to hours testing cycle improvement having yet serious coverage increment.",
+                    "title": "Principal SW developer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 166322,
+                "name": "Telrad Networks",
+                "logo": "https://media.licdn.com/dms/image/C560BAQFtDJkzddCVgw/company-logo_400_400/0/1625684140092?e=1703721600&v=beta&t=sX6KrUY-1xqaCqV1yyC_XjO4HFHNwznIdylKLLL3ZQY",
+                "url": "https://www.linkedin.com/company/telrad-networks/",
+                "employees": {
+                    "start": 501,
+                    "end": 1000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2008
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2011
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Ukraine",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2008
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2011
+                        }
+                    },
+                    "company": "Telrad Networks",
+                    "description": "Technical coordination and remote management backup for group of 15+ skilled engineers. Several high intensity embedded project (telecom: VoIP, EoPDH, SONET/SDH, ATMoPSN, both CPE and carrier grade (access networks, provider edge) equipment). Work breakdown, coordination, requirements tracking. Complex coding for whole product line: refactoring, global improvements, memory oriented optimization for higher design layers, performance optimization for lower layer (including drivers). Several subsystems feature expert duties for more then one product in parallel. VxWorks OS level improvements, BSP works. Ethernet over PDH, SONET/SDH technologies. C++ usage experience on embedded platform (PowerPC). Major contributions to development environment and release engineering. Extremely fast switching to new technology areas.",
+                    "title": "Principal engineer / Technical leader",
+                    "employment_type": null
+                },
+                {
+                    "location": "Ukraine",
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2008
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2011
+                        }
+                    },
+                    "company": "Telrad Networks",
+                    "description": "System engineer / technical architect duties up to product line level. Technology scope includes PWE stacks, carrier Ethernet, ATM, VoIP. Active participation into marketing to technical requirements translation and project specifications management processes. Technology expert support during various phases of the projects. Successful transformation of a single product into platform with appropriate system engineer work. Active participation into proof of concept activities. Experience of complete architecture redesign for project taken out of sub-contractors with positive result.",
+                    "title": "Principal engineer / Architect",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 164993,
+                "name": "Mindspeed Technologies Ukraine",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQHCFTAivZ42hw/company-logo_400_400/0/1519867141763?e=1703721600&v=beta&t=GzDoXN8VtITDTROskraIKHTFWmzJ4f8PuNXvZIaYfCI",
+                "url": "https://www.linkedin.com/company/mindspeed-technologies/",
+                "employees": {
+                    "start": 501,
+                    "end": 1000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2006
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2008
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Ukraine",
+                    "date": {
+                        "start": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2006
+                        },
+                        "end": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2008
+                        }
+                    },
+                    "company": "Mindspeed Technologies",
+                    "description": "Comcerto family VoIP SoC development. Feature expert, general technology expert role, product line 'performance level keeper' (I doubt I could name it more correctly). Most of work was related to complex architecture - related changes, performance and quality optimization.  Expertise improved for next areas: ARM architecture, RTP/RTCP, H.324/H.223, modem over IP, distributed programming, cache coherency. Intensive work 'on the edge' between verification and development teams as one-man self-managed division. Very special experience to work with highly intensive multiprocessor embedded system. It was real pleasure to work on this product line.",
+                    "title": "Senior software engineer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Trifle Co. Ltd.",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2002
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2006
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Ukraine, Dniepropetrovsk",
+                    "date": {
+                        "start": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2002
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2006
+                        }
+                    },
+                    "company": "Trifle Co. Ltd.",
+                    "description": "Several projects accomplished as head of relatively small team (up to 8 members) including VoIP softswitch / SBC project with up to 32xE1 call capacity and only one PC used as hardware platform. Softswitch features include SIP and H.323 inter-protocol translation, codec negotiation and transcoding, conferencing and extended PBX features support. There are both carrier grade (SBC) and enterprise (IP PBX) solutions built on this platform. Others projects include: VXML based answering machine, ITU H.323 based call generator, some works for unified billing system (BOSS), lawful interception and analogue signalling monitoring modules. Most used technologies: VoIP, H.323, SIP, C++, C. FreeBSD kernel programming. Complex multitasking based on POSIX framework.  Participated in all the activities starting from feature planning up to quality control processes establishment. Gained solid automated / stress testing experience.",
+                    "title": "Software division lead",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Trifle Co. Ltd",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2000
+                },
+                "end": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2002
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Ukraine",
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2000
+                        },
+                        "end": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2002
+                        }
+                    },
+                    "company": "Trifle Co. Ltd",
+                    "description": "Web programming with access to DB (PHP, SQL), search engines, tools to support enterprise VoIP infrastructure (C, C++). Some POSIX (FreeBSD, Linux) programming, various simple service daemons mainly.",
+                    "title": "Software developer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "One man myself company",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 1995
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2000
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Ukraine",
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "day": null,
+                            "year": 1995
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": 2000
+                        }
+                    },
+                    "company": "One man myself company",
+                    "description": null,
+                    "title": "Owner",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [
+        {
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "role": "Speaker",
+            "company": {
+                "id": null,
+                "name": "IT Rally 2014",
+                "logo": null,
+                "url": null
+            },
+            "cause": "SCIENCE_AND_TECHNOLOGY",
+            "description": "Volunteer contribution as speaker for local IT Rally 2014 conference. Presentation scope is Apache Hadoop infrastructure and general Big Data technology trends.\n"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "role": "Speaker",
+            "company": {
+                "id": null,
+                "name": "JDay 2014",
+                "logo": null,
+                "url": null
+            },
+            "cause": "SCIENCE_AND_TECHNOLOGY",
+            "description": "Speaker of JDay 2014 IT conference (Ukraine, Lviv). Scope is current Big Data technology experience. Special focus was on ETL approaches."
+        },
+        {
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "role": "Speaker",
+            "company": {
+                "id": null,
+                "name": "JavaDay 2014",
+                "logo": null,
+                "url": null
+            },
+            "cause": "SCIENCE_AND_TECHNOLOGY",
+            "description": "Speaker of JavaDay 2014 IT conference (http://javaday.org.ua/2014/ Ukrain, Kyiv). Scope of presentation is Apache HBase infrastructure."
+        },
+        {
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "role": "Speaker",
+            "company": {
+                "id": null,
+                "name": "Java/Scala lab 2014",
+                "logo": null,
+                "url": null
+            },
+            "cause": "SCIENCE_AND_TECHNOLOGY",
+            "description": "Speaker of GeeksLab Java/Scala lab even (http://geekslab.co/events/23-javascala-lab Ukraine, Odessa). Speech focus was on common Big Data technology pitfalls.\n\n"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "role": "Speaker",
+            "company": {
+                "id": null,
+                "name": "Selenium Camp 2015",
+                "logo": null,
+                "url": null
+            },
+            "cause": "SCIENCE_AND_TECHNOLOGY",
+            "description": "Speaker of Selenium Camp 2015 (http://seleniumcamp.com/ Ukraine, Kyiv). Presentation focus is on changes in testing and quality assurance approaches introduced by shift to Big Data and Hadoop technologies.\n"
+        }
+    ],
+    "skills": [
+        "Software Design",
+        "Software Quality",
+        "Continuous Integration and Continuous Delivery (CI/CD)",
+        "Solution Architecture",
+        "Software Architecture",
+        "Computer Science",
+        "Spring Boot",
+        "Spring Framework",
+        "Cloud Computing",
+        "SQL",
+        "Terraform",
+        "C C++",
+        "Git",
+        "Python (Programming Language)",
+        "Kubernetes",
+        "Amazon Web Services (AWS)",
+        "DevOps",
+        "Big Data",
+        "Scalability",
+        "Agile Methodologies"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

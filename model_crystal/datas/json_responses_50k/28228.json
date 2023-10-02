@@ -1,0 +1,931 @@
+{
+    "profile_id": "wilco-blankenburgh-7b387719",
+    "first_name": "Wilco",
+    "last_name": "Blankenburgh",
+    "sub_title": "project engineer / commissioner at van der Leun",
+    "profile_picture": "https://media.licdn.com/dms/image/C4D03AQHUx-04yL_0eA/profile-displayphoto-shrink_800_800/0/1516818663726?e=1701302400&v=beta&t=q9Sz7by00HnmrsfI6jJovR6r8MJH4C9R0FtD2wdwx4k",
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAAAPdmrcB_zAj0N_6zqIBdZrnDo5dx1EZ8X8",
+    "object_urn": 64854711,
+    "birth_date": null,
+    "summary": "Target orientated and open for debate(there is always someone smarter/more experienced), but I have a low tolerance for bullshit.\n\nSpecialties: Last minute take-over of commissioning and solving problems engineering/hardware/software on site.",
+    "location": {
+        "country": "Netherlands",
+        "short": "Breda, North Brabant",
+        "city": "Breda",
+        "state": "North Brabant",
+        "default": "Breda, North Brabant, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "Dutch",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "English",
+                "proficiency": "FULL_PROFESSIONAL"
+            },
+            {
+                "name": "German",
+                "proficiency": "PROFESSIONAL_WORKING"
+            }
+        ]
+    },
+    "industry": "Industrial Automation",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 1990
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 1996
+                }
+            },
+            "school": {
+                "name": "Rotterdam University of Applied Sciences",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQG3Kyr4cUYEWQ/company-logo_400_400/0/1570826248210?e=1703721600&v=beta&t=wRFKdXH3VXRNUsTW_iMKeNKCykMaeBIuUfopmwrUaNU",
+                "url": "https://www.linkedin.com/school/hogeschool-rotterdam/"
+            },
+            "degree_name": "ing.",
+            "field_of_study": "Technical physics, control technology",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 1987
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 1990
+                }
+            },
+            "school": {
+                "name": "MTS Zuid, Rotterdam",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "-",
+            "field_of_study": "Werktuigbouwkunde, besturingstechnologie",
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [
+        {
+            "name": "OPITO / NOGEPA / HUET / HUEBA / BSTR",
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2023
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2026
+                }
+            },
+            "authority": "Falck Nutec (NL) + Survival Systems Training Limited(CAN) + FMTC(NL)",
+            "url": null,
+            "license_number": null,
+            "display_source": null,
+            "company": null
+        },
+        {
+            "name": "Maersk drilling HSSE",
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "authority": null,
+            "url": null,
+            "license_number": null,
+            "display_source": null,
+            "company": null
+        },
+        {
+            "name": "Construction Induction",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Workplace health and safety Queensland (AUS)",
+            "url": null,
+            "license_number": "Narbil 31890 / card 1642452",
+            "display_source": null,
+            "company": null
+        },
+        {
+            "name": "SJE / WP / SJA / Maersk HSSE",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Trainingportal.no (Norway)",
+            "url": null,
+            "license_number": null,
+            "display_source": null,
+            "company": null
+        },
+        {
+            "name": "VCA VOL",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "DGS Arbo (NL)",
+            "url": null,
+            "license_number": null,
+            "display_source": null,
+            "company": null
+        },
+        {
+            "name": "VWHMIS + PTW + RA",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Canada offshore",
+            "url": null,
+            "license_number": "350383d541c70dd7e65f2bfe5ac1d947",
+            "display_source": null,
+            "company": null
+        }
+    ],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "CJ50 drilling rig shipset 7 Haimen",
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "description": "Commissioning the skidding system of the cantilever. Electrical and software. SAT with certification.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Wilco",
+                    "last_name": "Blankenburgh",
+                    "name": null,
+                    "headline": "project engineer / commissioner at van der Leun"
+                }
+            ]
+        },
+        {
+            "title": "CJ50 drilling rig shipset 2 Haimen",
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "description": "Commissioning of new skidding system of the cantilever. Electrical and software. SAT with certification.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Wilco",
+                    "last_name": "Blankenburgh",
+                    "name": null,
+                    "headline": "project engineer / commissioner at van der Leun"
+                }
+            ]
+        },
+        {
+            "title": "Ndurence Boskalis - watertight doors",
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "description": "Co-design hardware for replacement of original water tight doors. Software design and testing of system at workshop, including FAT with certification.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Wilco",
+                    "last_name": "Blankenburgh",
+                    "name": null,
+                    "headline": "project engineer / commissioner at van der Leun"
+                }
+            ]
+        },
+        {
+            "title": "Sea Challenger and Sea Installer of A2SEA",
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "description": "Upgrade and changes in the Jacking system followed by testing",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Wilco",
+                    "last_name": "Blankenburgh",
+                    "name": null,
+                    "headline": "project engineer / commissioner at van der Leun"
+                }
+            ]
+        },
+        {
+            "title": "CJ50 and CJ70 cantilever HPU's",
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "description": "Start commissioning of several (10+) cantilever systems pre commission hpu's before shipment.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Wilco",
+                    "last_name": "Blankenburgh",
+                    "name": null,
+                    "headline": "project engineer / commissioner at van der Leun"
+                }
+            ]
+        },
+        {
+            "title": "Damen RoRo barge \"Ale\"",
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "description": "Commissioning AMS(alarm system), ballast system and PMS(power management) during construction in Nantong, China",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Wilco",
+                    "last_name": "Blankenburgh",
+                    "name": null,
+                    "headline": "project engineer / commissioner at van der Leun"
+                }
+            ]
+        },
+        {
+            "title": "IHC Sapura pipelaying vessels",
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "description": "Checking and correcting electrical and automatic systems during the construction of the vessels, commissioning on shipyard",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Wilco",
+                    "last_name": "Blankenburgh",
+                    "name": null,
+                    "headline": "project engineer / commissioner at van der Leun"
+                }
+            ]
+        },
+        {
+            "title": "IB914 BAM Clough, commissioning jacking system",
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "description": "Co-design, programming plc and panels, fine tuning and commissioning.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Wilco",
+                    "last_name": "Blankenburgh",
+                    "name": null,
+                    "headline": "project engineer / commissioner at van der Leun"
+                }
+            ]
+        },
+        {
+            "title": "JB 118, commissioning jacking system",
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "description": "Co-design, programming plc and panels, fine tuning and commissioning.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Wilco",
+                    "last_name": "Blankenburgh",
+                    "name": null,
+                    "headline": "project engineer / commissioner at van der Leun"
+                }
+            ]
+        },
+        {
+            "title": "Lelystad TSHD, van Oord, power management, MACS alarm system and Vodas",
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "description": "Co-design, programming plcs and panels, fine-tuning and commissioning.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Wilco",
+                    "last_name": "Blankenburgh",
+                    "name": null,
+                    "headline": "project engineer / commissioner at van der Leun"
+                }
+            ]
+        },
+        {
+            "title": "IB914 ( BAM Clough )",
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "description": "Onsite assistance during assembly, MC, EC and commissioning of Hydraulic Jacking system.\n\nJacking engineer during several jacking operations on land, on a float off barge and in a drydock.\n\n Jack-up Barge was build @ Cosco Offshore, Qidong, China",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Wilco",
+                    "last_name": "Blankenburgh",
+                    "name": null,
+                    "headline": "project engineer / commissioner at van der Leun"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Casper",
+                    "last_name": "Dijkman",
+                    "name": null,
+                    "headline": "Account Manager bij Starkon Industrial Services"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Chad Nauman",
+                    "headline": null
+                }
+            ]
+        },
+        {
+            "title": "SBM Offshore Deep Panuke PFC",
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2010
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2011
+                }
+            },
+            "description": "Onsite assistance during assembly, MC, EC and commissioning.\n\nJacking Engineer during loading on Dockwise Talisman in Abu Dhabi and offloading in Mulgrave, Canada.\n\nPFC was build @ GPC Yard in Abu Dhabi.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Wilco",
+                    "last_name": "Blankenburgh",
+                    "name": null,
+                    "headline": "project engineer / commissioner at van der Leun"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Casper",
+                    "last_name": "Dijkman",
+                    "name": null,
+                    "headline": "Account Manager bij Starkon Industrial Services"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Sibren Bonte",
+                    "headline": null
+                }
+            ]
+        },
+        {
+            "title": "JB-116 ( Swift10 )",
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2010
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2010
+                }
+            },
+            "description": "Onsite assistance during assembly, MC, EC and commissioning.\n\nJack-up Barge was build @ Drydocks in Batam, Indonesia",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Wilco",
+                    "last_name": "Blankenburgh",
+                    "name": null,
+                    "headline": "project engineer / commissioner at van der Leun"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Casper",
+                    "last_name": "Dijkman",
+                    "name": null,
+                    "headline": "Account Manager bij Starkon Industrial Services"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "thankachan mathew",
+                    "headline": null
+                }
+            ]
+        },
+        {
+            "title": "Atlas,van Oord, multicat automated depth plough control",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "description": "Design, programming plc panel and commissioning",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Wilco",
+                    "last_name": "Blankenburgh",
+                    "name": null,
+                    "headline": "project engineer / commissioner at van der Leun"
+                }
+            ]
+        },
+        {
+            "title": "Chang Jiang Kou 2 TSHD, Power management, Bowthrusters and MACS alarms system",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "description": "Co-design, programming plc and panels, fine tuning and commissioning.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Wilco",
+                    "last_name": "Blankenburgh",
+                    "name": null,
+                    "headline": "project engineer / commissioner at van der Leun"
+                }
+            ]
+        },
+        {
+            "title": "Deep Panuke, commissioning/mobilisation jacking system",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "description": null,
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Wilco",
+                    "last_name": "Blankenburgh",
+                    "name": null,
+                    "headline": "project engineer / commissioner at van der Leun"
+                }
+            ]
+        },
+        {
+            "title": "Dredging profile computer of CSD's: Khaleej Bay, Garhoud Bay and Deira Bay",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "description": "Design, programming visualization software WinOS, programming plcs, network topology and commissioning.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Wilco",
+                    "last_name": "Blankenburgh",
+                    "name": null,
+                    "headline": "project engineer / commissioner at van der Leun"
+                }
+            ]
+        },
+        {
+            "title": "GWS366+371 power management+automated board control of TSHD",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "description": "Co-design, programming plc and panels, fine tuning and commissioning.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Wilco",
+                    "last_name": "Blankenburgh",
+                    "name": null,
+                    "headline": "project engineer / commissioner at van der Leun"
+                }
+            ]
+        },
+        {
+            "title": "GWS425+426 power management+automated board control of TSHD",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "description": null,
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Wilco",
+                    "last_name": "Blankenburgh",
+                    "name": null,
+                    "headline": "project engineer / commissioner at van der Leun"
+                }
+            ]
+        },
+        {
+            "title": "Goliath, commissioning jacking system",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "description": null,
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Wilco",
+                    "last_name": "Blankenburgh",
+                    "name": null,
+                    "headline": "project engineer / commissioner at van der Leun"
+                }
+            ]
+        }
+    ],
+    "publications": [],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": null,
+                "name": "van der Leun",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2000
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2000
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "van der Leun",
+                    "description": "Software/hardware engineer and commissioning engineer. \nDelphi, Visual Basic, Wizcon, Iconics, B&R , Wago, Allan Bradley, Siemens PLC's, panel software development and system engineering (control, visualization and alarm systems) for dredging vessels(cutters and hoppers), large backhoes, water purification plants, real-time DGPS backhoe/cranes, custom dredging equipment, offshore jacking barges, offshore oil and gas production barges, offshore drilling rigs, articulated jet rigs and process industry. Projects local and international.",
+                    "title": "Project engineer / Commissioner",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Elco systems",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 1998
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2000
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 1998
+                        },
+                        "end": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2000
+                        }
+                    },
+                    "company": "Elco systems",
+                    "description": "Software engineer and commissioning engineer. (Joint venture ELCO systems with vdLeun)\nDelphi, Visual Basic, B&R PLC's software development and system engineering (visualization systems) for dredging vessels, water purification plants and process industry. Most projects located in the Middle East.",
+                    "title": "Project engineer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Info actief",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 1997
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 1998
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 1997
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 1998
+                        }
+                    },
+                    "company": "Info actief",
+                    "description": "Development of software for database access and distribution.\nWatcom C++",
+                    "title": "Project manager",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Offshore",
+        "Commissioning",
+        "Engineering",
+        "Project Engineering",
+        "PLC",
+        "Testing",
+        "Automation",
+        "C++",
+        "C",
+        "AutoCAD",
+        "Pro/Engineer",
+        "Electrical",
+        "Problem Solving",
+        "Troubleshooting",
+        "Electrical Engineering",
+        "Calculations",
+        "Inspection",
+        "Manufacturing",
+        "Analysis",
+        "Instrumentation"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

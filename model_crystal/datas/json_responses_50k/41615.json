@@ -1,0 +1,597 @@
+{
+    "profile_id": "wesselsfrank",
+    "first_name": "Frank",
+    "last_name": "Wessels",
+    "sub_title": "Mathware Designer at Sioux Technologies",
+    "profile_picture": "https://media.licdn.com/dms/image/C5603AQHI2KlYztpuWg/profile-displayphoto-shrink_800_800/0/1587293488053?e=1701302400&v=beta&t=axI3AQgs9rWk6WJ5bzYMrggyN_ufOmzO-ZUD_YFBnHw",
+    "background_image": "https://media.licdn.com/dms/image/D4E16AQFJeV_721Czjg/profile-displaybackgroundimage-shrink_350_1400/0/1681307230055?e=1701302400&v=beta&t=XcQFkx997vzB8fPtbSMRjQA6iTjrh6CAc6KhW5fylLE",
+    "profile_type": "personal",
+    "entity_urn": "ACoAAAlWekoBjhiqCk1p1yxuIb7lfuKsZF_80N8",
+    "object_urn": 156662346,
+    "birth_date": null,
+    "summary": "With a strong background in mathematics and a passion for solving complex problems, I have spent the last years working on various projects in the fields of computer vision, machine learning, and scientific computing. My expertise lies in tackling challenges that require out-of-the-box thinking and devising innovative solutions. Proficient in several programming languages and tools, I utilize these skills to support my analytical and problem-solving abilities, rather than pursuing a full-time programming career.\n\nIn my professional journey, I have taken on various roles such as Scrum Master, Software Quality Manager and Project Lead. Alongside these responsibilities, I have found fulfillment in conducting educational sessions on Python and related packages for my colleagues, mentoring interns and new employees, and participating in the candidate interview process.\n\nAs I continue to grow professionally, I remain committed to focusing on the substance of my work, leveraging my strong intuition to identify effective solutions, and maintaining a hands-on, goal-oriented approach to problem-solving.",
+    "location": {
+        "country": "Netherlands",
+        "short": "Eindhoven, North Brabant",
+        "city": "Eindhoven",
+        "state": "North Brabant",
+        "default": "Eindhoven, North Brabant, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "Dutch",
+                "proficiency": null
+            },
+            {
+                "name": "English",
+                "proficiency": null
+            }
+        ]
+    },
+    "industry": "Information Technology & Services",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "school": {
+                "name": "Eindhoven University of Technology",
+                "logo": "https://media.licdn.com/dms/image/C560BAQG4PGSYiNG4CA/company-logo_400_400/0/1642150189320?e=1703721600&v=beta&t=omf4Ziy8Suete_GTJ3Qn1mOBS7ZrKSPido6Ld2LseBU",
+                "url": "https://www.linkedin.com/school/eindhoven-university-of-technology/"
+            },
+            "degree_name": "Master's Degree",
+            "field_of_study": "Industrial and Applied Mathematics",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "school": {
+                "name": "Eindhoven University of Technology",
+                "logo": "https://media.licdn.com/dms/image/C560BAQG4PGSYiNG4CA/company-logo_400_400/0/1642150189320?e=1703721600&v=beta&t=omf4Ziy8Suete_GTJ3Qn1mOBS7ZrKSPido6Ld2LseBU",
+                "url": "https://www.linkedin.com/school/eindhoven-university-of-technology/"
+            },
+            "degree_name": "Bachelor's Degree",
+            "field_of_study": "Applied Mathematics",
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [],
+    "organizations": [],
+    "projects": [],
+    "publications": [],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 15342,
+                "name": "Sioux Technologies",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQFt9qWXV4YTnQ/company-logo_400_400/0/1554199369376?e=1703721600&v=beta&t=8H5V26lfvRG9qZWrVAJYAUSYXNIpYtF0uJEooR-hSeg",
+                "url": "https://www.linkedin.com/company/sioux/",
+                "employees": {
+                    "start": 501,
+                    "end": 1000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Sioux Technologies",
+                    "description": "Notable projects (in various roles):\n- Designed tooling and workflows for several customer-specific annotation tasks.\n- Conducted research on high performance (instance) segmentation while minimizing user-time. \nAchieved by using semi-supervised learning techniques and an optimized active learning strategy by applying an effective method for measuring out of distribution, onto instance segmentation.",
+                    "title": "Mathware Designer",
+                    "employment_type": "Full-time"
+                },
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2020
+                        }
+                    },
+                    "company": "Sioux Technologies",
+                    "description": "Notable projects (in various roles):\n- High-performance 3D segmentation on CT images.\n- Named Entity Recognition (NLP task) using BERT for the Dutch National Archive (2019)\n- Moved a complex recommender model to the AWS cloud, handling millions of inference calls per day.\n- Co-designed a data-driven algorithm environment for predictive maintenance and more.\n- Research into the maturity of the Julia Language (2016).\n\nNotable roles: Project lead, Scrum Master, Software Quality Manager",
+                    "title": "Mathware Engineer at Sioux LIME (Laboratory for Industrial Mathematics Eindhoven)",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 3081,
+                "name": "Thermo Fisher Scientific",
+                "logo": "https://media.licdn.com/dms/image/D560BAQGe2HQP4zwTlA/company-logo_400_400/0/1688649978624?e=1703721600&v=beta&t=ejSX6nJRujmio4TP5sgHdIIQy_hT46dIzArLax7PSqE",
+                "url": "https://www.linkedin.com/company/thermo-fisher-scientific/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2023
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2023
+                        }
+                    },
+                    "company": "Thermo Fisher Scientific",
+                    "description": null,
+                    "title": "Mathware Designer via Sioux Technologies",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 2984198,
+                "name": "SamanTree Medical SA",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQGa_qXexBZ_Vw/company-logo_400_400/0/1675682798875?e=1703721600&v=beta&t=VmZK3PvvR7OtEY7MTUOuaCbg3kuGS0togt4s6mleY_0",
+                "url": "https://www.linkedin.com/company/samantree-medical/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2020
+                        },
+                        "end": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2020
+                        }
+                    },
+                    "company": "SamanTree Medical SA",
+                    "description": null,
+                    "title": "Senior Mathware Engineer via Sioux LIME",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 3108,
+                "name": "DSM",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQH_ii8KbgEPYQ/company-logo_400_400/0/1685542980619?e=1703721600&v=beta&t=KRjHIT9L4huLsyZSVQOj0O2qp1kBqFm5-r1_Cs8u1wY",
+                "url": "https://www.linkedin.com/company/dsm/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2020
+                        },
+                        "end": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2020
+                        }
+                    },
+                    "company": "DSM",
+                    "description": null,
+                    "title": "Senior Mathware Engineer via Sioux LIME",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 3894,
+                "name": "ASML",
+                "logo": "https://media.licdn.com/dms/image/C560BAQGssQfw50QsaQ/company-logo_400_400/0/1519855871260?e=1703721600&v=beta&t=Dy9d-y1YEURWKW9gwgee0M1kiJhHIn_5C8HeOomdIr8",
+                "url": "https://www.linkedin.com/company/asml/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2020
+                        }
+                    },
+                    "company": "ASML",
+                    "description": null,
+                    "title": "Senior Mathware Engineer via Sioux LIME",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 2763819,
+                "name": "Snappet Connected Learning",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQFhAgBHKcDrtA/company-logo_400_400/0/1651564839516?e=1703721600&v=beta&t=ta09gm_PGxcAeXSM7TL2wBTpltUNqeP1JS15jh0jCxs",
+                "url": "https://www.linkedin.com/company/snappet/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "Snappet",
+                    "description": null,
+                    "title": "Project Lead via Sioux LIME",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 3081,
+                "name": "Thermo Fisher Scientific",
+                "logo": "https://media.licdn.com/dms/image/D560BAQGe2HQP4zwTlA/company-logo_400_400/0/1688649978624?e=1703721600&v=beta&t=ejSX6nJRujmio4TP5sgHdIIQy_hT46dIzArLax7PSqE",
+                "url": "https://www.linkedin.com/company/thermo-fisher-scientific/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Eindhoven Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2017
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2018
+                        }
+                    },
+                    "company": "Thermo Fisher Scientific",
+                    "description": null,
+                    "title": "Design Engineer via Sioux LIME",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 163782,
+                "name": "FEI Company",
+                "logo": "https://media.licdn.com/dms/image/C560BAQHOyElKhyuQ7Q/company-logo_400_400/0/1531867850399?e=1703721600&v=beta&t=uGbHF7viDLfzO5f5Tsj09HAEoj-njfvJ528FItMD9JI",
+                "url": "https://www.linkedin.com/company/feicompany/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Eindhoven Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2016
+                        }
+                    },
+                    "company": "FEI Company",
+                    "description": null,
+                    "title": "Design Engineer via Sioux LIME",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 3894,
+                "name": "ASML",
+                "logo": "https://media.licdn.com/dms/image/C560BAQGssQfw50QsaQ/company-logo_400_400/0/1519855871260?e=1703721600&v=beta&t=Dy9d-y1YEURWKW9gwgee0M1kiJhHIn_5C8HeOomdIr8",
+                "url": "https://www.linkedin.com/company/asml/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Eindhoven Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2016
+                        }
+                    },
+                    "company": "ASML",
+                    "description": null,
+                    "title": "Design Engineer via Sioux LIME",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 8291,
+                "name": "Irdeto",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQHiY2Rlckiy-A/company-logo_400_400/0/1688370181788?e=1703721600&v=beta&t=BbEjhrC2uTQntVE8SUtv_SqE97oW8SAW5QqdKFNFkbc",
+                "url": "https://www.linkedin.com/company/irdeto/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "High Tech Campus Eindhoven and Eindhoven University of Technology",
+                    "date": {
+                        "start": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2013
+                        },
+                        "end": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2014
+                        }
+                    },
+                    "company": "Irdeto",
+                    "description": "Worked on a small project using some of my knowledge about probability and statistics.",
+                    "title": "Research Internship",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Applied Mathematics",
+        "Computer Vision",
+        "Teamwork",
+        "Scrum",
+        "Docker",
+        "Team Leadership",
+        "Artificial Intelligence (AI)",
+        "Tkinter",
+        "Qt",
+        "Open3D",
+        "Pandas",
+        "Scientific Computing",
+        "Parallel Programming",
+        "Mathematical Modeling",
+        "Research",
+        "Programming",
+        "Statistics",
+        "Machine Learning",
+        "C",
+        "Java"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

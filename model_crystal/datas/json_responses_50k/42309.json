@@ -1,0 +1,651 @@
+{
+    "profile_id": "joren-de-graaf",
+    "first_name": "Joren",
+    "last_name": "de Graaf",
+    "sub_title": "WordPress developer (evt Freelance)",
+    "profile_picture": "https://media.licdn.com/dms/image/C4D03AQGYIjxphi-m-A/profile-displayphoto-shrink_800_800/0/1516516053163?e=1701302400&v=beta&t=ZxcHI1jBuQVAv00MEsu3Cw3frhiitwHvMbxURb6W8Q8",
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAAALRgsABwCH79ntd4qH--fT-1jz0e0qNwqU",
+    "object_urn": 47284928,
+    "birth_date": null,
+    "summary": "Hi, my name is Joren. \n\nIn January 2016 I've graduated from the NHL University in Leeuwarden, the Netherlands, from the study Communication and Multimedia Design, with a Bachelor's Degree of Science. My graduation project was Narrowcasting on the Raspberry Pi creditcard-sized computer.\n\nMy profession is Web Developer (Front-end and Back-end) and I like to follow the latest technologies and developments in the web industry. I also like stuff like usability in designs and web forms, which interest me. Languages I speak are Dutch and English, PHP, MySQL, HTML 5, CSS 3/SASS and JavaScript. I've used Laravel (PHP framework) and AngularJS before. \nI can work with Symfony and WordPress to create sites and I\u2019m open to other packages like those. I've also used NodeJS on hobby basis. For school I've used Ruby on Rails on occasion. However, my speciality is PHP because it has a better syntax for me. I've been programming since I was a teenager and would get large books on programming languages from the library to learn from.\n\nMy hobbies are gaming (Nintendo games primarily) and building LEGO (as an adult fan, AFOL, I'm building a LEGO city for myself and I like Creator Expert models). Besides building LEGO sets, I also like to create MOCS (my own creations), like Modular Buildings and things like that.\nSometimes I like to read, be it fiction or articles that interest me. I also like to tinker with electronics like the Arduino platform and the Raspberry Pi.\n\nHopefully this summary left a good impression with you. If you'd like to send me a proposal or something similar, I will respond as quickly as possible.\n\nCheers,\nJoren",
+    "location": {
+        "country": "Netherlands",
+        "short": "Heerenveen, Friesland",
+        "city": "Heerenveen",
+        "state": "Friesland",
+        "default": "Heerenveen, Friesland, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "Dutch",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "English",
+                "proficiency": "FULL_PROFESSIONAL"
+            }
+        ]
+    },
+    "industry": "Internet",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2009
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "school": {
+                "name": "NHL Hogeschool",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQF9DTfxNYSk6g/company-logo_400_400/0/1519881552029?e=1703721600&v=beta&t=8m1tf4wtG3NalJPmiDtIniYppxObzKOLXEnzQvsvVGs",
+                "url": "https://www.linkedin.com/school/nhl-hogeschool/"
+            },
+            "degree_name": "Bachelor\u2019s Degree",
+            "field_of_study": "Communication and Media Design Studies",
+            "grade": "Bachelor of Science"
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "Wellness Spaarnwoude",
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "description": "Elementor gebasseerde WordPress site die ik heb opgeleverd voor Wellness Spaarnwoude.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Joren",
+                    "last_name": "de Graaf",
+                    "name": null,
+                    "headline": "WordPress developer (evt Freelance)"
+                }
+            ]
+        },
+        {
+            "title": "Narrowcasting",
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "description": "I've developed a narrowcasting prototype application for WordPress as a plugin. The contents would be displayed in a kiosk browser on a Raspberry Pi. Ideally I'd like to create some software like other narrowcasting packages have called a player. This software would retrieve the WordPress data and display it in a customisable screen on a monitor, without the need for a browser. Maybe I'll do this in the future as a hobby project.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Joren",
+                    "last_name": "de Graaf",
+                    "name": null,
+                    "headline": "WordPress developer (evt Freelance)"
+                }
+            ]
+        },
+        {
+            "title": "Moodboard 2.0",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "description": "This is a project I did at school for my Expert credits in the competency Concepting with a fellow student. Our aim was to bring back physical moodboards as opposed to digital moodboards like Pinterest because they were rarely if ever reused in projects after the concepting phase. If you have a physical moodboard on paper you're going to look at it way more often than when it's a file in Dropbox. \nThe site reflects the concepting competency in its design because of its sketchy lines and fonts. \nThis project was done in Dutch but you can get the gist of what it's about from the images. Plus it's a fun site to look at!",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Joren",
+                    "last_name": "de Graaf",
+                    "name": null,
+                    "headline": "WordPress developer (evt Freelance)"
+                }
+            ]
+        }
+    ],
+    "publications": [],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 5015020,
+                "name": "Buro Staal",
+                "logo": "https://media.licdn.com/dms/image/C560BAQE4MLeEKDDehQ/company-logo_400_400/0/1566826979740?e=1703721600&v=beta&t=taoDBEKoGQEe-Od7vCXxk8r7azA6a-YT06ojGlqQCWI",
+                "url": "https://www.linkedin.com/company/buro-staal/",
+                "employees": {
+                    "start": 2,
+                    "end": 10
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2023
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "De Lier, Zuid-Holland, Nederland",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2023
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Buro Staal",
+                    "description": null,
+                    "title": "Wordpress-ontwikkelaar en support medewerker",
+                    "employment_type": "Part-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "De Graaf Solutions",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Heerenveen, Friesland, Nederland",
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "De Graaf Solutions",
+                    "description": null,
+                    "title": "Eigenaar",
+                    "employment_type": "Freelance"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 391160,
+                "name": "Blauwe Zone",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQEsdNgJ-BQkuA/company-logo_400_400/0/1635761632034?e=1703721600&v=beta&t=mAp3PkD44jXlrTT-PzfaqvoLFhCId18SHr-FsBFPhvU",
+                "url": "https://www.linkedin.com/company/blauwezone/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Leeuwarden, Friesland, Nederland",
+                    "date": {
+                        "start": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "Blauwe Zone",
+                    "description": null,
+                    "title": "Front-endontwikkelaar",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 557793,
+                "name": "effectgroep* | communicatie met \u00e9cht resultaat",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQHXVq-sBH7ctQ/company-logo_400_400/0/1542187264868?e=1703721600&v=beta&t=j8eeluKY9abGHrujbrjYT8ISCBsCa-Ru5jan_649Mgk",
+                "url": "https://www.linkedin.com/company/effectgroep/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Utrecht, Nederland",
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2021
+                        }
+                    },
+                    "company": "effectgroep* | communicatie met \u00e9cht resultaat",
+                    "description": null,
+                    "title": "Wordpress-ontwikkelaar",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 2674487,
+                "name": "Nordique",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQGsaS3oiqfqaQ/company-logo_400_400/0/1519901390800?e=1703721600&v=beta&t=MXoCxIQhy6CgvvlzDH5BaZW_Qo_n---yR8PzUqEGy-c",
+                "url": "https://www.linkedin.com/company/nordique/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Groningen, Nederland",
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2020
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2021
+                        }
+                    },
+                    "company": "Nordique",
+                    "description": null,
+                    "title": "Front-endontwikkelaar",
+                    "employment_type": "Full-time"
+                },
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2020
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2021
+                        }
+                    },
+                    "company": "Nordique",
+                    "description": null,
+                    "title": "Supportmanager",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 269266,
+                "name": "JOUW\u00ae bureau",
+                "logo": "https://media.licdn.com/dms/image/C560BAQH1BMUgY9V1Ag/company-logo_400_400/0/1590742811523?e=1703721600&v=beta&t=G4EQQSck8bBQlmf9CxYaeY_gHOiRpc8CQr8ZjygahTA",
+                "url": "https://www.linkedin.com/company/jouw-/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Zwolle, Provincie Overijssel, Nederland",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2020
+                        }
+                    },
+                    "company": "JOUW\u00ae bureau",
+                    "description": "Worked as a front end Wordpress developer and helped set up the web development activities for this company.",
+                    "title": "Front-endontwikkelaar",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 3049932,
+                "name": "Webwijs BV",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQEM1WB_G8uWQg/company-logo_400_400/0/1685544026932?e=1703721600&v=beta&t=8GdSnsF2KyqmKIE9EdO1Hdrxk2Ij3igPxVcbjnVqHcw",
+                "url": "https://www.linkedin.com/company/webwijs-bv/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Heerenveen",
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2018
+                        }
+                    },
+                    "company": "Webwijs",
+                    "description": null,
+                    "title": "Web Developer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 2955542,
+                "name": "DBK | Masters in Online Business",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQEbubt7v98tKw/company-logo_400_400/0/1519888631485?e=1703721600&v=beta&t=ZDwFuk5S7NCu-fmW4SK_LR3Gft-B_2cOiPBMao-tcow",
+                "url": "https://www.linkedin.com/company/dbknl/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Groningen Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2016
+                        }
+                    },
+                    "company": "DBK | Masters in Online Business",
+                    "description": "At DBK I worked as a front-end developer.",
+                    "title": "Web Developer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 2368476,
+                "name": "Skeps Mediabureau",
+                "logo": "https://media.licdn.com/dms/image/C560BAQHeiorg5Nrhdg/company-logo_400_400/0/1562054645365?e=1703721600&v=beta&t=O3VtJpTqcx9noJ6_AtIn_Rq7mL3udiKi3MpsgEkxhM0",
+                "url": "https://www.linkedin.com/company/skeps/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Heerenveen, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2016
+                        }
+                    },
+                    "company": "SKEPS Internetbureau",
+                    "description": "With Skeps Mediabureau I'm graduating with a project on narrowcasting. This is something quite new to me and I can combine several elements of multimedia in this project, not just websites, but also electronics and video. This project is intented to be geared towards cafes and similar establishments.",
+                    "title": "Graduate Student",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 3049932,
+                "name": "Webwijs BV",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQEM1WB_G8uWQg/company-logo_400_400/0/1685544026932?e=1703721600&v=beta&t=8GdSnsF2KyqmKIE9EdO1Hdrxk2Ij3igPxVcbjnVqHcw",
+                "url": "https://www.linkedin.com/company/webwijs-bv/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": 2016
+                        }
+                    },
+                    "company": "Webwijs",
+                    "description": null,
+                    "title": "Developer",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Front-end ontwikkeling",
+        "PHP",
+        "Linux",
+        "Mac OS",
+        "Social Media",
+        "Web Development",
+        "Usability",
+        "HTML5",
+        "SASS",
+        "Node.js",
+        "WordPress",
+        "Arduino",
+        "Symfony",
+        "Raspberry Pi",
+        "GruntJS",
+        "YouTube API",
+        "JSON",
+        "API",
+        "Cascading Style Sheets (CSS)",
+        "JavaScript"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

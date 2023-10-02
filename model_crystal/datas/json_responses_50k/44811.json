@@ -1,0 +1,615 @@
+{
+    "profile_id": "mirco-hess",
+    "first_name": "Mirco",
+    "last_name": "Hess",
+    "sub_title": "Machine Learning Engineer at Aidence",
+    "profile_picture": null,
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAABtrUKYBEG727g1pqqjJGFgZxbeiHTu3quM",
+    "object_urn": 460017830,
+    "birth_date": null,
+    "summary": null,
+    "location": {
+        "country": "Netherlands",
+        "short": "Amsterdam, North Holland",
+        "city": "Amsterdam",
+        "state": "North Holland",
+        "default": "Amsterdam, North Holland, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "DE",
+            "language": "de"
+        },
+        "supported_locales": [
+            {
+                "country": "DE",
+                "language": "de"
+            },
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": []
+    },
+    "industry": "Information Technology & Services",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "school": {
+                "name": "University of M\u00fcnster",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "Doctor of Medical Science (Ph.D.)",
+            "field_of_study": "Medical Imaging",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "school": {
+                "name": "M\u00fcnster University of Applied Sciences",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "Master of Science (M.Sc.)",
+            "field_of_study": "Biomedical Engineering",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2008
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2011
+                }
+            },
+            "school": {
+                "name": "Baden-Wuerttemberg Cooperative State University (DHBW)",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQFGd2jO_cFjoA/company-logo_400_400/0/1615806427275?e=1703721600&v=beta&t=QYkmpgALOtTB5BPpdwW_6T8fCCgW_1-08bKeE9BfVtA",
+                "url": "https://www.linkedin.com/school/duale-hochschule-baden-w%C3%BCrttemberg/"
+            },
+            "degree_name": "Bachelor of Engineering (B.Eng.)",
+            "field_of_study": "Mechatronics",
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [],
+    "organizations": [],
+    "projects": [],
+    "publications": [
+        {
+            "name": "Data-Driven Methods for the Determination of Anterior-Posterior Motion in PET",
+            "publisher": "IEEE Transactions on Medical Imaging",
+            "url": null,
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2016
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Mirco",
+                    "last_name": "Hess",
+                    "name": null,
+                    "headline": "Machine Learning Engineer at Aidence"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Florian B\u00fcther",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Klaus P. Sch\u00e4fers",
+                    "headline": null
+                }
+            ]
+        },
+        {
+            "name": "A contactless approach for respiratory gating in PET using continuous-wave radar",
+            "publisher": "Medical Physics",
+            "url": null,
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2015
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Mirco",
+                    "last_name": "Hess",
+                    "name": null,
+                    "headline": "Machine Learning Engineer at Aidence"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Thomas",
+                    "last_name": "Ersepke",
+                    "name": null,
+                    "headline": "Medical Affairs Program Manager at Medtronic"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Florian B\u00fcther",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Klaus P. Sch\u00e4fers",
+                    "headline": null
+                }
+            ]
+        },
+        {
+            "name": "A dual-Kinect approach to determine torso surface motion for respiratory motion correction in PET",
+            "publisher": "Medical Physics",
+            "url": "http://scitation.aip.org/content/aapm/journal/medphys/42/5/10.1118/1.4917163",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2015
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Mirco",
+                    "last_name": "Hess",
+                    "name": null,
+                    "headline": "Machine Learning Engineer at Aidence"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Florian B\u00fcther",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Fabian Gigengack",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Mohammad Dawood",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Klaus P. Sch\u00e4fers",
+                    "headline": null
+                }
+            ]
+        }
+    ],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 17933144,
+                "name": "Aidence",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQFpdOZABHgi2A/company-logo_400_400/0/1519862833948?e=1703721600&v=beta&t=z5U79TrjeBDc4wA_0VKs0atRvVCPzQ6s4k_2o8aukbQ",
+                "url": "https://www.linkedin.com/company/aidence/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Aidence",
+                    "description": null,
+                    "title": "Engineering Manager",
+                    "employment_type": null
+                },
+                {
+                    "location": "Amsterdam Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2021
+                        }
+                    },
+                    "company": "Aidence",
+                    "description": null,
+                    "title": "Data Scientist",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 6383,
+                "name": "Royal Schiphol Group",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQG0V7aQL5VRkg/company-logo_400_400/0/1519856511240?e=1703721600&v=beta&t=VZinzbTK2qNEBlsrLDRbU09I7J_lMi7RkMDu0RfIsuc",
+                "url": "https://www.linkedin.com/company/royal-schiphol-group/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amsterdam Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "Royal Schiphol Group",
+                    "description": "I applied Deep Learning object detection on video data to optimize the aircraft turnaround process, developed a model to forecast the number of passengers going through airport security, and built a pipeline on AWS to collect and predict the clickstream of Schiphol\u2019s website for online marketing.",
+                    "title": "Data Scientist",
+                    "employment_type": null
+                },
+                {
+                    "location": "Amsterdam Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2017
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2018
+                        }
+                    },
+                    "company": "Royal Schiphol Group",
+                    "description": null,
+                    "title": "Trainee Data Science",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 2919540,
+                "name": "Xomnia",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQF8TQr-7kox7w/company-logo_400_400/0/1692013374669?e=1703721600&v=beta&t=L7LlODm1j42wgivCZ6uZBKZeqsistQQdvBWVj6sSfDo",
+                "url": "https://www.linkedin.com/company/xomnia/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amsterdam Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2017
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2018
+                        }
+                    },
+                    "company": "Xomnia | We're hiring",
+                    "description": "Traineeship program with weekly trainings and coaching sessions on data science related topics, a.o. NLP; Bayesian Statistics; Deep Learning; Time Series Analysis; Network Science; Recommender Systems; SW engineering; Docker; Business Coaching; Web Scraping; Spark; Computer Vision",
+                    "title": "Trainee Data Science",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 2398811,
+                "name": "oneQube",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQHevfzqCntCXw/company-logo_400_400/0/1533052285009?e=1703721600&v=beta&t=cA7fsqbbGHKeQ8fTzuiZw6o1hyNXFNeF46IWZVCYkSo",
+                "url": "https://www.linkedin.com/company/oneqube/",
+                "employees": {
+                    "start": 0,
+                    "end": 1
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "New York based company - worked remotely from Amsterdam",
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2017
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2017
+                        }
+                    },
+                    "company": "oneQube",
+                    "description": "Project on article classification with 1500+ categories",
+                    "title": "Freelancer - Data Scientist",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "European Institute for Molecular Imaging (EIMI), University of M\u00fcnster",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "M\u00fcnster und Umgebung, Deutschland",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2013
+                        },
+                        "end": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2017
+                        }
+                    },
+                    "company": "European Institute for Molecular Imaging (EIMI), University of M\u00fcnster",
+                    "description": "Thesis on quantitative Positron Emission Tomography (PET) with hybrid PET-CT and PET-MRI\n\nI performed Monte Carlo simulations for tomographic imaging on multi-core and cluster systems, published a paper on data-driven methods for extracting motion information from unprocessed PET data and developed pipelines for reconstruction and motion correction of large amounts of medical imaging data.",
+                    "title": "Graduate Researcher",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 15594,
+                "name": "University of M\u00fcnster",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQGpKl9fXcWaUQ/company-logo_400_400/0/1671697645159?e=1703721600&v=beta&t=Sce1pPijWinakXM5BbPf2DmzBStX9O20EuThWWzihhg",
+                "url": "https://www.linkedin.com/school/university-of-muenster/",
+                "employees": {
+                    "start": 5001,
+                    "end": 10000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "M\u00fcnster Area, Germany",
+                    "date": {
+                        "start": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2013
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2013
+                        }
+                    },
+                    "company": "University of M\u00fcnster",
+                    "description": "Thesis on using two Kinect 3D cameras to estimate surface motion of patient torsos in PET",
+                    "title": "Student Assistant",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 2508619,
+                "name": "Bosch",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQGozkSLMZ_9NA/company-logo_400_400/0/1688382798977?e=1703721600&v=beta&t=-br7BKvO8pRDW3Bzq_A6NFyfNePsdmgX94S7RQ39cCo",
+                "url": "https://www.linkedin.com/company/bosch/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2008
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2011
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Stuttgart Area, Germany",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2008
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2011
+                        }
+                    },
+                    "company": "Bosch",
+                    "description": "Thesis on developing object-orientated hardware abstraction layers for microcontrollers using C++",
+                    "title": "Work Placement",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Machine Learning",
+        "Python",
+        "Linux",
+        "Forschung",
+        "Biomedizintechnik",
+        "Forschung und Entwicklung",
+        "Data Analysis",
+        "Statistics",
+        "Computer Vision",
+        "Research",
+        "Matlab",
+        "SQL",
+        "C",
+        "C++",
+        "Data Science",
+        "Natural Language Processing"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

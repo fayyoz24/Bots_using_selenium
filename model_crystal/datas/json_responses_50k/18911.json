@@ -1,0 +1,922 @@
+{
+    "profile_id": "laura-restrepo-mazo",
+    "first_name": "Laura",
+    "last_name": "Restrepo Mazo",
+    "sub_title": "Design Engineer at ASML",
+    "profile_picture": "https://media.licdn.com/dms/image/C4E03AQHIbh-ENx1zjA/profile-displayphoto-shrink_400_400/0/1517500726202?e=1701302400&v=beta&t=XwXHyAk_ZiFc727ttm7sqUPDePod5_IYs7wWXX4ohL8",
+    "background_image": "https://media.licdn.com/dms/image/C4E16AQH_-dc7MNJWjQ/profile-displaybackgroundimage-shrink_200_800/0/1517500726801?e=1701302400&v=beta&t=EMQEo8XLseVlu5hDanNpAfuamLlqgW1U5hzwGJa7vEY",
+    "profile_type": "personal",
+    "entity_urn": "ACoAABOszDUBwIrvvRu2CY4zw4qi6nBaVpedZ5E",
+    "object_urn": 330091573,
+    "birth_date": null,
+    "summary": "I am a research scientist in applied mathematics and I am very passionate about using and designing mathematical models to solve problems within industrial and business environments. My academic career and work experience have given me a strong background to carry out end-to-end solution strategies, from the early problem formulation and data analysis all the way through the design, analysis, verification, and implementation of mathematical models to the accomplishment of results and conclusions. ",
+    "location": {
+        "country": "Netherlands",
+        "short": "Eindhoven, North Brabant",
+        "city": "Eindhoven",
+        "state": "North Brabant",
+        "default": "Eindhoven, North Brabant, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "ES",
+            "language": "es"
+        },
+        "supported_locales": [
+            {
+                "country": "ES",
+                "language": "es"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "Dutch",
+                "proficiency": "LIMITED_WORKING"
+            },
+            {
+                "name": "English",
+                "proficiency": "FULL_PROFESSIONAL"
+            },
+            {
+                "name": "Espa\u00f1ol",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ]
+    },
+    "industry": "Semiconductors",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "school": {
+                "name": "Eindhoven University of Technology",
+                "logo": "https://media.licdn.com/dms/image/C560BAQG4PGSYiNG4CA/company-logo_400_400/0/1642150189320/eindhoven_university_of_technology_logo?e=1703721600&v=beta&t=UMtvsUY7gGdfvqSsyxhrvNturxPM2CEK0wwd7yozJEA",
+                "url": "https://www.linkedin.com/school/eindhoven-university-of-technology/"
+            },
+            "degree_name": "Professional Doctorate in Engineering in Mathematics for Industry (PDEng)",
+            "field_of_study": "Applied Mathematics",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2008
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2010
+                }
+            },
+            "school": {
+                "name": "Universidad Nacional de Colombia",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQH2fxFDcpvbGw/company-logo_400_400/0/1689003876228/universidadnacionaldecolombia_logo?e=1703721600&v=beta&t=-Aw3OZ2M8Vxx9syKeCiLW8OjwdOw_BZzNGsU4QfTkIE",
+                "url": "https://www.linkedin.com/school/universidadnacionaldecolombia/"
+            },
+            "degree_name": "Master of Science in Mathematics",
+            "field_of_study": "Mathematics",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2003
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2010
+                }
+            },
+            "school": {
+                "name": "Universidad Nacional de Colombia, Medell\u00edn, Colombia.",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "Bachelor of Science in Mathematics",
+            "field_of_study": "Mathematics",
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [
+        {
+            "title": "Outstanding postgraduate student scholarship",
+            "description": "Prestigious scholarship granted to the top three master\u2019s students of each academic department at national level.",
+            "issuer": "Universidad Nacional de Colombia",
+            "date": {
+                "month": 8,
+                "day": null,
+                "year": 2009
+            }
+        }
+    ],
+    "certifications": [],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "[SPGPrints] Ink jet stability.",
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "description": "Analyzed acoustic signals to detect entrapped air bubbles during the printing process.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Sara",
+                    "last_name": "Ghazanfari",
+                    "name": null,
+                    "headline": "Data scientist"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Marie",
+                    "last_name": "Sibomana",
+                    "name": null,
+                    "headline": "Test Engineer at Topcon Positioning Netherlands"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Faizan",
+                    "last_name": "Ahmed",
+                    "name": null,
+                    "headline": "Lecturer at University of Twente"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Artem",
+                    "last_name": "Alagizov",
+                    "name": null,
+                    "headline": "Distributed Systems Engineer at Ibeo Automotive Systems, PDEng, CKA & CKAD Kubernetes certified, OCPJP"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Laura",
+                    "last_name": "Restrepo Mazo",
+                    "name": null,
+                    "headline": "Design Engineer at ASML"
+                }
+            ]
+        },
+        {
+            "title": "[TNO] Vessel tracking problem with graph-based methods",
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "description": "Studied applicability of different graph-based methods in the vessel tracking problem\nDeveloped a theoretical solution to the vessel tracking problem",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Tamara",
+                    "last_name": "Jovanovic",
+                    "name": null,
+                    "headline": "Line manager, Wafer Alignment, ASML"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Bohdana",
+                    "last_name": "Shumanska",
+                    "name": null,
+                    "headline": "Data Scientist | Product Owner at EyeOn"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Laura",
+                    "last_name": "Restrepo Mazo",
+                    "name": null,
+                    "headline": "Design Engineer at ASML"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Wenhan",
+                    "last_name": "Wang",
+                    "name": null,
+                    "headline": "Tencent - Senior Data Scientist"
+                }
+            ]
+        },
+        {
+            "title": "[TATA Steel] 3D work roll flattening.",
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "description": "Analyzed a 3D physical degradation model of work rolls that are used during cold rolling processes. ",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Valentyna",
+                    "last_name": "Stakhyra",
+                    "name": null,
+                    "headline": "Professional Doctorate in Engineering, Industrial Mathematics"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Admasu Geneti",
+                    "last_name": "Gurmessa",
+                    "name": null,
+                    "headline": "Design Engineer @ ASML"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Laura",
+                    "last_name": "Restrepo Mazo",
+                    "name": null,
+                    "headline": "Design Engineer at ASML"
+                }
+            ]
+        },
+        {
+            "title": "[ASML] Modeling with Single Field Point Measurements",
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "description": "Proposed a method to predict lens aberration due to UV light exposure in a simple case study. ",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Laura",
+                    "last_name": "Restrepo Mazo",
+                    "name": null,
+                    "headline": "Design Engineer at ASML"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Iryna",
+                    "last_name": "Dovbush",
+                    "name": null,
+                    "headline": "Senior R&D Engineer  and Data Scientist at TMC"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Ivan Kulikov",
+                    "headline": null
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Sara",
+                    "last_name": "Marques",
+                    "name": null,
+                    "headline": "Data Analyst | Power BI"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Judy",
+                    "last_name": "Williams",
+                    "name": null,
+                    "headline": "Senior Business Process Specialist | Changing the world one nanometer at a time @ASML"
+                }
+            ]
+        },
+        {
+            "title": "[TU/e]Condition-based maintenance at both scheduled and unscheduled opportunities.",
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "description": "Developed an optimal condition-based maintenance (CBM) policy for a single component taking into account both scheduled and unscheduled maintenance opportunities. ",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Stella",
+                    "last_name": "Kapodistria",
+                    "name": null,
+                    "headline": "Assistant Professor at Eindhoven University of Technology"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Szil\u00e1rd",
+                    "last_name": "K\u00e1losi",
+                    "name": null,
+                    "headline": "Senior Data Scientist"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Jacques Resing",
+                    "headline": null
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Laura",
+                    "last_name": "Restrepo Mazo",
+                    "name": null,
+                    "headline": "Design Engineer at ASML"
+                }
+            ]
+        },
+        {
+            "title": "[Philips & TU/e]Hard disk failure prediction.",
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "description": "Analyzed hard disk (HDD) data to model and predict HDD deterioration.  ",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Stella",
+                    "last_name": "Kapodistria",
+                    "name": null,
+                    "headline": "Assistant Professor at Eindhoven University of Technology"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Szil\u00e1rd",
+                    "last_name": "K\u00e1losi",
+                    "name": null,
+                    "headline": "Senior Data Scientist"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Laura",
+                    "last_name": "Restrepo Mazo",
+                    "name": null,
+                    "headline": "Design Engineer at ASML"
+                }
+            ]
+        },
+        {
+            "title": "[OptimalBereik]Optimal media channel portfolio and budget allocation for advertising campaigns in The Netherlands",
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "description": "Developed a decision-support tool for optimizing marketing-budget allocation over media channels in the Netherlands.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Laura",
+                    "last_name": "Restrepo Mazo",
+                    "name": null,
+                    "headline": "Design Engineer at ASML"
+                }
+            ]
+        },
+        {
+            "title": "[LaQuSo] Indoor air quality analysis in Dutch schools",
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "description": "Analyzed Indoor Air Quality (IAQ) in several Dutch schools based on environmental measurements. Suggested actions for improving IAQ in schools.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Laura",
+                    "last_name": "Restrepo Mazo",
+                    "name": null,
+                    "headline": "Design Engineer at ASML"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Erandi",
+                    "last_name": "Gonz\u00e1lez Miranda",
+                    "name": null,
+                    "headline": "Data Scientist -Process Analytics "
+                }
+            ]
+        },
+        {
+            "title": "[Philips Lighting] Nonlinear dynamic effects in LED drivers",
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "description": "Analyzed bifurcation phenomena of electrical circuits inside LED drivers.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Laura",
+                    "last_name": "Restrepo Mazo",
+                    "name": null,
+                    "headline": "Design Engineer at ASML"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Taras",
+                    "last_name": "Stanko",
+                    "name": null,
+                    "headline": "Functional Metrology Design Engineer at ASML"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Aliia",
+                    "last_name": "Salakheeva",
+                    "name": null,
+                    "headline": "TM Model Specialist, Model management @Rabobank"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Federico",
+                    "last_name": "M.",
+                    "name": null,
+                    "headline": "Telecom Engineer | GSB Igniter 2018"
+                }
+            ]
+        },
+        {
+            "title": "[LaQuSo] Water loss management.",
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "description": "Proposed a leak localization model in water-pipe-networks. ",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Laura",
+                    "last_name": "Restrepo Mazo",
+                    "name": null,
+                    "headline": "Design Engineer at ASML"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Sergey Suslov",
+                    "headline": null
+                }
+            ]
+        }
+    ],
+    "publications": [
+        {
+            "name": "Optimal media channel portfolio for advertising campaigns in the Netherlands.",
+            "publisher": "PDEng thesis Technische Universiteit Eindhoven.",
+            "url": null,
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2014
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Laura",
+                    "last_name": "Restrepo Mazo",
+                    "name": null,
+                    "headline": "Design Engineer at ASML"
+                }
+            ]
+        },
+        {
+            "name": "Poster: Calculating the Seifert matrix: new results and its applications in virtual knots",
+            "publisher": "XVIII Colombian Mathematics Congress, Bucaramanga, Colombia.",
+            "url": null,
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2011
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Laura",
+                    "last_name": "Restrepo Mazo",
+                    "name": null,
+                    "headline": "Design Engineer at ASML"
+                }
+            ]
+        },
+        {
+            "name": "Spanning surfaces of knots",
+            "publisher": "Master thesis Universidad Nacional de Colombia.",
+            "url": "http://www.bdigital.unal.edu.co/1852/1/44006772.2010.pdf",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2010
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Laura",
+                    "last_name": "Restrepo Mazo",
+                    "name": null,
+                    "headline": "Design Engineer at ASML"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Margarita Toro Villegas",
+                    "headline": null
+                }
+            ]
+        }
+    ],
+    "courses": [
+        {
+            "name": "Advanced Inventory",
+            "number": null
+        },
+        {
+            "name": "Applied Statistics",
+            "number": null
+        },
+        {
+            "name": "Cryptography",
+            "number": null
+        },
+        {
+            "name": "Data Mining",
+            "number": null
+        },
+        {
+            "name": "Dynamic Systems",
+            "number": null
+        },
+        {
+            "name": "Filter Design",
+            "number": null
+        },
+        {
+            "name": "Markov Decision Processes",
+            "number": null
+        },
+        {
+            "name": "Mathematical Physics",
+            "number": null
+        },
+        {
+            "name": "Numerical Analysis",
+            "number": null
+        },
+        {
+            "name": "Optimization",
+            "number": null
+        },
+        {
+            "name": "Process Mining",
+            "number": null
+        },
+        {
+            "name": "Queuing Theory",
+            "number": null
+        },
+        {
+            "name": "Signal Analysis",
+            "number": null
+        },
+        {
+            "name": "Technical Writing",
+            "number": null
+        }
+    ],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 3894,
+                "name": "ASML",
+                "logo": "https://media.licdn.com/dms/image/C560BAQGssQfw50QsaQ/company-logo_400_400/0/1519855871260?e=1703721600&v=beta&t=Dy9d-y1YEURWKW9gwgee0M1kiJhHIn_5C8HeOomdIr8",
+                "url": "https://www.linkedin.com/company/asml/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2017
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "ASML",
+                    "description": null,
+                    "title": "Design Engineer D&E DUV",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 4838,
+                "name": "Eindhoven University of Technology",
+                "logo": "https://media.licdn.com/dms/image/C560BAQG4PGSYiNG4CA/company-logo_400_400/0/1642150189320/eindhoven_university_of_technology_logo?e=1703721600&v=beta&t=UMtvsUY7gGdfvqSsyxhrvNturxPM2CEK0wwd7yozJEA",
+                "url": "https://www.linkedin.com/school/eindhoven-university-of-technology/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Eindhoven y alrededores, Pa\u00edses Bajos",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2017
+                        }
+                    },
+                    "company": "Eindhoven University of Technology",
+                    "description": "Data-driven healthcare smart maintenance. \nResearch on condition-based maintenance (CBM) policies of medical imaging systems. Degradation modeling and maintenance optimization.",
+                    "title": "Doctoral Researcher",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 4838,
+                "name": "Eindhoven University of Technology",
+                "logo": "https://media.licdn.com/dms/image/C560BAQG4PGSYiNG4CA/company-logo_400_400/0/1642150189320/eindhoven_university_of_technology_logo?e=1703721600&v=beta&t=UMtvsUY7gGdfvqSsyxhrvNturxPM2CEK0wwd7yozJEA",
+                "url": "https://www.linkedin.com/school/eindhoven-university-of-technology/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Eindhoven, the Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2012
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2014
+                        }
+                    },
+                    "company": "Eindhoven University of Technology",
+                    "description": "Two-year advanced training in competencies and skills to use and design mathematical models in industrial and business environments.",
+                    "title": "Professional Doctorate in Engineering in Mathematics for Industry",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Instituto Tecnol\u00f3gico Metropolitano, Medell\u00edn, Colombia.",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Medellin, Colombia",
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2011
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2012
+                        }
+                    },
+                    "company": "Instituto Tecnol\u00f3gico Metropolitano, Medell\u00edn, Colombia.",
+                    "description": "Taught courses: Differential Equations, Numerical Methods, and Basic Mathematics.\n\nTasks: giving lectures, preparing assessment material, evaluating students and reporting student academic progress to senior managers.",
+                    "title": "Lecturer in Mathematics",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 464241,
+                "name": "Universidad Nacional de Colombia",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQH2fxFDcpvbGw/company-logo_400_400/0/1689003876228/universidadnacionaldecolombia_logo?e=1703721600&v=beta&t=-Aw3OZ2M8Vxx9syKeCiLW8OjwdOw_BZzNGsU4QfTkIE",
+                "url": "https://www.linkedin.com/school/universidadnacionaldecolombia/",
+                "employees": {
+                    "start": 5001,
+                    "end": 10000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2008
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2010
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Medellin, Colombia",
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2008
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2010
+                        }
+                    },
+                    "company": "Universidad Nacional de Colombia",
+                    "description": "Taught courses: Analytical and vector geometry.\n\nTasks: giving lectures, teaching assistance, grading exams.",
+                    "title": "Lecturer in Mathematics",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Mathematical Modeling",
+        "Matlab",
+        "Applied Mathematics",
+        "Data Analysis",
+        "Java",
+        "Programming",
+        "Optimization",
+        "LaTeX",
+        "Algorithms",
+        "Mathematics",
+        "Creative Problem Solver",
+        "R",
+        "Simulations",
+        "An\u00e1lisis num\u00e9rico",
+        "Mathem\u00e1ticas",
+        "Numerical Analysis",
+        "Mathematica",
+        "Statistics"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

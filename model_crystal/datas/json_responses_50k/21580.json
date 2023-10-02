@@ -1,0 +1,357 @@
+{
+    "profile_id": "ilya-plenne",
+    "first_name": "Ilya",
+    "last_name": "Plenne",
+    "sub_title": "SRE at Booking.com",
+    "profile_picture": "https://media.licdn.com/dms/image/C5603AQGgRbTugMCRHg/profile-displayphoto-shrink_800_800/0/1535218619996?e=1701302400&v=beta&t=WtlPy1rOsB4RcS0QHl6b57E6qvhKl9oadB3o5OdAwUY",
+    "background_image": "https://media.licdn.com/dms/image/C5616AQFlSJUx1flrOw/profile-displaybackgroundimage-shrink_350_1400/0/1535218914362?e=1701302400&v=beta&t=Uu2UIW1tfjSVfO4XgeqieVcr4CUlk2nF87-Rczzgqa0",
+    "profile_type": "personal",
+    "entity_urn": "ACoAABcMLZAB3pNwe34LCBL0UAXhbCLOm8SxwUU",
+    "object_urn": 386674064,
+    "birth_date": null,
+    "summary": "Software Engineer with 6+ years of experience in a wide range of fields. Have experience in web development using Python, Flask, Django, SQLAlchemy. I have developed Desktop applications with C++ and Qt. Know how to do many things in Linux. Worked a lot with huge C code base for SSD Firmware. Spent much time crunching data with NumPy and Pandas. Discovered a lot of insights from self-gathered and self-crunched data. I have created a vast number of charts with Matplotlib. Like to do rapid prototyping of any ideas and hypotheses. I have created many models for complicated hardware and firmware algorithms with Python. \n\nNow, I'm also interested in hardware and microcontrollers. Study a little bit of STM32 and ESP8266 for simple ideas. Try to do home automating from scratch in low power systems with wireless communication. \n\nI like to do in-depth investigation/research of things. Like to learn and use new things. I am interested in low-power embedded systems. \n\nSkills:\nProgramming languages: Python, JavaScript, C/C++, PHP. Tried a little bit of Go, Clojure, D, Java. \nPython libraries: numpy, Pandas, matplotlib, Cython, Flask, Django, Scrapy. \nDatabases: MySQL, MongoDB, BerkleyDB.\nVCS: Mercurial, Perforce, Git.\n\nI am using Linux as my primary Operating System. \nUsed iptables a lot for DDoS protection for websites. \nI am modifying custom Linux Kernel driver for custom hardware. \n\nI have created a home VoIP system with Asterisk.",
+    "location": {
+        "country": "Netherlands",
+        "short": "Lelystad, Flevoland",
+        "city": "Lelystad",
+        "state": "Flevoland",
+        "default": "Lelystad, Flevoland, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "Boolean",
+                "proficiency": "FULL_PROFESSIONAL"
+            },
+            {
+                "name": "English",
+                "proficiency": null
+            },
+            {
+                "name": "Russian",
+                "proficiency": null
+            }
+        ]
+    },
+    "industry": "Internet",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2009
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "school": {
+                "name": "Siberian Federal University",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "Bachelor",
+            "field_of_study": "Computer Science",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 1999
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2009
+                }
+            },
+            "school": {
+                "name": "Gymnasium \u21164",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "Secondary education",
+            "field_of_study": null,
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [],
+    "organizations": [],
+    "projects": [],
+    "publications": [],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 11348,
+                "name": "Booking.com",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQEgzF5azm3fNA/company-logo_400_400-alternative/0/1628510256914/bookingcom_logo?e=1703721600&v=beta&t=eEXTPffz7KQltKQKC7EKfpC7RsmZTDIpY9_TsX9R8Qs",
+                "url": "https://www.linkedin.com/company/booking.com/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amsterdam, North Holland, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2020
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Booking.com",
+                    "description": "Managing ElasticSearch clusters",
+                    "title": "Site Reliability Engineer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 9265843,
+                "name": "SK hynix memory solutions Eastern Europe",
+                "logo": "https://media.licdn.com/dms/image/C560BAQGVSIxvoanLQg/company-logo_400_400/0/1530801403581/softeq_flash_solutions_logo?e=1703721600&v=beta&t=xLpGSqi449CW_PG8LJ9NiYAD_OAzcovwwB4D4b4TIHk",
+                "url": "https://www.linkedin.com/company/sk-hynix-memory-solutions-eastern-europe/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Minsk, Belarus",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2020
+                        }
+                    },
+                    "company": "SK hynix memory solutions Eastern Europe",
+                    "description": "NAND Firmware(FTL) Research\nModeling SSD Firmware with Python to improve internal algorithms.\nInvented regression testing environment with better-debugging features. \nPython, Flask, MongoDB, RabbitMQ, VueJs for internal sophisticated SPA tools.",
+                    "title": "Software Engineer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "xPride",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Gomel, Belarus",
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2014
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2014
+                        }
+                    },
+                    "company": "xPride",
+                    "description": "Led a small team of 3 developers \nDesigned and coded website of real estate in Belarus. Data were gathered by custom parsers written in Python with Scrapy and lxml.",
+                    "title": "Senior Python developer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "SKV24",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Varna, Bulgaria",
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2013
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2014
+                        }
+                    },
+                    "company": "SKV24",
+                    "description": "Writing web applications with Python Flask\nDeveloped high-load applications with gevent.\nUsed CodeIgniter for local Yelp alternative. \nUsed Asterisk for creating flexible VoIP system.",
+                    "title": "Linux administrator, Python\\PHP web developer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Freelance",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2009
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Krasnoyarsk Territory, Russian Federation",
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2009
+                        },
+                        "end": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2013
+                        }
+                    },
+                    "company": "Freelance",
+                    "description": "Se-ting up Linux servers with LAMP support. \nOptimizing for high performance, high request rate.\nMonitoring the whole system.\nDDoS and DoS protection.",
+                    "title": "Linux System Administrator",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Python",
+        "Linux",
+        "Web Development",
+        "TCP/IP",
+        "Machine Learning",
+        "Object-Oriented Programming (OOP)",
+        "Data Mining",
+        "Data Analysis",
+        "Internet Protocol Suite (TCP/IP)",
+        "pandas",
+        "MySQL",
+        "NoSQL",
+        "PHP",
+        "Firmware",
+        "jQuery",
+        "JavaScript",
+        "C",
+        "Linux Server",
+        "C/C++",
+        "C++"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

@@ -1,0 +1,667 @@
+{
+    "profile_id": "zhen-p-dskfdjdk",
+    "first_name": "Zhen",
+    "last_name": "P.",
+    "sub_title": "Vision Engineer",
+    "profile_picture": "https://media.licdn.com/dms/image/C5603AQGcRlz40Bhx_g/profile-displayphoto-shrink_800_800/0/1580569799288?e=1701302400&v=beta&t=Ml36044d_dGWfyuSql8HSgjijniznxAhhDHOQT4pw98",
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAABYAXIMBX31DTdA2FytrzyT0hiQbZfUmIkE",
+    "object_urn": 369122435,
+    "birth_date": null,
+    "summary": "Hi Everyone, thanks for being interested to my profile! \n\nDouble master from Utrecht University (Mathematics (i.e. Statistics and Probability) and Biomedical Image Sciences). Strongly interested in Linux, CUDA GPU programming, Computer Vision, Image Processing, Image Registration, Machine Learning, Pattern Recognition, Data Mining, statistics, Mathematical Modelling and Algorithm Design.\nProgramming language:C++ , C, C#, matlab,R and Halcon.",
+    "location": {
+        "country": null,
+        "short": "Netherlands",
+        "city": null,
+        "state": null,
+        "default": "Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "NL",
+            "language": "nl"
+        },
+        "supported_locales": [
+            {
+                "country": "NL",
+                "language": "nl"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "Chinese",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "Dutch",
+                "proficiency": "ELEMENTARY"
+            },
+            {
+                "name": "English",
+                "proficiency": "FULL_PROFESSIONAL"
+            },
+            {
+                "name": "Italian",
+                "proficiency": "ELEMENTARY"
+            }
+        ]
+    },
+    "industry": "Industrial Automation",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "school": {
+                "name": "Utrecht University",
+                "logo": "https://media.licdn.com/dms/image/C510BAQG6HfmPTdJKXw/company-logo_400_400/0/1519884681258?e=1703721600&v=beta&t=dip0JQLPHIafltY09rUwsjeZiPiJpmfD6vJeMHxW-84",
+                "url": "https://www.linkedin.com/school/universiteit-utrecht/"
+            },
+            "degree_name": "Master of Science (M.Sc.)",
+            "field_of_study": "(Biomedical) Image Sciences",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2009
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "school": {
+                "name": "Utrecht University",
+                "logo": "https://media.licdn.com/dms/image/C510BAQG6HfmPTdJKXw/company-logo_400_400/0/1519884681258?e=1703721600&v=beta&t=dip0JQLPHIafltY09rUwsjeZiPiJpmfD6vJeMHxW-84",
+                "url": "https://www.linkedin.com/school/universiteit-utrecht/"
+            },
+            "degree_name": "Master of Science (M.Sc.)",
+            "field_of_study": "Probability, Statistics and Mathematical Modelling",
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "3D Image Graphics project C#/XNA/DirectX shader",
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "description": "Programming language used: C#/XNA/DirectX shader\n\u2022 Reconstructing a 3D landscape from a 2D height map, with customized color maps for the landscape and the functionality to navigate in the 3D landscape with the mouse;\n\u2022 Shading and texturing of a 3D subject in presence of moving random lights with varying color.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Zhen",
+                    "last_name": "P.",
+                    "name": null,
+                    "headline": "Vision Engineer"
+                }
+            ]
+        },
+        {
+            "title": "Image Analysis project",
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "description": "Programming language used: MatLab\nDesign of an algorithm to identify and extract chess diagrams from any book page with any number of chess diagrams and at any position, and recognize each chess piece from the diagram automatically.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Zhen",
+                    "last_name": "P.",
+                    "name": null,
+                    "headline": "Vision Engineer"
+                }
+            ]
+        },
+        {
+            "title": "Data Mining Project",
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "description": "Programming language used: R\n\u2022 Classification tree (algorithm design): separate the classes as pure as possible by minimizing the impurity function and minimizing the misclassification error.\n\u2022 Graph theory (algorithm design): find the optimal undirected graph model using hill climbing algorithm. The search can start with empty or full or random graph to search forward (adding an edge) or search backward (deleting an edge). The action of adding or deleting an edge is done through tracking the minimum AIC and BIC score of all the possible models. Once an action is excuted, the new model become the current starting model and start the next searching step in the same way till the score can not be further minimized, then stop searching.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Zhen",
+                    "last_name": "P.",
+                    "name": null,
+                    "headline": "Vision Engineer"
+                }
+            ]
+        },
+        {
+            "title": "Applied Statistics Projects",
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2011
+                }
+            },
+            "description": "Programming language used: R\n\u2022 Nelson\u2013Siegel model to calculate forward rate and yield curve\n\u2022 Test of data following Weibull distribution and use bootstrap to compute p\u2013value.\n\u2022 Plot sensitivity curves based on t\u2013test and Wilcoxon signed\u2013rank test.\n\u2022 Test null hypothesis that there is no difference in mean among three different treatments by permutation test and calculate p-value of the permutation test by Monte-Carlo simulation.\n\u2022 Choice of the smoothing parameter by generalized cross\u2013validation (gcv) and get plots for gcv score against fitted freedom and gcv score against smoothing parameter.\n",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Zhen",
+                    "last_name": "P.",
+                    "name": null,
+                    "headline": "Vision Engineer"
+                }
+            ]
+        },
+        {
+            "title": "Modeling Projects",
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2009
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2010
+                }
+            },
+            "description": "\u2022 Option pricing with tree model.\n\u2022 Simulation of random stock price paths with Black\u2013Scholes model and study on option price changes with volatility drift, interest rate and strike price.\n\u2022 Calculation of the price of swaption based on Hull\u2013White model and of VaR.\n",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Zhen",
+                    "last_name": "P.",
+                    "name": null,
+                    "headline": "Vision Engineer"
+                }
+            ]
+        }
+    ],
+    "publications": [],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 2528253,
+                "name": "Finis || Eillert - Food Processing Equipment",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQGJAch5kj2x1w/company-logo_400_400/0/1659967111190?e=1703721600&v=beta&t=GAQUpu9rx4QX8TkrHl5OGX8D0BsWvlhvLNr_hptM-n4",
+                "url": "https://www.linkedin.com/company/finis-eillert/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2023
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Ulft, Gelderland, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2023
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Finis || Eillert - Food Processing Equipment",
+                    "description": null,
+                    "title": "Vision and robotic engineer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 549506,
+                "name": "Marel Meat",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQGnUZkGXFbhtg/company-logo_400_400/0/1636011148899?e=1703721600&v=beta&t=IVxhxixTJsR0DkE4IVDMhACz8bIlGDw1_ox6R__CYhU",
+                "url": "https://www.linkedin.com/company/marelmeat/",
+                "employees": {
+                    "start": 5001,
+                    "end": 10000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2023
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2023
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Lichtenvoorde, Gelderland, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2023
+                        },
+                        "end": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2023
+                        }
+                    },
+                    "company": "Marel Meat",
+                    "description": null,
+                    "title": "Vision Engineer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 166859,
+                "name": "Wageningen University & Research",
+                "logo": "https://media.licdn.com/dms/image/C510BAQFQJQXtOy2Stw/company-logo_400_400/0/1519889640020?e=1703721600&v=beta&t=Su9zrADK5ucUe1IMPUem90O0-tpcelhnIRTeUDAPDq4",
+                "url": "https://www.linkedin.com/school/wageningenuniversity/",
+                "employees": {
+                    "start": 5001,
+                    "end": 10000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2023
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2023
+                        }
+                    },
+                    "company": "Wageningen University & Research",
+                    "description": null,
+                    "title": "Researcher in Computer Vision, Data Science and AI applied to Animal Health",
+                    "employment_type": "Part-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1638644,
+                "name": "TTA",
+                "logo": "https://media.licdn.com/dms/image/C560BAQGTr52m7rXV-g/company-logo_400_400/0/1558010452448?e=1703721600&v=beta&t=EcccvvpiVQ2RVb1gKSHA7jQKR4Yu8qpm8oxKAZmtknQ",
+                "url": "https://www.linkedin.com/company/ttabv/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2020
+                        },
+                        "end": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2021
+                        }
+                    },
+                    "company": "TTA",
+                    "description": "Launched a new market for TTA with AI (Deep learning) technology.\n- Solved system issues: TTA original user interface (PlantVision) only worked with halcon 12 (without deep learning application) on 32-bit system, while Halcon 20 with deep learning only work on 64 bit system. I successfully built Halcon 20 on 64-bit system under C++ and windows form environment in their PlantVision, thus deep learning could be applied.\n-Worked on deep learning Classification, Detection, and Semantic Segmentation:\n               \u2022\tClassification and sorting different types of plants, or same plant with different size;\n               \u2022\tDetection of flowers, stem of trees, etc...;\n               \u2022\tSemantic segmentation applied to plant, moss and earth.\n- Made an UI tool to train and validate deep learning algorithm with C# and windows Form.\n- Delivered TTA first AI project (detecting big flowers from all type of Anthurium plants).\n\nProgramming lauguage: Halcon",
+                    "title": "Vision Software Engineer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 419223,
+                "name": "Cellro B.V.",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQE-v8djli2d-g/company-logo_400_400/0/1648218420192?e=1703721600&v=beta&t=SFYySWeVgZ3HQg5qrCgIbGPeGlOce09VAMm_OeFW5lI",
+                "url": "https://www.linkedin.com/company/cellro/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Veenendaal",
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2020
+                        }
+                    },
+                    "company": "Cellro | CNC Automation",
+                    "description": "Finished Cellro\u2019s new automation technology for a new market (GEN-III). The challenge was to identify 334 medical implants from their size, shape and material. After that, the vision will guide the robot to pick up the right part at the right position and bring it under the laser for marking. In the end, the vision will check whether the markings are correctly lasered (OCR check), which included recognizing characters, numbers, symbols and their marked position.\nIn this project, I fully designed the vision solution from both hardware and software:\n-\tHardware: selecting cameras, lenses, and lights and designing vision set up system.\n-\tSoftware: applying 3D rendering, camera calibration, image processing, classification and machine learning techniques.\n\nProgramming Language: Halcon.",
+                    "title": "Vision Engineer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1086276,
+                "name": "Dimenco",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQHYiNpF168a0w/company-logo_400_400/0/1689578981907?e=1703721600&v=beta&t=K9uHNYp8Xl93DC-ndwW3VqxyViVziJvWCo7ZVWD_U2M",
+                "url": "https://www.linkedin.com/company/dimenco/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Veldhoven",
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2018
+                        }
+                    },
+                    "company": "Dimenco ",
+                    "description": "- Accelerate an eye tracker algorithm with Jetson Tx2 on Linux system.  The objective was to make the eye tracker algorithm run on a power efficient and low-cost embedded system Jetson Tx2 with at least 60 FPS to have smooth tracking. However, the algorithm without acceleration can only run at 18 FPS which cannot track a person smoothly at all. In this project, I firstly found a CPU accelerating strategy and increased the frame rate from 18 FPS to 28 FPS. Then I made GPU acceleration with own designed CUDA kernel, which increased the frame rate from 28 to around 68 FPS. With this kernel, the GPU processing time was 20 times faster compared to the CPU processing time for detecting 68 face landmarks. \n\n- Solved camera light problem for an eye algorithm. Under each light condition, the camera needs a specific shutter time, and the original eye tracker algorithm only worked under one specific light condition and failed at all other light conditions. I designed an algorithm to automatically find the shutter time for each light condition.\n\n- Solved challenges of extracting eye data from all eye trackers via UDP and made different eye Tracker coordinate systems consistent and calibrated them from camera to display. Thus all the performance of the eye Tracker algorithms could be compared, and the best eye tracker could be selected and improved. This was used in a 3D game application without glasses, which was shown at CES 2017 with great success.\n\n- Made an AR demo, where the virtual objects can pop out or go behind of the Display up to 1.5 - 2 meters and users feel they are holding the virtual object in their hands, and can look at it from all perspective views. This demo  was shown at SID in May 2017.\n\n- Solved 2-view and multiple view challenges through Unity, and enabled 3D for an automotive application, which brought to a business success with the automotive company Valeo.\n\nProgramming Languages: C (CUDA GPU), C++, C#.",
+                    "title": "3D Vision Engineer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "BioLab, Politecnico di Torino",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Politecnico di Torino (Italy)",
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2016
+                        }
+                    },
+                    "company": "BioLab, Politecnico di Torino",
+                    "description": "TITLE: \nAutomated Gleason Grading of Entire Biopsies in Prostate Cancer Histopathology\n\nABSTRACT:\nDiagnosis of prostate cancer is based on time-consuming and subjective visual inspections of H&E histological images. Thus an automatic Gleason scoring system is wished, but the main challenge lies in distinguishing between the Gleason scores 3 + 4 and 4 + 3. We hereby propose a four-module approach for automated Gleason scoring, i.e. (i) nuclei extraction via PCA color deconvolution and Laplacian Gaussian filtering, (ii) lumen segmentation with Gabor filter, (iii) glands segmentation with Fuzzy C-means classification and heuristic optimization, and (iv) feature extraction and Gleason scoring. The results show that the nuclei pixels could be extracted, and lumina and glands were well segmented (the median sensitivity, precision and Dice score for gland segmentation were 0.87, 0.89 and 0.87 respectively). Thereafter, we could identify combinations of texture and morphological features for each type of gland patterns (i.e. normal, 3, 4 and 5) and perform pattern recognition. Our results show that 30 images out of 33 were correctly graded (91%). More importantly, our algorithm could correctly distinguish patterns 3 + 4 from 4 + 3 in 14 out of 16 images. Finally, our method could provide a correct final diagnosis for 10 patients on 12. Within the limits of this work, the results show that our method is promising for histopathological examination of the prostate for Gleason scoring. \n\nProgramming Language: Matlab.",
+                    "title": "Graduation Internship",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Donders Institute, Department of Neuroinformatics",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Radboud University Nijmegen (the Netherlands)",
+                    "date": {
+                        "start": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2013
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2015
+                        }
+                    },
+                    "company": "Donders Institute, Department of Neuroinformatics",
+                    "description": "The project aims to design an heuristic optimization algorithm to automatically tune several parameters of an image processing/segmentation pipeline to detect cell size, shape and motion from light and fluorescent microscopy images. The pipeline includes various image processing steps and watershed-based segmentation. In particular, key parameters (e.g. Filter size, Structure element size, Regional maximum) were optimized in order to extract cells of any shape and position from images having any level of lighting artifacts and noise. An analysis on the effects of such image artifacts on the quality of the optimized segmentation was performed as well. \n\nProgramming Language: Matlab",
+                    "title": "Part-time internship",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 53969,
+                "name": "All Options BV",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQGGFMKZA5a4hQ/company-logo_400_400/0/1519856759381?e=1703721600&v=beta&t=U_fKHLlTPziZQoBDm1eMAE0u2VzME1KJzezZk-XYDqk",
+                "url": "https://www.linkedin.com/company/all-options/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "All Options BV, Amsterdam (the Netherlands)",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2011
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2012
+                        }
+                    },
+                    "company": "All Options",
+                    "description": "Supervisors: dr. Karma Dajani, prof. Michel Vellekoop, MSc. Geeske Vlaming.\nThe project was \u201cMultivariate Asset Pricing\u201d, and the main tasks were:\n \u2022 MatLab programming and Monte\u2013Carlo simulations;\n \u2022 Model building and reconstruction;\n \u2022 Model fitting and parameter optimization;\n \u2022 Quantitative data analysis.\nThe results of this project (including MatLab codes) are described in the final Master thesis (available at the link below).\n\nProgramming Language: Matlab.",
+                    "title": "Internship",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "C#",
+        "C++",
+        "Matlab",
+        "Java",
+        "Phyton",
+        "R",
+        "S-Plus",
+        "LaTeX",
+        "Digital Image Processing",
+        "Image Analysis",
+        "Statistics",
+        "Probability",
+        "Probabilistic Reasoning",
+        "Mathematical Modeling",
+        "Mathematics",
+        "3D Graphics",
+        "Computer Graphics",
+        "Computer Science",
+        "Optimization",
+        "Statistical Modeling"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

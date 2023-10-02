@@ -1,0 +1,575 @@
+{
+    "profile_id": "robbykiggen",
+    "first_name": "Robby",
+    "last_name": "Kiggen",
+    "sub_title": "Freelance Architect | Full stack Developer | Helping customers delivering projects successfully",
+    "profile_picture": "https://media.licdn.com/dms/image/C4E03AQFMuyFCqPWAug/profile-displayphoto-shrink_800_800/0/1537979877700?e=1701302400&v=beta&t=B7JiEWfDHQq1D3ss77TB6K52a5FvGsM19mvDeBJ595c",
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAAAD4PjIBMjjlesgCsmWk1G9MIHVmX__i4Ow",
+    "object_urn": 16268850,
+    "birth_date": null,
+    "summary": "An accomplished architect/developer with extensive experience in the full life cycle of the software development process including - but not limited to - architecture & design, requirements gathering, development, testing and project management.\n\nParticulary interested in: \n* Getting the job done;\n* Delivering quality: flexible architecture (allowing for change), code quality (SOLID & Object Calisthenics);\n* Cloud, (micro) services, ...\n\nSpeaks four languages: Dutch (mother tongue), English (fluent), French (good), German (basic).\n\nSpecialties: \n* IT Consultancy;\n* Project Management;\n* Analysis: functional & technical;\n* Development: mainly .NET and various scripting languages\n* Coaching & Education;\n",
+    "location": {
+        "country": "Netherlands",
+        "short": "Valkenswaard, North Brabant",
+        "city": "Valkenswaard",
+        "state": "North Brabant",
+        "default": "Valkenswaard, North Brabant, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "Dutch",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "English",
+                "proficiency": "FULL_PROFESSIONAL"
+            },
+            {
+                "name": "French",
+                "proficiency": "PROFESSIONAL_WORKING"
+            },
+            {
+                "name": "German",
+                "proficiency": "ELEMENTARY"
+            }
+        ]
+    },
+    "industry": "Computer Software",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 1993
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 1998
+                }
+            },
+            "school": {
+                "name": "UHasselt",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQFTXBVMTo4udg/company-logo_400_400/0/1684854031066?e=1703721600&v=beta&t=p5Hkaxti8fONlLt8Vo9OgopEkTR8pUZ7R2BE43gsgVM",
+                "url": "https://www.linkedin.com/school/universiteithasselt/"
+            },
+            "degree_name": "Master",
+            "field_of_study": "Applied Economic Sciences - Accounting & Finance",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 1987
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 1993
+                }
+            },
+            "school": {
+                "name": "Salvator College",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": null,
+            "field_of_study": "Latin - Mathematics",
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "API (@ Please Payroll, Helmond",
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "description": "In my position as a .NET consultant I was responsible for designing and developing the public API for the UrenOnline platform.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Robby",
+                    "last_name": "Kiggen",
+                    "name": null,
+                    "headline": "Freelance Architect | Full stack Developer | Helping customers delivering projects successfully"
+                }
+            ]
+        },
+        {
+            "title": "APT (@ BDO Global IT, Eindhoven, The Netherlands)",
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "description": "I joined the BDO Global IT Team as a teamlead to ensure that the internal team of developers was ready to take over the development of APT (which is the tool that all the auditors of BDO worldwide use on a daily basis to execute an audit) product from an external vendor.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Robby",
+                    "last_name": "Kiggen",
+                    "name": null,
+                    "headline": "Freelance Architect | Full stack Developer | Helping customers delivering projects successfully"
+                }
+            ]
+        },
+        {
+            "title": "Odyssee (@ Oddyssee Mobile, Brussels, Belgium)",
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "description": "I was tasked with setting up the development factory and ensuring less time was spent on testing  via automated tests\n- created automated GUI tests via the Telerik Test framework;\n- setup CI builds in Jenkins\n- ...\n\nDuring my period at Oddyssee I also developed an external (rest) API for a customer.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Robby",
+                    "last_name": "Kiggen",
+                    "name": null,
+                    "headline": "Freelance Architect | Full stack Developer | Helping customers delivering projects successfully"
+                }
+            ]
+        },
+        {
+            "title": "Havik (@ Tjip B.V., Helmond)",
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "description": "Due to the fact that Tjip needed to rollout a new release of their Havik product (which is an application that helps bank employees through a mortgage application)  and was shorthanded, they asked me to jump in.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Robby",
+                    "last_name": "Kiggen",
+                    "name": null,
+                    "headline": "Freelance Architect | Full stack Developer | Helping customers delivering projects successfully"
+                }
+            ]
+        },
+        {
+            "title": "Gateway (@Gateway, Heusden-Zolder, Belgium)",
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "description": "I was hired as a software architect to transition the Gateway platform (for travelagencies) from Coldfusion to .NET. Apart from that I also introduced some good practices like: unit testing, CI builds and such.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Robby",
+                    "last_name": "Kiggen",
+                    "name": null,
+                    "headline": "Freelance Architect | Full stack Developer | Helping customers delivering projects successfully"
+                }
+            ]
+        },
+        {
+            "title": "Materialise (@Materialise, Heverlee, Belgium)",
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2011
+                }
+            },
+            "description": "As Lead Developer I worked on the Simplant tool, which allows orthodontists to study someone's jaw in 3D and lets them easily insert implants.\n",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Robby",
+                    "last_name": "Kiggen",
+                    "name": null,
+                    "headline": "Freelance Architect | Full stack Developer | Helping customers delivering projects successfully"
+                }
+            ]
+        },
+        {
+            "title": "EOS (@Bank J. Van Breda, Antwerp, Belgium)",
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2010
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2011
+                }
+            },
+            "description": "As a .NET consultant I participated in the EOS project which aims to port the core business applications on the (AS400) mainframe to the .NET platform (Visual Studio 2008, TFS,.NET 3.5, C#, WPF, WCF,SQL SERVER 2008, SOA)",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Robby",
+                    "last_name": "Kiggen",
+                    "name": null,
+                    "headline": "Freelance Architect | Full stack Developer | Helping customers delivering projects successfully"
+                }
+            ]
+        },
+        {
+            "title": "Railtime (@ NMBS, Brussels)",
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2009
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2010
+                }
+            },
+            "description": "Railtime project: deliver realtime info over delays, etc.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Robby",
+                    "last_name": "Kiggen",
+                    "name": null,
+                    "headline": "Freelance Architect | Full stack Developer | Helping customers delivering projects successfully"
+                }
+            ]
+        }
+    ],
+    "publications": [],
+    "courses": [
+        {
+            "name": "01. Architects Master Class (IDesign, Juval Lowy)",
+            "number": "March 2016, Copenhagen"
+        },
+        {
+            "name": "02. Project Design Master Class (IDesign, Juval Lowy)",
+            "number": "March 2017,  London"
+        },
+        {
+            "name": "03. Architecture Clinic (IDesign, Jarkko Kemppainen)",
+            "number": "November 2018, Zurich"
+        }
+    ],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": null,
+                "name": "Essential IT",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Hamont-Achel, Belgium",
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2014
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Essential IT",
+                    "description": "As an IT consultant with over a decade of experience, I am in a good position to analyze your business needs and develop a software solution tailored to your needs using the right technology for the job.",
+                    "title": "Software (Solution) Architect | Developer",
+                    "employment_type": "Self-employed"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Intuit bvba",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2009
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Hamont-Achel, Belgium",
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2009
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2014
+                        }
+                    },
+                    "company": "Intuit bvba",
+                    "description": "As an IT consultant with over 12 years experience, I am in a good position to analyse your business needs and develop a software solution using the latest .NET technologies (Silverlight, MVVM pattern, WCF, Entity framework, etc...)",
+                    "title": "Software (Solution) Architect | Developer",
+                    "employment_type": "Self-employed"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "ICASA ICT Solutions",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2006
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2009
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Diepenbeek, Belgium",
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2006
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2009
+                        }
+                    },
+                    "company": "ICASA ICT Solutions",
+                    "description": null,
+                    "title": "Architect, Senior Developer, Consultant",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 12654,
+                "name": "Markem",
+                "logo": "https://media.licdn.com/dms/image/D4D0BAQHCP-Gn9GE1Ag/company-logo_400_400/0/1687957759990?e=1703721600&v=beta&t=F_bY24MVXDNqC7zCrMhnimc6jC7dyH8CgWjld9RBjAA",
+                "url": "https://www.linkedin.com/company/markem-imaje/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2004
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2006
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Schoten, Belgium",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2004
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2006
+                        }
+                    },
+                    "company": "Markem-Imaje",
+                    "description": null,
+                    "title": "Senior Developer,  Analyst",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Advanced Software Quality (ASQ) / Real Software",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 1998
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2004
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Houthalen, Centrum Zuid 1527, Belgium",
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 1998
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2004
+                        }
+                    },
+                    "company": "Advanced Software Quality (ASQ) / Real Software",
+                    "description": null,
+                    "title": "Developer, Analyst",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "WCF",
+        "ASP.NET",
+        "C#",
+        "WF",
+        "Python",
+        "Project Management",
+        "Ruby",
+        "Analysis",
+        "Consulting",
+        ".NET",
+        "Microsoft SQL Server",
+        "Web Services",
+        "XML",
+        "WPF",
+        "Scrum",
+        "OpenERP",
+        "Visual Studio",
+        "SQL",
+        "UML",
+        "Linux"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

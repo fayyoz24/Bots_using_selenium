@@ -1,0 +1,970 @@
+{
+    "profile_id": "gustavoafbm",
+    "first_name": "Gustavo",
+    "last_name": "Melo",
+    "sub_title": "Product Architect at ASML",
+    "profile_picture": "https://media.licdn.com/dms/image/C5603AQHudU5_ZJZzyA/profile-displayphoto-shrink_800_800/0/1516871969698?e=1701302400&v=beta&t=E94W2tP_1JRdSuNVWYzUQ70Yql8MUojWGwk9CSlO-_U",
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAAAhtrxoBocyAw1o7kDDmf6UNh9_uLnjXOCc",
+    "object_urn": 141405978,
+    "birth_date": null,
+    "summary": "I have a wide range of experience with object-oriented programming with languages like Java, C# and C++. Over my 10+ years career providing software solutions I have been involved since conception to industrialization of products, what naturally developed a high level of ownership and responsibility.\nInherent to the INTJ personality of the Myers-Briggs Type Indicator, I appreciate creative and intellectual challenges, I am good at theoretical and technical analysis as well as logical problem solving. My motivation is to be relevant everywhere I am.",
+    "location": {
+        "country": "Netherlands",
+        "short": "Veldhoven, North Brabant",
+        "city": "Veldhoven",
+        "state": "North Brabant",
+        "default": "Veldhoven, North Brabant, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "BR",
+            "language": "pt"
+        },
+        "supported_locales": [
+            {
+                "country": "BR",
+                "language": "pt"
+            },
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "English",
+                "proficiency": "FULL_PROFESSIONAL"
+            },
+            {
+                "name": "Portuguese",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ]
+    },
+    "industry": "Semiconductors",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2009
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2011
+                }
+            },
+            "school": {
+                "name": "Universidade Federal de Pernambuco",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQEKdP5dQl2lTQ/company-logo_400_400/0/1657652880602?e=1703721600&v=beta&t=NAUs2bwJ9o01tMaMcT8wYLavc6AC8oDHTrFWa_oUzBM",
+                "url": "https://www.linkedin.com/school/ufpe/"
+            },
+            "degree_name": "Master of Science in Computer Science",
+            "field_of_study": "Embedded Software Engineering",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2003
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2008
+                }
+            },
+            "school": {
+                "name": "Universidade Federal de Pernambuco",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQEKdP5dQl2lTQ/company-logo_400_400/0/1657652880602?e=1703721600&v=beta&t=NAUs2bwJ9o01tMaMcT8wYLavc6AC8oDHTrFWa_oUzBM",
+                "url": "https://www.linkedin.com/school/ufpe/"
+            },
+            "degree_name": "Bachelor of Science in Computer Engineering",
+            "field_of_study": "Embedded System, Real-Time Systems",
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [
+        {
+            "title": "1st Placed in Olympiads of Statistics of CIn-UFPE",
+            "description": null,
+            "issuer": "Centro de Inform\u00e1tica da Universidade Federal de Pernambuco",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2004
+            }
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Professional Scrum Master (PSM I)",
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Scrum.org",
+            "url": "https://www.scrum.org/certificates/432979",
+            "license_number": null,
+            "display_source": "scrum.org",
+            "company": {
+                "id": null,
+                "name": "Scrum.org",
+                "logo": "https://media.licdn.com/dms/image/C560BAQFzF6WZjNSHkQ/company-logo_400_400/0/1522074989702?e=1703721600&v=beta&t=-PRmXQFIlx8U4JWR-3B1NpWfKbSbQ6Zx6ONjdC6UVQs",
+                "url": null
+            }
+        }
+    ],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "APP - Next Stop Announcement System for Buses",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "description": "Technologies: C++, FreeRTOS, ARM CortexM3, CAN, SPI, DAC\nDescription: Next bus stop announcement system controlled by GPS.\nI took an \"in progress\" development to make performance and architecture improvements regarding\nreal-time requirements.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Gustavo",
+                    "last_name": "Melo",
+                    "name": null,
+                    "headline": "Product Architect at ASML"
+                }
+            ]
+        },
+        {
+            "title": "AUTOSAR EFX Library module",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "description": "Technologies: C language\nDescription: AUTOSAR module that implements fixed-point math operations like trigonometric and\nsquare root.\nCompetences: coding, review, team tasks monitoring and reporting",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Gustavo",
+                    "last_name": "Melo",
+                    "name": null,
+                    "headline": "Product Architect at ASML"
+                }
+            ]
+        },
+        {
+            "title": "Anjo DaGuarda (Guardian Angel)",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "description": "Anjo DaGuarda (Guardian Angel)\nTechnologies: C, PIC, 8051\nDescription: Board control system for buses in order to limit vehicle speed and rotation, as well it avoid the driver to start driving with doors open or with the second gear engaged.\nIt was a project to refactor the project and move it to PIC platform. I participated from requirements to deployment.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Gustavo",
+                    "last_name": "Melo",
+                    "name": null,
+                    "headline": "Product Architect at ASML"
+                }
+            ]
+        },
+        {
+            "title": "Anunciador de Mensagem (Message Announcer)",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "description": "Technologies: C, ARM7, DAC\nDescription: Sound announcer system for bus doors closing.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Gustavo",
+                    "last_name": "Melo",
+                    "name": null,
+                    "headline": "Product Architect at ASML"
+                }
+            ]
+        },
+        {
+            "title": "ESCoRT Eclipse Plugin",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "description": "Technologies: Java, Eclipse Framework, Eclipse Plug-in\nDescription: Plugin for Eclipse that automates development over ESCoRT framework and methodology.\nI created and implemented the plugin.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Gustavo",
+                    "last_name": "Melo",
+                    "name": null,
+                    "headline": "Product Architect at ASML"
+                }
+            ]
+        },
+        {
+            "title": "ESCoRT Framework",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "description": "Technologies: C++, Java, ARM7, ARM Cortex-M3\nDescription: Object-oriented Embedded Software development framework, was constructed in C++, its architecture inspired on AUTOSAR and its packages organization based on Java API. Intend to promote portable embedded software systems, focused on deep embedded software category.\nI created and implemented the whole framework.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Gustavo",
+                    "last_name": "Melo",
+                    "name": null,
+                    "headline": "Product Architect at ASML"
+                }
+            ]
+        },
+        {
+            "title": "FRT Network Stack",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "description": "Technologies: C++, CAN, RS-485\nDescription: Protocol stack over CAN or RS-485 that contains Link Layer and Network/Transportation\nLayer (connection based).\nThis project was my initiative to create a network to communicate all the products ofthe company in a single eco-system. I designed, implemented and led the tests of a connection based communication among several devices.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Gustavo",
+                    "last_name": "Melo",
+                    "name": null,
+                    "headline": "Product Architect at ASML"
+                }
+            ]
+        },
+        {
+            "title": "Fiscal Eletronico (Electronic Supervisor of Travels)",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "description": "Technologies: C, RL-ARM, ARM7, GPS, GPRS module, UART, SPI\nDescription: Supervisory system to track bus travels and bus stops through GPS receiver.\nI participated from requirements to tests.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Gustavo",
+                    "last_name": "Melo",
+                    "name": null,
+                    "headline": "Product Architect at ASML"
+                }
+            ]
+        },
+        {
+            "title": "Interface de Radio Controlador-Painel (Radio Interface Controller-Display)",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "description": "Technologies: C, Texas Instruments radio-microcontroller, UART\nDescription: Wireless communication between LED display and HMI device.\nI participated from requirements to deployment.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Gustavo",
+                    "last_name": "Melo",
+                    "name": null,
+                    "headline": "Product Architect at ASML"
+                }
+            ]
+        },
+        {
+            "title": "Keil \u03bcVision Eclipse Plugin",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "description": "Technologies: Java, Eclipse Framework, Eclipse Plug-in\nDescription: Plugin for Eclipse that integrates Keil \u03bcVision toolchain with Eclipse IDE.\nI noticed the need to use a modern IDE to increase productivity ofthe team then I developed this plugin\nto enable the team to use Eclipse in development process.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Gustavo",
+                    "last_name": "Melo",
+                    "name": null,
+                    "headline": "Product Architect at ASML"
+                }
+            ]
+        },
+        {
+            "title": "LightDot 11",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "description": "Technologies: C++, FreeRTOS, ARM CortexM3, SPI, UART, HMI\nDescription: LED display system to inform bus route and messages.\nIt was a refactoring and portability from legacy product to ARM platform. I participated from design to deployment.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Gustavo",
+                    "last_name": "Melo",
+                    "name": null,
+                    "headline": "Product Architect at ASML"
+                }
+            ]
+        },
+        {
+            "title": "LightDot 12",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "description": "Technologies: C++, FreeRTOS, ARM CortexM3, CAN, SPI, RS-485, HMI\nDescription: LED display system to inform bus route and messages.\nWith this project I brought the concept of video files to flexibilize different ways to display the messages\nand also redesigned the Human-Machine Interface to make it more precise and its implementation\nmore maintainable.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Gustavo",
+                    "last_name": "Melo",
+                    "name": null,
+                    "headline": "Product Architect at ASML"
+                }
+            ]
+        },
+        {
+            "title": "LightDot 9",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "description": "Technologies: C, 8051, SPI, UART, HMI\nDescription: LED display system to inform bus route and messages.\nI was responsible for maintenance of legacy system.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Gustavo",
+                    "last_name": "Melo",
+                    "name": null,
+                    "headline": "Product Architect at ASML"
+                }
+            ]
+        },
+        {
+            "title": "MPI (Passenger Counter)",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "description": "Technologies: C++, Linux, ODROID board, Time-of-Flight camera, RS-485\nDescription: Passenger counting system that uses an ODROID board and a Time-of-Flight camera in a computer vision approach over Linuxplatform.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Gustavo",
+                    "last_name": "Melo",
+                    "name": null,
+                    "headline": "Product Architect at ASML"
+                }
+            ]
+        },
+        {
+            "title": "Ninbus(Wi-Fi interface)",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "description": "Technologies: C++, FreeRTOS, ARM CortexM3, Wi-Fi modules, TCP/IP, UART\nDescription: Wi-Fi device that allows remote configuration ofUART serial interfaced systems, especially LightDot (referred above).\nI participated as full-stack developer, from idealization to deployment.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Gustavo",
+                    "last_name": "Melo",
+                    "name": null,
+                    "headline": "Product Architect at ASML"
+                }
+            ]
+        },
+        {
+            "title": "Ninbus(Wi-Fi interface)",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "description": "Technologies: C++, FreeRTOS, ARM CortexM3, Wi-Fi modules, TCP/IP, UART\nDescription: Wi-Fi device that allows remote configuration ofUART serial interfaced systems, especially LightDot (referred above).\nI participated as full-stack developer, from idealization to deployment.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Gustavo",
+                    "last_name": "Melo",
+                    "name": null,
+                    "headline": "Product Architect at ASML"
+                }
+            ]
+        },
+        {
+            "title": "PCS Tool (Static Code Analyzer)",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "description": "Technologies: C#, C++, Clang\nDescription: Tool that analyzes embedded C source code to check if some Functional Safety rules are met.\nI acted as Scrum Master and developer (design, coding, testing and review).",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Gustavo",
+                    "last_name": "Melo",
+                    "name": null,
+                    "headline": "Product Architect at ASML"
+                }
+            ]
+        }
+    ],
+    "publications": [],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 3894,
+                "name": "ASML",
+                "logo": "https://media.licdn.com/dms/image/C560BAQGssQfw50QsaQ/company-logo_400_400/0/1519855871260?e=1703721600&v=beta&t=Dy9d-y1YEURWKW9gwgee0M1kiJhHIn_5C8HeOomdIr8",
+                "url": "https://www.linkedin.com/company/asml/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Veldhoven, North Brabant, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "ASML",
+                    "description": null,
+                    "title": "Product Architect for Holistic Metrology Qualification",
+                    "employment_type": "Full-time"
+                },
+                {
+                    "location": "Veldhoven, North Brabant, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "ASML",
+                    "description": null,
+                    "title": "Lead Software Engineer, Java Software Developer",
+                    "employment_type": "Full-time"
+                },
+                {
+                    "location": "Veldhoven, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2020
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2021
+                        }
+                    },
+                    "company": "ASML",
+                    "description": null,
+                    "title": "Java Software Developer, Senior Software Engineer",
+                    "employment_type": "Full-time"
+                },
+                {
+                    "location": "Eindhoven Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2020
+                        }
+                    },
+                    "company": "ASML",
+                    "description": "C++ development by building drivers and software applications for High-Tech machines of semiconductor domain.\nThe team is working in an agile environment and applying techniques to support concepts like continuous integration.\n\nResponsibilities:\n - Contribute to agile maturity of the team\n - Create automated tests\n - Design solutions\n - Implement features\n - Elaborate and perform integration tests\n - Create and update documentation",
+                    "title": "Design Engineer, Software Engineer, C++ Developer",
+                    "employment_type": null
+                },
+                {
+                    "location": "Eindhoven Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "ASML",
+                    "description": "Work together with SW development team to deliver valuable software, continuously improve processes and relationships based on Scrum principles.",
+                    "title": "Scrum Master",
+                    "employment_type": null
+                },
+                {
+                    "location": "Eindhoven Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "ASML",
+                    "description": "C++ development for building drivers and embedded software applications in semiconductors domain.\nThe team is embedded in an agile environment, also applying techniques to support concepts like continuous integration.\n\nResponsibilities:\n - Contribute to agile maturity of the team\n - Create automated tests\n - Design solutions\n - Implement features\n - Elaborate and perform integration tests\n - Create and update documentation",
+                    "title": "Embedded Software Engineer, C++ Developer, Design Engineer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 5165624,
+                "name": "MCA Engineering Nederland",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQGrCo7s9ZZBCg/company-logo_400_400/0/1664869260300?e=1703721600&v=beta&t=G5VVau_kqTQazWgNqZDhkessgHyJP_Wp72BKVAX4tV8",
+                "url": "https://www.linkedin.com/company/mca-nederland/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Eindhoven Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "MCA Nederland",
+                    "description": "C++ development for building drivers and embedded software applications.",
+                    "title": "Senior Consultant",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 5521,
+                "name": "KPIT",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQFuu9kwD-3JGg/company-logo_400_400/0/1559791514594?e=1703721600&v=beta&t=xAmAefGJZnrxiaTTC-l1_fx4YTn8m8T4AqJgxei5XBE",
+                "url": "https://www.linkedin.com/company/kpit/",
+                "employees": {
+                    "start": 5001,
+                    "end": 10000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Recife, Brazil",
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2017
+                        },
+                        "end": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2018
+                        }
+                    },
+                    "company": "KPIT",
+                    "description": "Develop software for Automotive Industry, AUTOSAR modules written in C, tools to automate and improve automotive development processes, following functional safety requirements such as MISRA and ISO 26262. I am responsible for leading software development team, analyze requirements, design the SW architecture and select design patterns, implement software using C, C++ or C#, review the implementation of other members, model and create tests, prepare technical documentation, create and maintain the continuous integration environment and organize deliveries.\nAs a Project Lead I plan team activities, create and update team schedule, monitor team tasks, calculate and evaluate project timeline trends and report project status to the Program Manager. As a Tech Lead I provide technical support to the team, I advise team members regarding better solutions and mentor their in building career in technical aspects. As a Scrum Master I serve the Dev team in the way they do their best work, resolve impediments and promote Scrum's philosophy and mindset inside and especially outside the team.\n\nHighlights:\nCoordinated the implementation of an agile process (based on Scrum) in the team, introduced the practice of TDD (Test-Driven Development) and led the insertion of continuous integration techniques into team's development process.\n\nAchievements:\n- Led new engineers to development of AUTOSAR library modules for a German automotive leader.\n- Led and developed a tool to automate test documentation process of a German automotive leader.\n- Led and developed a tool to perform static code analysis for a renowned automotive first tier.",
+                    "title": "Scrum Master, Project Lead, Tech Lead, Lead Embedded Software Engineer",
+                    "employment_type": null
+                },
+                {
+                    "location": "Recife, Brazil",
+                    "date": {
+                        "start": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2017
+                        }
+                    },
+                    "company": "KPIT",
+                    "description": "Responsible for analisys, design, development, tests and documentation of software for companies of automotive field. As Technical Leader, I actively participated of software development decisions, from meetings (most weekly) to tests, with teams from other countries for cooperation and project monitoring.\n\nKeywords:\nAUTOSAR; C; Functional Safety; ISO 26262",
+                    "title": "Senior Automotive System Analyst, Senior Automotive Software Engineer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1222048,
+                "name": "FRT Tecnologia Eletronica",
+                "logo": null,
+                "url": "https://www.linkedin.com/company/frt-tecnologia-eletr-nica/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2007
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Recife, Brazil",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2012
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2016
+                        }
+                    },
+                    "company": "FRT Tecnologia Eletr\u00f4nica",
+                    "description": "Developed embedded software and firmware for electronic devices used in Intelligent Transportation Systems. I was was member of an Agile team, responsible for requirement analysis, software design, development using C and C++ (really object oriented), laboratory tests, field tests, deployment and validation. I developed software for microncontrollers (ARM Cortex-M, ARM7, PIC and 8051) under real-time requirements (FreeRTOS). I worked  elaborating technical documentation, interacting with Hardware Team to define interfaces, reading and analyzing electronic schematics to propose software integration and/or proper modifications, reading and interpreting datasheets to implement low-level drivers and elaboration of manufacturing processes related to the embedded software.\nAs Embedded Software Developer I implemented the firmware and researched for new technologies & trends. As Agile Developer I participated of Sprint Plannings and participated of Retrospectives. As a Tech Lead I recruited and trained interns and new members.\n\nAchievements:\n- Developed Low-Level Device Drivers for microcontrollers.\n- Developed bootloaders for firmware update including On-the-Air - approach.\n- Idealized, coordinated and implemented a proprietary [connection - based] Protocol Stack for automotive networks (CAN and RS-485).\n- Participated actively of the development of a board control system - for bus (vehicle) and its port for several platforms.\n- Led the development of a LED sign system to inform bus itinerary - and other messages.\n- Developed a vehicle tracking system through GPS receiver and GPRS - modem.\n- Participated actively of development of a system to count - passengers through a computer vision approach.\n- Developed a Wi-Fi device to provide wireless communication for - serial interfaced products.\n- Participated actively of development of a Next-Stop announcer based - on GPS locatization.\n- Developed an RF based communication interface for LED signs.",
+                    "title": "Senior Embedded Software Engineer, Senior Firmware Developer, Senior C++ Developer",
+                    "employment_type": null
+                },
+                {
+                    "location": "Recife, Brazil",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2010
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2012
+                        }
+                    },
+                    "company": "FRT Tecnologia Eletr\u00f4nica",
+                    "description": "Achievements:\nI applied my MSc research to the company processes, which maximized the reuse of components and raised the level of portability of the systems. It brought a great change in the development processes that resulted in great agility and efficiency of the whole team.\n\nKeywords:\nembedded software; firmware; C++; C; FreeRTOS; ARM; STM32",
+                    "title": "Embedded Software Engineer, Firmware Developer, C++ Developer",
+                    "employment_type": null
+                },
+                {
+                    "location": "Recife, Brazil",
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2008
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2010
+                        }
+                    },
+                    "company": "FRT Tecnologia Eletr\u00f4nica",
+                    "description": "Achievements:\nI implanted Eclipse as embedded development tool and created plug-ins to speed up the processes of this kind of development. I implanted RUP techniques which increased systems quality.\n\nKeywords:\nembedded software; firmware; C; RUP; ARM; 8051; Keil uVision; Eclipse",
+                    "title": "Junior Embedded Software Engineer, Junior Fimrware Developer",
+                    "employment_type": null
+                },
+                {
+                    "location": "Recife, Brazil",
+                    "date": {
+                        "start": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2007
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2008
+                        }
+                    },
+                    "company": "FRT Tecnologia Eletr\u00f4nica",
+                    "description": "Responsible for analysis, development using C language, tests and deployment of embedded systems.\n\nKeywords:\nembedded software; firmware; C; 8051; Keil uVision",
+                    "title": "Intern on Embedded Software Development",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [
+        {
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "role": "Team Lead",
+            "company": {
+                "id": null,
+                "name": "Minist\u00e9rio AMMAR",
+                "logo": null,
+                "url": null
+            },
+            "cause": "POVERTY_ALLEVIATION",
+            "description": "The work at AMMAR consists of approaching and dialoguing with homeless and socially vulnerable people, aiming to breake down the barriers that divide society and to bring hope to those who have already given up on themselves. Inherent to the work of leading voluntiers, it demands continuously motivating, fostering ownership and managing expectations of people whose efforts are difficult to get short term results."
+        }
+    ],
+    "skills": [
+        "Embedded Systems",
+        "C++",
+        "Real-Time Operating Systems (RTOS)",
+        "Software Development",
+        "Software Engineering",
+        "Test Driven Development",
+        "Object-Oriented Programming (OOP)",
+        "Scrum",
+        "Agile Methodologies",
+        "Continuous Integration",
+        "ARM7",
+        "Microcontrollers",
+        "ARM Architecture",
+        "Java",
+        "Firmware Development",
+        "Linux",
+        "C#",
+        "Eclipse",
+        "Sistemas incorporados",
+        "Operating Systems"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

@@ -1,0 +1,600 @@
+{
+    "profile_id": "quinten-coltof-965ba21b8",
+    "first_name": "Quinten",
+    "last_name": "Coltof",
+    "sub_title": "Software Engineer",
+    "profile_picture": "https://media.licdn.com/dms/image/C4E03AQE54jyLfwf_Ug/profile-displayphoto-shrink_800_800/0/1607260449816?e=1701302400&v=beta&t=rQ8NahLzS-_tDQ89VHBLb_lJdyvI5_Xre9x7rX1svaE",
+    "background_image": "https://media.licdn.com/dms/image/C4E16AQHepN2GtilhbA/profile-displaybackgroundimage-shrink_350_1400/0/1634032654077?e=1701302400&v=beta&t=_4NHb0CB95cEdlrQB6YtFHFoNPSGku27Ww0-6gq6uQ8",
+    "profile_type": "personal",
+    "entity_urn": "ACoAADK4wN0Brb-Jv0VyW7S9iH4iejKc-JMfrPM",
+    "object_urn": 850968797,
+    "birth_date": null,
+    "summary": "Master software engineering student at the UvA living the dream of: waking up, programming for study or work, eating dinner and programming for fun. With an daily walk to get some fresh air. I successfully completed all my courses for my study on the first try.\n\nMy main interest is building systems which can be used to build new systems or showing data in new ways which help the user to achieve a clear picture of the situation.\n\nWhat I call production ready code: https://github.com/UvA-FNWI/ThesisFair\n\nExperience:\n- 7 year of coding experience of doing increasingly challenging projects\n- 9 months of leading a development team\n- I run all my projects via Docker\n- I configure all my servers via Ansible\n- See experience section for professional working experience\n\nThrough the years I've done quite some projects:\n\n17 years old\n- Javascript game engine with multiplayer support using only the HTML5 canvas API and socket.io. ~150 hour project\n- Pocket galaxy: A universe in your computer. For my high school research project I created an n-body simulation using newtons gravitational law. The real thing I researched was the best way to multithread in Python. The project was graded and guided by Robert Belleman who, at the time, was the program director of the Bachalor Computer Science on the University of Amsterdam.\n- Got invited to work at Voiceworks/Enreach\n\n16 years old\n- Offer student follow system to my school. Everyone loved it, even the director. But he did not want to buy a program from a 16 year old... (See QRC-LVS project)\n- More Python and F# web scrapers as my school moved to an even worse system which gave no overview at all.\n\n15 years old\n- Running Ubuntu on my Chromebook\n- Writing a reverse shell in Python with the raspberry pi as central command and control server. ~500 hour project (Never used maliciously).\n- Started working on QRC-LVS (See projects)\n\n14 years old\n- Making an app in Appinventor and writing a PHP API to communicate with.\n- Winning a capture the flag hacking contest and getting a raspberry pi as a reward.\n- Learning basic Linux shell and networking.\n- Writing a basic chat client in Python\n\nElementary school\n- Building an \"Operating system\" in Scratch.\n- Hosting Minecraft servers",
+    "location": {
+        "country": "Netherlands",
+        "short": "Almere, Flevoland",
+        "city": "Almere",
+        "state": "Flevoland",
+        "default": "Almere, Flevoland, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "Dutch",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "English",
+                "proficiency": "PROFESSIONAL_WORKING"
+            }
+        ]
+    },
+    "industry": "Information Technology & Services",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2023
+                }
+            },
+            "school": {
+                "name": "University of Amsterdam",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQEfHBj_we-_kw/company-logo_400_400/0/1659945104460?e=1703721600&v=beta&t=nxt14hUDODg3MttkNj5Qa0fCu2FbgGbRXyFSapRtNv4",
+                "url": "https://www.linkedin.com/school/university-of-amsterdam/"
+            },
+            "degree_name": "Master's degree",
+            "field_of_study": "Software Engineering",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "school": {
+                "name": "University of Amsterdam",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQEfHBj_we-_kw/company-logo_400_400/0/1659945104460?e=1703721600&v=beta&t=nxt14hUDODg3MttkNj5Qa0fCu2FbgGbRXyFSapRtNv4",
+                "url": "https://www.linkedin.com/school/university-of-amsterdam/"
+            },
+            "degree_name": "Bachelor's degree",
+            "field_of_study": "Computer Science",
+            "grade": "8,11"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "school": {
+                "name": "ICT in de Woken",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "extracurricular highschool project",
+            "field_of_study": "Computer Science",
+            "grade": "Pass"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "school": {
+                "name": "Montessori Lyceum Flevoland",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "VWO",
+            "field_of_study": "Natuur en Techniek",
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "Compshare - Project Software Engineering (UvA)",
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "description": "With a team of 12 students we build Compshare. A platform where people can donate their computing power to scientists.\n\nI was the main lead of the project. So I made sure the backend and frontend worked together. Kept an eye on the general schedule and investigated features to determine if we wanted to implement them or that it was too much work.\n\nApart from that I also led the backend team consisting of 8 students. So in the first week I made sure everyone of the backend was up to speed and understood the coding paradigma's we were using. I also structured the project whenever the code reached a point that additional structure was needed. After the first week I was mainly busy making sure everyone was working in sync, meaning working code which integrates and preventing git merge conflicts, and solving all problems the others could not crack.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Quinten",
+                    "last_name": "Coltof",
+                    "name": null,
+                    "headline": "Software Engineer"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Peter",
+                    "last_name": "Veen",
+                    "name": null,
+                    "headline": "Student Informatica"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Mathijs",
+                    "last_name": "De Kremer",
+                    "name": null,
+                    "headline": "Student MSc Computer Security @ VUsec | Backend Developer @ Sentillia"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Erik",
+                    "last_name": "Buis",
+                    "name": null,
+                    "headline": "Student Master AI @ UvA"
+                }
+            ]
+        },
+        {
+            "title": "QRC-LVS",
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "description": "The student follow system(abbreviated LVS in dutch) of my school was quite dramatic. For example, students were failing because the teacher did not notice they were behind schedule by half a year. I wanted to improve by improving the student follow system.\n\nFirst I build web scrapers to extract my data from the site. Using that data I tried to make a better front end. However by adding just a little bit of extra information the system could be so much better. And thus I set out to build a completely new system. After a couple of rounds of talking to my teachers, fellow students and the board of my school I knew what the base requirements were. I then build a system which had all the required functionalities and offered it to the director of my school.  He loved it. But sadly he did not want to buy a program from a 16 year old...",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Quinten",
+                    "last_name": "Coltof",
+                    "name": null,
+                    "headline": "Software Engineer"
+                }
+            ]
+        }
+    ],
+    "publications": [],
+    "courses": [
+        {
+            "name": "Algoritmen en Complexiteit",
+            "number": "5062ALCO6Y"
+        },
+        {
+            "name": "Architectuur en Computerorganisatie",
+            "number": "5062ARCO6Y"
+        },
+        {
+            "name": "Automaten en Formele Talen",
+            "number": "5062AUFT6Y"
+        },
+        {
+            "name": "Besturingssystemen",
+            "number": "5062BEST6Y"
+        },
+        {
+            "name": "Datastructuren en Algoritmen voor KI/INF",
+            "number": "5082DAVK6Y"
+        },
+        {
+            "name": "Discrete Wiskunde en Logica",
+            "number": "5062DIWL6Y"
+        },
+        {
+            "name": "Distributed and Parallel Programming",
+            "number": "5062COPP6Y"
+        },
+        {
+            "name": "Inleiding Programmeren",
+            "number": "5062INPR6Y"
+        },
+        {
+            "name": "Introduction Computational Science",
+            "number": "5062INCS6Y"
+        },
+        {
+            "name": "Introduction to Computer Vision",
+            "number": "5082ITCV6Y"
+        },
+        {
+            "name": "Lineaire algebra KI/INF",
+            "number": "5082LIAL6Y"
+        },
+        {
+            "name": "Moderne Databases voor IN/IK",
+            "number": "5062MDVI6Y"
+        },
+        {
+            "name": "Multimedia",
+            "number": "5062MULT5Y"
+        },
+        {
+            "name": "Networks and Network Security",
+            "number": "5062NENS6Y"
+        },
+        {
+            "name": "Numerical Recipes Project",
+            "number": "5062NURP6Y"
+        },
+        {
+            "name": "Programmeertalen",
+            "number": "5062PROG6Y"
+        },
+        {
+            "name": "Project Software Engineering",
+            "number": "5062PRSE5Y"
+        },
+        {
+            "name": "Reflectie op de Digitale Samenleving",
+            "number": "5062RODS6Y"
+        },
+        {
+            "name": "Statistisch Redeneren",
+            "number": "5062STRE6Y"
+        },
+        {
+            "name": "Webtechnologie voor KI/INF",
+            "number": "5082WEBT6Y"
+        }
+    ],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 61867,
+                "name": "AMS-IX",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQF_lvY9UftkKg/company-logo_400_400/0/1519856783411?e=1703721600&v=beta&t=4cGDUqNDFdXBHyK145DAz177hLqh0-uzUkx0Z67nE2U",
+                "url": "https://www.linkedin.com/company/ams-ix/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2023
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amsterdam, North Holland, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2023
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "AMS-IX",
+                    "description": null,
+                    "title": "Software Engineer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 11769242,
+                "name": "Enreach",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQFjpiBU72XrgA/company-logo_400_400/0/1649788690646?e=1703721600&v=beta&t=-VtqTKFAy26wq2lwP5jzK5Fg3ti69LMMLIVdqyFbSTE",
+                "url": "https://www.linkedin.com/company/enreachgroup/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2023
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Almere, Flevoland, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2023
+                        }
+                    },
+                    "company": "Enreach",
+                    "description": null,
+                    "title": "DevOps Engineer",
+                    "employment_type": "Part-time"
+                },
+                {
+                    "location": "Almere, Flevoland, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2020
+                        },
+                        "end": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "Enreach",
+                    "description": null,
+                    "title": "Full Stack Developer",
+                    "employment_type": "Part-time"
+                },
+                {
+                    "location": "Almere, Flevoland, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2020
+                        },
+                        "end": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "Enreach",
+                    "description": "This function was mostly being a consultant during meetings, figuring out what non-technical people actually want and communicating what non-technical people want to the developers. So in this function I learned how to communicate. \nBefore this function I had one specific person who told me what to do. In this function I worked completely autonomously so people all over the company could suddenly ask something from me. This was really educational for me as well to learn how to handle that. Because of this I also learned how to \"move\" within a company.",
+                    "title": "Technical webmaster",
+                    "employment_type": "Part-time"
+                },
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2020
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2020
+                        }
+                    },
+                    "company": "Enreach",
+                    "description": null,
+                    "title": "Frontend Web Developer",
+                    "employment_type": "Part-time"
+                },
+                {
+                    "location": "Almere, Flevoland, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2020
+                        }
+                    },
+                    "company": "Enreach",
+                    "description": "Making  specialized automated testing software for one of our products. We did this in a team of three. I was the lead developer of the team and got coaching while doing it.",
+                    "title": "Lead Developer",
+                    "employment_type": "Part-time"
+                },
+                {
+                    "location": "Almere, Flevoland, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "Enreach",
+                    "description": null,
+                    "title": "Proof of Concept Developer",
+                    "employment_type": "Part-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 4081,
+                "name": "University of Amsterdam",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQEfHBj_we-_kw/company-logo_400_400/0/1659945104460?e=1703721600&v=beta&t=nxt14hUDODg3MttkNj5Qa0fCu2FbgGbRXyFSapRtNv4",
+                "url": "https://www.linkedin.com/school/university-of-amsterdam/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2023
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amsterdam, North Holland, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2023
+                        }
+                    },
+                    "company": "University of Amsterdam",
+                    "description": "Building a companion website for the Thesis Fairs that are held at the University of Amsterdam (https://informatics.amsterdam/). Most of the backend was made as part of my thesis (graded with a 9). After my thesis I finished up the backend, made a frontend in React.js, added real time monitoring and allerting, added integration with Datanose to receive all needed data and finished up writing the documentation.\n\nThe Thesis Fair Platform was successfully used to facilitate all thesis fairs in the year 2022 with only one problem that I fixed within 30 minutes during the first event.\n\nAll code is open source and can be found here: https://github.com/quinten1333/bachalor-thesis/tree/main\nThe which is being developed further can be found here: https://github.com/UvA-FNWI/ThesisFair",
+                    "title": "Software Developer",
+                    "employment_type": "Contract"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 18155791,
+                "name": "Almeerse Scholen Groep",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQG1205i8MWgdQ/company-logo_400_400/0/1519863536070?e=1703721600&v=beta&t=SN5ZmmNOUwM7xTUyE9Zxqy7KZQ-USPbPgcK7BCs58ng",
+                "url": "https://www.linkedin.com/company/almeersescholengroep/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Almere",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "Almeerse Scholen Groep",
+                    "description": "I helped the students who were stuck and explained the technical topics. I thought the students PHP, SQL, Database Design and networking.",
+                    "title": "Teacher Assistent at ICT in de Wolken",
+                    "employment_type": "Contract"
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Software Infrastructure",
+        "Software Design",
+        "Technological Innovation",
+        "Requirements Engineering",
+        "Automated Software Testing",
+        "Cloud Applications",
+        "Software Quality Management",
+        "Microservices",
+        "Containerization",
+        "Kubernetes",
+        "Learn any non-functional programming language within a week",
+        "JavaScript",
+        "REST APIs",
+        "Programming",
+        "Object-Oriented Programming (OOP)",
+        "Relational Databases",
+        "React.js",
+        "Python",
+        "Linux",
+        "Docker"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

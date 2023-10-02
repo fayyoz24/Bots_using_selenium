@@ -1,0 +1,842 @@
+{
+    "profile_id": "singerjane",
+    "first_name": "Jane",
+    "last_name": "Singer",
+    "sub_title": "Project Coordinator Books @ Bohn Stafleu van Loghum (Springer Nature)",
+    "profile_picture": "https://media.licdn.com/dms/image/D4E03AQEgRK70uk7r4g/profile-displayphoto-shrink_800_800/0/1666872356943?e=1701302400&v=beta&t=IDhRIltXDgTpvtn0faA9gTAc8WKN0QKl7c-sM5tLUsQ",
+    "background_image": "https://media.licdn.com/dms/image/C4E16AQEQ4iQPQBTYfQ/profile-displaybackgroundimage-shrink_350_1400/0/1526739277757?e=1701302400&v=beta&t=WmtQOmWI5ugALnwrtlK8ZcEbxpT36JpWX6FwNypJN-A",
+    "profile_type": "personal",
+    "entity_urn": "ACoAACShZg0B4MCFGybdNLzsgffYmH7HnyJ3bn8",
+    "object_urn": 614557197,
+    "birth_date": null,
+    "summary": null,
+    "location": {
+        "country": "Netherlands",
+        "short": "Utrecht, Utrecht",
+        "city": "Utrecht",
+        "state": "Utrecht",
+        "default": "Utrecht, Utrecht, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "NL",
+            "language": "nl"
+        },
+        "supported_locales": [
+            {
+                "country": "NL",
+                "language": "nl"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "Dutch",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "English",
+                "proficiency": "FULL_PROFESSIONAL"
+            },
+            {
+                "name": "German",
+                "proficiency": "LIMITED_WORKING"
+            },
+            {
+                "name": "Hindi",
+                "proficiency": "LIMITED_WORKING"
+            }
+        ]
+    },
+    "industry": "Publishing",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "school": {
+                "name": "Leiden University",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQEFlK1wNecYbA/company-logo_400_400/0/1519855876129?e=1703721600&v=beta&t=D842EBczsDCzHDS7ZG70LkPNH6fNu0NutCEKkHyGGcQ",
+                "url": "https://www.linkedin.com/school/leiden-university/"
+            },
+            "degree_name": "Master of Arts - MA",
+            "field_of_study": "South Asian Studies",
+            "grade": "8"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "school": {
+                "name": "Utrecht University",
+                "logo": "https://media.licdn.com/dms/image/C510BAQG6HfmPTdJKXw/company-logo_400_400/0/1519884681258?e=1703721600&v=beta&t=dip0JQLPHIafltY09rUwsjeZiPiJpmfD6vJeMHxW-84",
+                "url": "https://www.linkedin.com/school/universiteit-utrecht/"
+            },
+            "degree_name": "Master's degree Literary Studies",
+            "field_of_study": "Literature Today",
+            "grade": "8"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "school": {
+                "name": "Utrecht University",
+                "logo": "https://media.licdn.com/dms/image/C510BAQG6HfmPTdJKXw/company-logo_400_400/0/1519884681258?e=1703721600&v=beta&t=dip0JQLPHIafltY09rUwsjeZiPiJpmfD6vJeMHxW-84",
+                "url": "https://www.linkedin.com/school/universiteit-utrecht/"
+            },
+            "degree_name": "Bachelor of Arts - BA",
+            "field_of_study": "English Language and Culture / Engelse Taal en Cultuur",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "school": {
+                "name": "Leiden University",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQEFlK1wNecYbA/company-logo_400_400/0/1519855876129?e=1703721600&v=beta&t=D842EBczsDCzHDS7ZG70LkPNH6fNu0NutCEKkHyGGcQ",
+                "url": "https://www.linkedin.com/school/leiden-university/"
+            },
+            "degree_name": "Minor",
+            "field_of_study": "Religion in a Changing World",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "school": {
+                "name": "OSG West-Friesland",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "VWO",
+            "field_of_study": "Natuur & Techniek en Natuur & Gezondheid",
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [
+        {
+            "name": "Cambridge English: Proficiency (CPE)",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Cambridge Assessment English",
+            "url": null,
+            "license_number": null,
+            "display_source": null,
+            "company": {
+                "id": null,
+                "name": "Cambridge University Press & Assessment English",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQF764moHT29Og/company-logo_400_400/0/1650876512808?e=1703721600&v=beta&t=80c7skobfhKLILQ3KmADgOlZ2L2CtWA8KylrAN66dm0",
+                "url": null
+            }
+        }
+    ],
+    "organizations": [],
+    "projects": [],
+    "publications": [
+        {
+            "name": "G is for Grief",
+            "publisher": "RevUU",
+            "url": "https://revuumagazine.com/2021/05/07/g-is-for-grief/",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2021
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Jane",
+                    "last_name": "Singer",
+                    "name": null,
+                    "headline": "Project Coordinator Books @ Bohn Stafleu van Loghum (Springer Nature)"
+                }
+            ]
+        },
+        {
+            "name": "Op zoek naar vervangende tekens voor rouw: Een recensie van Emma van Meyerens Ook ik ben stukgewaaid",
+            "publisher": "RevUU",
+            "url": "https://revuumagazine.com/2021/05/07/op-zoek-naar-vervangende-tekens-voor-rouw-een-recensie-van-emma-van%e2%80%afmeyerens-ook-ik-ben-stukgewaaid-essays-over-rouw/",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2021
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Jane",
+                    "last_name": "Singer",
+                    "name": null,
+                    "headline": "Project Coordinator Books @ Bohn Stafleu van Loghum (Springer Nature)"
+                }
+            ]
+        },
+        {
+            "name": "Blue",
+            "publisher": "Litro Magazine",
+            "url": "https://www.litromagazine.com/travelandlifestyle/blue-2/",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2017
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Jane",
+                    "last_name": "Singer",
+                    "name": null,
+                    "headline": "Project Coordinator Books @ Bohn Stafleu van Loghum (Springer Nature)"
+                }
+            ]
+        }
+    ],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 20416,
+                "name": "Bohn Stafleu van Loghum",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQHr4DNDv3zfdw/company-logo_400_400/0/1540295696770?e=1703721600&v=beta&t=Qg-M96wne9K5-qUfTywQnR06JNpzuuP7k8lfHE7lGx4",
+                "url": "https://www.linkedin.com/company/bohn-stafleu-van-loghum/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Houten, Utrecht, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Bohn Stafleu van Loghum",
+                    "description": "Coordinating the production and publication of Dutch language professional and educational books for Bohn Stafleu van Loghum (imprint of Springer Nature). I coach authors and work closely with publishers and editors. Together we produce high quality books that help improve Dutch healthcare.",
+                    "title": "Project Coordinator Books",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 5147313,
+                "name": "Amsterdam Publishers",
+                "logo": "https://media.licdn.com/dms/image/C560BAQF-Q5joowPL2Q/company-logo_400_400/0/1582148725672?e=1703721600&v=beta&t=YCOt0nuLoqutpjWqWU1smTJDMhTofyebK8K5cEoCqDU",
+                "url": "https://www.linkedin.com/company/amsterdampublishers/",
+                "employees": {
+                    "start": 2,
+                    "end": 10
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "Amsterdam Publishers",
+                    "description": "Amsterdam Publishers is the biggest international publisher of Holocaust memoirs in Europe.\nAs an editor, I spent most of my time editing manuscripts of historical novels. I also wrote book blurbs and marketing texts.",
+                    "title": "Editor",
+                    "employment_type": "Freelance"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 166740,
+                "name": "Utrecht University",
+                "logo": "https://media.licdn.com/dms/image/C510BAQG6HfmPTdJKXw/company-logo_400_400/0/1519884681258?e=1703721600&v=beta&t=dip0JQLPHIafltY09rUwsjeZiPiJpmfD6vJeMHxW-84",
+                "url": "https://www.linkedin.com/school/universiteit-utrecht/",
+                "employees": {
+                    "start": 5001,
+                    "end": 10000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Utrecht, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "Utrecht University",
+                    "description": "Writing news articles, features and book reviews in Dutch and English for the university's independent news platform DUB.\nTranslating my articles from Dutch to English, and English to Dutch.",
+                    "title": "Journalist",
+                    "employment_type": "Freelance"
+                },
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2020
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2021
+                        }
+                    },
+                    "company": "Utrecht University",
+                    "description": "Student assistant of the MA Literature Today\n- Managing editor of RevUU\n- Assessing student assignments\n- Mentor to new students\n- Organising events",
+                    "title": "Student Assistant",
+                    "employment_type": "Part-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 6077,
+                "name": "Leiden University",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQEFlK1wNecYbA/company-logo_400_400/0/1519855876129?e=1703721600&v=beta&t=D842EBczsDCzHDS7ZG70LkPNH6fNu0NutCEKkHyGGcQ",
+                "url": "https://www.linkedin.com/school/leiden-university/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "The Hague, South Holland, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "Leiden University",
+                    "description": "Hindi lecturer for the BA International Studies. \nLeiden Institute for Area Studies\nSAS India en Tibet",
+                    "title": "Education and Research Officer",
+                    "employment_type": "Part-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 3853193,
+                "name": "Uitgeverij Prometheus B.V.",
+                "logo": null,
+                "url": "https://www.linkedin.com/company/uitgeverij-prometheus-b-v-/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amsterdam Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2020
+                        },
+                        "end": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2020
+                        }
+                    },
+                    "company": "Uitgeverij Prometheus B.V.",
+                    "description": "During my internship at Prometheus I supported the editorial department of Prometheus. My main responsibilities were:\n- Proofreading English and Dutch manuscripts. I often read manuscripts from American scouts that work for Prometheus. They would send us manuscripts, and I would read these and explain to the editors of Prometheus why they should or should not publish the book in question. \n- Editing Dutch or translated manuscripts. \n- Quality check manuscripts before publication.",
+                    "title": "Editorial Assistant",
+                    "employment_type": "Internship"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 3302869,
+                "name": "Boekwinkel Savannah Bay",
+                "logo": "https://media.licdn.com/dms/image/C510BAQGTTygQiRdbzw/company-logo_400_400/0/1519904754286?e=1703721600&v=beta&t=QWqejp_dRSrx7UIX4j0H3-UQgFzBXLhqpd1pNdpobac",
+                "url": "https://www.linkedin.com/company/boekwinkel-savannah-bay/",
+                "employees": {
+                    "start": 2,
+                    "end": 10
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Utrecht Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2020
+                        }
+                    },
+                    "company": "Boekwinkel Savannah Bay",
+                    "description": "Writing content for/managing the website.",
+                    "title": "Content Manager",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 7051,
+                "name": "Springer Nature",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQGO3yKeQ9pAKg/company-logo_400_400/0/1688455978273?e=1703721600&v=beta&t=NbYvDdgFANZwXXK5cP3fQ74dLkFaf_h46SeWbQQY5VQ",
+                "url": "https://www.linkedin.com/company/springernaturegroup/",
+                "employees": {
+                    "start": 5001,
+                    "end": 10000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Dordrecht",
+                    "date": {
+                        "start": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "Springer Nature Group",
+                    "description": "Production Editor/Project Coordinator for Scientific Reports. Scientific Reports is an online, open access journal from the publishers of Nature. \n\nResponsibilities:\n\u2022\tManage a portfolio of manuscripts from acceptance into production through to online publication.\n\u2022\tPerforming safety quality checks on manuscripts prior to publication to ensure they conform to Journal style guides and Springer policy.   \n\u2022\tWork closely with vendors and editorial to manage their performance to ensure articles are published in time and meet quality standards.\n\u2022\tProactively communicate with different stakeholders in and outside the company: Publishing, Authors/Editors, Springer departments (e.g. Quality Assurance, Process and Content Management, Metadata) and vendors.\n\u2022\tLiaise with marketing and communication teams in order to organise and manage article Press Releases.\n\u2022\tContribute to Production team recurrent meetings to identify inefficiencies, share knowledge and update team on on-going projects.",
+                    "title": "Production Editor / Project Coordinator",
+                    "employment_type": "Full-time"
+                },
+                {
+                    "location": "Chennai Area, India",
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "Springer Nature Group",
+                    "description": "I was selected for Springer Nature's Cross Cultural Internship programme after an assessment centre in Berlin. After selection I was sent to Chennai to work as a production editor and copy editor for Dutch books.\n\nResponsibilities as a Project Manager:\n- Managing the production of Dutch medical books published by Bohn Stafleu van Loghum (part of Springer Nature).\n- Production-related communication and follow-up with Dutch customers.\n- Supporting the production team in coordinating and documenting Dutch projects.\n\nResponsibilities as a Copy Editor: \n- Proofreading and checking scientific manuscripts on spelling and language.\n- Technical editing of manuscripts using Swift, XML and Microsoft Office tools.\n- Quality control of manuscripts in the final stages of production (including artwork).\n- Checking the layout and style of documents according to specifications.\n\nOther responsibilities:\n- Dutch language expert and key contact for Indian colleagues.\n- Providing Dutch to English and English to Dutch translations.\n- Conducting a Dutch language training programme for Indian colleagues.\n- Enhancing cross-cultural understanding and Indo-Dutch cooperation.",
+                    "title": "Production Editor / Project Coordinator & Copy Editor",
+                    "employment_type": "Internship"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "OSG West-Friesland",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Hoorn",
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "day": null,
+                            "year": 2013
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": 2014
+                        }
+                    },
+                    "company": "OSG West-Friesland",
+                    "description": null,
+                    "title": "English Tutor",
+                    "employment_type": null
+                },
+                {
+                    "location": "Hoorn",
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "day": null,
+                            "year": 2012
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": 2013
+                        }
+                    },
+                    "company": "OSG West-Friesland",
+                    "description": null,
+                    "title": "Math Tutor",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "role": "President of the Event Committee",
+            "company": {
+                "id": null,
+                "name": "Albion Utrecht",
+                "logo": "https://media.licdn.com/dms/image/C560BAQHjNQMM_WA99A/company-logo_400_400/0/1519864898890?e=1703721600&v=beta&t=G-n40ytualxULpxtwQcG6rfhNT0gyliGIxmpW23ehqM",
+                "url": "https://www.linkedin.com/company/albion-utrecht/"
+            },
+            "cause": null,
+            "description": "Responsible for the coordination of the committee and its members, organising and leading meetings, organising events, and writing promotional texts for social media. "
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "role": "International Student Mentor",
+            "company": {
+                "id": null,
+                "name": "Erasmus Student Network The Netherlands",
+                "logo": "https://media.licdn.com/dms/image/C560BAQH8Awwle4VtCA/company-logo_400_400/0/1625433618720?e=1703721600&v=beta&t=wLJFjTjguOHA8Az-Qag6JeIGNHZ9G9HRNOCfZTOWvnI",
+                "url": "https://www.linkedin.com/company/erasmus-student-network-the-netherlands/"
+            },
+            "cause": null,
+            "description": "Responsible for a group of ten international students. My job was to introduce them to the city of Utrecht and boost their social life. I was the first person for them to go to if they had a problem, any problem at all. I taught them about Dutch culture and ended up learning much about their cultures myself. During my time as a mentor I developed skills as intercultural competencies, sociability and problem solving."
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "role": "Programmer and Stage Manager",
+            "company": {
+                "id": null,
+                "name": "Ragstock Indoor Festival",
+                "logo": null,
+                "url": null
+            },
+            "cause": null,
+            "description": "Responsible for the programme of the festival, the communication with the artists and their management, and the backstage area. Succeeded in putting together a great programme (including Yung Internet) on a \u20ac0,- budget. This experience allowed me tow grow skills like negotiation, communication and management."
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "role": "Event Production",
+            "company": {
+                "id": null,
+                "name": "Let's Go",
+                "logo": null,
+                "url": null
+            },
+            "cause": null,
+            "description": "Organising the event and responsible for the communication between the humanities faculty and my study association. "
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "role": "Secretary of the Night of the Professors Committee",
+            "company": {
+                "id": null,
+                "name": "VIDIUS studentenunie",
+                "logo": "https://media.licdn.com/dms/image/C560BAQEebAshUQxhdg/company-logo_400_400/0/1519896603828?e=1703721600&v=beta&t=eGFm6YoyDqAFM9nra6wdU68DB00cUu6X43-JWlQHYuU",
+                "url": "https://www.linkedin.com/company/vidius-studentenunie/"
+            },
+            "cause": "EDUCATION",
+            "description": "Secretary of the Night of the Professors committee (Nacht van de Professoren). This is an event that is used to promote the engagement of students in Utrecht University\u2019s governance system. Responsible for the communication. "
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2008
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "role": "Event Staff and Animal Care Associate",
+            "company": {
+                "id": null,
+                "name": "MAK Blokweer",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQEYIDbz2aH3yg/company-logo_400_400/0/1519892718462?e=1703721600&v=beta&t=CnO6zpI-Jqr9pHHvcGecEK7kus5o-gGEx3xoTJ9--Nk",
+                "url": "https://www.linkedin.com/company/mak-blokweer/"
+            },
+            "cause": null,
+            "description": null
+        }
+    ],
+    "skills": [
+        "Manuscript",
+        "Manuscript Editing",
+        "Fiction",
+        "Text Editing",
+        "Reporting",
+        "Academic Publishing",
+        "Digital Publishing",
+        "WordPress",
+        "Research",
+        "Intercultural Skills",
+        "Journalism",
+        "Copy Editing",
+        "Translation",
+        "Event Production",
+        "Social Media",
+        "Programming",
+        "Publishing",
+        "Creative Writing",
+        "Microsoft Office",
+        "SPSS"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

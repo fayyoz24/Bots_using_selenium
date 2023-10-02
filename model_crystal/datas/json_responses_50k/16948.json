@@ -1,0 +1,641 @@
+{
+    "profile_id": "tcorremans",
+    "first_name": "Thomas",
+    "last_name": "Corremans",
+    "sub_title": "Unity 3D Developer",
+    "profile_picture": null,
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAAA4tdYEB4czTvEBTT_ug3huW6pMjBds8zDw",
+    "object_urn": 237860225,
+    "birth_date": null,
+    "summary": "I am a C++/C# programmer with knowledge of web development. My main focus is on gameplay and tool programming, and I am interested in working even more in the field of Artificial Intelligence for games. I am good at working towards and achieving deadlines. I am also eager to learn new things, for example other programming languages. I am not a hardcore gamer but as a person with a healthy dose of hours in playing games I can relate to how the limitations can change the end product as well.",
+    "location": {
+        "country": "Netherlands",
+        "short": "Eindhoven, North Brabant",
+        "city": "Eindhoven",
+        "state": "North Brabant",
+        "default": "Eindhoven, North Brabant, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "Dutch",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "English",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "French",
+                "proficiency": "LIMITED_WORKING"
+            },
+            {
+                "name": "German",
+                "proficiency": "LIMITED_WORKING"
+            }
+        ]
+    },
+    "industry": "Computer Games",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "school": {
+                "name": "HOWEST Hogeschool West-Vlaanderen",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQGinMKemA2OeQ/company-logo_400_400/0/1623052418629?e=1703721600&v=beta&t=O2G6MXQwxtsHEGi8MC5sOR6371zOK3x15JnkVaDcpFY",
+                "url": "https://www.linkedin.com/school/howest-hogeschool-west-vlaanderen/"
+            },
+            "degree_name": "Multimedia and Communication Technology (post-graduate)",
+            "field_of_study": "Digital Creative Projects",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "school": {
+                "name": "NHTV internationaal hoger onderwijs Breda",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "Master of Science in Game Technology",
+            "field_of_study": "Game Technology",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "school": {
+                "name": "Hogeschool West-Vlaanderen",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "Bachelor of Multimedia and Communication Technology (Digital Arts and Entertainment)",
+            "field_of_study": "Applied Engineering and Technology",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2009
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2011
+                }
+            },
+            "school": {
+                "name": "KTA Wollemarkt Mechelen",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": null,
+            "field_of_study": "Informatics",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2006
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2009
+                }
+            },
+            "school": {
+                "name": "Koninklijk Atheneum Zaventem",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": null,
+            "field_of_study": null,
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "Project Keeper",
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "description": "Recreating the game \"Dungeon Keeper 2\" in C++ with DirectX",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Thomas",
+                    "last_name": "Corremans",
+                    "name": null,
+                    "headline": "Unity 3D Developer"
+                }
+            ]
+        },
+        {
+            "title": "Project Spirits",
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "description": "Hexagonal Real Time Stategy indie game created with Xna.\nYou are a God that rules over old Japan and you have to protect the villages that have faith in you. But your enemy tries to take over the world by infecting all the regions",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Thomas",
+                    "last_name": "Corremans",
+                    "name": null,
+                    "headline": "Unity 3D Developer"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Pieterjan",
+                    "last_name": "Jonckheere",
+                    "name": null,
+                    "headline": "Interne B2B Sales Medewerker @ Alfa solutions"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Jessie",
+                    "last_name": "van Aelst",
+                    "name": null,
+                    "headline": "Senior 3D Environment Artist working on Hello Kitty Island Adventure at Sunblink"
+                }
+            ]
+        },
+        {
+            "title": "Bedrijvenweek 2013",
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "description": "Bedrijvenweek 2013 or \"Company Week 2013\" is a major job event on the campus of the VUB (Free University of Brussels), which has the goal of connecting students to companies.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Thomas",
+                    "last_name": "Corremans",
+                    "name": null,
+                    "headline": "Unity 3D Developer"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Wesly",
+                    "last_name": "Jacobs",
+                    "name": null,
+                    "headline": "PrintPlace Co-Founder | Turning Your Ideas Into Reality"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Philippe",
+                    "last_name": "Eiselein, PhD",
+                    "name": null,
+                    "headline": "Senior Researcher at Odisee"
+                }
+            ]
+        },
+        {
+            "title": "Chained Reactions",
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "description": "A post apocalyptic puzzle game created with UDK.\nYou are a young man in a new civilization that worships the unknown technology that was created before the apocalypse. You have to prove yourself worthy of manhood by using Orbs, Jumppads and yourself to get through the puzzles and levels.\nScreens of the level & game: https://dl.dropboxusercontent.com/u/25012874/ChainedReactions.rar",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Thomas",
+                    "last_name": "Corremans",
+                    "name": null,
+                    "headline": "Unity 3D Developer"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Baptiste Deboutte",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Dalia Gonz\u00e1les Lezcano",
+                    "headline": null
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Stan",
+                    "last_name": "Loiseaux",
+                    "name": null,
+                    "headline": "Co-Founder at Pajama Llama Games"
+                }
+            ]
+        },
+        {
+            "title": "Project Zombie",
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "description": "Recreate the arcade game \"Zombie Raid\" (1995) in C++",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Thomas",
+                    "last_name": "Corremans",
+                    "name": null,
+                    "headline": "Unity 3D Developer"
+                }
+            ]
+        },
+        {
+            "title": "Bedrijvenweek 2012",
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "description": "Bedrijvenweek 2012 or \"Company Week 2012\" is a major job event on the campus of the VUB (Free University of Brussels), which has the goal of connecting students to companies.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Thomas",
+                    "last_name": "Corremans",
+                    "name": null,
+                    "headline": "Unity 3D Developer"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Wesly",
+                    "last_name": "Jacobs",
+                    "name": null,
+                    "headline": "PrintPlace Co-Founder | Turning Your Ideas Into Reality"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Philippe",
+                    "last_name": "Eiselein, PhD",
+                    "name": null,
+                    "headline": "Senior Researcher at Odisee"
+                }
+            ]
+        }
+    ],
+    "publications": [],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 18079652,
+                "name": "ChimpWorks",
+                "logo": "https://media.licdn.com/dms/image/C560BAQFfwkyZ5rnoqg/company-logo_400_400/0/1612198086594?e=1703721600&v=beta&t=sc1TvhY_2GnxcLVdJ3OEpYunOjmL13MSYu75GyRQnW8",
+                "url": "https://www.linkedin.com/company/chimpworks/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "ChimpWorks",
+                    "description": null,
+                    "title": "Unity Developer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Bringme",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2016
+                        }
+                    },
+                    "company": "Bringme",
+                    "description": null,
+                    "title": "Software tester",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 297924,
+                "name": "CodeGlue",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQFb3LQvuiQGKw/company-logo_400_400/0/1519890549261?e=1703721600&v=beta&t=og9Mnk_9LQKyZl-QRNp_Tu8UofCypY0dLfbHvuqX7ck",
+                "url": "https://www.linkedin.com/company/codeglue/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Rotterdam",
+                    "date": {
+                        "start": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2014
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2014
+                        }
+                    },
+                    "company": "Codeglue",
+                    "description": null,
+                    "title": "Intern Programmer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Promeco VUB",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Brussels Area, Belgium",
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2011
+                        },
+                        "end": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2013
+                        }
+                    },
+                    "company": "Promeco VUB",
+                    "description": "manage all the server based projects\ncreate and upgrade the site\ndevelop a custom Content Management System",
+                    "title": "Web developer - Web designer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "To:Communication",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2011
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Mechelen",
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2011
+                        },
+                        "end": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2011
+                        }
+                    },
+                    "company": "To:Communication",
+                    "description": "data management for client\nweb development for client/company",
+                    "title": "Intern - Web developer",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "C++",
+        "English",
+        "C#",
+        "Unity3D",
+        "Gameplay",
+        "Unreal Engine 3",
+        "Video Games",
+        "Photoshop",
+        "PHP",
+        "MySQL",
+        "SQL",
+        "CSS",
+        "Java",
+        "Tortoise SVN",
+        "Perforce",
+        "Game Development",
+        "3D Studio Max",
+        "Programming",
+        "Game Design",
+        "Web Development"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

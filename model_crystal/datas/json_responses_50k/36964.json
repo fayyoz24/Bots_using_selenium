@@ -1,0 +1,601 @@
+{
+    "profile_id": "alexis-derumigny",
+    "first_name": "Alexis",
+    "last_name": "Derumigny",
+    "sub_title": "Assistant Professor of Statistics at Technische Universiteit Delft",
+    "profile_picture": null,
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAABUkJgUBgnA3pSlWbbkjZ9GEWO4qGBkVGB8",
+    "object_urn": 354690565,
+    "birth_date": null,
+    "summary": null,
+    "location": {
+        "country": "Netherlands",
+        "short": "Delft, South Holland",
+        "city": "Delft",
+        "state": "South Holland",
+        "default": "Delft, South Holland, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "FR",
+            "language": "fr"
+        },
+        "supported_locales": [
+            {
+                "country": "FR",
+                "language": "fr"
+            },
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "English",
+                "proficiency": "FULL_PROFESSIONAL"
+            },
+            {
+                "name": "French",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "German",
+                "proficiency": "LIMITED_WORKING"
+            }
+        ]
+    },
+    "industry": "Research",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "school": {
+                "name": "ENSAE ParisTech",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "Master of Science (M.Sc.)",
+            "field_of_study": "Statistics, Economics, Probability, Finance",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "school": {
+                "name": "Lyc\u00e9e Henri IV",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "Preparatory class for entrance to graduate schools (\"Grandes \u00c9coles\")",
+            "field_of_study": "Mathematics, Physics, Chemistry",
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [
+        {
+            "name": "TOEFL iBT 103/120",
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "ETS",
+            "url": null,
+            "license_number": null,
+            "display_source": null,
+            "company": null
+        }
+    ],
+    "organizations": [],
+    "projects": [],
+    "publications": [
+        {
+            "name": "On Kendall's regression",
+            "publisher": "Journal of Multivariate Analysis, 178, Elsevier",
+            "url": "https://doi.org/10.1016/j.jmva.2020.104610",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2020
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Alexis",
+                    "last_name": "Derumigny",
+                    "name": null,
+                    "headline": "Assistant Professor of Statistics at Technische Universiteit Delft"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Jean-David Fermanian",
+                    "headline": null
+                }
+            ]
+        },
+        {
+            "name": "On kernel-based estimation of conditional Kendall\u2019s tau: finite-distance bounds and asymptotic behavior",
+            "publisher": "Dependence Modeling, 7:292\u2013321, De Gruyter Open Access",
+            "url": "https://doi.org/10.1515/demo-2019-0016",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2019
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Alexis",
+                    "last_name": "Derumigny",
+                    "name": null,
+                    "headline": "Assistant Professor of Statistics at Technische Universiteit Delft"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Jean-David Fermanian",
+                    "headline": null
+                }
+            ]
+        },
+        {
+            "name": "A classification point-of-view about conditional Kendall\u2019s tau",
+            "publisher": "Computational Statistics and Data Analysis, 135:70-94, Elsevier",
+            "url": "https://doi.org/10.1016/j.csda.2019.01.013",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2019
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Alexis",
+                    "last_name": "Derumigny",
+                    "name": null,
+                    "headline": "Assistant Professor of Statistics at Technische Universiteit Delft"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Jean-David Fermanian",
+                    "headline": null
+                }
+            ]
+        },
+        {
+            "name": "Improved bounds for Square-root Lasso and Square-root Slope",
+            "publisher": "Electronic Journal of Statistics, 12:741-766",
+            "url": "https://doi.org/10.1214/18-EJS1410",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2018
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Alexis",
+                    "last_name": "Derumigny",
+                    "name": null,
+                    "headline": "Assistant Professor of Statistics at Technische Universiteit Delft"
+                }
+            ]
+        },
+        {
+            "name": "About tests of the \"simplifying\"\u200b assumption for conditional copulas",
+            "publisher": "Dependence Modeling, 5:154-197, De Gruyter Open Access",
+            "url": "https://doi.org/10.1515/demo-2017-0011",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2017
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Alexis",
+                    "last_name": "Derumigny",
+                    "name": null,
+                    "headline": "Assistant Professor of Statistics at Technische Universiteit Delft"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Jean-David Fermanian",
+                    "headline": null
+                }
+            ]
+        }
+    ],
+    "courses": [
+        {
+            "name": "Algorithms and Programming",
+            "number": null
+        },
+        {
+            "name": "Basic Topology",
+            "number": null
+        },
+        {
+            "name": "Computer Science",
+            "number": null
+        },
+        {
+            "name": "Convex Optimisation",
+            "number": null
+        },
+        {
+            "name": "Convex and Functional Analysis",
+            "number": null
+        },
+        {
+            "name": "Differential Calculus",
+            "number": null
+        },
+        {
+            "name": "Econometrics",
+            "number": null
+        },
+        {
+            "name": "Linear Algebra",
+            "number": null
+        },
+        {
+            "name": "Linear Time Series",
+            "number": null
+        },
+        {
+            "name": "Macroeconomics",
+            "number": null
+        },
+        {
+            "name": "Microeconomics",
+            "number": null
+        },
+        {
+            "name": "Numerical Analysis",
+            "number": null
+        },
+        {
+            "name": "Ordinary Differential Equations",
+            "number": null
+        },
+        {
+            "name": "Real and Complex Analysis",
+            "number": null
+        }
+    ],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 166529,
+                "name": "Technische Universiteit Delft",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQFwaGpwaod9mQ/company-logo_400_400/0/1670699851986?e=1703721600&v=beta&t=Aw4oLxoKsIJcblYDjxw9200FClnyhZu8DxzcfJRDFOs",
+                "url": "https://www.linkedin.com/school/tudelft/",
+                "employees": {
+                    "start": 5001,
+                    "end": 10000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Delft University of Technology",
+                    "description": "My website : https://alexisderumigny.wordpress.com/",
+                    "title": "Assistant Professor of Statistics",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 166686,
+                "name": "University of Twente",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQGlJy8j9vKdjA/company-logo_400_400/0/1533909472654?e=1703721600&v=beta&t=bKpiljO1A-RW4XDZMlQXM9J7YnPza1KG8jLvYitpPTI",
+                "url": "https://www.linkedin.com/school/university-of-twente/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Enschede, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2021
+                        }
+                    },
+                    "company": "University of Twente",
+                    "description": "My university webpage : https://people.utwente.nl/a.f.f.derumigny\nPreviously responsible for the DataScienceLab : https://www.utwente.nl/en/eemcs/datasciencelab/",
+                    "title": "Researcher",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "GENES - CREST",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Palaiseau",
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "GENES - CREST",
+                    "description": "My thesis: \"Some statistical results in high-dimensional dependence modeling\", available at\nhttps://pastel.archives-ouvertes.fr/tel-02144029/document\n\nYou can find the list of my publications on my webpage\nhttp://www.crest.fr/pagesperso.php?user=3465\n\nI was also a Teaching Assistant for the following courses at the ENSAE ParisTech\n- Mathematical Statistics I, 2018-2019\n- Probability Theory, C++, (Macroeconomic) Time Series, 2017-2019\n- Numerical Analysis, Financial Econometrics, 2016-2019\n- Analysis and Topology, Convex Optimization, 2016-2017",
+                    "title": "PhD Student",
+                    "employment_type": null
+                },
+                {
+                    "location": "Malakoff",
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2016
+                        }
+                    },
+                    "company": "CREST - ENSAE",
+                    "description": null,
+                    "title": "Graduate Research Intern",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 2407355,
+                "name": "Meteo Protect",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQGZo2FUumqLpA/company-logo_400_400/0/1554719456459?e=1703721600&v=beta&t=tNg3qGIKwdDA9zoot8za2krN_ZZGmmm_C19hPqsUU4Y",
+                "url": "https://www.linkedin.com/company/meteo-protect/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "R\u00e9gion de Paris, France",
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2016
+                        }
+                    },
+                    "company": "Meteo Protect",
+                    "description": null,
+                    "title": "Quantitative Analyst Intern",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 4249,
+                "name": "EDF",
+                "logo": "https://media.licdn.com/dms/image/C560BAQEUXtrGCgAHtg/company-logo_400_400/0/1519855919046?e=1703721600&v=beta&t=4xj3mYi-sPK0ByKOksoV-bJ3IpxHhKEGPO0u_nP4CdI",
+                "url": "https://www.linkedin.com/company/edf/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2014
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2014
+                        }
+                    },
+                    "company": "EDF",
+                    "description": "Setting up and analysis of financial data",
+                    "title": "Summer Intern",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [
+        {
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "role": "Mathematics teacher",
+            "company": {
+                "id": null,
+                "name": "Association Tremplin",
+                "logo": null,
+                "url": null
+            },
+            "cause": "EDUCATION",
+            "description": "I'm providing mathematics courses to students from modest background."
+        }
+    ],
+    "skills": [
+        "Applied Mathematics",
+        "Statistics",
+        "Econometrics",
+        "Programming",
+        "Mathematics",
+        "R",
+        "Python",
+        "Economics",
+        "C++",
+        "SAS",
+        "Microsoft Office",
+        "LaTeX",
+        "Programmation",
+        "Statistiques",
+        "Math\u00e9matiques"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

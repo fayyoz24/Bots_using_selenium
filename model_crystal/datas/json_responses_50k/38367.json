@@ -1,0 +1,789 @@
+{
+    "profile_id": "nkaroly",
+    "first_name": "K\u00e1roly",
+    "last_name": "Nagy",
+    "sub_title": "Database Specialist Automation Engineer",
+    "profile_picture": "https://media.licdn.com/dms/image/C4E03AQFXjteRXhxo9A/profile-displayphoto-shrink_800_800/0/1615231677001?e=1701302400&v=beta&t=KqYYMmck9rNmE6coGnYasDJ4WDaAiQPzEFQvBCaxdas",
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAAAagKdIBI3aJ-_IUy9ot75r-H17Sg6WG4E4",
+    "object_urn": 111159762,
+    "birth_date": null,
+    "summary": "I\u2019m an IT specialist with more than 10 years experience of leading development and operational teams. I successfully maintain a healthy balance between being technical and managing people. I\u2019m working with web based applications for more than 10 years now. I have substantial experience in high-available systems, automation, continuous integration, database and application performance tuning and resource management in very large scale. Applying Scrum methodology on our daily workflow.\n\nI enjoy sharing knowledge. I give regular trainings on MySQL and InnoDB. I participate on different meet-ups also as speaker. I\u2019m experienced and skilful public speaker and presenter. I never stop learning and developing myself.\n\nBooking.com, the world\u2019s number one accommodation site is a challenging environment to work in. With thousands of MySQL servers and over 11000 servers total it\u2019s essential to have good people, efficient teams and proper automation. I\u2019m now the team leader of the team responsible for the core infrastructure automation including provisioning, procurement, installation, server allocation and database automation. We\u2019re working with Python (Django), MySQL, Redis, Celery, Puppet and Linux. \n\nGreatest achievements:\n- MySQL scaling automation saved the company 9 months of full time employee working hours in last year so we could have focused on other business priorities\n- Procurement forecast automation based on capacity test results, trends and estimated growth\n- Zero touch provisioning which reduced time of physical servers being installed from days to 10 minutes\n\nTechnical specialties: MySQL, InnoDB, Database performance, Scalability, High availability, Automation, Full web stack: Database, application development (Python, Django, PHP, Symfony, jQuery), Nginx\n\nAs a leader: flexible communication style, coaching, delivering and organising trainings, team building, business focus, interviewing skills",
+    "location": {
+        "country": "Netherlands",
+        "short": "Almere, Flevoland",
+        "city": "Almere",
+        "state": "Flevoland",
+        "default": "Almere, Flevoland, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "Dutch",
+                "proficiency": "ELEMENTARY"
+            },
+            {
+                "name": "English",
+                "proficiency": "PROFESSIONAL_WORKING"
+            },
+            {
+                "name": "French",
+                "proficiency": "ELEMENTARY"
+            },
+            {
+                "name": "German",
+                "proficiency": "LIMITED_WORKING"
+            }
+        ]
+    },
+    "industry": "Information Technology & Services",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2002
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2009
+                }
+            },
+            "school": {
+                "name": "Budapest University of Technology and Economics",
+                "logo": "https://media.licdn.com/dms/image/C560BAQENxA8hGFerdA/company-logo_400_400/0/1519856169111?e=1703721600&v=beta&t=tURs0ozXZbDdOVhQMJ90CfijOgUqb55JJ98uhftsxx8",
+                "url": "https://www.linkedin.com/school/unibme-official/"
+            },
+            "degree_name": "MSc",
+            "field_of_study": "Computer Engineering It security spec.",
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "Project zero touch provisioning",
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "description": "We have automated our hardware registration and provisioning system by implementing zero touch recognition, configuring and installation which enabled us to be able to quickly scale our system like it would be a cloud system but with physical hardware. We have decreased server provisioning time from days to less than 10 minutes.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "K\u00e1roly",
+                    "last_name": "Nagy",
+                    "name": null,
+                    "headline": "Database Specialist Automation Engineer"
+                }
+            ]
+        },
+        {
+            "title": "Scalable backup solution for large scale MySQL databases",
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "description": "Responsible for fully redesign and replace our former backup system for MySQL with a more robust and scalable solution to backup 50+ TB/ week from more than 20 unique source to a central location. Making the backup system auditable and compliant. With this solution we have a 7 times faster backup procedure and the ability of immediate restoration.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "K\u00e1roly",
+                    "last_name": "Nagy",
+                    "name": null,
+                    "headline": "Database Specialist Automation Engineer"
+                }
+            ]
+        },
+        {
+            "title": "Database autocloning",
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "description": "Envisioned, designed and developed a database cloning system which can automatically provision and attach multiple slaves to different replication chains without any human interaction. With this solution we achieved to save 80+ hours of employee time every month to Booking.com.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "K\u00e1roly",
+                    "last_name": "Nagy",
+                    "name": null,
+                    "headline": "Database Specialist Automation Engineer"
+                }
+            ]
+        },
+        {
+            "title": "System optimization",
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "description": "Full system optimization. We achieved to build a stable, scalable and HA server environment. We managed to eliminate the regular slowdowns. We designed and launched a new deployment procedure with code quality check and automated test running. We built a new monitoring and alerting system which covers all of our services with great granularity.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "K\u00e1roly",
+                    "last_name": "Nagy",
+                    "name": null,
+                    "headline": "Database Specialist Automation Engineer"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Istv\u00e1n",
+                    "last_name": "Hidegkuti",
+                    "name": null,
+                    "headline": "Infrastructure and Devops Engineer"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Janos",
+                    "last_name": "Szenfner",
+                    "name": null,
+                    "headline": "Quality Management & IT Strategist | Transformation Specialist"
+                }
+            ]
+        },
+        {
+            "title": "IT OPS Consolidation and cost reduction",
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "description": "Strategic use of IT enables delivery of critical services to constituents in a better, faster, and cheaper manner than would otherwise be possible. \nAs business demand for IT continues to rise and budgets are reduced, IT consolidation and cost reduction has helped meet constituent needs.\nThe original team has been replaced to a senior and expert team. The team has been reorganized and worked closely with the SQA Team. The existing infrastucture has been architecturally altered. With this architectural change the reduced the cost of the infrastructure. IT Expenses reduced by using LTS based and opensource tools and Operation Systems. With this change the IT OPS has been reduced the licence costs. Renegotiated our telecom and infrastructure suppliers contracts to reach a more favorable contracts. The internal infrastructure has been reorganized into virtualization, so I was able to reduce the amount of the  servers, and the amount of the heat/cooling and power costs. The old IT Ops strategy has been re-worked based on the new human resources and the growth trends and factors",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "K\u00e1roly",
+                    "last_name": "Nagy",
+                    "name": null,
+                    "headline": "Database Specialist Automation Engineer"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Janos",
+                    "last_name": "Szenfner",
+                    "name": null,
+                    "headline": "Quality Management & IT Strategist | Transformation Specialist"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Istv\u00e1n",
+                    "last_name": "Hidegkuti",
+                    "name": null,
+                    "headline": "Infrastructure and Devops Engineer"
+                }
+            ]
+        },
+        {
+            "title": "Gigamad SEO",
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2009
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2010
+                }
+            },
+            "description": "I was the leader of the development and my main responsibility was to improve the number of visitors and their pages/visits statistics. With fully comprehensive search engine optimization, link building and UI redesign I achieve 400% growth in visits, 150% growth in pages/visits statistics and first page impressions in google searches for the most relevant keyword. ",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "K\u00e1roly",
+                    "last_name": "Nagy",
+                    "name": null,
+                    "headline": "Database Specialist Automation Engineer"
+                }
+            ]
+        },
+        {
+            "title": "ATR",
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2007
+                },
+                "end": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2009
+                }
+            },
+            "description": "This project's goal was to plan, implement and maintain a central business data processing service. It provides a SOAP interface for an electronic document managing system and for collecting data from clients. Complex statistical and automated procedure functions. Based on Red Hat, Oracle, Symfony",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "K\u00e1roly",
+                    "last_name": "Nagy",
+                    "name": null,
+                    "headline": "Database Specialist Automation Engineer"
+                }
+            ]
+        }
+    ],
+    "publications": [],
+    "courses": [
+        {
+            "name": "Intren Google AdWords seminar",
+            "number": null
+        },
+        {
+            "name": "Percona Training for MySQL 2012, Frankfurt",
+            "number": null
+        },
+        {
+            "name": "Puppetlabs - Puppet Master Training 2012, Amsterdam",
+            "number": null
+        },
+        {
+            "name": "Scrum seminar",
+            "number": null
+        },
+        {
+            "name": "Yahoo! Open Hack Europe 2011",
+            "number": null
+        }
+    ],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 64251,
+                "name": "MuleSoft",
+                "logo": "https://media.licdn.com/dms/image/C560BAQEleBubBy_9ww/company-logo_400_400/0/1591199296396?e=1703721600&v=beta&t=93bmFm67pna_YP3DjtVVRq2zTQUn-iX6kwXhQZxO76c",
+                "url": "https://www.linkedin.com/company/mulesoft/",
+                "employees": {
+                    "start": 5001,
+                    "end": 10000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Dublin, County Dublin, Ireland",
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "MuleSoft",
+                    "description": null,
+                    "title": "Principal Database Engineer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 76987811,
+                "name": "Facebook",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQHi-wrXiQcbxw/company-logo_400_400/0/1635988509026?e=1703721600&v=beta&t=Z-yQ9xQ5P8M_FDg5oEDOCB0njfawGAHslQwU2Pkwkkg",
+                "url": "https://www.linkedin.com/company/facebook/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Dublin, Ireland",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2021
+                        }
+                    },
+                    "company": "Facebook",
+                    "description": "Working on scaling, monitoring and automating operations on our software defined network stack. \n\nEstablished new observability principles and drove the project to create a more proactive monitoring.\n\nLeading the introduction of new platform with the involvement of over 50 people across 5 different teams.",
+                    "title": "Production Engineer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 3185,
+                "name": "Salesforce",
+                "logo": "https://media.licdn.com/dms/image/C560BAQHZ9xYomLW7zg/company-logo_400_400/0/1591198956689?e=1703721600&v=beta&t=_CZfq_h47dmEAibaWk4BiX-NRWPXOVNHbladkIWqOkU",
+                "url": "https://www.linkedin.com/company/salesforce/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Dublin, Ireland",
+                    "date": {
+                        "start": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "Salesforce",
+                    "description": "As Lead database engineer I was responsible for our long term database strategy, scalability and operability. I was the owner of the automation project and kept consulting software engineers on various performance optimisation questions. .\n\nAchievements:\n\n* I was helping designing and executing the AWS migration for the whole fleet\n* I implemented a backup solution which provided full site recovery in about a day\n* I led the migration to ProxySQL project synchronising with multiple teams in two different timezones that provided us impact-less failover and order of magnitudes better connection management\n* I turned our cumbersome infrastructure into a self-healing, fully automated system",
+                    "title": "Lead MySQL Engineer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 167251,
+                "name": "Dropbox",
+                "logo": "https://media.licdn.com/dms/image/C560BAQHjnNsmL5L2NA/company-logo_400_400/0/1654114493079?e=1703721600&v=beta&t=Fi2u0-GCkmFKmjcPdvlJRIQSIbLW73-njm1UE0b3rdo",
+                "url": "https://www.linkedin.com/company/dropbox/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "County Dublin, Ireland",
+                    "date": {
+                        "start": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2017
+                        }
+                    },
+                    "company": "Dropbox",
+                    "description": "Automating MySQL servers to operate on their own without human intervention to give us time to think about and solve the more challenging problems.",
+                    "title": "MySQL SRE",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 20992,
+                "name": "Backbase",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQFOmtTiVwZYvA/company-logo_400_400/0/1665989805683?e=1703721600&v=beta&t=X8HO_KxbmZnHDrqnlsMV_cv5Obm_soo-lHOMTRHRRNQ",
+                "url": "https://www.linkedin.com/company/backbase/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amsterdam",
+                    "date": {
+                        "start": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2016
+                        }
+                    },
+                    "company": "Backbase",
+                    "description": "I'm lead system engineer working in the continuous delivery to help grow the automation framework which is provisioning over 1000 server monthly on AWS and support the development team with the highest level of automation possible in their CD workflow.",
+                    "title": "Lead System Engineer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 11348,
+                "name": "Booking.com",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQEgzF5azm3fNA/company-logo_400_400/0/1628510256914?e=1703721600&v=beta&t=5eXz-OHEqUF-i5NTayhj4ycN9m2VUeV-Jyzwe5WhR9g",
+                "url": "https://www.linkedin.com/company/booking.com/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amsterdam",
+                    "date": {
+                        "start": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2012
+                        },
+                        "end": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2016
+                        }
+                    },
+                    "company": "Booking.com",
+                    "description": "As the team leader of the development team in the production area my responsibility is to grow the team members, have discussions with product owners, make plans for future development in our provisioning and automation system and share that vision with the team members and guide and coach them to reach those goals. \n\nWe\u2019re developing a central information store about services and asset management system in Django using MySQL, Celery, Redis. The system which is responsible for DHCP, DNS management, monitoring configuration, partial database grants etc is designed for applications to be able to connect to it with public APIs therefore making a pluggable and modular setup possible. I\u2019m also responsible for automation of database operation.\n\nBefore I became the team lead for production automation I led the DBA team responsible for designing and developing a Django based automation framework for database maintenance tasks such as autobuild, upgrade/downgrade procedures, replication management, database loadbalancing, backup/restore system to make sure that one of the world\u2019s largest MySQL installation (with 3000+ database servers) runs smoothly.",
+                    "title": "DBA Team Leader / System Engineer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 742349,
+                "name": "Arkon Zrt.",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQFiR3CsLJkAqA/company-logo_400_400/0/1673510212561?e=1703721600&v=beta&t=0dabDyGIjOzoB0WdH-n2jiViZUjiQR9lpodYrvZGXk0",
+                "url": "https://www.linkedin.com/company/ingatlancom/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2010
+                },
+                "end": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Budapest",
+                    "date": {
+                        "start": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2010
+                        },
+                        "end": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2012
+                        }
+                    },
+                    "company": "ingatlan.com Zrt",
+                    "description": "Managing operations and design new operation processes.\nIT strategy, long-term planning and budgeting.\nMaintain and develop Continuous Integration tools, ensuring policies and procedures.\n\nOptimize and maintain complex linux system\nComprehensive database profiling (MySQL, Percona, MMM architecture)\nShell and python scripting\nMongoDB, Memcache, PHP, Apache, Nginx",
+                    "title": "System Engineer / IT Operations Leader",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "TENKAI Communications Kft",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2010
+                },
+                "end": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2010
+                        },
+                        "end": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2012
+                        }
+                    },
+                    "company": "TENKAI Communications Kft",
+                    "description": "Owner, business and strategy planning, AdWords campaing management, SEO, consulting.",
+                    "title": "Co Founder",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "GigaMad kft.",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2009
+                },
+                "end": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2010
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2009
+                        },
+                        "end": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2010
+                        }
+                    },
+                    "company": "GigaMad kft.",
+                    "description": "SEO, software ergonomics, software architect, strategic planning, web site traffic growth.",
+                    "title": "Developer in Lead",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 17924506,
+                "name": "Webtown",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQFLqz7wCr7XBg/company-logo_400_400/0/1648756680148?e=1703721600&v=beta&t=Uvq-cl9vd3NiiAXZxNH9qHc3vuCvs6VDZowltQy52MM",
+                "url": "https://www.linkedin.com/company/webtown/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2005
+                },
+                "end": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2009
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Budapest, Hungary",
+                    "date": {
+                        "start": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2005
+                        },
+                        "end": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2009
+                        }
+                    },
+                    "company": "Webtown",
+                    "description": "Consulting, planning in UML, writing specifications for clients and developers, controlling and helping junior developers work, resource management, Oracle, sql and website security, knowledge management. Developed various e-commerce and CRM systems in PHP, Symfony.",
+                    "title": "Development Team Lead",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Terraform",
+        "Networking",
+        "Software Defined Networking",
+        "Amazon Web Services (AWS)",
+        "Kubernetes",
+        "Amazon Relational Database Service (RDS)",
+        "MySQL",
+        "Linux",
+        "Apache",
+        "Scrum",
+        "Web Development",
+        "Perl",
+        "Python",
+        "PHP",
+        "Databases",
+        "jQuery",
+        "Nginx",
+        "Shell Scripting",
+        "Agile Methodologies",
+        "SQL Tuning"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

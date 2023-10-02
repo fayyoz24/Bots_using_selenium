@@ -1,0 +1,599 @@
+{
+    "profile_id": "melcom",
+    "first_name": "Melcom",
+    "last_name": "van Eeden",
+    "sub_title": "Senior Integration Engineer at StackState",
+    "profile_picture": "https://media.licdn.com/dms/image/D4E03AQE43Enz089nOA/profile-displayphoto-shrink_800_800/0/1678799314127?e=1701302400&v=beta&t=y72Bc9pi6Lo4Ngp5QaXcdlHoBnA6HWxTwAtHKgjfNH4",
+    "background_image": "https://media.licdn.com/dms/image/D4E16AQG2bLCLlxrW9A/profile-displaybackgroundimage-shrink_350_1400/0/1678529508792?e=1701302400&v=beta&t=RpKRQBQMiMKxDIsOcuBK5LifyKUVLwMx0JZBgW96TNE",
+    "profile_type": "personal",
+    "entity_urn": "ACoAABB-zIwB8JYSv8YS-RDVHzFpwdxMmsgIBe8",
+    "object_urn": 276745356,
+    "birth_date": null,
+    "summary": "My one true passion has been, is, and will always be programming. I've started playing around with code at a young age. I've always strived to learn more and become flexible enough at coding to create a unique, reusable, and generic paradigm within the language I'm actively using. My latest journey and challenge is to learn as much as I can about architectural designs, implementations, and integrations and implement pure, cost-effective, and reusable architectural designs on the AWS Stack.",
+    "location": {
+        "country": "Netherlands",
+        "short": "Maarssen, Utrecht",
+        "city": "Maarssen",
+        "state": "Utrecht",
+        "default": "Maarssen, Utrecht, Netherlands"
+    },
+    "premium": true,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "Afrikaans",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "English",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ]
+    },
+    "industry": "Computer Software",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "school": {
+                "name": "STADIO Higher Education",
+                "logo": "https://media.licdn.com/dms/image/D4D0BAQGoPdRSwbtsPw/company-logo_400_400/0/1689852378536?e=1703721600&v=beta&t=_hZCmBtM-j3vMhuYrgOsKrx3_f5tEv7bODD4giM8Ghk",
+                "url": "https://www.linkedin.com/school/stadio-highereducation/"
+            },
+            "degree_name": "Diploma of Education",
+            "field_of_study": "Information Technology",
+            "grade": "NQF 6"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2007
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2011
+                }
+            },
+            "school": {
+                "name": "Tygerberg Highschool",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "High School Diploma",
+            "field_of_study": null,
+            "grade": "12"
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [
+        {
+            "name": "Modern React with Redux [2020 Update]",
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Udemy",
+            "url": "https://udemy-certificate.s3.amazonaws.com/image/UC-968f9791-7517-4e60-b08a-d9eeae34f822.jpg?v=1589190810000",
+            "license_number": null,
+            "display_source": "udemy-certificate.s3.amazonaws.com",
+            "company": {
+                "id": null,
+                "name": "Udemy",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQFQr9e68bBOPQ/company-logo_400_400/0/1626275253364?e=1703721600&v=beta&t=ImIOnB0R3ZxB44ruUbPVZgJ8M1kohd7s7pDEh8ytIkA",
+                "url": null
+            }
+        },
+        {
+            "name": "Front-End Web Development with React",
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Coursera",
+            "url": "https://www.coursera.org/account/accomplishments/verify/UCUATGM9JD2W",
+            "license_number": "UCUATGM9JD2W",
+            "display_source": "coursera.org",
+            "company": {
+                "id": null,
+                "name": "Coursera",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQGexnfBxeEG-g/company-logo_400_400/0/1608039227697?e=1703721600&v=beta&t=D0JCWIFRDe_tPD5hdUkJFaYhM7LSoOyZQ1nVMg-nUzo",
+                "url": null
+            }
+        },
+        {
+            "name": "Functional Programming Principles in Scala",
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Coursera Course Certificates",
+            "url": "https://www.coursera.org/account/accomplishments/verify/RUJGMPLUFGBH",
+            "license_number": "RUJGMPLUFGBH",
+            "display_source": "coursera.org",
+            "company": {
+                "id": null,
+                "name": "Coursera Course Certificates",
+                "logo": "https://media.licdn.com/dms/image/C560BAQG24u4DKpQ5dQ/company-logo_400_400/0/1519872880167?e=1703721600&v=beta&t=8vKeASx7tVQjpnz7ufoMukQR2V0rjw_xIJcw_BnIuUw",
+                "url": null
+            }
+        },
+        {
+            "name": "HTML, CSS, and Javascript for Web Developers",
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Coursera Course Certificates",
+            "url": "https://www.coursera.org/account/accomplishments/verify/VQE5L3A4C9HS",
+            "license_number": "VQE5L3A4C9HS",
+            "display_source": "coursera.org",
+            "company": {
+                "id": null,
+                "name": "Coursera Course Certificates",
+                "logo": "https://media.licdn.com/dms/image/C560BAQG24u4DKpQ5dQ/company-logo_400_400/0/1519872880167?e=1703721600&v=beta&t=8vKeASx7tVQjpnz7ufoMukQR2V0rjw_xIJcw_BnIuUw",
+                "url": null
+            }
+        },
+        {
+            "name": "Parallel programming",
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Coursera Course Certificates",
+            "url": "https://www.coursera.org/account/accomplishments/verify/TFQKLTVFJ9BA",
+            "license_number": "TFQKLTVFJ9BA",
+            "display_source": "coursera.org",
+            "company": {
+                "id": null,
+                "name": "Coursera Course Certificates",
+                "logo": "https://media.licdn.com/dms/image/C560BAQG24u4DKpQ5dQ/company-logo_400_400/0/1519872880167?e=1703721600&v=beta&t=8vKeASx7tVQjpnz7ufoMukQR2V0rjw_xIJcw_BnIuUw",
+                "url": null
+            }
+        },
+        {
+            "name": "Functional Program Design in Scala",
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Coursera Course Certificates",
+            "url": "https://www.coursera.org/account/accomplishments/verify/3LCHGXJ49B5F",
+            "license_number": "3LCHGXJ49B5F",
+            "display_source": "coursera.org",
+            "company": {
+                "id": null,
+                "name": "Coursera Course Certificates",
+                "logo": "https://media.licdn.com/dms/image/C560BAQG24u4DKpQ5dQ/company-logo_400_400/0/1519872880167?e=1703721600&v=beta&t=8vKeASx7tVQjpnz7ufoMukQR2V0rjw_xIJcw_BnIuUw",
+                "url": null
+            }
+        },
+        {
+            "name": "AWS Certified Cloud Practitioner",
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "authority": "Amazon Web Services (AWS)",
+            "url": "https://aw.certmetrics.com/amazon/public/verification.aspx",
+            "license_number": "FZ8MDXTCEER11CGF",
+            "display_source": "certmetrics.com",
+            "company": {
+                "id": null,
+                "name": "Amazon Web Services (AWS)",
+                "logo": "https://media.licdn.com/dms/image/C560BAQER_QnUTXrPJw/company-logo_400_400/0/1670264050886?e=1703721600&v=beta&t=3IYmCjBx7-RbiHOyhmKp9bX_etnAR2mcOn2MncQL5u0",
+                "url": null
+            }
+        },
+        {
+            "name": "AWS Certified Solutions Architect - Associate",
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "authority": "Amazon Web Services (AWS)",
+            "url": "https://aw.certmetrics.com/amazon/public/verification.aspx",
+            "license_number": "Q7LKYS62L2RQ1WK8",
+            "display_source": "certmetrics.com",
+            "company": {
+                "id": null,
+                "name": "Amazon Web Services (AWS)",
+                "logo": "https://media.licdn.com/dms/image/C560BAQER_QnUTXrPJw/company-logo_400_400/0/1670264050886?e=1703721600&v=beta&t=3IYmCjBx7-RbiHOyhmKp9bX_etnAR2mcOn2MncQL5u0",
+                "url": null
+            }
+        }
+    ],
+    "organizations": [],
+    "projects": [],
+    "publications": [],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 2317,
+                "name": "PostNL",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQHPVtiTnqn0eQ/company-logo_400_400/0/1692877314572?e=1703721600&v=beta&t=ve8xadFH9--mSSWSOPSqEgqossHdxfBseXGJcA5_6lA",
+                "url": "https://www.linkedin.com/company/postnl/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2023
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2023
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "PostNL",
+                    "description": "Will complete this in the near future, Leaving it with Hello World for now ;) ...\n\nHello World",
+                    "title": "Senior Solution Software Engineer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 9385243,
+                "name": "StackState",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQHdYb2WqQCxlw/company-logo_400_400/0/1656670431073?e=1703721600&v=beta&t=rz1IqwYxI67_nAqOQu8577ovDgT_ZXtNOLoHNXYEpoE",
+                "url": "https://www.linkedin.com/company/stackstate/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2023
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2020
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2023
+                        }
+                    },
+                    "company": "StackState",
+                    "description": "I'm a part of the integrations team. My job is to maintain, upgrade, support, and add new integrations to assist the application in monitoring Topologies and Telemetries.\n\nThese can range from anything their clients request, for example, bare-metal machines (Using their standalone agent), AWS, Azure, Kubernetes, Virtual Environments, Splunk, DynaTrace, and so forth.\n\nWe use Topologies, Telemetries, and Anomalies to identify the root cause of problems within your system and assist you in finding and fixing them. The agent integrated into these integrations (Which I'm also working on) needs to be able to collect, aggregate, batch, and submit the data to determine root causes.\n\nLanguages: Golang, Python 2 & 3, Nodejs, Javascript, C#, etc.\nIntegrations: Kubernetes, Azure, AWS, ServiceNow, etc.\nTesting: Python, Go, Molecule & Ansible, etc.",
+                    "title": "Senior Integration Engineer at StackState",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 5156237,
+                "name": "Swipe iX",
+                "logo": "https://media.licdn.com/dms/image/C560BAQEalTAicdnp_w/company-logo_400_400/0/1519721826244?e=1703721600&v=beta&t=VrEJByA-juStS5E1FoKtH2hPaMozC8LV77jJ1tUAHZc",
+                "url": "https://www.linkedin.com/company/swipe-ix/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Cape Town Area, South Africa",
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2017
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2020
+                        }
+                    },
+                    "company": "Swipe iX",
+                    "description": "Swipe IX has a passionate team of developers who combine a deep understanding of product development with extensive technical experience to create platforms upon which great ideas can flourish. They strive to improve themselves through hard work and constant studying.\n\nSecond & Third Year:\nI used the second & third years to explore new paths, study new material, and apply previous bare-metal experience into an innovative cloud sector.\nFrom creating architectures for front-end projects (Gulp). Backend projects (Lambda) and full architecture designs and implementations on the AWS Cloud Stack (Serverless). Up to date, I designed about 7 Serverless Architectural designs and implementations, created a new methodology called Micro-Architectures, and have worked on about 10 to 15 projects. The internal components for these architectures range from basic S3 and Lambda structures to more advanced Bots, Async Queue systems, and machine learning implementations.\n\nFirst Year:\nThis year was used to get an in-depth perspective on most of Swipe's products, Explore the coding patterns and restrictions used within these projects, Learning how each developer within the teams prefer to approach problems/solutions and to apply my coding parameters and experience on new projects to improve old, incorrect or deprecated standards and infrastructures. \n\nTeam:\nThe Swipe IX team is impressive. Up to date, I've worked with front-end developers, back-end developers, and an architecture developer. What I've learned is that the team is passionate about improving themselves, learn more, and improve their skills in not only their assigned departments but different departments all over Swipe. There were some bumps in the road with bad implementation, but that's the learning process, today I'm glad to say that we ironed those bumps out and the team synergy is more significant than ever.\n\nDuties: -- Limited Characters --",
+                    "title": "Senior Software Engineer and Cloud Architect",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 5324988,
+                "name": "Full Facing (Pty) Ltd",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQEzO3uzhoN07w/company-logo_400_400/0/1519910286602?e=1703721600&v=beta&t=rY4v4CP3weYSVAVFF_DZZBRjplbnKAix4RfsrKDMWgw",
+                "url": "https://www.linkedin.com/company/full-facing-pty-ltd/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Cape Town Area, South Africa",
+                    "date": {
+                        "start": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2017
+                        }
+                    },
+                    "company": "Full Facing (Pty) Ltd",
+                    "description": "Full Facing is a hardware and software development company their systems record and translates real-world metrics, providing a constant stream of real-time information. On top of that, they provide multi-platform software and mobile-based solutions for old and new web-based platforms. Full Facing's innovative database designs and microservices pushes the data-driven parallel, concurrent, and MQ data stream designs to its limits. Their systems do no only present data but present an elegant, insightful, and descriptive solution for the consumption by an average joe or/and geek. \n\nMy role at Full Facing was to maintain, develop, and design elegant solutions for front-end or back-end consumption by in-house and external developers/clients. I also developed and managed multiple projects intending to keep everything organized, neat and functional Full Facing provided improvement and knowledge in various language capabilities new and old, micro-services, various applications, scrums, business logic, and a functional mindset.\n\nDuties:\n\u2022    Managed and developed multiple big and small Mongo data sets\n\u2022    API development for internal and external utilization\n\u2022    Front-end & Back-end design, planning & development\n\u2022    Collaborated with cross-functional teams\n\u2022    Designed and implemented data storage solutions\n\u2022    Contributed creative ideas and insight for front end and back end designs\n\u2022    Developed unit tests\n\u2022    Drove new and innovative solutions to meet business needs\n\u2022    Helped to develop and maintain applications\n\u2022    Maintained and evolved in class back-end infrastructure\n\u2022    Solve complex problems\n\u2022    Worked closely with product managers, editorial, and business partners to understand software requirements\n\u2022    An estimated effort for architecture, design, and development tasks\n\u2022    Contributed and took part in scrum meeting discussions, Going through the weeks todos, and what has been completed.\n\u2022    Microservice management and creation process.",
+                    "title": "Software Developer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 14804448,
+                "name": "Internet Interactive Solutions",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQHM77lErpbT8g/company-logo_400_400/0/1558361673095?e=1703721600&v=beta&t=kya-tGaB6vZtkvKgYpgCnA6OdWYi4VYudJQ7M_dM3Ww",
+                "url": "https://www.linkedin.com/company/internetinteractive/",
+                "employees": {
+                    "start": 2,
+                    "end": 10
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Cape Town Area, South Africa",
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2014
+                        },
+                        "end": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2015
+                        }
+                    },
+                    "company": "Internet Interactive Solutions",
+                    "description": "Internet Interactive Solutions focuses on creating user-friendly, functional, elegant, and responsive web designs on both Windows and Linux based environments for everything from a small, medium to large corporate organizations. IIS provides hosting, design, and development for all your website needs, may it be mobile, website, catalog purchases, or just a plain profile page. They use an in-house framework to structure and spin up an elegant and advanced website in no time at all, ranging from catalogs, news, necessary, and advanced pages. My Role at IIS was to modify, improve, and design new and old web-based platforms in the front-end and back-end divisions. My back-end development focused on developing a new and modified version of the in house plugins IIS used to fit the clients' needs.\nOn the other hand, my front-end development focused on meeting the clients, discussing the designs they want to receive, then executing the steps provided by them to provide an elegant and responsive design. IIS provided improvement and knowledge, which has been my building blocks for an exciting future. This was achieved by pushing me to the limits, late nights and forcing me to learn a lot within a small time frame \n\nDuties:\n\u2022    Managed and Developed multiple big & small Microsoft Access & SQL data sets\n\u2022    API development for internal utilization\n\u2022    Maintained/upgraded & redesigned websites within windows based environment `IIS Manager.`\n\u2022    Front-end design, planning & development\n\u2022    Back-end design, planning & development\n\u2022    Management of three IIS Managers (Caching, Pooling, Routing, Bindings, and Hosting of numerous websites) [Virtual Environments]\n\u2022    Management and Implementation of SQL backups [Differential, Incremental & full backups]\n\u2022    Client meetings to discuss the look & feel [Post image development in Photoshop]\n\u2022    Maintained and updated content to live websites\n\u2022    Responsive design & SEO Implementation",
+                    "title": "Web Developer/Programmer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 5956223,
+                "name": "Contemporary Technologies",
+                "logo": null,
+                "url": "https://www.linkedin.com/company/contemporary-technologies/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Johannesburg Area, South Africa",
+                    "date": {
+                        "start": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2013
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2014
+                        }
+                    },
+                    "company": "Contemporary Technologies",
+                    "description": "Contemporary Technologies is a small company based in Johannesburg. They strive to provide elegant, functional, and responsive designs for small to medium organizations. They provide in-house hosting, design, and development stages to satisfy the clients' web development needs. My role at Contemporary Technologies was to focus on development; no client interaction solely. I designed new and innovative front-ends with a few complex back-ends. On most of my projects, my clients had no specifications, thus giving me freedom on creating exciting and innovative front-end designs. I also managed 2 other web developers allocating resources and managing the flow of our projects. Contemporary Technologies provided improvement and knowledge in how to delegate to complete projects at a fast but efficient pace. Providing me with the first feeling of fun late nights ;)\n\nDuties:\n\u2022    Managed and Developed multiple medium and small MySQL data sets\n\u2022    Delegating work efficiently to improve workflow all around\n\u2022    Maintained/upgraded & redesigned websites within a windows & Linux based environment\n\u2022    Front End design, planning & development\n\u2022    Back End design, planning & development\n\u2022    Designed a personalized look and feel for front-end designs\n\u2022    Design of advanced CMS (Content Management System)\n\u2022    Design and development of a dynamically updating content. (Content will update and appear per interval when multiple users work on a single page)",
+                    "title": "PHP Programmer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Cascading Style Sheets (CSS)",
+        "ASP.NET",
+        "SASS",
+        "Elasticsearch",
+        "TypeScript",
+        "Python (Programming Language)",
+        "OpenTelemtry",
+        "Kubernetes",
+        "Scala",
+        "React.js",
+        "Amazon Web Services (AWS)",
+        "Software Development",
+        "Object-Oriented Programming (OOP)",
+        "Machine Learning",
+        "Mobile Applications",
+        "JavaScript",
+        "PHP",
+        "jQuery",
+        "CSS",
+        "HTML"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

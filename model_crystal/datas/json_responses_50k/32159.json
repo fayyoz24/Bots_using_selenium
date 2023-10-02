@@ -1,0 +1,820 @@
+{
+    "profile_id": "isnagy",
+    "first_name": "Istvan",
+    "last_name": "Nagy",
+    "sub_title": "Technical Lead at Independer",
+    "profile_picture": null,
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAAAQgdXgBKWLFtkR6SJ0Eb2KomezlCYmJhkg",
+    "object_urn": 69236088,
+    "birth_date": null,
+    "summary": "Full-stack developer in a wide variety of business applications. Particularly interested in client/server and relational database design using MS-SQL Server. Always interested in migration projects, optimization and user experience.\n\nSpecialties: \nC#, ASP.Net MVC & WebAPI, WCF, JavaScript, TypeScript, AngularJS, Angular, HTML, MS SQL",
+    "location": {
+        "country": "Netherlands",
+        "short": "Hilversum, North Holland",
+        "city": "Hilversum",
+        "state": "North Holland",
+        "default": "Hilversum, North Holland, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "Dutch",
+                "proficiency": "LIMITED_WORKING"
+            },
+            {
+                "name": "English",
+                "proficiency": "PROFESSIONAL_WORKING"
+            },
+            {
+                "name": "Hungarian",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ]
+    },
+    "industry": "Financial Services",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2004
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2010
+                }
+            },
+            "school": {
+                "name": "University of Debrecen",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "Master's degree",
+            "field_of_study": " Computer Science and Mathematics",
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [
+        {
+            "title": "IT'S24H Winner",
+            "description": "It was an internal 24 hours innovation competition. There were 28 teams and ours won the 1st place with an internal adaptation of crowd-funding site (like Kickstarter, IndieGoGo).",
+            "issuer": "IT Services Hungary",
+            "date": {
+                "month": 4,
+                "day": null,
+                "year": 2014
+            }
+        },
+        {
+            "title": "Best Team of 2013",
+            "description": null,
+            "issuer": "IT Services Hungary",
+            "date": {
+                "month": 12,
+                "day": null,
+                "year": 2013
+            }
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Professional Scrum Master I",
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Scrum.org",
+            "url": "https://www.scrum.org/User-Profile/userId/151702",
+            "license_number": null,
+            "display_source": "scrum.org",
+            "company": {
+                "id": null,
+                "name": "Scrum.org",
+                "logo": "https://media.licdn.com/dms/image/C560BAQFzF6WZjNSHkQ/company-logo_400_400/0/1522074989702?e=1703721600&v=beta&t=-PRmXQFIlx8U4JWR-3B1NpWfKbSbQ6Zx6ONjdC6UVQs",
+                "url": null
+            }
+        }
+    ],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "Phonebook",
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "description": "Internal Web Application to serve all of the employees in the company.\n\n< Development methodology >\nAgile / Scrum\n\n< Project goals >\nProvide a solution for the replacement of the old Silverlight solution to ASP.Net MVC 5.\nTake care about the different devices (PC, Notebook, Tablet) and screen sizes\n\n< Functions >\n  - Search (with export capability)\n  - Details View\n  - Hierarchy View (with moving and export capability)\n  - Map View (with deep zoom technology)\n  - vCard export\n\n<  Implementation details  >\n  - Microsoft ASP.Net MVC 5 based web application, written in C#.\n  - Angular.js Single Page Application on client side, communicating with the server through Web API.\n  - Designed with the customization of the latest Bootstrap (v3.1.1) to deliver responsive design \n  - SeaDragon deep zoom library for our map\n  - Dependency Injection, IoC and Mocking framework to help our tests\n",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Istvan",
+                    "last_name": "Nagy",
+                    "name": null,
+                    "headline": "Technical Lead at Independer"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Csaba",
+                    "last_name": "Szab\u00f3",
+                    "name": null,
+                    "headline": "Software Development Manager at Oracle"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "G\u00e1bor",
+                    "last_name": "Kulcs\u00e1r",
+                    "name": null,
+                    "headline": "Research and Development Group Manager at Kontron Hungary"
+                }
+            ]
+        },
+        {
+            "title": "GDN CAPSS - Global Delivery Network Capacity Management System",
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "description": "Global Web Application for our Global Department\n\n< Development methodology >\nAgile / Scrum\n\n< Project goals >\nDevelop a web application to handle the free or partly free resources of our global department in many countries. Local manager can place a request for neccessary resource(s) and the other countries can propose candidates. Using this solution, our departments can easily share resources with each other.\n\n< Implementation details >\nMicrosoft MVC 4 and SQL Server 2008 R2 based web application, written in C#.\n\njQuery for improve User Experience.\n\nWe are using Entity Framework as ORM, Log4Net for logging and Stateless C# State Machine library to handle business rules.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Istvan",
+                    "last_name": "Nagy",
+                    "name": null,
+                    "headline": "Technical Lead at Independer"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Csaba",
+                    "last_name": "Szab\u00f3",
+                    "name": null,
+                    "headline": "Software Development Manager at Oracle"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "G\u00e1bor",
+                    "last_name": "Kulcs\u00e1r",
+                    "name": null,
+                    "headline": "Research and Development Group Manager at Kontron Hungary"
+                }
+            ]
+        },
+        {
+            "title": "C\u00f3kM\u00f3k",
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "description": "\"C\u00f3kM\u00f3k\" is a charity activity for the children living in state care. Within the confines of this initiative, you can buy a very nice and compact backpack. You will pay for two backpacks, one of them will be yours and the other one will be presented to a child in the state care. With this backpack you can give him/her a strong point in his/her unsteady life. \n\nDetails (only in hungarian): \nhttp://www.tedxyouthatbudapest.com/hu-HU/Video/Kovacs_Bori_Hatamon_a_vilagom.aspx\n\nOur company and our department helped this project with creating a website, where you can get information about that program, read news and last but not least you can buy it.\n\nDevelopment has started as a 24 hours programming event. At the end of this event it was almost ready for use, just small parts were missing and now it has been finished.\n\nBy this time, it is in \"production\" and from this time forth people can help this initiative with their donation.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Istvan",
+                    "last_name": "Nagy",
+                    "name": null,
+                    "headline": "Technical Lead at Independer"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Kriszti\u00e1n",
+                    "last_name": "Bodrogi",
+                    "name": null,
+                    "headline": "Senior Software Engineer At Agoda"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Gerg\u0151",
+                    "last_name": "Nagy",
+                    "name": null,
+                    "headline": "Senior Frontend Developer at Blackbelt"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Andras Brozso",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Tamas Cseresznye",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Zoltan Kozma",
+                    "headline": null
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Tamas",
+                    "last_name": "Soos",
+                    "name": null,
+                    "headline": "Lead Developer at Deutsche Telekom IT Solutions HU"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Tam\u00e1s",
+                    "last_name": "Szenes",
+                    "name": null,
+                    "headline": "Research Developer at Evopro Systems Engineering"
+                }
+            ]
+        },
+        {
+            "title": "EPS - Employee Performance System",
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "description": "Internal web application for our HR department.\n\n< Development methodology >\nAgile / Scrum\n\n< Project goals >\nDevelop an intranet web application to handle the employees' target, review and contract modification.\n\nModules:\n- Target Agreement: The keystone of our performance based bonus system\nEvery employee has to have a statement about his/her undertaken task, research or innovation.\nThis module handle this agreement and evaluation phase.\n- Go Ahead: Employee performance review modul\n- Contract Modification: Handle employees' contract change workflows\n\n< Implementation details >\nMicrosoft MVC 4 and SQL Server 2008 R2 based internal web application, written in C#.\n\njQuery for improve User Experience.\n\nWe are using Entity Framework as ORM, Log4Net for logging and Stateless C# State Machine library to handle business rules.\n",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Istvan",
+                    "last_name": "Nagy",
+                    "name": null,
+                    "headline": "Technical Lead at Independer"
+                }
+            ]
+        },
+        {
+            "title": "BMW - NAS, Backup Monitoring and SLA Reporting System",
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "description": "BMW is one of our biggest customer. Our company provides Network Access Storages for them and we are developing monitoring scripts about that subject in Perl.\n\nSince Jun 2011 we are working on the SLA collecting, calculating and reporting system written in PHP.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Istvan",
+                    "last_name": "Nagy",
+                    "name": null,
+                    "headline": "Technical Lead at Independer"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Zoltan",
+                    "last_name": "K.",
+                    "name": null,
+                    "headline": "Developer at Independer"
+                }
+            ]
+        },
+        {
+            "title": "BMW - Automated Storage Provisioning Tool Backend",
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "description": "Automated Storage Provisioning Tool Backend development for our customer, BMW.\n\n< Project goals >\n\nDevelop an application backend which achieve the following features:\n- Create a new volume on a specific filer and set default options of it (vfiler, snapshot reserve, snapvault, etc)\n- Increase volume size\n- Decrease volume size\n- Return a volume\n- Create NFS share for a specific path with proper roles\n- Update NFS share settings\n- Delete NFS share\n\nThe backend has to be reachable from a web site frontend via SOAP. \n\nWe have to handle all the possible exceptions and notify the administrators in case of any problem.\n\nWe have to have unit tests for all of the public and internal functions.\n\n\n< Implementation details >\n\nThe application was written in C#, using NETAPP API. \n\nThe endpoint was published via Microsoft WCF Service, hosted in IIS.\n\nWe used Log4Net and PostSharp 3rd party tool for automated and standardized logging of the entry and exit points of the key functions (including parameters and return value too)\n\nUnit testing of the project was accomplished with Microsoft Unit Testing Framework.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Istvan",
+                    "last_name": "Nagy",
+                    "name": null,
+                    "headline": "Technical Lead at Independer"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Zoltan",
+                    "last_name": "K.",
+                    "name": null,
+                    "headline": "Developer at Independer"
+                }
+            ]
+        },
+        {
+            "title": "Cosima data consolidation",
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2011
+                }
+            },
+            "description": "Cosima is the Service Center of the HP. This is the official ticketing system of our company.\n\nThe problem:\nThe Cosima serves our Helpdesk agents, they can open here incident and change tickets for the customers and for the company employees. Till this time the assets of the employees were maintained by hand and that made a big human resource requirement, it contained typos, duplicates, missing items because of the human factor. \n\nThe requirement:\nConnect our Asset Management tool (Atlas III) to the HP Asset Manager which is the data source of the Cosima. Implement an automated mechanism for creating and updating contact, location, cost center, asset and portfolio item information in the HP Asset Manager (based on the HP Asset Manager import logic)\n\nExperiences gained:\n    - Cooperation with German colleagues\n    - Communication skills improvement\n    - XML based export in a required format, with appropriate content\n    - Problem management",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Istvan",
+                    "last_name": "Nagy",
+                    "name": null,
+                    "headline": "Technical Lead at Independer"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Zoltan",
+                    "last_name": "K.",
+                    "name": null,
+                    "headline": "Developer at Independer"
+                }
+            ]
+        },
+        {
+            "title": "Cockpit enhancements",
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2010
+                },
+                "end": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2011
+                }
+            },
+            "description": "Cockpit is a dashboard system to report KPIs (Key Performance Indicator) for the management of the company. Based on this information they can take decisions to improve the business processes.\n\nIn this project I have implemented new features, improved the user experience with AJAX and written reusable components (UserControls) for the system.\n\nThe website is based on ASP.Net 2.0 and VB.Net, but all the new features were implemented in C#.Net capitalizing the multiple language support of the ASP.Net.\n\nNew features were:\n   - Tree menu (replacing the built-in tree control with CSS friendly tree control <UL> usage instead of many <table>-s)\n   - New drilldown page with AJAX for data loading\n   - KPI usercontrol with tab control and with individual, sub user controls for every tab/functionality (chart, data, related wiki pages, comments, etc...)\n   - New Wiki engine\n   - Smaller improvements",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Istvan",
+                    "last_name": "Nagy",
+                    "name": null,
+                    "headline": "Technical Lead at Independer"
+                }
+            ]
+        },
+        {
+            "title": "Target Agreement Project 2010 (Pc Sentinel)",
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2010
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2010
+                }
+            },
+            "description": "My target agreement project was a PC Monitor application in C# 3.5 with MS-SQL 2008 R2.\n\nRequirements were:\n    - Monitoring system locks and unlocks\n    - Monitoring running processes and applications\n    - Monitoring application activity periods\n\nImplemented:\n    - All the requirements were implemented\n    - Further features over the requirements:\n          * Blacklist for the monitored applications\n          * Log Browser in PHP with Symfony framework with Doctrine ORM\n\nNew experiences were:\n    - Catch system level hooks (window activation, application starting, etc...)\n    - Symfony framework 1.4 (philosophy, advantages, disadvantages)\n    - Active Directory usage for authentication, authorization and employee data importing",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Istvan",
+                    "last_name": "Nagy",
+                    "name": null,
+                    "headline": "Technical Lead at Independer"
+                }
+            ]
+        },
+        {
+            "title": "Production Database Migration",
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2010
+                },
+                "end": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2010
+                }
+            },
+            "description": "The source database was a data collector, vertical database which contained over 30 million records. Most of the collected data were never used and the performance decreased from month to month. That was the reason for this project.\n\nDuring this project I had to get familiar with the structure of the source database and I had to design the new database structure which will be more efficient than the actual. \n\nFor the performance improvement I have created as many attribute table as was necessary. In this way the search ability, maintainability and performance increased much more than earlier.\n\nFor the migration I have implemented several T-Sql stored procedures with Cursor-, Transaction- and Exception handling.\n\nDuring the migration I have collected and stored exception and statistical log about the process. Based on these kinds of information I have written an alarming system which was sent email to the supporters if something went wrong and in case of exceeding the critical error number it stopped the scheduler of the migration job.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Istvan",
+                    "last_name": "Nagy",
+                    "name": null,
+                    "headline": "Technical Lead at Independer"
+                }
+            ]
+        },
+        {
+            "title": "Atlas III",
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2010
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2010
+                }
+            },
+            "description": "Atlas III is an Asset Management System in PHP with MySql, Doctrine ORM and vLibTemplate.\n\nSince the project was closed, I am supporting the system and developing enhancements and web services to serve the connected external systems.\n\nSince the successful pilot period this system is the official Asset Management tool of our company which is used by more than 5 external applications and over 2000 employees.\n\n",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Istvan",
+                    "last_name": "Nagy",
+                    "name": null,
+                    "headline": "Technical Lead at Independer"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Zoltan",
+                    "last_name": "K.",
+                    "name": null,
+                    "headline": "Developer at Independer"
+                }
+            ]
+        },
+        {
+            "title": "eHealthcare Chain Information System",
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2009
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2010
+                }
+            },
+            "description": "As a member of the developer team developed some part of the system, eg. Anticoagulation, Asthma/COPD (Chronic Obstructive Pulmonary Disease), CVRM (Cardiovascular Risk Management) and Diabetes under a leading of the Dutch Portavita Development Team.\n\nUsed Technologies: PHP, Pl/SQL, jQuery, SQL (Oracle), HTML",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Istvan",
+                    "last_name": "Nagy",
+                    "name": null,
+                    "headline": "Technical Lead at Independer"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Zoltan",
+                    "last_name": "K.",
+                    "name": null,
+                    "headline": "Developer at Independer"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Nikoletta",
+                    "last_name": "Uzonyi",
+                    "name": null,
+                    "headline": "Software engineer at IT Services Hungary"
+                }
+            ]
+        }
+    ],
+    "publications": [],
+    "courses": [
+        {
+            "name": "Developing ASP.NET MVC 4 Web Applications",
+            "number": "70-486"
+        },
+        {
+            "name": "Developing a Microsoft SQL Server 2012 Database",
+            "number": "70-464"
+        },
+        {
+            "name": "Professional Scrum Master I.",
+            "number": null
+        }
+    ],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 44505,
+                "name": "Independer",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQE-LdoIyzu88g/company-logo_400_400/0/1647422104707?e=1703721600&v=beta&t=pZSlVLcwtB9dkcso6mlIbX5erGUalDczxRUHZSLoBQk",
+                "url": "https://www.linkedin.com/company/independer-nl/",
+                "employees": {
+                    "start": 201,
+                    "end": 500
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Hilversum",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Independer",
+                    "description": "Full-stack developer and technical lead, responsible for developing the biggest insurance and financial products comparison website in the Netherlands. Next to the developer role I am also member of the architectural group.\n\nMain domain: \ncar and van insurances module\n\n\nUsed technologies: \nASP.NET MVC & WebAPI, WCF, C#, JavaScript, TypeScript, AngularJS, Angular, MS SQL",
+                    "title": "Technical Lead",
+                    "employment_type": "Full-time"
+                },
+                {
+                    "location": "Hilversum",
+                    "date": {
+                        "start": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2017
+                        }
+                    },
+                    "company": "Independer",
+                    "description": "Full-stack developer, responsible for developing the biggest insurance and financial products comparison website in the Netherlands.\n\nMain domain: \ncar and van insurances module\n\n\nUsed technologies: \nASP.NET MVC & WebAPI, WCF, C#, JavaScript, TypeScript, AngularJS, Angular, MS SQL",
+                    "title": "Senior Web Developer / Scrum Master",
+                    "employment_type": null
+                },
+                {
+                    "location": "Hilversum",
+                    "date": {
+                        "start": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2016
+                        }
+                    },
+                    "company": "Independer",
+                    "description": null,
+                    "title": "Web Developer / Scrum Master",
+                    "employment_type": null
+                },
+                {
+                    "location": "Hilversum",
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2014
+                        },
+                        "end": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2015
+                        }
+                    },
+                    "company": "Independer",
+                    "description": null,
+                    "title": "Web Developer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 351621,
+                "name": "IT Services Hungary",
+                "logo": "https://media.licdn.com/dms/image/D4D0BAQFJwodS7a0rNw/company-logo_400_400/0/1666771938868?e=1703721600&v=beta&t=pVNTHtJF8wOH1fgsqDLA0B9-xfSxigulY4KHPjK0uo8",
+                "url": "https://www.linkedin.com/company/deutsche-telekom-it-solutions-hu/",
+                "employees": {
+                    "start": 5001,
+                    "end": 10000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2009
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2011
+                        },
+                        "end": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2014
+                        }
+                    },
+                    "company": "Deutsche Telekom IT Solutions HU",
+                    "description": null,
+                    "title": "Research & Development Specialist",
+                    "employment_type": null
+                },
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2010
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2011
+                        }
+                    },
+                    "company": "Deutsche Telekom IT Solutions HU",
+                    "description": "I am working now on several projects from the Asset Management tool to Reporting System in programming languages PHP, C#, ASP.Net, T-SQL",
+                    "title": "Junior Research & Development Specialist",
+                    "employment_type": null
+                },
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2009
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2010
+                        }
+                    },
+                    "company": "Deutsche Telekom IT Solutions HU",
+                    "description": "I worked in Nearshore with PortaVita.\nHealthcare system development\nUsed languages: PHP, JS, JQuery, PL\\SQL",
+                    "title": "Junior Developer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1035,
+                "name": "Microsoft",
+                "logo": "https://media.licdn.com/dms/image/C560BAQE88xCsONDULQ/company-logo_400_400/0/1618231291419?e=1703721600&v=beta&t=xic8lPBHmNYz9qHIoiuq_itbJ4T3xDqNu9Bb5EuYkZ0",
+                "url": "https://www.linkedin.com/company/microsoft/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2008
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2010
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Debrecen",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2008
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2010
+                        }
+                    },
+                    "company": "Microsoft",
+                    "description": "Various tasks:\n- recruitment\n- organizing events\n- organizing challenges (Imagine Cup and Win the Web)",
+                    "title": "Student Consultant",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "AngularJS",
+        "Bootstrap",
+        "JavaScript",
+        "ASP.NET",
+        "C#",
+        ".NET",
+        "ASP.NET MVC",
+        "Scrum",
+        "HTML",
+        "Microsoft SQL Server",
+        "MVC",
+        "Web Applications",
+        "Web Development",
+        "Databases",
+        "Visual Studio",
+        "T-SQL",
+        "Subversion",
+        "XML",
+        "TFS",
+        "Unit Testing"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

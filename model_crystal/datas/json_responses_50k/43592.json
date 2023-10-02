@@ -1,0 +1,445 @@
+{
+    "profile_id": "emile-van-krieken",
+    "first_name": "Emile",
+    "last_name": "van Krieken",
+    "sub_title": "Research Associate at University of Edinburgh",
+    "profile_picture": "https://media.licdn.com/dms/image/D4E03AQGlpchLb980uw/profile-displayphoto-shrink_800_800/0/1694163586100?e=1701302400&v=beta&t=ry4d6SIUIe2YzL2-fd_JiA_r3pNnMQjHZHqrG4xkhO0",
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAABjkgPkB3BKjpT1c-YJzlL9eXuSB2H4ETy8",
+    "object_urn": 417628409,
+    "birth_date": null,
+    "summary": null,
+    "location": {
+        "country": "Netherlands",
+        "short": "The Randstad, Netherlands",
+        "city": "The Randstad",
+        "state": "Netherlands",
+        "default": "The Randstad, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "Dutch",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "English",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ]
+    },
+    "industry": "Higher Education",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "school": {
+                "name": "University of Amsterdam",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQEfHBj_we-_kw/company-logo_400_400/0/1659945104460/university_of_amsterdam_logo?e=1703721600&v=beta&t=Dp0EJ3lpSLv3Mh_YrqSl6A7-xXfu6pL_sUUVd0ZqwG0",
+                "url": "https://www.linkedin.com/school/university-of-amsterdam/"
+            },
+            "degree_name": "MSc",
+            "field_of_study": "Artificial Intelligence",
+            "grade": "cum laude (9.0 avg)"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "school": {
+                "name": "Utrecht University",
+                "logo": "https://media.licdn.com/dms/image/C510BAQG6HfmPTdJKXw/company-logo_400_400/0/1519884681258?e=1703721600&v=beta&t=dip0JQLPHIafltY09rUwsjeZiPiJpmfD6vJeMHxW-84",
+                "url": "https://www.linkedin.com/school/universiteit-utrecht/"
+            },
+            "degree_name": "Bsc",
+            "field_of_study": "Computer Science",
+            "grade": "cum laude (8.7 avg)"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2007
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "school": {
+                "name": "Stedelijk Gymnasium Breda",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "High School",
+            "field_of_study": "Nature & Technology",
+            "grade": "cum laude (8.0 avg)"
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [
+        {
+            "name": "Cambridge Proficiency English",
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Cambridge University Press",
+            "url": null,
+            "license_number": null,
+            "display_source": null,
+            "company": null
+        }
+    ],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "Juggl.io",
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "description": "Juggl.io is an interactive graph view used to visualize and navigate personal knowledge graphs. It is an open source plugin for the Obsidian.md note taking app. The code is in TypeScript.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Emile",
+                    "last_name": "van Krieken",
+                    "name": null,
+                    "headline": "Research Associate at University of Edinburgh"
+                }
+            ]
+        },
+        {
+            "title": "The Aether",
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "description": "The Aether and its successor Aether II are two of the most popular modifications for the game Minecraft. I have worked on code for these mods (Java) and composed the music. Development on the Aether was a large international project, with people from all over the world working together.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Emile",
+                    "last_name": "van Krieken",
+                    "name": null,
+                    "headline": "Research Associate at University of Edinburgh"
+                }
+            ]
+        },
+        {
+            "title": "DiagnostiGO",
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "description": "DiagnostiGO is a web application that we created in a team of nine for our bachelor thesis. The serious game is to be used in the Utrecht Medical Centrum for training professional doctors in the diagnostical process. We created the project together with the company QLVR. My grade at the end was an 8.5. ",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Emile",
+                    "last_name": "van Krieken",
+                    "name": null,
+                    "headline": "Research Associate at University of Edinburgh"
+                }
+            ]
+        },
+        {
+            "title": "Abyssus",
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "description": "A university game project introducing students to programming in teams that won the best game award for that year.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Emile",
+                    "last_name": "van Krieken",
+                    "name": null,
+                    "headline": "Research Associate at University of Edinburgh"
+                }
+            ]
+        }
+    ],
+    "publications": [],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 5738,
+                "name": "The University of Edinburgh",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQFSi1nlisxTcg/company-logo_400_400/0/1519856422206?e=1703721600&v=beta&t=KED1OO3Gb1Hk0FVT6i0kA71C_kVcusUU7OUXmBueji0",
+                "url": "https://www.linkedin.com/school/university-of-edinburgh/",
+                "employees": {
+                    "start": 5001,
+                    "end": 10000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2023
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Edinburgh, Scotland, United Kingdom",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2023
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "The University of Edinburgh",
+                    "description": null,
+                    "title": "Research Associate",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 5570,
+                "name": "Vrije Universiteit Amsterdam (VU Amsterdam)",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQGFG964atm3Ow/company-logo_400_400/0/1682661887840?e=1703721600&v=beta&t=871s4br2EokXU4GPzYVwsoy3BpQAoKkgU-c2zYvtGmQ",
+                "url": "https://www.linkedin.com/school/vrije-universiteit-amsterdam/",
+                "employees": {
+                    "start": 5001,
+                    "end": 10000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2023
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amsterdam Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2023
+                        }
+                    },
+                    "company": "Vrije Universiteit Amsterdam (VU Amsterdam)",
+                    "description": "I work in the Learning and Reasoning lab. I research the optimisation of neurosymbolic machine learning systems. Such systems combine deep learning with reasoning. My focus is gradient estimation for discrete random variables and learning with background knowledge. \n\nDuring my PhD, I published in NeurIPS, Artificial Intelligence Journal, Machine Learning journal, KR, ISWC.\n\nSupervisors: Annette ten Teije and Jakub Tomczak.",
+                    "title": "PhD Student",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 558571,
+                "name": "DWARS, GroenLinkse Jongeren",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQFcX47cY_ZcsQ/company-logo_400_400/0/1519952442110?e=1703721600&v=beta&t=2jP_vsrQ_a_3cHUyp_tpRZH_4ZXJQUm9Yli8O7BJ-B8",
+                "url": "https://www.linkedin.com/company/dwars-groenlinkse-jongeren/",
+                "employees": {
+                    "start": 2,
+                    "end": 10
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Utrecht Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2017
+                        }
+                    },
+                    "company": "DWARS, GroenLinkse Jongeren",
+                    "description": "I have been on the board of DWARS, the youth wing of the Dutch Green Party GroenLinks. I acted as the treasurer of the organization. 2017 marked the national parliamentary elections that GroenLinks won with a major victory. We had our own campaign with the goal of getting the youth in the Netherlands out to vote.\n\nThis year also marked the largest increase in members of our organisation, and thus our financial income. I had to lead the transition to more financially prosperous times.\n\nWith my expertise in IT I also helped DWARS getting up to date with state of the art practices, improving our workflow. Something else I'm especially proud of is organising two days for the US Green Party candidate Jill Stein. We lead her through NGO's in the Netherlands, and organised a large lecture for politically engaged youth.",
+                    "title": "Treasurer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Gilded Games",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2011
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2016
+                        }
+                    },
+                    "company": "Gilded Games",
+                    "description": "I made the music for our projects, I did programming work and I did project management since 2014. We created so called 'mods' for the game 'Minecraft', with our product 'The Aether' being one of the most well known mods in the community. \n\nI also helped the team with complex designs and algorithms for a novel procedural generation system called Orbis which is able to generate full cities and dungeons in the world of Minecraft.",
+                    "title": "Programmer and Composer",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Machine Learning",
+        "Computer Science",
+        "TypeScript",
+        "Artificial Intelligence",
+        "Composition",
+        "Programming",
+        "Project Management",
+        "C#",
+        "Java",
+        "LaTeX",
+        "Python (Programming Language)",
+        "JavaScript",
+        "Haskell"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

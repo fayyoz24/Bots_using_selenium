@@ -1,0 +1,630 @@
+{
+    "profile_id": "paolo-rinaldesi-a1a58947",
+    "first_name": "Paolo",
+    "last_name": "Rinaldesi",
+    "sub_title": "Industrial Engineering Consulting",
+    "profile_picture": "https://media.licdn.com/dms/image/C5603AQFHMMT6p7ysKg/profile-displayphoto-shrink_800_800/0/1517459384257?e=1701302400&v=beta&t=oFnHJFFgcBFbUZUXMZHKcUHzRzOQ9OvvjIZSkxNZzYk",
+    "background_image": "https://media.licdn.com/dms/image/C4E16AQF6jD7Hv6ym5A/profile-displaybackgroundimage-shrink_350_1400/0/1657115216271?e=1701302400&v=beta&t=vqcXI0CuygZHpJyIFevc_M3MIjxs0bRMHSW6fVcdCyw",
+    "profile_type": "personal",
+    "entity_urn": "ACoAAAnftnYBiyMWuddAn5EcxF3qL_8JAtIyn74",
+    "object_urn": 165656182,
+    "birth_date": null,
+    "summary": null,
+    "location": {
+        "country": "Netherlands",
+        "short": "Eindhoven, North Brabant",
+        "city": "Eindhoven",
+        "state": "North Brabant",
+        "default": "Eindhoven, North Brabant, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "IT",
+            "language": "it"
+        },
+        "supported_locales": [
+            {
+                "country": "IT",
+                "language": "it"
+            },
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "Inglese",
+                "proficiency": null
+            },
+            {
+                "name": "Italiano",
+                "proficiency": null
+            }
+        ]
+    },
+    "industry": "Management Consulting",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2006
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "school": {
+                "name": "Universit\u00e0 Politecnica delle Marche",
+                "logo": "https://media.licdn.com/dms/image/C560BAQGnMd9jB7JGfw/company-logo_400_400/0/1547648736098?e=1703721600&v=beta&t=Q92fakT3oHYT27bhRnYOUSJJQWVrRYq0BfBvjtwemrc",
+                "url": "https://www.linkedin.com/school/universita-politecnica-delle-marche/"
+            },
+            "degree_name": "Telecommunication Engineering",
+            "field_of_study": "Ingegneria delle telecomunicazioni",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "school": {
+                "name": "Fontys Venlo University of Applied Sciences",
+                "logo": "https://media.licdn.com/dms/image/C560BAQG-EYwfL1wdYQ/company-logo_400_400/0/1539085664826?e=1703721600&v=beta&t=vdSGtAx3IGOaHAKnJc0vrvVLzZuKBJ1Ao-vLf1e3PZU",
+                "url": "https://www.linkedin.com/school/fontysvenlo/"
+            },
+            "degree_name": "Master's degree",
+            "field_of_study": "MBA",
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "Thesis:",
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "description": "\u201cDesign studio for a robotics system controlled by Microsoft Kinect\u201d \n\nGoals: Design a system that is able to be controlled by gestures with Microsoft Kinect, using the e Skeletal Viewer for the motion tracking.\n \nAchievements: System will be used for further studies in the Mechatronics Laboratory.\n Programming: code written in C++ using FRC libraries for Kinect and implemented on Labview,\n\n Main Tasks:\n \u2022 Study and utilization of NUI libraries;\n \u2022 Study and utilization of the graphic interface implemented on a driver station for Labview;\n \u2022 using the reference of angles provided by the skeleton function, realize the calculations to acquire the gestures and their sensitivity;\n \u2022 control of the delivered power and speed to the actuators;\n \u2022 use of multiple planes for gestures acquiring \n",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Paolo",
+                    "last_name": "Rinaldesi",
+                    "name": null,
+                    "headline": "Industrial Engineering Consulting"
+                }
+            ]
+        },
+        {
+            "title": "FRC project: \u201cThe Soccer Robot\u201d",
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "description": "Goals: The system consists in a machine that is able in a given environment to recognize a ball, follow it and catch it. The ball after has been charged is going to be kicked on a goal using camera vision. The system is able to work in autonomous mode and with the active intervention of a human operator. The robot is also controllable with gestures using Microsoft Kinect.\n \nMy position: \nElectrical Engineer, I looked after the hardware system architecture that has been used:\n - sensors, transducers and their implementation on the data acquiring platform.\n - ESC and actuators\n - power distribution and wiring. \nAs a Telecommunications Engineer I looked after all the aspects about system network interface. \n\nAchievements: \nThe robot satisfied all the tasks required and it has been exhibited at the International Humanoid and Service Robots Expo, Milan\n \nDuration: 5 months\n Platform used: National Instruments CompactRIO-FRC I\n ",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Paolo",
+                    "last_name": "Rinaldesi",
+                    "name": null,
+                    "headline": "Industrial Engineering Consulting"
+                }
+            ]
+        },
+        {
+            "title": "3D printer (extruder)",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "description": "Goal: Designing and realizing an extruder for a 3D printer \nMy rule: program and control the step motor mounted over the extruder.\n Main Tasks:\n \u2022 Realize the calculation for the number of steps related to the melting temperature of the PLA wire\n \u2022 Choosing the right kind of Electrical Motor concerning the Power and Moment \n\u2022 Realize the code that have to be implement on arduino UNO also considering a sensor of temperature mounted over the extruder. \n",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Paolo",
+                    "last_name": "Rinaldesi",
+                    "name": null,
+                    "headline": "Industrial Engineering Consulting"
+                }
+            ]
+        }
+    ],
+    "publications": [],
+    "courses": [
+        {
+            "name": "Inventor CAM/CAD - Autodesk Inventor Pro 2012",
+            "number": null
+        }
+    ],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 4901,
+                "name": "European Space Agency - ESA",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQEDpcRmqnD6AQ/company-logo_400_400/0/1665654733184?e=1703721600&v=beta&t=NspW8lDPcrTMGpUuiQm9pvBv6FXUcOqiZOAkB5OYBrM",
+                "url": "https://www.linkedin.com/company/european-space-agency/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "European Space Agency - ESA",
+                    "description": "- Manage and release of deliverables from D&E projects\n- Own deliverables (Qualified BoM/SW release, Qualified build/setup & test sequence, Qualified non-commercial upgrade packages, sequence)\n- Align on constraints, with the relevant stakeholders\n- Report on deliverable status and quality, towards project lead, program and line management\n- Own release strategy with team and roll up to masterplan\n- Plan work over prototype and manufacturing systems\n- Manage issues for the deliverables\n- Define and own the issue handling WOW, maintain issue lists (or delegate), host issue meeting\n- Report onquality towards end customers and make proposals for structural improvements\n- Plan, coordinate and coach the system integration project team in order to Reduce risks as efficiently as possible and to prepare and deliver all process and product outputs",
+                    "title": "Industrial Engineering Consulting",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 3894,
+                "name": "ASML",
+                "logo": "https://media.licdn.com/dms/image/C560BAQGssQfw50QsaQ/company-logo_400_400/0/1519855871260?e=1703721600&v=beta&t=Dy9d-y1YEURWKW9gwgee0M1kiJhHIn_5C8HeOomdIr8",
+                "url": "https://www.linkedin.com/company/asml/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Veldhoven, Brabante Settentrionale, Paesi Bassi",
+                    "date": {
+                        "start": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2020
+                        },
+                        "end": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "ASML",
+                    "description": "The Supplier Quality Manager maintains and develops the relation to the supplier with the purpose to create an optimal engineering collaboration between supplier and ASML. Using personal skills, I work closely together with the supplier & ASML development teams to optimize the effectiveness and efficiency of the product generation process, in alignment with the ASML project plan. The main goal of this cross-sector activity is to secure an excellent quality of parts delivered by our Suppliers.\n\nResponsibilities:\n\u2022\tCoordinating role with respect to all SQE activities within the allocated project.\n\u2022\tEarly supplier involvement in the D&E project to secure that technology expertise of ASML and supplier are merged in the best way.\n\u2022\tEnsure that not only parts quality, however, also manufacturability and serviceability aspects are covered in the design phase.\n\u2022\tDocument the D&E project collaboration, including supplier & ASML responsibilities and roles via a Statement of Work (SoW).\n\u2022\tNew product introduction (NPI) and supplier selection when applicable.\n\u2022\tDeliverables that secure parts quality from suppliers in the ASML product generation process, such as:\no\tAcceptance of the design and/or specification\no\tComplete & detailed parts qualification process\no\tAcceptance of qualified parts\no\tProcess flow and Process failure mode effect analysis\no\tFirst article inspection\n\u2022\tDefine and maintain supplier interface processes, such as:\no\tIssue resolution\no\tQualification deviation\no\tConfiguration & change management\no\tASML factory disturbances\n\u2022\tContribute to supplier development to improve operational excellence by driving execution of existing agreements, improvement actions, and participation in supplier audits.\n\nThe Supplier Quality Manager is part of the D&E project team and, therefore, interfaces with project leaders, design engineers, architects, manufacturing & customer support engineers, logistics, procurement, etc.",
+                    "title": "Supplier Quality Manager",
+                    "employment_type": "Full-time"
+                },
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2020
+                        }
+                    },
+                    "company": "ASML",
+                    "description": "In the Start-up Equipment Support group, I support the roll out of the hardware/software upgrades on EUV lithography systems, involving frequent and long trips to the customer site. My field of focus is the Source vessel.\nMain responsabilities:\n- Leading or supporting the preparation of the upgrade packages and customer sites\n- Coordination on site, including managing the sequence, handling technical issues and leading escalations\n- Preventing issues from re-occurring by driving a structured issue resolution process",
+                    "title": "Project Manager NPI",
+                    "employment_type": null
+                },
+                {
+                    "location": "Veldhoven",
+                    "date": {
+                        "start": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2018
+                        }
+                    },
+                    "company": "ASML",
+                    "description": "Job Mission\nTo design, maintain, and optimize production processes and adapt to changed output requirements. Develop and apply methods of measuring the performance of the production process. Support the Production in order to ensure product quality, short lead-times and \u2018short time to market\u2019.\n\nJob Description\nProduction Engineer on NXE Source CO2, including: Coarse and fine setup of the CO2 laser beam path from Drive Laser to tin droplet, including the workcenters for FFA-OP and BTS.\n\nGeneric:\nAs EF Production Engineer I contribute to the 4 main PE drivers:\n\u2022 Decrease cycle time;\n\u2022 Decrease cost;\n\u2022 Increase efficiency;\n\u2022 Increase quality.\nI have constant attention for safety.  \nAlthough working from a competence group, flexibility is expected, to secure the EF output plans and cycle time roadmaps.\n\nContinuous Improvement:\n\u2022 Continuously adapt, optimize operating instructions, process flow charts, routings, process parameters and indicators; \n\u2022 Analyze the production process (Cycle time and Labor Hours), points out structural problems and bottlenecks, work out suggestions for improvements and initiates their implementation, often in close cooperation with the surrounded departments as Development, Supply Chain and Customer Support.\n\nSupport:\n\u2022 Contribute to the rapid solution of complex faults and take the necessary initiatives and practical decisions;\n\u2022 Troubleshoot;\n\u2022 For regular support stand-by might be required.\nNew Product Introduction:\n\u2022 I  Use my knowledge in product or process development projects, in order to foresee production problems in the design phase and improve the manufacturability of the product;\n\u2022 I am actively involved in the release for volume takeover from D&E to Manufacturing.",
+                    "title": "Production Engineer",
+                    "employment_type": null
+                },
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2013
+                        },
+                        "end": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2015
+                        }
+                    },
+                    "company": "ASML",
+                    "description": "Introduction:\n The sector operations within the Twinscan Factory is responsible for the production of wafer steppers and scanners as well as for purchasing and logistics. The complete production process of the most advanced machines takes place within this sector. The department Build Operations within Manufacturing is responsible for the assembly and qualification of the various machines and modules of the ASML systems according to strict quality standards.\n \nJob Description:\n - Electrical measuraments and Sensors Analisys in order to parameterize MCs to the design specifications.\n - Analysis and solving of disturbances during the qualification process;\n - Identify structural issues and support diagnostics ;\n - Functional testing of the wafer stage and / or Position Modules\n - Connection of wafer stage to the testrig and placement (including a.o. leak testing) of PM\u2019s;\n - Mechanical adjustments;\n - Disconnection of wafer stage and transfer to upstream customer.\n - Plan and prioritize own work;\n - Report, inform and escalate correctly and timely on progress and status;\n - Actively seek for relevant knowledge;\n - Share and train knowledge and skills.",
+                    "title": "System Analyst",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "APIL",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Italy - Libya",
+                    "date": {
+                        "start": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2013
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2013
+                        }
+                    },
+                    "company": "APIL",
+                    "description": "APIL works with Italian-Libyan Authorities and Institutions, Private and Public Investors to promote the professional and business activities in Libya for more than 80 Italian Companies in the fields of Industries, Energy & Water Treatment, Constructions and Strategic Structures. \n\nMy position: Web-platform maintaining using an assigned CMS.\n Keep the assigned informatics platform in perfect state by: \n\uf0a7 Keep the system configuration up to date\n \uf0a7 Keep the web-platform contents up to date\n \uf0a7 Keep the user list configured and up to date\n \uf0a7 Keep the media sources configured and up to date\n Provide competency support in case of escalation by team members through proper documentations.\n Provide documentations and support during public events and activities organized and operated by APIL on exhibitions, conferences & events in Libya, by promoting, in these International Activities, Italian Authorities and Institutions, Private and Public Associations, Professional Associations, Major companies, associated and partners of the Association Project Italy Libya - APIL.",
+                    "title": "Web-maintenance Engineer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 47885,
+                "name": "Project Leader for Team Leonardo, team of robotics",
+                "logo": "https://media.licdn.com/dms/image/C560BAQGnMd9jB7JGfw/company-logo_400_400/0/1547648736098?e=1703721600&v=beta&t=Q92fakT3oHYT27bhRnYOUSJJQWVrRYq0BfBvjtwemrc",
+                "url": "https://www.linkedin.com/school/universita-politecnica-delle-marche/",
+                "employees": {
+                    "start": 501,
+                    "end": 1000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Robotics Lab  DII,faculty of engineering at Universit\u00e0 Politecnica delle Marche",
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2012
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2013
+                        }
+                    },
+                    "company": "Universit\u00e0 Politecnica delle Marche",
+                    "description": "Project Leader in a team of robotics comprised by 12 members in field of Mechanical Engineering, Computer Science, Administration and Management. Team Leonardo will be a rookie team for FIRST robotics competition on 2014. Team Leonardo is in collaboration with: the Laboratory of Artificial Intelligence and Real Time Systems mentored by Mr. Aldo Franco Dragoni; Chamber of Commerce of Fermo, G.M. Montani Institute of applied science and Team 122 NASA knights of Hampton, VA.\n \n\nGoals:\n The system consists in a machine that is able in a given environment to climb over a metallic pyramid. The system is also able to recognize a disc through camera vision technology and pick it up from the floor. The disk after has been charged is going to be launched on a wall where some openings are placed in several positions. The system is able to work in autonomous mode and with the active intervention of a human operator. \n\nMy position: \nProject Leader, I\u2019m looking after the aspects related with:\n - Creation and execution project work plans and revises as appropriate to meet changing needs and requirements. \n- Managing day-to-day of operational aspects of the project and its scope. \n- Ensure that project documents are complete, current, and stored appropriately.\n - Identification of resources needed and assigns individual responsibilities.\n During the extra time I use to spend my time programming the microcontroller and studying the protocol for the system data transmission to improve aspects of remote control.\n\n Achievements: \nThe project has completed the mechanical design and also the programming development, both of them have been tested through simulations that can make sure their implementation.\n \nPlatform used: ARDUINO UNO",
+                    "title": "Project Leader for Team Leonardo, team of robotics",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 8694,
+                "name": "Mentor",
+                "logo": "https://media.licdn.com/dms/image/C560BAQHoPshjTmIrAg/company-logo_400_400/0/1519856033175?e=1703721600&v=beta&t=cZ69Pb_3wfj1CmnluovkjrwyUXmA-avaXdwnnGSge1U",
+                "url": "https://www.linkedin.com/school/fontys-hogescholen/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Eindhoven, Paesi Bassi",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2012
+                        },
+                        "end": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2013
+                        }
+                    },
+                    "company": "Fontys University of Applied Sciences",
+                    "description": "Mentoring on Reconfigurable Control and Acquisition Systems Architectures, using National Instruments platforms. Programming for fast prototypesation with microcontrollers. Programming for robotics applications with camera vision technology. During one year I worked 6 months as a volunteer, and 6 months as an employee with a contract for 40hours per week.",
+                    "title": "Mentor at Fontys Kenniscentrum Mechatronica",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 3433,
+                "name": "National Instruments",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQFHBli4zAKHSA/company-logo_400_400/0/1688392414490?e=1703721600&v=beta&t=huUDUNDtntYZdExMakYDfqfA6C5XGIO2tH8vNZhTXYY",
+                "url": "https://www.linkedin.com/company/niglobal/",
+                "employees": {
+                    "start": 5001,
+                    "end": 10000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2011
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2012
+                        }
+                    },
+                    "company": "NI (National Instruments)",
+                    "description": null,
+                    "title": "Software Developer for Robotic Network Interfaces",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 11563407,
+                "name": "Erasmus Mundus Programme",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQE2H2zFdvlJRA/company-logo_400_400/0/1523394832053?e=1703721600&v=beta&t=eaof7n4vPokw9-74sM6UqBr9igo5r2M0hOviuUPo0-Q",
+                "url": "https://www.linkedin.com/company/erasmus-mundus-programme/",
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Eindhoven, Paesi Bassi",
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2011
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2012
+                        }
+                    },
+                    "company": "Erasmus Mundus Programme",
+                    "description": null,
+                    "title": "Exchange student",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 355664,
+                "name": "FIRST",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQE8-tYaXidBhA/company-logo_400_400/0/1688993671672?e=1703721600&v=beta&t=TfzT-K2O2TKmtR8SCA9LApvmvSqkvCCBd4rl1f6pVk0",
+                "url": "https://www.linkedin.com/company/first_2/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Richmond, Virginia, Stati Uniti",
+                    "date": {
+                        "start": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2012
+                        },
+                        "end": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2012
+                        }
+                    },
+                    "company": "FIRST",
+                    "description": "Host Institute/ Team of robotics: New Horizons Regional Education Center Team 122 in collaboration with NASA Langley Research Center",
+                    "title": "Mentor",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "SAP",
+        "SAP ME",
+        "Matlab",
+        "Rinho",
+        "Autodesk Inventor",
+        "Linux OS",
+        "Labview",
+        "Arduino Programming",
+        "Joomla CMS",
+        "RoboRealm",
+        "WebSiteX5",
+        "C++",
+        "Programmazione",
+        "C",
+        "PowerPoint",
+        "Microsoft Office",
+        "Management",
+        "LabVIEW",
+        "Simulazioni",
+        "Linux"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

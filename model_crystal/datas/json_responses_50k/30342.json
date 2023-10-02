@@ -1,0 +1,333 @@
+{
+    "profile_id": "andrea-vezzuto",
+    "first_name": "Andrea",
+    "last_name": "Vezzuto",
+    "sub_title": "2nd Year Computer Scientist and Engineer at Delft University of Technology",
+    "profile_picture": "https://media.licdn.com/dms/image/D4E03AQEgjkqOy4k4rw/profile-displayphoto-shrink_800_800/0/1669592687344?e=1701302400&v=beta&t=G964DAV6VAZpt3Z8FFJC8DD-lp6HswJV0tT0Y6QaV5s",
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAADSI-hsBvy7FVKemLMGXjjmUl2c0cVKXMgk",
+    "object_urn": 881392155,
+    "birth_date": null,
+    "summary": "I am currently pursuing a Bachelor's degree at Delft University of Technology. I am particularly interested in software development and the constant innovation of Artificial Intelligence to make a meaningful impact in the industry.",
+    "location": {
+        "country": "Netherlands",
+        "short": "Rotterdam, South Holland",
+        "city": "Rotterdam",
+        "state": "South Holland",
+        "default": "Rotterdam, South Holland, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "English",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "French",
+                "proficiency": "ELEMENTARY"
+            },
+            {
+                "name": "Italian",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ]
+    },
+    "industry": "Higher Education",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2023
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2025
+                }
+            },
+            "school": {
+                "name": "Honours Programme at Delft University of Technology",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": null,
+            "field_of_study": null,
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2025
+                }
+            },
+            "school": {
+                "name": "Delft University of Technology",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQFwaGpwaod9mQ/company-logo_400_400/0/1670699851986?e=1703721600&v=beta&t=Aw4oLxoKsIJcblYDjxw9200FClnyhZu8DxzcfJRDFOs",
+                "url": "https://www.linkedin.com/school/tudelft/"
+            },
+            "degree_name": "Bachelor of Science - BSc",
+            "field_of_study": "Computer Science and Engineering",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "school": {
+                "name": "The International School in Genoa",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "International Baccalaureate Diploma Programme",
+            "field_of_study": null,
+            "grade": "43 out of 45"
+        }
+    ],
+    "patents": [],
+    "awards": [
+        {
+            "title": "International Baccalaureate",
+            "description": "Top 5% of International Baccalaureate Graduates in the World in 2022.",
+            "issuer": "International Baccalaureate Organization",
+            "date": {
+                "month": 7,
+                "day": null,
+                "year": 2022
+            }
+        },
+        {
+            "title": "Valedictorian Award",
+            "description": "Obtained the highest average GPA among male students over the course of high school.",
+            "issuer": null,
+            "date": {
+                "month": 7,
+                "day": null,
+                "year": 2022
+            }
+        },
+        {
+            "title": "Best Delgate",
+            "description": "Participated as the delegate of Germany in the Security Council. The worldwide conference was held in Genoa and saw over 500 students discuss current societal and political complications, providing feasible solutions. Over 3 days, the following issues were tackled: the Israeli-Palestinian conflict, the Kashmir dispute between India and Pakistan, and the Hong Kong-Mainland China conflict.",
+            "issuer": "GeMUN",
+            "date": {
+                "month": 2,
+                "day": null,
+                "year": 2020
+            }
+        },
+        {
+            "title": "Regional Finalist at Mathematics Olympics",
+            "description": "Ranked the highest participant amongst my school.",
+            "issuer": null,
+            "date": {
+                "month": 2,
+                "day": null,
+                "year": 2019
+            }
+        }
+    ],
+    "certifications": [],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "Created a task management application using Java and Spring",
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2023
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2023
+                }
+            },
+            "description": "Working with 5 other students, we created an application to manage a user's tasks with the use of Java, JavaFX and Spring. The final product had a wide range of functionalities, including but not limited to: live updates if multiple clients are working on the same server, the ability to customise any aspect of the visual design of the application, and shortcuts for more experienced users to speed up their workflow. Additionally, we used Git as our collaboration hub, helping us to manage our tasks and issues whilst also being able to collaboratively work on the software.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Andrea",
+                    "last_name": "Vezzuto",
+                    "name": null,
+                    "headline": "2nd Year Computer Scientist and Engineer at Delft University of Technology"
+                }
+            ]
+        },
+        {
+            "title": "Research in the Implications of Infinity in Cryptography",
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "description": "Through my Internal Assessment in Mathematics, I explored the evolution of infinity through time and investigated encryption algorithms such as the Hill Cipher and the Vernam Cipher. Ultimately, I was able to demonstrate the inviolability of the Vernam Cipher by using Claude Shannon's definition of a safe cryptosystem.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Andrea",
+                    "last_name": "Vezzuto",
+                    "name": null,
+                    "headline": "2nd Year Computer Scientist and Engineer at Delft University of Technology"
+                }
+            ]
+        },
+        {
+            "title": "Model United Nations Club Vice President",
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "description": "As vice president of the club, I was tasked with organising weekly meetings and engaging activities to help members improve their debating and propositional writing skills.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Andrea",
+                    "last_name": "Vezzuto",
+                    "name": null,
+                    "headline": "2nd Year Computer Scientist and Engineer at Delft University of Technology"
+                }
+            ]
+        },
+        {
+            "title": "NAO Challenge Vice Captain",
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "description": "As vice-captain of this national contest, I oversaw the successful programming of the humanoid robot and assisted in boosting the team's social media presence. Ultimately, the robot's software was designed to help elderly guests through a theatre, guiding them to a pleasant visit.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Andrea",
+                    "last_name": "Vezzuto",
+                    "name": null,
+                    "headline": "2nd Year Computer Scientist and Engineer at Delft University of Technology"
+                }
+            ]
+        }
+    ],
+    "publications": [],
+    "courses": [
+        {
+            "name": "Digital Skills: Artificial Intelligence on FutureLearn.com",
+            "number": null
+        }
+    ],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 1227848,
+                "name": "Lanterna Education",
+                "logo": "https://media.licdn.com/dms/image/D4D0BAQHVihFirwDjYA/company-logo_400_400/0/1663935642215?e=1703721600&v=beta&t=EQq95r-ml2V199wKVsezQFpOiZ5Ad42hPnHKGdkw7Qk",
+                "url": "https://www.linkedin.com/company/lanterna-education/",
+                "employees": {
+                    "start": 201,
+                    "end": 500
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2023
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Online",
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2023
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Lanterna Education",
+                    "description": "Tutoring of International Baccalaureate students in Mathematics and Computer Science",
+                    "title": "Private Tutor",
+                    "employment_type": "Part-time"
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Organizational Effectiveness",
+        "Proficient in Git",
+        "Java (Programming Language)",
+        "Intellectually Curious",
+        "Communication",
+        "Problem Solving",
+        "Leadership"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

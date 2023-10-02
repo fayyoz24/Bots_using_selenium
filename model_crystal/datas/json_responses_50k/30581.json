@@ -1,0 +1,524 @@
+{
+    "profile_id": "simongielen",
+    "first_name": "Simon",
+    "last_name": "Gielen",
+    "sub_title": "MLOps Engineer @ JustEat Takeaway via Dataworkz",
+    "profile_picture": "https://media.licdn.com/dms/image/D4E03AQFN_cPZ0QgOqw/profile-displayphoto-shrink_800_800/0/1690591719656?e=1701302400&v=beta&t=lAzSiV0lI9ZRbC3ObtZbtykbgKeF0MRlELuvmre7Xlo",
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAACU3yj4BdRJ_BS_NaZ_fZ6MOoYArioIhuRs",
+    "object_urn": 624413246,
+    "birth_date": null,
+    "summary": null,
+    "location": {
+        "country": "Netherlands",
+        "short": "The Randstad, Netherlands",
+        "city": "The Randstad",
+        "state": "Netherlands",
+        "default": "The Randstad, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "Dutch",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "English",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ]
+    },
+    "industry": "Information Technology & Services",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "school": {
+                "name": "University of Cambridge",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQGLqHVOwtQeUQ/company-logo_400_400/0/1663833278405?e=1703721600&v=beta&t=rBSEC4laXLMrsAo77KjBSU5k40hju6Bw7RdJ1UNhKt4",
+                "url": "https://www.linkedin.com/school/university-of-cambridge/"
+            },
+            "degree_name": "BA",
+            "field_of_study": "Computer Science Tripos",
+            "grade": "2nd Class, 1st Division"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2009
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "school": {
+                "name": "Christelijk Gymnasium Utrecht",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": null,
+            "field_of_study": null,
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "Solving 2048 with Reinforcement Learning/Monte Carlo Tree Search",
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "description": "Writing an agent to solve the popular game 2048 (based on Threes), i.e. to reach the highest score. Implement solutions using Reinforcement Learning and Monte Carlo Tree Search (MCTS) and compare performance according to a number of metrics.\n\nTechnologies used are Tensorflow for Reinforcement Learning, Python for the comparison and testing frameworks, C++ to write high performance code for MCTS, including Python wrappers for the C++ code to allow for interfacing with testing and comparison frameworks. Also includes a GUI using the Python tkinter library.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Simon",
+                    "last_name": "Gielen",
+                    "name": null,
+                    "headline": "MLOps Engineer @ JustEat Takeaway via Dataworkz"
+                }
+            ]
+        },
+        {
+            "title": "Fine Motor Skills Data Recording and Analysis",
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "description": "Made a program to using VB .NET with an event driven interface, which is used in a research into the development of the fine motor skills of someone\u2019s Non Dominant hand. The functionality includes automatic test case generation, movement tracking, and customizable data output and data analysis.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Simon",
+                    "last_name": "Gielen",
+                    "name": null,
+                    "headline": "MLOps Engineer @ JustEat Takeaway via Dataworkz"
+                }
+            ]
+        },
+        {
+            "title": "Yammer Question Extraction algorithm using Neural Networks",
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "description": "In a team of professionals from Capgemini Netherlands I created a program to extract messages from Yammer, a Twitter equivalent for companies, using OAuth 2.0 and RESTful APIs. These messages were then analysed by a Convolutional Neural Network to determine whether they were a question and the topic of the question, getting a success rate of almost 80%. These questions were then relayed to their respective specialist within the company using mail or Lync. All the relevant data was saved in a SQL database.\n\nThese different programs were linked using a Redis server and were hosted on the IBMs BlueMix platform.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Simon",
+                    "last_name": "Gielen",
+                    "name": null,
+                    "headline": "MLOps Engineer @ JustEat Takeaway via Dataworkz"
+                }
+            ]
+        },
+        {
+            "title": "Twitter Message Analysis",
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "description": "Using downloaded old messages from the Twitter Firehose API to do BigData analysis. Familiarised myself with the JSON file type and used Python to track the use of hashtags in tweets over time. The resulting data was then used to see what hashtags were used the most and which hashtags were very time specific. I then used the produced data to try to see the reflection of real time events in the use of hashtags.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Simon",
+                    "last_name": "Gielen",
+                    "name": null,
+                    "headline": "MLOps Engineer @ JustEat Takeaway via Dataworkz"
+                }
+            ]
+        },
+        {
+            "title": "EPQ: electro-magnetic railgun",
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "description": "For my EPQ, I made an electro-magnetic railgun which design was based on a model to try to approximate a system with a multitude of different factors to take into account in order to optimise the system. For this, I used a simulation written in Python to approximate the values at each given time and used it to produce data used in the optimisation of the different parameters to make the final projectile velocity as high as possible.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Simon",
+                    "last_name": "Gielen",
+                    "name": null,
+                    "headline": "MLOps Engineer @ JustEat Takeaway via Dataworkz"
+                }
+            ]
+        }
+    ],
+    "publications": [],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 18051501,
+                "name": "Dataworkz",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQHqamXNPPktPQ/company-logo_400_400/0/1693397091064?e=1703721600&v=beta&t=ykpRNnZMEJHeYipglWJLdXfDWKN_p8HXm85nP00Wf_4",
+                "url": "https://www.linkedin.com/company/dataworkz/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Utrecht, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Dataworkz",
+                    "description": null,
+                    "title": "MLOps Engineer Consultant",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 103531,
+                "name": "Just Eat Takeaway.com",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQEDKlH1vjmjnA/company-logo_400_400/0/1688458847522?e=1703721600&v=beta&t=bx3WodcZHUFhtI7vWZb6sOIYf9vRj9L0lSCNh-0z8-I",
+                "url": "https://www.linkedin.com/company/just-eat-takeaway-com/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amsterdam, North Holland, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Just Eat Takeaway.com",
+                    "description": "JustEatTakeaway (JET) needed a MLOps Engineer to help design and develop a new ML Platform for Data Science and ML Engineering across the company. This was especially challenging as the companies (legacy) technology stacks were spread over different cloud providers and tool sets.\n\nGiven the situation, an initial effort of figuring out the correct tools was needed. Through several different PoC\u2019s around tools such as Kubeflow, AWS Sagemaker, and GCP Vertex, as well as an MVP around real time model inference with tools such as AWS Kinesis, Kafka, Feast, and Seldon, we came up with a design that satisfied both these business constraints as well as the requirements of the users.\n\nThe platform development began with the training environment around GCP Vertex, with a lot of automation work in Github Actions for provisioning the required cloud resources using Terraform. We also developed a command line interface for our users to register with our platform and request any of our offerings themselves, which allowed for a much smoother onboarding experience.",
+                    "title": "MLOps Engineer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1442,
+                "name": "KPN",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQFHdzywk2aJGA/company-logo_400_400/0/1691135902931?e=1703721600&v=beta&t=EwovPoL4-FsdDqAf_BsVW4iHyxyT1HtULkozISOj_rI",
+                "url": "https://www.linkedin.com/company/kpn/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amsterdam, North Holland, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "KPN",
+                    "description": "Contractor via Dataworkz\n\nKPN needed a data engineer to help bring their fraud anomaly detection proof of concept into production. Due to the model chosen (Robust Random Cut Forest), a separate model needed to be trained per customer, which provided a unique challenge, as more traditional ways of scaling the model are insufficient.\n\nThe POC was setup in AWS using Glue and Athena, with an Airflow instance for scheduling. In production, the project was run on the KPN Dataiku environment, which has a Kubernetes backbone, in Python.\n\nMy job was implementing this move from AWS to Dataiku, the optimization of the data flow, and improving performance, which resulted in having to rewrite the model for multiprocessing in Python.",
+                    "title": "Data Engineer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 2029,
+                "name": "Nike",
+                "logo": "https://media.licdn.com/dms/image/C560BAQFckBxRnPg53Q/company-logo_400_400/0/1561999707114?e=1703721600&v=beta&t=bHbwVxACQt64WXQHiPTJQIxuVqBoBuKj1ZcTqn9CjZs",
+                "url": "https://www.linkedin.com/company/nike/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Hilversum, North Holland, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2021
+                        }
+                    },
+                    "company": "Nike",
+                    "description": "Contractor via Capgemini\n\n1. Built a Machine Learning platform to accelerate end-to-end ML production workloads, supporting over 50 teams in their ML journey. Built using a microservice architecture, with infrastructure-as-code AWS services, Kubernetes and Java Spring Boot APIs. Running on EKS Kubernetes cluster, using technologies such as Apache Airflow, Spark, Jupyterhub, Terraform, and Helm with enterprise integration to remote services for Model Storage, Model Management and Model Serving.\n\n2. Created a \"Time Series Accelerator\" for teams starting with Machine Learning (ML) specifically for Time Series forecasting. Consisting of both workshops and ready-to-run notebooks with best practices and low level implementation using both open-source and internal tooling.",
+                    "title": "Consultant MLOps Engineer ",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 157240,
+                "name": "Capgemini",
+                "logo": "https://media.licdn.com/dms/image/D560BAQF_q1awsuPNAg/company-logo_400_400/0/1688232761552?e=1703721600&v=beta&t=qvh3IQNMnfr_K0evOCNqFalngzJKSchvQKll9Gryikc",
+                "url": "https://www.linkedin.com/company/capgemini/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Utrecht, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2021
+                        }
+                    },
+                    "company": "Capgemini",
+                    "description": null,
+                    "title": "Consultant Insights & Data",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 95360,
+                "name": "Softwire",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQHwVEmQ12gn4A/company-logo_400_400/0/1657557992051?e=1703721600&v=beta&t=XqdulUxTGSPMc_DBog_L3l_1svr9S6BnW_hFyJM4u_0",
+                "url": "https://www.linkedin.com/company/softwire/",
+                "employees": {
+                    "start": 201,
+                    "end": 500
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "London, United Kingdom",
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2016
+                        }
+                    },
+                    "company": "Softwire",
+                    "description": "During my internship at Softwire, I worked on a mobile app using the React framework with native compatibility using Framework 7. The app involved embedding social media features, logging in using QR generation and setting up secure connections to a SQL server, as well as creating a backend for the client to use for database manipulation. \nThe app was ultimately deployed to both the Apple App store as well as the Google Play store.",
+                    "title": "Intern",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Continuous Integration and Continuous Delivery (CI/CD)",
+        "Google Cloud Platform (GCP)",
+        "Amazon Web Services (AWS)",
+        "Java",
+        "Machine Learning",
+        "Python",
+        "Object-Oriented Programming (OOP)",
+        "Programming",
+        "Algorithms",
+        "Software Development",
+        "Software Design",
+        "Computer Science",
+        "ML",
+        "Agile Methodologies",
+        "C++",
+        "C",
+        "Git",
+        "Linux",
+        "SQL",
+        "Verilog"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

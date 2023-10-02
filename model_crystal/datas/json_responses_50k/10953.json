@@ -1,0 +1,566 @@
+{
+    "profile_id": "ketan-vyavahare-abba0313",
+    "first_name": "Ketan",
+    "last_name": "Vyavahare",
+    "sub_title": "Software Design Engineer at ASML",
+    "profile_picture": null,
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAAALRgm8BUJJ6yTR1A_XNNWX42ZHv102Pxng",
+    "object_urn": 47284847,
+    "birth_date": null,
+    "summary": "I work as a Software Design Engineer at ASML. To give a brief overview, I have graduated from Technical University of Eindhoven, with a Master's degree in Embedded Systems. I hold a Bachelor\u2019s degree in Electronics and Telecommunication from Pune University, India. I also hold a Post Graduate Diploma in Embedded System Design, from Center for Development of Advanced Computing (C-DAC), Pune, India.",
+    "location": {
+        "country": "Netherlands",
+        "short": "Veldhoven, North Brabant",
+        "city": "Veldhoven",
+        "state": "North Brabant",
+        "default": "Veldhoven, North Brabant, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "Dutch",
+                "proficiency": "LIMITED_WORKING"
+            },
+            {
+                "name": "German",
+                "proficiency": "ELEMENTARY"
+            },
+            {
+                "name": "Hindi",
+                "proficiency": "FULL_PROFESSIONAL"
+            },
+            {
+                "name": "Marathi",
+                "proficiency": "FULL_PROFESSIONAL"
+            }
+        ]
+    },
+    "industry": "Semiconductors",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "school": {
+                "name": "Eindhoven University of Technology",
+                "logo": "https://media.licdn.com/dms/image/C560BAQG4PGSYiNG4CA/company-logo_400_400/0/1642150189320?e=1703721600&v=beta&t=omf4Ziy8Suete_GTJ3Qn1mOBS7ZrKSPido6Ld2LseBU",
+                "url": "https://www.linkedin.com/school/eindhoven-university-of-technology/"
+            },
+            "degree_name": "Master's degree",
+            "field_of_study": "Embedded Systems",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "school": {
+                "name": "C DAC",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "Post Graduate Diploma",
+            "field_of_study": "Embedded Systems",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2007
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2011
+                }
+            },
+            "school": {
+                "name": "Savitribai Phule Pune University",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQEFsIyAZyuMwA/company-logo_400_400/0/1519904707827?e=1703721600&v=beta&t=rluAYUSNQKmJ3wmH_-NbC3fcjU7TwRJ2qkYjzEPqbic",
+                "url": "https://www.linkedin.com/school/university-of-pune/"
+            },
+            "degree_name": "Bachelor of Engineering (BE)",
+            "field_of_study": "Electronics and Communications Engineering",
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "Cloud Resource Manager",
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "description": "The goal of the assignment was to analyse the trade-offs encountered in realization of IaaS based applications. It was expected to design a cloud resource manager to enable efficient utilization of cloud based IaaS.\n\nPlatform: Amazon Web Services, Python, Boto.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Ketan",
+                    "last_name": "Vyavahare",
+                    "name": null,
+                    "headline": "Software Design Engineer at ASML"
+                }
+            ]
+        },
+        {
+            "title": "Design Space Exploration",
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "description": "The goal of the assignment was to explore the design space of a multiprocessor system according to the Y-chart ap-proach.The assignment was to be undertaken in two parts. \nPart 1 would concentrate on searching the design space for Pareto optimal mappings and platforms for a single execution of a given application. \nPart 2 would extends the search for an optimal realisation of a streaming or pipelined execution of the same application.\n\nPlatform: POOSL",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Ketan",
+                    "last_name": "Vyavahare",
+                    "name": null,
+                    "headline": "Software Design Engineer at ASML"
+                }
+            ]
+        },
+        {
+            "title": "JPEG Decoder Implementation",
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "description": "The assignment was to perform various steps to move from an application, which is a JPEG decoder written in C, to a multiprocessor system on FPGA. Later the decoder implementation had to be optimized for reduced execution time.\n\nPlatform: C programming, Bash",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Ketan",
+                    "last_name": "Vyavahare",
+                    "name": null,
+                    "headline": "Software Design Engineer at ASML"
+                }
+            ]
+        },
+        {
+            "title": "Validation of a Train Door Controller",
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "description": "The goal of the assignment was to model the architecture and verify the working of the controller that is responsible for operating doors in a train. The project was realized with the knowledge of process algebra mCRL2.\n\nPlatform: mCRL2 modelling",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Ketan",
+                    "last_name": "Vyavahare",
+                    "name": null,
+                    "headline": "Software Design Engineer at ASML"
+                }
+            ]
+        },
+        {
+            "title": "Software Specification of a Meeting Planner",
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "description": "The goal of the assignment was to determine the software specifications of a meeting planner application. The assignment was performed with the help of Star UML tool.\n\nPlatform: UML",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Ketan",
+                    "last_name": "Vyavahare",
+                    "name": null,
+                    "headline": "Software Design Engineer at ASML"
+                }
+            ]
+        },
+        {
+            "title": "Portable PUC (Pollution Under Control) Unit",
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2010
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2010
+                }
+            },
+            "description": "The system was a prototype demonstrating the feasibility of a Pollution Under Control unit based on intel 8051 based microcontroller.\n\nPlatform: Assembly Programming, Intel 8051 microcontroller",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Ketan",
+                    "last_name": "Vyavahare",
+                    "name": null,
+                    "headline": "Software Design Engineer at ASML"
+                }
+            ]
+        }
+    ],
+    "publications": [],
+    "courses": [
+        {
+            "name": "Advanced Digital Circuit Design",
+            "number": "5P380"
+        },
+        {
+            "name": "Architecture of Distributed Systems",
+            "number": "2II45"
+        },
+        {
+            "name": "Automated reasoning",
+            "number": "2IW15"
+        },
+        {
+            "name": "Communications skills",
+            "number": "2IX17"
+        },
+        {
+            "name": "Electrophysiology",
+            "number": "5L130"
+        },
+        {
+            "name": "Embedded Computer Architecture",
+            "number": "5KK73"
+        },
+        {
+            "name": "Embedded Systems Laboratory",
+            "number": "5KK03"
+        },
+        {
+            "name": "Grid and Cloud Computing",
+            "number": "2IN28"
+        },
+        {
+            "name": "Multiprocessors",
+            "number": "5KK80"
+        },
+        {
+            "name": "Physical Aspects of Digital Security",
+            "number": "2IC35"
+        },
+        {
+            "name": "Quantitative Evaluation of Embedded Systems",
+            "number": "2IN27"
+        },
+        {
+            "name": "Real-time Systems",
+            "number": "2IN26"
+        },
+        {
+            "name": "Software Specification",
+            "number": "2IW05"
+        },
+        {
+            "name": "System Validation",
+            "number": "2IW26"
+        },
+        {
+            "name": "Systems on Silicon",
+            "number": "5KK60"
+        },
+        {
+            "name": "Technology Entrepreneurship",
+            "number": "1ZS01"
+        },
+        {
+            "name": "Ubiquitous computing and Activity Recognition",
+            "number": "5ME20"
+        },
+        {
+            "name": "Video Processing for Multimedia Systems",
+            "number": "5P530"
+        }
+    ],
+    "test_scores": [
+        {
+            "name": "TOEFL",
+            "score": "104",
+            "date": null
+        }
+    ],
+    "position_groups": [
+        {
+            "company": {
+                "id": 3894,
+                "name": "ASML",
+                "logo": "https://media.licdn.com/dms/image/C560BAQGssQfw50QsaQ/company-logo_400_400/0/1519855871260?e=1703721600&v=beta&t=Dy9d-y1YEURWKW9gwgee0M1kiJhHIn_5C8HeOomdIr8",
+                "url": "https://www.linkedin.com/company/asml/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Veldhoven",
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "ASML",
+                    "description": null,
+                    "title": "Software Design Engineer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 5838,
+                "name": "Omron Europe",
+                "logo": "https://media.licdn.com/dms/image/C560BAQGGMOpxipXY8g/company-logo_400_400/0/1661779526011?e=1703721600&v=beta&t=vuWQPMrKX9-9vzrloUyASpr_deYwfqdh__ivx086hrY",
+                "url": "https://www.linkedin.com/company/omron/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "'s-Hertogenbosch",
+                    "date": {
+                        "start": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2014
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2016
+                        }
+                    },
+                    "company": "Omron Industrial Automation Europe",
+                    "description": null,
+                    "title": "Trainee R&D Engineer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 2870,
+                "name": "Oce",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQHjpFVrWRzu5A/company-logo_400_400/0/1539265998616?e=1703721600&v=beta&t=IvCLs_HxThn4SSnqO7Ank7wR5NgquE1Vq-n1fX7LgPc",
+                "url": "https://www.linkedin.com/company/oce/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Venlo, Limburg, The Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2013
+                        },
+                        "end": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2014
+                        }
+                    },
+                    "company": "Oc\u00e9 - A Canon Company",
+                    "description": "Pointer analysis for semi-automatic code parallelizers:\nCode parallelizers are employed these days to reduce the efforts needed in manually parallelizing sequential code. But they are ineffective when it comes to handling programming constructs like pointers. In this thesis we have developed a pointer analysis infrastructure to enable pointer support for the ASET + BONES approach (a semi automatic code parallelizer). Our pointer analysis infrastructure is based upon LLVM\u2019s compiler infrastructure and relies on an indigenously developed flow insensitive, context sensitive analysis pass called ex-ptrinfo. The pass is designed to perform static analysis of source code and extract required pointer analysis information useful for parallelizing pointer based sequential code.",
+                    "title": "Graduate Intern",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "IDG Product Development",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2010
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2011
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Pune, Maharashtra, India",
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2010
+                        },
+                        "end": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2011
+                        }
+                    },
+                    "company": "IDG Product Development",
+                    "description": "Contactless Thickness Measurement System:\n\nThe system was a proof of concept for non contact thickness measurement of sub micrometer wire specimens. The design was based on principle of light diffraction and was realized using off the shelf components.",
+                    "title": "Student Internship",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "C",
+        "Embedded Systems",
+        "C++",
+        "Microcontrollers",
+        "Matlab",
+        "LLVM",
+        "Assembly Language",
+        "VHDL",
+        "Systems Engineering",
+        "Embedded Operating Systems",
+        "UML",
+        "Bash",
+        "Python",
+        "GNU Make",
+        "Compilers",
+        "Firmware",
+        "Windows ICE",
+        "Batch"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

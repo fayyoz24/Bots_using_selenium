@@ -1,0 +1,1352 @@
+{
+    "profile_id": "jasperwijnands",
+    "first_name": "Jasper",
+    "last_name": "Wijnands",
+    "sub_title": "Data Scientist at Royal Netherlands Meteorological Institute (KNMI)",
+    "profile_picture": null,
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAAA1k-YEBezZe8SnJR9Vsr2CIWlSry6g0YRk",
+    "object_urn": 224721281,
+    "birth_date": null,
+    "summary": "Following a PhD in mathematics at the University of Melbourne, my research focuses on machine learning methods and artificial intelligence. The developed methods and applications have been published in a broad range of journals, covering computer vision, atmospheric science, transportation, urban design and financial mathematics.",
+    "location": {
+        "country": "Netherlands",
+        "short": "De Bilt, Utrecht",
+        "city": "De Bilt",
+        "state": "Utrecht",
+        "default": "De Bilt, Utrecht, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "Dutch",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "English",
+                "proficiency": "FULL_PROFESSIONAL"
+            }
+        ]
+    },
+    "industry": "Research",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "school": {
+                "name": "University of Melbourne",
+                "logo": "https://media.licdn.com/dms/image/D560BAQEACkXGOAWOFg/company-logo_400_400/0/1691363408363?e=1703721600&v=beta&t=-UwXyhFtG8dHH_uFod3Iu6QtF3q6Q0QI6_W7Cg2fO50",
+                "url": "https://www.linkedin.com/school/university-of-melbourne/"
+            },
+            "degree_name": "Doctor of Philosophy - PhD",
+            "field_of_study": "School of Mathematics and Statistics",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2005
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2007
+                }
+            },
+            "school": {
+                "name": "Vrije Universiteit Amsterdam (VU Amsterdam)",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQGFG964atm3Ow/company-logo_400_400/0/1682661887840?e=1703721600&v=beta&t=871s4br2EokXU4GPzYVwsoy3BpQAoKkgU-c2zYvtGmQ",
+                "url": "https://www.linkedin.com/school/vrije-universiteit-amsterdam/"
+            },
+            "degree_name": "Master of Science (MSc)",
+            "field_of_study": "Business Mathematics and Informatics",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2002
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2005
+                }
+            },
+            "school": {
+                "name": "Vrije Universiteit Amsterdam (VU Amsterdam)",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQGFG964atm3Ow/company-logo_400_400/0/1682661887840?e=1703721600&v=beta&t=871s4br2EokXU4GPzYVwsoy3BpQAoKkgU-c2zYvtGmQ",
+                "url": "https://www.linkedin.com/school/vrije-universiteit-amsterdam/"
+            },
+            "degree_name": "Bachelor of Science (BSc)",
+            "field_of_study": "Business Mathematics and Informatics",
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [],
+    "organizations": [],
+    "projects": [],
+    "publications": [
+        {
+            "name": "The impact of the COVID-19 pandemic on air pollution: A global assessment using machine learning techniques",
+            "publisher": "Atmospheric Pollution Research",
+            "url": "https://doi.org/10.1016/j.apr.2022.101438",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2022
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Jasper",
+                    "last_name": "Wijnands",
+                    "name": null,
+                    "headline": "Data Scientist at Royal Netherlands Meteorological Institute (KNMI)"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Kerry",
+                    "last_name": "Nice",
+                    "name": null,
+                    "headline": "Research Fellow at the University of Melbourne"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Sachith",
+                    "last_name": "Seneviratne",
+                    "name": null,
+                    "headline": "Research Fellow in Computer Vision at University of Melbourne"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Jason",
+                    "last_name": "Thompson",
+                    "name": null,
+                    "headline": "Associate Professor at University of Melbourne School of Design | M.Psych (Clinical) | PhD (Medicine)"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Mark",
+                    "last_name": "Stevenson",
+                    "name": null,
+                    "headline": "Epidemiologist - Safe and Sustainable Transport"
+                }
+            ]
+        },
+        {
+            "name": "Modelling SARS-CoV-2 disease progression in Australia and New Zealand: an account of an agent-based approach to support public health decision-making",
+            "publisher": "Australian and New Zealand Journal of Public Health",
+            "url": "https://doi.org/10.1111/1753-6405.13221",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2022
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Jasper",
+                    "last_name": "Wijnands",
+                    "name": null,
+                    "headline": "Data Scientist at Royal Netherlands Meteorological Institute (KNMI)"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Jason",
+                    "last_name": "Thompson",
+                    "name": null,
+                    "headline": "Associate Professor at University of Melbourne School of Design | M.Psych (Clinical) | PhD (Medicine)"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Rod McClure",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Tony Blakely",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Nick Wilson",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Michael Baker",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Jasper Wijnands",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Thiago Herick de Sa",
+                    "headline": null
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Kerry",
+                    "last_name": "Nice",
+                    "name": null,
+                    "headline": "Research Fellow at the University of Melbourne"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Camilo",
+                    "last_name": "Cruz Gambardella",
+                    "name": null,
+                    "headline": "AI and ML in architectural design and creative practices"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Mark",
+                    "last_name": "Stevenson",
+                    "name": null,
+                    "headline": "Epidemiologist - Safe and Sustainable Transport"
+                }
+            ]
+        },
+        {
+            "name": "A hybrid deep learning approach for driver anomalous lane changing identification",
+            "publisher": "Accident Analysis & Prevention",
+            "url": "https://doi.org/10.1016/j.aap.2022.106661",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2022
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Jasper",
+                    "last_name": "Wijnands",
+                    "name": null,
+                    "headline": "Data Scientist at Royal Netherlands Meteorological Institute (KNMI)"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Pengcheng Fan",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Jingqiu Guo",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Yibing Wang",
+                    "headline": null
+                }
+            ]
+        },
+        {
+            "name": "Imagery, privacy and ethics: An overview of partially occluded facial biometric analysis in the era of face masks",
+            "publisher": "2021 International Conference on Electrical, Computer and Energy Technologies (ICECET)",
+            "url": "https://doi.org/10.1109/ICECET52533.2021.9698503",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2022
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Jasper",
+                    "last_name": "Wijnands",
+                    "name": null,
+                    "headline": "Data Scientist at Royal Netherlands Meteorological Institute (KNMI)"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Rajith",
+                    "last_name": "Vidanaarachchi",
+                    "name": null,
+                    "headline": "Research Fellow at University of Melbourne"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Sachith",
+                    "last_name": "Seneviratne",
+                    "name": null,
+                    "headline": "Research Fellow in Computer Vision at University of Melbourne"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Nuran Kasthuriarachchi",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Sanka Rasnayaka",
+                    "headline": null
+                }
+            ]
+        },
+        {
+            "name": "An artificial intelligence agent that synthesises visual abstractions of natural forms to support the design of human-made habitat structures",
+            "publisher": "Frontiers in Ecology and Evolution",
+            "url": "https://doi.org/10.3389/fevo.2022.806453",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2022
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Jasper",
+                    "last_name": "Wijnands",
+                    "name": null,
+                    "headline": "Data Scientist at Royal Netherlands Meteorological Institute (KNMI)"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Gabriele",
+                    "last_name": "Mirra",
+                    "name": null,
+                    "headline": "Postdoctoral Researcher at CREATE - University of Southern Denmark | PhD in Artificial Intelligence in Design"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Alexander Holland",
+                    "headline": null
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Stanislav",
+                    "last_name": "Roudavski",
+                    "name": null,
+                    "headline": "Senior Lecturer in Digital Architectural Design at the University of Melbourne"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Alberto",
+                    "last_name": "Pugnale",
+                    "name": null,
+                    "headline": "Senior Lecturer in Architectural Design at University of Melbourne"
+                }
+            ]
+        },
+        {
+            "name": "Self-supervision, remote sensing and abstraction: Representation learning across 3 million locations",
+            "publisher": "2021 Digital Image Computing: Techniques and Applications (DICTA)",
+            "url": "https://doi.org/10.1109/DICTA52665.2021.9647061",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2021
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Jasper",
+                    "last_name": "Wijnands",
+                    "name": null,
+                    "headline": "Data Scientist at Royal Netherlands Meteorological Institute (KNMI)"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Sachith",
+                    "last_name": "Seneviratne",
+                    "name": null,
+                    "headline": "Research Fellow in Computer Vision at University of Melbourne"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Kerry",
+                    "last_name": "Nice",
+                    "name": null,
+                    "headline": "Research Fellow at the University of Melbourne"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Mark",
+                    "last_name": "Stevenson",
+                    "name": null,
+                    "headline": "Epidemiologist - Safe and Sustainable Transport"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Jason",
+                    "last_name": "Thompson",
+                    "name": null,
+                    "headline": "Associate Professor at University of Melbourne School of Design | M.Psych (Clinical) | PhD (Medicine)"
+                }
+            ]
+        },
+        {
+            "name": "The effect of telematic based feedback and financial incentives on driving behaviour: A randomised trial",
+            "publisher": "Accident Analysis & Prevention",
+            "url": "https://doi.org/10.1016/j.aap.2021.106278",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2021
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Jasper",
+                    "last_name": "Wijnands",
+                    "name": null,
+                    "headline": "Data Scientist at Royal Netherlands Meteorological Institute (KNMI)"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Mark",
+                    "last_name": "Stevenson",
+                    "name": null,
+                    "headline": "Epidemiologist - Safe and Sustainable Transport"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Anthony Harris",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Duncan Mortimer",
+                    "headline": null
+                }
+            ]
+        },
+        {
+            "name": "Using machine learning to examine associations between the built environment and physical function: A feasibility study",
+            "publisher": "Health & Place",
+            "url": "https://doi.org/10.1016/j.healthplace.2021.102601",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2021
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Jasper",
+                    "last_name": "Wijnands",
+                    "name": null,
+                    "headline": "Data Scientist at Royal Netherlands Meteorological Institute (KNMI)"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Jerome Rachele",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Jingcheng Wang",
+                    "headline": null
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Haifeng",
+                    "last_name": "Zhao",
+                    "name": null,
+                    "headline": "Dr"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Rebecca Bentley",
+                    "headline": null
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Mark",
+                    "last_name": "Stevenson",
+                    "name": null,
+                    "headline": "Epidemiologist - Safe and Sustainable Transport"
+                }
+            ]
+        },
+        {
+            "name": "Persistence or reversal? The micro-effects of time-varying financial penalties",
+            "publisher": "Journal of Economic Behavior & Organization",
+            "url": "https://doi.org/10.1016/j.jebo.2021.05.018",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2021
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Jasper",
+                    "last_name": "Wijnands",
+                    "name": null,
+                    "headline": "Data Scientist at Royal Netherlands Meteorological Institute (KNMI)"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Duncan Mortimer",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Anthony Harris",
+                    "headline": null
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Mark",
+                    "last_name": "Stevenson",
+                    "name": null,
+                    "headline": "Epidemiologist - Safe and Sustainable Transport"
+                }
+            ]
+        },
+        {
+            "name": "Identifying safe intersection design through unsupervised feature extraction from satellite imagery",
+            "publisher": "Computer-Aided Civil and Infrastructure Engineering",
+            "url": "https://doi.org/10.1111/mice.12623",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2020
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Jasper",
+                    "last_name": "Wijnands",
+                    "name": null,
+                    "headline": "Data Scientist at Royal Netherlands Meteorological Institute (KNMI)"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "H. Zhao",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "K. Nice",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "J. Thompson",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "K. Scully",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "J. Guo",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "M. Stevenson",
+                    "headline": null
+                }
+            ]
+        },
+        {
+            "name": "Real-time monitoring of driver drowsiness on mobile platforms using 3D neural networks",
+            "publisher": "Neural Computing and Applications",
+            "url": "https://doi.org/10.1007/s00521-019-04506-0",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2020
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Jasper",
+                    "last_name": "Wijnands",
+                    "name": null,
+                    "headline": "Data Scientist at Royal Netherlands Meteorological Institute (KNMI)"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "J. Thompson",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "K. Nice",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "G. Aschwanden",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "M. Stevenson",
+                    "headline": null
+                }
+            ]
+        },
+        {
+            "name": "A global analysis of urban design types and road transport injury: an image processing study",
+            "publisher": "The Lancet Planetary Health",
+            "url": "https://doi.org/10.1016/S2542-5196(19)30263-3",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2020
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Jasper",
+                    "last_name": "Wijnands",
+                    "name": null,
+                    "headline": "Data Scientist at Royal Netherlands Meteorological Institute (KNMI)"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "J. Thompson",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "M. Stevenson",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "K. Nice",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "G. Aschwanden",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "J. Silver",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "M. Nieuwenhuijsen",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "P. Rayner",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "R. Schofield",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "R. Hariharan",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "C. Morrison",
+                    "headline": null
+                }
+            ]
+        },
+        {
+            "name": "Assessing injury severity of secondary incidents using support vector machines",
+            "publisher": "Journal of Transportation Safety & Security",
+            "url": "https://doi.org/10.1080/19439962.2020.1754983",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2020
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Jasper",
+                    "last_name": "Wijnands",
+                    "name": null,
+                    "headline": "Data Scientist at Royal Netherlands Meteorological Institute (KNMI)"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "J. Li",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "J. Guo",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "R. Yu",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "C. Xu",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "M. Stevenson",
+                    "headline": null
+                }
+            ]
+        },
+        {
+            "name": "Modeling and interpreting road geometry from a driver's perspective using variational autoencoders",
+            "publisher": "Computer-Aided Civil and Infrastructure Engineering",
+            "url": "https://doi.org/10.1111/mice.12594",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2020
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Jasper",
+                    "last_name": "Wijnands",
+                    "name": null,
+                    "headline": "Data Scientist at Royal Netherlands Meteorological Institute (KNMI)"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "F. Wang",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Y. Chen",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "J. Guo",
+                    "headline": null
+                }
+            ]
+        },
+        {
+            "name": "Opportunities to reduce road traffic injury: new insights from the study of urban areas",
+            "publisher": "International Journal of Injury Control and Safety Promotion",
+            "url": "https://doi.org/10.1080/17457300.2019.1704790",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2020
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Jasper",
+                    "last_name": "Wijnands",
+                    "name": null,
+                    "headline": "Data Scientist at Royal Netherlands Meteorological Institute (KNMI)"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "M. Stevenson",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "J. Thompson",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "K. Nice",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "G. Aschwanden",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "H. Zhao",
+                    "headline": null
+                }
+            ]
+        },
+        {
+            "name": "The 'Paris-end' of town? Deriving urban typologies using three imagery types",
+            "publisher": "Urban Science",
+            "url": "https://doi.org/10.3390/urbansci4020027",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2020
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Jasper",
+                    "last_name": "Wijnands",
+                    "name": null,
+                    "headline": "Data Scientist at Royal Netherlands Meteorological Institute (KNMI)"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "K. Nice",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "J. Thompson",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "G. Aschwanden",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "M. Stevenson",
+                    "headline": null
+                }
+            ]
+        },
+        {
+            "name": "The perils of perfect performance; considering the effects of introducing autonomous vehicles on rates of car vs cyclist conflict",
+            "publisher": "Ergonomics",
+            "url": "https://doi.org/10.1080/00140139.2020.1739326",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2020
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Jasper",
+                    "last_name": "Wijnands",
+                    "name": null,
+                    "headline": "Data Scientist at Royal Netherlands Meteorological Institute (KNMI)"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "J. Thompson",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "G. Read",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "P. Salmon",
+                    "headline": null
+                }
+            ]
+        },
+        {
+            "name": "Car-following modeling incorporating driving memory based on autoencoder and Long Short-Term Memory neural networks",
+            "publisher": "Sustainability",
+            "url": "https://doi.org/10.3390/su11236755",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2019
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Jasper",
+                    "last_name": "Wijnands",
+                    "name": null,
+                    "headline": "Data Scientist at Royal Netherlands Meteorological Institute (KNMI)"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "P. Fan",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "J. Guo",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "H. Zhao",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Y. Wang",
+                    "headline": null
+                }
+            ]
+        },
+        {
+            "name": "Evidence for the 'safety in density' effect for cyclists: validation of agent-based modelling results",
+            "publisher": "Injury Prevention",
+            "url": "https://doi.org/10.1136/injuryprev-2018-042763",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2019
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Jasper",
+                    "last_name": "Wijnands",
+                    "name": null,
+                    "headline": "Data Scientist at Royal Netherlands Meteorological Institute (KNMI)"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "J. Thompson",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "S. Mavoa",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "K. Scully",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "M. Stevenson",
+                    "headline": null
+                }
+            ]
+        },
+        {
+            "name": "Learning to walk: modeling transportation mode choice distribution through neural networks",
+            "publisher": "Environment and Planning B: Urban Analytics and City Science",
+            "url": "https://doi.org/10.1177/2399808319862571",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2019
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Jasper",
+                    "last_name": "Wijnands",
+                    "name": null,
+                    "headline": "Data Scientist at Royal Netherlands Meteorological Institute (KNMI)"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "G. Aschwanden",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "J. Thompson",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "K. Nice",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "H. Zhao",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "M. Stevenson",
+                    "headline": null
+                }
+            ]
+        }
+    ],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 21225,
+                "name": "KNMI - Royal Netherlands Meteorological Institute",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQHcggurhlwZsg/company-logo_400_400/0/1519856367173?e=1703721600&v=beta&t=486MVRR3dycXpToBEWHxkK8PXd-lrebnJjhmdc4ctpk",
+                "url": "https://www.linkedin.com/company/knmi/",
+                "employees": {
+                    "start": 201,
+                    "end": 500
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "De Bilt, Utrecht, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "KNMI - Royal Netherlands Meteorological Institute",
+                    "description": "Research and Development position with a particular focus on artificial intelligence and machine learning methods. Jasper is part of the KNMI DataLab, performing data-driven research using new and existing data sources in relation to weather forecasting and climate research.",
+                    "title": "Data Scientist",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 5677,
+                "name": "The University of Melbourne",
+                "logo": "https://media.licdn.com/dms/image/D560BAQEACkXGOAWOFg/company-logo_400_400/0/1691363408363?e=1703721600&v=beta&t=-UwXyhFtG8dHH_uFod3Iu6QtF3q6Q0QI6_W7Cg2fO50",
+                "url": "https://www.linkedin.com/school/university-of-melbourne/",
+                "employees": {
+                    "start": 5001,
+                    "end": 10000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Melbourne, Australia",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "University of Melbourne",
+                    "description": "Post-doc position focussing on artificial intelligence methods and applications, including convolutional neural networks, generative adversarial networks, variational autoencoders and Long Short-Term Memory recurrent neural networks. Jasper was part of the cross-disciplinary Transport, Health and Urban Design Research Lab at the University of Melbourne, Australia\u2019s highest ranked university (global ranking: #31).",
+                    "title": "Research Fellow",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Ernst & Young Actuarial Services",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Melbourne, Australia",
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "day": null,
+                            "year": 2013
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": 2014
+                        }
+                    },
+                    "company": "Ernst & Young Actuarial Services",
+                    "description": null,
+                    "title": "Manager",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Ernst & Young Financial Services Risk",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2005
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2011
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "The Netherlands, Switzerland (1 year), United States (1 year)",
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "day": null,
+                            "year": 2005
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": 2011
+                        }
+                    },
+                    "company": "Ernst & Young Financial Services Risk",
+                    "description": null,
+                    "title": "Senior Advisor",
+                    "employment_type": "Full-time"
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Financial Risk",
+        "Mathematics",
+        "Research",
+        "Machine Learning",
+        "Risk Management",
+        "Valuation",
+        "Banking",
+        "Enterprise Risk Management",
+        "Economics",
+        "Management"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

@@ -1,0 +1,733 @@
+{
+    "profile_id": "nielsgl",
+    "first_name": "Niels",
+    "last_name": "van Galen Last",
+    "sub_title": "Senior Data Science & Data Engineering Consultant",
+    "profile_picture": "https://media.licdn.com/dms/image/C4E03AQGnWvGULOPT2w/profile-displayphoto-shrink_800_800/0/1517710183970?e=1701302400&v=beta&t=OveeLeKELM0WnLAYBGtfL6X6c_rYAVOWeJWO3HFavvQ",
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAAADZir8BL_HwgLJvupYQ3dZ1LPAtz0nBono",
+    "object_urn": 14256831,
+    "birth_date": null,
+    "summary": "As computer scientist and mathematician by training I am a full-stack data scientist and engineer.\nI'm a seasoned data scientist with extensive experience in statistical modeling, machine learning and big data analytics that thrives on working in cross-disciplinary teams and applying my knowledge to solve challenging and important problems.\nWhether it is the pre-processing or feature engineering of a dataset, optimizing the (hyper)parameters of my model, containerizing and building CI/CD pipelines to deploying the cloud infrastructure as code or implementing resources to monitor my models for drift detection, I am very comfortable with my prowess to write solid code for every aspect of the life cycle.\nFrom the exciting results obtained from a model project with stakeholders, new tools that can increase the velocity of developers to guiding juniors or mediors to write better code, I enjoy sharing knowledge, leading teams and help people get better.",
+    "location": {
+        "country": "Netherlands",
+        "short": "Amsterdam Area",
+        "city": null,
+        "state": null,
+        "default": "Amsterdam Area"
+    },
+    "premium": true,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "Dutch",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "English",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ]
+    },
+    "industry": "Information Technology & Services",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "school": {
+                "name": "Stanford University",
+                "logo": "https://media.licdn.com/dms/image/C560BAQHr9suxyJBXMw/company-logo_400_400/0/1635534378574?e=1703721600&v=beta&t=vzUq74RHOVse47Wqg7TNJu8L29Z1UV1hr2f3US43Yck",
+                "url": "https://www.linkedin.com/school/stanford-university/"
+            },
+            "degree_name": "M.S. / PhD",
+            "field_of_study": "Computational and Mathematical Engineering",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2010
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2011
+                }
+            },
+            "school": {
+                "name": "Stanford University",
+                "logo": "https://media.licdn.com/dms/image/C560BAQHr9suxyJBXMw/company-logo_400_400/0/1635534378574?e=1703721600&v=beta&t=vzUq74RHOVse47Wqg7TNJu8L29Z1UV1hr2f3US43Yck",
+                "url": "https://www.linkedin.com/school/stanford-university/"
+            },
+            "degree_name": "Master of Science (M.S.)",
+            "field_of_study": "Computational and Mathematical Engineering",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2008
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2011
+                }
+            },
+            "school": {
+                "name": "Delft University of Technology",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQFwaGpwaod9mQ/company-logo_400_400/0/1670699851986?e=1703721600&v=beta&t=Aw4oLxoKsIJcblYDjxw9200FClnyhZu8DxzcfJRDFOs",
+                "url": "https://www.linkedin.com/school/tudelft/"
+            },
+            "degree_name": "M.S.",
+            "field_of_study": "Computer Science",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2004
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2008
+                }
+            },
+            "school": {
+                "name": "Amsterdam University of Applied Sciences",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQG5N3LiFgKyuA/company-logo_400_400/0/1659945616039?e=1703721600&v=beta&t=_yYH2p87VLVfJBoCQui8IOoUyl1P1-eu71DZPVaXfsk",
+                "url": "https://www.linkedin.com/school/hogeschool-van-amsterdam/"
+            },
+            "degree_name": "BSc",
+            "field_of_study": "Computer Science",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2007
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2007
+                }
+            },
+            "school": {
+                "name": "University of Amsterdam",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQEfHBj_we-_kw/company-logo_400_400/0/1659945104460?e=1703721600&v=beta&t=nxt14hUDODg3MttkNj5Qa0fCu2FbgGbRXyFSapRtNv4",
+                "url": "https://www.linkedin.com/school/university-of-amsterdam/"
+            },
+            "degree_name": "BSc",
+            "field_of_study": "Artificial Intelligence",
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [
+        {
+            "title": "Library of Congress Fellowship",
+            "description": "Full research scholarship by the Library of Congress under the Computational\nApproaches to Digital Stewardship (CADS) program.",
+            "issuer": "Library of Congress",
+            "date": {
+                "month": 9,
+                "day": null,
+                "year": 2011
+            }
+        },
+        {
+            "title": "NVIDIA Fellowship",
+            "description": "2 year fellowship by NVIDIA, under the CUDA Center of Excellence (CCOE) program.",
+            "issuer": "NVIDIA",
+            "date": {
+                "month": 9,
+                "day": null,
+                "year": 2011
+            }
+        },
+        {
+            "title": "Fulbright Scholarship",
+            "description": "Fulbright Scholarship to fund my research at Stanford University.",
+            "issuer": "Fulbright",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2010
+            }
+        },
+        {
+            "title": "Huygens Talent Scholarship",
+            "description": "National Award for Best Students in the Netherlands",
+            "issuer": "Nuffic",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2010
+            }
+        },
+        {
+            "title": "EEMCS Faculty Scholarship",
+            "description": "Research scholarship.",
+            "issuer": "Delft University of Technology",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2008
+            }
+        }
+    ],
+    "certifications": [],
+    "organizations": [],
+    "projects": [],
+    "publications": [],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 10001352,
+                "name": "Future Facts",
+                "logo": "https://media.licdn.com/dms/image/C560BAQGWBDLG_WBZrg/company-logo_400_400/0/1610985859131?e=1703721600&v=beta&t=X9ZH_HNQ7Rs753vPISF3Ii_812J06rg-_WUV-iLiGQE",
+                "url": "https://www.linkedin.com/company/future-facts/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amsterdam, North Holland, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2020
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Future Facts",
+                    "description": "Consulting various enterprise companies on data science and data engineering problems and projects. Leading teams, mentoring juniors and driving product development, from championing the standardization of projects and pipelines, developing internal libraries to stakeholder management. Other clients include Translink, PON and Zorg van de Zaak.\n\nPostNL (May 2021 - Present)\n- Currently technical lead of the AI Platform team that designs and implements a cross-account AWS infrastructure centered around SageMaker Studio which will be used by every team (DS, DE, MLOps) for prototyping, developing, deploying and monitoring all machine learning projects at PostNL.\n- Created a toolkit and construct library around CDK to standardize and jump-start the development of stacks and pipelines, now used at every new project by the data engineering teams.\n- Industrialized a large ML model for daily parcel volume forecasting per depot in the Netherlands and Belgium.\n- Training and mentoring junior/medior data engineers and scientists to write code, develop models and workflows that can be used in a enterprise-scale environment.\n\nANWB (June 2020 - May 2021)\nResponsible for implementing core functionality of the internally developed data processing framework, designing and implementing data flows for the Virtual Assistant and Smart Driver teams, and actively guiding junior developers with code reviews and knowledge transfer sessions.\n\nUnigarant (Feb 2020 - June 2020)\nDesigned, implemented and industrialized a model to aid the fraud detection department. Consists of a stacked ensemble of traditional models and a deep learning model (TensorFlow), with automatic retraining, on-prem deployment and explainable predictions.",
+                    "title": "Senior Data Science & Data Engineering Consultant",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Ronix LLC",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "San Francisco Bay Area",
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Ronix LLC",
+                    "description": "Consulting organizations on their technology stack, scalability and growth. Helping organizations to understand how and which data to capture to create meaningful and actionable insights through data science and visualizations.",
+                    "title": "Founder",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 11094096,
+                "name": "XLabs.ai",
+                "logo": "https://media.licdn.com/dms/image/C560BAQExuVWvKqzzrw/company-logo_400_400/0/1625265506451?e=1703721600&v=beta&t=vVyn_bXlKAlFgzPTCNY6MWmuxmr9K_cxtZ7kle6EsD8",
+                "url": "https://www.linkedin.com/company/xlabs.ai/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amsterdam Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2020
+                        }
+                    },
+                    "company": "XLabs.ai",
+                    "description": "Lead the design and implementation of an automated machine learning platform on AWS. Implemented a deep learning model for RNA sequence classification to detect cancer, outperforming the state-of-the-art results.",
+                    "title": "Chief Data Officer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 2119529,
+                "name": "Post Planner",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQE6G1LYWlqWkg/company-logo_400_400/0/1519877881635?e=1703721600&v=beta&t=h98TeDhcdnp1BYIFCKXr0jxgH4AzFf55W9U4hibF-CM",
+                "url": "https://www.linkedin.com/company/post-planner/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "San Francisco, California, United States",
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2018
+                        }
+                    },
+                    "company": "Post Planner",
+                    "description": "Headed all technology efforts, leading and managing the front-end and backend teams. Built recommendation algorithms used by more than 250,000 users. Responsible for architecting and building the cloud infrastructure, migrating all infrastructure from Digital Ocean to AWS.",
+                    "title": "Chief Technology Officer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 2500569,
+                "name": "Scal.io",
+                "logo": "https://media.licdn.com/dms/image/C560BAQGTP7Ft5XHoOQ/company-logo_400_400/0/1673641038162?e=1703721600&v=beta&t=LK3YrWELN4FdY7A5mKMPHq7DQ2sK-rxs1Rx4VY6xnxg",
+                "url": "https://www.linkedin.com/company/scalio/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "San Francisco Bay Area",
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2016
+                        }
+                    },
+                    "company": "Scalio",
+                    "description": "Full-stack engineer, developed intuitive, scalable RESTful APIs (TypeScript/NodeJS) and databases (DynamoDB, MongoDB and MariaDB) with React front-ends for clients in the financial space.",
+                    "title": "Senior Software Engineer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 2723619,
+                "name": "Evergive",
+                "logo": "https://media.licdn.com/dms/image/C560BAQGbXIh4iMul3A/company-logo_400_400/0/1519896327603?e=1703721600&v=beta&t=TYf68aWiFk-FTMt2j2esAUA_OTnenxUKKGeP3pF7BSI",
+                "url": "https://www.linkedin.com/company/evergive/",
+                "employees": {
+                    "start": 2,
+                    "end": 10
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "San Francisco Bay Area",
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2013
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2015
+                        }
+                    },
+                    "company": "Evergive",
+                    "description": "Led a team of engineers and spearheading the product development of the Android, iOS and web application. Developed a fully scalable and distributed backend infrastructure from the ground up. Designed and implemented analytical tools to provide insights for the internal leadership team and external partners.",
+                    "title": "Chief Technology Officer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1792,
+                "name": "Stanford University",
+                "logo": "https://media.licdn.com/dms/image/C560BAQHr9suxyJBXMw/company-logo_400_400/0/1635534378574?e=1703721600&v=beta&t=vzUq74RHOVse47Wqg7TNJu8L29Z1UV1hr2f3US43Yck",
+                "url": "https://www.linkedin.com/school/stanford-university/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Stanford University",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2012
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2014
+                        }
+                    },
+                    "company": "Stanford University",
+                    "description": "Worked in the CHARM (Collaborative Haptics and Robotics in Medicine) lab, supervised by Prof. Okamura. My research was funded by a CUDA CCOE (Computational Center Of Excellence) fellowship from Nvidia Corporation.",
+                    "title": "Research Assistant",
+                    "employment_type": null
+                },
+                {
+                    "location": "Stanford University",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2011
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2012
+                        }
+                    },
+                    "company": "Stanford University",
+                    "description": "Working in the Computational Approaches to Digital Stewardship (CADS) project, a collaboration with the Library of Congress, under supervision of Prof. Margot Gerritsen of Stanford University and George Coulbourne (Executive Program Officerr, Office of Strategic Initiatives (OSI), of the Library of Congress)",
+                    "title": "Research Assistant",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 166529,
+                "name": "Delft University of Technology",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQFwaGpwaod9mQ/company-logo_400_400/0/1670699851986?e=1703721600&v=beta&t=Aw4oLxoKsIJcblYDjxw9200FClnyhZu8DxzcfJRDFOs",
+                "url": "https://www.linkedin.com/school/tudelft/",
+                "employees": {
+                    "start": 5001,
+                    "end": 10000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2010
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2010
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2010
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2010
+                        }
+                    },
+                    "company": "Delft University of Technology",
+                    "description": "Teaching students to implement data structures and algorithms in Java and grading their work.",
+                    "title": "TA Algorithms and Data Structures",
+                    "employment_type": null
+                },
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2010
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2010
+                        }
+                    },
+                    "company": "Delft University of Technology",
+                    "description": "Tasks include teaching students SWI-Prolog and the GOAL multi-agent programming language, guiding several student teams to develop a multi-agent system that controls an Unreal Tournament bot and grading their results.",
+                    "title": "TA Knowledge Engineering",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 164051,
+                "name": "Green Valley",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQFaHQmNIsWWYg/company-logo_400_400/0/1519898313361?e=1703721600&v=beta&t=nimKbXHrc_AO6igo4o75P-zzJwYwWn3NqNKHZZpFqmw",
+                "url": "https://www.linkedin.com/company/roxit-ecm/",
+                "employees": {
+                    "start": 0,
+                    "end": 1
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2009
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2009
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Delft Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2009
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2009
+                        }
+                    },
+                    "company": "Green Valley",
+                    "description": "Optimized database search queries.\nAnalyzed different algorithms for improving ranking search results.",
+                    "title": "Software Engineer Internship",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "PDS",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2006
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2009
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amsterdam Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2006
+                        },
+                        "end": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2009
+                        }
+                    },
+                    "company": "PDS",
+                    "description": "ed the development of a CMS from inception to production used by 100+ partners.",
+                    "title": "Senior Software Engineer",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Leadership",
+        "React.js",
+        "Databases",
+        "REST APIs",
+        "PySpark",
+        "Cloud Development",
+        "Amazon Web Services (AWS)",
+        "Deep Learning",
+        "Python (Programming Language)",
+        "Data Engineering",
+        "Team Leadership",
+        "Machine Learning",
+        "Programming",
+        "Java",
+        "Artificial Intelligence",
+        "C++",
+        "Ruby",
+        "Pattern Recognition",
+        "Ruby on Rails",
+        "Matlab"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

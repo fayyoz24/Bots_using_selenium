@@ -1,0 +1,590 @@
+{
+    "profile_id": "quentin-bourdos-35089559",
+    "first_name": "Quentin",
+    "last_name": "Bourdos",
+    "sub_title": "Discipline Lead Engineer - Cable Burial, Route Engineering, Rock Design, Landfall",
+    "profile_picture": null,
+    "background_image": "https://media.licdn.com/dms/image/C5616AQHTmkLvvaa1UA/profile-displaybackgroundimage-shrink_350_1400/0/1543320168148?e=1701302400&v=beta&t=rM5dSdPOZgy9axnW6Bqr0MJR3M_CizLDXBJBMoo3T6Q",
+    "profile_type": "personal",
+    "entity_urn": "ACoAAAxpLKwBrDhUHY8wZrqW7tganuuAGzr_OMo",
+    "object_urn": 208219308,
+    "birth_date": null,
+    "summary": null,
+    "location": {
+        "country": "Netherlands",
+        "short": "Breda, North Brabant",
+        "city": "Breda",
+        "state": "North Brabant",
+        "default": "Breda, North Brabant, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "FR",
+            "language": "fr"
+        },
+        "supported_locales": [
+            {
+                "country": "FR",
+                "language": "fr"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "English",
+                "proficiency": "FULL_PROFESSIONAL"
+            },
+            {
+                "name": "French",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "Spanish",
+                "proficiency": "LIMITED_WORKING"
+            }
+        ]
+    },
+    "industry": "Oil & Energy",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "school": {
+                "name": "ENSTA Bretagne",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQGawPoIm7j8DQ/company-logo_400_400/0/1587568828772?e=1703721600&v=beta&t=Iieay11LI-u2NDfc3KD8D4SVJceeh0E30zncOniRFFM",
+                "url": "https://www.linkedin.com/school/ensta-bretagne/"
+            },
+            "degree_name": "Post-Master Degree",
+            "field_of_study": "Marine Renewable Energy",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "school": {
+                "name": "Polytech Sorbonne",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQFbYbo8RHW72A/company-logo_400_400/0/1579793953328?e=1703721600&v=beta&t=51bE7x_vncsO7-J5gRM92YgsLwZUqxA-FvOnKD6Y_Sg",
+                "url": "https://www.linkedin.com/school/polytech-sorbonne/"
+            },
+            "degree_name": "Engineer Diploma",
+            "field_of_study": "Geological, Geophysical and Geotechnical Engineering",
+            "grade": "Ranking : 5th/42"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "school": {
+                "name": "University of Bergen (UiB)",
+                "logo": "https://media.licdn.com/dms/image/D4D0BAQEYNxMKN2YJHQ/company-logo_400_400/0/1690965940146?e=1703721600&v=beta&t=MmabTgtTr0A2hdgEJCBm-BSEZrQHgGd1iaHLmTSEJso",
+                "url": "https://www.linkedin.com/school/university-of-bergen/"
+            },
+            "degree_name": null,
+            "field_of_study": "Oil&Gas, Offshore",
+            "grade": "B"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2010
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "school": {
+                "name": "Polytech Paris-Saclay",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQEHm36Kq66bcQ/company-logo_400_400/0/1595408249004?e=1703721600&v=beta&t=cA8k07KPSKlvxz-V2PiSdAucuWm9yADtNlfVPHfYXA0",
+                "url": "https://www.linkedin.com/school/polytech-paris-saclay/"
+            },
+            "degree_name": "Intensive preparation for Polytech Engineer Schools",
+            "field_of_study": "General science",
+            "grade": "Top of class in Polytech Paris-Saclay, 7th/1060 nation wide"
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "Floating Wind Turbine academic study",
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "description": "Project supervised by Nass&Wind.\n\n- Hydrodynamic study of a wind turbine floater : creation of a MATLAB script based on Morison's equation. This script enables the calculation of hydrodynamic wave loads and associated response (6 degrees of liberty) for floaters of different geometries.\n\n- Turbine study: implementation of the Blade Element Method on a MATLAB script for the optimisation of the turbine's blades. Optimisation of the blade's twist law throught the combinaison of our BEM script and XFLR5. Creation of a turbine control simulation under Simulink including blade pitch control and MPPT control.\n\n- Economic study: creation of an floating wind project economic evaluation tool. Based on Excel, it enables the user to fully parameter the project (geographic situation, ). The tool then estimates the project CAPEX including costs of turbine, floater, mooring, installation, cables, environmental studies, soil studies, engineering and decommissioning. It then computes the corresponding cost of electricity and the global financial balance of the project.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Quentin",
+                    "last_name": "Bourdos",
+                    "name": null,
+                    "headline": "Discipline Lead Engineer - Cable Burial, Route Engineering, Rock Design, Landfall"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Adrien ",
+                    "last_name": "Rass",
+                    "name": null,
+                    "headline": "Architecte naval chez Technip Energies"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Romain",
+                    "last_name": "Quancard",
+                    "name": null,
+                    "headline": "Senior engineer - Offshore wind loads assessment"
+                }
+            ]
+        },
+        {
+            "title": "Dew it yourself [Projet Enactus]",
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "description": "Social entrepreneurship for dew gathering.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Quentin",
+                    "last_name": "Bourdos",
+                    "name": null,
+                    "headline": "Discipline Lead Engineer - Cable Burial, Route Engineering, Rock Design, Landfall"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Mikael",
+                    "last_name": "GIRAUD",
+                    "name": null,
+                    "headline": "Responsable Bureau d\u2019\u00c9tudes chez EXTRACT"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Antoine",
+                    "last_name": "Bertrand",
+                    "name": null,
+                    "headline": "Geotechnical Engineer at DEME Offshore (DEME Group)"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Baptiste",
+                    "last_name": "Juge",
+                    "name": null,
+                    "headline": "Etudiant chez Polytech'Paris-UPMC"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Cl\u00e9ment",
+                    "last_name": "Brouillat-Fargier",
+                    "name": null,
+                    "headline": "Ing\u00e9nieur Fondations Sp\u00e9ciales"
+                }
+            ]
+        }
+    ],
+    "publications": [],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 15516,
+                "name": "DEME Group",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQG4jNKo16qLWw/company-logo_400_400/0/1562259066061?e=1703721600&v=beta&t=2-8y5xjWa_IzVytFitEgfeDHCXmdg1x-kPzNhDGyjzU",
+                "url": "https://www.linkedin.com/company/demegroup/",
+                "employees": {
+                    "start": 5001,
+                    "end": 10000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Breda, North Brabant, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2020
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "DEME Group",
+                    "description": "Team coordinator of the TRL team within the Engineering department of DEME Offshore\nThe TRL Team is responsible for all engineering related to:\n\n  1  -  Cable burial\nSoil conditions assessment, burial tool selection, production assessment, opportunities and risks assessment \n\n  2  -  Cable route design\nConstraint identifications, route engineering, route cost optimization\n\n  3  -  Rock design\nMetocean conditions assessments, hydraulic stability assessment, rock berm design, scour assessment, backfilling assessment\n\n  4  -  Landfall\nSlope stability assessment, pipe pull-in assessment, assistance in cofferdam design",
+                    "title": "Discipline Lead Engineer - Cable Burial, Route Engineering, Rock Design, Landfall",
+                    "employment_type": "Full-time"
+                },
+                {
+                    "location": "Breda, North Brabant Province, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2017
+                        },
+                        "end": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2020
+                        }
+                    },
+                    "company": "DEME Group",
+                    "description": null,
+                    "title": "Geotechnical and Trenching Engineer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 507609,
+                "name": "wpd France",
+                "logo": "https://media.licdn.com/dms/image/C560BAQGoabJbBAmdyQ/company-logo_400_400/0/1519905516001?e=1703721600&v=beta&t=zZ9axjS9SrgDfM0Tn17FRZWxCv4lPI0M7kErQXXkEF4",
+                "url": "https://www.linkedin.com/company/wpd-france/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "R\u00e9gion de Paris, France",
+                    "date": {
+                        "start": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2016
+                        }
+                    },
+                    "company": "wpd France",
+                    "description": "Geological DeksTop Study for an wind farm offshore Dunkirk, France.\nThe study focused on the site geological and seabed conditions and on the associated constraints and recommendations:\n- site stratigraphy, lithology, geotechnics, seabed morphology and dynamics\n- site anthropic constraints\n- cable installation methods feasibility\n- foundation types feasibility\n- future geophysical and geotehcnical survey recommendations",
+                    "title": "Geoscience Engineer Intern",
+                    "employment_type": "Internship"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 6748,
+                "name": "Fugro",
+                "logo": "https://media.licdn.com/dms/image/C560BAQHg3VjvnoShqQ/company-logo_400_400/0/1559309136763?e=1703721600&v=beta&t=6KDqxvM9creE2Uv1H7LOaP5vMXjjhoQQkKrnSwMye6U",
+                "url": "https://www.linkedin.com/company/fugro/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "R\u00e9gion de Paris, France",
+                    "date": {
+                        "start": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2015
+                        }
+                    },
+                    "company": "Fugro",
+                    "description": "Main mission:\nGeotechnical investigation for the french offshore windfarm of Courseulles-sur-Mer. \nBased in Le Havre, France, I was conducting core geological and geotechnical descriptions and interpretations. I was also in charge of a lab technician team and thus of dispatching samples for lab testing and checking their results.\n\nSecondary tasks:\n- R&D project: I created a hydrocarbon volume estimation method based on fully available core X-Ray data and isolated core CT-Scan data\n- Bibliographic study on the validity of soil rigidity determination methods for the characterization of long term responses of laterally loaded offshore wind turbine monopile foundation.",
+                    "title": "Geotechnical Engineer Intern",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 17796,
+                "name": "COLAS",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQH1WVfu4wTrQw/company-logo_400_400/0/1645110753493?e=1703721600&v=beta&t=3C5QYaFwLm8oK5tDZ7ZkGm8pd04grZyVSrWU2B2W7GQ",
+                "url": "https://www.linkedin.com/company/colas/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "R\u00e9gion de Paris, France",
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2014
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2014
+                        }
+                    },
+                    "company": "COLAS",
+                    "description": "As a site manager: \n  - construction site planning, resource and team management\n  - representation toward clients, locals and sub-contractors\n  - reporting\n\nAs a foreman:\n  - several construction site administration\n  - site managers leading\n  - project preparation\n  - conflicts management",
+                    "title": "Site manager and foreman intern",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 17796,
+                "name": "COLAS",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQH1WVfu4wTrQw/company-logo_400_400/0/1645110753493?e=1703721600&v=beta&t=3C5QYaFwLm8oK5tDZ7ZkGm8pd04grZyVSrWU2B2W7GQ",
+                "url": "https://www.linkedin.com/company/colas/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "R\u00e9gion de Paris, France",
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2013
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2013
+                        }
+                    },
+                    "company": "COLAS",
+                    "description": "As a worker:\n  - laying/installation/removal/transportantion of equipment and material\n  - trench digging/filling and leveling\n  \nAs the site manager assistant: \n  - topographic measurements\n  - implantation\n  - communication with locals",
+                    "title": "Worker intern",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 4249,
+                "name": "EDF",
+                "logo": "https://media.licdn.com/dms/image/C560BAQEUXtrGCgAHtg/company-logo_400_400/0/1519855919046?e=1703721600&v=beta&t=4xj3mYi-sPK0ByKOksoV-bJ3IpxHhKEGPO0u_nP4CdI",
+                "url": "https://www.linkedin.com/company/edf/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Centrale Nucl\u00e9aire de Nogent-sur-Seine",
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2012
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2012
+                        }
+                    },
+                    "company": "EDF",
+                    "description": "- Analysis of two systems failure history over the last 20 years in the nuclear power plant. \n- Use of the created database to write the two systems initial reliability reports. \n- Proposition of a modification plan to improve their reliability over the years.",
+                    "title": "System Reliability Technician Intern",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "TECHNOSOL",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2007
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2007
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Palaiseau",
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2007
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2007
+                        }
+                    },
+                    "company": "TECHNOSOL",
+                    "description": "- Geotechnical engineering world discovery\n\n- Assistance to the geotechnical laboratory technician : realisation of simple mechanical tests on soil and rock samples, data gathering, simple analysis",
+                    "title": "Lab technician assistant (intern)",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Gestion de projet",
+        "Microsoft Office",
+        "Matlab",
+        "C",
+        "Microsoft Excel",
+        "PowerPoint",
+        "Fortran 90"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

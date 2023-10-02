@@ -1,0 +1,588 @@
+{
+    "profile_id": "iman-bellouki-70656967",
+    "first_name": "Iman",
+    "last_name": "Bellouki",
+    "sub_title": "3D Development Engineer at Grip",
+    "profile_picture": "https://media.licdn.com/dms/image/C4E03AQGTNxWm9T9oSw/profile-displayphoto-shrink_800_800/0/1621255539943?e=1701302400&v=beta&t=yY_p0hqZZruYT06cFzelDZHn4RVE_aXvDgRER6ZNt5g",
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAAA4kkrYBOCmx32DoRvowvynfFBZYOfLQMvU",
+    "object_urn": 237277878,
+    "birth_date": null,
+    "summary": "I wish to build a career in the field of 2D/3D Computer Graphics.",
+    "location": {
+        "country": "Netherlands",
+        "short": "Amsterdam, North Holland",
+        "city": "Amsterdam",
+        "state": "North Holland",
+        "default": "Amsterdam, North Holland, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "FR",
+            "language": "fr"
+        },
+        "supported_locales": [
+            {
+                "country": "FR",
+                "language": "fr"
+            },
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "Arabic",
+                "proficiency": "LIMITED_WORKING"
+            },
+            {
+                "name": "English",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "French",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "Japanese",
+                "proficiency": "ELEMENTARY"
+            },
+            {
+                "name": "Spanish",
+                "proficiency": "PROFESSIONAL_WORKING"
+            }
+        ]
+    },
+    "industry": "Computer Software",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "school": {
+                "name": "National School of Computer Science and Applied Mathematics of Grenoble",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQHWEKwV0MXnvg/company-logo_400_400/0/1625137819978?e=1703721600&v=beta&t=HNlfaCV44wffPIBaVxov-aQiwBCZGxNuwTlOlt2iyv8",
+                "url": "https://www.linkedin.com/school/ensimag/"
+            },
+            "degree_name": "Master's degree",
+            "field_of_study": "Computer Science",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2010
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "school": {
+                "name": "Lyc\u00e9e Saint-Louis, Paris",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": null,
+            "field_of_study": "Mathematics and Physics",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2010
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "school": {
+                "name": "Lyc\u00e9e Descartes, Rabat - Maroc",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "French Baccalaur\u00e9at (high school graduation degree) - Scientific Section, specialized in Mathematics",
+            "field_of_study": null,
+            "grade": "Highest Honours"
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "Deformation tool in Autodesk Maya",
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "description": "Implementation of Green deformers (SIGGRAPH 2008) as a Maya plugin.\n\u25cf Publication analysis and state of the art of cage-based deformations\n\u25cf Maya API (MPxNode, MFnMesh)\n\u25cf Implementation of an interactive deformation tool\nUsing C++, Maya API, Maya Embedded Language (MEL)\n\nDemonstration : http://sebastientourneux.fr/green-coordinates-in-maya/",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Iman",
+                    "last_name": "Bellouki",
+                    "name": null,
+                    "headline": "3D Development Engineer at Grip"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "S\u00e9bastien",
+                    "last_name": "Tourneux",
+                    "name": null,
+                    "headline": "R&D Graphics Engineer chez BUF Compagnie"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Ulrich",
+                    "last_name": "Urriola Parada",
+                    "name": null,
+                    "headline": "Game Producer"
+                }
+            ]
+        },
+        {
+            "title": "School Project - From Pixel Art to a Vectorized Image",
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "description": "Implementation of a C++ program inspired by a research paper, that transforms Pixel Art into smooth vectorized images.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Iman",
+                    "last_name": "Bellouki",
+                    "name": null,
+                    "headline": "3D Development Engineer at Grip"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Cl\u00e9ment",
+                    "last_name": "Abboud",
+                    "name": null,
+                    "headline": "D\u00e9veloppeur informatique chez TRIDIMEO"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Ulrich",
+                    "last_name": "Urriola Parada",
+                    "name": null,
+                    "headline": "Game Producer"
+                }
+            ]
+        },
+        {
+            "title": "Human Computer Interaction Project - DanceManager, an application for dancers",
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "description": "Ce projet consistait \u00e0 concevoir une interface utilisateur pour un produit de notre choix. Nous avons opt\u00e9 pour une application smartphone destin\u00e9e \u00e0 la gestion de la pratique de la danse pour des danseurs aussi bien amateurs que professionnels.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Iman",
+                    "last_name": "Bellouki",
+                    "name": null,
+                    "headline": "3D Development Engineer at Grip"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Audrey",
+                    "last_name": "Ceyrat",
+                    "name": null,
+                    "headline": "Project Manager"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Johanna Delanoy",
+                    "headline": null
+                }
+            ]
+        },
+        {
+            "title": "C Language Project",
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "description": "Implemented a JPEG to TIFF format converter in C.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Iman",
+                    "last_name": "Bellouki",
+                    "name": null,
+                    "headline": "3D Development Engineer at Grip"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Othmane",
+                    "last_name": "I.",
+                    "name": null,
+                    "headline": "Analyste valorisation at Societe Generale Corporate and Investment Banking - SGCIB "
+                }
+            ]
+        },
+        {
+            "title": "3D Graphics school project",
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "description": "Initiation to OpenGL: creating an underwater scene.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Iman",
+                    "last_name": "Bellouki",
+                    "name": null,
+                    "headline": "3D Development Engineer at Grip"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Chems-Eddine",
+                    "last_name": "Ouaari",
+                    "name": null,
+                    "headline": "Senior Consulting Engineer - Global AI @ Accenture France"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Cl\u00e9ment",
+                    "last_name": "Abboud",
+                    "name": null,
+                    "headline": "D\u00e9veloppeur informatique chez TRIDIMEO"
+                }
+            ]
+        },
+        {
+            "title": "Start-up Creation Simulation Project",
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "description": "School Project during which we have worked on all the aspects necessary in order to create a start-up. These aspects include market study, writing a business plan, defining a marketing strategy, and writing a pitch, among others.\n ",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Iman",
+                    "last_name": "Bellouki",
+                    "name": null,
+                    "headline": "3D Development Engineer at Grip"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Othmane",
+                    "last_name": "I.",
+                    "name": null,
+                    "headline": "Analyste valorisation at Societe Generale Corporate and Investment Banking - SGCIB "
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Sarah",
+                    "last_name": "Vi",
+                    "name": null,
+                    "headline": "Project Manager & Software Engineer in Computer Graphics"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Paul",
+                    "last_name": "Quillent",
+                    "name": null,
+                    "headline": "Cybersecurity Engineer / Technical Leader / Product Owner at Claranet France"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Samuel",
+                    "last_name": "Gallet",
+                    "name": null,
+                    "headline": "CTO @Artifeel"
+                }
+            ]
+        }
+    ],
+    "publications": [],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 641117,
+                "name": "INDG | Grip",
+                "logo": "https://media.licdn.com/dms/image/C560BAQHO7Zb8IXbJWw/company-logo_400_400/0/1604578787895?e=1703721600&v=beta&t=kDEDUIqS1lnZe7VyhyRXSZ74QsbHp5eqQ4IwZ3LLNW4",
+                "url": "https://www.linkedin.com/company/indg/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amsterdam, the Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2020
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "INDG | Grip",
+                    "description": "Grip is a web-based application used to automatically generate configurable high quality raytraced images  for marketing purposes. The project I am working on consists of creating a web-based real-time 3D viewer inside the app for a customizable, interactive and photorealistic previsualization.",
+                    "title": "3D Development Engineer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 3896,
+                "name": "Dassault Syst\u00e8mes",
+                "logo": "https://media.licdn.com/dms/image/C560BAQHroRzeNTva6Q/company-logo_400_400/0/1519856524354?e=1703721600&v=beta&t=JsyRXMhzzAL8jXvMjTf_Gf3mYeMqR4f1EKRVfAFD40Y",
+                "url": "https://www.linkedin.com/company/dassaultsystemes/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "V\u00e9lizy-Villacoublay",
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2020
+                        }
+                    },
+                    "company": "Dassault Syst\u00e8mes",
+                    "description": "The \"Web 3D Infrastructure\" team is working on the creation of a Web-based 3D Visualization library in JavaScript and WebGL. This library is made available to Dassault Syst\u00e8mes's Web apps.",
+                    "title": "Computer Science Engineer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 3896,
+                "name": "Dassault Syst\u00e8mes",
+                "logo": "https://media.licdn.com/dms/image/C560BAQHroRzeNTva6Q/company-logo_400_400/0/1519856524354?e=1703721600&v=beta&t=JsyRXMhzzAL8jXvMjTf_Gf3mYeMqR4f1EKRVfAFD40Y",
+                "url": "https://www.linkedin.com/company/dassaultsystemes/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "V\u00e9lizy-Villacoublay",
+                    "date": {
+                        "start": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2015
+                        }
+                    },
+                    "company": "Dassault Syst\u00e8mes",
+                    "description": "I have worked on an animation importer for human characters in the CATIA V6 Human Design app:\n- Importing BVH animation files (skeleton animation)\n- Retargeting: adaptating an animation to any skeleton\n- Interactive editing of the resulting animation",
+                    "title": "Intern",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 164385,
+                "name": "Inria Grenoble - Rh\u00f4ne-Alpes",
+                "logo": "https://media.licdn.com/dms/image/C560BAQErLWV8QlRjXg/company-logo_400_400/0/1530174436379?e=1703721600&v=beta&t=ADgFuq7iUt5bgNn2TeU4yJc7oF_Cupm1Qw_Rp4y_hV0",
+                "url": "https://www.linkedin.com/company/inria/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Montbonnot",
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2014
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2014
+                        }
+                    },
+                    "company": "Inria",
+                    "description": "I have worked on GigaVoxels, a real-time volumetric rendering library. This library renders 3D objects with a voxel representation, and is based on efficient parallel programming on GPU. I have incorporated the use of this library in the usual OpenGL pipeline in order to create certain visual effects more efficiently: the aim was to minimize the problems encountered in an exclusive use of OpenGL for certain effects.",
+                    "title": "Intern",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Linux",
+        "C",
+        "C++",
+        "OpenGL",
+        "GLSL",
+        "Qt",
+        "Java",
+        "English",
+        "Blender",
+        "GIMP",
+        "Inkscape",
+        "Microsoft Office",
+        "Windows",
+        "Ada",
+        "LaTeX",
+        "Unix Shell Scripting",
+        "Scilab",
+        "Matlab",
+        "HTML",
+        "UML"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

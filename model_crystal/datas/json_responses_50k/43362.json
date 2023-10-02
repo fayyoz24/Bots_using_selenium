@@ -1,0 +1,711 @@
+{
+    "profile_id": "bart-senden",
+    "first_name": "Bart",
+    "last_name": "Senden",
+    "sub_title": "Data Engineer bij SPAR",
+    "profile_picture": "https://media.licdn.com/dms/image/C4D03AQHxgI2f3Fetww/profile-displayphoto-shrink_800_800/0/1539199937035?e=1701302400&v=beta&t=V2fNRl-HEWh_pEmqUboWJf6JEDJ5ecPIsYyXXMnuX1U",
+    "background_image": "https://media.licdn.com/dms/image/C4E16AQE_obPrAEcAsQ/profile-displaybackgroundimage-shrink_350_1400/0/1517572790838?e=1701302400&v=beta&t=YEOzgX_UB7zwi8AVzEqCyoEOUAQZyYY0ULWYLoNy5ZI",
+    "profile_type": "personal",
+    "entity_urn": "ACoAABfzRFcB4LrfPkmz_Rxt75dykzC2F5q87cA",
+    "object_urn": 401818711,
+    "birth_date": null,
+    "summary": "Medior BI Consultant, implemented a broad range of Azure driven data warehouse solutions at more than 15 customers over the last 3,5 years. Strongly proficient in designing and implementing ETL architectures, using tools such as Azure Data Factory, Azure SQL databases, Data Lakes, and Azure Synapse. Mainly experienced in working with Microsoft ERP systems (AX2009, AX2012, D365FO), but capable of working with all types of source systems.\nResponsible for developing and maintaining best practices and standards for internal teams, topics include architecture blueprints, CICD, and methodology. Also involved with training and supporting new colleagues.",
+    "location": {
+        "country": "Netherlands",
+        "short": "Tilburg, North Brabant",
+        "city": "Tilburg",
+        "state": "North Brabant",
+        "default": "Tilburg, North Brabant, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "NL",
+            "language": "nl"
+        },
+        "supported_locales": [
+            {
+                "country": "NL",
+                "language": "nl"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "Duits",
+                "proficiency": "LIMITED_WORKING"
+            },
+            {
+                "name": "Engels",
+                "proficiency": "PROFESSIONAL_WORKING"
+            },
+            {
+                "name": "Nederlands",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ]
+    },
+    "industry": "Retail",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "school": {
+                "name": "Tilburg University",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQHNJkPAcEjYEg/company-logo_400_400/0/1631003396114?e=1703721600&v=beta&t=NnNXRkSpVjA_wrLAVErPEhLbWbu72KlIEbDJeyvKC0o",
+                "url": "https://www.linkedin.com/school/tilburg-university/"
+            },
+            "degree_name": "Master of Science (MSc)",
+            "field_of_study": "Marketing Analytics",
+            "grade": "8.1"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "school": {
+                "name": "Tilburg University",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQHNJkPAcEjYEg/company-logo_400_400/0/1631003396114?e=1703721600&v=beta&t=NnNXRkSpVjA_wrLAVErPEhLbWbu72KlIEbDJeyvKC0o",
+                "url": "https://www.linkedin.com/school/tilburg-university/"
+            },
+            "degree_name": "Bachelor of Science (BSc)",
+            "field_of_study": "Bedrijfseconomie",
+            "grade": "6.7"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2007
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "school": {
+                "name": "Cobbenhagenlyceum",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "VWO",
+            "field_of_study": "Economie & Maatschappij",
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [
+        {
+            "name": "Microsoft Certified: Azure Data Fundamentals",
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Microsoft",
+            "url": "https://www.credly.com/badges/7971a43c-6de8-4cc5-ae9d-95f6b11000bf?source=linked_in_profile",
+            "license_number": null,
+            "display_source": "credly.com",
+            "company": {
+                "id": null,
+                "name": "Microsoft",
+                "logo": "https://media.licdn.com/dms/image/C560BAQE88xCsONDULQ/company-logo_400_400/0/1618231291419?e=1703721600&v=beta&t=xic8lPBHmNYz9qHIoiuq_itbJ4T3xDqNu9Bb5EuYkZ0",
+                "url": null
+            }
+        },
+        {
+            "name": "Microsoft Certified: Azure Fundamentals",
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Microsoft",
+            "url": "https://www.youracclaim.com/badges/32cf2154-a5c8-4096-9f9a-92eb8f276481/linked_in_profile",
+            "license_number": null,
+            "display_source": "youracclaim.com",
+            "company": {
+                "id": null,
+                "name": "Microsoft",
+                "logo": "https://media.licdn.com/dms/image/C560BAQE88xCsONDULQ/company-logo_400_400/0/1618231291419?e=1703721600&v=beta&t=xic8lPBHmNYz9qHIoiuq_itbJ4T3xDqNu9Bb5EuYkZ0",
+                "url": null
+            }
+        },
+        {
+            "name": "Intermediate Python for Data Science Course",
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "DataCamp",
+            "url": "https://www.datacamp.com/statement-of-accomplishment/course/1442af70baa30f124242228d99c4e97a6f85d14d",
+            "license_number": null,
+            "display_source": "datacamp.com",
+            "company": {
+                "id": null,
+                "name": "DataCamp",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQHoE9F6A76mOQ/company-logo_400_400/0/1603188329234?e=1703721600&v=beta&t=JPiYIAfZu82tbksnE4OY0vI2x_xqC6jmWtDCuMnRK6U",
+                "url": null
+            }
+        },
+        {
+            "name": "Intro to Python for Data Science Course",
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "DataCamp",
+            "url": "https://www.datacamp.com/statement-of-accomplishment/course/664e464f47d197cfb56c9275a0182683981cc2cc",
+            "license_number": null,
+            "display_source": "datacamp.com",
+            "company": {
+                "id": null,
+                "name": "DataCamp",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQHoE9F6A76mOQ/company-logo_400_400/0/1603188329234?e=1703721600&v=beta&t=JPiYIAfZu82tbksnE4OY0vI2x_xqC6jmWtDCuMnRK6U",
+                "url": null
+            }
+        }
+    ],
+    "organizations": [
+        {
+            "name": "I*ESN Tilburg",
+            "position": null,
+            "date_start": {
+                "month": 9,
+                "day": null,
+                "year": 2015
+            },
+            "date_end": {
+                "month": 7,
+                "day": null,
+                "year": 2016
+            }
+        }
+    ],
+    "projects": [
+        {
+            "title": "Big data project: Spotify data analysis",
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "description": "For the master course Research in Social Media, my teammates and I were provided with a large Spotify dataset (approximately 4.8 million rows). This dataset contained the daily top 200 charts from 57 countries between March 2015 and January 2017. We chose to do a music key analysis and found some interesting results. It was the first time working with such a large dataset and it allowed me to experience handling and analyzing such a dataset. ",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Bart",
+                    "last_name": "Senden",
+                    "name": null,
+                    "headline": "Data Engineer bij SPAR"
+                }
+            ]
+        },
+        {
+            "title": "Master thesis",
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "description": "Master thesis focusing on the impact of cognition and affection on the Customer Experience. Written in collaboration with Underlined. Results revealedthe strong impact affection has within several parts of the Customer Experience. ",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Bart",
+                    "last_name": "Senden",
+                    "name": null,
+                    "headline": "Data Engineer bij SPAR"
+                }
+            ]
+        },
+        {
+            "title": "Huawei Nederland",
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "description": "My old personal affiliate website, based around Huawei smartphones and phone subscriptions. Resulted from the SEO internship in order to keep improving my SEO skills and staying up-to-date with the always changing work field of SEO. Learned to use Wordpress, creating and executing an SEO plan. Eventually sold due to lack of time.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Bart",
+                    "last_name": "Senden",
+                    "name": null,
+                    "headline": "Data Engineer bij SPAR"
+                }
+            ]
+        },
+        {
+            "title": "Bachelor Thesis",
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "description": "The thesis I wrote during my Bachelor study researched the influence of meta description tags on the click-through-rate of organic results on the Search Engine Results Page.  Three independent variables concerning consumer behavior were examined, with the CTR as dependent variable. The results showed that online businesses should always use a \u2018persuasive writing style\u2019 within a meta description tag in order to achieve an optimal CTR.   ",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Bart",
+                    "last_name": "Senden",
+                    "name": null,
+                    "headline": "Data Engineer bij SPAR"
+                }
+            ]
+        }
+    ],
+    "publications": [],
+    "courses": [
+        {
+            "name": "Google Digital Workshop",
+            "number": null
+        }
+    ],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 1516595,
+                "name": "Spar Holding",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQEpnclSktcqxw/company-logo_400_400/0/1549369990270?e=1703721600&v=beta&t=yyGDd6Z6UsI0HLYAcArSLhQmHKN11FX_lAQBIM2jvp8",
+                "url": "https://www.linkedin.com/company/spar-holding-netherlands/",
+                "employees": {
+                    "start": 201,
+                    "end": 500
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Waalwijk, Noord-Brabant, Nederland",
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Spar Holding Netherlands",
+                    "description": null,
+                    "title": "Data Engineer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "HSO",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Veenendaal",
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "HSO",
+                    "description": "Allround BI consultant at HSO, responsible for implementing Azure driven data warehouse solutions. Highly proficient at implementing backend architectures, although also very capable at developing frontend reporting solutions.\n\nTechnical skills:\n- Azure Data Factory\n- SQL (Azure databases, on-prem databases, T-SQL, SSMS)\n- Storage accounts (Blob and data lakes)\n- Synapse\n- Power BI (datasets, report design, DAX, workspace setup)\n- Databricks (Spark SQL driven notebooks)\n- DevOps (Code repository, boards, build/release pipelines)\n- Project management\n\nSoft skills:\n- Experienced consultant capable of leading projects\n- Training and supporting colleagues\n- Excellent sparring partner\n- Capable of challenging other people\n- Team player and comfortable with solo responsibilities",
+                    "title": "BI Consultant",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Underlined",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "'s Hertogenbosch",
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2017
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2018
+                        }
+                    },
+                    "company": "Underlined",
+                    "description": "Writing my Master thesis as intern at Underlined. Researching the impact of cognition and affection within the Customer Experience. Finished my thesis with an 8 as final grade.",
+                    "title": "Thesis intern",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Tranzo - Wetenschappelijk centrum voor zorg en welzijn",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Tilburg",
+                    "date": {
+                        "start": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2018
+                        }
+                    },
+                    "company": "Tranzo - Wetenschappelijk centrum voor zorg en welzijn",
+                    "description": "Administrative job at the Tilburg University department. It involves managing the publications and presentations of Tranzo researchers, contributing to the annual report and helping out with several tasks such as symposiums. It improved my general Office skills, especially Excel due to the weekly tasks and the annual report.",
+                    "title": "General student-assistant",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Kansbericht",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2016
+                        }
+                    },
+                    "company": "Kansbericht",
+                    "description": "In the six months after graduating from my Bachelor, I arranged an SEO internship at Kansbericht. Kansbericht is a start-up affiliate gambling website. Because the website was in the starting phase, I was able to experience a large amount of on-page SEO. My tasks started with writing daily blogs and on-page assignments. During the months it expanded to off-page SEO, such as link building and keyword/website analysis. Eventually it covered all aspects of the SEO field.",
+                    "title": "Junior SEO intern",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "StudentPlus",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2015
+                        }
+                    },
+                    "company": "StudentPlus",
+                    "description": "Part-time job after my international exchange. During the 8 months I tutored 4 different high school students in Economics and Math. While improving my social skills and patience, it also increased my individual responsibility.",
+                    "title": "Tutor for high school students",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Riddershof",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2011
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2014
+                        }
+                    },
+                    "company": "Riddershof",
+                    "description": null,
+                    "title": "Dishwasher/kitchen help",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [
+        {
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "role": "Data-analist",
+            "company": {
+                "id": null,
+                "name": "JDRF Nederland",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQGyNkYYRypElw/company-logo_400_400/0/1601554202768?e=1703721600&v=beta&t=aJDjJB6GKgsycv9nFPgFBMJVs9vJN6WKAUjrXhGQDmg",
+                "url": "https://www.linkedin.com/company/jdrf-nl/"
+            },
+            "cause": "HEALTH",
+            "description": "Supporting JDRF Netherlands in their transition to become a more data driven organisation. Mainly focused on improving existing Power BI reports and creating new Power BI reports with multiple sources. Also acting as an advisor to help see the capabilities of data."
+        }
+    ],
+    "skills": [
+        "Bedrijfseconomie",
+        "Accounting",
+        "Marketing",
+        "Marketing Strategy",
+        "Online Marketing",
+        "Strategy",
+        "SEO",
+        "Microsoft Office",
+        "Google Analytics",
+        "Consumentengedrag",
+        "SQL",
+        "Microsoft Azure",
+        "Azure Data Factory",
+        "Databasebeheer",
+        "Database Management System (DBMS)",
+        "Azure Synapse"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

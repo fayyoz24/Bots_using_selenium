@@ -1,0 +1,982 @@
+{
+    "profile_id": "georgy-taranov",
+    "first_name": "George",
+    "last_name": "Taranov",
+    "sub_title": "Co-founder & COO | Fintech Risks & Anti-Fraud",
+    "profile_picture": "https://media.licdn.com/dms/image/C4D03AQHR1TR_IwBwvg/profile-displayphoto-shrink_800_800/0/1632758937746?e=1701302400&v=beta&t=FAQWM3RW4XUBpKjjIwtkEVkKwws_JOBprfim2vDZ29o",
+    "background_image": "https://media.licdn.com/dms/image/C4D16AQF1UWlIhT9NjA/profile-displaybackgroundimage-shrink_350_1400/0/1648980744131?e=1701302400&v=beta&t=fNMHVFjBWk6K1uvXzpYyUGqR6d7ckftenB8anREn3RU",
+    "profile_type": "personal",
+    "entity_urn": "ACoAABEUEqcBE5QNdzDGmhk5CnQodk8Ok5I9GBM",
+    "object_urn": 286528167,
+    "birth_date": null,
+    "summary": "Data science and process optimisation professional",
+    "location": {
+        "country": "Netherlands",
+        "short": "Amsterdam, North Holland",
+        "city": "Amsterdam",
+        "state": "North Holland",
+        "default": "Amsterdam, North Holland, Netherlands"
+    },
+    "premium": true,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "English",
+                "proficiency": "FULL_PROFESSIONAL"
+            },
+            {
+                "name": "Russian",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ]
+    },
+    "industry": "Banking",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2006
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "school": {
+                "name": "Lomonosov Moscow State University (MSU)",
+                "logo": "https://media.licdn.com/dms/image/C560BAQFafJR7i-j8EA/company-logo_400_400/0/1557584831531?e=1703721600&v=beta&t=T5giv640_VArDQ0WugHiSuDnXtFs5AgtMELtRC5C3mQ",
+                "url": "https://www.linkedin.com/school/%D0%BC%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9-%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9-%D1%83%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82-%D0%B8%D0%BC.-%D0%BC.%D0%B2.-%D0%BB%D0%BE%D0%BC%D0%BE%D0%BD%D0%BE%D1%81%D0%BE%D0%B2%D0%B0-%D0%BC%D0%B3%D1%83-/"
+            },
+            "degree_name": "Specialist",
+            "field_of_study": "Biochemistry, Biophysics and Molecular Biology",
+            "grade": "4.35"
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [
+        {
+            "name": "OOP and architecture patterns in Python",
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Coursera",
+            "url": "https://www.coursera.org/account/accomplishments/certificate/2KFECMLFAGHM",
+            "license_number": "2KFECMLFAGHM",
+            "display_source": "coursera.org",
+            "company": {
+                "id": null,
+                "name": "Coursera",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQGexnfBxeEG-g/company-logo_400_400/0/1608039227697?e=1703721600&v=beta&t=D0JCWIFRDe_tPD5hdUkJFaYhM7LSoOyZQ1nVMg-nUzo",
+                "url": null
+            }
+        },
+        {
+            "name": "Convolutional Neural Networks in TensorFlow",
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Coursera",
+            "url": "https://www.coursera.org/account/accomplishments/certificate/4WDVDWHD9G6F",
+            "license_number": "4WDVDWHD9G6F",
+            "display_source": "coursera.org",
+            "company": {
+                "id": null,
+                "name": "Coursera",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQGexnfBxeEG-g/company-logo_400_400/0/1608039227697?e=1703721600&v=beta&t=D0JCWIFRDe_tPD5hdUkJFaYhM7LSoOyZQ1nVMg-nUzo",
+                "url": null
+            }
+        },
+        {
+            "name": "Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning",
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Coursera",
+            "url": "https://www.coursera.org/account/accomplishments/certificate/857ERR5MBXMT",
+            "license_number": "857ERR5MBXMT",
+            "display_source": "coursera.org",
+            "company": {
+                "id": null,
+                "name": "Coursera",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQGexnfBxeEG-g/company-logo_400_400/0/1608039227697?e=1703721600&v=beta&t=D0JCWIFRDe_tPD5hdUkJFaYhM7LSoOyZQ1nVMg-nUzo",
+                "url": null
+            }
+        },
+        {
+            "name": "Functional Programming Principles in Scala",
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Coursera",
+            "url": "https://www.coursera.org/account/accomplishments/certificate/FPPSCJ5XWY3D",
+            "license_number": "FPPSCJ5XWY3D",
+            "display_source": "coursera.org",
+            "company": {
+                "id": null,
+                "name": "Coursera",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQGexnfBxeEG-g/company-logo_400_400/0/1608039227697?e=1703721600&v=beta&t=D0JCWIFRDe_tPD5hdUkJFaYhM7LSoOyZQ1nVMg-nUzo",
+                "url": null
+            }
+        },
+        {
+            "name": "Dive in Python",
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Coursera",
+            "url": "https://www.coursera.org/account/accomplishments/certificate/Q48BX5JYKX8L",
+            "license_number": "Q48BX5JYKX8L",
+            "display_source": "coursera.org",
+            "company": {
+                "id": null,
+                "name": "Coursera",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQGexnfBxeEG-g/company-logo_400_400/0/1608039227697?e=1703721600&v=beta&t=D0JCWIFRDe_tPD5hdUkJFaYhM7LSoOyZQ1nVMg-nUzo",
+                "url": null
+            }
+        },
+        {
+            "name": "Unsupervised learning",
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Coursera Course Certificates",
+            "url": "https://www.coursera.org/account/accomplishments/verify/WRJHUT9BMUDH",
+            "license_number": "WRJHUT9BMUDH",
+            "display_source": "coursera.org",
+            "company": {
+                "id": null,
+                "name": "Coursera Course Certificates",
+                "logo": "https://media.licdn.com/dms/image/C560BAQG24u4DKpQ5dQ/company-logo_400_400/0/1519872880167?e=1703721600&v=beta&t=8vKeASx7tVQjpnz7ufoMukQR2V0rjw_xIJcw_BnIuUw",
+                "url": null
+            }
+        },
+        {
+            "name": "Supervised Learning",
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Coursera Course Certificates",
+            "url": "https://www.coursera.org/account/accomplishments/certificate/MKA9E8KSKWD9",
+            "license_number": "MKA9E8KSKWD9",
+            "display_source": "coursera.org",
+            "company": {
+                "id": null,
+                "name": "Coursera Course Certificates",
+                "logo": "https://media.licdn.com/dms/image/C560BAQG24u4DKpQ5dQ/company-logo_400_400/0/1519872880167?e=1703721600&v=beta&t=8vKeASx7tVQjpnz7ufoMukQR2V0rjw_xIJcw_BnIuUw",
+                "url": null
+            }
+        },
+        {
+            "name": "Math and Python for data analysis",
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Coursera Course Certificates",
+            "url": "https://www.coursera.org/account/accomplishments/certificate/N8F5D38Q97H7",
+            "license_number": "N8F5D38Q97H7",
+            "display_source": "coursera.org",
+            "company": {
+                "id": null,
+                "name": "Coursera Course Certificates",
+                "logo": "https://media.licdn.com/dms/image/C560BAQG24u4DKpQ5dQ/company-logo_400_400/0/1519872880167?e=1703721600&v=beta&t=8vKeASx7tVQjpnz7ufoMukQR2V0rjw_xIJcw_BnIuUw",
+                "url": null
+            }
+        },
+        {
+            "name": "edX Honor Code Certificate for Introduction to Big Data with Apache Spark",
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "edX",
+            "url": "https://s3.amazonaws.com/verify.edx.org/downloads/0b2c5fb0559f4312b083af88288afa34/Certificate.pdf",
+            "license_number": "d70a8dd2622747bc9022b88828fb985a",
+            "display_source": null,
+            "company": {
+                "id": null,
+                "name": "edX",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQFG13a41008Dg/company-logo_400_400/0/1688142646058?e=1703721600&v=beta&t=xLsEYK_-is_JC1E-k7wOA7ibIweJHpl9ya3GIEMHp2M",
+                "url": null
+            }
+        },
+        {
+            "name": "Intro to Computer Science",
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Udacity",
+            "url": "https://www.udacity.com/certificate/cs101",
+            "license_number": null,
+            "display_source": "udacity.com",
+            "company": {
+                "id": null,
+                "name": "Udacity",
+                "logo": "https://media.licdn.com/dms/image/C560BAQHiNYfm0YHKrg/company-logo_400_400/0/1656621848272?e=1703721600&v=beta&t=K5xcAKf7mtx1MUVwxChhMDKubuX_mh7DMQTuSX9rjwQ",
+                "url": null
+            }
+        },
+        {
+            "name": "Introduction to Computer Science and Programming",
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "edX",
+            "url": "https://s3.amazonaws.com/verify.edx.org/downloads/b8ced1f8dda1486386cd1aa424271b6a/Certificate.pdf",
+            "license_number": "MITx/6.00x/2012_Fall",
+            "display_source": null,
+            "company": {
+                "id": null,
+                "name": "edX",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQFG13a41008Dg/company-logo_400_400/0/1688142646058?e=1703721600&v=beta&t=xLsEYK_-is_JC1E-k7wOA7ibIweJHpl9ya3GIEMHp2M",
+                "url": null
+            }
+        },
+        {
+            "name": " Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "DeepLearning.AI",
+            "url": "https://www.coursera.org/account/accomplishments/verify/D7RAS4D5D5ZF",
+            "license_number": null,
+            "display_source": "coursera.org",
+            "company": {
+                "id": null,
+                "name": "DeepLearning.AI",
+                "logo": "https://media.licdn.com/dms/image/C560BAQEHKffoI8RwIQ/company-logo_400_400/0/1612806383093?e=1703721600&v=beta&t=v53sMdl9nE2tlwlrJwCJtM4LdFFxiIsRN8dshfYWiGY",
+                "url": null
+            }
+        },
+        {
+            "name": " Structuring Machine Learning Projects",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "DeepLearning.AI",
+            "url": "https://www.coursera.org/account/accomplishments/verify/VVZW9KGCX2N8",
+            "license_number": null,
+            "display_source": "coursera.org",
+            "company": {
+                "id": null,
+                "name": "DeepLearning.AI",
+                "logo": "https://media.licdn.com/dms/image/C560BAQEHKffoI8RwIQ/company-logo_400_400/0/1612806383093?e=1703721600&v=beta&t=v53sMdl9nE2tlwlrJwCJtM4LdFFxiIsRN8dshfYWiGY",
+                "url": null
+            }
+        },
+        {
+            "name": "Neural Networks and Deep Learning",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "DeepLearning.AI",
+            "url": "https://www.coursera.org/account/accomplishments/verify/5VHYABWVM8JX",
+            "license_number": null,
+            "display_source": "coursera.org",
+            "company": {
+                "id": null,
+                "name": "DeepLearning.AI",
+                "logo": "https://media.licdn.com/dms/image/C560BAQEHKffoI8RwIQ/company-logo_400_400/0/1612806383093?e=1703721600&v=beta&t=v53sMdl9nE2tlwlrJwCJtM4LdFFxiIsRN8dshfYWiGY",
+                "url": null
+            }
+        },
+        {
+            "name": "edX Honor Code Certificate for Learning From Data (introductory Machine Learning course)",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "edX",
+            "url": "https://s3.amazonaws.com/verify.edx.org/downloads/18e687987fe549a7b0e7eb4990b4906f/Certificate.pdf",
+            "license_number": null,
+            "display_source": null,
+            "company": {
+                "id": null,
+                "name": "edX",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQFG13a41008Dg/company-logo_400_400/0/1688142646058?e=1703721600&v=beta&t=xLsEYK_-is_JC1E-k7wOA7ibIweJHpl9ya3GIEMHp2M",
+                "url": null
+            }
+        },
+        {
+            "name": "edX Honor Code Certificate for Querying with Transact-SQL",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "edX",
+            "url": "https://courses.edx.org/certificates/user/215563/course/course-v1:Microsoft+DAT201x+2015_T4",
+            "license_number": null,
+            "display_source": "edx.org",
+            "company": {
+                "id": null,
+                "name": "edX",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQFG13a41008Dg/company-logo_400_400/0/1688142646058?e=1703721600&v=beta&t=xLsEYK_-is_JC1E-k7wOA7ibIweJHpl9ya3GIEMHp2M",
+                "url": null
+            }
+        }
+    ],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "Consumer debt collection",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "description": "Consulted Top-10 Russian bank on collection strategies and utilization of modern data analytics and ML in their consumer debt collection processes.\nDesign and developed models for clients segmentation and for uplift modelling to choose between different affects on client.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "George",
+                    "last_name": "Taranov",
+                    "name": null,
+                    "headline": "Co-founder & COO | Fintech Risks & Anti-Fraud"
+                }
+            ]
+        },
+        {
+            "title": "Clients' segmentation",
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "description": "Advised Wealth Management division of Top-5 Russian Bank.\nDeveloped client segmentation and churn prediction models.\nPerformed transaction graph analysis to improve communication strategy",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "George",
+                    "last_name": "Taranov",
+                    "name": null,
+                    "headline": "Co-founder & COO | Fintech Risks & Anti-Fraud"
+                }
+            ]
+        },
+        {
+            "title": "Risk modelling and process automation",
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "description": "Consulted Russian Mortgage mono-bank.\nDeveloped robust risk models based on credit history, applications, collateral and transactions data\nImplemented risk monitoring and model validation pipeline.\nAdvised on credit policy and process.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "George",
+                    "last_name": "Taranov",
+                    "name": null,
+                    "headline": "Co-founder & COO | Fintech Risks & Anti-Fraud"
+                }
+            ]
+        }
+    ],
+    "publications": [
+        {
+            "name": "Machine learning, eye movements and mathematical problem solving",
+            "publisher": "Journal of Vision, Volume 21, Issue 9",
+            "url": "https://doi.org/10.1167/jov.21.9.2397",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2021
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "George",
+                    "last_name": "Taranov",
+                    "name": null,
+                    "headline": "Co-founder & COO | Fintech Risks & Anti-Fraud"
+                }
+            ]
+        },
+        {
+            "name": "Quantitative Analysis of Electrophoresis Data - Application to Sequence-Specific Ultrasonic Cleavageof DNA",
+            "publisher": "Gel Electrophoresis - Principles and Basics",
+            "url": "https://www.intechopen.com/chapters/35099",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": null
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "George",
+                    "last_name": "Taranov",
+                    "name": null,
+                    "headline": "Co-founder & COO | Fintech Risks & Anti-Fraud"
+                }
+            ]
+        }
+    ],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 82050443,
+                "name": "Lipefi",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQHebaRNz_bK0Q/company-logo_400_400/0/1665503371531?e=1703721600&v=beta&t=c5pL7LlozDSa1W7VvboEVHh0hjKIeUgsyY9VYBVgX7U",
+                "url": "https://www.linkedin.com/company/lipefi/",
+                "employees": {
+                    "start": 2,
+                    "end": 10
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Brussels, Brussels Region, Belgium",
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Lipefi (Techstars '23)",
+                    "description": "Bringing finance platform for Startups. Starting with Credit Cards.",
+                    "title": "Founder, COO",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Exlid",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amsterdam, North Holland, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "day": null,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Exlid",
+                    "description": "Design and development of fully-fledged Risk Decision Systems and AI analytical services\nConsulting on risk strategy and other significant issues",
+                    "title": "Partner",
+                    "employment_type": "Self-employed"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 27221633,
+                "name": "Antler",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQGcO8WhScYJvg/company-logo_400_400/0/1610442211428?e=1703721600&v=beta&t=cf9myL2yabt4XKD1NPgc9Blj89aLprhLyhFXr1C0g8g",
+                "url": "https://www.linkedin.com/company/antlerglobal/",
+                "employees": {
+                    "start": 201,
+                    "end": 500
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amsterdam, North Holland, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "Antler",
+                    "description": null,
+                    "title": "Entrepreneur In Residence",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 15100911,
+                "name": "Higher School of Economics",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQGJjfuCZq1n2A/company-logo_400_400/0/1542712839994?e=1703721600&v=beta&t=dKJZlOP46S5ECkfvLzhW2MDe7IemWTV8SczAaqYXedk",
+                "url": "https://www.linkedin.com/school/%D0%B2%D1%8B%D1%81%D1%88%D0%B0%D1%8F-%D1%88%D0%BA%D0%BE%D0%BB%D0%B0-%D1%8D%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D0%BA%D0%B8/",
+                "employees": {
+                    "start": 5001,
+                    "end": 10000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Moscow, Russia",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "Higher School of Economics",
+                    "description": "Developed and delivered Machine Learning course for Masters",
+                    "title": "Lecturer",
+                    "employment_type": "Self-employed"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 25880,
+                "name": "Sberbank",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQGhrw5bTUWEBA/company-logo_400_400/0/1639561268700?e=1703721600&v=beta&t=r1kie_BxJQ3rI2-qI9_NyclqalxtBNRpAfbVtpxnHr0",
+                "url": "https://www.linkedin.com/company/sberbank/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Moscow, Moscow City, Russia",
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": 2021
+                        }
+                    },
+                    "company": "Sberbank",
+                    "description": "Ecosystem B2B HQ | Executive Director\nResponsibilities:\n- AI transformation leadership\n- Managing, budgeting, hiring and assessment of Analytics teams (10+)\n- Leading development of DS/ML solutions to optimize and enhance current business processes\nAchievements and results:\n- Built numerous solutions with real financial results (Risk assessment, Clients' acquisition, Process optimisation)\n- Introduced corporate governance for AI transformation\nAll projects' details available on request",
+                    "title": "Head of AI consulting",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 18388315,
+                "name": "Cashwagon",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQGgAXsbG25Gyg/company-logo_400_400/0/1562321187911?e=1703721600&v=beta&t=cDAAhMecxR77OePFmK8_TvGCvguu7iPGEZctUTQdcpo",
+                "url": "https://www.linkedin.com/company/cashwagon/",
+                "employees": {
+                    "start": 501,
+                    "end": 1000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Singapore",
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "Cashwagon",
+                    "description": "Achievements and results:\n- Launched solutions for online risk and fraud assessement and debt collection\n- Negotiated and tested partners' solutions",
+                    "title": "Risk Management Expert",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1044,
+                "name": "PwC",
+                "logo": "https://media.licdn.com/dms/image/D4D0BAQGv_22548SaOQ/company-logo_400_400/0/1689197046877?e=1703721600&v=beta&t=V2RO9D1WNdVYRCUFm7ffzab_1kLYskkPrrc4UlZWqvA",
+                "url": "https://www.linkedin.com/company/pwc/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Russia",
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "day": null,
+                            "year": 2017
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": 2018
+                        }
+                    },
+                    "company": "PwC",
+                    "description": "Advisory. Financial Services. Advanced Analytics\n- Led presale/sale activities (Data analytics, modern risk-function etc.)\n- Led debt collection function optimisation projects\n- Automated risk stress tests and ICAAP routine via web-based application",
+                    "title": "Manager",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 51546,
+                "name": "DeltaCredit Bank",
+                "logo": "https://media.licdn.com/dms/image/C560BAQG8fJBELrqBzg/company-logo_400_400/0/1519856901104?e=1703721600&v=beta&t=pD40rnuUOrD77KN0CZ730kJLntkXURVgeCFFisgi8eQ",
+                "url": "https://www.linkedin.com/company/deltacredit-bank/",
+                "employees": {
+                    "start": 501,
+                    "end": 1000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Moscow, Russia",
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "day": null,
+                            "year": 2013
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": 2017
+                        }
+                    },
+                    "company": "DeltaCredit Bank",
+                    "description": "- Handled Decision support system maintaining and development\n- Designed and developed AutoML framework and real-time mortgage approval system\n- Led Risk Based Pricing",
+                    "title": "Risk management and Risk technology specialist",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Risk Analysis",
+        "Machine Learning",
+        "Business Analysis",
+        "Data Mining",
+        "Microsoft Azure",
+        "Transact-SQL (T-SQL)",
+        "Python",
+        "Agile Methodologies",
+        "Django",
+        "Data Visualization",
+        "SQL",
+        "Technological Innovation",
+        "Predictive modelling",
+        "Scala",
+        "TensorFlow",
+        "Apache Spark",
+        "Data Science",
+        "Deep Learning",
+        "English",
+        "Risk Management"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

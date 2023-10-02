@@ -1,0 +1,592 @@
+{
+    "profile_id": "chloeumble",
+    "first_name": "Chloe",
+    "last_name": "Umble",
+    "sub_title": "Software Engineer at FareHarbor",
+    "profile_picture": null,
+    "background_image": "https://media.licdn.com/dms/image/C5616AQGGI1YGaPLMBg/profile-displaybackgroundimage-shrink_350_1400/0/1517012254568?e=1701302400&v=beta&t=E4nLHR0pW6cfERFHXCBi9gVvEAyiHeEHGAbd7_SoXa0",
+    "profile_type": "personal",
+    "entity_urn": "ACoAAAk6eJcB0i_HOSeeEHHWoE_6X2ASHmNFBJs",
+    "object_urn": 154826903,
+    "birth_date": null,
+    "summary": null,
+    "location": {
+        "country": "Netherlands",
+        "short": "Amsterdam, North Holland",
+        "city": "Amsterdam",
+        "state": "North Holland",
+        "default": "Amsterdam, North Holland, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": []
+    },
+    "industry": "Computer Software",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2010
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "school": {
+                "name": "University of the Pacific",
+                "logo": "https://media.licdn.com/dms/image/C560BAQFPsmm4x1o9nw/company-logo_400_400/0/1660254133510?e=1703721600&v=beta&t=EFx_zTDt126Lx7jhph-nZwWKcdjfRJt4H5m6ibfqhn4",
+                "url": "https://www.linkedin.com/school/university-of-the-pacific/"
+            },
+            "degree_name": "Bachelor of Science (BS)",
+            "field_of_study": "Computer Science",
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [
+        {
+            "title": "Profile Day Speaker",
+            "description": "Chosen to speak on Profile Day Student Life panel for 1,200 prospective students and their families.",
+            "issuer": "Office of New Student and Family Programs",
+            "date": {
+                "month": 9,
+                "day": null,
+                "year": 2013
+            }
+        },
+        {
+            "title": "Yield Trip Student Representative",
+            "description": "Chosen to attend Admissions Yield trips in Pasadena, Portland and Seattle as a student representative. Spoke with prospective students and their families about my experience at University of the Pacific.",
+            "issuer": "Office of New Student and Family Programs",
+            "date": {
+                "month": 4,
+                "day": null,
+                "year": 2013
+            }
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Maker Educator Certificate",
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Sonoma State",
+            "url": "https://www.sonoma.edu/exed/maker-certificate/",
+            "license_number": null,
+            "display_source": "sonoma.edu",
+            "company": null
+        },
+        {
+            "name": "Leadership YOU",
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "University of the Pacific Office of Student Life",
+            "url": null,
+            "license_number": null,
+            "display_source": null,
+            "company": null
+        }
+    ],
+    "organizations": [
+        {
+            "name": "Theta Tau",
+            "position": "Treasurer, Pledge Educator",
+            "date_start": {
+                "month": 11,
+                "day": null,
+                "year": 2011
+            },
+            "date_end": null
+        },
+        {
+            "name": "University of the Pacific Quidditch Team",
+            "position": "Founding member, team manager",
+            "date_start": {
+                "month": 9,
+                "day": null,
+                "year": 2011
+            },
+            "date_end": null
+        }
+    ],
+    "projects": [
+        {
+            "title": "YouTube 2.0",
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "description": "Senior Project: A design analysis of user interfaces and interactivity on large scale websites, focused primarily on YouTube. I then created a final remodeled site that evolves based on actions and input from each individual user, encouraging integration between casual users and power users in a natural way.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Chloe",
+                    "last_name": "Umble",
+                    "name": null,
+                    "headline": "Software Engineer at FareHarbor"
+                }
+            ]
+        },
+        {
+            "title": "Deep Space Mobile Application Game",
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "description": "A mobile game in Java for the Android platform that combines bits of Androids and Bejeweled. Project involved taking an existing game and improving features and eliminating bugs using scrum framework. Responsibilities as a team member include adding complex AI to enemies, adding Power Ups, and monitoring progress of team.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Chloe",
+                    "last_name": "Umble",
+                    "name": null,
+                    "headline": "Software Engineer at FareHarbor"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Alejandro",
+                    "last_name": "Dom\u00ednguez",
+                    "name": null,
+                    "headline": "Software Developer"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Fernando",
+                    "last_name": "Carranza",
+                    "name": null,
+                    "headline": "SRE at Instana"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Michael",
+                    "last_name": "Feliz",
+                    "name": null,
+                    "headline": "Staff Tech Lead Manager - Compiler at Cruise"
+                }
+            ]
+        },
+        {
+            "title": "No Text While Driving",
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "description": "An Android platform application developed using MIT\u2019s Android App Inventor software. Developed as a team project to ensure safe driving. When application is on, it sends automatic replies to any text messages received. Responsibilities as a team member included developing project, creating timeline and ensuring group progressed properly.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Chloe",
+                    "last_name": "Umble",
+                    "name": null,
+                    "headline": "Software Engineer at FareHarbor"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Fernando",
+                    "last_name": "Carranza",
+                    "name": null,
+                    "headline": "SRE at Instana"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Camila",
+                    "last_name": "Carvajal",
+                    "name": null,
+                    "headline": "Senior Technical Product Manager at Pluralsight"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Michael",
+                    "last_name": "Eiskamp",
+                    "name": null,
+                    "headline": "Electrical Test Engineer at Northrop Grumman"
+                }
+            ]
+        }
+    ],
+    "publications": [],
+    "courses": [
+        {
+            "name": "Algorithms",
+            "number": null
+        },
+        {
+            "name": "Application Development",
+            "number": null
+        },
+        {
+            "name": "Computer Simulation",
+            "number": null
+        },
+        {
+            "name": "Computer Systems & Networks",
+            "number": null
+        },
+        {
+            "name": "Computing Theory",
+            "number": null
+        },
+        {
+            "name": "Data Structures",
+            "number": null
+        },
+        {
+            "name": "Human Computer Interfaces",
+            "number": null
+        },
+        {
+            "name": "Logic",
+            "number": null
+        },
+        {
+            "name": "Networks & Security",
+            "number": null
+        },
+        {
+            "name": "Programming Languages",
+            "number": null
+        },
+        {
+            "name": "Web Applications",
+            "number": null
+        }
+    ],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 2957445,
+                "name": "FareHarbor",
+                "logo": "https://media.licdn.com/dms/image/C510BAQGMFoXuibs8xw/company-logo_400_400/0/1519893550096?e=1703721600&v=beta&t=R-i6cmnFT3YMKXqfgPVF8GZZPSZqq1Fr2240IRWoQG8",
+                "url": "https://www.linkedin.com/company/fareharbor/",
+                "employees": {
+                    "start": 501,
+                    "end": 1000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2017
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "FareHarbor",
+                    "description": "Grown from a Junior Engineer in a department of 15 to Tech Lead a team of 4 developers within a 100 person product organization over 5 years.\n\nMet a broad set of business requirements requiring thoughtful engineering across the whole stack: horizontally scaling the Python Django monolith application by building an application layer Redis backed load balancer, strategizing a GDPR Compliant generalized technical solution for a network of 6k European based clients, and introducing multilingual translations support to the application.\n\nIn addition to IC Contributions, instituted organizational processes now broadly adopted across the whole department, fostered knowledge transfers with peers as a resource of institutional technical knowledge, enhanced the Tech Lead mutual support network with regular meetings and streamlined communication processes, and invested in future engineering efforts through documentation and code comments.",
+                    "title": "Software Engineer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1309698,
+                "name": "ShopRunner",
+                "logo": "https://media.licdn.com/dms/image/D560BAQEFJuuPtWio9Q/company-logo_400_400/0/1666111427325?e=1703721600&v=beta&t=NURck9el5PRpjnGwwgF_tXFzy7h0JgVdXhBl7M5sItg",
+                "url": "https://www.linkedin.com/company/shoprunner/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "San Mateo, CA",
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2017
+                        }
+                    },
+                    "company": "ShopRunner",
+                    "description": "Led engineering team-wide effort (spanning front-end and back-end teams in Pennsylvania and San Mateo) to incorporate Foundation framework within the customer facing Python Django app. Adapted the non-member site to be a single page application, with custom JQuery input validation and AJAX form / data submission. Worked alongside the QA team to write automated Selenium tests to verify expected behavior across multiple browsers, form factors, and environments. \n\nWorked with marketing and merchandising team to develop emails with dynamic contents and ensure deliverability to 2.7 million recipients. Worked with Partner Success and UX departments to streamline digital asset management for our corpus of partners using AWS CloudFront storage.",
+                    "title": "Level II Software Engineer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 3758682,
+                "name": "The Happy Home Company",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQFdVeYNrl2rsA/company-logo_400_400/0/1519952432976?e=1703721600&v=beta&t=37XXxNJdVahz-LMGWHKS5Nyz7o9DDmye28b6gGNQtkw",
+                "url": "https://www.linkedin.com/company/the-happy-home-company/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "San Jose, CA",
+                    "date": {
+                        "start": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2016
+                        }
+                    },
+                    "company": "The Happy Home Company",
+                    "description": "Member of a 5 person engineering team at an early stage startup aiming to simplify home maintenance by connecting homeowners with a Personal Home Manager and trusted service network. Developed features and tests on both end-user facing and internal tools, using Python Django and AngularJS. \n\nCollaborated with our product and operations team members, and with design department to maintain graphic standards and branding throughout the product\u2019s interface. Ensured the technical feasibility of UI/UX designs, and implemented code and libraries designed to be reusable for future use, then optimized applications for maximum speed and scalability as needed.",
+                    "title": "Frontend Engineer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 4856652,
+                "name": "Maker Education Initiative (Maker Ed)",
+                "logo": "https://media.licdn.com/dms/image/C560BAQF6_8ZyswgHmQ/company-logo_400_400/0/1652885499026?e=1703721600&v=beta&t=ICDAOZl7ATblh9xT_MGNMWDldLmJaeSKemyNAm14ISs",
+                "url": "https://www.linkedin.com/company/maker-education-initiative-maker-ed-/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Oakland, CA",
+                    "date": {
+                        "start": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2014
+                        },
+                        "end": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2015
+                        }
+                    },
+                    "company": "Maker Ed",
+                    "description": "Served as an AmeriCorps VISTA member to confront poverty through collaborative development of organizational, administrative and financial capacity for host organization Maker Ed. Established and managed multiple online community platforms used by a nationwide network of Maker VISTA Volunteers, created marketing and communications content to be shared with online audiences more than ten thousand members, and collaborated with all staff members to solidify the impact of the Maker VISTA Program.",
+                    "title": "VISTA Communications and Development Coordinator",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 688744,
+                "name": "Illumination Entertainment",
+                "logo": "https://media.licdn.com/dms/image/C560BAQG5XlqU9vRJBQ/company-logo_400_400/0/1602570837561?e=1703721600&v=beta&t=vLRS9PpBnkE7UCasnMgcXCik2xJKimVYKfbOU1IMySI",
+                "url": "https://www.linkedin.com/company/illumination-entertainment/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Santa Monica",
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2013
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2013
+                        }
+                    },
+                    "company": "Illumination",
+                    "description": "Assisted in managing network users, office conference rooms organization, image capturing and binding machines to network, set up private network and helped assist with network file management, assist production and development departments as needed.",
+                    "title": "IT Intern",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [
+        {
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "role": "VISTA Project Coordinator",
+            "company": {
+                "id": null,
+                "name": "AmeriCorps VISTA",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQEPWSDm3_RJqA/company-logo_400_400/0/1601380510673?e=1703721600&v=beta&t=WWoNFVsHH0s59dzkhUfGfjUXd84h90EB4OLyBA7wUF0",
+                "url": "https://www.linkedin.com/company/americorps-vista/"
+            },
+            "cause": "EDUCATION",
+            "description": null
+        }
+    ],
+    "skills": [
+        "Management",
+        "HTML 5",
+        "Java",
+        "JavaScript",
+        "Event Planning",
+        "C++ Language",
+        "SQL",
+        "Social Media Marketing",
+        "Organizational Leadership",
+        "Marketing",
+        "Marketing Communications",
+        "PHP4/5",
+        "Team-oriented",
+        "Personnel Management",
+        "Human Resources",
+        "Treasury Management",
+        "Design",
+        "Teamwork",
+        "C++",
+        "PowerPoint"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

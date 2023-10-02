@@ -1,0 +1,722 @@
+{
+    "profile_id": "joostvanderknaap",
+    "first_name": "Joost",
+    "last_name": "van der Knaap",
+    "sub_title": "Development Team Member at KPN",
+    "profile_picture": null,
+    "background_image": "https://media.licdn.com/dms/image/D4E16AQHuoKMEgxj6-g/profile-displaybackgroundimage-shrink_350_1400/0/1666355268071?e=1701302400&v=beta&t=PUsqC-Y_ZwGqQUsCqyJ80-OAbfqPFSrYOv_Ap8KOdfg",
+    "profile_type": "personal",
+    "entity_urn": "ACoAAAEDHlIBe3z_8Oal4seQlIp9KupV7lkWQdw",
+    "object_urn": 16981586,
+    "birth_date": null,
+    "summary": "My job experience and expertise focuses on the boundary between Development and Operations. In previous functions I have been in either one of these organisations, which is why I feel very much at home in a DevOps team, where SCRUM and Agile are more than buzzwords.\nI get my job satisfaction from thinking up and carrying out solutions for technical challenges, always seeking to find the smartest and most efficient solution. If needed, I can specify the solution in a detailed way, enabling someone else to implement or develop it.\n\nIn my current position I facilitate DevOps teams by providing, operating and innovating for them:\n\u2022 a CI/CD pipeline\n\u2022 a standardised, version-controlled deployment method, in which configuration-as-code is an important pillar\n\nI think of myself as a real team player and feel most comfortable in a team. Outside office hours I also support my fellow team members. I am a great proponent of sharing knowledge and information.\nMy work attitude is typified by the following statements:\n\u2022 \u2018Yes it is possible \u2013 Every technical challenge can be overcome, it is a question of time and means.\n\u2022 \u2018How difficult can it be?\u2019 \u2013 Knowledge and skills gained in ICT can often easily be transferred to a new challenge. One who is familiar with OO programming will be quickly up to steam when starting with Java. I have not come across anything I have not been able to learn.",
+    "location": {
+        "country": "Netherlands",
+        "short": "The Hague, South Holland",
+        "city": "The Hague",
+        "state": "South Holland",
+        "default": "The Hague, South Holland, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "Dutch",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "English",
+                "proficiency": "FULL_PROFESSIONAL"
+            }
+        ]
+    },
+    "industry": "Information Technology & Services",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 1998
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2003
+                }
+            },
+            "school": {
+                "name": "Rotterdam University of Applied Sciences",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQG3Kyr4cUYEWQ/company-logo_400_400/0/1570826248210?e=1703721600&v=beta&t=wRFKdXH3VXRNUsTW_iMKeNKCykMaeBIuUfopmwrUaNU",
+                "url": "https://www.linkedin.com/school/hogeschool-rotterdam/"
+            },
+            "degree_name": "Bachelor's degree",
+            "field_of_study": "Electrical Engineering and Technical Computer Sciences",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 1989
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 1996
+                }
+            },
+            "school": {
+                "name": "Interconfessioneel Westland College",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "VWO",
+            "field_of_study": null,
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [
+        {
+            "name": "Professional Scrum Master I",
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Scrum.org",
+            "url": null,
+            "license_number": null,
+            "display_source": null,
+            "company": {
+                "id": null,
+                "name": "Scrum.org",
+                "logo": "https://media.licdn.com/dms/image/C560BAQFzF6WZjNSHkQ/company-logo_400_400/0/1522074989702?e=1703721600&v=beta&t=-PRmXQFIlx8U4JWR-3B1NpWfKbSbQ6Zx6ONjdC6UVQs",
+                "url": null
+            }
+        },
+        {
+            "name": "Agile Foundation Certificate",
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "DSDM Consortium",
+            "url": null,
+            "license_number": "5663",
+            "display_source": null,
+            "company": null
+        },
+        {
+            "name": "Prince2 Practitioner",
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "authority": "Symphera",
+            "url": null,
+            "license_number": null,
+            "display_source": null,
+            "company": null
+        },
+        {
+            "name": "Red Hat Certified System Administrator (RHCSA)",
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2010
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Redhat",
+            "url": null,
+            "license_number": null,
+            "display_source": null,
+            "company": null
+        }
+    ],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "MMSC Database Aging",
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "description": "Developed in Perl for an operator in Italy, this customisation serves to automate the removal of mobile users from a database, if those users haven't used the service of the MMSC in a configurable amount of days. The focus was on reliability, performance and ease of support.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Joost",
+                    "last_name": "van der Knaap",
+                    "name": null,
+                    "headline": "Development Team Member at KPN"
+                }
+            ]
+        },
+        {
+            "title": "Message Controller Project",
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "description": "As part of a much larger project for an operator in Australia, the customisation deliverables for which I was responsible were:\n\u2022\tSecure File Pusher\nDeveloped in Perl, this customisation serves to automate the transfer of large volumes of files to one or more remote server using an encrypted protocol (SSH). The focus was on redundancy, reliability, security and ease of support.\n\u2022\tPrepaid Subscriber Provisioner\nDeveloped by a third party, this customisation serves to process changes to the subscriptions of prepaid mobile users into the database(s). Being developed by a third party, this customisation demanded extra attention to the establishment of clear and concise requirements and high-level design.\n\u2022\tTAS Provisioner\nDeveloped by a third party, this customisation serves to process changes to the specific number mappings that enable the employer to make traffic routing decisions and track traffic distribution for which revenue can be claimed at other operators. Being developed by a third party, this customisation demanded extra attention to the establishment of clear and concise requirements and high-level design.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Joost",
+                    "last_name": "van der Knaap",
+                    "name": null,
+                    "headline": "Development Team Member at KPN"
+                }
+            ]
+        },
+        {
+            "title": "Broadband EIR in Norway",
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2011
+                }
+            },
+            "description": "Assembled from existing Acision products (Flexible Gateway and Directory Server), with internal logic developed in Pascal and provisioning of Directory Server in Perl, this customised Solution serves to authorize or block access to the LTE network of a Norwegian mobile operator for mobile equipment that has been marked 'stolen' or 'lost' by a national law-enforcement authority (Norwegian Police). The focus was on accuracy, reliability and performance.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Joost",
+                    "last_name": "van der Knaap",
+                    "name": null,
+                    "headline": "Development Team Member at KPN"
+                }
+            ]
+        }
+    ],
+    "publications": [],
+    "courses": [
+        {
+            "name": "AZ-204 - Developing Solutions for Microsoft Azure",
+            "number": null
+        },
+        {
+            "name": "AZ-900T01 - Microsoft Azure Fundamentals (1 Day) Course",
+            "number": null
+        },
+        {
+            "name": "Cloud Advanced Training: Automation using Ansible",
+            "number": null
+        },
+        {
+            "name": "Fundamentals of Exploratory Testing",
+            "number": null
+        },
+        {
+            "name": "Kubernetes Advanced for Software Developers (GKKUBASD) (Global Knowledge)",
+            "number": null
+        },
+        {
+            "name": "Prince2",
+            "number": "Practitioner"
+        },
+        {
+            "name": "SOLID Fundamentals - Object-oriented design methodology",
+            "number": null
+        }
+    ],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 1442,
+                "name": "KPN",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQFHdzywk2aJGA/company-logo_400_400/0/1691135902931?e=1703721600&v=beta&t=EwovPoL4-FsdDqAf_BsVW4iHyxyT1HtULkozISOj_rI",
+                "url": "https://www.linkedin.com/company/kpn/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "The Hague Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "KPN",
+                    "description": "Feb 2018 - to present: I am a development team member in a Devops Scrum team at KPN.\nThe team develops, operates and innovates three main products:\n- Nems-IT Monitoring System (icinga-based, monitoring system for business applications, which can self-provision their monitored objects via the api)\n- Nems-IT Deployment System (ansible-based, deployment system for business applications, enabling them to standardise their rollouts)\n- Common Integration Layer (base-lined Red Hat Enterprise Linux that exposes a uniform intergration surface for business applications)\nMy role includes: playbook writer, coder, code reviewer, doc writer, developer, operator and maintainer of the above products.",
+                    "title": "Development Team Member",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1070,
+                "name": "Nokia",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQGL8hpduEqGKQ/company-logo_400_400/0/1677420438777?e=1703721600&v=beta&t=f71t3mqmcjrQMa43n0ZASv43aPIsPFYwKnX4eRtOOAc",
+                "url": "https://www.linkedin.com/company/nokia/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Hoofddorp",
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2018
+                        }
+                    },
+                    "company": "Nokia",
+                    "description": "Feb 2018 - to present: I am a development team member in a Scrum team at Nokia's customer KPN\nThe team develops, operates and innovates three main products:\n- Nems-IT Monitoring System (icinga-based, monitoring system for business applications, which can self-provision their monitored objects via the api)\n- Nems-IT Deployment System (ansible-based, deployment system for business applications, enabling them to standardise their rollouts)\n- Common Integration Layer (base-lined Red Hat Enterprise Linux that exposes a uniform intergration surface for business applications)\nMy role includes playbook writer, coder, code reviewer, doc writer, operator and maintainer of the above products.\n\nJuly 2016 through Jan 2018: I am a development team member in a Scrum team at Nokia's customer KPN\nThe team develops, operates and innovates two main products:\n- DHCP for ePOTS (providing a dhcp service for KPN's emulated plain old telephony system)\n- DHCP for ETN (providing a dhcp service for KPN's customer premises equipment in the ETN domain)\nMy role includes playbook writer, coder, code reviewer, doc writer, operator and maintainer of the above products.",
+                    "title": "DevOps Engineer",
+                    "employment_type": null
+                },
+                {
+                    "location": "Hoofddorp",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2016
+                        }
+                    },
+                    "company": "Nokia",
+                    "description": "As a member of the IP Operations department of Nokia, I have the following roles in our service to IP Ops' principle customer - KPN NL:\n1. DevOps team member\n2. Reviewer of Functional Designs\n3. Assessor of new (/modified) applications on system administration qualities and requirements\n4. Author of documentation for the technical roll-out of new (/modified) applications\n5. Interface between IP Ops and Innovation Projects (Subject Matter Expert role)\n6. Third (/second) line support for problems.\n\nThe responsibilities relate to Service Continuity for the services provided by KPN to their Internet (internet, VOIP and IP tv) customers.\nA. To smoothly introduce Innovations by KPN (Roles 1 through 4).\nB. To assist in operational issues (Role 5).",
+                    "title": "Technical/Tactical Application Manager (via Legian consultancy)",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Legian",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "The Hague Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2013
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2018
+                        }
+                    },
+                    "company": "Legian",
+                    "description": "Legian is an independent consultancy and staffing agency that works at the cutting edge of ICT and organisation. Legian provides the optimum configuration of ICT infrastructures to ensure the highest degree of control and the lowest possible cost. We also design, develop and support infrastructures based on your organisation\u2019s needs from procurement to operation.",
+                    "title": "Consultant",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 33456474,
+                "name": "NetDialog - Network Performance Monitoring and Diagnostics & Application Performance Management",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQGd4cBw8oRTzg/company-logo_400_400/0/1682413102531?e=1703721600&v=beta&t=ZKxi_0MQorfw_ykJXrFggGwNLsyhed2sPg6gCh0A4Ts",
+                "url": "https://www.linkedin.com/company/sceptr/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2015
+                        }
+                    },
+                    "company": "Sceptr",
+                    "description": "Consultancy & Support on NetDialog's application performance management products.\n\nTechnologies involved:\nNetx APM (NetDialog)\nDynatrace Application Monitoring & UEM (Dynatrace)\nDCRUM (Dynatrace)\nEnterprise Synthetic (Dynatrace)",
+                    "title": "Technical Engineer (via Legian consultancy)",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1070,
+                "name": "Alcatel-Lucent",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQGL8hpduEqGKQ/company-logo_400_400/0/1677420438777?e=1703721600&v=beta&t=f71t3mqmcjrQMa43n0ZASv43aPIsPFYwKnX4eRtOOAc",
+                "url": "https://www.linkedin.com/company/nokia/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Hoofddorp",
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2013
+                        },
+                        "end": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2015
+                        }
+                    },
+                    "company": "Nokia",
+                    "description": "As a member of the IP Operations department of Alcatel-Lucent, I fulfilled the following roles in our service to IP Ops' principle customer - KPN NL:\n1. Reviewer of Functional Designs\n2. Assessor of new (/modified) applications on system administration qualities and requirements\n3. Author of documentation for the technical roll-out of new (/modified) applications\n4. Interface between IP Ops and Innovation Projects (Subject Matter Expert role)\n5. Third (/second) line support for problems.\n\nThe responsibilities relate to Service Continuity for the services provided by KPN to their Internet (internet, VOIP and IP tv) customers.\nA. To smoothly introduce Innovations by KPN (Roles 1 through 4).\nB. To assist in operational issues (Role 5).",
+                    "title": "Technical/Tactical Application Manager (via Legian consultancy)",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1270,
+                "name": "Acision",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQEJhdM2g9x7uQ/company-logo_400_400/0/1519855900522?e=1703721600&v=beta&t=-ZPkd_hBYpI8ui3PrBVacBts36brV1g23SssBPfDVwo",
+                "url": "https://www.linkedin.com/company/acision/",
+                "employees": {
+                    "start": 0,
+                    "end": 1
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2007
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2007
+                        },
+                        "end": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2013
+                        }
+                    },
+                    "company": "acision",
+                    "description": "Summary: As a Solution Engineer I was a part of the Global Customisation Services team that made sure that the Acision core products integrated into the customer\u2019s environment. Core tasks included: analysis of the requirements, bid-support, packaging work to be performed internally or externally, project management for the customisation, implementation of the customisation in the customer environment, integration testing and support.\n\nRole:\nA Solution Engineer provides customised software solutions that enhance standard product offerings to meet customer requirements. This includes developing the solution independently or through leading a development team.\nThe Solution Engineer participates in the full sales, project and support lifecycle to ensure appropriate revenue and quality, while taking leadership and ownership for team activities.\n\nKey Accountabilities:\n- Undertake the review and assessment of change requests on existing customisations or requests for new customisations in terms of suitability of such requests and the effort estimation of software creation and implementation.\n- Lead and own full software lifecycle activities for accepted requests from the requirements analysis through to development and testing as well as the publication of all required deliverables such as software and technical manuals to established quality standards.\n- Lead and own deployment activities for customer-specific requests including the creation of documentation tailored to the target environment through to actual implementation activities as required and to agreed schedules.\n- Undertake full support lifecycle activities for implemented requests including code and documentation maintenance to required customer-satisfaction and service levels.\n- Be a point of contact amongst peers for expertise and coaching.\n- Recommend process improvements for the development and management of customisations.\n- Lead and own documentation reviews.",
+                    "title": "Solution Engineer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "LogicaCMG Telecom Products",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2005
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2007
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2005
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2007
+                        }
+                    },
+                    "company": "LogicaCMG Telecom Products",
+                    "description": "Provide support on the SMSC product for customers in Europe.\nOn-site consultancy (abroad) in a Professional Services role.\n\nIn this role I have provided on-site consultancy to mobile operators in:\n- Belgium (2 weeks)\n- Switzerland (2x 2 weeks)\n- France (multiple occasions)\n- Italy (6 weeks)",
+                    "title": "Consultant - SMSC support engineer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 135473,
+                "name": "EDS Group",
+                "logo": null,
+                "url": "https://www.linkedin.com/company/eds-group/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2000
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2002
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2000
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2002
+                        }
+                    },
+                    "company": "EDS Group",
+                    "description": "2-year (24hrs a week) internship projects & graduation project.",
+                    "title": "Network Support Engineer",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [
+        {
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "role": "Fund raiser",
+            "company": {
+                "id": null,
+                "name": "Milieudefensie",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQE5Tb8aNPPSXQ/company-logo_400_400/0/1579877881724?e=1703721600&v=beta&t=hrJ00RNezgpNNawe9DO9LfPGU-VLZPRUkbHq3VnQZJo",
+                "url": "https://www.linkedin.com/company/milieudefensie/"
+            },
+            "cause": "ENVIRONMENT",
+            "description": "Generated funds for Milieudefensie, participating in the Damloop 2016 (10 EM)."
+        }
+    ],
+    "skills": [
+        "Testing",
+        "Integration",
+        "Ansible",
+        "Shell Scripting",
+        "Requirements Analysis",
+        "ICT",
+        "IP",
+        "PRINCE2",
+        "Scripting",
+        "VAS",
+        "Virtualization",
+        "Requirements Gathering",
+        "Red Hat Linux",
+        "Perl",
+        "XML",
+        "Deployment Automation",
+        "SNMP",
+        "Diameter",
+        "SIGTRAN",
+        "Mobile Telecommunications"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

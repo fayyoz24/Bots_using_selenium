@@ -1,0 +1,741 @@
+{
+    "profile_id": "vera-pro",
+    "first_name": "Vera",
+    "last_name": "Provatorova",
+    "sub_title": "Researcher / PhD Candidate - University of Amsterdam (UvA)",
+    "profile_picture": null,
+    "background_image": "https://media.licdn.com/dms/image/C4E16AQHGO8vdU4mUTA/profile-displaybackgroundimage-shrink_350_1400/0/1654072910073?e=1701302400&v=beta&t=4CZ7uqCv1zz7EeT0bDzAZyua7WmspgEqUWaDbSuCBMg",
+    "profile_type": "personal",
+    "entity_urn": "ACoAABQuU-EB9H08VLzXKawjC1_V8f5q3LI99RE",
+    "object_urn": 338580449,
+    "birth_date": null,
+    "summary": "\ud83c\udf93 PhD student NLP/IR at IRLab, University of Amsterdam \n\ud83d\udc69\u200d\ud83d\udcbb Background in applied mathematics & computer science with a focus on NLP; now working at the intersection with digital humanities\n\ud83d\udcda Research inspired by artdatis.nl : making multilingual historical documents searchable\n\ud83d\udd17 Main research topic: entity linking\n\ud83d\udca1 Interested in exploring edge cases of this task (tail entities, overshadowed entities, noisy data), as well as its applications\n\n\ud83e\udd1d Happy to chat if you are interested in a research collaboration, or just to exchange ideas and inspiration",
+    "location": {
+        "country": "Netherlands",
+        "short": "Amsterdam, North Holland",
+        "city": "Amsterdam",
+        "state": "North Holland",
+        "default": "Amsterdam, North Holland, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "Dutch",
+                "proficiency": "LIMITED_WORKING"
+            },
+            {
+                "name": "English",
+                "proficiency": "PROFESSIONAL_WORKING"
+            }
+        ]
+    },
+    "industry": "Computer Software",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2024
+                }
+            },
+            "school": {
+                "name": "University of Amsterdam",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQEfHBj_we-_kw/company-logo_400_400/0/1659945104460?e=1703721600&v=beta&t=nxt14hUDODg3MttkNj5Qa0fCu2FbgGbRXyFSapRtNv4",
+                "url": "https://www.linkedin.com/school/university-of-amsterdam/"
+            },
+            "degree_name": "Doctor of Philosophy - PhD",
+            "field_of_study": "Computer Science",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "school": {
+                "name": "National Research University \u2013 Higher School of Economics",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "Master's degree",
+            "field_of_study": "Applied Mathematics and Informatics",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "school": {
+                "name": "Higher School of Economics",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQGJjfuCZq1n2A/company-logo_400_400/0/1542712839994?e=1703721600&v=beta&t=dKJZlOP46S5ECkfvLzhW2MDe7IemWTV8SczAaqYXedk",
+                "url": "https://www.linkedin.com/school/%D0%B2%D1%8B%D1%81%D1%88%D0%B0%D1%8F-%D1%88%D0%BA%D0%BE%D0%BB%D0%B0-%D1%8D%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D0%BA%D0%B8/"
+            },
+            "degree_name": "Bachelor",
+            "field_of_study": "Applied Mathematics and Informatics",
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [
+        {
+            "name": "Kaggle R Tutorial on Machine Learning",
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "DataCamp",
+            "url": "https://www.datacamp.com/courses/kaggle-r-tutorial-on-machine-learning?utm_source=LinkedIn&utm_medium=Certificate&utm_content=Certificate&utm_campaign=Linkedin-Certificate",
+            "license_number": "8bd2246ebdf5dcd5b3a448d433eac10b397c6d0a",
+            "display_source": "datacamp.com",
+            "company": {
+                "id": null,
+                "name": "DataCamp",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQHoE9F6A76mOQ/company-logo_400_400/0/1603188329234?e=1703721600&v=beta&t=JPiYIAfZu82tbksnE4OY0vI2x_xqC6jmWtDCuMnRK6U",
+                "url": null
+            }
+        }
+    ],
+    "organizations": [],
+    "projects": [],
+    "publications": [
+        {
+            "name": "Robustness Evaluation of Entity Disambiguation Using Prior Probes: the Case of Entity Overshadowing",
+            "publisher": "Conference on Empirical Methods in Natural Language Processing (EMNLP)",
+            "url": "https://aclanthology.org/2021.emnlp-main.820.pdf",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2021
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Vera",
+                    "last_name": "Provatorova",
+                    "name": null,
+                    "headline": "Researcher / PhD Candidate - University of Amsterdam (UvA)"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Svitlana",
+                    "last_name": "Vakulenko",
+                    "name": null,
+                    "headline": "NLP/ML/IR Researcher"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Samarth B",
+                    "headline": null
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Evangelos",
+                    "last_name": "Kanoulas",
+                    "name": null,
+                    "headline": "Professor at University of Amsterdam & Co-founder at Ellogon AI B.V."
+                }
+            ]
+        },
+        {
+            "name": "Named Entity Recognition and Linking on Historical Newspapers: UvA.ILPS & REL at CLEF HIPE 2020",
+            "publisher": "Conference and Labs of the Evaluation Forum (CLEF)",
+            "url": "http://ceur-ws.org/Vol-2696/paper_209.pdf",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2020
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Vera",
+                    "last_name": "Provatorova",
+                    "name": null,
+                    "headline": "Researcher / PhD Candidate - University of Amsterdam (UvA)"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Svitlana",
+                    "last_name": "Vakulenko",
+                    "name": null,
+                    "headline": "NLP/ML/IR Researcher"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Evangelos",
+                    "last_name": "Kanoulas",
+                    "name": null,
+                    "headline": "Professor at University of Amsterdam & Co-founder at Ellogon AI B.V."
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Koen Dercksen",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Johannes M van Hulst",
+                    "headline": null
+                }
+            ]
+        },
+        {
+            "name": "Art DATIS: Improving search in multilingual corpora to support art historians",
+            "publisher": "Digital Humanities Benelux",
+            "url": null,
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2019
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Vera",
+                    "last_name": "Provatorova",
+                    "name": null,
+                    "headline": "Researcher / PhD Candidate - University of Amsterdam (UvA)"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Anna Carlgren",
+                    "headline": null
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Evangelos",
+                    "last_name": "Kanoulas",
+                    "name": null,
+                    "headline": "Professor at University of Amsterdam & Co-founder at Ellogon AI B.V."
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Marieke Hendriksen",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Sven Dupr\u00e9",
+                    "headline": null
+                }
+            ]
+        }
+    ],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 164625,
+                "name": "Koninklijke Bibliotheek (KB), nationale bibliotheek van Nederland",
+                "logo": "https://media.licdn.com/dms/image/C560BAQHKXKadgv9Wcw/company-logo_400_400/0/1679979015419?e=1703721600&v=beta&t=-LX10wt0X99GzvzXrQIqdUci---xZ9GkjMR-2Wn_9Jg",
+                "url": "https://www.linkedin.com/company/koninklijke-bibliotheek/",
+                "employees": {
+                    "start": 201,
+                    "end": 500
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2023
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "The Hague, South Holland, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2023
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Koninklijke Bibliotheek (KB), nationale bibliotheek van Nederland",
+                    "description": "Research topic: robust entity linking on Dutch historical documents",
+                    "title": "Researcher-in-Residence",
+                    "employment_type": "Part-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 4081,
+                "name": "UvA",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQEfHBj_we-_kw/company-logo_400_400/0/1659945104460?e=1703721600&v=beta&t=nxt14hUDODg3MttkNj5Qa0fCu2FbgGbRXyFSapRtNv4",
+                "url": "https://www.linkedin.com/school/university-of-amsterdam/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2023
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amsterdam Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2023
+                        }
+                    },
+                    "company": "University of Amsterdam",
+                    "description": null,
+                    "title": "Researcher / PhD candidate",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 76987811,
+                "name": "Facebook",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQHi-wrXiQcbxw/company-logo_400_400/0/1635988509026?e=1703721600&v=beta&t=Z-yQ9xQ5P8M_FDg5oEDOCB0njfawGAHslQwU2Pkwkkg",
+                "url": "https://www.linkedin.com/company/facebook/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "London, United Kingdom",
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2017
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2017
+                        }
+                    },
+                    "company": "Facebook",
+                    "description": null,
+                    "title": "Software Engineering Intern",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1168421,
+                "name": "Instam ltd",
+                "logo": "https://media.licdn.com/dms/image/C560BAQHMsWXvsQoorQ/company-logo_400_400/0/1519876921370?e=1703721600&v=beta&t=a-Q-6yqHXgYQZZ2wzhJg30T3AK7DtfusMNb_s1lqcwo",
+                "url": "https://www.linkedin.com/company/instam-ltd/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Moscow City, Russia",
+                    "date": {
+                        "start": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2017
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2017
+                        }
+                    },
+                    "company": "Instam ltd",
+                    "description": null,
+                    "title": "Data Scientist",
+                    "employment_type": "Part-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 9500280,
+                "name": "BostonGene",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQHB0bhqcNVGwQ/company-logo_400_400/0/1597944903657?e=1703721600&v=beta&t=uj7dktLyLCmOwV8u73M_3tuBREzLlo_djLCwbYE3cl4",
+                "url": "https://www.linkedin.com/company/bostongene/",
+                "employees": {
+                    "start": 501,
+                    "end": 1000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2017
+                        }
+                    },
+                    "company": "BostonGene",
+                    "description": null,
+                    "title": "Data Scientist",
+                    "employment_type": "Part-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 2568396,
+                "name": "AGIMA",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQEDO0KFLnpihQ/company-logo_400_400/0/1587123547589?e=1703721600&v=beta&t=pnODf_qVs29m4fMThybkid1ZGf6RZh9ZT8pLhZN9o40",
+                "url": "https://www.linkedin.com/company/agima-job/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Moscow",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2016
+                        }
+                    },
+                    "company": "AGIMA",
+                    "description": "Using Python for data mining, including:\n* automated information retrieval from the Web (Selenium used); \n* applying NLP algorithms for sentiment analysis and topic modelling of customer reviews .",
+                    "title": "Data Scientist",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 6132,
+                "name": "VimpelCom, Russia",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQFJih8uKRbTbw/company-logo_400_400/0/1637244802027?e=1703721600&v=beta&t=34EDqu2Ai-eqv57ASEam2T-iQepqvZbZufOR5Hjeyf8",
+                "url": "https://www.linkedin.com/company/beeline-russia/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "\u041c\u043e\u0441\u043a\u0432\u0430",
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2015
+                        }
+                    },
+                    "company": "beeline Russia",
+                    "description": "Developing reports in PL/SQL. Working with Oracle and Hadoop",
+                    "title": "Intern Oracle Developer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 841113,
+                "name": "National Research University \u2014 Higher School of Economics",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQEMnvwpIPSHTw/company-logo_400_400/0/1549548976472?e=1703721600&v=beta&t=Rye49axuBEXuk8sX8hClF470i2hNf0Jx8hC_HA-sQHo",
+                "url": "https://www.linkedin.com/company/national-research-university---higher-school-of-economics/",
+                "employees": {
+                    "start": 5001,
+                    "end": 10000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Moscow",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2014
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2015
+                        }
+                    },
+                    "company": "National Research University \u2014 Higher School of Economics",
+                    "description": "Helped the professor to teach the course \"Programming in Practice\"\u200b in C++ using Linux OS by answering the students' questions and reviewing their code",
+                    "title": "Teaching Assistant",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [
+        {
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "role": "ITQM 2014 Conference Volunteer",
+            "company": {
+                "id": null,
+                "name": "National Research University \u2014 Higher School of Economics",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQEMnvwpIPSHTw/company-logo_400_400/0/1549548976472?e=1703721600&v=beta&t=Rye49axuBEXuk8sX8hClF470i2hNf0Jx8hC_HA-sQHo",
+                "url": "https://www.linkedin.com/company/national-research-university---higher-school-of-economics/"
+            },
+            "cause": "SCIENCE_AND_TECHNOLOGY",
+            "description": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "role": "Teaching Assistant in the \"Slon\" winter school",
+            "company": {
+                "id": null,
+                "name": "Keldysh Institute of Applied Mathematics RAS",
+                "logo": null,
+                "url": "https://www.linkedin.com/company/keldysh-institute-of-applied-mathematics-ras/"
+            },
+            "cause": "EDUCATION",
+            "description": "Teaching assistant on courses \"Introduction to Genetic Algorithms\" and \"Basics of Python Programming\""
+        },
+        {
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "role": "Volunteering Coach",
+            "company": {
+                "id": null,
+                "name": "National Research University \u2014 Higher School of Economics",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQEMnvwpIPSHTw/company-logo_400_400/0/1549548976472?e=1703721600&v=beta&t=Rye49axuBEXuk8sX8hClF470i2hNf0Jx8hC_HA-sQHo",
+                "url": "https://www.linkedin.com/company/national-research-university---higher-school-of-economics/"
+            },
+            "cause": "EDUCATION",
+            "description": "Held a training for the first-year students of the Faculty of Computer Science"
+        }
+    ],
+    "skills": [
+        "Linked Data",
+        "Digital Humanities",
+        "Artificial Intelligence (AI)",
+        "Knowledge Graphs",
+        "Information Retrieval",
+        "Research",
+        "Entity linking",
+        "Natural Language Processing (NLP)",
+        "Python (Programming Language)",
+        "Data Analysis",
+        "Big Data",
+        "Python",
+        "Natural Language Processing",
+        "Machine Learning",
+        "Algorithms",
+        "Data Mining",
+        "SQL",
+        "C++",
+        "C  ",
+        "Linux"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

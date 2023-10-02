@@ -1,0 +1,904 @@
+{
+    "profile_id": "ycanyilmaz",
+    "first_name": "Ya\u015farcan",
+    "last_name": "Y\u0131lmaz",
+    "sub_title": "Data Guy",
+    "profile_picture": "https://media.licdn.com/dms/image/C5603AQErlNLMb4LkYA/profile-displayphoto-shrink_800_800/0/1517556703059?e=1701302400&v=beta&t=9uU9cEjJZ4C2saz8cFbeqbhVA0NsN0mvd0GK4nEMGDM",
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAAA1-5GkBt8qbimns4h61Jdep-GSLYeFoPR0",
+    "object_urn": 226419817,
+    "birth_date": null,
+    "summary": "Experienced Software Engineer, Google Cloud Certified Professional Data Engineer, with a demonstrated history of working in Big Data Analytics and Machine Learning. Skilled in Big & Fast Data Architecture(Lambda, Kappa, Data/Delta Lake), Apache Spark, Spark Streaming, Apache Flink, Scala and Cloud(AWS, GCP, Azure). Strong engineering professional with a  Bachelor of Science in Computer Engineering with Minor Degree in Business Administration.",
+    "location": {
+        "country": "Netherlands",
+        "short": "Amsterdam, North Holland",
+        "city": "Amsterdam",
+        "state": "North Holland",
+        "default": "Amsterdam, North Holland, Netherlands"
+    },
+    "premium": true,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "English",
+                "proficiency": "FULL_PROFESSIONAL"
+            },
+            {
+                "name": "Turkish",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ]
+    },
+    "industry": "Information Technology & Services",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "school": {
+                "name": "Bo\u011fazi\u00e7i University",
+                "logo": "https://media.licdn.com/dms/image/D4D0BAQHAw99olPyMLQ/company-logo_400_400/0/1680469209743?e=1703721600&v=beta&t=_rEWHuMUftrmHuoWJQCm86tWhr08H8Yk3GEMLKJM5mM",
+                "url": "https://www.linkedin.com/school/bogazici-university/"
+            },
+            "degree_name": "Master of Science",
+            "field_of_study": "Computational Science & Engineering",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2010
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "school": {
+                "name": "Istanbul Bilgi University",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQHNV-JlOis5gg/company-logo_400_400/0/1679305652688?e=1703721600&v=beta&t=8I6LxYA402PpGHr0_Sb_dNXz-day98wCQKroVEjIH6Y",
+                "url": "https://www.linkedin.com/school/istanbul-bilgi-university/"
+            },
+            "degree_name": "Bachelor of Science",
+            "field_of_study": "Computer Engineering",
+            "grade": "3.49 / 4.00"
+        }
+    ],
+    "patents": [],
+    "awards": [
+        {
+            "title": "2nd Best GPA in the Department of Computer Engineering",
+            "description": null,
+            "issuer": "\u0130stanbul Bilgi University",
+            "date": {
+                "month": 6,
+                "day": null,
+                "year": 2015
+            }
+        },
+        {
+            "title": "Student Selection and Placement Center Full Scholarship",
+            "description": null,
+            "issuer": "\u00d6SYM",
+            "date": {
+                "month": 8,
+                "day": null,
+                "year": 2010
+            }
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Google Cloud Certified Professional Data Engineer ",
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "authority": "Google",
+            "url": "https://www.credential.net/53wve46f?key=6fd6e9f86ed76c6939385e3610e7a36df63eb106a23868761708523eda0d0a45",
+            "license_number": "WUJ8uM",
+            "display_source": "credential.net",
+            "company": {
+                "id": null,
+                "name": "Google",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQHiNSL4Or29cg/company-logo_400_400/0/1519856215226?e=1703721600&v=beta&t=45pPRW58DELKQ71b8pS1RIvn6yxBngEZqmTF1VwyxzQ",
+                "url": null
+            }
+        }
+    ],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "Micro Service Migration",
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "description": "Techonolgy: Scala, Java, Akka Http, Spring Boot, ElasticSearch, Redis, DynamoDB, Docker, Jenkins, Elastic Container Service.\nA Migration from Monolith (Spring MVC) Application to Micro Services (Multi Tenant) (Akka Http + Spring Boot) and Angular for front-end\n\n",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Ya\u015farcan",
+                    "last_name": "Y\u0131lmaz",
+                    "name": null,
+                    "headline": "Data Guy"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "\u00c7a\u011fr\u0131",
+                    "last_name": "Karaca",
+                    "name": null,
+                    "headline": "Developer"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Yunus",
+                    "last_name": "Alkan",
+                    "name": null,
+                    "headline": "Co-Founder at Yamy Studio"
+                }
+            ]
+        },
+        {
+            "title": "Big Data Collection Pipeline",
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "description": "Click Stream Data Collection Pipeline (multi tenant) is implemented on AWS by using Scala, Akka Http, Amazon Kinesis, Firehose and S3.\n\nIt is an example of Lambda Architecture. ",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Ya\u015farcan",
+                    "last_name": "Y\u0131lmaz",
+                    "name": null,
+                    "headline": "Data Guy"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Alper",
+                    "last_name": "\u015eim\u015fek",
+                    "name": null,
+                    "headline": "Product Manager"
+                }
+            ]
+        },
+        {
+            "title": "Auto Tagging Service for News",
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "description": "Techology: Spark MLlib, Spark Streaming, Akka Http, Scala, Docker, Mesos\n\nA LDA model is implemented by using Scala, Spark MLlib to be able to give auto labels for each entry.\n\nSystem works as follows:\nThere is a pre-trained model in S3 which is trained by Spark which runs on Mesos Cluster and Spark Streaming Application load this model from S3 and new created content is consumed from Kinesis and tagged.\n\nArhitecture:\n\nClient -> Akka Http -> Kinesis -> Spark Streaming -> Redis -> Akka Http -> Client",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Ya\u015farcan",
+                    "last_name": "Y\u0131lmaz",
+                    "name": null,
+                    "headline": "Data Guy"
+                }
+            ]
+        },
+        {
+            "title": "Hotel Price History ",
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "description": "This project aims to see the change in price with respect to Check-in date.\n\nTechnology: Scala, Spark,  Akka Http, Cassandra.\n\nArchitecture:\nGoogleCloud Storage -> Spark -> Cassandra -> Akka Http -> Client",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Ya\u015farcan",
+                    "last_name": "Y\u0131lmaz",
+                    "name": null,
+                    "headline": "Data Guy"
+                }
+            ]
+        },
+        {
+            "title": "Coral Funnel",
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "description": "Coral is a search engine associated with providers, and the data it produces more than 100 GB per hour. A funnel is created by using this search data to be able to see in which state customer decide to not buy.\n\nTechnology: Spark, Google Cloud DataProc, Google Cloud Storage.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Ya\u015farcan",
+                    "last_name": "Y\u0131lmaz",
+                    "name": null,
+                    "headline": "Data Guy"
+                }
+            ]
+        },
+        {
+            "title": "Content Based Recommendation Engine for Publishers",
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "description": "On this project, a content based recommendation engine is implemented in Spark and its MLlib library by using Scala language. The corresponding information about news are reached via click views. Based on the corresponding news, most similar n news are recommended.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Ya\u015farcan",
+                    "last_name": "Y\u0131lmaz",
+                    "name": null,
+                    "headline": "Data Guy"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Yusuf Can",
+                    "last_name": "Gurkan",
+                    "name": null,
+                    "headline": "Founder \u2022 Engineer \u2022 Ex-Amazon"
+                }
+            ]
+        },
+        {
+            "title": "Boyner Daily Revenue Forecasting",
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "description": "After each selling hour period ends, also before the selling period starts, an end of the day revenue forecast is created for each store by using some statistical forecasting methods, in which R and some CRAN packages like lubridate, parallel, plyr, forecast and RJDBC are used.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Ya\u015farcan",
+                    "last_name": "Y\u0131lmaz",
+                    "name": null,
+                    "headline": "Data Guy"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Tufan",
+                    "last_name": "Baydemir",
+                    "name": null,
+                    "headline": "Coca-Cola \u0130\u00e7ecek \u015firketinde Head of AI"
+                }
+            ]
+        },
+        {
+            "title": "D-Smart Churn Analysis",
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "description": "Necessary tables are created from the main tables. Churn prediction models are created for each customer segment.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Ya\u015farcan",
+                    "last_name": "Y\u0131lmaz",
+                    "name": null,
+                    "headline": "Data Guy"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Duygu",
+                    "last_name": "Tiryaki Y\u0131ld\u0131z",
+                    "name": null,
+                    "headline": "Enterprise Applications Supervisor at SOCAR T\u00fcrkiye"
+                }
+            ]
+        }
+    ],
+    "publications": [],
+    "courses": [
+        {
+            "name": "Advanced Data Structures and Algorithms",
+            "number": "CMPE 232"
+        },
+        {
+            "name": "Communication and Information",
+            "number": "BUS 361"
+        },
+        {
+            "name": "Computer Architecture",
+            "number": "CMPE 321"
+        },
+        {
+            "name": "Data Mining",
+            "number": "ISE 572"
+        },
+        {
+            "name": "Data Structures and Algorithms",
+            "number": "CMPE 211"
+        },
+        {
+            "name": "Database Systems",
+            "number": "CMPE 351"
+        },
+        {
+            "name": "Graph Theory",
+            "number": "ISE 581"
+        },
+        {
+            "name": "Object Oriented and Concurrent Programming",
+            "number": "CMPE 261"
+        },
+        {
+            "name": "Software Engineering Concepts",
+            "number": "CMPE 331"
+        },
+        {
+            "name": "Theory of Computing",
+            "number": "CMPE 222"
+        }
+    ],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 13981593,
+                "name": "Adevinta",
+                "logo": "https://media.licdn.com/dms/image/D560BAQEuLOYylRnq_g/company-logo_400_400/0/1693552189824?e=1703721600&v=beta&t=XXsZz7KEHWZXt3BXAJDSFWsCq-ia0feqDsFRMR4PX2k",
+                "url": "https://www.linkedin.com/company/adevinta/",
+                "employees": {
+                    "start": 5001,
+                    "end": 10000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amsterdam, North Holland, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Adevinta",
+                    "description": null,
+                    "title": "Staff Data Engineer",
+                    "employment_type": "Full-time"
+                },
+                {
+                    "location": "Berlin, Germany",
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2020
+                        },
+                        "end": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "Adevinta",
+                    "description": null,
+                    "title": "Senior Data Engineer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1127847,
+                "name": "Trendyol Group",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQH0-ur85wUijA/company-logo_400_400/0/1678104100461?e=1703721600&v=beta&t=wgH_loQ4waFih-SnApTlg2Br6unUxffC7_kJcgvpmCo",
+                "url": "https://www.linkedin.com/company/trendyolgroup/",
+                "employees": {
+                    "start": 5001,
+                    "end": 10000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Istanbul, Turkey",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2020
+                        }
+                    },
+                    "company": "Trendyol Group",
+                    "description": null,
+                    "title": "Senior Data Engineer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 3020369,
+                "name": "VNGRS",
+                "logo": "https://media.licdn.com/dms/image/D560BAQFEadrOFRaDsQ/company-logo_400_400/0/1681200168217?e=1703721600&v=beta&t=VUnKwNxfJBM7X5JcYS6JpJYIVV6sZGixFx-Ov_rwyY4",
+                "url": "https://www.linkedin.com/company/vngrs/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Istanbul, Turkey",
+                    "date": {
+                        "start": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "VNGRS",
+                    "description": "Building, scaling, deploying Big & Fast Data Applications by using following technologies:\nScala, Java, Python\nApache Spark, Spark Streaming, Spark MLlib, Apache Flink, Apache Beam, Akka Stream\nAWS: EMR, EC2, ECS, S3, RedShift etc.\nGoogle Cloud: DataFlow, DataProc, BigQuery, Spanner, Storage\nOrchestration:  Apache Airflow\nAPI: Akka Http, Spring Boot",
+                    "title": "Tech Lead, Data Engineering",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 15221503,
+                "name": "Demir\u00f6ren Medya",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQGvBsOXPeIYdw/company-logo_400_400/0/1677531866899?e=1703721600&v=beta&t=XnPMDhfh_66ENB1jo7samDo_DkNneSsgjF-Np-j09pw",
+                "url": "https://www.linkedin.com/company/demir%C3%B6ren-medya/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Istanbul, Turkey",
+                    "date": {
+                        "start": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2017
+                        },
+                        "end": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2018
+                        }
+                    },
+                    "company": "Demir\u00f6ren Medya",
+                    "description": "New Business Development Department\nBack-end Stack: Scala, Java; Akka Http, Spring Boot; Dynamo DB, ElasticSearch, Redis\nDevOps Tools: Docker; Mesos, Elastic Container Service, Jenkins\nBig & Fast Data Stack: Scala, Akka, Akka Stream, Spark, Spark Streaming, Kinesis, S3",
+                    "title": "Tech Lead",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 2560882,
+                "name": "Insider (Formerly SOCIAPlus)",
+                "logo": "https://media.licdn.com/dms/image/D4D0BAQEtrs1P0wIOWg/company-logo_400_400/0/1688393568572?e=1703721600&v=beta&t=lFDkQNiVQGTj1u1_RaZDNNkOqCPzGfikty9TIxmt7OI",
+                "url": "https://www.linkedin.com/company/useinsider/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Istanbul, Turkey",
+                    "date": {
+                        "start": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2017
+                        }
+                    },
+                    "company": "Insider.",
+                    "description": "Hadoop, Apache Spark, MLlib, Hive, Scala, AWS, AWS Kinesis, Spark Streaming, AWS EMR.",
+                    "title": "Big Data & Machine Learning Engineer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 105873,
+                "name": "OBASE",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQH6k1Hp_5nAQw/company-logo_400_400/0/1678259032876?e=1703721600&v=beta&t=yhiNq4frD8vQWJTj68GWxTeg5FX75HrWQ6bFT6Wxojg",
+                "url": "https://www.linkedin.com/company/obase/",
+                "employees": {
+                    "start": 201,
+                    "end": 500
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Istanbul, Turkey",
+                    "date": {
+                        "start": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2015
+                        }
+                    },
+                    "company": "obase",
+                    "description": null,
+                    "title": "R&D Engineer",
+                    "employment_type": "Full-time"
+                },
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2014
+                        },
+                        "end": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2015
+                        }
+                    },
+                    "company": "obase",
+                    "description": null,
+                    "title": "Machine Learning Engineer",
+                    "employment_type": "Part-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 164486,
+                "name": "Istanbul Bilgi University",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQHNV-JlOis5gg/company-logo_400_400/0/1679305652688?e=1703721600&v=beta&t=8I6LxYA402PpGHr0_Sb_dNXz-day98wCQKroVEjIH6Y",
+                "url": "https://www.linkedin.com/school/istanbul-bilgi-university/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2010
+                },
+                "end": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Computer Engineering Department",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2010
+                        },
+                        "end": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2015
+                        }
+                    },
+                    "company": "Istanbul Bilgi University",
+                    "description": null,
+                    "title": "Student Assistantship",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 2324231,
+                "name": "\u00d6zg\u00fcr Yaz\u0131l\u0131m A.\u015e.",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQGyPdN9Av1kaw/company-logo_400_400/0/1519948932173?e=1703721600&v=beta&t=UeO0HHow3lzx0Yos380gedEyZnJQeE9qeO23QoZyvM4",
+                "url": "https://www.linkedin.com/company/-zg-r-yaz-l-m-a-/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2014
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2014
+                        }
+                    },
+                    "company": "\u00d6zg\u00fcr Yaz\u0131l\u0131m A.\u015e.",
+                    "description": null,
+                    "title": "Intern",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [
+        {
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "role": "Lecturer",
+            "company": {
+                "id": null,
+                "name": "Kodluyoruz",
+                "logo": "https://media.licdn.com/dms/image/D4D0BAQEMVLLeXjgT0Q/company-logo_400_400/0/1691742129261?e=1703721600&v=beta&t=0O1hYFU69YGq512O0NlCcB0IKiJlEm_Dk5U-4RChdz8",
+                "url": "https://www.linkedin.com/company/kodluyoruz/"
+            },
+            "cause": "EDUCATION",
+            "description": "Lecturing on Big Data 101 course which follows the given syllabus: https://github.com/yasarcanyilmaz/big-data-course"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "role": "Advisory Committee Member",
+            "company": {
+                "id": null,
+                "name": "Istanbul Bilgi University",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQHNV-JlOis5gg/company-logo_400_400/0/1679305652688?e=1703721600&v=beta&t=8I6LxYA402PpGHr0_Sb_dNXz-day98wCQKroVEjIH6Y",
+                "url": "https://www.linkedin.com/school/istanbul-bilgi-university/"
+            },
+            "cause": "EDUCATION",
+            "description": "Istanbul Bilgi University, Computer Engineering Department"
+        }
+    ],
+    "skills": [
+        "Terraform",
+        "Apache Airflow",
+        "Google Bigtable",
+        "ClickHouse",
+        "Google CloudRun",
+        "Google Cloud Platform (GCP)",
+        "Google Cloud Dataflow",
+        "Google BigQuery",
+        "PostgreSQL",
+        "Kubernetes",
+        "Big Data",
+        "Software Engineering",
+        "Machine Learning",
+        "Data Analysis",
+        "Statistics",
+        "Information Technology",
+        "Algorithms",
+        "Scala",
+        "Java",
+        "Linux"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

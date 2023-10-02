@@ -1,0 +1,707 @@
+{
+    "profile_id": "ifenna",
+    "first_name": "Ifenna",
+    "last_name": "Okoye",
+    "sub_title": "Software Engineer ",
+    "profile_picture": "https://media.licdn.com/dms/image/C4D03AQHQZDlxQbaulA/profile-displayphoto-shrink_800_800/0/1563516769005?e=1701302400&v=beta&t=EB-te7gyB_Wz8nDml8vNziBKrVo9ddj1kmhXcYn6FRU",
+    "background_image": "https://media.licdn.com/dms/image/C4D16AQEzu3rn659tcQ/profile-displaybackgroundimage-shrink_350_1400/0/1563517605845?e=1701302400&v=beta&t=k63s5Kphy4V7W_2uMsP2GaLxIkJ6bG8FuTup7E6GvIo",
+    "profile_type": "personal",
+    "entity_urn": "ACoAACUYlvQBud37GvBEl2ef-ZU3Xx89qqCF9iI",
+    "object_urn": 622368500,
+    "birth_date": {
+        "month": 12,
+        "day": 24,
+        "year": null
+    },
+    "summary": null,
+    "location": {
+        "country": null,
+        "short": "Netherlands",
+        "city": null,
+        "state": null,
+        "default": "Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [
+        {
+            "url": "https://ifenna.hashnode.dev/a-beginners-guide-to-apache-kafka",
+            "title": "A Beginner's guide to Apache Kafka",
+            "description": "Apache Kafka is a distributed streaming platform that can be used to build real-time data pipelines and streaming applications. At its core, Kafka is designed to handle large amounts of data in a scalable and fault-tolerant way. But, what does all of this mean, and how can we understand it using an everyday analogy?",
+            "image": "https://media.licdn.com/dms/image/sync/D4E27AQFc6eGqi54J9w/articleshare-shrink_1280_800/0/1695470282233?e=1696442400&v=beta&t=UGXpBvCKpEhVb_CuMfvYrJcovaEck9ZBnaVBuMemVAk"
+        },
+        {
+            "url": "https://ifenna.hashnode.dev/create-a-cvresume-builder-using-the-django-rest-framework-part-4",
+            "title": "Resume (CV) builder API tool",
+            "description": "A Django Rest Famework (DRF) API beginner series. This article is targeted to beginners and junior Python developers. This is a step-by-step tutorial on the Django Rest Framework API for a CV/resume builder tool like Resume.io or Zety. At the end of this tutorial, we are able to create and download resumes as PDFs.",
+            "image": "https://media.licdn.com/dms/image/sync/C4D27AQHo-I88OcLIkQ/articleshare-shrink_1280_800/0/1695218974670?e=1696442400&v=beta&t=NZBhnoYPfssZmcqGl3xDHN_xeUF5OEt43GcPoB_nK-Y"
+        }
+    ],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": []
+    },
+    "industry": "Computer Software",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "school": {
+                "name": "Federal University of Technology Owerri Nigeria",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQGjPdN57aU2TA/company-logo_400_400/0/1657697315317?e=1703721600&v=beta&t=yJ95a0PMkb5BV-6USmECbZbC7UCeY-sx5hHOS5rozJw",
+                "url": "https://www.linkedin.com/school/federal-university-of-technology-owerri-ngn/"
+            },
+            "degree_name": "Bachelor of Technology - BTech",
+            "field_of_study": "Computer Science",
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [
+        {
+            "name": "AWS Cloud Technical Essentials",
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Amazon Web Services (AWS)",
+            "url": "http://coursera.org/verify/GNSDLRS3LP74",
+            "license_number": "GNSDLRS3LP74",
+            "display_source": "coursera.org",
+            "company": {
+                "id": null,
+                "name": "Amazon Web Services (AWS)",
+                "logo": "https://media.licdn.com/dms/image/C560BAQER_QnUTXrPJw/company-logo_400_400/0/1670264050886?e=1703721600&v=beta&t=3IYmCjBx7-RbiHOyhmKp9bX_etnAR2mcOn2MncQL5u0",
+                "url": null
+            }
+        },
+        {
+            "name": "Natural Language Processing with Classification and Vector space",
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "deeplearning.ai",
+            "url": "https://coursera.org/verify/KWBBQBAGYFFL",
+            "license_number": "KWBBQBAGYFFL",
+            "display_source": "coursera.org",
+            "company": {
+                "id": null,
+                "name": "DeepLearning.AI",
+                "logo": "https://media.licdn.com/dms/image/C560BAQEHKffoI8RwIQ/company-logo_400_400/0/1612806383093?e=1703721600&v=beta&t=v53sMdl9nE2tlwlrJwCJtM4LdFFxiIsRN8dshfYWiGY",
+                "url": null
+            }
+        },
+        {
+            "name": "Esssential Google Cloud Infrastructure: Foundation",
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Pluralsight",
+            "url": "https://app.pluralsight.com/learner/user/courses/v2/a47b33f3-95eb-445f-9629-bddc7a780a65/certificate",
+            "license_number": "4127",
+            "display_source": "pluralsight.com",
+            "company": {
+                "id": null,
+                "name": "Pluralsight",
+                "logo": "https://media.licdn.com/dms/image/D560BAQFh4D8Qj44-0Q/company-logo_400_400/0/1684255188691?e=1703721600&v=beta&t=nlh9xKE1ZJQNCR4bjtUntQtyQ1dZyZ0H5q0w0onJO5c",
+                "url": null
+            }
+        },
+        {
+            "name": "Google cloud platform fundamentals: core infrastructure",
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Pluralsight",
+            "url": null,
+            "license_number": "4127",
+            "display_source": null,
+            "company": {
+                "id": null,
+                "name": "Pluralsight",
+                "logo": "https://media.licdn.com/dms/image/D560BAQFh4D8Qj44-0Q/company-logo_400_400/0/1684255188691?e=1703721600&v=beta&t=nlh9xKE1ZJQNCR4bjtUntQtyQ1dZyZ0H5q0w0onJO5c",
+                "url": null
+            }
+        }
+    ],
+    "organizations": [],
+    "projects": [],
+    "publications": [
+        {
+            "name": "A Beginner\u2019s Guide to Kafka",
+            "publisher": null,
+            "url": "https://ifenna.hashnode.dev/a-beginners-guide-to-apache-kafka",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2023
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Ifenna",
+                    "last_name": "Okoye",
+                    "name": null,
+                    "headline": "Software Engineer "
+                }
+            ]
+        },
+        {
+            "name": "Create a CV/Resume Builder using the Django Rest Framework (part 4)",
+            "publisher": "Hashnode",
+            "url": "https://ifenna.hashnode.dev/create-a-cvresume-builder-using-the-django-rest-framework-part-4",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2022
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Ifenna",
+                    "last_name": "Okoye",
+                    "name": null,
+                    "headline": "Software Engineer "
+                }
+            ]
+        },
+        {
+            "name": "Django Broken Authentication Guide: Examples and Prevention",
+            "publisher": "StackHawk",
+            "url": "https://www.stackhawk.com/blog/django-broken-authentication-guide-examples-and-prevention/",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2022
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Ifenna",
+                    "last_name": "Okoye",
+                    "name": null,
+                    "headline": "Software Engineer "
+                }
+            ]
+        },
+        {
+            "name": "Django Broken Object- Level Authorization Guide: Examples and Prevention",
+            "publisher": "StackHawk",
+            "url": "https://www.stackhawk.com/blog/django-broken-object-level-authorization-guide-examples-and-prevention/",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2022
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Ifenna",
+                    "last_name": "Okoye",
+                    "name": null,
+                    "headline": "Software Engineer "
+                }
+            ]
+        },
+        {
+            "name": "DevOps Methodology: Understanding the Approach and Philosophy",
+            "publisher": "Cloudbees",
+            "url": "https://www.cloudbees.com/blog/devops-methodology-understanding-the-approach-and-philosophy",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2022
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Ifenna",
+                    "last_name": "Okoye",
+                    "name": null,
+                    "headline": "Software Engineer "
+                }
+            ]
+        },
+        {
+            "name": "Django Broken Access Control Guide: Examples and Prevention",
+            "publisher": "StackHawk",
+            "url": "https://www.stackhawk.com/blog/django-broken-access-control-guide-examples-and-prevention/",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2021
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Ifenna",
+                    "last_name": "Okoye",
+                    "name": null,
+                    "headline": "Software Engineer "
+                }
+            ]
+        },
+        {
+            "name": "How to Upload Files to AWS S3 using the Django Rest Framework",
+            "publisher": "Section.io",
+            "url": "https://www.section.io/engineering-education/how-to-upload-files-to-aws-s3-using-django-rest-framework/",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2021
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Ifenna",
+                    "last_name": "Okoye",
+                    "name": null,
+                    "headline": "Software Engineer "
+                }
+            ]
+        },
+        {
+            "name": "Internalization in Django",
+            "publisher": "Section.io",
+            "url": "https://www.section.io/engineering-education/internationalization-in-django/",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2021
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Ifenna",
+                    "last_name": "Okoye",
+                    "name": null,
+                    "headline": "Software Engineer "
+                }
+            ]
+        }
+    ],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 1442,
+                "name": "KPN",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQFHdzywk2aJGA/company-logo_400_400/0/1691135902931?e=1703721600&v=beta&t=EwovPoL4-FsdDqAf_BsVW4iHyxyT1HtULkozISOj_rI",
+                "url": "https://www.linkedin.com/company/kpn/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "KPN",
+                    "description": null,
+                    "title": "Software Engineer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 2819182,
+                "name": "Brooks and Blake",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQFn7b9obwEXHA/company-logo_400_400/0/1519878342579?e=1703721600&v=beta&t=AUqf44yr4tf5Zpgkr-j6pl27MuL45qhXfa5M0Zlumsk",
+                "url": "https://www.linkedin.com/company/brooks-and-blake/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Nigeria",
+                    "date": {
+                        "start": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2020
+                        },
+                        "end": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "Brooks and Blake",
+                    "description": null,
+                    "title": "Back End Developer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1203578,
+                "name": "Venture Garden Group",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQERHbLlGR1x3w/company-logo_400_400/0/1542216920216?e=1703721600&v=beta&t=BXcXUU2TpcOeZHzPZ5xOJ58vubELM56P-7r14rmzhow",
+                "url": "https://www.linkedin.com/company/venture-garden-group/",
+                "employees": {
+                    "start": 201,
+                    "end": 500
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Lagos, Nigeria",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2020
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2020
+                        }
+                    },
+                    "company": "Venture Garden Group",
+                    "description": null,
+                    "title": "Back End Developer",
+                    "employment_type": "Internship"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 49170224,
+                "name": "FBIS Technologies LTD",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQEUPHo5gApiTQ/company-logo_400_400/0/1622836672451?e=1703721600&v=beta&t=l_S8M-V-R_cJzNw_1qaYLJv5j0vHrofIUnlUaXcLyLE",
+                "url": "https://www.linkedin.com/company/fbis-technologies-ltd/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Lagos, Nigeria",
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "FBIS Technologies LTD",
+                    "description": null,
+                    "title": "Back End Developer",
+                    "employment_type": "Internship"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 11142304,
+                "name": "Devcenter",
+                "logo": "https://media.licdn.com/dms/image/C560BAQFhSo2IJe4Nfg/company-logo_400_400/0/1644683940154?e=1703721600&v=beta&t=v6CDs0yLN4vSX_y0MZu99SvAArtKyBf2W-I8x8T6Uy4",
+                "url": "https://www.linkedin.com/company/devcenterco/",
+                "employees": {
+                    "start": 2,
+                    "end": 10
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Lagos, Nigeria",
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "Devcenter",
+                    "description": null,
+                    "title": "Community Manager",
+                    "employment_type": "Full-time"
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [
+        {
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "role": "Backend Developer Community Co-lead",
+            "company": {
+                "id": null,
+                "name": "She Code Africa",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQGJJeEg0QLyOQ/company-logo_400_400/0/1578753748948?e=1703721600&v=beta&t=cZyaA12j9eBLTjIzCcABewO_lSxwSigDxlkL-GmGOc0",
+                "url": "https://www.linkedin.com/company/she-code-africa/"
+            },
+            "cause": "SCIENCE_AND_TECHNOLOGY",
+            "description": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "role": "Co-Lead: FUTO Chapter",
+            "company": {
+                "id": null,
+                "name": "Developer Students",
+                "logo": "https://media.licdn.com/dms/image/D560BAQGDFe9CnZYHvQ/company-logo_400_400/0/1695075949954?e=1703721600&v=beta&t=qgYvPOWurlh2mpzuAvafKEQYbSM8T22MdI5-69NQ3bg",
+                "url": "https://www.linkedin.com/company/developerstudents/"
+            },
+            "cause": "SCIENCE_AND_TECHNOLOGY",
+            "description": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "role": "Program Host",
+            "company": {
+                "id": null,
+                "name": "She Code Africa",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQGJJeEg0QLyOQ/company-logo_400_400/0/1578753748948?e=1703721600&v=beta&t=cZyaA12j9eBLTjIzCcABewO_lSxwSigDxlkL-GmGOc0",
+                "url": "https://www.linkedin.com/company/she-code-africa/"
+            },
+            "cause": "SCIENCE_AND_TECHNOLOGY",
+            "description": "Hosted the 2020 end of year virtual event."
+        },
+        {
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "role": "Member",
+            "company": {
+                "id": null,
+                "name": "Ingressive For Good",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQHYJggWDoLXdw/company-logo_400_400/0/1652218290434?e=1703721600&v=beta&t=-8_2S4iJkuwM3RA32jDxYMkC8pqXn20e8jUUBWgkY3w",
+                "url": "https://www.linkedin.com/company/ingressiveforgood/"
+            },
+            "cause": "SCIENCE_AND_TECHNOLOGY",
+            "description": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "role": "Director Of Information Communication Technology",
+            "company": {
+                "id": null,
+                "name": "NACOS Southeast",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQHiKthjeT1wSA/company-logo_400_400/0/1654342396277?e=1703721600&v=beta&t=8Xyf98NyXMZARYbBZxIpQg2aSpFfWKeJ9Qh-Th51Jeo",
+                "url": "https://www.linkedin.com/company/nacossoutheast/"
+            },
+            "cause": "SCIENCE_AND_TECHNOLOGY",
+            "description": "Acted as the ICT director II, NACOSS FUTO Chapter"
+        }
+    ],
+    "skills": [
+        "Python (Programming Language)",
+        "Django REST Framework",
+        "Machine Learning",
+        "FastAPI",
+        "PostgreSQL",
+        "REST APIs",
+        "Django",
+        "Node.js",
+        "JavaScript",
+        "Git",
+        "Github",
+        "MySQL",
+        "Swagger API",
+        "Google Cloud Platform (GCP)",
+        "MongoDB",
+        "NoSQL",
+        "Linux",
+        "Natural Language Processing (NLP)"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

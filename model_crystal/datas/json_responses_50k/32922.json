@@ -1,0 +1,509 @@
+{
+    "profile_id": "cristina-riti",
+    "first_name": "Cristina",
+    "last_name": "Riti",
+    "sub_title": "MSc Space Exploration student at TU Delft",
+    "profile_picture": "https://media.licdn.com/dms/image/C5603AQFqyr0Eyc8q3w/profile-displayphoto-shrink_800_800/0/1605180333635?e=1701302400&v=beta&t=Jj_APbA1paVCHvTbkxBOmE2wj0UDVuzTImxAAEZssgI",
+    "background_image": "https://media.licdn.com/dms/image/C5616AQFzmrojkYM3XQ/profile-displaybackgroundimage-shrink_350_1400/0/1628844453763?e=1701302400&v=beta&t=4DU-j6hN1Pv9wdcxKsdwmhVEQnQ0grjEhK8cMGC9PBs",
+    "profile_type": "personal",
+    "entity_urn": "ACoAADMTMG8ByNZoCWZh-PuWpx4Wd9Q6BEsNtVA",
+    "object_urn": 856895599,
+    "birth_date": null,
+    "summary": "MSc Student of Space Exploration; passionate about Planetary Exploration and Interplanetary Missions; currently looking for an internship. \n",
+    "location": {
+        "country": "Netherlands",
+        "short": "Delft, South Holland",
+        "city": "Delft",
+        "state": "South Holland",
+        "default": "Delft, South Holland, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "IT",
+            "language": "it"
+        },
+        "supported_locales": [
+            {
+                "country": "IT",
+                "language": "it"
+            },
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "English",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "French",
+                "proficiency": "ELEMENTARY"
+            },
+            {
+                "name": "Italian",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ]
+    },
+    "industry": "Telecommunications",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "school": {
+                "name": "Delft University of Technology",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQFwaGpwaod9mQ/company-logo_400_400/0/1670699851986?e=1703721600&v=beta&t=Aw4oLxoKsIJcblYDjxw9200FClnyhZu8DxzcfJRDFOs",
+                "url": "https://www.linkedin.com/school/tudelft/"
+            },
+            "degree_name": "Master's degree in Aerospace Engineering",
+            "field_of_study": "Space Exploration",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "school": {
+                "name": "Politecnico di Milano",
+                "logo": "https://media.licdn.com/dms/image/C560BAQGRQliQAbXOSQ/company-logo_400_400/0/1519878058613?e=1703721600&v=beta&t=rf6WLX88EAomfsH2caZcPaLDVZtKOJQnO-xJ56Cx7bk",
+                "url": "https://www.linkedin.com/school/polimi/"
+            },
+            "degree_name": "Bachelor's degree ",
+            "field_of_study": "Aerospace Engineering",
+            "grade": "108/110"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "school": {
+                "name": "Liceo Scientifico Giordano Bruno (Melzo)",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "High School diploma",
+            "field_of_study": null,
+            "grade": "110 cum laude"
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [
+        {
+            "name": "CAE, level C2",
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Cambridge Assessment English",
+            "url": null,
+            "license_number": null,
+            "display_source": null,
+            "company": {
+                "id": null,
+                "name": "Cambridge University Press & Assessment English",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQF764moHT29Og/company-logo_400_400/0/1650876512808?e=1703721600&v=beta&t=80c7skobfhKLILQ3KmADgOlZ2L2CtWA8KylrAN66dm0",
+                "url": null
+            }
+        }
+    ],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "Design and optimization of an orbital transfer",
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "description": "Elaborated a strategy to transfer a spacecraft between two Earth-centered orbits. The transfer has been then optimized, first minimizing the propellant used and then the time of the transfer. The results have been obtained by implementing the theory in a Matlab code, and the best strategy has been selected using a trade-off logic.\n",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Cristina",
+                    "last_name": "Riti",
+                    "name": null,
+                    "headline": "MSc Space Exploration student at TU Delft"
+                }
+            ]
+        },
+        {
+            "title": "XB1 and inlet cone: compatibility analysis ",
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "description": "The project consisted in re-designing an aircraft engine starting from the data available to the public. I cooperated with two other students during the last months of my Bachelor. Our selected aircraft was the XB1 Baby Boom, and the engine a GEJ85. Our project went further, designing and testing the possibility of using an inlet cone instead of a ramp as supersonic intake. The performances of such inlet were then optimized for long-distance commercial flights, using Matlab for the analysis. ",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Cristina",
+                    "last_name": "Riti",
+                    "name": null,
+                    "headline": "MSc Space Exploration student at TU Delft"
+                }
+            ]
+        }
+    ],
+    "publications": [],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 955663,
+                "name": "ISISPACE Group",
+                "logo": "https://media.licdn.com/dms/image/C560BAQEMFNEewxoDng/company-logo_400_400/0/1609956423130?e=1703721600&v=beta&t=Q861xdqbx7JWzwWWcufOiFx6Sc7VYrd6vj1DlDcIBws",
+                "url": "https://www.linkedin.com/company/isis---innovative-solutions-in-space-bv/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2023
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Delft, South Holland, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2023
+                        }
+                    },
+                    "company": "ISISPACE Group",
+                    "description": null,
+                    "title": "Assistant Satellite Operator",
+                    "employment_type": "Part-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 19049224,
+                "name": "Lunar Zebro",
+                "logo": "https://media.licdn.com/dms/image/C560BAQGdcYANxqCSIQ/company-logo_400_400/0/1551387577801?e=1703721600&v=beta&t=9aHMtWne-uuVqRQzq0ZpfNJOr5tnof_Px1D8EsCRIJQ",
+                "url": "https://www.linkedin.com/company/lunarzebro/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Delft, South Holland, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "Lunar Zebro",
+                    "description": null,
+                    "title": "Head of Ground Segment",
+                    "employment_type": null
+                },
+                {
+                    "location": "Delft, South Holland, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2021
+                        }
+                    },
+                    "company": "Lunar Zebro",
+                    "description": null,
+                    "title": "Ground Segment Engineer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 10967722,
+                "name": "Green TU Delft | GreenTU",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQEzyQsAl8HcVw/company-logo_400_400/0/1673798090339?e=1703721600&v=beta&t=ooPz1Xwfsv9wQXFuK9PaYgUT4yZRdBpF3l0f_NUrmEM",
+                "url": "https://www.linkedin.com/company/tu-delft-green-office/",
+                "employees": {
+                    "start": 2,
+                    "end": 10
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Delft, South Holland, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "GreenTU | Green TU Delft",
+                    "description": null,
+                    "title": "Secretary of Green Team AE",
+                    "employment_type": "Contract"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 11403267,
+                "name": "Tu Delft Aerospace Engineering",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQEzyy4vHuwl8g/company-logo_400_400/0/1580209293144?e=1703721600&v=beta&t=kQloA9GyMCC-Aqw897-pH8w_pUFRiRq-SQ6WyhkShq8",
+                "url": "https://www.linkedin.com/company/tu-delft-aerospace-engineering/",
+                "employees": {
+                    "start": 5001,
+                    "end": 10000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Delft, South Holland, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "TU Delft | Aerospace Engineering",
+                    "description": "- Assisted professors in delivering lectures via hybrid education (online and in person) during the Covid19 emergency\n- Prepared new lecture rooms with the technical material necessary for streaming lectures (computers, cameras, cables)\n- Contributed in preparing new online courses in Aerospace and Sustainability, for the professional education (ProfEd).",
+                    "title": "Student Assistant",
+                    "employment_type": "Part-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 35237,
+                "name": "SRON Netherlands Institute for Space Research",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQEvHIZMHE4ZAg/company-logo_400_400/0/1519856303147?e=1703721600&v=beta&t=jI5ScZ3T_kzJiwiClRet1ku7Fj_WgV7pfamQC7BUclE",
+                "url": "https://www.linkedin.com/company/sron/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Utrecht, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2021
+                        }
+                    },
+                    "company": "SRON Netherlands Institute for Space Research",
+                    "description": "Studying carbon monoxide emissions of large wildfires using current inventories and satellite observations from the TROPOMI instrument on board of Sentinel-5P",
+                    "title": "Intern Earth Science Group",
+                    "employment_type": "Internship"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1612874,
+                "name": "Bricks 4 Kidz",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQHAjvCr8mBdAA/company-logo_400_400/0/1524771230118?e=1703721600&v=beta&t=8_4AgWRRl0WhcNGqYvtVI0V27kCfqxLV7sD7zDOtsdE",
+                "url": "https://www.linkedin.com/company/bricks-4-kidz/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Milan, Italy",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2020
+                        }
+                    },
+                    "company": "Bricks 4 Kidz",
+                    "description": "Worked on Saturday and Sunday mornings with classes of 5-10 kids, from 6 to 13 years old. Prepared\nshort and appealing Science lessons supported by the construction of small motorized models.\nAdvocated on the value of lessons that connect entertainment and information, and the importance of\ncreating in children a passion for STEM subjects from an early age.",
+                    "title": "Tutor",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Ingegneria",
+        "Python (Programming Language)",
+        "C++",
+        "MATLAB",
+        "LaTeX"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

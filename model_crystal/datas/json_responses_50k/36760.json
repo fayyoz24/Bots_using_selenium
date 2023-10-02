@@ -1,0 +1,721 @@
+{
+    "profile_id": "peter-van-lith-50ab6b4",
+    "first_name": "Peter",
+    "last_name": "van Lith",
+    "sub_title": "Onderzoeker Deep Learning bij Tech United RoboCup robot voetbalteam TU Eindhoven",
+    "profile_picture": "https://media.licdn.com/dms/image/C4E03AQF8Grotcr_O1Q/profile-displayphoto-shrink_800_800/0/1517720799871?e=1701302400&v=beta&t=YYU1jMzpJBFuX6J2e0Gf_qlCDX1ceXSDLngBKY0tfmQ",
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAAADiNxoBk6Kigg0QLaip6dqjVmKf_z20LzE",
+    "object_urn": 14825242,
+    "birth_date": null,
+    "summary": "Peter van Lith started working in ICT in 1964. He built his own computer in 1968 and became interested in Artificial Intelligence. From 1977 to 1979 he was responsible for the ICT of the large Hirab project in Saudi Arabia and here he first applied his interest in AI. In 1980 he started using AI technology and was the first one to build an Expert System in the Netherlands. In 1984 he founded Lithp Systems, specialising in AI and later in Robotics. \nHe developed the Lisp based ES development environment Acquaint and created over 15 Expert Systems. During the 90's he developed walking robots  starting with a six-legged walker, followed by the 4-legged Dappie robot dog and the 2-legged Stepper robot. These robots were the inspiration for the biped robots of the leg-lab of the TU Delft.\nHe became a guest lecturer at the TU Delft, University of Amsterdam and Free University of Amsterdam and helped teachers to set up robotics projects at school. In 2004 he founded RoboCupJunior in the Netherlands and has served on the Soccer TC for several years. He was the chair of the RCJ LOC for the World Championships in 2013. He developed a learning line for robotics in lower and middle grade schools that has been in use in over 90 schools.\nCurrently he is a member of the Tech United robot soccer team where he develops deep learning software for the Turtle robots of the TU/e. His research focuses on modeling the behavior of competing teams on a symbolic level, combining knowledge engineering with deep learning.\nA new Python based version of Acquaint is being used for RoboCup MSL game analysis, in which symbolic reasoning is used as a basis for learning to understand playing strategies of competing teams.\nRecently he started working on AI based integrated home energy management, combining information from solar panels, energy usage and thermostats to determine the most economic use of electrical floor heating, heat pump or conventional CH installations using the Home Assistant software environment.",
+    "location": {
+        "country": "Netherlands",
+        "short": "Amsterdam, North Holland",
+        "city": "Amsterdam",
+        "state": "North Holland",
+        "default": "Amsterdam, North Holland, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": []
+    },
+    "industry": "Higher Education",
+    "education": [],
+    "patents": [],
+    "awards": [],
+    "certifications": [],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "Mini Turtle",
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "description": "Small autonomous soccer-playing robot with three omni-wheels. Uses a small omni-directional camera to detect it's environment. Aims at learning to recognizing the ball and obstacles by exploring it's environment. Uses a Jetson Nano as it's main processor with two connected Arduino's. One for motor- and sensor control, the other for onboard touch screen. Uses a IMU to register movement.\n\nHardware is working. First version of software handles basic movement and control tasks.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Peter",
+                    "last_name": "van Lith",
+                    "name": null,
+                    "headline": "Onderzoeker Deep Learning bij Tech United RoboCup robot voetbalteam TU Eindhoven"
+                }
+            ]
+        },
+        {
+            "title": "Acquaint",
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 1984
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "description": "Expert System Development Environment.\nOriginally developed in muLisp in the 80's and used worldwide.\nCurrently being re-implemented in Python as part of a project for explainable AI, integrating Deep Learning with Knowledge Engineering technology.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Peter",
+                    "last_name": "van Lith",
+                    "name": null,
+                    "headline": "Onderzoeker Deep Learning bij Tech United RoboCup robot voetbalteam TU Eindhoven"
+                }
+            ]
+        },
+        {
+            "title": "Sniffer",
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 1998
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2000
+                }
+            },
+            "description": "Electronic nose project. Used several gas detection sensors. As a side-effect these sensors could also detect other substances than the gas, they were designed for. Using a neural network, it was able to learn to recognize these side effects.\nProject now in possession of Rijksmuseum Boerhaave.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Peter",
+                    "last_name": "van Lith",
+                    "name": null,
+                    "headline": "Onderzoeker Deep Learning bij Tech United RoboCup robot voetbalteam TU Eindhoven"
+                }
+            ]
+        },
+        {
+            "title": "Robots",
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 1990
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 1999
+                }
+            },
+            "description": "Development of a series of small autonomous robots:\n\nAnt - A six-legged robot based on two 8051 processors and 13 servo motors. A moving head with IR distance sensors, stereo microphones and an inductive charger. Was featured in Teleac course on AI. Inspired by Rodney Brooks's Ghengis robot.\n\nDappie - 4 legged autonomous robot dog that could be waked up by calling it. Recognition of sound source direction and simple phonemes. Walked on table top and detected edges. Used 4 interconnected Motorola HC11 processors.\n\nStepper - 2 legged robot with 6 servo's in each leg and pressure sensors in it's feet was able to maintain balance on a slowly moving platform. Could lift one foot and shift weight onto other leg to make a step. This robot became the pre-cursor to the robots from the TU Delft Leg Lab, which developed robots like Mike, Denise and Tulip.\n\nThese robots are now in possession of Rijksmuseum Boerhaave.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Peter",
+                    "last_name": "van Lith",
+                    "name": null,
+                    "headline": "Onderzoeker Deep Learning bij Tech United RoboCup robot voetbalteam TU Eindhoven"
+                }
+            ]
+        },
+        {
+            "title": "HC2000",
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 1968
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 1972
+                }
+            },
+            "description": "Development of 12 bit home computer based on Motorola RTL logic. Wire-wrapped mainboard consisting of DIL sockets and 4K core memory, salvaged from an IBM 1401 computer. Unit now in possession of Rijksmuseum Boerhaave.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Peter",
+                    "last_name": "van Lith",
+                    "name": null,
+                    "headline": "Onderzoeker Deep Learning bij Tech United RoboCup robot voetbalteam TU Eindhoven"
+                }
+            ]
+        }
+    ],
+    "publications": [],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 4838,
+                "name": "Technische Universiteit Eindhoven",
+                "logo": "https://media.licdn.com/dms/image/C560BAQG4PGSYiNG4CA/company-logo_400_400/0/1642150189320/eindhoven_university_of_technology_logo?e=1703721600&v=beta&t=UMtvsUY7gGdfvqSsyxhrvNturxPM2CEK0wwd7yozJEA",
+                "url": "https://www.linkedin.com/school/eindhoven-university-of-technology/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Tech United Robot Soccer Team",
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Eindhoven University of Technology",
+                    "description": "Developing Robot identification using Deep Learning with Tensorflow. Learning team behavior from competition log files. Integrating symbolic and neural technology by applying knowledge engineering to deep learning.",
+                    "title": "Researcher Deep Learning",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "MultiMotions",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 1990
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2023
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Purmerend, Noord-Holland, Nederland",
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 1990
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2023
+                        }
+                    },
+                    "company": "MultiMotions",
+                    "description": "Development of Interactive Animatronics and Theme Park automation systems and robotics. Worked with Efteling and Disney engineers on Attraction and Queue Management systems as well as the development of several research robots like six-legged and four-legged robots and a biped robot in cooperation with TU Delft as part of the leg lab. Robots appeared on Dutch television in several scientific programs. Currently working mostly on soccer playing robots.",
+                    "title": "Founder/Owner MultiMotions",
+                    "employment_type": "Self-employed"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 4081,
+                "name": "Universiteit van Amsterdam",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQEfHBj_we-_kw/company-logo_400_400/0/1659945104460/university_of_amsterdam_logo?e=1703721600&v=beta&t=Dp0EJ3lpSLv3Mh_YrqSl6A7-xXfu6pL_sUUVd0ZqwG0",
+                "url": "https://www.linkedin.com/school/university-of-amsterdam/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2003
+                },
+                "end": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amsterdam",
+                    "date": {
+                        "start": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2006
+                        },
+                        "end": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2018
+                        }
+                    },
+                    "company": "University of Amsterdam",
+                    "description": "Teaching Robotics at the Institute for Interdisciplinary Studies",
+                    "title": "Teacher Robotics Beta Gamma",
+                    "employment_type": null
+                },
+                {
+                    "location": "Amsterdam",
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "day": null,
+                            "year": 2003
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": 2010
+                        }
+                    },
+                    "company": "University of Amsterdam",
+                    "description": null,
+                    "title": "Teacher Amstel Institute",
+                    "employment_type": null
+                },
+                {
+                    "location": "Amsterdam",
+                    "date": {
+                        "start": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2004
+                        },
+                        "end": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2009
+                        }
+                    },
+                    "company": "University of Amsterdam",
+                    "description": null,
+                    "title": "Docent Master Software Engineering CWI",
+                    "employment_type": null
+                },
+                {
+                    "location": "amsterdam",
+                    "date": {
+                        "start": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2004
+                        },
+                        "end": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2008
+                        }
+                    },
+                    "company": "University of Amsterdam",
+                    "description": null,
+                    "title": "Docent Medische Informatie Kunde AMC",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Robocup Junior Netherlands",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2004
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Purmerend",
+                    "date": {
+                        "start": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2004
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2017
+                        }
+                    },
+                    "company": "Robocup Junior Netherlands",
+                    "description": "Stimulating Science and Technology using Robotics for students ages 9 thru 19 years.",
+                    "title": "Founder",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "RoboCup 2013",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2013
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2013
+                        }
+                    },
+                    "company": "RoboCup 2013",
+                    "description": "Responsible for the local organisation of the World Championships RoboCupJunior in Eindhoven from June 24 thru July 1",
+                    "title": "Chair RCJ Local Organising Committee 2013",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 5570,
+                "name": "Vrije Universiteit Amsterdam (VU Amsterdam)",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQGFG964atm3Ow/company-logo_400_400/0/1682661887840?e=1703721600&v=beta&t=871s4br2EokXU4GPzYVwsoy3BpQAoKkgU-c2zYvtGmQ",
+                "url": "https://www.linkedin.com/school/vrije-universiteit-amsterdam/",
+                "employees": {
+                    "start": 5001,
+                    "end": 10000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2008
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "day": null,
+                            "year": 2010
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": 2012
+                        }
+                    },
+                    "company": "Vrije Universiteit Amsterdam (VU Amsterdam)",
+                    "description": null,
+                    "title": "docent ItsAcademy",
+                    "employment_type": null
+                },
+                {
+                    "location": "Amsterdam",
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "day": null,
+                            "year": 2008
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": 2012
+                        }
+                    },
+                    "company": "Vrije Universiteit Amsterdam (VU Amsterdam)",
+                    "description": null,
+                    "title": "Teacher ITs Academy",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Lithp Systems bv",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 1984
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2010
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Purmerend, Noord-Holland, Nederland",
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 1984
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2010
+                        }
+                    },
+                    "company": "Lithp Systems bv",
+                    "description": "Development of symbolic AI systems based on Knowledge Engineering for Dutch companies. Customers were Shell research, NMB, Hoogovens, Akzo, Luchthaven Schiphol. Development of Lisp based Expert System shell Acquaint, used by many companies during the eighties.",
+                    "title": "Founder/Owner Lithp Systems bv",
+                    "employment_type": "Self-employed"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Tryllian",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2000
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2002
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "day": null,
+                            "year": 2000
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": 2002
+                        }
+                    },
+                    "company": "Tryllian",
+                    "description": null,
+                    "title": "CTO",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 3333068,
+                "name": "CACI Nederland",
+                "logo": "https://media.licdn.com/dms/image/C560BAQErxcTfQOqpbw/company-logo_400_400/0/1519909379968?e=1703721600&v=beta&t=LZlOU1ARVYSzvhpI-0UAF_-FnISLoqhhnFKhni-5qfA",
+                "url": "https://www.linkedin.com/company/caci-bv/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 1981
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 1984
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 1981
+                        },
+                        "end": {
+                            "month": 5,
+                            "day": null,
+                            "year": 1984
+                        }
+                    },
+                    "company": "CACI bv",
+                    "description": null,
+                    "title": "Pricipal Consultant",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 25916,
+                "name": "Technische Unie",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQGzfU7aITQwyw/company-logo_400_400/0/1519855993153?e=1703721600&v=beta&t=gjtMjYSFdLyaZ1KY_-4eES_Ct4369m_ZiNVkKHWZ4-U",
+                "url": "https://www.linkedin.com/company/technische-unie/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 1962
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 1980
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amsterdam",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 1962
+                        },
+                        "end": {
+                            "month": 1,
+                            "day": null,
+                            "year": 1980
+                        }
+                    },
+                    "company": "Technische Unie",
+                    "description": "Software development IBM 1401 S/360-370",
+                    "title": "Manager Software Development / Programmer",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Artificial Intelligence",
+        "Robotics",
+        "Physics",
+        "Lecturing",
+        "Software Engineering",
+        "Programming",
+        "Teaching",
+        "Software Development",
+        "ICT",
+        "Computer Science",
+        "Science",
+        "HTML",
+        "Algorithms",
+        "Machine Learning",
+        "Research"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

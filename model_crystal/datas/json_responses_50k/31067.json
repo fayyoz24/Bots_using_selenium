@@ -1,0 +1,683 @@
+{
+    "profile_id": "fransj",
+    "first_name": "Frans",
+    "last_name": "Jongma",
+    "sub_title": "Master Technologist at Hewlett Packard Enterprise",
+    "profile_picture": null,
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAAAA0ZdwBmN9cakhiLaEGf5-yEk9CY4h5HZs",
+    "object_urn": 3433948,
+    "birth_date": null,
+    "summary": "My objective is to assist in developing solutions that are scalable and are \"always on\". This involves consulting with customers on how to make the best use of the NonStop software stack, but also to feed back customer experience to the development teams in order to improve the software offerings.\n\nRecent activities resulted in the release of SQL/MX 3.5 with Database Services (DBS). I have created prototypes of how this subsystem should be implemented and how end-users could provision their own databases without requiring access to the system. Those ideas were implemented in the final product. \n\nI write white papers and present at present at customer events such as the HPE CONNECT user group meetings and technical bootcamps.\n\nAreas of expertise: NonStop SQL; NonStop application architecture; Business Continuity with RDF; Performance & tuning of application  & database.",
+    "location": {
+        "country": "Netherlands",
+        "short": "Utrecht, Utrecht",
+        "city": "Utrecht",
+        "state": "Utrecht",
+        "default": "Utrecht, Utrecht, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [
+        {
+            "url": "https://www.slideshare.net/fjongma/nonstop-sqlmx-dbs-demo-with-itp-webserver",
+            "title": "NonStop SQL/MX DBS demo with iTP Webserver",
+            "description": "This is a step-by-step overview of NonStop SQL/MX Database Services can be used to quickly provision a database and some additional functions. The demo was created using a few very simple HTML pages that invoke the DBS interface.",
+            "image": "https://media.licdn.com/dms/image/sync/C4D27AQFps8uIcmdlbQ/articleshare-shrink_800/0/1695612366102?e=1696438800&v=beta&t=R5Z6uC1rwceqQuYuFYtNbNj1cCFAhCC997uEZyIWris"
+        },
+        {
+            "url": "https://www.slideshare.net/fjongma/understanding-nonstop-sqlmx-sda-and-its-impact-on-performance",
+            "title": "Understanding NonStop SQLMX SDA and its impact on performance",
+            "description": "This paper describes how the Session Data Area (SDA) is used and how its configuration affects performance. The area is reserved on a session basis and query fragments of a session can only be reused by the same session. It differs in this from the...",
+            "image": "https://media.licdn.com/dms/image/sync/C4E27AQGw987DegZ5HQ/articleshare-shrink_800/0/1695612366043?e=1696438800&v=beta&t=Cc8ZiWHBm5jQ-6R0U6R944jWXjDRmg0PUCDi0Z0C2B8"
+        },
+        {
+            "url": "https://www.slideshare.net/fjongma/nonstop-sqlmx-dbs-explained",
+            "title": "NonStop SQL/MX DBS Explained",
+            "description": "The eBITUG 2017 presentation that provides and overview of DBaaS capabilities delivered by NonStop SQL/MX. It also shows how DBS simplifies provision of databases and facilitates automation. It supports virtualized as well as regular NonStop X86-based...",
+            "image": "https://media.licdn.com/dms/image/sync/C4E27AQE3Z68xPxHQrQ/articleshare-shrink_800/0/1695612366234?e=1696438800&v=beta&t=g7bzJx1lUoUOqrluO81dK4vTlzjwW3HQobSC43O5Skg"
+        },
+        {
+            "url": null,
+            "title": "Designing and managing very large databases with NonStop SQL/MX",
+            "description": "VLDB Design for NonStop SQL/MX",
+            "image": "https://media.licdn.com/dms/image/C4E2DAQGV0a-LnotO9A/profile-treasury-document-cover-images_1920/0/1582910381066?e=1696438800&v=beta&t=Gvdmnfzg-X_QjBPxkwY1NmzTh0rSkR7cQfNrZ4LGX5o"
+        },
+        {
+            "url": null,
+            "title": "Module File Cache for NonStop SQL/MX",
+            "description": "Module File Caching (MFC) for NonStop SQL/MX",
+            "image": "https://media.licdn.com/dms/image/C4E2DAQEt47jF4KBz5Q/profile-treasury-document-cover-images_1920/0/1583891322840?e=1696438800&v=beta&t=BKY8EM_DmjF5hlMSJZISxstTEOfMOjWYCV2H2pgei0U"
+        }
+    ],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "Dutch",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "English",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "German",
+                "proficiency": "PROFESSIONAL_WORKING"
+            }
+        ]
+    },
+    "industry": "Computer Software",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 1974
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 1976
+                }
+            },
+            "school": {
+                "name": "University of Twente",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQGlJy8j9vKdjA/company-logo_400_400/0/1533909472654/university_of_twente_logo?e=1703721600&v=beta&t=57gyTHY7qEBPFXvkDBqhPNgFG6a0BQLc1r5lzmM6Hdw",
+                "url": "https://www.linkedin.com/school/university-of-twente/"
+            },
+            "degree_name": null,
+            "field_of_study": "Electronics",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 1968
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 1974
+                }
+            },
+            "school": {
+                "name": "Rijksscholengemeenschap Leeuwarden",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": null,
+            "field_of_study": null,
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [],
+    "organizations": [],
+    "projects": [],
+    "publications": [
+        {
+            "name": "NonStop SQL/MX Not only for Cloud",
+            "publisher": "Connect HPE User Community",
+            "url": "http://file.connect-converge.com/theConnection/2017_Sept-Oct__TheConnection",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2017
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Frans",
+                    "last_name": "Jongma",
+                    "name": null,
+                    "headline": "Master Technologist at Hewlett Packard Enterprise"
+                }
+            ]
+        },
+        {
+            "name": "Native Tables in NonStop SQL/MX Part 2",
+            "publisher": "Connect HPE User Community",
+            "url": "http://file.connect-converge.com/theConnection/The-Connection-May---June-2016/#?page=30",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2016
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Frans",
+                    "last_name": "Jongma",
+                    "name": null,
+                    "headline": "Master Technologist at Hewlett Packard Enterprise"
+                }
+            ]
+        },
+        {
+            "name": "Native Tables in NonStop SQL/MX - Part 1",
+            "publisher": "Connect HPE User Community",
+            "url": "http://static1.squarespace.com/static/56a66c605dc6dee2cb950a34/t/570bc12f8259b5e1a9b6a997/1460388200189/Connect+Mar-Apr+2016-Web.pdf",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2016
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Frans",
+                    "last_name": "Jongma",
+                    "name": null,
+                    "headline": "Master Technologist at Hewlett Packard Enterprise"
+                }
+            ]
+        },
+        {
+            "name": "Module File Cache for NonStop SQL/MX - Technical Whitepaper",
+            "publisher": "HP",
+            "url": "http://h20195.www2.hp.com/V2/GetPDF.aspx/4AA3-8922ENW.pdf",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2012
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Frans",
+                    "last_name": "Jongma",
+                    "name": null,
+                    "headline": "Master Technologist at Hewlett Packard Enterprise"
+                }
+            ]
+        },
+        {
+            "name": "Concepts of NonStop SQL/MX",
+            "publisher": "HP",
+            "url": "http://www.google.com/#sclient=psy-ab&hl=en&source=hp&q=concepts+of+nonstop+sql",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2011
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Frans",
+                    "last_name": "Jongma",
+                    "name": null,
+                    "headline": "Master Technologist at Hewlett Packard Enterprise"
+                }
+            ]
+        },
+        {
+            "name": "Only on NonStop: True Database Scalability - get real proof, not promises!",
+            "publisher": "Connection Magazine",
+            "url": "http://h20223.www2.hp.com/NonStopComputing/downloads/Connect_May-June_2011_12.pdf",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2011
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Frans",
+                    "last_name": "Jongma",
+                    "name": null,
+                    "headline": "Master Technologist at Hewlett Packard Enterprise"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Ajaya",
+                    "last_name": "Gummadi",
+                    "name": null,
+                    "headline": "Product Leader at Teradata"
+                }
+            ]
+        },
+        {
+            "name": "Using SQL/MX subscribe to monitor Catalog Operations",
+            "publisher": "The Connection",
+            "url": null,
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2010
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Frans",
+                    "last_name": "Jongma",
+                    "name": null,
+                    "headline": "Master Technologist at Hewlett Packard Enterprise"
+                }
+            ]
+        },
+        {
+            "name": "A Comparison of NonStop SQL/MX and Oracle 11G RAC: scaling",
+            "publisher": "HP",
+            "url": "http://h20195.www2.hp.com/v2/GetPDF.aspx/4AA3-2001ENW.pdf",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2010
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Frans",
+                    "last_name": "Jongma",
+                    "name": null,
+                    "headline": "Master Technologist at Hewlett Packard Enterprise"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Labanowski, Howey",
+                    "headline": null
+                }
+            ]
+        },
+        {
+            "name": "Designing and managing very large databases with NonStop SQL/MX",
+            "publisher": "HP",
+            "url": "http://h20195.www2.hp.com/v2/GetPDF.aspx/4AA2-9588ENW.pdf",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2009
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Frans",
+                    "last_name": "Jongma",
+                    "name": null,
+                    "headline": "Master Technologist at Hewlett Packard Enterprise"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Rebecca Howey, ATC staff",
+                    "headline": null
+                }
+            ]
+        },
+        {
+            "name": "Java Performance on the HP NonStop server, Interview",
+            "publisher": "The Connection",
+            "url": "http://h20223.www2.hp.com/NonStopComputing/downloads/Java%20Performance%20Interview.pdf",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2006
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Frans",
+                    "last_name": "Jongma",
+                    "name": null,
+                    "headline": "Master Technologist at Hewlett Packard Enterprise"
+                }
+            ]
+        },
+        {
+            "name": "RDF Synchronization",
+            "publisher": "Tandem Systems Review",
+            "url": "http://www.hpl.hp.com/hpjournal/tandem/vol8num2sum92.pdf",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 1992
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Frans",
+                    "last_name": "Jongma",
+                    "name": null,
+                    "headline": "Master Technologist at Hewlett Packard Enterprise"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Wouter",
+                    "last_name": "Senf",
+                    "name": null,
+                    "headline": "Retired"
+                }
+            ]
+        },
+        {
+            "name": "NonStop SQL and beyond",
+            "publisher": "HP/Connect/GTUG",
+            "url": "http://slidesha.re/PsbGbD",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": null
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Frans",
+                    "last_name": "Jongma",
+                    "name": null,
+                    "headline": "Master Technologist at Hewlett Packard Enterprise"
+                }
+            ]
+        }
+    ],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 1025,
+                "name": "Hewlett Packard Enterprise",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQH6qdm7VJ5BPA/company-logo_400_400/0/1593697162881/hewlett_packard_enterprise_logo?e=1703721600&v=beta&t=1SMck6BFtnuN3HcTMGJBvaHGymj3fTaOtSC5BlXNOXc",
+                "url": "https://www.linkedin.com/company/hewlett-packard-enterprise/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Utrecht Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Hewlett Packard Enterprise",
+                    "description": "Generalist with focus on performance, management and availability aspects of large-scale NonStop SQL Databases.\n\nIntroduce and evaluate new releases of NonStop SQL Software in close communication with Software Development. Publish white papers and other articles for the technical community.\nMy publications can be found at http://www.slideshare.net/fjongma .",
+                    "title": "Master Technologist Advanced Technology Center",
+                    "employment_type": "Part-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 5390798,
+                "name": "HP",
+                "logo": "https://media.licdn.com/dms/image/D560BAQEZ6ZVjZmwiwA/company-logo_400_400/0/1692312131153/hp_logo?e=1703721600&v=beta&t=EKMEgOwLsfePMI4__tieTthBuzoHUMVCvW6uFapE6OI",
+                "url": "https://www.linkedin.com/company/hp/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 1989
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2008
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "HP",
+                    "description": "Generalist with focus on performance, management and availability aspects of large-scale NonStop SQL Databases.\n\nIntroduce and evaluate new releases of NonStop SQL Software in close communication with Software Development. Publish white papers and other articles for the technical community. \nAn example of these papers are found on Slideshare. I am working on a series of introduction papers to NonStop SQL/MX. The can be found below.",
+                    "title": "Master Technologist at HP Advanced Technology Center",
+                    "employment_type": null
+                },
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "day": null,
+                            "year": 1989
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "HP",
+                    "description": null,
+                    "title": "Technology Consultant",
+                    "employment_type": null
+                },
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 1989
+                        },
+                        "end": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2008
+                        }
+                    },
+                    "company": "HP",
+                    "description": "Various consulting roles on Database, Middleware and Performance. Started with Tandem 1989, moved along through Compaq and HP.\nWorking for the EMEA NonStop Competence Center until Feb '08",
+                    "title": "Technology Consultant for NonStop servers",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Tandem",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 1989
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2005
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "day": null,
+                            "year": 1989
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": 2005
+                        }
+                    },
+                    "company": "Tandem",
+                    "description": null,
+                    "title": "Consultant",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1025,
+                "name": "Tandem Computers",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQH6qdm7VJ5BPA/company-logo_400_400/0/1593697162881/hewlett_packard_enterprise_logo?e=1703721600&v=beta&t=1SMck6BFtnuN3HcTMGJBvaHGymj3fTaOtSC5BlXNOXc",
+                "url": "https://www.linkedin.com/company/hewlett-packard-enterprise/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 1989
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2000
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Netherlands",
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "day": null,
+                            "year": 1989
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": 2000
+                        }
+                    },
+                    "company": "Hewlett Packard Enterprise",
+                    "description": "Implemented the first RDF-based Disaster Recovery solution in The Netherlands for a large bank's NonStop SQL based ATM/POS application. This included a no-down-time load of the remote database. The procedure was published as \"RDF Synchronization\" in the Tandem Systems Review.",
+                    "title": "Technology Consultant",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 2067,
+                "name": "Harris Corporation",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQEb285R4Kib0w/company-logo_400_400/0/1565364102645/harris_corporation_logo?e=1703721600&v=beta&t=IFc6FKx9A6NwIayNRMLlfTyX3XTyYWs3h5KehhZ67BA",
+                "url": "https://www.linkedin.com/company/harris-corporation/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 1983
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 1989
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "day": null,
+                            "year": 1983
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 1989
+                        }
+                    },
+                    "company": "Harris Corporation",
+                    "description": "Design, implementation of the \"DMS\" database mangement system, the user-interface, program generators and Data Dictionary system.",
+                    "title": "Software designer",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "HP NonStop",
+        "Oracle",
+        "SQL Tuning",
+        "Performance Tuning",
+        "Enscribe",
+        "TACL",
+        "COBOL",
+        "High Availability",
+        "HP",
+        "Disaster Recovery",
+        "Operating Systems",
+        "Java",
+        "JDBC",
+        "Databases",
+        "HP-UX",
+        "Unix",
+        "Weblogic",
+        "Cloud Computing",
+        "Software Development",
+        "Middleware"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

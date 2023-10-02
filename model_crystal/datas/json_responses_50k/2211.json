@@ -1,0 +1,597 @@
+{
+    "profile_id": "georgia-skrempou",
+    "first_name": "Georgia",
+    "last_name": "Skrempou",
+    "sub_title": "Software Developer at Agriplace",
+    "profile_picture": null,
+    "background_image": "https://media.licdn.com/dms/image/C4D16AQGx6OhEIAC7vQ/profile-displaybackgroundimage-shrink_350_1400/0/1649881324078?e=1701302400&v=beta&t=fpqsw4tUCRaW0JLAYio6ojWAV6CYrLvIEWJZAbCLp4A",
+    "profile_type": "personal",
+    "entity_urn": "ACoAABvXyMsBTXwGw7kQTGjIkRtRmvv7ydj1QK0",
+    "object_urn": 467126475,
+    "birth_date": null,
+    "summary": "class AboutMe:\n        def __init__(self):\n               self.passion = [\"Constantly evolving\", \"Learning new skills\"]\n               self.attitude = [\"Positive\", \"Motivated\", \"Adaptive\"]\n               self.skills = [\"Coding\", \"Data handling\", \"Having fun\"]\n               self.character = [\"Cheerful\", \"Fun\", \"Confident\"]\n               self.loves = [\"Nature\", \"Camping\", \"Animals\", \"Travelling\"]\n\nOr in other words:\nI was born in Greece and have lived all over Europe. My dream holiday requires a motorcycle, a tent, a beach, and ouzo. My dream job requires a positive working environment, teamwork, little to no hierarchy and constant stimulation and evolution.\nI pick things up very fast, I am capable of working on my own but I thrive in a team, as I like to learn from, and teach, other people. \nI am an experienced researcher with passion for neuroscience (I want to know what makes us tick) and I recently developed a passion for something new: web development. I taught myself how to code with Python, and since then I've built several fun services for myself, as well as working, fully functional RESTful APIs. My skills include Django, Flask, HTML, CSS, Bootsrap, MySQL, SQLite, Linux. I also know how to Git.\nI am very experienced with statistics and statistical software (SPSS, Graphpad) and I'm a master in R (and a little bit of MATLAB). \n\nGo visit my GitHub for more: https://github.com/GeorgiaSkrempou\nOr my website: georgiacodes.arcs.cloud",
+    "location": {
+        "country": "Netherlands",
+        "short": "Amsterdam, North Holland",
+        "city": "Amsterdam",
+        "state": "North Holland",
+        "default": "Amsterdam, North Holland, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "English",
+                "proficiency": "FULL_PROFESSIONAL"
+            },
+            {
+                "name": "Greek",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "Japanese",
+                "proficiency": "ELEMENTARY"
+            }
+        ]
+    },
+    "industry": "Computer Software",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "school": {
+                "name": "Ethnikon kai Kapodistriakon Panepistimion Athinon",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQFb2kiXq0tftw/company-logo_400_400/0/1519863326011?e=1703721600&v=beta&t=qUTNGmhvE1i4bhTw8cFy7DIQpnkOwgKXNqjKOjNaevQ",
+                "url": "https://www.linkedin.com/school/ethnikon-kai-kapodistriakon-panepistimion-athinon/"
+            },
+            "degree_name": "Master's degree",
+            "field_of_study": "Neuroscience",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "school": {
+                "name": "University of Ioannina",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQFRIVc9EYX3qw/company-logo_400_400/0/1519856685362?e=1703721600&v=beta&t=xwOTsiGAxiIHrEDM3zSaxMw5hDGrxMOpNcN-lzsyIqg",
+                "url": "https://www.linkedin.com/school/university-of-ioannina/"
+            },
+            "degree_name": "Bachelor's degree with Integrated Master's",
+            "field_of_study": "Biology/Bioinformatics",
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [
+        {
+            "name": "IELTS (Grade 8.0/9.0)",
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "British Council",
+            "url": null,
+            "license_number": null,
+            "display_source": null,
+            "company": {
+                "id": null,
+                "name": "British Council",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQEbgQMpvEqVNw/company-logo_400_400/0/1581068895810?e=1703721600&v=beta&t=a72qzlhRDCks-smKM6ojPU7hr9D3J7JTrnPLF64UTHQ",
+                "url": null
+            }
+        },
+        {
+            "name": "JLPT- Japanese Language Proficiency Test (Level N5)",
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "The Japan Foundation",
+            "url": null,
+            "license_number": null,
+            "display_source": null,
+            "company": {
+                "id": null,
+                "name": "The Japan Foundation",
+                "logo": null,
+                "url": null
+            }
+        },
+        {
+            "name": "Cambridge First Certificate in English (Level B2), Grade A",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "University of Cambridge",
+            "url": null,
+            "license_number": null,
+            "display_source": null,
+            "company": {
+                "id": null,
+                "name": "University of Cambridge",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQGLqHVOwtQeUQ/company-logo_400_400/0/1663833278405?e=1703721600&v=beta&t=rBSEC4laXLMrsAo77KjBSU5k40hju6Bw7RdJ1UNhKt4",
+                "url": null
+            }
+        },
+        {
+            "name": "EFSET EXPRESS High Proficiency (CEFR C1/C2)",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "EF Education First",
+            "url": "https://www.efset.org/",
+            "license_number": null,
+            "display_source": "efset.org",
+            "company": {
+                "id": null,
+                "name": "EF Education First",
+                "logo": "https://media.licdn.com/dms/image/C510BAQGrCP6CXBbjAA/company-logo_400_400/0/1571879615985?e=1703721600&v=beta&t=KJbiUI3ZFvPsSZIzXrovY43EKlU81h6ywbJ_EPFQlYU",
+                "url": null
+            }
+        }
+    ],
+    "organizations": [
+        {
+            "name": "HSCBB",
+            "position": null,
+            "date_start": null,
+            "date_end": null
+        }
+    ],
+    "projects": [],
+    "publications": [],
+    "courses": [
+        {
+            "name": "R Programming",
+            "number": null
+        }
+    ],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 502317,
+                "name": "Agriplace",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQEidGWJbMT52w/company-logo_400_400/0/1688568735183?e=1703721600&v=beta&t=YFYoLrcwKa0koUwUKkZZDCVFO6WAsiEgYnssv23h1Bs",
+                "url": "https://www.linkedin.com/company/agriplacebv/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amsterdam, North Holland, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Agriplace",
+                    "description": null,
+                    "title": "Junior Software Developer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": null,
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amsterdam, North Holland, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": null,
+                    "description": "> Developed the backend (& frontend) of several open source web apps using Flask and Django in combination with MySQL or Sqlite3:\n1. Just do it: an open source web app that lets you create to-do lists. Made using Django, SQLite, HTML/CSS and Bootstrap. Supports individual user functionality.\n2. Workouts app: an open source RESTful web app used to keep track of a workouts plan. Made\nusing Flask and SQLite. Supports individual user functionality.\n3. Recipes app: an open source RESTful web app used to store recipes. Made using Flask and MySQL. Supports individual user functionality.\n\n> Wrote and maintained multiple open source scripts thatrun on several IoT devices:\n1. Cutesy service: Project using a Grove LCD screen for Raspberry Pi to display current weather\nfrom an open source weather API (along with various cute messages of your choice).\n2. Small script for Raspberry Pi zero with ZeroCam. Captures an image and uploads it to SPACES (Digital Ocean).",
+                    "title": "Python Developer",
+                    "employment_type": "Self-employed"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 4081,
+                "name": "University of Amsterdam",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQEfHBj_we-_kw/company-logo_400_400/0/1659945104460?e=1703721600&v=beta&t=nxt14hUDODg3MttkNj5Qa0fCu2FbgGbRXyFSapRtNv4",
+                "url": "https://www.linkedin.com/school/university-of-amsterdam/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amsterdam, North Holland, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2020
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "University of Amsterdam",
+                    "description": "> Research focus on investigating how perturbations of the endocannabinoid (eCB) system in different developmental stages affect cortical developmentin the neuronal and behavior\nlevel. Focus on prefrontal cortex (PFC) modulation\n> in utero electroporation of cannabinoid receptor 1 (CB1R) siRNA in the PFC of E14 pups from pregnant mouse mothers and subsequent analysis of neuronal properties of affected\nneurons in vitro (patch clamp and immunohistochemistry)\n> Designed and executed multi-electrode array (MEA) recordings of in vitro epileptiform activity in the hippocampal-entorhinal slice of the mouse brain\n> Developed methodology and scripts for MEA large dataset handling and signal processing using MATLAB\n> Developed methodology and scripts for automated complex biological data handling and statistical analysis using R\n> Training interns & teaching the BSc Psychobiology course \"Hodgkin & Huxley and Neuropharmacology\"",
+                    "title": "PHD Candidate",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 635937,
+                "name": "Biomedical Research Foundation of the Academy of Athens",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQFqn-kZB45riQ/company-logo_400_400/0/1519902399419?e=1703721600&v=beta&t=9LfwWBs9yLxWV75SKwuXwielr3ClUbEX4IhrxEGxKuY",
+                "url": "https://www.linkedin.com/company/biomedical-research-foundation-of-the-academy-of-athens/",
+                "employees": {
+                    "start": 201,
+                    "end": 500
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Athens, Greece",
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2020
+                        }
+                    },
+                    "company": "Biomedical Research Foundation of the Academy of Athens",
+                    "description": "> Recorded field potentials of cortical spontaneous activity (Up/Down states) and an in vitro model of epileptogenesis\n> Set up the whole project, including literature review, experimental design, piloting, experiments and analysis\n> Thesis resulted in poster presentation and a future publication (currently being written)",
+                    "title": "Postgraduate Researcher",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 15097682,
+                "name": "Universit\u00e9 de Strasbourg",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQHbW1O_4GqwEw/company-logo_400_400/0/1519863750189?e=1703721600&v=beta&t=DcXWgMBh4pX0HSZWButCcnRnzx3M7p5ISpPlCzO26lQ",
+                "url": "https://www.linkedin.com/school/universit%C3%A9-de-strasbourg/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Strasbourg, Alsace, France",
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "University of Strasbourg",
+                    "description": "> Research focused on inducing binge drinking behavior in mice via intermittent access to alcohol and subsequent investigation of their anxiety and depressive-like behavior (sucrose preference test and ligh/dark transition test",
+                    "title": "Research Internship",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1223006,
+                "name": "The Cyprus Institute of Neurology & Genetics",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQHLvL0TMMmHPg/company-logo_400_400/0/1653298823364?e=1703721600&v=beta&t=PuW4S5qYd47XQv37m94JK58pzA38uqHR8-vSdkxVmoU",
+                "url": "https://www.linkedin.com/company/cyprus-institute-of-neurology-and-genetics/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Cyprus",
+                    "date": {
+                        "start": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2017
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2017
+                        }
+                    },
+                    "company": "The Cyprus Institute of Neurology & Genetics",
+                    "description": "> in silico analysis of transcriptomics datasets (microarrays) with LIMMA package (R) coming from public repositories (GEO, TCGA) for Mantle Cell Lymphoma, Hodgkin's Lymphoma\nand Anaplastic Large Cell Lymphoma\n> Pathway enrichment analysis using EnrichR, gene coexpression network reconstruction using the mutual information method CLR\n> in silico drug repurposing using LINCS",
+                    "title": "Research Internship",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 635937,
+                "name": "Biomedical Research Foundation of the Academy of Athens",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQFqn-kZB45riQ/company-logo_400_400/0/1519902399419?e=1703721600&v=beta&t=9LfwWBs9yLxWV75SKwuXwielr3ClUbEX4IhrxEGxKuY",
+                "url": "https://www.linkedin.com/company/biomedical-research-foundation-of-the-academy-of-athens/",
+                "employees": {
+                    "start": 201,
+                    "end": 500
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Athens, Greece",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2016
+                        }
+                    },
+                    "company": "Biomedical Research Foundation of the Academy of Athens",
+                    "description": "> in silico analysis of transcriptomics datasets (microarrays) with LIMMA package (R) coming from public repositories (GEO, TCGA) for Colorectal cancer\n> Pathway enrichment analysis using EnrichR, gene coexpression network reconstruction using the mutual information method CLR\n> in silico drug repurposing pipeline using LINCS\n> Thesis title: \"Bioinformatics methods in investigating molecular mechanisms and drug candidates for colon cancer\"",
+                    "title": "Undergraduate Researcher",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "National marine park of Zakynthos",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Zakynthos, Greece",
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2014
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2014
+                        }
+                    },
+                    "company": "National marine park of Zakynthos",
+                    "description": "> Took care of cute sea turtles",
+                    "title": "Internship",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Bioinformatics",
+        "Research",
+        "Molecular Biology",
+        "Polymerase Chain Reaction (PCR)",
+        "Biochemistry",
+        "Science",
+        "Python (Programming Language)",
+        "Flask",
+        "MySQL",
+        "Linux",
+        "R (Programming Language)",
+        "MATLAB"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

@@ -1,0 +1,457 @@
+{
+    "profile_id": "aartvb",
+    "first_name": "Aart",
+    "last_name": "V.",
+    "sub_title": "Teacher at Hogeschool Rotterdam",
+    "profile_picture": "https://media.licdn.com/dms/image/C5603AQGfPCloBY5AMw/profile-displayphoto-shrink_800_800/0/1616065382260?e=1701302400&v=beta&t=VR8aV91HNeOFbEXxCYpNcu9hWbrr7gtOXr_HVNI0P38",
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAACCFTPgBlsR3Lx37B40eQ6gK904zmXYW0jk",
+    "object_urn": 545606904,
+    "birth_date": null,
+    "summary": "I am an enthusiastic teacher at Hogeschool Rotterdam, with a background in physics, computer science and artificial intelligence. For me, it is very important that my work has a positive impact on society. In my free time I like to play music (violin and piano) alone or in groups, play board games and play squash.",
+    "location": {
+        "country": "Netherlands",
+        "short": "Gouda, South Holland",
+        "city": "Gouda",
+        "state": "South Holland",
+        "default": "Gouda, South Holland, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "NL",
+            "language": "nl"
+        },
+        "supported_locales": [
+            {
+                "country": "NL",
+                "language": "nl"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "Dutch",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "English",
+                "proficiency": "PROFESSIONAL_WORKING"
+            }
+        ]
+    },
+    "industry": "Higher Education",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "school": {
+                "name": "Utrecht University",
+                "logo": "https://media.licdn.com/dms/image/C510BAQG6HfmPTdJKXw/company-logo_400_400/0/1519884681258?e=1703721600&v=beta&t=dip0JQLPHIafltY09rUwsjeZiPiJpmfD6vJeMHxW-84",
+                "url": "https://www.linkedin.com/school/universiteit-utrecht/"
+            },
+            "degree_name": "Master's degree",
+            "field_of_study": "Medical Imaging",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "school": {
+                "name": "Utrecht University",
+                "logo": "https://media.licdn.com/dms/image/C510BAQG6HfmPTdJKXw/company-logo_400_400/0/1519884681258?e=1703721600&v=beta&t=dip0JQLPHIafltY09rUwsjeZiPiJpmfD6vJeMHxW-84",
+                "url": "https://www.linkedin.com/school/universiteit-utrecht/"
+            },
+            "degree_name": "Bachelor's degree (Cum Laude)",
+            "field_of_study": "Natuur- en Sterrenkunde",
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "Master's program: Research project (14 weeks)",
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "description": "During this project, I analysed data from contrast-enhanced CT images of the hepatic veins in children, and suggested improvements of the scan protocol based on this analysis.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Aart",
+                    "last_name": "V.",
+                    "name": null,
+                    "headline": "Teacher at Hogeschool Rotterdam"
+                }
+            ]
+        },
+        {
+            "title": "Master's program: Research project (36 weeks)",
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "description": "During this project, I created a post-processing pipeline in MATLAB that combines different types of MRI scans for lung radiotherapy. I also worked on adapting an existing MRI scan. I scanned volunteers and analyzed the gathered data.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Aart",
+                    "last_name": "V.",
+                    "name": null,
+                    "headline": "Teacher at Hogeschool Rotterdam"
+                }
+            ]
+        },
+        {
+            "title": "Bachelor's program: Research project (11 weeks)",
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "description": "During this project for my Bachelor Thesis, I went to DESY in Hamburg as part of an international team of scientists to do measurements using a particle accelerator. Afterwards, I developed an algorithm that can select useful measurements from the large dataset. I implemented this algorithm using C++ and evaluated it.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Aart",
+                    "last_name": "V.",
+                    "name": null,
+                    "headline": "Teacher at Hogeschool Rotterdam"
+                }
+            ]
+        }
+    ],
+    "publications": [
+        {
+            "name": "Results from the EPICAL-2 ultra-high granularity electromagnetic calorimeter prototype",
+            "publisher": "Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment",
+            "url": "https://doi.org/10.1016/j.nima.2022.167539",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2023
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Aart",
+                    "last_name": "V.",
+                    "name": null,
+                    "headline": "Teacher at Hogeschool Rotterdam"
+                }
+            ]
+        },
+        {
+            "name": "Performance of the electromagnetic pixel calorimeter prototype Epical-2",
+            "publisher": "Journal of Instrumentation",
+            "url": "https://doi.org/10.1088/1748-0221/18/01/P01038",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2023
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Aart",
+                    "last_name": "V.",
+                    "name": null,
+                    "headline": "Teacher at Hogeschool Rotterdam"
+                }
+            ]
+        }
+    ],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 164204,
+                "name": "Rotterdam University of Applied Sciences",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQG3Kyr4cUYEWQ/company-logo_400_400/0/1570826248210?e=1703721600&v=beta&t=wRFKdXH3VXRNUsTW_iMKeNKCykMaeBIuUfopmwrUaNU",
+                "url": "https://www.linkedin.com/school/hogeschool-rotterdam/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Rotterdam, South Holland, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Rotterdam University of Applied Sciences",
+                    "description": "I am teaching at the study Applied Data Science & Artificial Intelligence for four days a week.",
+                    "title": "Teacher",
+                    "employment_type": "Part-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 18315042,
+                "name": "Kenniscentrum Creating 010 - Hogeschool Rotterdam",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQGB_dRixcS4qw/company-logo_400_400/0/1615234576728?e=1703721600&v=beta&t=9ja9o5pbUjPhTqKcpTulwfMcqzl6fvVCFy8A0Vyxc_E",
+                "url": "https://www.linkedin.com/company/creating010/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2023
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Rotterdam, South Holland, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2023
+                        }
+                    },
+                    "company": "Kenniscentrum Creating 010 - Hogeschool Rotterdam",
+                    "description": "I was doing research at Hogeschool Rotterdam to investigate methods for identifying discrimination in computer algorithms, for three days a week.",
+                    "title": "Researcher",
+                    "employment_type": "Part-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 166740,
+                "name": "Universiteit Utrecht",
+                "logo": "https://media.licdn.com/dms/image/C510BAQG6HfmPTdJKXw/company-logo_400_400/0/1519884681258?e=1703721600&v=beta&t=dip0JQLPHIafltY09rUwsjeZiPiJpmfD6vJeMHxW-84",
+                "url": "https://www.linkedin.com/school/universiteit-utrecht/",
+                "employees": {
+                    "start": 5001,
+                    "end": 10000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Utrecht, Nederland",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "Utrecht University",
+                    "description": "I was teaching assistant at Utrecht University. I have given tutorials for courses in classical, relativistic, statistical and quantum mechanics, data acquisition and processing, optics and waves, mathematics and classical field theory. I also improved and restructured a booklet that is used by the students.",
+                    "title": "Teaching Assistant",
+                    "employment_type": "Part-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 8517,
+                "name": "UMC Utrecht",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQG50uAl6TiV2g/company-logo_400_400/0/1638562574508?e=1703721600&v=beta&t=QbCFXysjMpGxtCXdDSvyoDAU_IocWkFz-iVcJQ1M47c",
+                "url": "https://www.linkedin.com/company/umcutrecht/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Utrecht, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "UMC Utrecht",
+                    "description": "As part of my Master's program at Utrecht University, I am performing research at UMC Utrecht (see projects below for project descriptions).",
+                    "title": "Student Researcher",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 400265,
+                "name": "StudentsPlus Bijlessen",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQHJhBRicXxtRA/company-logo_400_400/0/1590492134062?e=1703721600&v=beta&t=jQIRXsfIY9xpgqUblneSSPDiofBRJTlAZwKvwhuMofg",
+                "url": "https://www.linkedin.com/company/studentsplus/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2017
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "StudentsPlus Bijlessen",
+                    "description": "I tutored VMBO, HAVO and VWO highschool students, varying from second year to sixth year students. I worked for about 7 hours per week.",
+                    "title": "Tutor",
+                    "employment_type": "Part-time"
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Analytical Skills",
+        "Programming",
+        "University Teaching",
+        "Research",
+        "Python (Programming Language)",
+        "C++",
+        "MATLAB",
+        "MRI",
+        "Teaching"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

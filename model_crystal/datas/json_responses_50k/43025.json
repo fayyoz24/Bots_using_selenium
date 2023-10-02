@@ -1,0 +1,492 @@
+{
+    "profile_id": "andrei-margert",
+    "first_name": "Andrei",
+    "last_name": "Margert",
+    "sub_title": "Engineer | Problem focused Data Scientist | Reinforcement Learning Enthusiast ",
+    "profile_picture": "https://media.licdn.com/dms/image/C4D03AQFFp9_uBIDd2A/profile-displayphoto-shrink_800_800/0/1572692472835?e=1701302400&v=beta&t=XQ2wstCl0OUzWwgQN5KtjULV5RoF7wLvUGM6jEIlsvc",
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAACu7-rIBT5OlSPPvAqUAIhmySX1SDjaNYtU",
+    "object_urn": 733739698,
+    "birth_date": null,
+    "summary": "Inspiring advances in Machine Learning push the limits of problem solving and generate previously unseen business value. I found new my passion in Reinforcement Learning and threw myself into this new industry. Motivated to face a worthy challenge, I am looking for a meaningful role in a dynamic company to contribute with my knowledge, creativity, and energy!",
+    "location": {
+        "country": "Netherlands",
+        "short": "Utrecht, Utrecht",
+        "city": "Utrecht",
+        "state": "Utrecht",
+        "default": "Utrecht, Utrecht, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": []
+    },
+    "industry": "Research",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "school": {
+                "name": "Delft University of Technology",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQFwaGpwaod9mQ/company-logo_400_400/0/1670699851986?e=1703721600&v=beta&t=Aw4oLxoKsIJcblYDjxw9200FClnyhZu8DxzcfJRDFOs",
+                "url": "https://www.linkedin.com/school/tudelft/"
+            },
+            "degree_name": "Master's degree",
+            "field_of_study": "Applied Earth Sciences",
+            "grade": "8.5 / 10.0"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "school": {
+                "name": "Udacity",
+                "logo": "https://media.licdn.com/dms/image/C560BAQHiNYfm0YHKrg/company-logo_400_400/0/1656621848272?e=1703721600&v=beta&t=K5xcAKf7mtx1MUVwxChhMDKubuX_mh7DMQTuSX9rjwQ",
+                "url": "https://www.linkedin.com/school/udacity/"
+            },
+            "degree_name": null,
+            "field_of_study": "Deep Reinforcement Learning",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "school": {
+                "name": "Tomsk Polytechnic University",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQGKfk_FsN-ODg/company-logo_400_400/0/1519908675378?e=1703721600&v=beta&t=HZOYILmVFm5xTOkpc9tV95FWvRcapPmbn1a5mjbNBdc",
+                "url": "https://www.linkedin.com/school/%D1%82%D0%BE%D0%BC%D1%81%D0%BA%D0%B8%D0%B9-%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9-%D1%83%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82/"
+            },
+            "degree_name": "Bachelor's degree",
+            "field_of_study": "Petroleum Engineering",
+            "grade": "5.0 / 5.0"
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "Multi-Agnet Reinforcement Learning",
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "description": "In this project I solved a multi-agent environment using policy-based actor and value-based critic model. Inspired by OpenAI algorithm for centralised learning and decentralised execution. The main motivation to use value-based critic here is to increase algorithm robustness and generalisation capabilities as pure policy-based algorithms are known to generalise poorly and suffer from unstable performance when environment is modified.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Andrei",
+                    "last_name": "Margert",
+                    "name": null,
+                    "headline": "Engineer | Problem focused Data Scientist | Reinforcement Learning Enthusiast "
+                }
+            ]
+        },
+        {
+            "title": "Continuous Control with Policy-based Reinforcement Learning",
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "description": "In this project I implement Deep Deterministic Policy Gradient (DDPG) algorithm to train a robotic arm to follow a moving object. The key goal of this work is to obtain an intelligent agent capable of dealing with continuous action space (infinite number of possible actions). DDPG is a hybrid actor-critic method that uses best ideas from both Value-based and Policy-based algorithms. Since value function is still learned in this approach, resulting algorithm has better generalisation capabilities.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Andrei",
+                    "last_name": "Margert",
+                    "name": null,
+                    "headline": "Engineer | Problem focused Data Scientist | Reinforcement Learning Enthusiast "
+                }
+            ]
+        },
+        {
+            "title": "Navigation task with Deep Q Network",
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "description": "This project is inspired by recent advances in Reinforcement Learning by Deep Mind and Open AI. The motivation is to obtain in depth understanding of underlying principles by gradually implementing more and more advanced techniques and compare their performance. Currently implemented architecture is Deep Q Network with fixed Q targets and experience replay with the following improvements:\n    - Double Deep Q Network; \n    - Duelling Deep Q Network; \n    - Prioritised Experience Replay.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Andrei",
+                    "last_name": "Margert",
+                    "name": null,
+                    "headline": "Engineer | Problem focused Data Scientist | Reinforcement Learning Enthusiast "
+                }
+            ]
+        },
+        {
+            "title": "Modelling of dissolution in core",
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "description": "Modelling of dissolution in core allows researchers to predict the behaviour of highly non-linear and stiff phenomenon of carbonate rock dissolution as carbon dioxide saturated fluid passes through it. Implemented as module in Delft Advanced Research Terra Simulator (DARTS) it provides a set of tools to obtain insights on the processes happening when injecting carbon dioxide in geological reservoirs in the course of Carbon Capture And Sequestration (CCS) activities for mitigating global climate change. This project is done in collaboration with Shell Global Solutions International B.V. ",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Andrei",
+                    "last_name": "Margert",
+                    "name": null,
+                    "headline": "Engineer | Problem focused Data Scientist | Reinforcement Learning Enthusiast "
+                }
+            ]
+        },
+        {
+            "title": "CT image stack processing",
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "description": "Framework for flexible and automated processing of computerised tomography (CT) rock images. The goal is to speed up analysis of the rock cores and allow researchers to extract rock properties with minimal effort. This project utilises reliable computer vision technologies for feature detection and provides high level interface to tune it to meet your goals. I developed this tool to build a 3D model of rock core only using stack of 2D CT images.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Andrei",
+                    "last_name": "Margert",
+                    "name": null,
+                    "headline": "Engineer | Problem focused Data Scientist | Reinforcement Learning Enthusiast "
+                }
+            ]
+        }
+    ],
+    "publications": [],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 166859,
+                "name": "Wageningen University & Research",
+                "logo": "https://media.licdn.com/dms/image/C510BAQFQJQXtOy2Stw/company-logo_400_400/0/1519889640020?e=1703721600&v=beta&t=Su9zrADK5ucUe1IMPUem90O0-tpcelhnIRTeUDAPDq4",
+                "url": "https://www.linkedin.com/school/wageningenuniversity/",
+                "employees": {
+                    "start": 5001,
+                    "end": 10000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Wageningen, Gelderland, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Wageningen University & Research",
+                    "description": "Research-on-demand consultancy. Providing agri-food industry sector with cutting edge research and production ready software solutions in addition to fundamental research efforts in Machine Learning domain.",
+                    "title": "Machine Learning Specialist",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 10609132,
+                "name": "Hyperganic Group",
+                "logo": "https://media.licdn.com/dms/image/C560BAQFJDPBced4vBA/company-logo_400_400/0/1679046662204?e=1703721600&v=beta&t=XyV9qadAeWAulum9C_HAuO_zHHa4jWUKZBy-v8KRHog",
+                "url": "https://www.linkedin.com/company/hyperganic/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Munich, Bavaria, Germany",
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2021
+                        }
+                    },
+                    "company": "Hyperganic Group",
+                    "description": null,
+                    "title": "Software Developer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 14500469,
+                "name": "White Space Solutions",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQFNVKwYFJRM7g/company-logo_400_400/0/1615566040214?e=1703721600&v=beta&t=IHhG_f1ATz4IzlYojnh8JyUzSHVHIfSl4V7zvSUiYiI",
+                "url": "https://www.linkedin.com/company/white-space-solutions/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "The Hague, South Holland, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2020
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2020
+                        }
+                    },
+                    "company": "WhiteSpace Solutions",
+                    "description": "As a Decision Intelligence Engineer I was responsible for understanding the technical aspect of the customers' problems and smart solutions development. Here is a short list of my accomplishments:\n- Responsible for translating business tasks into data-driven solutions, raw data analysis, and full product design cycle.\n- Responsible for the development, delivery, and support of a bespoke data-driven product for a large Middle Eastern company impacting multimillion-dollar decisions.\n- Designed, validated, and deployed the Artificial Intelligence pipeline (including Reinforcement Learning components) for multi-disciplinary project planning.",
+                    "title": "Decision Intelligence Engineer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1271,
+                "name": "Shell",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQGN30g7aSl4NA/company-logo_400_400/0/1519856218579?e=1703721600&v=beta&t=Neb9zOriZ4ZDus35jX8yOgQHiqBV7zIH8VU2-3dRlJE",
+                "url": "https://www.linkedin.com/company/shell/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amsterdam, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "Shell",
+                    "description": "As an Intern I was processing large amount of data using Computer Vision technologies, and working on high performance model to simulate complex fluid physics coupled with chemical reactions.",
+                    "title": "Reservoir Engineering Intern",
+                    "employment_type": "Internship"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Gazprom Dobycha Yamburg Ltd.",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Russian Federation",
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2016
+                        }
+                    },
+                    "company": "Gazprom Dobycha Yamburg Ltd.",
+                    "description": "As an intern I was assisting in the maintenance of the technological process of gas production/injection. My main responsibilities were responsible processes monitoring and parameters recording, meanwhile ensuring safe working conditions.",
+                    "title": "Oil and Gas Production Operation Intern",
+                    "employment_type": "Internship"
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Microsoft Azure",
+        "High Performance Computing (HPC)",
+        "Deep Learning",
+        "Artificial Intelligence (AI)",
+        "Numerical Analysis",
+        "Mathematical Modeling",
+        "Field Development",
+        "Data Analysis",
+        "Analytical Skills",
+        "Reservoir Engineering",
+        "Petroleum Engineering",
+        "Modeling",
+        "Energy",
+        "Oil & Gas",
+        "Computer Vision",
+        "Image Processing",
+        "Statistics",
+        "Machine Learning",
+        "Programming",
+        "Simulations"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

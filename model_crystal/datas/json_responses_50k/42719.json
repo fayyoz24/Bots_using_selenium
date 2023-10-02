@@ -1,0 +1,834 @@
+{
+    "profile_id": "surya-nagarajan",
+    "first_name": "Surya",
+    "last_name": "Nagarajan",
+    "sub_title": "Graduate Design for Test Engineer at NXP Semiconductors",
+    "profile_picture": "https://media.licdn.com/dms/image/C5603AQHUpgzo_nyfLQ/profile-displayphoto-shrink_800_800/0/1590932920810?e=1701302400&v=beta&t=oszHjh0iPoLcmyLQKgnQFGkun6YpeXJ5sNwZ9AZrtnk",
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAABYSgkMBlz-hIssMcggrQJFM23EXttVLnYI",
+    "object_urn": 370311747,
+    "birth_date": null,
+    "summary": "Graduate Design for Test Engineer at NXP Semiconductors BV. My interests include Electronic design automation, VLSI Testing and Verification, Computer Architecture and Computer networks. \n\nIn my spare time I find myself learning about anything and everything under and above the sky.",
+    "location": {
+        "country": "Netherlands",
+        "short": "Eindhoven, North Brabant",
+        "city": "Eindhoven",
+        "state": "North Brabant",
+        "default": "Eindhoven, North Brabant, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "English",
+                "proficiency": "PROFESSIONAL_WORKING"
+            },
+            {
+                "name": "Tamil",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ]
+    },
+    "industry": "Semiconductors",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "school": {
+                "name": "Delft University of Technology",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQFwaGpwaod9mQ/company-logo_400_400/0/1670699851986?e=1703721600&v=beta&t=Aw4oLxoKsIJcblYDjxw9200FClnyhZu8DxzcfJRDFOs",
+                "url": "https://www.linkedin.com/school/tudelft/"
+            },
+            "degree_name": "Master's degree",
+            "field_of_study": "Computer Engineering",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "school": {
+                "name": "National Institute of Technology, Tiruchirappalli",
+                "logo": "https://media.licdn.com/dms/image/D560BAQFryFNz3kWsbg/company-logo_400_400/0/1692791347536?e=1703721600&v=beta&t=y6ipPOeyV7YjYsE8JvALsQOlViEPvolALn6HAUks1Xk",
+                "url": "https://www.linkedin.com/school/nittrichy/"
+            },
+            "degree_name": "Bachelor's degree",
+            "field_of_study": "Instrumentation and Control ",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2006
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "school": {
+                "name": "Alpha Wisdom Vidyashram",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "High School",
+            "field_of_study": null,
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "Masters Thesis: Testing Computation-in-Memory Architectures Based on Emerging Memories",
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "description": "Developing and verifying novel test methodology for Computation-In-Memory (CIM) architectures based on emerging memristive technology. Involves defect modelling for the Resistive RAM cells, simulating the architecture, injecting defects, identifying fault space and creating tests for the faults. The project also helped develop a test methodology which could be employed universally to any CIM architecture to test for defects.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Surya",
+                    "last_name": "Nagarajan",
+                    "name": null,
+                    "headline": "Graduate Design for Test Engineer at NXP Semiconductors"
+                }
+            ]
+        },
+        {
+            "title": "Bachelors Thesis: Automatic System for Removal of Artifacts from EEG Signals",
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "description": "Developed a prototype program to extract eye blink artifacts from EEG signals, producing a clean signal for further diagnostics or research. The system was built using MATLAB and incorporates Independent Component Analysis and Hurst exponent of the many signals obtained to identify and filter the eye-blink artifacts. The project was taken for consideration for the Bachelor's thesis at National Institute of Technology, Trichy",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Surya",
+                    "last_name": "Nagarajan",
+                    "name": null,
+                    "headline": "Graduate Design for Test Engineer at NXP Semiconductors"
+                }
+            ]
+        },
+        {
+            "title": "Fingerprint and Iris Authentication System",
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "description": "Developed a low cost working prototype for a finger print and Iris detection authentication system that could be used for multiple purposes. This product was designed as part of the Product Design and Development Course under Mr. Goldin R Bennet at NIT, Trichy.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Surya",
+                    "last_name": "Nagarajan",
+                    "name": null,
+                    "headline": "Graduate Design for Test Engineer at NXP Semiconductors"
+                }
+            ]
+        },
+        {
+            "title": "Design of Control Symbols for Serial RapidIO interconnect",
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "description": "Developed and tested control symbols generated at the physical layer of Serial RapidIO Interconnect, an open standard interconnect architecture for high speed data transfer. The systm was developed using Bluespec Systemverilog. The Developed sub-system would be used in reference SoCs as a part of Shakti Processor Project at the RISE lab, Computer Science and Engineering Department, Indian Institute of Technology, Madras",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Surya",
+                    "last_name": "Nagarajan",
+                    "name": null,
+                    "headline": "Graduate Design for Test Engineer at NXP Semiconductors"
+                }
+            ]
+        },
+        {
+            "title": "Design of Dynamic Reconfigurable Filter Data Cache for Embedded systems",
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "description": "Designed a filter data cache architecture that makes use of a dynamic replacement policy in the L0 cache. It enhances the energy efficiency of the cache system by switching between replacement algorithms and predicting cache misses in advance, thereby optimizing it for embedded applications. The project was undertaken at the Computer Science and Engineering Department of National Institute of Technology, Trichy.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Surya",
+                    "last_name": "Nagarajan",
+                    "name": null,
+                    "headline": "Graduate Design for Test Engineer at NXP Semiconductors"
+                }
+            ]
+        },
+        {
+            "title": "Study on Chip Identification using SRAM PUFs for Embedded Applications",
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "description": "Studied Physical Unclonable Functions in a Static RAM and analyzed the possible applications of the same in embedded systems. Formulated a model for identification of systems using the SRAM physical unclonable functions  that could be used in high fidelity applications such as military firmware updates etc. The study was undertaken at the Computer Science and Engineering Department of National Institute of Technology, Trichy.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Surya",
+                    "last_name": "Nagarajan",
+                    "name": null,
+                    "headline": "Graduate Design for Test Engineer at NXP Semiconductors"
+                }
+            ]
+        }
+    ],
+    "publications": [
+        {
+            "name": "Testing Scouting Logic-Based Computation-in-Memory Architectures",
+            "publisher": "IEEE",
+            "url": "https://doi.org/10.1109/ETS48528.2020.9131604",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2020
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Surya",
+                    "last_name": "Nagarajan",
+                    "name": null,
+                    "headline": "Graduate Design for Test Engineer at NXP Semiconductors"
+                }
+            ]
+        },
+        {
+            "name": "Testing Computation-in-Memory Architectures Based on Emerging Memories",
+            "publisher": "IEEE",
+            "url": "https://doi.org/10.1109/ITC44170.2019.9000117",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2019
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Surya",
+                    "last_name": "Nagarajan",
+                    "name": null,
+                    "headline": "Graduate Design for Test Engineer at NXP Semiconductors"
+                }
+            ]
+        },
+        {
+            "name": "Rebooting Computing: The Challenges for Test and Reliability",
+            "publisher": "IEEE",
+            "url": "https://doi.org/10.1109/DFT.2019.8875270",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2019
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Surya",
+                    "last_name": "Nagarajan",
+                    "name": null,
+                    "headline": "Graduate Design for Test Engineer at NXP Semiconductors"
+                }
+            ]
+        }
+    ],
+    "courses": [
+        {
+            "name": "Computer Arithmetic",
+            "number": "ET4170"
+        },
+        {
+            "name": "High-Tech Start-Ups",
+            "number": "ET4247"
+        },
+        {
+            "name": "Introduction to High Performance Computing",
+            "number": "IN4049TU"
+        },
+        {
+            "name": "Methods and Algorithms for System Design",
+            "number": "ET4054"
+        },
+        {
+            "name": "Modelling and Data Analysis in Complex Networks",
+            "number": "EE4389"
+        },
+        {
+            "name": "Modern Computer Architectures",
+            "number": "ET4074"
+        },
+        {
+            "name": "Network Security",
+            "number": "ET4397IN"
+        },
+        {
+            "name": "Networking",
+            "number": "ET4C06"
+        },
+        {
+            "name": "Performance Analysis",
+            "number": "IN4341"
+        },
+        {
+            "name": "Real-time Systems",
+            "number": "IN4343"
+        },
+        {
+            "name": "VLSI Test Technology and Reliability",
+            "number": "ET4076"
+        }
+    ],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 1088,
+                "name": "NXP Semiconductors",
+                "logo": "https://media.licdn.com/dms/image/C510BAQFopDEhRcpz9g/company-logo_400_400/0/1519855915315?e=1703721600&v=beta&t=eX4VOzxpSqMPm7vRUcHWlZJuKSUSTb8F8TdbyJUHXl8",
+                "url": "https://www.linkedin.com/company/nxp-semiconductors/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Eindhoven, North Brabant, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2020
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "NXP Semiconductors",
+                    "description": null,
+                    "title": "Graduate Design for Test Engineer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 166529,
+                "name": "Technische Universiteit Delft",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQFwaGpwaod9mQ/company-logo_400_400/0/1670699851986?e=1703721600&v=beta&t=Aw4oLxoKsIJcblYDjxw9200FClnyhZu8DxzcfJRDFOs",
+                "url": "https://www.linkedin.com/school/tudelft/",
+                "employees": {
+                    "start": 5001,
+                    "end": 10000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Delft Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "Delft University of Technology",
+                    "description": "Teaching and evaluating assignments for TI3111TU Algorithms and Data structures minor course for bachelors students at TU Delft.",
+                    "title": "Teaching Assistant",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 17881124,
+                "name": "Momo Medical",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQGc5QYQw4W-tA/company-logo_400_400/0/1635518099224?e=1703721600&v=beta&t=PdfiTCtIJxXaABfL_uUlaGu42c8Qmk9RfpHy1l42VVk",
+                "url": "https://www.linkedin.com/company/momo-medical/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Delft Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "Momo Medical",
+                    "description": "Monitoring, testing and development of Embedded software units at different design phases for the Momo Medical system. Work also includes documenting all the development process and ensuring conformity to standards (IEC 62304:2006) and system requirements.",
+                    "title": "Software Quality Assurance Engineer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 17881124,
+                "name": "Momo Medical",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQGc5QYQw4W-tA/company-logo_400_400/0/1635518099224?e=1703721600&v=beta&t=PdfiTCtIJxXaABfL_uUlaGu42c8Qmk9RfpHy1l42VVk",
+                "url": "https://www.linkedin.com/company/momo-medical/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Delft Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2018
+                        }
+                    },
+                    "company": "Momo Medical",
+                    "description": "Developed and tested embedded software units for the Momo Medical system. Included working with test data and manipulating storage unit and data structures. Involved extensive use of C/C++, Python and MATLAB.",
+                    "title": "Algorithm Development Intern",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Balls By Picasso, The English Literary and Debating Society of NIT Trichy",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Tiruchirapalli,Tamil Nadu, India",
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2017
+                        }
+                    },
+                    "company": "Balls By Picasso, The English Literary and Debating Society of NIT Trichy",
+                    "description": "The Treasurer position saw the additional responsibility of handling the monetary funds provided by the institution for club expenses, along with conducting of literary events both inside and outside the university.",
+                    "title": "Treasurer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Indian Institute of Technology, Madras",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2016
+                        }
+                    },
+                    "company": "Indian Institute of Technology, Madras",
+                    "description": "Worked as a research intern at the Reconfigurable and Intelligent systems (RISE) Lab, Under Prof. V. Kamakoti at the Computer Science and Engineering Dept., IIT Madras",
+                    "title": "Research Intern",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 9234254,
+                "name": "Pragyan - NIT Trichy's Technical Fest",
+                "logo": "https://media.licdn.com/dms/image/D560BAQFyhRMSmGokCg/company-logo_400_400/0/1689328027738?e=1703721600&v=beta&t=F7WiyhEr8yquqVzTcpAMu5qn7nYpPQhQiEBPrL4GqAY",
+                "url": "https://www.linkedin.com/company/pragyan.nitt/",
+                "employees": {
+                    "start": 501,
+                    "end": 1000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Trichy",
+                    "date": {
+                        "start": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2016
+                        }
+                    },
+                    "company": "Pragyan - International Techno-managerial Organisation",
+                    "description": "Worked as the Marketing manager at one of India's largest student run Techno-management Organization from May 2015 to March 2016. The position involved corporate and student relation activities pertaining to the festival run by the organization, including sponsorship associations and event management.",
+                    "title": "Marketing Manager",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Pragyan Guest Lectures",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Trichy",
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2014
+                        },
+                        "end": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2015
+                        }
+                    },
+                    "company": "Pragyan Guest Lectures",
+                    "description": "Worked as the Deputy Manager for the Guest lectures at Pragyan'15.  The position involved organizing and handling of public relations for 8 Guest lectures during the techno-managerial fest",
+                    "title": "Deputy Manager",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [
+        {
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "role": "Volunteer",
+            "company": {
+                "id": null,
+                "name": "National Service Scheme",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQEJ6yAnaG3CtQ/company-logo_400_400/0/1519905766959?e=1703721600&v=beta&t=bOYlSrtUDCTWZfJLPJo6-cgJZAhSi84OhTIYzJOhGik",
+                "url": "https://www.linkedin.com/company/national-service-scheme/"
+            },
+            "cause": "ENVIRONMENT",
+            "description": "Volunteered at Annai Old age home and Orphanage as a part of NSS activity at School"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "role": "Volunteer",
+            "company": {
+                "id": null,
+                "name": "National Service Scheme",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQEJ6yAnaG3CtQ/company-logo_400_400/0/1519905766959?e=1703721600&v=beta&t=bOYlSrtUDCTWZfJLPJo6-cgJZAhSi84OhTIYzJOhGik",
+                "url": "https://www.linkedin.com/company/national-service-scheme/"
+            },
+            "cause": "ENVIRONMENT",
+            "description": "Volunteered for NSS at Alpha Wisdom Vidyashram,Trichy for cleaning the Neighborhood as part of Cleanliness Initiative. "
+        },
+        {
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "role": "Volunteer",
+            "company": {
+                "id": null,
+                "name": "National Service Scheme",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQEJ6yAnaG3CtQ/company-logo_400_400/0/1519905766959?e=1703721600&v=beta&t=bOYlSrtUDCTWZfJLPJo6-cgJZAhSi84OhTIYzJOhGik",
+                "url": "https://www.linkedin.com/company/national-service-scheme/"
+            },
+            "cause": "HEALTH",
+            "description": "Volunteered at the Free Eye check up camp held at the National Institute of Technology, Trichy."
+        }
+    ],
+    "skills": [
+        "Embedded Systems",
+        "Memory Test",
+        "Software Development",
+        "Event Management",
+        "Social Media Marketing",
+        "Research",
+        "Programming",
+        "Social Media",
+        "Event Planning",
+        "Marketing",
+        "Very-Large-Scale Integration (VLSI)",
+        "Scrum",
+        "Agile Methodologies",
+        "Software Development Life Cycle (SDLC)",
+        "Microsoft Excel",
+        "Microsoft Office",
+        "C",
+        "PowerPoint",
+        "Python",
+        "Microsoft Word"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

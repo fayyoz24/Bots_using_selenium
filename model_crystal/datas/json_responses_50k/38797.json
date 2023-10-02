@@ -1,0 +1,637 @@
+{
+    "profile_id": "elenadominguezromero",
+    "first_name": "Elena",
+    "last_name": "Dominguez",
+    "sub_title": "Data Engineer",
+    "profile_picture": null,
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAAAOdofQB7wc4cuIb1nuMJ2vRKVS2SfbXkXE",
+    "object_urn": 60662260,
+    "birth_date": null,
+    "summary": "With 10 years experience in Big Data technologies and 17 years experience in development (mainly Java, but also a bit of C++) I am fully committed in developing robust secure scalable and easy to maintain applications.\n\nI care about the product, the users and I like to have things done.\n\nCurrently working with Google Cloud technologies: BigQuery, Google Storage, Compute Engine, Dataflow, Airflow (Composer), BigTable, Functions.",
+    "location": {
+        "country": "Netherlands",
+        "short": "Amsterdam, North Holland",
+        "city": "Amsterdam",
+        "state": "North Holland",
+        "default": "Amsterdam, North Holland, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "ES",
+            "language": "es"
+        },
+        "supported_locales": [
+            {
+                "country": "ES",
+                "language": "es"
+            },
+            {
+                "country": "FR",
+                "language": "fr"
+            },
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "Espa\u00f1ol",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "Franc\u00e9s",
+                "proficiency": "FULL_PROFESSIONAL"
+            },
+            {
+                "name": "Ingl\u00e9s",
+                "proficiency": "FULL_PROFESSIONAL"
+            },
+            {
+                "name": "Neerland\u00e9s",
+                "proficiency": "ELEMENTARY"
+            }
+        ]
+    },
+    "industry": "Information Technology & Services",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2006
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2010
+                }
+            },
+            "school": {
+                "name": "Universitat Oberta de Catalunya",
+                "logo": "https://media.licdn.com/dms/image/D4D0BAQEyUV6w_gu7xw/company-logo_400_400/0/1694764810887?e=1703721600&v=beta&t=mN6qXL7T8m_vPvX-gJsAgt8kL3L3hi49RW0rN-YH9_M",
+                "url": "https://www.linkedin.com/school/uoc/"
+            },
+            "degree_name": "Ingenier\u00eda Superior en Inform\u00e1tica",
+            "field_of_study": "Inform\u00e1tica",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2001
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2005
+                }
+            },
+            "school": {
+                "name": "Universidad Pontificia de Salamanca",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQG-cnCSPX4QJw/company-logo_400_400/0/1618831404053?e=1703721600&v=beta&t=ZAdQ1faO1H28uKUoYdE09fZFDD2bGGuAncSmZl1coVQ",
+                "url": "https://www.linkedin.com/school/universidad-pontificia-de-salamanca/"
+            },
+            "degree_name": "Ingenier\u00eda T\u00e9cnica en Inform\u00e1tica de Sistemas",
+            "field_of_study": "Inform\u00e1tica",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 1999
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2001
+                }
+            },
+            "school": {
+                "name": "IES Claudio Moyano",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "T\u00e9cnico Superior en Administraci\u00f3n de Sistemas Inform\u00e1ticos",
+            "field_of_study": "Inform\u00e1tica",
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "Hadoop On The Road: Personal Project",
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "description": "Studying Hadoop technologies and its ecosystem in order to write the exposure blog: http://hadoopontheroad.blogspot.com. Contents of this website aims to be both theory and practical.\n\nInstallation of a Hadoop environment on a Mac computer and setup of a pseudo-distributed cluster.\nWorking with HDFS file system through command line and Java API.\n\nExplaining how to create an Eclipse project for Hadoop and how to use the Hadoop plug-in for native MapReduce projects.\n\nDeveloping many examples using different Hadoop features (InputFormats, SequenceFiles, WritableComparable, etc.).\n\nStudying the ecosystem: Pig, Hive, Sqoop, Avro, etc.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Elena",
+                    "last_name": "Dominguez",
+                    "name": null,
+                    "headline": "Data Engineer"
+                }
+            ]
+        }
+    ],
+    "publications": [],
+    "courses": [
+        {
+            "name": "Cloudera Apache Spark (3 days)",
+            "number": null
+        },
+        {
+            "name": "Cloudera Data Analyst (3 days)",
+            "number": null
+        },
+        {
+            "name": "Cloudera Developer for Apache Hadoop (4 days)",
+            "number": null
+        },
+        {
+            "name": "Project Management Professional (PMP) Training Course",
+            "number": null
+        },
+        {
+            "name": "Web Intelillence and Big Data (10 weeks online course on Coursera). Indian Institute of Technology Delhi",
+            "number": null
+        }
+    ],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 11699,
+                "name": "bol.com",
+                "logo": "https://media.licdn.com/dms/image/C560BAQHxdrFFwmdbMQ/company-logo_400_400/0/1560243954004?e=1703721600&v=beta&t=pBk74F4OFWSJ8kFfQcPhPe6UbiE5oX-g_1IlfFeF5Bw",
+                "url": "https://www.linkedin.com/company/bol-com/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Utrecht, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "bol.com",
+                    "description": null,
+                    "title": "Data Engineer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 12568,
+                "name": "RIPE NCC",
+                "logo": "https://media.licdn.com/dms/image/C510BAQFEOEtndgtKYw/company-logo_400_400/0/1519856513472?e=1703721600&v=beta&t=7aXRsvffEidGhmd3Fm7aDUS-18hJoROVGG8opCkL9bQ",
+                "url": "https://www.linkedin.com/company/ripe-ncc/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "\u00c1msterdam y alrededores, Pa\u00edses Bajos",
+                    "date": {
+                        "start": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "RIPE NCC",
+                    "description": "I work on data collection, transformation and processing in order to offer to our users information as much structured as possible alongside the Ripe NCC researchers.\n\nCurrently working on a prototype moving data currently stored in HDFS and difficult to access for analytical purpose into Google Cloud in order to offer a fast and flexible access to the data to researchers.\nWorking BigQuery or Google Cloud Storage. And other technologies used on the prototype: Airflow (Cloud Composer), Dataflow, BigTable, Compute Engine, Google Functions, Kafka.\n- Project definition and roadmap.\n- Feasibility study and budget.\n- Aligning stakeholders.\n\n\nI am responsible of the development and maintenance of the different projects based on hadoop/big data technologies managing Internet related data (http://atlas.ripe.net and http://ris.ripe.net).\n\n- Several clusters with more than 150 machines\n- Hadoop technologies: mapreduce, pig, hbase.\n- Real time consumming technologies: Kafka, RabbitMq\n- Maintenance and improvement of data quality and storage.\n- Migration of old pig jobs to other technologies.\n- Supporting other team members and groups.\n- Defining and planning new prototypes.\n- Google Cloud technologies: BigQuery, Compute Engine, Storage.\n- Java, Hadoop, mapreduce, pig, hbase, Kafka, Kafka streams.",
+                    "title": "Data Engineer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1011488,
+                "name": "Pragsis",
+                "logo": "https://media.licdn.com/dms/image/C560BAQEgpoTf3QkhXQ/company-logo_400_400/0/1568119358200?e=1703721600&v=beta&t=kmoZG9q1lKDQt7DtgSMZXR1VcRvwyczWoCDmJPU0FCs",
+                "url": "https://www.linkedin.com/company/pragsis/",
+                "employees": {
+                    "start": 201,
+                    "end": 500
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Madrid y alrededores, Espa\u00f1a",
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2014
+                        },
+                        "end": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2015
+                        }
+                    },
+                    "company": "Pragsis Bidoop",
+                    "description": "Hadoop/Big Data Analyst in Pragsis working in internal projects.\nBidoop is a Pragsis framework with several layers to operate with BigData through the Hadoop Ecosystem with an ETL (data extraction, validation, transformation and load), an event engine (CEP) and a workflow engine for a more efficient data treatment. \nBidoop implements multiple Hadoop Ecosystem technologies: Hbase, flume, Hive, Sqoop, MapReduce, HDFS.\nCloudera Hadoop CDH4 and CDH51\nLocal environment for MRUnit testing and pseudodistributed environment in a virtual machine.\nJava, eclipse, maven.\n\n3 days Spark training developing exercises with Scala.\n01/08/2014 - 30/09/2014: Developing a new Event Engine with Spark technology (Scala), connecting with Hbase, and Tachyon as data persistence.\nInstallation and configuration of Spark and Tachyon in a 3 nodes cluster (MapR).\n\nSince 1/10/2014: Location Tracking project. Geolocation system in real time using wifi devices and further analysis of the data (charts visualization). Developed with Spark (Java). \nStoring data in HBase and Hive.\nExecution and testing in a 3 nodes cluster (Cloudera CDH5)\n\n4 days Hadoop for Developers training.",
+                    "title": "Hadoop / Big Data Analyst",
+                    "employment_type": null
+                },
+                {
+                    "location": "Madrid y alrededores, Espa\u00f1a",
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2013
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2014
+                        }
+                    },
+                    "company": "Pragsis Bidoop",
+                    "description": "Hadoop/Big Data Analyst in GFT developing scalable ETL for Deutsche Bank. 8 people team.\n\nHadoop Ecosystem and Big Data technologies.\n\nDesinging and implementing the project architecture.\nMap/Reduce paradigm.\nCloudera Hadoop CDH4.\nOozie, Hive\nTesting and execution in a distributed cluster with 10 nodes.\nHadoop implementations as MultipleInputFormats, MultipleOutputFormats, SequenceFiles, Partitioner, Combiner, custom InputFormat and RecordReader.\nUsing FileSystem for the treatment of files in HDFS\nMRUnit for unit testing\nXML and XSLT treatment (Mapforce).\nEclipse, Java, Maven",
+                    "title": "Hadoop / Big Data Analyst",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Acciona Infraestructuras",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Madrid y alrededores, Espa\u00f1a",
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2011
+                        },
+                        "end": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2013
+                        }
+                    },
+                    "company": "Acciona Infraestructuras",
+                    "description": "Ogre 3D engine based development. \nDevelopment in C++, Action Script 3, Flash.\nMicrosoft Visual Studio 2008.\nDrafting of minutes of meetengs and proposals.",
+                    "title": "Modeling and virtual reality laboratory",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "CTI",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2010
+                },
+                "end": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2011
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Madrid y alrededores, Espa\u00f1a",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2010
+                        },
+                        "end": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2011
+                        }
+                    },
+                    "company": "CTI",
+                    "description": "Finance and Insurance Sector. 20 people team.  \nComputer services for the management of credit defaults and recoveries.\n\t10/2010 - 09/2012: 4\u00aa L\u00ednea Project: \nSystem for managing payments and defaults among companies: Management and recoveries.\nThe project consists of severan sub-projects:\n10/2010 \u2013 10/2011: Informa con Recobro (Report to recovery): Project in collaboration with Informa D&B to attract customers.. \nAnalysis, developpment and documentation. \n\tJava/J2EE, JSF (RichFaces), Hibernate, hql, Spring, WebServices Axis (client and server), eclipse, TomCat 6.\n10/2011 - 09/2012: Gesti\u00f3n de Cobros (Collection Management): Development for CESCE (company of the group) of the new application for managing defaults. \nAnalysis, functional definition, development. \nWriting documentation.\n\tJava, J2EE, Flex (Action Script), spring, hibernate, hql, eclipse, TomCat 6, Toad.\n\n\t06/2010 \u2013 10/2010: Project for San Andr\u00e9s de Negocios costumer:\nApplication for managing business transactions and administrative tasks for a major food company.\nProject evolutionary and corrective.\nAnalysis and development according to costumer specifications. \nJava/J2EE, JSP, struts, PL/Sql, Sql, eclipse, TomCat 6, oracle 9.",
+                    "title": "Analista Programador",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 26774,
+                "name": "CECA",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQGYONF7LOLs7A/company-logo_400_400/0/1519856581280?e=1703721600&v=beta&t=6aLc1u88nPJPlyiEymcglR3zD7I7f66EWh-M30JeDj4",
+                "url": "https://www.linkedin.com/company/ceca/",
+                "employees": {
+                    "start": 201,
+                    "end": 500
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2009
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2009
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Madrid y alrededores, Espa\u00f1a",
+                    "date": {
+                        "start": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2009
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2009
+                        }
+                    },
+                    "company": "Cecabank",
+                    "description": "Financial Company. 6 people in web development team. \n\tSemi-public company that provides services to Spanish savings banks.\n\tBroker 2 Project: Development of online financial broker. \nMigration of the first version of the broker to a completely new website.\nAnalysis and development of new modules according to customer specifications.\nDevelopment and maintenance of the Real-time market data ETL.\n\tJava/J2EE, eclipse, spring, hibernate, freemarker, indexing Solr, TomCat 6, oracle 9, toad, ant, cvs.",
+                    "title": "Analista Programador",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 104284,
+                "name": "Mutua Madrile\u00f1a",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQEpUFyLZjxWQw/company-logo_400_400/0/1606151528017?e=1703721600&v=beta&t=jFCGPriY35a8TYK-utoXYz5VavPSeiyPkOWtNBRri6g",
+                "url": "https://www.linkedin.com/company/mutua-madrilena/",
+                "employees": {
+                    "start": 5001,
+                    "end": 10000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2008
+                },
+                "end": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2009
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Madrid y alrededores, Espa\u00f1a",
+                    "date": {
+                        "start": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2008
+                        },
+                        "end": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2009
+                        }
+                    },
+                    "company": "Mutua Madrile\u00f1a",
+                    "description": "Health and insurance company. 5 people in web development team.\n\t\u201cHealth\u201d department.\nWriting an installation guide for new developers reducing 50% the installation time. \nAnalysis and development of applications both  intranet and extranet for: process simulation of hiring policies, pricing it and purchase it.\nDevelopment of a doctor geolocation system on Spanish territory with Google technology.\nmanagement, supervision and trainig of 3 people. \nJava, servlets, struts, RAD (Rational Application Developer), WAS, framework SEA, Ajax, dwr, SQL, Sql Server, Informix, Db2 Database. Version control Harvest.",
+                    "title": "Analista Programador",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 4860,
+                "name": "BBVA",
+                "logo": "https://media.licdn.com/dms/image/D4D0BAQEDJHxl5VfP_Q/company-logo_400_400/0/1695116166895?e=1703721600&v=beta&t=r3rcFh0e2KFba_F30xBb4JHMgPQN9rP9HaHxHr5Bo5k",
+                "url": "https://www.linkedin.com/company/bbva/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2007
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2008
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Madrid y alrededores, Espa\u00f1a",
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2007
+                        },
+                        "end": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2008
+                        }
+                    },
+                    "company": "BBVA",
+                    "description": "01/2008 \u2013 02/2008: DNI-e: Calculation of the electronic signature that enables secure access to online banking from DNI-e (spanish electronic ID).\nActiveX development\n\tVisual Basic 6, electronic signatures and certificates.\n\n08/2007 \u2013 01/2008: PassTicket: Draft secure access to the host area by calculating a code encrypted. The code is sent through a webservice.\nAnalysis, development and writing of documentation.\n\tJava, RAD (Rational Application Developer), Web Services, Axis, Tomcat 6.",
+                    "title": "Analista Programador",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 3054,
+                "name": "Sopra Group",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQF_0JqR2CRpJw/company-logo_400_400/0/1688571542920?e=1703721600&v=beta&t=gZL9RZy0oA73vtDXB7XbEGV5RG7tv3BqD8AXBZbsT3I",
+                "url": "https://www.linkedin.com/company/soprasteria/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2005
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2007
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Madrid y alrededores, Espa\u00f1a",
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2005
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2007
+                        }
+                    },
+                    "company": "Sopra Steria",
+                    "description": "ANPE (Agence Nationale Pour l'Emploi ): International project for french public administration: Search employment website in France. Team over 30 people in Madrid and 10 people in Par\u00eds.\nAnalysis, development, unit testing, planning, scheduling estimate. \nModule responsible (analysis, estimates and development): job search through a ROME code (ANPE code standings).\n\tJava, J2EE, Struts, EJBs, JSP, Eclipse, TOAD, Bea Weblogic.",
+                    "title": "Programadora Junior / Senior",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Eclipse",
+        "Spring",
+        "JSP",
+        "Struts",
+        "Tomcat",
+        "Hibernate",
+        "PL/SQL",
+        "Java",
+        "Visual Basic",
+        "SQL",
+        "JavaScript",
+        "Hadoop",
+        "C++",
+        "Visual C++",
+        "OGRE",
+        "Qt",
+        "Qt Creator",
+        "Apache",
+        "MapReduce",
+        "XML"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

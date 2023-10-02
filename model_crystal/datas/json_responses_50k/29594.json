@@ -1,0 +1,322 @@
+{
+    "profile_id": "arinasoboleva",
+    "first_name": "Arina",
+    "last_name": "Soboleva",
+    "sub_title": "PhD candidate at Health@TPM project at TU Delft",
+    "profile_picture": "https://media.licdn.com/dms/image/C4D03AQGsu9sK17Kulg/profile-displayphoto-shrink_800_800/0/1635320057564?e=1701302400&v=beta&t=Lb5__svQVEwnt2e_UaHSIVkeg_awPEjZx3gzFmZuEvA",
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAADICkI0BVzklu__nyYUdycVrnDKs0X1Q088",
+    "object_urn": 839028877,
+    "birth_date": null,
+    "summary": "I am a PhD candidate at Health@TPM project at TU Delft. My research focuses on trade-off between patient-centered and population-centered approaches in Healthcare Systems. I apply data-driven mathematical modelling to assess the effect of therapeutic and non-therapeutic interventions to benefit a single patient, group of patients or population in whole.\nI received a bachelor degree in Applied Math and Physics. After this I switched focus on biological and medical implementations and graduated from Systems Biology Master program at Maastricht University. In my master thesis I assessed the fit of the mathematical model of advanced cancer to in vitro and in vivo data, performed comparison with different models and evaluated biological interpretability of the model.",
+    "location": {
+        "country": "Netherlands",
+        "short": "Delft, South Holland",
+        "city": "Delft",
+        "state": "South Holland",
+        "default": "Delft, South Holland, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "RU",
+            "language": "ru"
+        },
+        "supported_locales": [
+            {
+                "country": "RU",
+                "language": "ru"
+            },
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "English",
+                "proficiency": "PROFESSIONAL_WORKING"
+            },
+            {
+                "name": "Russian",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ]
+    },
+    "industry": "Biotechnology",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "school": {
+                "name": "Maastricht University",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQFA1gR1FvG8aQ/company-logo_400_400/0/1588059465102?e=1703721600&v=beta&t=5E9Moi4Han_VxrPz2BT0jDZmVl8Q-Rn0ESe1JTXGjLA",
+                "url": "https://www.linkedin.com/school/maastricht-university/"
+            },
+            "degree_name": "Master's degree",
+            "field_of_study": "Systems Biology",
+            "grade": "8,07 / 10"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "school": {
+                "name": "Moscow Institute of Physics and Technology (State University) (MIPT)",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQEBw1Y3fw-u1Q/company-logo_400_400/0/1519894764305?e=1703721600&v=beta&t=6vcnn2WICA_5eeBOCnWB9e1q7nPK-3jqRTpdXscJDa8",
+                "url": "https://www.linkedin.com/school/moscowinstituteofphysicsandtechnology/"
+            },
+            "degree_name": "Bachelor's degree",
+            "field_of_study": "Applied Mathematics",
+            "grade": "4.5 / 5"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "school": {
+                "name": "Harvard University",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQF5t62bcL0e9g/company-logo_400_400/0/1519855919126?e=1703721600&v=beta&t=oCdUG2_J1Ydvg6LBhkQMo8Bv3ryqsv5hVnCoImuRhpc",
+                "url": "https://www.linkedin.com/school/harvard-university/"
+            },
+            "degree_name": "Summer School ",
+            "field_of_study": null,
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [
+        {
+            "title": "Maastricht University Holland-High Potential scholarship",
+            "description": "The Maastricht University (UM) Holland-High Potential Scholarship programme offers 24 full scholarships each academic year for highly talented students from outside the European Union (EU) who have been admitted to a Master\u2019s programme at UM.",
+            "issuer": "Dutch Ministry of Education, Culture and Science-Maastricht University Scholarship Fund",
+            "date": {
+                "month": 9,
+                "day": null,
+                "year": 2020
+            }
+        }
+    ],
+    "certifications": [],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "Evaluation of the polymorphic Gompertzian model of advanced cancer on in vitro and in vivo data",
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "description": "In this Master thesis project I\n- Performed data analysis of experimental and clinical data on cancer development\n- Implemented the Gompertzian model of cancer growth to description of real-world data \n- Statistically analyzed distribution of the model parameters and fitting errors",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Arina",
+                    "last_name": "Soboleva",
+                    "name": null,
+                    "headline": "PhD candidate at Health@TPM project at TU Delft"
+                }
+            ]
+        },
+        {
+            "title": "Investigating tinnitus development based on the mathematical model of auditory cortex",
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "description": "- Extended existing mathematical model of auditory cortex\n- Evaluated differences of the model's prediction in healthy and hearing loss cases\n- Biologically interpreted observed results",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Arina",
+                    "last_name": "Soboleva",
+                    "name": null,
+                    "headline": "PhD candidate at Health@TPM project at TU Delft"
+                }
+            ]
+        },
+        {
+            "title": "Evaluation of thyroid hormone pathways\u2019 role in Dilated Cardiomyopathy based on gene expression data",
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "description": "- Performed a differential expression analysis, GO Analysis and KEGG GSEA to determine which biological processes and pathways differ in expression in the hearts of DCM  patients\n- Explored biological interpretation of the observed differences in the gene expression",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Arina",
+                    "last_name": "Soboleva",
+                    "name": null,
+                    "headline": "PhD candidate at Health@TPM project at TU Delft"
+                }
+            ]
+        },
+        {
+            "title": "Mathematical modeling of HIV-1 replication and interferon response",
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "description": "Bachelor thesis project, in which I\n- Conducted literature analysis and synthesized literature review in related area: analyzed and synthesized more than 20 highly-cited research papers.\n- Modeled HIV-1 dynamics based on open research data using differential equations",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Arina",
+                    "last_name": "Soboleva",
+                    "name": null,
+                    "headline": "PhD candidate at Health@TPM project at TU Delft"
+                }
+            ]
+        }
+    ],
+    "publications": [],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 37196441,
+                "name": "TU Delft | Technology, Policy and Management",
+                "logo": "https://media.licdn.com/dms/image/C560BAQHepEMAkAyzbg/company-logo_400_400/0/1639249471886?e=1703721600&v=beta&t=urTVaVYsvHG_bRYxpMS2h1ysGXJIKJhFSzwGr3Y4DqA",
+                "url": "https://www.linkedin.com/school/tu-delft-technology-policy-and-management/",
+                "employees": {
+                    "start": 201,
+                    "end": 500
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "TU Delft | Technology, Policy and Management",
+                    "description": null,
+                    "title": "PHD Candidate",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [
+        {
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "role": "Coordinator of Student Services",
+            "company": {
+                "id": null,
+                "name": "Department of Applied Mathematics & Physics (MIPT)",
+                "logo": null,
+                "url": null
+            },
+            "cause": null,
+            "description": "- Launched a student organization from scratch. Developed support programs based on student needs and in coordination with the Department organization committee.\n- Specified requirements for a \u2018student advisor\u2019 position and selected the candidates accordingly.\n- Developed and delivered training programs for student advisors.\n- Organized event calendar and programming for first-year students. Supervised events organization from idea-development, to sponsor recruitment and catering."
+        }
+    ],
+    "skills": [
+        "Python (Programming Language)",
+        "R (Programming Language)",
+        "Computational Mathematics",
+        "Mathematical Modeling",
+        "Research",
+        "LaTeX",
+        "English"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

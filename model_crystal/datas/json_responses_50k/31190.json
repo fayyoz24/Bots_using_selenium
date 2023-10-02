@@ -1,0 +1,884 @@
+{
+    "profile_id": "ronaldkleijn",
+    "first_name": "Ronald",
+    "last_name": "Kleijn",
+    "sub_title": "Technical Architect at SAP",
+    "profile_picture": "https://media.licdn.com/dms/image/C4E03AQFtep6sPjXHVg/profile-displayphoto-shrink_800_800/0/1516231002884?e=1701302400&v=beta&t=DuTzdf-DmtS46misgKMNGArT5bl4oERDGscnduGbgmc",
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAAAAJmXcBLL8nar3UAjDu2xvUdabegrkUrtQ",
+    "object_urn": 629111,
+    "birth_date": null,
+    "summary": "Ronald Kleijn is a hands-on SAP Business Technology Platform Expert. He combines experience in SAP development and extensive knowledge of the SAP platform to find the best-fit solutions for customers.",
+    "location": {
+        "country": "Netherlands",
+        "short": "Amsterdam, North Holland",
+        "city": "Amsterdam",
+        "state": "North Holland",
+        "default": "Amsterdam, North Holland, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "Dutch",
+                "proficiency": null
+            },
+            {
+                "name": "English",
+                "proficiency": null
+            }
+        ]
+    },
+    "industry": "Information Technology & Services",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 1998
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2004
+                }
+            },
+            "school": {
+                "name": "Rotterdam School of Management, Erasmus University",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQGxI95CurHtdA/company-logo_400_400/0/1657183585379?e=1703721600&v=beta&t=aCXWkOkWMdJMHXNL9Vddw4uRJ-HP4LalJ3pi7y5Ok9A",
+                "url": "https://www.linkedin.com/school/rotterdam-school-of-management-erasmus-university/"
+            },
+            "degree_name": "MSc",
+            "field_of_study": "Business Administration / Information Management",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 1995
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 1998
+                }
+            },
+            "school": {
+                "name": "Shanghai American School",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": null,
+            "field_of_study": null,
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [
+        {
+            "title": "SAP IoT challenge EMEA Winner 2016",
+            "description": "The result of the collaboration with SAP NL was winning the SAP IoT challenge award 2016. The IoT watercase was presented and was well received.",
+            "issuer": "SAP",
+            "date": {
+                "month": 2,
+                "day": null,
+                "year": 2016
+            }
+        },
+        {
+            "title": "Finalist @ DemoJam - SAP TechEd 2015",
+            "description": "It wat time for a new approach to the handling of lost and found at a railway company. Augmented Lost & Found is an interactive solution that uses the power of HANA and SAP, and also uses non-SAP products. The application uses RFID (Radio Frequency Identification) and an automatic categorization of lost items, so they can quickly and easily be analysed. Customers can search for lost objects through a SAPUI5 app, which is optimally displayed on mobile phones, tablets and laptops. Also it included a augmented display on which the lost&found object were projected which gave customers a 360 degree view of the items. This was presented during the DemoJam @ SAP TechEd 2015 in Barcelona. The DemoJam is a demo competition showcasing the creativity, passion and skills of all software developers. The rules are: max 6 minutes, max 2 presenters, no slides, no sales presentations, only running code presented live and at least one SAP technology in the mix. \n\nReference Material:\t \nDemoJam, Teched 2015 Barcelona: http://events.sap.com/teched/en/session/13844",
+            "issuer": "SAP",
+            "date": {
+                "month": 11,
+                "day": null,
+                "year": 2015
+            }
+        },
+        {
+            "title": "Finalist @ DemoJam - SAP TechEd 2008",
+            "description": "As part of an internal Research&Development the possibilities were explored in combining open source with SAP NetWeaver Technology. This to combine the best of both worlds. The stable SAP NetWeaver platform at the one end and the flexibility in design and possibility of adding Web 2.0 functionality using open source solutions at the other end. One of the biggest milestones of this internal project was the second place in the DemoJam of TechEd 2008 in Berlin. In 2 weeks Web 2.0 open source functionality was combined with the SAP Enterprise Portal. DemoJam is a demo competition showcasing the creativity, passion and skills of all software developers. The rules are: max 6 minutes, max 2 presenters, no slides, no sales presentations, only running code presented live and at least one SAP technology in the mix. \n\nContinuing on this experience a marketable solution was developed which was implemented at the first customer, USG people\n\nReference Material:\t \nThe milestone of this project can be seen here (DemoJam, Teched 2008 Berlin): http://www.youtube.com/watch?v=qGEfif4-czc.\n",
+            "issuer": "SAP",
+            "date": {
+                "month": 11,
+                "day": null,
+                "year": 2008
+            }
+        }
+    ],
+    "certifications": [],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "SuikerUnie - IoT Case (Smart Sugar Beet)",
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "description": "Responsibilities:\n- Define the technical and software architecture of the solution.\n- Supporting in liaising with LoRa network provider (KPN)\n- Configuring and setting up the LoRa sensors based on the client requirements\n- Develop the HANA Cloud Platform backend application to support the solution\n- Design and liaise with the client to get the right design for the SAPUI5 dashboard\n- Support / Coordinate the team on other frontend and HANA developments\n\nEnvironment:\nSAP HANA Cloud Platform, SAPUI5, LoRa (KPN), LoRa sensors, HANA\n\nDescription:\nFrom September until March of every year SuikerUnie is in a critical process where it receives the sugar beets from the farmers and has to process it in massive volume to produce sugar for its clients. SuikerUnie is looking at improving their insight into the progress of the process but also in the quality of the beets. Currently this requires a lot of manual/visual work. They are looking at IoT to help them better measure and analyse the quality of the beets and better understand how much of the crops have been harvested. This project is the first to understand what the capabilities are of the technology available. It will provide insight in which plots of land have been harvested and how long and at what temperature the sugar beets have been waiting before they were picked up. This information is provided to SuikerUnie in real time so that it gives instant insight in the current state of the sugar beets. ",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Ronald",
+                    "last_name": "Kleijn",
+                    "name": null,
+                    "headline": "Technical Architect at SAP"
+                }
+            ]
+        },
+        {
+            "title": "Dummen Orange - DOPA",
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "description": "Responsibilities:\n-\tProvide technical support for basis and infrastructure to understand the requirements on the existing landscape. \n-\tDesigning the technical architecture of the solution. \n-\tLiaise with the Development Center in Lviv for Front-End development\n-\tSetup the HANA Cloud Platform\n-\tDevelop HANA Cloud Platform backend components. \n\nEnvironment:\nSAP HANA Cloud Platform, PAT (ERP solution)\n\nDescription:\nDummen Orange produces flowers. It covers the full supply chain, which includes, production, breeding and sales of the flowers. As part of their continuous improvement of the software to support the business they have decided to replace the old FIKAS tool for a new web based alternative. They have chosen to utilize the SAP HANA Cloud Platform for this  to build a complete cloud solution which integrates with the on-premise ERP system, PAT. The primary goal of the solution is to support in the process of creating sales orders. This go further than just the creation of the order but requires to understand the requirement of each customer and also the planning of the sales orders as to assure the production meets the demand.  Customers will also be allowed access to validate their details and the sales orders they have placed. ",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Ronald",
+                    "last_name": "Kleijn",
+                    "name": null,
+                    "headline": "Technical Architect at SAP"
+                }
+            ]
+        },
+        {
+            "title": "Internal Research&Development project",
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "description": "Responsibilities:\n- Configure and setup the LoRa sensors and gateways to connect to third party suppliers, Loriot and The Things Network (open source).\n- Develop integration between the third party suppliers and the SAP HANA Cloud Platform.\n- Develop a SAPUI5 dashboard to display the sensor data.\n\nEnvironment:\n- SAP HANA Cloud Platform, SAPUI5, Loriot (Websockets), The Things Network (MQTT), LoRa gateway, LoRa sensors\n\nDescription:\n  As the interest for Internet of Things is growing, clients are starting to look at how to\nimplement this in their existing business processes. However it was noticed that defining concrete use cases was difficult for clients. To support/stimulate this process the idea of the IoT starterkit was born. It would provide an out-of-the-box local sensor network and demo sensors, which could be utilized as part of executing proof-of-concepts with or by clients. The starterkit is developed and configured in such a way that it is plug and play utilizing existing industry grade sensor network technology (LoRa).",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Ronald",
+                    "last_name": "Kleijn",
+                    "name": null,
+                    "headline": "Technical Architect at SAP"
+                }
+            ]
+        },
+        {
+            "title": "Alliander - Multiple projects",
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "description": "Responsibilities:\t\n-\tDevelop a custom Fiori Client using the Kapsel SDK to support the specific security requirements for both the Android and iOS platform. \n-\tAdvise and support the ABAP and Mobile development team in gaining experience with SAPUI5 development. \n-\tAdvise and support the ABAP development team in developing HANA XS applications. \n-\tDesign an alternative security infrastructure and approach to discontinue the current specific security setup. \n\nEnvironment:\t\nSAP ECC, SAP Mobile Platform, SAP Fiori Client, SAP HANA\n\nDescription:\t\nAlliander is a utilities company that has defined mobility as a primary goal for 2015 and 2016. As SAP is the primary technology vendor for Alliander it was decided to utilize SAP Fiori in combination with the Fiori Client to meet the business requirements. Aside from the mobility goals Alliander is looking at utilizing the SAP HANA platform as the main development platform. ",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Ronald",
+                    "last_name": "Kleijn",
+                    "name": null,
+                    "headline": "Technical Architect at SAP"
+                }
+            ]
+        },
+        {
+            "title": "Air New Zealand",
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2011
+                }
+            },
+            "description": "Responsibilities:\t\n-\tSetting up and preparing a SAP portal training environment.\n-\tPrepare all training material.\n-\tProvide training on-site to the IT support organization of Air New Zealand\n-\tAs part of the training discuss the internal usage of their internal SAP Portal and advise them on improvements and next steps in their SAP Portal Strategy both for internal and external use. \n\nDescription:\t\nAir New Zealand has been using the SAP Portal in both internal and external scenarios. The IT organization wanted to improve especially the usage and usability of the portal by first getting a better understanding both technically and functionally of the SAP Portal capabilities. As part of this training the Air New Zealand SAP Portals were discussed and analyzed to provide advice on improvements and next steps. \n",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Ronald",
+                    "last_name": "Kleijn",
+                    "name": null,
+                    "headline": "Technical Architect at SAP"
+                }
+            ]
+        },
+        {
+            "title": "Luxottica  - SAP CRM",
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2011
+                }
+            },
+            "description": "Responsibilities:\t\n-\tDeveloping and finalizing the batch processes which included cleansing and matching of data before updating the data in SAP CRM 7.0\n-\tAssisting/Troubleshooting the TREX setup in combination with SAP CRM 7.0. \n\nEnvironment:\t\nSAP CRM, SAP Business Objects Data Services, SAP BW\n\nDescription:\t\nThe project focused on implementing SAP CRM 7.0. As an add-on to the standard search capabilities of CRM, TREX was used as the segmentation search engine to support high volume of data. As part of this implementation the existing SAP BW was used to aggregate and provide reporting functionality on the CRM data. The actual reporting was done using Business Objects on the basis of the SAP BW data. For migrating and importing data into SAP CRM both in real-time and in batch job processes, Business Objects Data Services was used. Business Objects Data Services provided the cleansing and matching functionality to ensure the correctness of the data before it was imported into CRM.  \n",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Ronald",
+                    "last_name": "Kleijn",
+                    "name": null,
+                    "headline": "Technical Architect at SAP"
+                }
+            ]
+        },
+        {
+            "title": "Landjuweel - Supply Chain Efficiency",
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "description": "Responsibilities:\n-\tProvide technical support for basis and infrastructure to understand the requirements on the existing landscape. \n-\tDesigning the technical architecture of the solution. \n-\tLiaise with the Development Center in Lviv for Front-End development\n-\tSetup the HANA Cloud Platform\n-\tDevelop HANA Cloud Platform backend components.\n\nEnvironment:\nSAP HANA Cloud Platform, SAP ECC, Crop-R\n\nDescription:\nLandjuweel provides different types of potatoes to customers. The customers consist mainly of large supermarket chains. Currently Landjuweel does not control the supply chain and are dependent on the production of the potato farmers to fulfil the demand. This matching currently is a reactive approach since Landjuweel has no information on what the farmers are doing on their land.  To get better insight in the production of the farmers and how they are utilising their land Landjuweel is looking at combining the information in their ERP (SAP ECC) system with the information from the farmers (Crop-R). The SAP HANA Cloud Platform is used to combine the two datasources and provide reporting on this data. This also allows Landjuweel to provide information to end-customers around what has happened to the bag of potatoes they are buying in the supermarket. The project has been divided in 3 phases. Phase 1 has started which allows the end-customer to see the history of the bag of potatoes in the supermarket. ",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Ronald",
+                    "last_name": "Kleijn",
+                    "name": null,
+                    "headline": "Technical Architect at SAP"
+                }
+            ]
+        },
+        {
+            "title": "ProRail - PLUS",
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "description": "Responsibilities:\t\n-\tAnalyse the technical requirements to enable this solution in the ProRail landscape. \n-\tDevelop the SAP NetWeaver Gateway services using an ABAP API \n-\tLead for the SAPUI5 development\n-\tSupport the ABAP team in designing the API that exposed standard and client specific logic. \n\nEnvironment:\t\nSAP ECC, SAP NetWeaver Gateway, SAPUI5, SAP NetWeaver Portal\n\nDescription:\t\nProRail is responsible for the entire rail infrastructure in the Netherlands. The solution consists mainly of Maintenance Notification functionality in SAP which is being used to monitor and track infrastructural issues by users within the ProRail organisation but as well by external contractors. The SAPUI5 part of the PLUS project is focusing on providing a user-friendly SAPUI5 frontend application for this notification functionality. ",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Ronald",
+                    "last_name": "Kleijn",
+                    "name": null,
+                    "headline": "Technical Architect at SAP"
+                }
+            ]
+        },
+        {
+            "title": "SAP NL - IoT Watercase",
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "description": "Responsibilities:\n- Define and implement the technical solution for a IoT case for and together with the SAP\nNL Pre-sales team which was tailored for the Dutch market.\n- Develop Raspberry scripts to consume sensor data and control pump based on KPI\u2019s.\n- Configure and utilize IoT services of the HANA Cloud Platform to store sensor data and\ninteract with the hardware.\n- Develop SAPUI5 dashboard which showed the sensor output in near real-time.\n\nEnvironment:\n- SAP HANA Cloud Platform (IoT Services), SAPUI5, Different types of hardware (Raspberry PI, Sensors, Pumps), node.js, python.\n\nDescription:\n  As Internet of Things started to gain more and more interest with some of the customers of SAP in the Netherlands they were looking for a demo case tailored for the Dutch market. This\ndemo would need to show the capabilities of IoT and specifically the SAP HANA Cloud Platform. As the Netherlands is mainly situated below sea level it continuously fights with water levels. This concept was used as a base for defining a Dutch IoT case. It consisted of two water basins, which represented the outer water and inner water and height measurement of the water level. Besides this, also water quality was measured and a pump to regulate the inner water level. Through a SAPUI5 dashboard the different sensors were monitored and if required the pump could be turned on from the dashboard manually to pump the water out of the inner water basin. Additionally KPI\u2019s for water height could be defined to automate this process. The pump would automatically start and stop when a certain water level was reached. The case was well received and won SAP IoT challenge EMEA Winner 2016.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Ronald",
+                    "last_name": "Kleijn",
+                    "name": null,
+                    "headline": "Technical Architect at SAP"
+                }
+            ]
+        },
+        {
+            "title": "NS Stations - Point of Sale application",
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "description": "Responsibilities:\t\n-\tProvide technical support for basis and infrastructure to understand the requirements on the existing landscape. \n-\tDesigning the technical architecture of the solution. \n-\tQA the developments and progress of the project\n\nEnvironment:\t\nSAP PI, SAP HANA Cloud Platform\n\nDescription:\t\nNS Stations is the business unit off the Dutch railways (NS) that is responsible for the retail part of the business on the train stations. The current point of sale system with ERP functionality had to be decommissioned, as it is end of life. As part of this process a new SAP Retail implementation is being finalized. The next step is to decommission part of the (back office) in shop functionality of the point of sale system. The decision was made to utilize the existing SAP PI interfaces and translate these to REST/OData services and consume this through a SAPUI5 application running on the SAP HANA Cloud Platform.\n",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Ronald",
+                    "last_name": "Kleijn",
+                    "name": null,
+                    "headline": "Technical Architect at SAP"
+                }
+            ]
+        },
+        {
+            "title": "Ordina - NEXO",
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "description": "Responsibilities:\t\n-\tProvide technical support for basis and infrastructure to understand the requirements on the existing landscape. \n-\tAnalyse the impact of requirements on standard Fiori applications where applicable. Advise the client on impact of changes to the Fiori Application. \n-\tTechnically design SAPUI5 solutions for which SAP Fiori had no available application.\n-\tDevelop the SAP NetWeaver Gateway services and the SAPUI5 frontend. \n-\tPrimary technical lead for the development\n\nEnvironment:\t\nSAP HCM, SAP Fiori, SAP NetWeaver Gateway, SAPUI5, SAP HANA\n\nDescription:\t\nOrdina is an IT services company. It utilizes SAP internally to support the business. As part of the SAP HCM implementation the Fiori applications; Timesheet, Timesheet Approval, Leave Request and Leave Request Approval were implemented. In order to cover the complete set of requirements these standard Fiori applications required extensions. \nThe second area of the project was a new SAPUI5 application as part of the SRM implementation. The requirement consisted of a Supplier Application through which subcontractors could bid on contracts and upload CVs of potential resources. \n",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Ronald",
+                    "last_name": "Kleijn",
+                    "name": null,
+                    "headline": "Technical Architect at SAP"
+                }
+            ]
+        },
+        {
+            "title": "Gelre Ziekenhuizen - Post-operative mobile app",
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "description": "Responsibilities:\t\n-\tProvide technical support for basis and infrastructure to understand the requirements on the existing landscape. \n-\tDevelop the SAP NetWeaver Gateway services and support in developing the SAPUI5 frontend. \n-\tLead for the development\n\nEnvironment:\t\nSAP ECC, SAP NetWeaver Gateway, SAPUI5,  SAP NetWeaver Portal\n\nDescription:\t\nGelre Hospital wants to utilize SAPUI5 to enable patients to provide feedback to the medical staff after they have been dismissed from the hospital. The information provided will allow medical staff to validate whether it is required for a patient to return to the hospital.  The solution consisted of a responsive SAPUI5 frontend, which communicates with the SAP backend system through SAP NetWeaver Gateway. \n",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Ronald",
+                    "last_name": "Kleijn",
+                    "name": null,
+                    "headline": "Technical Architect at SAP"
+                }
+            ]
+        },
+        {
+            "title": "GVB  - TRS",
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "description": "Responsibilities:\t\n-\tProvide technical support for basis and infrastructure to understand the requirements on the existing landscape. \n-\tArchitect the interface between Sales Force and SAP.\n\nEnvironment:\tSAP HCM, Sales Force \n\nDescription:\t\nThe solution was looking at interfacing data from the Sales Force (Connexys) solution into SAP HCM. The connexys software supported the recruitment process for GVB. Once the recruitment process resulted in a hire the information had to be interfaced into SAP HCM to replace an error-prone manual process of rekeying the information into SAP HCM. \n",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Ronald",
+                    "last_name": "Kleijn",
+                    "name": null,
+                    "headline": "Technical Architect at SAP"
+                }
+            ]
+        },
+        {
+            "title": "Harvey Norman - Reload II",
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "description": "Responsibilities:\t\n-\tSupport the functional team in providing technical solutions for functional/business requirements. \n-\tSupport the enterprise architects in understanding the technical impact of architectural decisions and designs.  \n-\tProvide estimates for all development objects across multiple technologies (interfaces, enhancements, reports and forms). \n-\tLead the Technical team\n-\tDepending on requirements develop any non-ABAP requirements. ABAP development will only be required on an exception basis.  \n\nEnvironment:\t\nSAP ECC, SAP Enterprise Portal, SAP BI Platform, SAP HANA, SAP CRM, IBM Websphere MQ/Message Broker, SAP Screenpersonas\n\nDescription:\t\nThe Reload program focus has not changed from the previous iteration and looks at implementing SAP Retail and SAP Business Intelligence/Business Objects and centralizing the backend systems across all stores. Part of the implementation is unifying and simplifying the user interface, which will provide role based access to the functionality each employee requires with minimal amount of training. \n",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Ronald",
+                    "last_name": "Kleijn",
+                    "name": null,
+                    "headline": "Technical Architect at SAP"
+                }
+            ]
+        },
+        {
+            "title": "Super Retail Group - JDA Enterprise Planning",
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "description": "Responsibilities:\t\n-\tDesign an integration approach between SAP and JDA. \n-\tContinuous liaising with the third party JDA in regards to technical integration between the 2 solutions. \n-\tProvide estimates for all development objects (interfaces, enhancements). \n-\tSupport the development in both SAP PI and SAP BW on an exception basis and assist in mitigating issues with JDA where required. \n\nEnvironment:\t\nSAP PI, SAP BW on HANA, JDA Enterprise Planning\n\nDescription:\t\nFor sales forecasting purposes Super Retail Group has chosen JDA Enterprise Planning as their primary tool. To validate the suitability of the product and to understand integration requirements the tool will be rolled out in one business unit, Leisure. Depending on the results other business units will follow. \n",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Ronald",
+                    "last_name": "Kleijn",
+                    "name": null,
+                    "headline": "Technical Architect at SAP"
+                }
+            ]
+        },
+        {
+            "title": "Super Retail Group - Rebel Sports",
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "description": "Responsibilities:\t\n-\tSupport the functional team in gathering the requirements and understanding the technical impact\n-\tLiaise with the existing IT organization on the impact of the new requirements on their existing landscape \n-\tAssist project management in planning the 12-month project in an Agile and efficient manner. \n-\tProvide estimates for all development objects across multiple technologies (interfaces, enhancements, reports and forms). \n-\tLead the Technical team (PI / ABAP / .NET C#) during the realization phase.  \n-\tDevelop a single sign on solution (JAVA) with an external Preceda HR solution \n-\tDevelop a stock take solution (.NET 2 compact framework) on the existing RF guns for in store usage.\n\nEnvironment:\tSAP PI, SAP ECC, SAP IDM, SAP BW, SAP Enterprise Portal, SAP CRM, Magenta Retail POS, .NET C# POS integration, 10+ third party applications.\n\nDescription:\t\nSuper Retail Group has acquired Rebel Group. As part of this acquisition Super Retail Group will integrate Rebel Group onto their state of the art SAP Platform. The integration project will also support the business during this change and will provide the necessary intermediate solutions to make this a riskless transition. The project will decommission the current AS400 solution and implement SAP ECC, SAP BW and SAP PI within the Rebel Group\u2019s business. The project will be doing an extensive fit/gap analysis to reuse the current SAP Platform from Super Retail Group and only extend this solution on a need basis. The project will continuously act as the intermediate between the businesses of both organizations to provide the best solution for Rebel Group without compromising business needs in either organization. \n",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Ronald",
+                    "last_name": "Kleijn",
+                    "name": null,
+                    "headline": "Technical Architect at SAP"
+                }
+            ]
+        },
+        {
+            "title": "Bridgestone ANZ - Tyre Project",
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "description": "Responsibilities:\t\n-\tProvide Technical guidance and advise both the project team and the client during the project.\n-\tDeliver and coordinate the delivery of the technical blueprints for Interfaces, Data migration and Web channel / Portal streams.\n-\tCoordinate the upgrade of the current SAP landscape (SAP ECC, SAP BW, SAP Portal, SAP PI) as part of the project preparation phase.  \n\nEnvironment:\tSAP PI, SAP ECC, SAP Enterprise Portal,  SAP CRM\n\nDescription:\t\nBridgestone Australia and New Zealand have been using SAP on a smaller scale for their financial processes. The tire project focuses on streamlining the Bridgestone Business and providing a single point of truth. Also it will give Bridgestone an application platform on which it can continuously build to support the changing requirements of their business. The current AS400 solution will be replaced with SAP ECC Retail and SAP CRM. The interface middleware for all interfaces with satellite systems both internal and external will be SAP PI. Added to this implementation the SAP BW implementation will be extended to support both businesses across Australia and New Zealand and will replace their current Cognos reporting solution. \n",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Ronald",
+                    "last_name": "Kleijn",
+                    "name": null,
+                    "headline": "Technical Architect at SAP"
+                }
+            ]
+        },
+        {
+            "title": "Zimmer - eZkits",
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "description": "Responsibilities:\t\n-\tFinalize and solidify the functional requirements together with the internal IT organization and business in a functional blueprint as a key deliverable of the blueprint phase. \n-\tSetting up the mobile middleware environment consisting of Sybase Unwired Platform 2.1 (SUP) and the Sybase Relay Server.\n-\tDevelopment of Sybase Unwired Platform Mobile Business Objects and related Objective-C code as part of the abstraction layer between SUP data and the UI.\n-\tSupporting Zimmer ongoing on any changes or request they have concerning their mobile platform. \n\nEnvironment:\t\nSAP ECC, Sybase Unwired Platform, iOS (iPads only)\n\nDescription:\t\nZimmer is a leader in musculoskeletal health and is specialized in joint replacement technologies. The eZkits solution is a native iPad/iOS application to support the Zimmer Sales team in Australia and New Zealand. It provides an alternative for the SAP functionality the sales teams have been using up until this project\u2019s go live. The SAP ECC functionality is reused and exposed through the Sybase Unwired Platform. The platform provides standard capabilities for offline scenarios, which was one of the main drivers for selecting this middleware.  Through this app and using the offline support the Zimmer Sales Team have the capability of creating/changing but also tracking their surgery bookings and inventory. They can easily react to problems with deliveries and make adjustments where necessary. As an added feature the sales team have access to visual representation of their products and instruments.\n",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Ronald",
+                    "last_name": "Kleijn",
+                    "name": null,
+                    "headline": "Technical Architect at SAP"
+                }
+            ]
+        },
+        {
+            "title": "Harvey Norman - Reload",
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2010
+                },
+                "end": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2010
+                }
+            },
+            "description": "Responsibilities:\t\n-\tSupporting the portal/user interface architectural related designs.\n-\tTeam member of the architect team and the application and development team. \n-\tEstimations of custom user interface developments enabled via the SAP Enterprise Portal. \n-\tDeveloped a Proof of Concept using WebDynpro for ABAP as the main user interface to demo to the business the capabilities of SAP\u2019s User Interface technology in combination with SAP Enterprise Portal. \n\nEnvironment:\t\nSAP ECC, SAP Enterprise Portal, SAP BW, IBM Websphere MQ/Message Broker\n\nDescription:\t\nThe Reload program focused mainly on implementing SAP Retail and SAP Business Intelligence/Business Objects and centralizing the backend systems. Part of the SAP Retail implementation of the reload program was unifying and simplifying the user interface which would provide role based easy access to the functionality each employee needed with minimal amount of training. The SAP Enterprise Portal was an important aspect of this solution to provide this functionality to the employees. \n",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Ronald",
+                    "last_name": "Kleijn",
+                    "name": null,
+                    "headline": "Technical Architect at SAP"
+                }
+            ]
+        },
+        {
+            "title": "Harvey Norman - eMDM",
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2010
+                },
+                "end": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2010
+                }
+            },
+            "description": "Responsibilities:\t\n-\tThe content and the setup of the SAP Enterprise Portal implementation.\n-\tSetting up a centralized user store for both internal and external users using Microsoft ADAM (Active Directory Application Mode)\n-\tResponsible for integrating the SAP NetWeaver Composition Environment solution using FPN (Federated Portal Network)\n-\tThe single point of contact for SAP in regards to SAP OSS messages. Due to the combination of using a relative new SAP product, SAP NetWeaver Composition Environment.\n\nEnvironment:\t \nSAP NetWeaver CE, SAP Enterprise Portal, SAP MDM\n\nDescription:\t\nThe eMDM solution had a double strategy. Firstly cleansing the existing data from the decentralized legacy systems and conforming the data in one central location. Secondly a supplier portal in which the suppliers themselves could upload and submit up to date product information to Harvey Norman. The solution consisted of 3 parts. At the base was the SAP MDM solution. This provided the Master Data Management functionality to cleanse and store data provided by suppliers but also for the data that was cleansed. The second part of the solution was the SAP NetWeaver Composition Environment (CE). This is a model-to-execute environment where the underlying processes, such as approval of new supplier information, were modeled and automated. The user interaction was via a combination of custom and out of the box MDM SAP WebDynpro for JAVA application components running on the SAP NetWeaver CE system. Using the MDM API in the WebDynpro applications, MDM functionality could be leveraged and used in the processes defined in the SAP NetWeaver CE system. To provide a coherent frontend for both the internal users within Harvey Norman and the external users, the suppliers, the SAP Enterprise Portal was used. Using Federated Portal Network (FPN) the SAP NetWeaver CE WebDynpro applications were made available in the SAP Enterprise Portal. \n",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Ronald",
+                    "last_name": "Kleijn",
+                    "name": null,
+                    "headline": "Technical Architect at SAP"
+                }
+            ]
+        }
+    ],
+    "publications": [],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 1115,
+                "name": "SAP",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQFgplzXUs8o1Q/company-logo_400_400/0/1688178771763?e=1703721600&v=beta&t=uQ_gjLKxo-OJRKGbdi0StkmZeGUNywsjSsQLSBFVu3I",
+                "url": "https://www.linkedin.com/company/sap/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2017
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "SAP",
+                    "description": "Utilize the SAP Business Technology Platform to enable customer innovations.",
+                    "title": "Technical Architect",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "The Next View B.V.",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2014
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2016
+                        }
+                    },
+                    "company": "The Next View B.V.",
+                    "description": "Hands on Technical Architect with an extensive technical knowledge of SAP, focusing mainly on Enterprise Mobility, User Experience and Internet of Things leveraging the SAP HANA (Cloud) platform capabilities",
+                    "title": "Technical Architect",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 157295,
+                "name": "Ciber",
+                "logo": "https://media.licdn.com/dms/image/D560BAQHfo4pjlj9ZBw/company-logo_400_400/0/1692266034841?e=1703721600&v=beta&t=ZZgICS20yL_1a-HwpbUTpXZjGViw5IUKQy_IqpygcUY",
+                "url": "https://www.linkedin.com/company/ciber/",
+                "employees": {
+                    "start": 5001,
+                    "end": 10000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2010
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Australia",
+                    "date": {
+                        "start": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2010
+                        },
+                        "end": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2014
+                        }
+                    },
+                    "company": "Ciber Global",
+                    "description": "Senior Developer / Technical Architect / Team lead in SAP projects. Focus was mainly on large retail related SAP integration projects, but also other technologies such as SAP Mobile Platform implementations.",
+                    "title": "Principal Consultant",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 24510,
+                "name": "TopForce",
+                "logo": "https://media.licdn.com/dms/image/C510BAQFNy4b8NyiVkg/company-logo_400_400/0/1519856053288?e=1703721600&v=beta&t=Qnt6635hYI0aM8IEmK0nQr_amNTNKLbf67dOTcDaimM",
+                "url": "https://www.linkedin.com/company/topforce/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2007
+                },
+                "end": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2010
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2007
+                        },
+                        "end": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2010
+                        }
+                    },
+                    "company": "TopForce",
+                    "description": "Senior developer in pure SAP related projects. This consisted of mainly SAP Netweaver Portal projects, WebDynpro for Java and J2EE developments. But also comprised of enabling open source solutions on the SAP NetWeaver Java Stack.",
+                    "title": "Managing Consultant",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 157240,
+                "name": "Capgemini",
+                "logo": "https://media.licdn.com/dms/image/D560BAQF_q1awsuPNAg/company-logo_400_400/0/1688232761552?e=1703721600&v=beta&t=qvh3IQNMnfr_K0evOCNqFalngzJKSchvQKll9Gryikc",
+                "url": "https://www.linkedin.com/company/capgemini/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2005
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2008
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Netherlands",
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "day": null,
+                            "year": 2005
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": 2008
+                        }
+                    },
+                    "company": "Capgemini",
+                    "description": "JAVA and ABAP developer as part of the SAP Netweaver Practice. Projects were mainly JAVA focused with integration with SAP ECC using ABAP to expose functionality and data. Most developments were done on the SAP Netweaver JAVA stack (including CAF and CE) but also included the SAP Mobile Infrastructure and SAP XI related developments.",
+                    "title": "Consultant",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Integration",
+        "SOA",
+        "Business Process Design",
+        "SAP R/3",
+        "Enterprise Portals",
+        "ABAP",
+        "Solution Architecture",
+        "WebDynpro",
+        "SAP Netweaver",
+        "Business Process",
+        "SAP",
+        "SAP Portal",
+        "ERP",
+        "Portals",
+        "SAP ERP",
+        "Data Migration",
+        "IDOC",
+        "Consulting",
+        "SAP Implementation"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

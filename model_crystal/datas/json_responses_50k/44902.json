@@ -1,0 +1,541 @@
+{
+    "profile_id": "axel-dahlberg-428736198",
+    "first_name": "Axel",
+    "last_name": "Dahlberg",
+    "sub_title": "Quantum Architect at PsiQuantum",
+    "profile_picture": "https://media.licdn.com/dms/image/C5603AQEpADPtNoUdbQ/profile-displayphoto-shrink_800_800/0/1574799956325?e=1701302400&v=beta&t=PX3oWSrhAfYxPnpFzuTBmuSKsGbeOZwoSFRkTRChKUs",
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAAC5h8eAB607qg1y7mXiQqqiGK0dH__imWX0",
+    "object_urn": 778170848,
+    "birth_date": null,
+    "summary": "I have a passion for solving problems, quantum technologies, software and climbing.\n\nGithub:\nhttps://github.com/AckslD\n\nPapers:\nhttps://arxiv.org/search/quant-ph?searchtype=author&query=Dahlberg%2C+A\n\nSome previous talks:\n- FOSDEM 2020\n  https://www.youtube.com/watch?v=OmmINOHBkZg\n- QIP 2020\n  https://www.koushare.com/video/videoPreview/2001.0296\n- IETF103 (first QIRG)\n  https://www.youtube.com/watch?v=dh6VcKiLetk\n- IETF104\n  https://youtu.be/usU9j8lU2zk?t=884",
+    "location": {
+        "country": "Netherlands",
+        "short": "The Hague, South Holland",
+        "city": "The Hague",
+        "state": "South Holland",
+        "default": "The Hague, South Holland, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [
+        {
+            "url": "https://www.youtube.com/watch?v=OmmINOHBkZg",
+            "title": "SimulaQron - a simulator for developing quantum internet software",
+            "description": "Talk at FOSDEM 2020",
+            "image": "https://media.licdn.com/dms/image/sync/C4E27AQFsX8AwAl-n0w/articleshare-shrink_1280_800/0/1695456805526?e=1696449600&v=beta&t=nrR-AT0dgRZkV6n2mTPgaSy_TykSgwmbKZig1hCYKFw"
+        },
+        {
+            "url": "https://blog.qutech.nl/2019/05/22/a-quantum-network-stack/",
+            "title": "A quantum network stack?",
+            "description": "Blog post",
+            "image": "https://media.licdn.com/dms/image/sync/C4E27AQGl9onp9dle6w/articleshare-shrink_800/0/1695456806636?e=1696449600&v=beta&t=dt36Z-bazfD8py_lSSP8uAGJv2CqzJ-NBXgPIr-Sb4I"
+        },
+        {
+            "url": "https://github.com/AckslD/nvim-neoclip.lua",
+            "title": "nvim-neoclip.lua",
+            "description": "Clipboard manager neovim plugin with telescope integration",
+            "image": "https://media.licdn.com/dms/image/sync/C4E27AQGT3Y-jE1Z4rQ/articleshare-shrink_800/0/1669464973046?e=1696449600&v=beta&t=piBajRbK1nMQUfSb54KFbXnM8wQKjpSwMiENe-5YdEw"
+        }
+    ],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": []
+    },
+    "industry": "Nanotechnology",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "school": {
+                "name": "ETH Z\u00fcrich",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQHpkHDwYhEoiQ/company-logo_400_400/0/1588930627216?e=1703721600&v=beta&t=Hzy315dk8cg5xr5ptJxsBsZMSkswtq2dKI6u18zhP38",
+                "url": "https://www.linkedin.com/school/eth-zurich/"
+            },
+            "degree_name": "Master of Science - MS",
+            "field_of_study": "Theoretical and Mathematical Physics",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "school": {
+                "name": "Chalmers University of Technology",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQFdK9pXmsNksw/company-logo_400_400/0/1675779389536?e=1703721600&v=beta&t=MUqWj2UMHgO86WTIeKpoVwVocGjqrXi7p-hPQZW2yK4",
+                "url": "https://www.linkedin.com/school/chalmers-university-of-technology/"
+            },
+            "degree_name": "Bachelor's degree",
+            "field_of_study": "Physics",
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [],
+    "organizations": [],
+    "projects": [],
+    "publications": [
+        {
+            "name": "NetQASM\u2014a low-level instruction set architecture for hybrid quantum\u2013classical programs in a quantum internet",
+            "publisher": null,
+            "url": "https://iopscience.iop.org/article/10.1088/2058-9565/ac753f/meta",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2022
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Axel",
+                    "last_name": "Dahlberg",
+                    "name": null,
+                    "headline": "Quantum Architect at PsiQuantum"
+                }
+            ]
+        },
+        {
+            "name": "NetSquid, a NETwork Simulator for QUantum Information using Discrete events",
+            "publisher": null,
+            "url": "https://www.nature.com/articles/s42005-021-00647-8",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2021
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Axel",
+                    "last_name": "Dahlberg",
+                    "name": null,
+                    "headline": "Quantum Architect at PsiQuantum"
+                }
+            ]
+        },
+        {
+            "name": "Designing a Quantum Network Protocol",
+            "publisher": null,
+            "url": "https://dl.acm.org/doi/abs/10.1145/3386367.3431293",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2020
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Axel",
+                    "last_name": "Dahlberg",
+                    "name": null,
+                    "headline": "Quantum Architect at PsiQuantum"
+                }
+            ]
+        },
+        {
+            "name": "QuAlg -- A symbolic algebra package for quantum information",
+            "publisher": null,
+            "url": "https://arxiv.org/abs/2008.06467",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2020
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Axel",
+                    "last_name": "Dahlberg",
+                    "name": null,
+                    "headline": "Quantum Architect at PsiQuantum"
+                }
+            ]
+        },
+        {
+            "name": "A link layer protocol for quantum networks",
+            "publisher": "SIGCOMM '19 Proceedings of the ACM Special Interest Group on Data Communication",
+            "url": "https://dl.acm.org/citation.cfm?id=3342070",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2019
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Axel",
+                    "last_name": "Dahlberg",
+                    "name": null,
+                    "headline": "Quantum Architect at PsiQuantum"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Matthew Skrzypczyk",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "et al",
+                    "headline": null
+                }
+            ]
+        },
+        {
+            "name": "Transforming graph states to Bell-pairs is NP-Complete",
+            "publisher": "arXiv preprint",
+            "url": "https://arxiv.org/abs/1907.08019",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2019
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Axel",
+                    "last_name": "Dahlberg",
+                    "name": null,
+                    "headline": "Quantum Architect at PsiQuantum"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Jonas Helsen",
+                    "headline": null
+                }
+            ]
+        },
+        {
+            "name": "Counting single-qubit Clifford equivalent graph states is #P-Complete",
+            "publisher": "arXiv preprint",
+            "url": "https://arxiv.org/abs/1907.08024",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2019
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Axel",
+                    "last_name": "Dahlberg",
+                    "name": null,
+                    "headline": "Quantum Architect at PsiQuantum"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Jonas Helsen",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Stephanie Wehner",
+                    "headline": null
+                }
+            ]
+        },
+        {
+            "name": "The complexity of the vertex-minor problem",
+            "publisher": "arXiv preprint",
+            "url": "https://arxiv.org/abs/1906.05689",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2019
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Axel",
+                    "last_name": "Dahlberg",
+                    "name": null,
+                    "headline": "Quantum Architect at PsiQuantum"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Jonas Helsen",
+                    "headline": null
+                }
+            ]
+        },
+        {
+            "name": "SimulaQron\u2014a simulator for developing quantum internet software",
+            "publisher": "Quantum Science and Technology",
+            "url": "https://iopscience.iop.org/article/10.1088/2058-9565/aad56e/meta",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2018
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Axel",
+                    "last_name": "Dahlberg",
+                    "name": null,
+                    "headline": "Quantum Architect at PsiQuantum"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Stephanie Wehner",
+                    "headline": null
+                }
+            ]
+        },
+        {
+            "name": "Transforming graph states using single-qubit operations",
+            "publisher": "Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences",
+            "url": "https://royalsocietypublishing.org/doi/abs/10.1098/rsta.2017.0325",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2018
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Axel",
+                    "last_name": "Dahlberg",
+                    "name": null,
+                    "headline": "Quantum Architect at PsiQuantum"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Stephanie Wehner",
+                    "headline": null
+                }
+            ]
+        },
+        {
+            "name": "How to transform graph states using single-qubit operations: computational complexity and algorithms",
+            "publisher": "arXiv preprint",
+            "url": "https://arxiv.org/abs/1805.05306",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2018
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Axel",
+                    "last_name": "Dahlberg",
+                    "name": null,
+                    "headline": "Quantum Architect at PsiQuantum"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Jonas Helsen",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Stephanie Wehner",
+                    "headline": null
+                }
+            ]
+        }
+    ],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 16675134,
+                "name": "PsiQuantum",
+                "logo": "https://media.licdn.com/dms/image/C560BAQEpLFCG7bwaUg/company-logo_400_400/0/1655927432475?e=1703721600&v=beta&t=s6qWc9MPCPWI2ghJJ39XYYhC7EhxjFXNM2VdQ_v-zYY",
+                "url": "https://www.linkedin.com/company/psiquantum-ltd/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "PsiQuantum",
+                    "description": null,
+                    "title": "Quantum Architect",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 10368120,
+                "name": "QuTech",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQGyYyj-guutEQ/company-logo_400_400/0/1586446525846?e=1703721600&v=beta&t=7IRjIbl_EttSGMSG9bFnLSAytkWx_HY-sbTOushDQI4",
+                "url": "https://www.linkedin.com/company/qutech/",
+                "employees": {
+                    "start": 201,
+                    "end": 500
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2021
+                        }
+                    },
+                    "company": "QuTech",
+                    "description": null,
+                    "title": "PHD",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 16675134,
+                "name": "PSIQUANTUM LTD",
+                "logo": "https://media.licdn.com/dms/image/C560BAQEpLFCG7bwaUg/company-logo_400_400/0/1655927432475?e=1703721600&v=beta&t=s6qWc9MPCPWI2ghJJ39XYYhC7EhxjFXNM2VdQ_v-zYY",
+                "url": "https://www.linkedin.com/company/psiquantum-ltd/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "San Francisco Bay Area",
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "PsiQuantum",
+                    "description": null,
+                    "title": "Intern",
+                    "employment_type": "Internship"
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Quantum Information",
+        "Computer Networking",
+        "Python (Programming Language)",
+        "C++",
+        "Rust (Programming Language)",
+        "Quantum Computing",
+        "Go (Programming Language)",
+        "Computer Architecture"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

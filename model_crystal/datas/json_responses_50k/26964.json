@@ -1,0 +1,655 @@
+{
+    "profile_id": "anastasia-kazakova-96965714",
+    "first_name": "Anastasia",
+    "last_name": "Kazakova",
+    "sub_title": "Product Marketing Team Lead, Senior C++ Software Developer",
+    "profile_picture": "https://media.licdn.com/dms/image/C4E03AQHJQaT4cUfylA/profile-displayphoto-shrink_800_800/0/1657144328712?e=1701302400&v=beta&t=DNQvrVO9NHVsRdj5tFiW_sH0TBiTnMZD_P1PrxoeTOs",
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAAALxkaEBP_C1UljPcIV8DgQ_OM_XaERmTxw",
+    "object_urn": 49385889,
+    "birth_date": null,
+    "summary": "As a C and C++ software developer, Anastasia Kazakova created real-time *nix-based systems and pushed them to production for 8 years. She worked as an intern in Microsoft Research, Networking department, and launched the first 4G network in Russia being a part of the Yota operator team. She has a passion for networking algorithms and embedded programming and believes in good tooling. She is now Product Marketing Team Lead for C++ and .NET tools at JetBrains.\nhttps://github.com/anastasiak2512/speaking",
+    "location": {
+        "country": "Netherlands",
+        "short": "Amstelveen, North Holland",
+        "city": "Amstelveen",
+        "state": "North Holland",
+        "default": "Amstelveen, North Holland, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "English",
+                "proficiency": "FULL_PROFESSIONAL"
+            },
+            {
+                "name": "German",
+                "proficiency": "ELEMENTARY"
+            },
+            {
+                "name": "Russian",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ]
+    },
+    "industry": "Information Technology & Services",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2009
+                },
+                "end": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2009
+                }
+            },
+            "school": {
+                "name": "Microsoft Research Cambridge, UK",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "Internship",
+            "field_of_study": "Computer Systems Networking and Telecommunications",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2003
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2008
+                }
+            },
+            "school": {
+                "name": "Saint-Petersburg State University",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "Specialist",
+            "field_of_study": "Software Engineering",
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "Yota PCRF",
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2010
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2010
+                }
+            },
+            "description": "Yota PCRF (Policy and Charging Rules Function) is an advanced policy management solution enabling the operator to dynamically control network elements and apply real-time policies based on service, subscriber and usage context. \n\nYota PCRF allows the operator to succeed at a turbulent IP market by quickly responding to changing consumer data habits and outpacing competitors in introducing new services. It facilitates making flexible policy decisions based on a wide variety of parameters including the following:\n    subscriber profile and services,\n    application, protocol (Skype, P2P), content type (Video, MP3),\n    subscriber device (Mobile, iPad, TV, PC),\n    subscriber location (home, roaming, specific cell),\n    accumulated usage (per month, week, day, hour),\n    cell congestion.\n\nScript-based logic of Yota PCRF allows taking into account all available parameters with any combinations of the parameters and conditions, thus enabling CSPs to launch new services without a need for any software development with shortest time to market.\n\nYota PCRF optimizes the network utilization and protects the operator\u2019s key revenue-generating services from being cannibalized by growing data consumption. It can provide subscribers with increased bandwidth when extra network capacity is available, and reduce bandwidth when network is congested to prevent overload. It can also balance QoS based on service and subscriber priority.\n\nYota PCRF enables the operator to monetize Over-the-Top services, like Internet video, which generate a heavy load on the mobile network, but do not directly produce any revenue for an operator. The operator can offer a bundled QoS option for partner\u2019s streaming Internet video service and optimize the delivery based on the service, type of device and the network subscriber is using. Thus operators can generate additional income from OTT services while improving user experience for subscribers.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Anastasia",
+                    "last_name": "Kazakova",
+                    "name": null,
+                    "headline": "Product Marketing Team Lead, Senior C++ Software Developer"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Aleksei",
+                    "last_name": "Anikin",
+                    "name": null,
+                    "headline": "QC Lead in Online DIagnostics"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Denis",
+                    "last_name": "Tikhomirov",
+                    "name": null,
+                    "headline": "Senior C++ Linux Developer"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Alexey Bakin",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Yury Bocharov",
+                    "headline": null
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Sergey",
+                    "last_name": "Malygin",
+                    "name": null,
+                    "headline": "Ex. ARRIVAL (CEO Elements / EVP Technology), ex. ROBORACE, UK Global Talent"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Evgenia",
+                    "last_name": "Martyniuk",
+                    "name": null,
+                    "headline": "TW"
+                }
+            ]
+        }
+    ],
+    "publications": [
+        {
+            "name": "\u041c\u0435\u0442\u043e\u0434\u044b \u0438 \u0438\u043d\u0441\u0442\u0440\u0443\u043c\u0435\u043d\u0442\u044b \u0440\u0435\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u0438 \u043f\u0440\u0435\u0434\u043c\u0435\u0442\u043d\u043e-\u043e\u0440\u0438\u0435\u043d\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u044b\u0445 \u044f\u0437\u044b\u043a\u043e\u0432 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f",
+            "publisher": "\u0421\u0438\u0441\u0442\u0435\u043c\u043d\u043e\u0435 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435. \u0412\u044b\u043f. 4: \u0421\u0431. \u0441\u0442\u0430\u0442\u0435\u0439 / \u041f\u043e\u0434 \u0440\u0435\u0434. \u0410.\u041d.\u0422\u0435\u0440\u0435\u0445\u043e\u0432\u0430, \u0414.\u042e.\u0411\u0443\u043b\u044b\u0447\u0435\u0432\u0430. - \u0421\u041f\u0431.: \u0418\u0437\u0434-\u0432\u043e \u0421\u041f\u0431\u0413\u0423, 2009",
+            "url": "http://www.sysprog.info/2009/03.pdf",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2009
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Anastasia",
+                    "last_name": "Kazakova",
+                    "name": null,
+                    "headline": "Product Marketing Team Lead, Senior C++ Software Developer"
+                }
+            ]
+        },
+        {
+            "name": "Microsoft Visio \u043a\u0430\u043a \u043e\u0441\u043d\u043e\u0432\u0430 \u0434\u043b\u044f \u0441\u043e\u0437\u0434\u0430\u043d\u0438\u044f \u0433\u0440\u0430\u0444\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u0440\u0435\u0434\u0430\u043a\u0442\u043e\u0440\u043e\u0432",
+            "publisher": "\u0422\u0435\u0445\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043e\u0442\u0447\u0435\u0442. \u0421\u041f\u0431\u0413\u0423",
+            "url": "http://www.math.spbu.ru/user/dkoznov/papers/Visio.pdf",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2006
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Anastasia",
+                    "last_name": "Kazakova",
+                    "name": null,
+                    "headline": "Product Marketing Team Lead, Senior C++ Software Developer"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Roman",
+                    "last_name": "Chernyatchik",
+                    "name": null,
+                    "headline": "Researcher & Senior Software Developer at JetBrains, Bioinformatics, Machine Learning"
+                }
+            ]
+        },
+        {
+            "name": "\u0412\u0438\u0437\u0443\u0430\u043b\u044c\u043d\u0430\u044f \u0441\u0440\u0435\u0434\u0430 \u043f\u0440\u043e\u0435\u043a\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f \u0441\u0438\u0441\u0442\u0435\u043c \u0442\u0435\u043b\u0435\u0432\u0438\u0437\u0438\u043e\u043d\u043d\u043e\u0433\u043e \u0432\u0435\u0449\u0430\u043d\u0438\u044f",
+            "publisher": "\u0441\u0431. \u201c\u0421\u0438\u0441\u0442\u0435\u043c\u043d\u043e\u0435 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435\u201d/ \u0412\u044b\u043f. 2, \u043f\u043e\u0434 \u0440\u0435\u0434. \u0410.\u041d.\u0422\u0435\u0440\u0435\u0445\u043e\u0432\u0430 \u0438 \u0414.\u042e.\u0411\u0443\u043b\u044b\u0447\u0435\u0432\u0430. \u2013 \u0421\u041f\u0431: \u0418\u0437\u0434. \u0421\u041f\u0431\u0413\u0423, 2006",
+            "url": null,
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2006
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Anastasia",
+                    "last_name": "Kazakova",
+                    "name": null,
+                    "headline": "Product Marketing Team Lead, Senior C++ Software Developer"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Roman",
+                    "last_name": "Chernyatchik",
+                    "name": null,
+                    "headline": "Researcher & Senior Software Developer at JetBrains, Bioinformatics, Machine Learning"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "\u041a\u043e\u0437\u043d\u043e\u0432 \u0414., \u041f\u0435\u0440\u0435\u0433\u0443\u0434\u043e\u0432 \u0410., \u0411\u0443\u0433\u0430\u0439\u0447\u0435\u043d\u043a\u043e \u0414., \u041f\u0430\u0432\u043b\u0438\u043d\u043e\u0432 \u0410., \u041f\u043e\u043a\u0430\u043b\u044e\u043a \u042e.",
+                    "headline": null
+                }
+            ]
+        },
+        {
+            "name": "\u041e \u0441\u0440\u0435\u0434\u0441\u0442\u0432\u0430\u0445 \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0438 \u043f\u0440\u043e\u0431\u043b\u0435\u043c\u043d\u043e-\u043e\u0440\u0438\u0435\u043d\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u044b\u00ad\u0445 \u0432\u0438\u0437\u0443\u0430\u043b\u044c\u043d\u044b\u0445 \u044f\u0437\u044b\u043a\u043e\u0432",
+            "publisher": "\u0441\u0431. \u201c\u0421\u0438\u0441\u0442\u0435\u043c\u043d\u043e\u0435 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435\u201d/ \u0412\u044b\u043f. 2, \u043f\u043e\u0434 \u0440\u0435\u0434. \u0410.\u041d.\u0422\u0435\u0440\u0435\u0445\u043e\u0432\u0430 \u0438 \u0414.\u042e.\u0411\u0443\u043b\u044b\u0447\u0435\u0432\u0430. \u2013 \u0421\u041f\u0431: \u0418\u0437\u0434. \u0421\u041f\u0431\u0413\u0423, 2006",
+            "url": "http://www.math.spbu.ru/user/dkoznov/papers/SurveyDSMplatforms.pdf",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2006
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Anastasia",
+                    "last_name": "Kazakova",
+                    "name": null,
+                    "headline": "Product Marketing Team Lead, Senior C++ Software Developer"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Roman",
+                    "last_name": "Chernyatchik",
+                    "name": null,
+                    "headline": "Researcher & Senior Software Developer at JetBrains, Bioinformatics, Machine Learning"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "\u041f\u0430\u0432\u043b\u0438\u043d\u043e\u0432 \u0410., \u041a\u043e\u0437\u043d\u043e\u0432 \u0414., \u041f\u0435\u0440\u0435\u0433\u0443\u0434\u043e\u0432 \u0410., \u0411\u0443\u0433\u0430\u0439\u0447\u0435\u043d\u043a\u043e \u0414., \u0424\u0435\u0441\u0435\u043d\u043a\u043e \u0422., \u0418\u0432\u0430\u043d\u043e\u0432 \u0410",
+                    "headline": null
+                }
+            ]
+        }
+    ],
+    "courses": [
+        {
+            "name": "An Introduction to computer networks (Nick McKeown and Philip Levis, Stanford University)",
+            "number": null
+        },
+        {
+            "name": "Product Management Foundations (Product Institute)",
+            "number": null
+        }
+    ],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 12515,
+                "name": "JetBrains",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQHIXTZd-0TR_A/company-logo_400_400/0/1576240838903?e=1703721600&v=beta&t=am0682m3TA6oy-h6NdnXnTjYRCnxTVDeV1KXteTZcoI",
+                "url": "https://www.linkedin.com/company/jetbrains/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2020
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "JetBrains",
+                    "description": "Working with the following products: .NET Tools including ReSharper, Rider, dotTrace, dotCover, dotMemory, dotPeek, RiderFlow.\n\nResponsibilities: \n- Building marketing strategy for the products in the areas of responsibility.\n- Building and leading a distributed team. \n- Working closely with developers, QA engineers, product managers, and product team leads to build a product development strategy. \n- Supervising all the marketing materials production. \n- Conducting product usability testing and suggesting product improvements.\n- Managing participation in marketing events such as conferences, exhibitions, webinars etc. \n- Managing work with influencers on the social media including but not limited to sponsoring them, ordering posts in media, engaging them in online and offline events. \n- Organising online and offline events to advertise the products and educate company products\u2019 users. \n- Performing co-marketing activities with larger customers.",
+                    "title": ".NET Marketing Team Lead",
+                    "employment_type": "Full-time"
+                },
+                {
+                    "location": "Saint Petersburg, Russian Federation",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2014
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "JetBrains",
+                    "description": "Working with the following products: AppCode, CLion, ReSharper C++, Rider C++ (Rider for Unreal Engine)\n\nResponsibilities:\n- Understanding customers\u2019 needs, monitoring the market, and gathering product requirements.\n- Determining project priorities and roadmap with the team, planning and managing the release activities.\n- Preparing educational and marketing materials for the product, collaborating with evangelists, technical writers and designers for producing product-related content.\n- Communicating with the sales team to join marketing and sales activities.\n- Preparing and managing marketing campaigns for the product.\n- Preparing and managing product online webinars, conferences and exhibitions participations, user group\u2019s support, customers collaboration.",
+                    "title": "C++ Tools Product Marketing Manager",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "YUMSh",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2005
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2005
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "YUMSh",
+                    "description": "Math & Informatics for school students in classes with Math specialization.",
+                    "title": "Teacher",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1676096,
+                "name": "Yota",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQG9bcK2QESO9Q/company-logo_400_400/0/1600352926897?e=1703721600&v=beta&t=AN32Ay3qlRdTAaFlaonWJ_WjfjdZAs3S7xu84CT_MTM",
+                "url": "https://www.linkedin.com/company/yota/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Saint Petersburg, Russian Federation",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2011
+                        },
+                        "end": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2014
+                        }
+                    },
+                    "company": "YOTA",
+                    "description": "PCRF project\nPCRF is a centralized policy decision point in the network of a service provider. It enables flexible configuration and control of QoS parameters of the provided services, optimizes network resources usage and provides information for charging the services according to the provided level of QoS.\nYota PCRF allows making policy decisions based on the following parameters: subscriber device (Mobile, iPad, TV, PC), subscriber application and protocol (Skype, P2P), content type (Video, MP3), time and date,accumulated usage (per day, week, month),network parameters (e.g. congestion level), subscriber location (home, roaming, specific cell), subscriber profile and enabled services, etc. Managing network capacity through policy, quality of service, congestion control, the peak time traffic costs can be lowered by 10-20% across the network. Free version (http://freepcrf.com)\n\nResponsibilities:\n- Full cycle of designing, developing, and performance testing of the PCRF application.\n- Performance scenarios creation/running/optimization, implementation of the performance auto-testing subsystem.\n- Routing agent architecture design and implementation.",
+                    "title": "Senior developer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 396347,
+                "name": "Saint-Petersburg State University",
+                "logo": null,
+                "url": "https://www.linkedin.com/company/saint-petersburg-state-university/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2008
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2010
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2008
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2010
+                        }
+                    },
+                    "company": "Saint-Petersburg State University",
+                    "description": "Home networking area.\nCreating system for automatic congestions problem resolving in Home Networks. The competition for the network resources is resolved with the help of the home router. The system takes care of measurements tools, rate controller and traffic management policies.\n\nMentors: Christos Gkantsidis, Thomas Karagiannis (Microsoft Research Cambridge)\nSupervisor: Andrew Terekhov (SPbSU).",
+                    "title": "Ph.D. student",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 120427,
+                "name": "OKTET Labs",
+                "logo": "https://media.licdn.com/dms/image/C560BAQGpMxz48AOwKw/company-logo_400_400/0/1519876740702?e=1703721600&v=beta&t=Uvq2qc-VhQFxT_sqvCCeuhgQiVecOcovVgrDsMEjcog",
+                "url": "https://www.linkedin.com/company/oktet-labs/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2006
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2010
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2006
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2010
+                        }
+                    },
+                    "company": "OKTET Labs",
+                    "description": "Projects:\n\nATM Gateway project (QoS-based ATM/Ethernet router), 06/2006 \u2013 07/2007\nExperience:\nTCP/IP, ATM, SNMP, Ethernet, Linux kernel.\nResponsibilities:\nSNMP MIBs implementation, CLI interface implementation, participation in management information tree implementation, automatic tests\u2019 design scenarios and implementation.\n\nManaged residential gateway project (VoIP Residential Gateway), 08/2007 \u2013 09/2010\nExperience:\nEmbedded systems, Linux kernel, network services, TCP/IP, VoIP, construction of the network\nmanagement models and tools, bash scripting.\nResponsibilities:\nParticipation in design and implementation of the management information tree, TR069 and RECON management protocols implementation, configuration and support of interaction with management information tree for the components: VoIP, dnrd, switch ARL table.\n\nTR-069 client implementation project, 10/2010 - 11/2010\nExperience:\nTR069 CWMP, embedded systems.\nResponsibilities:\nDesign and architecture of the CWMP client implementation, transport RPCs implementation.\n\nC++ code documentation automatic generation tool, 10/2010 - 12/2010\nExperience:\nC++, code generation.\nResponsibilities:\nParsing C++ code, constructing syntax tree and generating docs over the tree.",
+                    "title": "software engineer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1035,
+                "name": "Microsoft Research",
+                "logo": "https://media.licdn.com/dms/image/C560BAQE88xCsONDULQ/company-logo_400_400/0/1618231291419?e=1703721600&v=beta&t=xic8lPBHmNYz9qHIoiuq_itbJ4T3xDqNu9Bb5EuYkZ0",
+                "url": "https://www.linkedin.com/company/microsoft/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2009
+                },
+                "end": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2009
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2009
+                        },
+                        "end": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2009
+                        }
+                    },
+                    "company": "Microsoft",
+                    "description": "Home Maestro project.\nLeaders: Christos Gkantsidis, Thomas Karagiannis.\nCreating system for automatic congestions problem resolving in Home Networks. The competition for the network resources is resolved with the help of the router.\nExperience:\nEmbedded systems, Linux kernel, congestion control mechanisms and tools, traffic\nmeasurement mechanisms and tools.\nResponsibilities:\nIndependent research, prototype implementation.",
+                    "title": "Intern",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "\u041e\u041e\u041e \"\u0424\u0438\u0440\u043c\u0430 \u0414\u0418\u041f\", \u0421\u041f\u0431\u0413\u0423\u041a\u0438\u0422, \u0421\u041f\u0431\u0413\u0423",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2005
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2006
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2005
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2006
+                        }
+                    },
+                    "company": "\u041e\u041e\u041e \"\u0424\u0438\u0440\u043c\u0430 \u0414\u0418\u041f\", \u0421\u041f\u0431\u0413\u0423\u041a\u0438\u0422, \u0421\u041f\u0431\u0413\u0423",
+                    "description": "Automated design environment for broadcast system development - http://www.math.spbu.ru/user/dkoznov/ViDIP.htm\nStudent project, project leader \u2013 D. Koznov (SPbSU).\nExperience:\nDSLs, C#, MS Visio plug-in development, Visual Modeling.\nResponsibilities:\nRequirements gathering, design, development, testing in a team of two.\nThe results were presented on the international student scientific and technical conference \u201cDigital and information technologies in electronic media industries - 2006\u201d. The project has won the first prize. Later several publications were base on this work.",
+                    "title": "developer",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "C#",
+        ".NET Framework",
+        "Unity",
+        "Unreal Engine",
+        "Team Management",
+        "HTML",
+        "JavaScript",
+        "Google Analytics",
+        "Search Engine Optimization (SEO)",
+        "Customer Relationship Management (CRM)",
+        "C (Programming Language)",
+        "RADIUS",
+        "Diameter",
+        "Network Protocols",
+        "C++",
+        "Mathematics",
+        "Embedded Systems",
+        "Teaching",
+        "English",
+        "C"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

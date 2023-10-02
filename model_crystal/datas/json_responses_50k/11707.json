@@ -1,0 +1,504 @@
+{
+    "profile_id": "gerben-essink",
+    "first_name": "Gerben",
+    "last_name": "Essink",
+    "sub_title": "Senior Software Designer, Software Architect",
+    "profile_picture": "https://media.licdn.com/dms/image/C4E03AQGY4cQQDdSX2w/profile-displayphoto-shrink_800_800/0/1517693084036?e=1701302400&v=beta&t=khaREyKJV-UI-2CO4e-Ng_pYSn0D4RJ49uwgX_BjEW0",
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAAADLvp8BGQijIh2D-hukzD9PKSWGHfbse_Q",
+    "object_urn": 13352607,
+    "birth_date": null,
+    "summary": "I am a senior embedded system designer with an extensive background in embedded systems design technology and in embedded systems software engineering, in particular in the image and video processing domain.\n\nAs a designer I produce solid and sustainable results, by using structured design approaches, resulting in high quality, re-usable software. I am a so-called \u2018master of interfaces\u2019, as I bring the abstract design view and the practical implementation together, to bridge the gap between the architect and the engineers.\n\nAs a team player I bring professionals and their ideas together. I carefully investigate all options and suggestions, and perform an analysis myself. This objective approach results in a positive and constructive atmosphere in which good results are obtained, even in difficult circumstances.\n\nAs a senior engineer I guide my colleagues on quality and innovation. I do this by providing examples of good software engineering practices, for instance, on interface-based design and software re-use. This leads to significant improvements of productivity and efficiency.\n\nKeywords: object-oriented design, interface-based design, modeling, simulation, multi-processor programming, C++, C, Linux, Agile, Scrum, Git",
+    "location": {
+        "country": "Netherlands",
+        "short": "Westendorp, Gelderland",
+        "city": "Westendorp",
+        "state": "Gelderland",
+        "default": "Westendorp, Gelderland, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [
+        {
+            "url": null,
+            "title": "CV - Google Docs.pdf",
+            "description": "",
+            "image": "https://media.licdn.com/dms/image/C512DAQGpvUTFPKbNJg/profile-treasury-document-cover-images_1920/0/1583918263005?e=1696420800&v=beta&t=JJET9XLZVD-3oMLaj7OhfOY91fH9Nyi-LG-Lv3bAqzw"
+        }
+    ],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": []
+    },
+    "industry": "Semiconductors",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 1983
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 1987
+                }
+            },
+            "school": {
+                "name": "Saxion University of Applied Sciences",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQHx7isknIg5gQ/company-logo_400_400/0/1680115797546?e=1703721600&v=beta&t=mm4ULiYWAlesTSdWSzVcVQJAdxpZMzdiMmFF92_MwVI",
+                "url": "https://www.linkedin.com/school/saxion-hogescholen/"
+            },
+            "degree_name": "Bachelor of Science (BSc)",
+            "field_of_study": "Computer Science",
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [
+        {
+            "title": "2016 Intel Software Quality Award",
+            "description": "Awarded to the camera firmware team.\nFor winning customers through process innovations and continuous improvements",
+            "issuer": "Intel SW Directors Council and Corporate Quality Network",
+            "date": {
+                "month": 6,
+                "day": null,
+                "year": 2016
+            }
+        },
+        {
+            "title": "Power-On",
+            "description": "Values:\nQuality - Doing the right things right\nDiscipline - Making and meeting commitments.\nBusiness Imperatives- Planning and executing with a sense of urgency.\n\nAwarded to the camera firmware team\nFor enabling an outstanding shift left by exiting Power-On with capture, preview and video running within 24 hours as FW standalone as well as in combination with both Android and Windows.",
+            "issuer": "Intel",
+            "date": {
+                "month": 11,
+                "day": null,
+                "year": 2015
+            }
+        },
+        {
+            "title": "Firmware Release",
+            "description": "Values: Customer Orientation\u2022Making it easy to work with us.\nQuality\u2022Continuously learning, developing and improving.\n\u2022Doing the right things right.\n\nFor again demonstrating excellent way to coordinate and drive to resolution the SDK-issue with version/date labels for FW release package generation.",
+            "issuer": "Intel",
+            "date": {
+                "month": 6,
+                "day": null,
+                "year": 2015
+            }
+        }
+    ],
+    "certifications": [],
+    "organizations": [],
+    "projects": [],
+    "publications": [
+        {
+            "name": "Design and programming of embedded multiprocessors: an interface-centric approach",
+            "publisher": null,
+            "url": null,
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2004
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Pieter",
+                    "last_name": "Van Der Wolf",
+                    "name": null,
+                    "headline": "Distinguished Member of Technical Staff at Synopsys"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Erwin de Kock",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Tomas Henriksson",
+                    "headline": null
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Wido",
+                    "last_name": "Kruijtzer",
+                    "name": null,
+                    "headline": "Senior Manager R&D at Synopsys"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Gerben",
+                    "last_name": "Essink",
+                    "name": null,
+                    "headline": "Senior Software Designer, Software Architect"
+                }
+            ]
+        },
+        {
+            "name": "YAPI: Application Modeling for Signal Processing Systems",
+            "publisher": null,
+            "url": null,
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2002
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Gerben",
+                    "last_name": "Essink",
+                    "name": null,
+                    "headline": "Senior Software Designer, Software Architect"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Erwin de Kock",
+                    "headline": null
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Wim",
+                    "last_name": "Smits",
+                    "name": null,
+                    "headline": "Retired Chief Engineer Electronics at No company"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Pieter",
+                    "last_name": "Van Der Wolf",
+                    "name": null,
+                    "headline": "Distinguished Member of Technical Staff at Synopsys"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Jean-Yves Brunel",
+                    "headline": null
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Wido",
+                    "last_name": "Kruijtzer",
+                    "name": null,
+                    "headline": "Senior Manager R&D at Synopsys"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "paul Lieverse",
+                    "headline": null
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Kees",
+                    "last_name": "Vissers",
+                    "name": null,
+                    "headline": "Recently retired Fellow from AMD-Xilinx"
+                }
+            ]
+        },
+        {
+            "name": "Delay Management for Programmable Video Signal Processors",
+            "publisher": "Proc. ED\\&TC 97, Paris, pp 126-133.",
+            "url": "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?reload=true&arnumber=582345&contentType=Conference+Publications",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 1997
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Gerben",
+                    "last_name": "Essink",
+                    "name": null,
+                    "headline": "Senior Software Designer, Software Architect"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Mark",
+                    "last_name": "Smeets",
+                    "name": null,
+                    "headline": "Independent investor, software engineer"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "E. Aarts",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "E.A. de Kock",
+                    "headline": null
+                }
+            ]
+        },
+        {
+            "name": "Scheduling in programmable video signal processors",
+            "publisher": "ICCAD-91, Digest of Technical Papers",
+            "url": null,
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 1991
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Gerben",
+                    "last_name": "Essink",
+                    "name": null,
+                    "headline": "Senior Software Designer, Software Architect"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Emile",
+                    "last_name": "Aarts",
+                    "name": null,
+                    "headline": "Emeritus Professor of Computer Science"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Kees",
+                    "last_name": "Vissers",
+                    "name": null,
+                    "headline": "Recently retired Fellow from AMD-Xilinx"
+                }
+            ]
+        }
+    ],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": null,
+                "name": "Looking for new position",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Eindhoven Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "day": null,
+                            "year": 2017
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Looking for new position",
+                    "description": null,
+                    "title": "Available as: Senior Software Designer, Software Architect",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1053,
+                "name": "Intel Corporation",
+                "logo": "https://media.licdn.com/dms/image/C560BAQGpvWtEtj9oTQ/company-logo_400_400/0/1625151708870?e=1703721600&v=beta&t=BrvHEHzhoV4t-5zh0cGuRJn5Un-QN96u980N9CnFds0",
+                "url": "https://www.linkedin.com/company/intel-corporation/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Eindhoven Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "day": null,
+                            "year": 2011
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": 2016
+                        }
+                    },
+                    "company": "Intel Corporation",
+                    "description": "Responsibilities:\n\u2022 Design of firmware for camera image processing\n\u2022 Design of firmware for video decoding and frame rate conversion\n\u2022 Firmware-Driver integration\n\nSuccesses:\n\u2022 Improved productivity by structured design and software re-use\n\u2022 Successful completion of camera firmware under difficult circumstances\n\u2022 Intel Software Quality Award\n\nExperiences and acquired skills\n\u2022 Coaching of young engineers\n\u2022 Leading design teams\n\u2022 Cooperation in world-wide multi-cultural teams\n\u2022 Software engineering practices: Agile, Scrum, Continuous Integration",
+                    "title": "Senior Embedded Software Designer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 23857,
+                "name": "Silicon Hive",
+                "logo": null,
+                "url": "https://www.linkedin.com/company/silicon-hive/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2006
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2011
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Eindhoven Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "day": null,
+                            "year": 2006
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": 2011
+                        }
+                    },
+                    "company": "Silicon Hive",
+                    "description": "Responsibilities\n\u2022 Development of design technology for embedded processors\n\u2022 Expand processor design technology to the system level\n\u2022 Turn prototype design technology into product quality\n\u2022 Deliver video decoding system and firmware to customer\n\u2022 Contribute to successful spin-off from Philips, and acquisition by Intel\n\nExperiences and acquired skills\n\u2022 Working in a start-up\n\u2022 Expert in system-level design technology",
+                    "title": "Senior System Designer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1090,
+                "name": "Philips Electronics N.V.",
+                "logo": "https://media.licdn.com/dms/image/C510BAQG4O5wCG6zf2Q/company-logo_400_400/0/1519855869410?e=1703721600&v=beta&t=AwT4OtKaChfPg1Rv0FCXPZ0aI3a7TPbiAfYxHqJIa04",
+                "url": "https://www.linkedin.com/company/philips/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 1987
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2006
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Eindhoven Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "day": null,
+                            "year": 1987
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": 2006
+                        }
+                    },
+                    "company": "Philips",
+                    "description": "Responsibilities\n\u2022 Design and development of embedded systems design technology\n\u2022 Development system-level design methodologies and tooling\n\u2022 Development of mapping algorithms and tools\n\nExperiences and acquired skills\n\u2022 Embedded systems modeling, models of computation, and simulation\n\u2022 Solve complex combinatorial optimization problems\n\u2022 Promotion to Senior Research Scientist\n\u2022 Technical and scientific writing, Presenting\n\u2022 Coaching of students",
+                    "title": "Senior Research Scientist",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Embedded Systems",
+        "C",
+        "Software Design",
+        "Software Development",
+        "Algorithms",
+        "Software Engineering",
+        "System Architecture",
+        "Digital Signal Processors",
+        "C++",
+        "Unix",
+        "Integration",
+        "Linux",
+        "System Design",
+        "Electronics",
+        "Object Oriented Design",
+        "Embedded Software",
+        "Simulations",
+        "Semiconductors",
+        "Firmware",
+        "Scrum"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

@@ -1,0 +1,513 @@
+{
+    "profile_id": "potasz",
+    "first_name": "Szabolcs",
+    "last_name": "P\u00f3ta",
+    "sub_title": "Principal Architect at Improve Digital (Azerion)",
+    "profile_picture": "https://media.licdn.com/dms/image/C4E03AQHgkdhThuuE6g/profile-displayphoto-shrink_800_800/0/1516300773021?e=1701302400&v=beta&t=GLjRwDVx3lf4SmqGae14w5eWcOCw1BQK7RwTB24yhl0",
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAAACVUoEBDjuViF13kW5T9yeF_ttn9Wxv1d4",
+    "object_urn": 9785985,
+    "birth_date": null,
+    "summary": "I am a software engineer with almost two decades of industrial and academic background but coding is also a hobby for me since my childhood. My experience mainly lies within Java and JVM based languages (Kotlin, Scala, Groovy) but time to time I like to learn new languages too. Most of my professional work has been focused on developing novel and cutting edge distributed middleware from scientific computing, via strategic financial applications to my current area which is ultra low latency services sitting atop big data. I have strong experience with developing reusable, multi-threaded and high performance server side libraries and services but also with creating enterprise applications or even GUI components. I am comfortable with bit level performance tuning but also with high level architecture design.    \n \nDiscovery, evaluation and integration of new technologies have been always an important part of my work. Evangelization, trainings and presentations both professional and academic are regular to me. I am happy to work on untouched, new areas where self-sufficiency and setting directions is essential but also as part of an agile team where efficient team work is in the focus.\n\nSpecialties: Deep knowledge in Java (concurrency, Spring, Web-Services, OSGi, Jini, J2EE, open source libraries), Kotlin, Scala, Scripting (Shell, Python), large scale build infrastructure and release automation, cloud technologies, evangelisation and trainings, software architecture and team leadership.",
+    "location": {
+        "country": "Netherlands",
+        "short": "Amsterdam, North Holland",
+        "city": "Amsterdam",
+        "state": "North Holland",
+        "default": "Amsterdam, North Holland, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "Dutch",
+                "proficiency": "ELEMENTARY"
+            },
+            {
+                "name": "English",
+                "proficiency": "FULL_PROFESSIONAL"
+            },
+            {
+                "name": "German",
+                "proficiency": "LIMITED_WORKING"
+            },
+            {
+                "name": "Hungarian",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ]
+    },
+    "industry": "Information Technology & Services",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 1997
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2002
+                }
+            },
+            "school": {
+                "name": "University of Pannonia",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "Master of Science",
+            "field_of_study": "Engineer in Information Technology",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2004
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2004
+                }
+            },
+            "school": {
+                "name": "University of Vienna",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQG7cnh-00AOEg/company-logo_400_400/0/1519885452451?e=1703721600&v=beta&t=Wwq-BdMXsPxou9Eyt3C0OfUcpCbwzgRaCQv1MOsDCj4",
+                "url": "https://www.linkedin.com/school/univienna/"
+            },
+            "degree_name": null,
+            "field_of_study": "PhD scholarship",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2001
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2001
+                }
+            },
+            "school": {
+                "name": "Technische Universit\u00e4t Ilmenau",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": null,
+            "field_of_study": "Erasmus scholarship",
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "Enabling parallel build in Eclipse IDE 4.x",
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "description": "Updated and fixed concurrency issues in the original proof of concept patch to Eclipse that enabled parallel build of workspace projects. The patch has been used to improve ScalaIDE build times significantly (upto 50%). The patch has been submitted back to the open source community.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Szabolcs",
+                    "last_name": "P\u00f3ta",
+                    "name": null,
+                    "headline": "Principal Architect at Improve Digital (Azerion)"
+                }
+            ]
+        },
+        {
+            "title": "Helios - distributed rendering based on the Sunflow Java raytracer and JGrid",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2007
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2007
+                }
+            },
+            "description": "The distributed version of the Sunflow raytracer using the JGrid (Jini based Grid) infrastructure developed during my PhD years at University of Pannonia.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Szabolcs",
+                    "last_name": "P\u00f3ta",
+                    "name": null,
+                    "headline": "Principal Architect at Improve Digital (Azerion)"
+                }
+            ]
+        }
+    ],
+    "publications": [
+        {
+            "name": "Various publications realated to large scale, service oriented grid infrastructures",
+            "publisher": null,
+            "url": "http://dblp.dagstuhl.de/db/indices/a-tree/p/Pota:Szabolcs.html",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": null
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Szabolcs",
+                    "last_name": "P\u00f3ta",
+                    "name": null,
+                    "headline": "Principal Architect at Improve Digital (Azerion)"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Zoltan",
+                    "last_name": "Juhasz",
+                    "name": null,
+                    "headline": "Senior Lecturer at University of Pannonia"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Kriszti\u00e1n",
+                    "last_name": "Kuntner, PMP",
+                    "name": null,
+                    "headline": "Director of Development and co-owner @ Synthesis-NET/Iron Rooster"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Karin Anna Hummel",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Arpad Andics",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Peter Kacsuk",
+                    "headline": null
+                }
+            ]
+        }
+    ],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 568047,
+                "name": "Improve Digital",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQGEPd7snOXRvQ/company-logo_400_400/0/1637249900343?e=1703721600&v=beta&t=Qn_f-Kfh6A_n-NH8GxsWb5Bssb0y3y__xOwg6HGKlsw",
+                "url": "https://www.linkedin.com/company/improve-digital/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amsterdam Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Improve Digital",
+                    "description": "Design, implement and operate low latency, globally distributed services in the cloud related to ad serving and real time bidding.",
+                    "title": "Principal Architect",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Thunderhead",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amsterdam Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2014
+                        },
+                        "end": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2016
+                        }
+                    },
+                    "company": "Thunderhead",
+                    "description": "Design and implement core backend features of the Thunderhead ONE Engagement Hub SaaS platform. Performance engineering, support of the release process and the cloud based production deployment. Link: http://www.thunderhead.com/one-engagement-hub",
+                    "title": "Senior Developer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 497017,
+                "name": "Morgan Stanley",
+                "logo": "https://media.licdn.com/dms/image/C560BAQFtDpMvYgbIwA/company-logo_400_400/0/1677778127603?e=1703721600&v=beta&t=PajyMxv2dAE_Y4TMzw0UC_p-3k15hXgus4-RAggruFQ",
+                "url": "https://www.linkedin.com/company/morgan-stanley/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2008
+                },
+                "end": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Budapest, Hungary",
+                    "date": {
+                        "start": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2008
+                        },
+                        "end": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2014
+                        }
+                    },
+                    "company": "Morgan Stanley",
+                    "description": "Team leader and software engineer at the Java group of the Enterprise Application Infrastructure department.",
+                    "title": "Vice President / Software Engineer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 80307,
+                "name": "Connexis Ltd.",
+                "logo": "https://media.licdn.com/dms/image/C560BAQHLuOzq6_i8fQ/company-logo_400_400/0/1676380351071?e=1703721600&v=beta&t=GPMlFVrV8VvTMQGoklNGL4cQGtuXp6i2kIUIyMKgkf0",
+                "url": "https://www.linkedin.com/company/connexis/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2007
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2008
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Debrecen, Hungary",
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2007
+                        },
+                        "end": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2008
+                        }
+                    },
+                    "company": "Connexis Holding Group",
+                    "description": "Developing new generation telematics systems for automotive industry. Link: http://www.ygomi.com",
+                    "title": "Senior Software Developer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1366727,
+                "name": "University of Pannonia",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQEYdc8CwnpTUg/company-logo_400_400/0/1617263640164?e=1703721600&v=beta&t=KBMI6IGHXuBYCnt08dq_WnVMEX38T89Rf1yLc8mhx5Y",
+                "url": "https://www.linkedin.com/school/university-of-pannonia/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2002
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2007
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Veszprem, Hungary",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2002
+                        },
+                        "end": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2007
+                        }
+                    },
+                    "company": "Pannon Egyetem - University of Pannonia",
+                    "description": "PhD student and research assistant in researching large scale Grid systems. Tasks involved research and development of new generation service-oriented grid system. Main developer of the JGrid (http://pds.irt.vein.hu/jgrid) service oriented grid system.",
+                    "title": "Research Assistant",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 1997
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2002
+                }
+            },
+            "role": "Local team lead and trainer",
+            "company": {
+                "id": null,
+                "name": "Board of European Students of Technology",
+                "logo": "https://media.licdn.com/dms/image/C510BAQFXZpL9yoZCiw/company-logo_400_400/0/1519905781681?e=1703721600&v=beta&t=sOH1msxtaNydenARTjX6snBU46dpznSJsMz02Zba9e0",
+                "url": "https://www.linkedin.com/company/best/"
+            },
+            "cause": "EDUCATION",
+            "description": "I was member and president of the team at the University of Pannonia. We have organized regular summer universities and other events in various topics of technology for European university students. I was also an international trainer and held several training in presentation skills, team building and communication.  "
+        }
+    ],
+    "skills": [
+        "Spring",
+        "Java",
+        "Java Enterprise Edition",
+        "Distributed Systems",
+        "Perl",
+        "Ant",
+        "Test Driven Development",
+        "Web Services",
+        "JUnit",
+        "Scrum",
+        "Agile Methodologies",
+        "XML",
+        "Sybase",
+        "SOAP",
+        "Spring Framework",
+        "Tomcat",
+        "Hibernate",
+        "Shell Scripting",
+        "Scala",
+        "Gradle"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

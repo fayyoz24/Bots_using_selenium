@@ -1,0 +1,706 @@
+{
+    "profile_id": "aleksej-horvat",
+    "first_name": "Aleksej",
+    "last_name": "Horvat",
+    "sub_title": "Software Engineer",
+    "profile_picture": "https://media.licdn.com/dms/image/C4E03AQFAO64EeKAflg/profile-displayphoto-shrink_800_800/0/1516815419628?e=1701302400&v=beta&t=seESMNu-LJpoBg5Beb0nNgREL5jjd6tFJeCtrYAZmAU",
+    "background_image": "https://media.licdn.com/dms/image/C4D16AQEcNKYdgtEsQg/profile-displaybackgroundimage-shrink_350_1400/0/1525298548379?e=1701302400&v=beta&t=Z8aXD3xyYxjsf7bJLU7ohZY5KjcyYwv_fXe0FsC85q8",
+    "profile_type": "personal",
+    "entity_urn": "ACoAABEezpwBlmEuRl93SZHKiM_BotyXliiUw-0",
+    "object_urn": 287231644,
+    "birth_date": null,
+    "summary": "I am a senior software engineer passionate about systems design and architecture.\nI have a multidisciplinary background with roots in research and 3D visualisation. I enjoy applying new technology in practice.\nMy current focus is on machine learning and multi-agent systems.",
+    "location": {
+        "country": "Netherlands",
+        "short": "Leiden, South Holland",
+        "city": "Leiden",
+        "state": "South Holland",
+        "default": "Leiden, South Holland, Netherlands"
+    },
+    "premium": true,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "NL",
+            "language": "nl"
+        },
+        "supported_locales": [
+            {
+                "country": "NL",
+                "language": "nl"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "Dutch",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "English",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "French",
+                "proficiency": "FULL_PROFESSIONAL"
+            }
+        ]
+    },
+    "industry": "Computer Software",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "school": {
+                "name": "University of Amsterdam",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQEfHBj_we-_kw/company-logo_400_400/0/1659945104460?e=1703721600&v=beta&t=nxt14hUDODg3MttkNj5Qa0fCu2FbgGbRXyFSapRtNv4",
+                "url": "https://www.linkedin.com/school/university-of-amsterdam/"
+            },
+            "degree_name": "Dual Minor",
+            "field_of_study": "Artificial Intelligence",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "school": {
+                "name": "Amsterdam University of Applied Sciences",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQG5N3LiFgKyuA/company-logo_400_400/0/1659945616039?e=1703721600&v=beta&t=_yYH2p87VLVfJBoCQui8IOoUyl1P1-eu71DZPVaXfsk",
+                "url": "https://www.linkedin.com/school/hogeschool-van-amsterdam/"
+            },
+            "degree_name": "Bachelor of Applied Science (BASc)",
+            "field_of_study": "Computer Science",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2002
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2003
+                }
+            },
+            "school": {
+                "name": "Leiden University",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQEFlK1wNecYbA/company-logo_400_400/0/1519855876129?e=1703721600&v=beta&t=D842EBczsDCzHDS7ZG70LkPNH6fNu0NutCEKkHyGGcQ",
+                "url": "https://www.linkedin.com/school/leiden-university/"
+            },
+            "degree_name": "Pre-University Language Course",
+            "field_of_study": "Dutch Language and Culture",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2000
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2001
+                }
+            },
+            "school": {
+                "name": "Alliance Fran\u00e7aise",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "DELF A1-A4",
+            "field_of_study": "French",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 1994
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 1998
+                }
+            },
+            "school": {
+                "name": "The Browning School",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "High School",
+            "field_of_study": null,
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "A study in Knowledge Distillation",
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "description": "Conducted a verification study of a new method in the Machine Learning domain, Knowledge Transfer,\u2028proposed by Google\u2019s Hinton et al. in their recent paper \u201cDistilling the Knowledge in a Neural Network\u201d, to ascertain the method\u2019s applicability in production pipelines",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Aleksej",
+                    "last_name": "Horvat",
+                    "name": null,
+                    "headline": "Software Engineer"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Samar Hashemi",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Maarten Stol",
+                    "headline": null
+                }
+            ]
+        },
+        {
+            "title": "Zertical Towers",
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "description": "Designed and developed a game using the agile development process Scrum. Created a multiplayer construction and tower offense game.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Aleksej",
+                    "last_name": "Horvat",
+                    "name": null,
+                    "headline": "Software Engineer"
+                }
+            ]
+        },
+        {
+            "title": "Environmental Forest Monitoring",
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "description": "Created a high-level design concept (architecture and CAD modeling) for an automated remote drone-deployed observation and data collection system to be used in ecology research and environmental management, as part of a seminar focussed on Environment and Sustainability through Technology at the Mid Sweden University at Sundsvall, Sweden",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Aleksej",
+                    "last_name": "Horvat",
+                    "name": null,
+                    "headline": "Software Engineer"
+                }
+            ]
+        },
+        {
+            "title": "Boot Oost Awareness App",
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "description": "A serious game designed for voluntary organisation Boot in East Amsterdam. Designed this game to help the clients of Boot, non-native speakers of Dutch, gain more independence through simulations of real-life situations.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Aleksej",
+                    "last_name": "Horvat",
+                    "name": null,
+                    "headline": "Software Engineer"
+                }
+            ]
+        },
+        {
+            "title": "The Great Escape",
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "description": "As part of the Academic Project \"Fasten Your Seatbelts\", we developed an Action / Adventure game prototype. The project briefing called for a game with short duration that could serve as in-flight-entertainment. \nAwarded second price Game of the Year 2015/2016.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Aleksej",
+                    "last_name": "Horvat",
+                    "name": null,
+                    "headline": "Software Engineer"
+                }
+            ]
+        }
+    ],
+    "publications": [],
+    "courses": [
+        {
+            "name": "Sevrine Langues - French",
+            "number": null
+        }
+    ],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 4081,
+                "name": "University of Amsterdam",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQEfHBj_we-_kw/company-logo_400_400/0/1659945104460?e=1703721600&v=beta&t=nxt14hUDODg3MttkNj5Qa0fCu2FbgGbRXyFSapRtNv4",
+                "url": "https://www.linkedin.com/school/university-of-amsterdam/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amsterdam Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2020
+                        },
+                        "end": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2021
+                        }
+                    },
+                    "company": "University of Amsterdam",
+                    "description": "Our team investigates emergent behavior in drone swarms with ad hoc networking and deep learning.\nI conducted theoretical and empirical research on drone sensing, communication and navigation.",
+                    "title": "Research Assistant",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1415,
+                "name": "CGI",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQErzXWSFkn9tQ/company-logo_400_400/0/1663664110409?e=1703721600&v=beta&t=FvbXjt29gK9E-mNCi9FF8KecIiJy5Vo8nv5qHgojZMA",
+                "url": "https://www.linkedin.com/company/cgi/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Rotterdam Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "CGI",
+                    "description": "The Transportation & Logistics Division focusses on efficiency in mobility through IT innovation.\nProjects ranged from proof of concepts to production applications.",
+                    "title": "Senior Software Engineer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 10819632,
+                "name": "BrainCreators",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQGNEJU_VDE_WQ/company-logo_400_400/0/1637059819624?e=1703721600&v=beta&t=ZzbSuAAUxIuhdGGhVoRNkdwJsV3lgzYiy_lblk26V1M",
+                "url": "https://www.linkedin.com/company/braincreators/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amsterdam Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2018
+                        }
+                    },
+                    "company": "BrainCreators",
+                    "description": "A verification study in Knowledge Distillation as proposed by Hinton, Vinyals and Dean (at Google, 2015)\nConducted a verification study of a new method in the Machine Learning domain, Knowledge Transfer, proposed by Hinton, Vinyals and Dean in their recent paper \u201cDistilling the Knowledge in a Neural Network\u201d (at Google, 2015), to ascertain the method\u2019s applicability in production pipelines",
+                    "title": "Researcher",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 2294209,
+                "name": "CGI Nederland",
+                "logo": "https://media.licdn.com/dms/image/C560BAQH31NCm95cY4A/company-logo_400_400/0/1611122350968?e=1703721600&v=beta&t=H8egrzIptQQM6tpFfOosJN51SlgDmY3xlhL2KffRkYY",
+                "url": "https://www.linkedin.com/company/cgi-in-nederland/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Rotterdam en omgeving, Nederland",
+                    "date": {
+                        "start": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2017
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2017
+                        }
+                    },
+                    "company": "CGI Nederland",
+                    "description": null,
+                    "title": "Software Engineering / Visualisation Intern",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 11510405,
+                "name": "Unbound",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQHlNcDDznxc6A/company-logo_400_400/0/1520338221906?e=1703721600&v=beta&t=poXXQqKdXiOu1KoIuVKc5EbcDOh8QYJ3cmHnxwlSghU",
+                "url": "https://www.linkedin.com/company/studiounbound/",
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 1996
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Netherlands",
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "day": null,
+                            "year": 1996
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": 2016
+                        }
+                    },
+                    "company": "Unbound",
+                    "description": "Serving small and medium businesses in IT consultancy.",
+                    "title": "Owner",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "The Cornell Medical Center",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 1997
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 1997
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "New York",
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 1997
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 1997
+                        }
+                    },
+                    "company": "The Cornell Medical Center",
+                    "description": null,
+                    "title": "Student Researcher",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [
+        {
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "role": "Vice President",
+            "company": {
+                "id": null,
+                "name": "PoolWest 2",
+                "logo": null,
+                "url": null
+            },
+            "cause": null,
+            "description": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2007
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2008
+                }
+            },
+            "role": "President",
+            "company": {
+                "id": null,
+                "name": "ISN-R",
+                "logo": null,
+                "url": null
+            },
+            "cause": "CIVIL_RIGHTS",
+            "description": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "role": "Volunteer Coordinator - Administrative Assistant",
+            "company": {
+                "id": null,
+                "name": "Robodock",
+                "logo": null,
+                "url": "https://www.linkedin.com/company/robodock/"
+            },
+            "cause": "ARTS_AND_CULTURE",
+            "description": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "role": "President",
+            "company": {
+                "id": null,
+                "name": "HSV Bi\u00ebnto",
+                "logo": null,
+                "url": null
+            },
+            "cause": null,
+            "description": null
+        }
+    ],
+    "skills": [
+        "Linux",
+        "Microcontrollers",
+        "Full-Stack Development",
+        "Programming",
+        "3D Modeling",
+        "Animation",
+        "iOS Development",
+        "Internet of Things",
+        "Web Applications",
+        "Dutch",
+        "English",
+        "Cascading Style Sheets (CSS)",
+        "HTML",
+        "Unified Modeling Language (UML)",
+        "SQL",
+        "PHP",
+        "Objective-C",
+        "JavaScript",
+        "Java",
+        "C++"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

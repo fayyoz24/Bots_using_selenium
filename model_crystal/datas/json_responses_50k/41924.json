@@ -1,0 +1,821 @@
+{
+    "profile_id": "lucacignoni",
+    "first_name": "Luca",
+    "last_name": "Cignoni",
+    "sub_title": "Application Developer & System Administrator at ESA/ESTEC",
+    "profile_picture": null,
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAAACdDbUB84oQwYPa4wprRhtMJfzO4cWp8Xk",
+    "object_urn": 10292661,
+    "birth_date": null,
+    "summary": "In brief: I started programming when I was very young, creating many incomplete textual adventures and classic math problems solver, then the game turned into passion and quickly into my job, leaving untouched the fun. Starting from the first serious experiences inside the EDP department of the Italian Ministry of Aeronautics, then hired in a small (but open-minded) company where I had professionally grown up as developer and project manager. \n\nDuring the military service I learned some fundamentals truths about life: multiplicity of perspectives is a good thing, the creative approach is a key for solving problems and engineers are often as weird as they worth.\n\nThen, in the following 15 years I demonstrated my abilities as developer and gradually as a software engineer. I built software in many domains, primarily written in Java or for the web, but also dealing with plenty of IT environment and technology combinations. I designed concrete solutions looking at theoretical guidelines, always aiming at having the best reliable final product. \n\nRecently I moved into The Netherlands, first working as developer for an online travel agency (which has an impressive software stack) and eventually at ESA, where my responsibilities are much more wide open.\n\nDuring these years I've learned how to manage the entire project lifecycle, from requirement analysis up to software deployment, passing through customer relationship, planning and even helpdesk. I've worked alone or in small teams, I got tasks assigned and I assigned tasks.\n\nI'm very keen to share my knowledge (I tutored my students and taught a basic java course), I love confront people challenging my ideas to make them better, I enjoy being a moderator but I'm also able to take practical decisions when deadline is close by. \n\nI'm curious about (a bit of) everything, very passionate about technology, good writer, amateur photographer and open-minded music listener.",
+    "location": {
+        "country": "Netherlands",
+        "short": "Amsterdam, North Holland",
+        "city": "Amsterdam",
+        "state": "North Holland",
+        "default": "Amsterdam, North Holland, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "English",
+                "proficiency": "PROFESSIONAL_WORKING"
+            },
+            {
+                "name": "Italian",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ]
+    },
+    "industry": "Information Technology & Services",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 1994
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 1999
+                }
+            },
+            "school": {
+                "name": "ITIS G.Vallauri Velletri",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "High School Diploma, Computer Specialization",
+            "field_of_study": "IT",
+            "grade": "96/100"
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [
+        {
+            "name": "Docker for Enterprise Developers",
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Docker, Inc",
+            "url": "https://credentials.docker.com/87b3fd3b-70d1-42cd-b9de-2177da75554d",
+            "license_number": "14379035",
+            "display_source": "docker.com",
+            "company": {
+                "id": null,
+                "name": "Docker, Inc",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQHbvHp_rgpxOw/company-logo_400_400/0/1689867967887?e=1703721600&v=beta&t=AuJbnazRrU5-_tEXwmucS5AdYm7f0NNjwOg44wh0ZW8",
+                "url": null
+            }
+        },
+        {
+            "name": "Agile Scrum Foundation Certificate (ASF)",
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "EXIN your ICT competence partner",
+            "url": null,
+            "license_number": "6239268",
+            "display_source": null,
+            "company": {
+                "id": null,
+                "name": "EXIN",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQFi8TgZbeVOXw/company-logo_400_400/0/1656919652505?e=1703721600&v=beta&t=OznhwH3DLCH47ypgQ_N2nIIiLgctwUJVMTdp4yjG44E",
+                "url": null
+            }
+        },
+        {
+            "name": "ESOL Entry Level Certificate",
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "University of Cambridge esol",
+            "url": null,
+            "license_number": null,
+            "display_source": null,
+            "company": null
+        },
+        {
+            "name": "Sun Certified Programmer For Java 2 Platform, Standard Edition 5.0",
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2007
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Sun Microsystems",
+            "url": null,
+            "license_number": null,
+            "display_source": null,
+            "company": {
+                "id": null,
+                "name": "Sun Microsystems",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQG8U0EaYqTApg/company-logo_400_400/0/1519855866180?e=1703721600&v=beta&t=fRDmXGES2q-J1L98r4L-o-P0k90YKOFGVUP0fCFgikY",
+                "url": null
+            }
+        }
+    ],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "\u201cSmartStickers\u201d - Experimental digital postcards platform",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "description": "My responsibilities: requirements analysis, design, development\n\nSmartStickers.it was born as an experimental product intended to consumer marketplace. The main idea is to offer a simple way to deliver funny messages through unique QR codes (but without mobile app). A web interface optimized for mobile devices allows to setup a message per QR code and the postcard's theme. After the setup is completed the message is read only. \n\nSystem: Mobile web browsers (iPhone, Android, Windows phone)\nProgramming language: Javascript and standard web languages, Java 6\nDatabase: MongoDB (NoSQL)\nApplication server: Tomcat 7\nMain technologies and libraries: Stripes framework (now Atalassian), MongoDB drivers, JSP, jQuery Mobile",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Luca",
+                    "last_name": "Cignoni",
+                    "name": null,
+                    "headline": "Application Developer & System Administrator at ESA/ESTEC"
+                }
+            ]
+        },
+        {
+            "title": "\u201cWonderqrcode.com\u201d - Advanced QR code generator",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "description": "My responsibilities: server-side design and development, participation in client-side development.\n\nWonderqrcode is a QR code generator which is able to \"blend\" traditionals black squares with a background image, keeping the QR code itself still readable. \nMy main job was to create a scalable API server which expose their services through RESTful URLs and JSON data. \nTo maximize performance we used Amazon AWS infrastructure: EC2 linux server, S3 for storage and web hosting and DynamoDB for data (NoSQL database). On client side we built a javascript application which runs entirely in the browser.\n\nSystem: Web browsers, Amazon Linux distro\nProgramming languages: Javascript, standard web languages, Java 7\nDatabase: DynamoDB (NoSQL)\nMain technologies and libraries: Amazon AWS sdk (S3, DynamoDB), Jetty-Embedded, Java-servlet 3.1, Jackson (JSON serialization), RequireJS, RaphaelJS, jQuery\n",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Luca",
+                    "last_name": "Cignoni",
+                    "name": null,
+                    "headline": "Application Developer & System Administrator at ESA/ESTEC"
+                }
+            ]
+        },
+        {
+            "title": "\u201cQingers\u201d - Mobile advertising platform based on QR Codes",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "description": "My responsibilities: participation in requirements analysis, design, development and testing\n\nQingers is a web application created to offer a quick platform where publish announcements targeted to mobile devices and reachable by QR Codes. \nThe core server manages all application's features, and exposes stateless APIs via RESTful URLs which work with JSON over HTTP.\nTwo web application communicate with the core server, one is the backend management GUI (who allows subscribers to manage their announcements and view statistics), the other one is responsible to serve announcements to the different viewers (both desktops or mobiles) coming from short URLs and to collect visitors data. \n\nDespite Qingers was born as b2b service, it has acquired later a b2c orientation, and then a dedicated website (http://www.qingers.com)\n\nSystem: Web browsers, Windows\nProgramming languages: Java 6, javascript and other standard web languages\nDatabase: PostgreSQL 9\nApplication server: JBoss 7, Tomcat 8\nEnvironment: Amazon EC2\nMain technologies and libraries: jackson (JSON serialization), apache-httpclient, apache wicket 6, myBatis\n",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Luca",
+                    "last_name": "Cignoni",
+                    "name": null,
+                    "headline": "Application Developer & System Administrator at ESA/ESTEC"
+                }
+            ]
+        },
+        {
+            "title": "\"Taskalo\" - Task-oriented time tracker for internal use",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2011
+                }
+            },
+            "description": "My responsibilities: participation in requirements analysis, design, development and testing.\n\nThis web application has been created in order to replace old time-tracking methods and softwares, and to aid the administration office with reports useful to billing activities. \nIt enables to each technician to associate his hours within the working days to a specific task, having a clear evidence of how many hours have been already spent (himself or collegues) in order to remain within assigned budget. \n\nSystem: Web browsers, Windows\nProgramming languages: Java 5, standard web languages\nDatabase: PostgreSQL 9.0\nApplication server: Tomcat 7\nMain technologies & libraries: Apache Wicket 5, jQuery, myBatis\n",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Luca",
+                    "last_name": "Cignoni",
+                    "name": null,
+                    "headline": "Application Developer & System Administrator at ESA/ESTEC"
+                }
+            ]
+        },
+        {
+            "title": "\"CWTPayAdv\" - Automatic document manager software for Carlson Wagonlit Travel",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2010
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2010
+                }
+            },
+            "description": "My responsibilities: participation in design, development and testing.\n\nA service software which is listening for new documents from ad-hoc folder or email address. Each new document is parsed, classified and sent to a specific workflow module. \nSome documents like invoices and VAT-related documentation are decorated and then converted to PDF/a for substitutive storage purpose (in collaboration with Imaging Group Spa).\nOther documents like payment notices are splitted and published online in order to be seen by CWT's customers via the web interface created at http://www.aminformatica.it/cwt-pagamenti/ \n\nSystem: Windows, Web browsers\nProgramming languages: Java 5, standard web languages\nDatabase: MySql 5\nApplication server: Tomcat 6\nMain technologies & libraries: Java threads, Apache Wicket 1.4, iText & PDFBox, JavaMail\n",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Luca",
+                    "last_name": "Cignoni",
+                    "name": null,
+                    "headline": "Application Developer & System Administrator at ESA/ESTEC"
+                }
+            ]
+        },
+        {
+            "title": "\u201cMedusa2\u201d - Bill of materials (BOM) costs analysis and price development system for LSG Sky Chefs Spa",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2009
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "description": "My responsibilities: project management, requirements analysis, design, development & testing.\n\nMedusa2 is a web application integrated to the legacy ERP system on iSeries created in order to enhance costing and pricing departments capabilities. It allows article master data maintenance and bill of materials (the meals sold to customers) composition, with useful tools to measure material and labor costs in real time. \nThe pricing area helps users to create catalog of meals for customers, considering margin analysis on sales volume forecast (based on planned flights)\n\nIts development has requested an extensive work in order to make this web application more responsive as possible without using nothing but standard web programming languages (HTML+CSS+JS) \n\nSystem: Web browsers, Windows, iSeries\nProgramming languages: Java 5, HTML+CSS+JS, RPG/400\nDatabase: integrated DB2/400\nApplication server: Tomcat 6/7\nMain technologies & libraries: Apache Wicket 1.4, iBatis (ORM), iText (PDF), jxl (Excel)\n",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Luca",
+                    "last_name": "Cignoni",
+                    "name": null,
+                    "headline": "Application Developer & System Administrator at ESA/ESTEC"
+                }
+            ]
+        },
+        {
+            "title": "OpenOffice Writer integration for USI Spa",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2008
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2008
+                }
+            },
+            "description": "My responsibilities: requirements analysis, development, testing.\n\nIntegration between the main informative system based on IBM iSeries and the modern word processor in order to allow a graphical way to compile medical reports with some facilities.\nThe system use many advanced features on iSeries (IFS, Java on iSeries, PCCMD) to pre-process templates and give commands to the clients in order to control OpenOffice Writer with the prepared medical report.\n\nSystem: iSeries, Windows\nProgramming languages: Java 1.4, RPG/400, CL/400\nMain technologies & libraries: iSeries administration tools & API\n",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Luca",
+                    "last_name": "Cignoni",
+                    "name": null,
+                    "headline": "Application Developer & System Administrator at ESA/ESTEC"
+                }
+            ]
+        },
+        {
+            "title": "Web site framework for internal use",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2008
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2008
+                }
+            },
+            "description": "My responsibilities: participation in requirements analysis, design, development\n\nWe built a developer-oriented framework in order to have useful tools to build simple websites. The final result is a platform SEO frienldy with a templating system, integrated multilingual support and custom taglib library.\n(old examples: http://www.aminformatica.it and http://refertionline.usi.it) \n\nProgramming languages: Java 5, HTML+CSS+JS\nMain technologies & libraries:  JSP, JSTL, XML, Java Servlet and Taglib, Apache Velocity\n",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Luca",
+                    "last_name": "Cignoni",
+                    "name": null,
+                    "headline": "Application Developer & System Administrator at ESA/ESTEC"
+                }
+            ]
+        },
+        {
+            "title": "\u201cOMR\u201d - Medical report online publishing system for USI Spa.",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2008
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2008
+                }
+            },
+            "description": "My responsibilities: participation in design, development in iSeries, participation in java development (signing procedure and web site) and test\n\nThe system is composed by three separate modules which communicate each other. Each medical report borns on the iSeries; if it is eligible for online publishing it is sent to a PC equipped with smart card reader, then it is digitally signed by a doctor through a simplified \"review & confirm\" program written in Java.\nWhen the medical report is confirmed it is published online (and its owner is notified by SMS). The patient can access to http://refertionline.usi.it with his own credentials, and then he can download the digital signed copy of his medical reports.\n\nSystem: Windows, iSeries, web browsers\nProgramming language: Java 6, HTML+CSS+JS, RPG/400\nDatabase: integrated DB2/400\nApplication server: Tomcat 6\nMain technologies & libraries: Java, Swing, JSP, Java Servlet, SmartCard related libraries, BouncyCastle, iText (PDF), xStream 1.3\n",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Luca",
+                    "last_name": "Cignoni",
+                    "name": null,
+                    "headline": "Application Developer & System Administrator at ESA/ESTEC"
+                }
+            ]
+        },
+        {
+            "title": "\"Eva\" - Advanced alerts manager system for internal use",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2007
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2007
+                }
+            },
+            "description": "My responsibilities: requirements analysis, design, development, testing and user support. \nIn second part of the project I also led 2-members team.\n\nThe software was required from the helpdesk department to help in gathering notifications from multiple monitoring sources and to filter, manipulate and deliver alerts according to preset configuration. \n\nIn its final form the project is able to receive alerts from different sources (both HW and SW) via ad-hoc connectors and manage them using smart logics in order to merge/ignore/interpolate alert's content and deliver the proper notifications via SMS or email to customer or internal technician. \nA remote UI dashboard built in second part of the project is able to connect to the central in order to show the customer's network and its status in real time.\nFor this scope a small communication framework based on XML over HTTP was developed. \n\nSystems: Windows, Linux\nProgramming languages: Java 5\nDatabase: MySql 5\nMain technologies & libraries: Java threads, XML, HTTP, SNMP, SQL, xStream 1.3\n",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Luca",
+                    "last_name": "Cignoni",
+                    "name": null,
+                    "headline": "Application Developer & System Administrator at ESA/ESTEC"
+                }
+            ]
+        },
+        {
+            "title": "\u201cDemoManager\u201d -Equipment demonstrations planning software for Toshiba Medical System Italy",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2007
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2007
+                }
+            },
+            "description": "My responsibilities: design, development and testing.\nIn second part of the project I led the customization and installation of \"DemoManager\" for French and German division of Toshiba Medical System.\n\nDemoManager is a web application designed to manage time frames allocations of equipments intended for demo at the customer's site.\nThe warehouse manager can view and set the availability of equipments and accessories, print delivery notes and make some reports.\n\nSystem: Windows, Browsers (IE6)\nProgramming language: Java 5, HTML/CSS/JS, SQL\nDatabase: MySql 5\nApplication server: Tomcat 6\nMain technologies & libraries: Apache Wicket 1.3, iText (PDF)",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Luca",
+                    "last_name": "Cignoni",
+                    "name": null,
+                    "headline": "Application Developer & System Administrator at ESA/ESTEC"
+                }
+            ]
+        },
+        {
+            "title": "Integration of EU Labelling regulation in local software for LSG Sky Chefs Italy",
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "description": "My responsibilities: project management, requirements analysis, design, development and testing\n\nThe project's main goal is the bidirectional integration of local and head office informative systems (respectively Medusa2 and CBase) in order to supply a continuously information flow about allergens. Without these information the production department cannot prepare and bring onboard meals for scheduled and last minute flights. \n\nThe resulting solution is a near-realtime system which is able to inspect BOMs and recipes in order to collect ingredients and manage substitutions in case of missing components; detect changes and produce automatically new XML interface files which are sent to head office system through an SFTP server.\n\nAn extensive job has been done to reduce to the minimum the procedure's impact for production departments. \n\nSystem: Windows, iSeries\nProgramming languages: Java 5, RPG/400, standard web languages\nDatabase: DB2/400\nApplication server: Tomcat 7\nMain technologies & libraries: xStream, Apache Wicket 1.4, JDBC400, \n",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Luca",
+                    "last_name": "Cignoni",
+                    "name": null,
+                    "headline": "Application Developer & System Administrator at ESA/ESTEC"
+                }
+            ]
+        },
+        {
+            "title": "Payroll application for Salini-Impregilo Spa",
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "description": "My responsibilities: participation in development.\n\nSoftware created in order to manage payroll activities for ethiopian GERDP dam's construction site.\n\nSystem: Windows 7-8\nProgramming languages: Java 7\nDatabase: PostgreSQL\n",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Luca",
+                    "last_name": "Cignoni",
+                    "name": null,
+                    "headline": "Application Developer & System Administrator at ESA/ESTEC"
+                }
+            ]
+        },
+        {
+            "title": "\u201cGeKo\u201d - Contracts management software for internal use",
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2006
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2006
+                }
+            },
+            "description": "My responsibilities: requirement analysis, development, testing\n\nThe software is able to manage maintenance contracts with both suppliers and customers. It keeps track of contracts history and reminds expirations to administration department. \n\nSystems: Windows XP/7\nProgramming language: Java 5\nApplication server: JBoss 4\nDatabase: MS SQL Server\nMain tecnologies & libraries: Swing, iText (PDF), JXL (Excel), EJB, Java Web Start\n",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Luca",
+                    "last_name": "Cignoni",
+                    "name": null,
+                    "headline": "Application Developer & System Administrator at ESA/ESTEC"
+                }
+            ]
+        },
+        {
+            "title": "\u201cUSP\u201d - Integrated sales cycle management software for Toshiba Medical System Italy",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2003
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2005
+                }
+            },
+            "description": "My responsibilities: development of data migration procedure and some tiny custom frameworks, development of many functional parts.\n\nThe software is designed as integrated layer to the preexisting informative system based on IBM's ACG suite. Its goals are margin analysis, tenders's draft, accounting links, communication with legacy systems and many others.\n\nDuring the following years I followed its maintenance as main developer and then as analyst. \n\nSystems: IBM iSeries, Windows XP/Vista/7\nProgramming language: RPG/400, Java 1.4\nDatabase: DB2/400, Oracle\nApplication server: JBoss 3-4\nMain technologies & libraries: EJB, Swing, JDom, iText (pdf), Java Web Start, iBatis (OR mapping tools)\n",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Luca",
+                    "last_name": "Cignoni",
+                    "name": null,
+                    "headline": "Application Developer & System Administrator at ESA/ESTEC"
+                }
+            ]
+        },
+        {
+            "title": "Cash register software for Maiorana SpA",
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2001
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2002
+                }
+            },
+            "description": "My responsibilities: development of many parts related to customer's orders and internal pricing procedures.\n\nCash register software for the main store in Rome of Maiorana Spa (food wholesaler). \n\nSystem: IBM iSeries\nProgramming language: RPG/400 (integrated)\nDatabase: DB2/400 (integrated)\n",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Luca",
+                    "last_name": "Cignoni",
+                    "name": null,
+                    "headline": "Application Developer & System Administrator at ESA/ESTEC"
+                }
+            ]
+        }
+    ],
+    "publications": [],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 4903,
+                "name": "ESA/ESTEC",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQFqKeHN3YjF2Q/company-logo_400_400/0/1519855901086?e=1703721600&v=beta&t=a7AXxrCSagC0jbswNskzqI81vu4JZr5y0Qg3j5M98jA",
+                "url": "https://www.linkedin.com/company/esaestec/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Katwijk, South Holland Province, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "ESA/ESTEC",
+                    "description": null,
+                    "title": "Developer & System Administrator",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1009041,
+                "name": "Elmar Reizen",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQGXP9YNyHAGkA/company-logo_400_400/0/1519896810202?e=1703721600&v=beta&t=MJINu9cBMSBqVRqVz7MGQT-DOvGuc9XGjTu2uW7KJ9o",
+                "url": "https://www.linkedin.com/company/vakantiediscounter/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amsterdam Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2016
+                        }
+                    },
+                    "company": "d\u00e9 VakantieDiscounter",
+                    "description": "",
+                    "title": "Software Developer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "ESG Services Srl",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Genzano di Roma",
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2012
+                        },
+                        "end": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2015
+                        }
+                    },
+                    "company": "ESG Services Srl",
+                    "description": null,
+                    "title": "Senior Software Developer",
+                    "employment_type": null
+                },
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2012
+                        },
+                        "end": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2015
+                        }
+                    },
+                    "company": "ESG Services Srl",
+                    "description": null,
+                    "title": "Project Manager",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "AMInformatica Srl",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2001
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2008
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2012
+                        }
+                    },
+                    "company": "AMInformatica Srl",
+                    "description": null,
+                    "title": "Senior Software Developer",
+                    "employment_type": null
+                },
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2001
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2008
+                        }
+                    },
+                    "company": "AMInformatica Srl",
+                    "description": null,
+                    "title": "Developer",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Coding Experience",
+        "API Development",
+        "Graphic Design Principles",
+        "REST APIs",
+        "Core Java",
+        "Java",
+        "XML",
+        "JavaScript",
+        "jQuery",
+        "Project Management",
+        "Web Development",
+        "Databases",
+        "Teaching",
+        "UML",
+        "Software Documentation",
+        "Tomcat",
+        "Apache Wicket",
+        "LESS",
+        "HTML",
+        "CSS"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

@@ -1,0 +1,1330 @@
+{
+    "profile_id": "alexander-de-loor",
+    "first_name": "Alexander",
+    "last_name": "de Loor",
+    "sub_title": "_",
+    "profile_picture": "https://media.licdn.com/dms/image/C5603AQE0kMt-4F_FyA/profile-displayphoto-shrink_800_800/0/1563822366335?e=1701302400&v=beta&t=AcVarqSPh-o3BNbupDHbz_l_17e35Avf52V9fXNDzKM",
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAAAQc7foBJX_2W3VIUowHSDcLxyE3uKfnlD8",
+    "object_urn": 69004794,
+    "birth_date": null,
+    "summary": "I'm an applied physicist with a preference for fluid dynamics. I have gained a lot of experience in the hydraulic design of civil hydraulic structures during my years at Deltares. I enjoy working with numerical models of various complexity but prefer working with CFD models. I've been working with CFD since my MSc project and have applied CFD during all my years at Deltares. I've been part of the Deltares project team for iconic projects as the new sea locks at IJmuiden and Terneuzen in which I was part of the team that performed the numerical modelling (CFD and other models) or auditing the modelling effort of the contractor on behalf of our client. Next to CFD I have used less complex numerical models (i.e. Lockfill, Wanda) or bespoke scripts in Matlab or Python to perform my work. And although I haven't performed physical scale model experiments myself I've been involved in scale model work and using scale model results as verification for numerical models.\n\nIn my work I always strive to a high degree of quality and honesty, both in analysis as well as in reporting. I don't like to make results prettier than they are, but they should be presented in a pretty way. I am persevering in getting the job done, I won't give up so easily when a simulation doesn't work. I like to explore new topics to work on or new ways to model things. I enjoy working in a team, working towards a common goal.",
+    "location": {
+        "country": "Netherlands",
+        "short": "Rotterdam and The Hague",
+        "city": null,
+        "state": null,
+        "default": "Rotterdam and The Hague"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "Dutch",
+                "proficiency": null
+            },
+            {
+                "name": "English",
+                "proficiency": null
+            }
+        ]
+    },
+    "industry": "Information Technology & Services",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2008
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2011
+                }
+            },
+            "school": {
+                "name": "Delft University of Technology",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQFwaGpwaod9mQ/company-logo_400_400/0/1670699851986?e=1703721600&v=beta&t=Aw4oLxoKsIJcblYDjxw9200FClnyhZu8DxzcfJRDFOs",
+                "url": "https://www.linkedin.com/school/tudelft/"
+            },
+            "degree_name": "MSc",
+            "field_of_study": "Applied Physics",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2004
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2008
+                }
+            },
+            "school": {
+                "name": "Delft University of Technology",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQFwaGpwaod9mQ/company-logo_400_400/0/1670699851986?e=1703721600&v=beta&t=Aw4oLxoKsIJcblYDjxw9200FClnyhZu8DxzcfJRDFOs",
+                "url": "https://www.linkedin.com/school/tudelft/"
+            },
+            "degree_name": "BSc",
+            "field_of_study": "Applied Physics",
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "NO-Afvoercapaciteit",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "description": "Client: Deltares\nPositions held: Project engineer\nActivities performed: Research project to determine the validity of CFD models to calculate the discharge coefficient of a weir at various flow regimes (head differences and discharges).",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Alexander",
+                    "last_name": "de Loor",
+                    "name": null,
+                    "headline": "_"
+                }
+            ]
+        },
+        {
+            "title": "CFD Grave",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "description": "Client: Rijkswaterstaat\nPositions held: Project leader\nActivities performed: Calculation of flow velocities downstream of the damaged weir at Grave including the temporary dam using CFD (Star-CCM+). The calculated flow velocities and analysis of the expected flow regimes was communicated to Rijkswaterstaat to aid their decisions regarding the strengthening of the bed protection at the damaged weir. Work presented at the ISHS 2018.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Alexander",
+                    "last_name": "de Loor",
+                    "name": null,
+                    "headline": "_"
+                }
+            ]
+        },
+        {
+            "title": "S\u00f6dert\u00e4lje Lock CFD Numerical Study",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "description": "Client: S3P\nPositions held: Project engineer\nActivities performed: Calculation of discharge coefficient and hydraulic loads on the proposed lock gate of the new lock at S\u00f6dert\u00e4lje (Sweden) using CFD (Star-CCM+). Based on the result a change in the sill design was proposed and tested in the numerical model.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Alexander",
+                    "last_name": "de Loor",
+                    "name": null,
+                    "headline": "_"
+                }
+            ]
+        },
+        {
+            "title": "KPP Lockfill aanpassingen",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "description": "Client: Rijkswaterstaat\nPositions held: Project engineer\nActivities performed: Further development of the Lockfill code",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Alexander",
+                    "last_name": "de Loor",
+                    "name": null,
+                    "headline": "_"
+                }
+            ]
+        },
+        {
+            "title": "Lockfill calculations second lock Eefde",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "description": "Client: Rijkswaterstaat\nPositions held: Project leader\nActivities performed: Performing Lockfill calculations of the reference design of the new, second lock at Eefde (Netherlands).",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Alexander",
+                    "last_name": "de Loor",
+                    "name": null,
+                    "headline": "_"
+                }
+            ]
+        },
+        {
+            "title": "KPP SCHAT Troskrachtcriteria",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "description": "Client: Rijkswaterstaat\nPositions held: Project leader\nActivities performed: Updating the force criteria for low-head shipping locks to include bigger inland vessels using the calculation programs Lockfill and SCHAT.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Alexander",
+                    "last_name": "de Loor",
+                    "name": null,
+                    "headline": "_"
+                }
+            ]
+        },
+        {
+            "title": "Detachering RWS",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "description": "Client: Rijkswaterstaat\nPositions held: Project engineer\nActivities performed: During the whole of 2013 this mainly involved hydraulic advice regarding the new navigation lock at IJmuiden, but also regarding the shipping safety in the Kleine Sluis IJmuiden in combination with fish migration through this lock.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Alexander",
+                    "last_name": "de Loor",
+                    "name": null,
+                    "headline": "_"
+                }
+            ]
+        },
+        {
+            "title": "Perspectief Krammersluizen",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "description": "Client: Rijkswaterstaat-Zeeland\nPositions held: Project engineer\nActivities performed: A coupling between the models Wanda and Sobek was made to calculate the salt intrusion in the Volkerak-Zoommeer.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Alexander",
+                    "last_name": "de Loor",
+                    "name": null,
+                    "headline": "_"
+                }
+            ]
+        },
+        {
+            "title": "KPP Lockfill",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "description": "Client: Rijkswaterstaat\nPositions held: Project engineer\nActivities performed: Project involving the further development of the calculation program for lock filling (Lockfill)",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Alexander",
+                    "last_name": "de Loor",
+                    "name": null,
+                    "headline": "_"
+                }
+            ]
+        },
+        {
+            "title": "KPP Schutbedrijf",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "description": "Client: Rijkswaterstaat\nPositions held: Project engineer\nActivities performed: Research into the forces on ships due to density currents near a navigation lock using the CFD code OpenFOAM",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Alexander",
+                    "last_name": "de Loor",
+                    "name": null,
+                    "headline": "_"
+                }
+            ]
+        },
+        {
+            "title": "RINK 2012",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "description": "Positions held: Project engineer\nActivities performed: Performing and interpreting Lockfill calculations on behalf of the risk assessment \nprogram RINK (Risico Inventarisatie Natte Kunstwerken) of Rijkswaterstaat. The calculations were commissioned by the engineering agencies performing the RINK assessments.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Alexander",
+                    "last_name": "de Loor",
+                    "name": null,
+                    "headline": "_"
+                }
+            ]
+        },
+        {
+            "title": "Non-Newtonian flow through pipe bends",
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "description": "Positions held: project engineer\nActivities performed: Setting up a CFD model that can be used to verify modelling results with experimental lab experiments performed within the same project. Special care needed to be taken because of the highly Non-Newtonian behaviour of the liquid (clay water mixture) and associated limitations of industry standard turbulence models.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Alexander",
+                    "last_name": "de Loor",
+                    "name": null,
+                    "headline": "_"
+                }
+            ]
+        },
+        {
+            "title": "Sediment traps study",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "description": "Positions held: project engineer\nActivities performed: Performing TUDFlow3D (near field) calculations on sediment traps in the Port of Rotterdam in order to optimise sediment trap size and location and to provide input for the far field model.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Alexander",
+                    "last_name": "de Loor",
+                    "name": null,
+                    "headline": "_"
+                }
+            ]
+        },
+        {
+            "title": "CFD for optimisation of pump sump",
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "description": "Positions held: project engineer\nActivities performed: Flow field analysis of proposed and optimised designs of a pump sump with a focus on quick delivery time. After performing the main task the project was extended with hydraulic advise on further improvements to the design.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Alexander",
+                    "last_name": "de Loor",
+                    "name": null,
+                    "headline": "_"
+                }
+            ]
+        },
+        {
+            "title": "Leak localisation",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "description": "Positions held: project engineer\nActivities performed: Supporting the project by performing Epanet computations and assisting our partner on the hydraulics side in order to improve their leak localisation algortihm.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Alexander",
+                    "last_name": "de Loor",
+                    "name": null,
+                    "headline": "_"
+                }
+            ]
+        },
+        {
+            "title": "Flow analysis of sewage pipe construction anomalies",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "description": "Positions held: Project leader\nActivities performed: Investigating the influence of out of tolerance construction anomalies in a drainage pipe network with regard to flow velocities and water levels using the Wanda software package.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Alexander",
+                    "last_name": "de Loor",
+                    "name": null,
+                    "headline": "_"
+                }
+            ]
+        },
+        {
+            "title": "Hydraulic advise on renovation of Krammer locks",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "description": "Positions held: Project engineer\nActivities performed: Analysis of the proposed new levelling openings in the lock gates using CFD focussing on overall design, discharge capacity and flow induced forces, performing an update of the Lockfill calculations using the newly calculated discharge coefficients and setting up set-point tables.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Alexander",
+                    "last_name": "de Loor",
+                    "name": null,
+                    "headline": "_"
+                }
+            ]
+        },
+        {
+            "title": "Hydraulic analysis of rainwater runoff pumping station",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "description": "Positions held: Project engineer\nActivities performed: Numerical modelling of the flow using CFD in a rainwater runoff pumping station of several key water level scenario's. This involved transient calculations (with steady state bc's) including a free surface using VoF",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Alexander",
+                    "last_name": "de Loor",
+                    "name": null,
+                    "headline": "_"
+                }
+            ]
+        },
+        {
+            "title": " Sewage pumping station Aalst",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "description": "Client: Waterschap De Dommel\nPositions held: Project engineer\nActivities performed: Numerical modelling of the flow using CFD in a sewage water pumping station after rebuilding. Focus was on determining flow conditions in the pump sump, the pump intakes and at the pump itself. The model was transient and included a free surface.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Alexander",
+                    "last_name": "de Loor",
+                    "name": null,
+                    "headline": "_"
+                }
+            ]
+        },
+        {
+            "title": "Membership of Toetsgroep Terneuzen",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "description": "Client: Rijkswaterstaat\nPositions held: Hydraulic expert\nActivities performed: Advising Rijkswaterstaat in assessing the quality of the work performed by the contractor with respect to the hydraulic design of the levelling system of the New Sea Lock at Terneuzen. Assessment of the general design, but with a focus on the verification methods used, more specifically the 3D CFD work undertaken by the contractor.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Alexander",
+                    "last_name": "de Loor",
+                    "name": null,
+                    "headline": "_"
+                }
+            ]
+        }
+    ],
+    "publications": [
+        {
+            "name": "Determining Flow Velocities at Damaged Weir of Grave Using CFD",
+            "publisher": "Proceedings of 7th IAHR International Symposium on Hydraulic Structures",
+            "url": "https://digitalcommons.usu.edu/ishs/2018/session12-2018/3/",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2018
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Alexander",
+                    "last_name": "de Loor",
+                    "name": null,
+                    "headline": "_"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Tom",
+                    "last_name": "O'Mahoney",
+                    "name": null,
+                    "headline": "Hydraulic Engineering at Deltares"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Wim",
+                    "last_name": "Kortlever",
+                    "name": null,
+                    "headline": "Hydraulic Engineer at Rijkswaterstaat"
+                }
+            ]
+        },
+        {
+            "name": "Effect of Density Differences on the Forces Acting on a Moored Vessel While Operating Navigation Locks",
+            "publisher": "Journal of Hydraulic Engineering",
+            "url": "https://ascelibrary.org/doi/10.1061/(ASCE)HY.1943-7900.0001445",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2018
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Alexander",
+                    "last_name": "de Loor",
+                    "name": null,
+                    "headline": "_"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Helena I.",
+                    "last_name": "S. Nogueira",
+                    "name": null,
+                    "headline": "Hydraulic Engineering | Experimental techniques"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Pepijn",
+                    "last_name": "van der Ven",
+                    "name": null,
+                    "headline": "Beer brewer (Dipl. Brew)"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Tom",
+                    "last_name": "O'Mahoney",
+                    "name": null,
+                    "headline": "Hydraulic Engineering at Deltares"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Arne",
+                    "last_name": "van der Hout",
+                    "name": null,
+                    "headline": "researcher/advisor harbour, coastal and offshore engineering at Deltares"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Wim",
+                    "last_name": "Kortlever",
+                    "name": null,
+                    "headline": "Hydraulic Engineer at Rijkswaterstaat"
+                }
+            ]
+        },
+        {
+            "name": "A Comparison of Experimental and Numerical Behaviour Characteristics of a Ship Entering a Lock Using Benchmark Test Data",
+            "publisher": "Transactions RINA, Vol 158, Part A2, International Journal Maritime Engineering, Apr-Jun 2016",
+            "url": "http://www.rina.org.uk/IJME_334.html",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2016
+            },
+            "authors": [
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "M Vantorre",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "M Candries",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "G Delefortrie",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "K Eloot",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "J Verwilligen",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "R Henn",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "T Vergote",
+                    "headline": null
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Alexander",
+                    "last_name": "de Loor",
+                    "name": null,
+                    "headline": "_"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "H-Z Wang",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Z-J Zou",
+                    "headline": null
+                }
+            ]
+        },
+        {
+            "name": "Computational Fluid Dynamics simulations of the effects of density differences during the filling process in a sea lock",
+            "publisher": "SMART RIVERS 2015, Buenos Aires, Argentina",
+            "url": null,
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2015
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Alexander",
+                    "last_name": "de Loor",
+                    "name": null,
+                    "headline": "_"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Tom",
+                    "last_name": "O'Mahoney",
+                    "name": null,
+                    "headline": "Hydraulic Engineering at Deltares"
+                }
+            ]
+        },
+        {
+            "name": "Comparison of Scale Model Measurements and 3D CFD Simulations of Loss Coefficients and Flow Patterns for Lock Levelling Systems",
+            "publisher": "Proceedings of 7th International PIANC-SMART Rivers Conference",
+            "url": null,
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2015
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Alexander",
+                    "last_name": "de Loor",
+                    "name": null,
+                    "headline": "_"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "P.P.D. van der Ven",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "G. van Velzen",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "T.S. O'Mahoney",
+                    "headline": null
+                }
+            ]
+        },
+        {
+            "name": "Hydraulic Studies of the Levelling System for the New Sea Lock at IJmuiden",
+            "publisher": "BAW Kolloquium Wasserbauwerke \u2013 Vom hydraulischen Entwurf bis zum Betrieb",
+            "url": "https://hdl.handle.net/20.500.11970/102271",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2015
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Alexander",
+                    "last_name": "de Loor",
+                    "name": null,
+                    "headline": "_"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Wim",
+                    "last_name": "Kortlever",
+                    "name": null,
+                    "headline": "Hydraulic Engineer at Rijkswaterstaat"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Arne",
+                    "last_name": "van der Hout",
+                    "name": null,
+                    "headline": "researcher/advisor harbour, coastal and offshore engineering at Deltares"
+                }
+            ]
+        },
+        {
+            "name": "Modelling and simulation of low-density lipoprotein transport through multi-layered wall of an anatomically realistic carotid artery bifurcation.",
+            "publisher": "Journal of the Royal Society Interface",
+            "url": "http://rsif.royalsocietypublishing.org/content/royinterface/11/91/20130941.full.pdf",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2014
+            },
+            "authors": [
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Sasa Kenjeres",
+                    "headline": null
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Alexander",
+                    "last_name": "de Loor",
+                    "name": null,
+                    "headline": "_"
+                }
+            ]
+        },
+        {
+            "name": "The use and validation of OpenFOAM to determine the lateral and longitudinal forces exerted on a vessel in the lock and in the lock approach",
+            "publisher": "Proceedings 3rd International Conference on Ship Manoeuvring in Shallow and Confined Water",
+            "url": null,
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2013
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Alexander",
+                    "last_name": "de Loor",
+                    "name": null,
+                    "headline": "_"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "A.J. van der Hout",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "O.M. Weiler",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "W.C.D. Kortlever",
+                    "headline": null
+                }
+            ]
+        }
+    ],
+    "courses": [
+        {
+            "name": "Communiceren in projecten (VO)",
+            "number": null
+        },
+        {
+            "name": "Communiceren met klanten & opdrachtgevers (VO)",
+            "number": null
+        },
+        {
+            "name": "Ontwerpen en beoordelen van waterbouwkundige kunstwerken (PAO Delft)",
+            "number": null
+        },
+        {
+            "name": "Star-CCM+ Basic Course (CD-Adapco)",
+            "number": null
+        },
+        {
+            "name": "Star-CCM+ Meshing Best Practices (Siemens)",
+            "number": null
+        }
+    ],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 625854,
+                "name": "One Simulations, part of Sweco",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQEm4d1IfXN9Ng/company-logo_400_400/0/1679328796612?e=1703721600&v=beta&t=hzHqTWrTw7yfJRWEt-qhzp1yh0ZBLWMI--CqOxTFrJ0",
+                "url": "https://www.linkedin.com/company/one-simulations-part-of-sweco/",
+                "employees": {
+                    "start": 2,
+                    "end": 10
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2023
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Leiden, South Holland, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2023
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "One Simulations, part of Sweco",
+                    "description": null,
+                    "title": "CFD Simulation Specialist",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 247844,
+                "name": "Efectis",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQGN3BeWcITLgw/company-logo_400_400/0/1546799376523?e=1703721600&v=beta&t=1eI0xKwPpG4Pe0RdoPJ8P95QDHqg6KLiDWZ2PGPsc34",
+                "url": "https://www.linkedin.com/company/efectis-nederland-bv/",
+                "employees": {
+                    "start": 201,
+                    "end": 500
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2023
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Bleiswijk, South Holland, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2023
+                        }
+                    },
+                    "company": "Efectis",
+                    "description": null,
+                    "title": "Project Leader Fire Engineering",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 217430,
+                "name": "Deltares",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQFQ03SpsCfp7w/company-logo_400_400/0/1576578362152?e=1703721600&v=beta&t=07X-8u-l0CiaIJ4WgiYrWBrppDeVMA-YSnqBgHlpCiw",
+                "url": "https://www.linkedin.com/company/deltares/",
+                "employees": {
+                    "start": 501,
+                    "end": 1000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "delft area, netherlands",
+                    "date": {
+                        "start": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2012
+                        },
+                        "end": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "Deltares",
+                    "description": "At Deltares I work as an advisor and researcher on the hydrodynamics in and around hydraulic infrastructure (navigation locks, wiers, pumping stations, etc.). Among others this involves design and modeling of filling and emptying systems of navigation locks, hydraulic assessment of pumping station operation etc.. For my advice I use a combination of technical handbooks, custom calculation tools and computational fluid dynamics (CFD). Recent years I've been focussing my efforts mainly on projects involving CFD. I've been working to widening the use of CFD within Deltares within the realm of hydraulic structures and industrial infrastructure by increasing the simulation quality and improving workflow. I work both as project engineer or project leader, performing analysis, reporting results and writing proposals.",
+                    "title": "Advisor/researcher",
+                    "employment_type": null
+                },
+                {
+                    "location": "Delft",
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2011
+                        },
+                        "end": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2012
+                        }
+                    },
+                    "company": "Deltares",
+                    "description": "During this internship I analysed the inhouse calculation program for calculating the forces on ships during levelling in a navigation lock. The study focussed on improvements to give a better approximation for sea-going vessels.",
+                    "title": "Intern",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 166529,
+                "name": "TU Delft",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQFwaGpwaod9mQ/company-logo_400_400/0/1670699851986?e=1703721600&v=beta&t=Aw4oLxoKsIJcblYDjxw9200FClnyhZu8DxzcfJRDFOs",
+                "url": "https://www.linkedin.com/school/tudelft/",
+                "employees": {
+                    "start": 5001,
+                    "end": 10000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2004
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2008
+                        },
+                        "end": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2012
+                        }
+                    },
+                    "company": "Delft University of Technology",
+                    "description": null,
+                    "title": "MSc student",
+                    "employment_type": null
+                },
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2010
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2011
+                        }
+                    },
+                    "company": "Delft University of Technology",
+                    "description": "Master's Project performed at the department of Multi-Scale Physics. Thesis titled \"Towards Numerical Modelling of Low-Density Lipoprotein Transport through the Multi-Layered Arterial Wall\".\n\nIn this study I implemented a mathematical model for the transport of low-density lipoproteins (LDL) in the CFD package Ansys Fluent. I applied this model to a patient-specific geometry of a carotid bifurcation to investigate the areas of high risk on atherosclerosis. Furthermore I performed an analysis on the influence of computational mesh size and type on the wall shear stress (WSS) in this carotid bifurcation.",
+                    "title": "Master's Project",
+                    "employment_type": null
+                },
+                {
+                    "location": "Delft Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2004
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2008
+                        }
+                    },
+                    "company": "Delft University of Technology",
+                    "description": null,
+                    "title": "BSc student",
+                    "employment_type": null
+                },
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2006
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2007
+                        }
+                    },
+                    "company": "Delft University of Technology",
+                    "description": "Together with a fellow student mentor I was responsible for guiding a group of first year students in the introduction week, monitor their study progress and give advice on study related matters.",
+                    "title": "Student mentor",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 30419,
+                "name": "Damen Shipyards",
+                "logo": "https://media.licdn.com/dms/image/C560BAQGrc9R5PBMStg/company-logo_400_400/0/1605884597597?e=1703721600&v=beta&t=LRLIfekuFIfHIT7RqQTxQxIl3FrphRH7DXrZIPw0RQk",
+                "url": "https://www.linkedin.com/company/damen-shipyards/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2008
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2010
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Gorinchem",
+                    "date": {
+                        "start": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2008
+                        },
+                        "end": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2010
+                        }
+                    },
+                    "company": "Damen",
+                    "description": "My work at Damen was focused on ship acoustics. \nI developed a simple model to quickly predict underwater ship noise. Furthermore I performed a comparison between measurements and predictions of indoor ship noise for various ship types using available measurement data and an in-house ship noise model. From this comparison I was able to obtain error corrections for the investigated ship types to be used for future noise predictions.",
+                    "title": "Assistent Project Engineer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "DSV Nieuwe Delft (Delft Student Society)",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2008
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2009
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2008
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2009
+                        }
+                    },
+                    "company": "DSV Nieuwe Delft (Delft Student Society)",
+                    "description": "As secretary of board I was responsible for the official correspondence, member administration, the archive and making minutes during meetings. Furthermore, together with my fellow board members I was responsible for the daily management of the society.\nDuring this year we have also been responsible for revising the statutes.",
+                    "title": "Secretary of board",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Autodesk Fusion 360",
+        "FDS",
+        "CFX",
+        "Physics",
+        "Star-CCM+",
+        "CFD",
+        "Simulations",
+        "Modeling",
+        "Engineering",
+        "Research",
+        "Science",
+        "Analysis",
+        "Matlab",
+        "LaTeX",
+        "Microsoft Office",
+        "ANSYS",
+        "Python (Programming Language)",
+        "English",
+        "Dutch"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

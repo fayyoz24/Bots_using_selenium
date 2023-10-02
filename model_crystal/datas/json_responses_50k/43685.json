@@ -1,0 +1,565 @@
+{
+    "profile_id": "martin-visser-96b90769",
+    "first_name": "Martin",
+    "last_name": "Visser",
+    "sub_title": "Software Engineer at Eindhoven Medical Robotics",
+    "profile_picture": "https://media.licdn.com/dms/image/C5603AQEjRZS5bVjVcw/profile-displayphoto-shrink_800_800/0/1517433549112?e=1701302400&v=beta&t=VM_QHdSREMhPxK2V5DDNNQhYtQLk9jUwr9_UCB9dTAI",
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAAA6M8KMB020kKkXD6nmDCv-QbBpO6OGJJIg",
+    "object_urn": 244117667,
+    "birth_date": null,
+    "summary": "Medical imaging has always fascinated me and is an integral part of the clinical workflow. As the accuracy of surgical tools becomes ever more precise, the precision of your planning capabilities becomes paramount. Over the past years, I have enjoyed the privilege of working in close cooperation with clinical experts to perform research and help develop planning tools to this end.\nCurrently I am working as a software engineer in the field of medical robotics, providing the necessary image processing to help guide our semi-autonomous surgical robot in its task. \nIn my day to day I focus on tasks surrounding medical image processing and clinical trial management. My main tasks involve development/implementation of segmentation and registration algorithms, good clinical practices and GDPR compliance. I am often described as a driven person with a strong work ethic, an energetic person with an affinity for research and strong interpersonal abilities in interacting with various stakeholders.",
+    "location": {
+        "country": "Netherlands",
+        "short": "Eindhoven, North Brabant",
+        "city": "Eindhoven",
+        "state": "North Brabant",
+        "default": "Eindhoven, North Brabant, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "NL",
+            "language": "nl"
+        },
+        "supported_locales": [
+            {
+                "country": "NL",
+                "language": "nl"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "English",
+                "proficiency": "FULL_PROFESSIONAL"
+            },
+            {
+                "name": "Finnish",
+                "proficiency": "ELEMENTARY"
+            },
+            {
+                "name": "German",
+                "proficiency": "LIMITED_WORKING"
+            },
+            {
+                "name": "Nederlands",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ]
+    },
+    "industry": "Medical Device",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "school": {
+                "name": "Vrije Universiteit Amsterdam (VU Amsterdam)",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQGFG964atm3Ow/company-logo_400_400/0/1682661887840?e=1703721600&v=beta&t=871s4br2EokXU4GPzYVwsoy3BpQAoKkgU-c2zYvtGmQ",
+                "url": "https://www.linkedin.com/school/vrije-universiteit-amsterdam/"
+            },
+            "degree_name": "Master of Science (MSc)",
+            "field_of_study": "Medical Physics",
+            "grade": "Overall average: 7.9 Major Research Project: 8.5"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2007
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "school": {
+                "name": "Vrije Universiteit Amsterdam (VU Amsterdam)",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQGFG964atm3Ow/company-logo_400_400/0/1682661887840?e=1703721600&v=beta&t=871s4br2EokXU4GPzYVwsoy3BpQAoKkgU-c2zYvtGmQ",
+                "url": "https://www.linkedin.com/school/vrije-universiteit-amsterdam/"
+            },
+            "degree_name": "Bachelor of Science (BS)",
+            "field_of_study": "Medische Natuurwetenschappen",
+            "grade": "Overall average: 7.1 "
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [],
+    "organizations": [],
+    "projects": [],
+    "publications": [
+        {
+            "name": "Accurate MR Image Registration to Anatomical Reference Space for Diffuse Glioma",
+            "publisher": "Frontiers in Neuroscience",
+            "url": "https://doi.org/10.3389/fnins.2020.00585",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2020
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Martin",
+                    "last_name": "Visser",
+                    "name": null,
+                    "headline": "Software Engineer at Eindhoven Medical Robotics"
+                }
+            ]
+        },
+        {
+            "name": "Quantifying eloquent locations for glioblastoma surgery using resection probability maps",
+            "publisher": "Journal of Neurosurgery",
+            "url": "https://doi.org/10.3171/2020.1.JNS193049",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2020
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Martin",
+                    "last_name": "Visser",
+                    "name": null,
+                    "headline": "Software Engineer at Eindhoven Medical Robotics"
+                }
+            ]
+        },
+        {
+            "name": "Facing privacy in neuroimaging: removing facial features degrades performance of image analysis methods",
+            "publisher": "European Radiology",
+            "url": "https://doi.org/10.1007/s00330-019-06459-3",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2019
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Martin",
+                    "last_name": "Visser",
+                    "name": null,
+                    "headline": "Software Engineer at Eindhoven Medical Robotics"
+                }
+            ]
+        },
+        {
+            "name": "Non-linear registration improves statistical power to detect hippocampal atrophy in aging and dementia",
+            "publisher": "NeuroImage: Clinical",
+            "url": "https://doi.org/10.1016/j.nicl.2019.101902",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2019
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Martin",
+                    "last_name": "Visser",
+                    "name": null,
+                    "headline": "Software Engineer at Eindhoven Medical Robotics"
+                }
+            ]
+        },
+        {
+            "name": "Inter-rater agreement in glioma segmentations on longitudinal MRI",
+            "publisher": "NeuroImage: Clinical",
+            "url": "https://doi.org/10.1016/j.nicl.2019.101727",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2019
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Martin",
+                    "last_name": "Visser",
+                    "name": null,
+                    "headline": "Software Engineer at Eindhoven Medical Robotics"
+                }
+            ]
+        },
+        {
+            "name": "Comparing Glioblastoma Surgery Decisions Between Teams Using Brain Maps of Tumor Locations, Biopsies, and Resections",
+            "publisher": "JCO Clinical Cancer Informatics",
+            "url": "https://doi.org/10.1200/CCI.18.00089",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2019
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Martin",
+                    "last_name": "Visser",
+                    "name": null,
+                    "headline": "Software Engineer at Eindhoven Medical Robotics"
+                }
+            ]
+        }
+    ],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 18618787,
+                "name": "Eindhoven Medical Robotics",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQG7HZYsq7hOuA/company-logo_400_400/0/1536664903135?e=1703721600&v=beta&t=IxQcCxMm7UbZgzaTaCKDq8LsylUn1ea6RXlF8gkLd-s",
+                "url": "https://www.linkedin.com/company/eindhoven-medical-robotics/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Eindhoven, North Brabant, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2020
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Eindhoven Medical Robotics",
+                    "description": "My main task revolves around creating, implementing and refining image processing algorithms that help our surgical robot recognize structures and locate targets that must be either avoided or reached. Other tasks that are part of my day to day work are writing scientific output that reports on the accuracy of our software and aligning our efforts with the needs of our clinical partners.\nWe work in an interdisciplinary team so that we can support each other towards creating a safe, cost-efficient and consistently top performing surgical robot.",
+                    "title": "Software Engineer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 4083,
+                "name": "Amsterdam UMC",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQHBs6rXsQYqGQ/company-logo_400_400/0/1528382070277?e=1703721600&v=beta&t=iwYT4Tzdgi40Bei8IUBPGU94lcPpbgKrFX2BoP0F7oY",
+                "url": "https://www.linkedin.com/company/amsterdamumc/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amsterdam",
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2020
+                        }
+                    },
+                    "company": "Amsterdam UMC",
+                    "description": "During my time as PhD-candidate I worked in a multi-disciplinary team called the PICTURE project, which combined knowledge and experience in the neurosurgical, radiotherapeutic and imaging aspects of glioma treatment.\nHere I conducted several lines of research, such as studying the reproducibility of ground truth segmentations on MRI performed by medical experts and residents. To achieve this goal I adapted DICOMs of 140 MRI studies for research purposes, creating unique plans with duplicate data for multiple raters in a certified clinical neural navigation suite (BrainLab\u00ae Elements).\nFurthermore, I designed robust strategies for automatic glioblastoma segmentation in clinical MRI and implemented robust (non-)linear registration strategies for registering diffuse glioma MRI to an anatomical reference space with various registration packages.",
+                    "title": "PHD Candidate",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Heineken Experience",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2009
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amsterdam",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2009
+                        },
+                        "end": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2015
+                        }
+                    },
+                    "company": "Heineken Experience",
+                    "description": null,
+                    "title": "Host",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 31903,
+                "name": "Medis medical imaging systems bv",
+                "logo": "https://media.licdn.com/dms/image/C560BAQFNSJcMfFK6Fw/company-logo_400_400/0/1655278137527?e=1703721600&v=beta&t=a2vJzZtLIAJ15YQRJ_tVwZBIzPqR7Qh94JSy21iThEo",
+                "url": "https://www.linkedin.com/company/medis-medical-imaging/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Leiden",
+                    "date": {
+                        "start": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2014
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2014
+                        }
+                    },
+                    "company": "Medis Medical Imaging",
+                    "description": "Supervisor: dr. ir.  K. van Wijk, dr. M. Hofman\t\n\t\t\t         \nIn this research the factors influencing the post-processing in Qflow\u00ae have been examined and quantitatively evaluated, and the current method is compared to another well-known correctional method.",
+                    "title": "Offset correction of Phase Contrast MR images by means of post processing",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 4083,
+                "name": "VUmc",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQHBs6rXsQYqGQ/company-logo_400_400/0/1528382070277?e=1703721600&v=beta&t=iwYT4Tzdgi40Bei8IUBPGU94lcPpbgKrFX2BoP0F7oY",
+                "url": "https://www.linkedin.com/company/amsterdamumc/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2013
+                        },
+                        "end": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2014
+                        }
+                    },
+                    "company": "Amsterdam UMC",
+                    "description": "Supervisor: dr. J.C. de Munck, dr. T.J.C Faes\n\nIn this research the development of an innovative algorithm, which will assist a brain-surgeon in developing a preoperative plan in order to place electrodes in the brain of a patient, is described. This research was conducted at the department of Physics and Medical Technology of the VU University Medical Center in Amsterdam.  \nThis research has won the IMDI talent award of 2013-2014.",
+                    "title": "Planning depth electrodes for brain surgery",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 600276,
+                "name": "La Place restaurants",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQHwGDxJTsTO0A/company-logo_400_400/0/1612793946679?e=1703721600&v=beta&t=LGgn8Eahj1Pm-tVFekHPlKjzv5sw5e5hxLUPCekoegE",
+                "url": "https://www.linkedin.com/company/la-place-restaurants/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2001
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2008
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "day": null,
+                            "year": 2001
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": 2008
+                        }
+                    },
+                    "company": "La Place Restaurants",
+                    "description": null,
+                    "title": "Cook",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 26556,
+                "name": "Danzas AEI",
+                "logo": "https://media.licdn.com/dms/image/C510BAQE5nQWRQ4iNLw/company-logo_400_400/0/1530450012636?e=1703721600&v=beta&t=2JMeGK8MkzOgDvEFRK3_ny2bP_7UyFgIG6FqtPcIHow",
+                "url": "https://www.linkedin.com/company/danzas-aei/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 1999
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2000
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 1999
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2000
+                        }
+                    },
+                    "company": "Danzas",
+                    "description": null,
+                    "title": "Logistiek medewerker",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Critical Thinking",
+        "Medical Imaging",
+        "Medical Technology",
+        "Machine Learning",
+        "Image Processing",
+        "Research",
+        "C++",
+        "Matlab",
+        "English",
+        "Scientific Programming",
+        "Medical Physics",
+        "Medical Image Processing",
+        "Social Skills",
+        "Image Registration",
+        "Computer Vision",
+        "Python (Programming Language)",
+        "Dutch",
+        "3D Math",
+        "DICOM"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

@@ -1,0 +1,671 @@
+{
+    "profile_id": "vishesh-bajpai-13ba6711b",
+    "first_name": "Vishesh",
+    "last_name": "Bajpai",
+    "sub_title": "M.Sc. Management of Technology | TU Delft",
+    "profile_picture": "https://media.licdn.com/dms/image/D4E03AQEGauSXHkzbKg/profile-displayphoto-shrink_800_800/0/1695145659481?e=1701302400&v=beta&t=K3E2u49QMxW9a5baAFDlf9W64LWHCpcY7iD91c10L4w",
+    "background_image": "https://media.licdn.com/dms/image/D4E16AQGUdJ4YwoFBcw/profile-displaybackgroundimage-shrink_350_1400/0/1673871999653?e=1701302400&v=beta&t=loRlbJtBSZxirHOzXhy10HUJivNsF2WVtk5ofLDmR6U",
+    "profile_type": "personal",
+    "entity_urn": "ACoAAB3g_f8BqijxqyDFIwStpr6K0PWj4s8WpQ4",
+    "object_urn": 501284351,
+    "birth_date": {
+        "month": 12,
+        "day": 25,
+        "year": null
+    },
+    "summary": null,
+    "location": {
+        "country": "Netherlands",
+        "short": "Delft, South Holland",
+        "city": "Delft",
+        "state": "South Holland",
+        "default": "Delft, South Holland, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": []
+    },
+    "industry": "Management Consulting",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "school": {
+                "name": "TU Delft | Technology, Policy and Management",
+                "logo": "https://media.licdn.com/dms/image/C560BAQHepEMAkAyzbg/company-logo_400_400/0/1639249471886?e=1703721600&v=beta&t=urTVaVYsvHG_bRYxpMS2h1ysGXJIKJhFSzwGr3Y4DqA",
+                "url": "https://www.linkedin.com/school/tu-delft-technology-policy-and-management/"
+            },
+            "degree_name": "Master of Science - MS",
+            "field_of_study": "Management of Technology",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "school": {
+                "name": "UPES",
+                "logo": "https://media.licdn.com/dms/image/C560BAQGIsLgya7K1ZA/company-logo_400_400/0/1642751222695?e=1703721600&v=beta&t=wZXdluBuk7FQCfjrdeW3yM8i5YcZATfxutqePw34hlk",
+                "url": "https://www.linkedin.com/school/upesdehradun/"
+            },
+            "degree_name": "Bachelor of Technology - BTech",
+            "field_of_study": "Electronics Engineering",
+            "grade": "8.22"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "school": {
+                "name": "La Martinere College",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQGpS5JIZZgfUg/company-logo_400_400/0/1581103292859?e=1703721600&v=beta&t=-JmIolat2l9vEbLbGdwxPXAgXxXtB8r-1KfwPcurDOA",
+                "url": "https://www.linkedin.com/school/la-martinere-boys-college-lucknow/"
+            },
+            "degree_name": "Intermediate",
+            "field_of_study": "Physics Chemistry Mathematics",
+            "grade": "79%"
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [
+        {
+            "name": "C++",
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "MHWH Computer Education Centre",
+            "url": null,
+            "license_number": "MHWH/LKO/2501/18",
+            "display_source": null,
+            "company": null
+        },
+        {
+            "name": "IT Sub-Head",
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "authority": "IEEE",
+            "url": null,
+            "license_number": null,
+            "display_source": null,
+            "company": {
+                "id": null,
+                "name": "IEEE",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQGoRdJYxmIDhQ/company-logo_400_400/0/1519856132409?e=1703721600&v=beta&t=wV9VjcLXzYYHPRHGJmlaLJ5g180olvEuQXKx0NMDOEg",
+                "url": null
+            }
+        }
+    ],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "FPGA Implementation of FIR filter in HDL and MATLAB environment (Major Project) ",
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "description": "- The proposed FIR filter is coded in VHDL using modular design approach and implemented in Spartan-3E FPGA.\n- Performance evaluation is done based and the results are verified in Xilinx ISE tool and then implemented in MATLAB environment",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Vishesh",
+                    "last_name": "Bajpai",
+                    "name": null,
+                    "headline": "M.Sc. Management of Technology | TU Delft"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Dr. Adesh",
+                    "last_name": "Kumar",
+                    "name": null,
+                    "headline": "Senior Associate Professor University of Petroleum and Energy Studies"
+                }
+            ]
+        },
+        {
+            "title": "Health Monitoring System (Minor Project)",
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "description": "\u25aa GSM based Patient Health Monitoring Project mainly works for allowing doctors or relatives of patient to check the status of patient health remotely. \n\u25aa The system calculates the heartbeats and body temperature of patient and if it goes above certain limit then immediate informative alert message will be sent to the registered number. \n\u25aa Heartbeat sensor was designed by using a light emitting diode and photo-diode.\n",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Vishesh",
+                    "last_name": "Bajpai",
+                    "name": null,
+                    "headline": "M.Sc. Management of Technology | TU Delft"
+                }
+            ]
+        }
+    ],
+    "publications": [],
+    "courses": [
+        {
+            "name": "Embedded System (Using AVR) at CETPA Infotech Pvt Ltd.",
+            "number": null
+        },
+        {
+            "name": "MATLAB using Image Processing at Rendezvous 2016, IIT Delhi",
+            "number": null
+        },
+        {
+            "name": "Python + Machine Learning",
+            "number": null
+        },
+        {
+            "name": "Telecom Essentials Course by Ericsson Career Connect Program",
+            "number": null
+        }
+    ],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 72408725,
+                "name": "Versuni",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQE8AtdD9Yhv2w/company-logo_400_400/0/1676988466003?e=1703721600&v=beta&t=nT5zNgmpdWNhhRMPVuIIkXFAgKRz9Z1E80Fjm2ERKB8",
+                "url": "https://www.linkedin.com/company/versuni/",
+                "employees": {
+                    "start": 5001,
+                    "end": 10000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2023
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amsterdam, North Holland, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2023
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Versuni",
+                    "description": null,
+                    "title": "Inhouse Consultant",
+                    "employment_type": "Internship"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 11752193,
+                "name": "blackbear | hassle-free outsourcing",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQHTAbt9A7rCmw/company-logo_400_400/0/1648136311342?e=1703721600&v=beta&t=K0ND9NJ7cYL5yLyG3AVJ2ZnO5nkLM-a1u3_tGotffFI",
+                "url": "https://www.linkedin.com/company/blackbearoutsourcing/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amsterdam, North Holland, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "blackbear | flexible capacity solutions",
+                    "description": null,
+                    "title": "Consultant",
+                    "employment_type": "Freelance"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 76986313,
+                "name": "Certinal",
+                "logo": "https://media.licdn.com/dms/image/C560BAQEMNzefRxin-A/company-logo_400_400/0/1642666426286?e=1703721600&v=beta&t=m0WLrKkDASA2VG57qSLP3frA9YPzKbBzTPICBmuFNHk",
+                "url": "https://www.linkedin.com/company/certinal/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Mumbai, Maharashtra, India",
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "Certinal",
+                    "description": null,
+                    "title": "Business Development Executive",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 15671,
+                "name": "Zycus",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQH-M5-AFL_ZSA/company-logo_400_400/0/1626760672373?e=1703721600&v=beta&t=BwmhQOxT-V499YbtvXQdXdZaYcRhMrP2B5uENFHVIo0",
+                "url": "https://www.linkedin.com/company/zycus/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Mumbai, Maharashtra, India",
+                    "date": {
+                        "start": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "Zycus",
+                    "description": null,
+                    "title": "Executive",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 73258822,
+                "name": "HyperCap",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQFF7iKbqOetEA/company-logo_400_400/0/1622872952939?e=1703721600&v=beta&t=ExzOCC88luqONo_3a3vZbL6n3fxT13iEOL9gSjJJRhw",
+                "url": "https://www.linkedin.com/company/hypercap/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Bengaluru, Karnataka, India",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "HyperCAP",
+                    "description": null,
+                    "title": "Associate",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 445538,
+                "name": "Waaree Group",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQEZ8kFm-rwtFA/company-logo_400_400/0/1626698022873?e=1703721600&v=beta&t=VbUIk8P8fVHLfEpEHHJR52ud0bTn8ffxop3EeF3w6GY",
+                "url": "https://www.linkedin.com/company/waaree-group/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Mumbai, Maharashtra, India",
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "Waaree Group",
+                    "description": null,
+                    "title": "Graduate Engineer Trainee",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 5665,
+                "name": "Tata Motors",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQHFEixlXSQrYA/company-logo_400_400/0/1671692859193?e=1703721600&v=beta&t=YqldtcIhBfoLIDfhuTIsNlH5wEPTqFytqcstRJ-Xe0M",
+                "url": "https://www.linkedin.com/company/tata-motors/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Lucknow Area, India",
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2018
+                        }
+                    },
+                    "company": "Tata Motors",
+                    "description": "- Prepared JH (Jesu Hozen) sheets/charts encompassing the department layout for BIW (Body in White) to aid mechanical labors' job comprehension.\n- Addressed common faults in programmable logic controllers employed in the BIW weld plant, focusing on NO-NC switches troubleshooting.",
+                    "title": "Summer Internship (TPM & Troubleshooting in PLC)",
+                    "employment_type": "Internship"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 3549587,
+                "name": "Panasonic",
+                "logo": "https://media.licdn.com/dms/image/D560BAQFV19BYz013HA/company-logo_400_400/0/1689934684123?e=1703721600&v=beta&t=021XIt1rRoFdiWSvLeTyptzNKJ3tmUGfMfug0cB3BO4",
+                "url": "https://www.linkedin.com/company/panasonic/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Noida Area, India",
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2018
+                        }
+                    },
+                    "company": "Panasonic",
+                    "description": "- Conducted experiments aimed at expanding color reproduction capabilities of LCD televisions.\n- Explored the utilization of specific combinations of backlight spectrum and optical filters to achieve complete RGB color delivery in existing LCD panels.\n- Studied various LED technologies, including edge-lit, RGB, and full array LEDs, to enhance understanding of their impact on color performance.",
+                    "title": "Internship",
+                    "employment_type": "Internship"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 13736086,
+                "name": "Lucknow Metro Rail Corporation Ltd. (LMRC)",
+                "logo": "https://media.licdn.com/dms/image/C510BAQE8fLV8Usf_RA/company-logo_400_400/0/1525398020681?e=1703721600&v=beta&t=4Be4Nwg_G0V6IdTkNvZqFjW8ygona6IlNyZ5uQSGMT8",
+                "url": "https://www.linkedin.com/company/lucknow-metro-rail-corporation-ltd-lmrc/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Lucknow, Uttar Pradesh, India",
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2017
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2017
+                        }
+                    },
+                    "company": "Lucknow Metro Rail Corporation Ltd. (LMRC)",
+                    "description": "- Gained knowledge and experience of public transport and service industry especially in their operations department.",
+                    "title": "Summer Trainee",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Communication",
+        "Business Project Management",
+        "Business Process Management",
+        "Business Transformation",
+        "Business Process Improvement",
+        "Client-oriented",
+        "Management Consulting",
+        "Attention to Detail",
+        "Problem Solving",
+        "Product Requirements",
+        "Jira",
+        "Data Analysis",
+        "Advanced eSignatures",
+        "Leadership",
+        "Microsoft Office",
+        "Microsoft PowerPoint",
+        "Microsoft Excel",
+        "Project Management",
+        "Teamwork",
+        "Microsoft Word"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

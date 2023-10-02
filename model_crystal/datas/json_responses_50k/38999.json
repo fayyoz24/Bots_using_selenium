@@ -1,0 +1,533 @@
+{
+    "profile_id": "bastian-van-manen-3b765a195",
+    "first_name": "Bastian",
+    "last_name": "van Manen",
+    "sub_title": "Robotics Computer Vision Engineer at TNO",
+    "profile_picture": "https://media.licdn.com/dms/image/D4E03AQGrBlbn9KQbsg/profile-displayphoto-shrink_800_800/0/1679322989821?e=1701302400&v=beta&t=nj-qlX0NuUA_oKr3Rm5NvlHqEpvGSYOAWCH6NYlexeU",
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAAC3WMrsBaiu2g9ZE9GDXyZWFSaw9dpgHQuQ",
+    "object_urn": 769012411,
+    "birth_date": null,
+    "summary": "Dutch native who grew up in France and went on to pursue his passion for robotics and electronics at the University of Twente. Everything related to science and mechatronics interests me, especially robotics and machine learning projects.",
+    "location": {
+        "country": "Netherlands",
+        "short": "The Hague, South Holland",
+        "city": "The Hague",
+        "state": "South Holland",
+        "default": "The Hague, South Holland, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "FR",
+            "language": "fr"
+        },
+        "supported_locales": [
+            {
+                "country": "FR",
+                "language": "fr"
+            },
+            {
+                "country": "US",
+                "language": "en"
+            },
+            {
+                "country": "NL",
+                "language": "nl"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "Deutsch",
+                "proficiency": "PROFESSIONAL_WORKING"
+            },
+            {
+                "name": "English",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "Espa\u00f1ol ",
+                "proficiency": "LIMITED_WORKING"
+            },
+            {
+                "name": "Fran\u00e7ais",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "Nederlands",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ]
+    },
+    "industry": "Mechanical Or Industrial Engineering",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "school": {
+                "name": "University of Twente",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQGlJy8j9vKdjA/company-logo_400_400/0/1533909472654?e=1703721600&v=beta&t=bKpiljO1A-RW4XDZMlQXM9J7YnPza1KG8jLvYitpPTI",
+                "url": "https://www.linkedin.com/school/university-of-twente/"
+            },
+            "degree_name": "Master's degree",
+            "field_of_study": "Electrical Engineering specialization Robotics and Mechatronics",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "school": {
+                "name": "University of Twente",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQGlJy8j9vKdjA/company-logo_400_400/0/1533909472654?e=1703721600&v=beta&t=bKpiljO1A-RW4XDZMlQXM9J7YnPza1KG8jLvYitpPTI",
+                "url": "https://www.linkedin.com/school/university-of-twente/"
+            },
+            "degree_name": "Bachelor of Science - BSC",
+            "field_of_study": "Advanced Technology",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "school": {
+                "name": "Lyc\u00e9e du Golfe de Saint-Tropez",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "Baccalaur\u00e9at",
+            "field_of_study": "Scientific",
+            "grade": "16.84"
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "Master's Thesis",
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "description": "Autonomously explore unknown environments and building maps is an essential skill for mobile robots. However, when the environment is unknown a priori, it is challenging to decide which target locations have to be explored first. Many approaches and algorithms have been proposed in literature to solve this problem, however, the aim is on improving the approach proposed in [1]. The thesis focuses on solutions involving Extended Kalman Filter and Reinforcement Learning.\n\nReferences:\n[1] Trajectory Optimization using Reinforcement Learning for Map Exploration, Kollar T. and Roy N",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Bastian",
+                    "last_name": "van Manen",
+                    "name": null,
+                    "headline": "Robotics Computer Vision Engineer at TNO"
+                }
+            ]
+        },
+        {
+            "title": "SpiderBot",
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "description": "Four-legged 3D printed spider robot with 3 DOF for each leg. For now, it is controlled using an Arduino Uno to test the movements of the spider. It will then be replaced by a Raspberry Pi zero and fitted with distance sensors and cameras for computer vision projects. The spider robot functions as a platform to apply our computer vision knowledge in the real world.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Bastian",
+                    "last_name": "van Manen",
+                    "name": null,
+                    "headline": "Robotics Computer Vision Engineer at TNO"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Benjamin",
+                    "last_name": "van Manen",
+                    "name": null,
+                    "headline": "Researcher/Lecturer in Unmanned Robotic Systems at Saxion University of Applied Sciences"
+                }
+            ]
+        },
+        {
+            "title": "Talking Buddha statue",
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "description": "Small Buddha statue fitted with a PIR sensor, MicroSD card reader and a small speaker. Powered by an Arduino nano, the statue will greet the user every morning and tell a fun fact or play some music. Audio files are chosen depending on the time of the day.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Bastian",
+                    "last_name": "van Manen",
+                    "name": null,
+                    "headline": "Robotics Computer Vision Engineer at TNO"
+                }
+            ]
+        },
+        {
+            "title": "Bachelor's Thesis",
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "description": "Social robotics is a field of robotics where the robot interacts and communicates with physical agents following social cues and norms. They are designed with human-robot interaction in mind and present different levels of autonomy to gain human-like behaviour, as such improving the robot\u2019s perception and acceptance. This is achieved using the HMMM (Heterogeneous Multi-Modal Mixing) toolkit, however...",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Bastian",
+                    "last_name": "van Manen",
+                    "name": null,
+                    "headline": "Robotics Computer Vision Engineer at TNO"
+                }
+            ]
+        },
+        {
+            "title": "Smart car",
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "description": "Dismantled and reconstructed plastic toy car to integrate multiple sensors, LEDs and micro-controllers. The smart car now contains two ultrasonic distance sensors, a PIR sensor to detect approaching objects, an infrared receiver enabling remote control, multiple LEDs and a Bluetooth receiver. The Bluetooth receiver is mainly used to wirelessly upload Arduino code to the micro-controller. The micro-controller in question is a NodeMCU with the esp8266, allowing it to connect to wifi. The car also features two front-wheel-drive systems that lets the car turn 360 degrees. Main application is autonomous driving.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Bastian",
+                    "last_name": "van Manen",
+                    "name": null,
+                    "headline": "Robotics Computer Vision Engineer at TNO"
+                }
+            ]
+        }
+    ],
+    "publications": [],
+    "courses": [
+        {
+            "name": "Advanced Computer Vision & Pattern Recognition",
+            "number": null
+        },
+        {
+            "name": "Airborne Laser Scanning",
+            "number": null
+        },
+        {
+            "name": "Basic Machine Learning",
+            "number": null
+        },
+        {
+            "name": "Control System Design for Mechatronics",
+            "number": null
+        },
+        {
+            "name": "Deep Learning - From Theory to Practice",
+            "number": null
+        },
+        {
+            "name": "Human Movement Control",
+            "number": null
+        },
+        {
+            "name": "Image Processing and Computer Vision",
+            "number": null
+        },
+        {
+            "name": "Modern Robotics",
+            "number": null
+        },
+        {
+            "name": "Optimal Control",
+            "number": null
+        },
+        {
+            "name": "Perspectives on Engineering Design",
+            "number": null
+        },
+        {
+            "name": "Philosophy of Engineering: Ethics",
+            "number": null
+        },
+        {
+            "name": "System Identification and Parameter Estimation",
+            "number": null
+        },
+        {
+            "name": "Systems Engineering",
+            "number": null
+        }
+    ],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 3614,
+                "name": "TNO",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQEaTotk9sLG7g/company-logo_400_400/0/1695809327920?e=1703721600&v=beta&t=8EjtZcRsl5ttgTkc-2KiFw6XoyZDIUB_vl9Ei_gb1Ik",
+                "url": "https://www.linkedin.com/company/tno/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "'s-Gravenhage, Zuid-Holland, Nederland",
+                    "date": {
+                        "start": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "TNO",
+                    "description": null,
+                    "title": "Robotics Computer Vision Engineer ",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 11308,
+                "name": "NLR - Netherlands Aerospace Centre",
+                "logo": "https://media.licdn.com/dms/image/C560BAQHr9q0QrsXSQA/company-logo_400_400/0/1554711775906?e=1703721600&v=beta&t=BbKHk3_fTnNc6Le8-9nPwTHjckY0Fui9WcN2rICDxrk",
+                "url": "https://www.linkedin.com/company/nlr/",
+                "employees": {
+                    "start": 501,
+                    "end": 1000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amsterdam, North Holland, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2020
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2020
+                        }
+                    },
+                    "company": "NLR - Netherlands Aerospace Centre",
+                    "description": "As an NLR intern in the space and AI division, my research focuses on the hardware needed for on-board processing of satellite images. Furthermore, I look into different Machine Learning algorithms to test their performance as well as that of the hardware when operating in space conditions.",
+                    "title": "Intern",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 166686,
+                "name": "Universiteit Twente",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQGlJy8j9vKdjA/company-logo_400_400/0/1533909472654?e=1703721600&v=beta&t=bKpiljO1A-RW4XDZMlQXM9J7YnPza1KG8jLvYitpPTI",
+                "url": "https://www.linkedin.com/school/university-of-twente/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Enschede Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2020
+                        }
+                    },
+                    "company": "University of Twente",
+                    "description": "Student assistant in a variety of second and third year courses related to electronics and programming.",
+                    "title": "Student assistant",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "MPI",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Harderwold, Zeewolde, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "day": null,
+                            "year": 2012
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": 2018
+                        }
+                    },
+                    "company": "MPI",
+                    "description": "The work in question consisted of, but not limited to, a variety of works in gardening, maintenance of public spaces and administration, performed in a team environment.",
+                    "title": "Technician",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "French",
+        "Electrical Engineering",
+        "Machine learning",
+        "Robotics",
+        "Computer vision",
+        "Image Processing",
+        "Sensors",
+        "Artificial Intelligence (AI)",
+        "Deep Learning",
+        "Arduino",
+        "Matlab",
+        "C++",
+        "Python",
+        "Dutch",
+        "German",
+        "Spanish",
+        "English"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

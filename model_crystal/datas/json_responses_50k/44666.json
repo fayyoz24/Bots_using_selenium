@@ -1,0 +1,590 @@
+{
+    "profile_id": "thibault-gloaguen-39b6ab7b",
+    "first_name": "Thibault",
+    "last_name": "Gloaguen",
+    "sub_title": "Senior software engineer",
+    "profile_picture": null,
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAABECrmcB90ud0kdN_mIlfVtc6-r_DxP5M4M",
+    "object_urn": 285388391,
+    "birth_date": null,
+    "summary": "Senior software engineer. Everything you need to know about me is here => https://www.kidz55.com/\n",
+    "location": {
+        "country": "Netherlands",
+        "short": "Amsterdam, North Holland",
+        "city": "Amsterdam",
+        "state": "North Holland",
+        "default": "Amsterdam, North Holland, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "FR",
+            "language": "fr"
+        },
+        "supported_locales": [
+            {
+                "country": "FR",
+                "language": "fr"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "Anglais",
+                "proficiency": "FULL_PROFESSIONAL"
+            },
+            {
+                "name": "Francais",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ]
+    },
+    "industry": "Consumer Services",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "school": {
+                "name": "ISIMA",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": null,
+            "field_of_study": "Systemes embarqu\u00e9s",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "school": {
+                "name": "ENSICAEN",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "ingenieur generaliste",
+            "field_of_study": "Ing\u00e9nierie informatique",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2008
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2011
+                }
+            },
+            "school": {
+                "name": "CPGE Math & Physique",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": null,
+            "field_of_study": null,
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "Game development using CRYENGINE",
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "description": "I am developing a multi-level game.\nThis is a first / third person controller game.\nThis project aims to train me to CryEngine tool while achieving a showcase game\n",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Thibault",
+                    "last_name": "Gloaguen",
+                    "name": null,
+                    "headline": "Senior software engineer"
+                }
+            ]
+        },
+        {
+            "title": "Test bench control software development using Python Flask",
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "description": "This project is a from scratch project.\nThis bench must be able to test and calibrate equipment with help from an visual interface on an integrated screen.\n\nMy work on this project was :\n\n  - Collect and understand customer needs\n  - Buy the supplies and build the bench\n  - Program the controller \n  - Develop a visual interface \n\nThe controller must be able to manage differents peripherals as : printers, power supply, Calculation units and others...\nFor the Back end development, I choose to use Python Flask Framework and MongoDB.\nAll the peripherals communicate with ethernet protocols or SNMP.\nFor the Front end development, I choose to use Bootstrap and Javascript Jquery to develop my interface.\n\n\nThis bench has a integrated screen",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Thibault",
+                    "last_name": "Gloaguen",
+                    "name": null,
+                    "headline": "Senior software engineer"
+                }
+            ]
+        },
+        {
+            "title": "Nutrition pump device development in C",
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "description": "The nutrition device is a pump which feeds patients unable to feed himself.\nMission: Evolution and product improvement of a nutrition device.\n\n\u2022 Development of the communication system between the two embedded CPU allows the exchange of information.\n\u2022 Development of a communication interface for the PC software \"easysoft\".\n\nActions made :\n\n\u2022 Study of the existing device\n\u2022 Establishment of a communication protocol between the PC and the pump (USB media (FTDI) that runs a UART - HAYES protocol)\nFocus 2 simulators\n\u2022 Pump Simulator to test the protocol\n\u2022 Simulator PC soft (EasySoft)\n\u2022 SIL mode (Software In the Loop) and HIL (Hardware In the Loop).\n\u2022 Embedded software development for communication between two CPU\n\u2022 Development of the bootloader (internal flash management)\n\u2022 Debug on microcontroller board (hardware breakpoint, debug step by step)\n\u2022 Coding Rules Checking\n\nTechnical environment :\n\n\u2022 C,\n\u2022 ARM Cortex-M3 (STM 32)\n\u2022 UART,\n\u2022 Eclipse LUNA, EEPROM\n\u2022 JTAG OpenOCD\n\u2022 SVN, CPP Check\n\u2022 Doxygen\n\u2022 EN62304 Class C) / FDA 510K Staff",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Thibault",
+                    "last_name": "Gloaguen",
+                    "name": null,
+                    "headline": "Senior software engineer"
+                }
+            ]
+        },
+        {
+            "title": "Interface development in QT",
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "description": "In partnership with the company EDF and two students of the school Polytech Clermont-Ferrand.\nDevelopment of a human / machine interface in order to delineate hand hazardous areas of a yard and trigger an alarm when someone comes close.\n\nObjective and result of the study:\nDeveloping an intuitive interface in C ++ (QT library) in order to identify dangerous areas of a site and carry on touchscreen tablet\n\nThe different stages of the project:\n\n\u2022 Getting to the development environment QtCreator\n\u2022 Development of a HMI streaming webcast\n\u2022 Functional Testing\n\u2022 Portage on android tablet\n\nTechnical environment :\n\n\u2022 Raspberry-Pi,\n\u2022 C / C ++, QtCreator\n\u2022 Linux, Android\n\u2022 TCP / IP",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Thibault",
+                    "last_name": "Gloaguen",
+                    "name": null,
+                    "headline": "Senior software engineer"
+                }
+            ]
+        },
+        {
+            "title": "Personal project",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "description": "Particular interest for embedded automation, I developed for my personal comfort station with a home automation security alarm manager and a lighting and a surveillance camera\n\nActions made :\n\u2022 Development of an event handler-type program for controlling the current switches with a frequency transmitter device\n\u2022 Web Interface / smartphone to drive the program\n\u2022 broadcast images filmed on request\n\u2022 Motion detection with camera connected to a buzzer\n\nTechnical environment :\n\u2022 C Shell, PhP\n\u2022 Python Script\n\u2022 sublime text\n\u2022 Raspberry PI\n\nGame Development with the UNITY software with 3D object creation with Blender software, Cinema4D\nActions made :\n\u2022 Development of a full 3D environment with 3D object import\n\u2022 Event Manager in Javascript\n\nTechnical environment :\n\n\u2022 UNITY\n\u2022 javascript\n\u2022 Blender\n\u2022 Cinema4D\nDevelopment of various smartphone app to practice and discover new web technologies\n\nTechnical environment :\n\n\u2022 Android on Android Studio\n\u2022 Objective C\n\u2022 Framerwork Cordova multiplatform\n\u2022 Angular JS (using plugins such devellopement accelerated Yeoman)",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Thibault",
+                    "last_name": "Gloaguen",
+                    "name": null,
+                    "headline": "Senior software engineer"
+                }
+            ]
+        }
+    ],
+    "publications": [],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 93350639,
+                "name": "Verble.app",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQFRMsfmF33Diw/company-logo_400_400/0/1688630156742?e=1703721600&v=beta&t=StRjbTrJtlKF-vma91_U-s0ICiCUc0NtykT8LdLSoj8",
+                "url": "https://www.linkedin.com/company/verble/",
+                "employees": {
+                    "start": 2,
+                    "end": 10
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2023
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amsterdam, Hollande Septentrionale, Pays-Bas",
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2023
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Verble.app",
+                    "description": "CTO and Fullstack Developer",
+                    "title": "Co-Founder",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 11348,
+                "name": "Booking.com",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQEgzF5azm3fNA/company-logo_400_400/0/1628510256914?e=1703721600&v=beta&t=5eXz-OHEqUF-i5NTayhj4ycN9m2VUeV-Jyzwe5WhR9g",
+                "url": "https://www.linkedin.com/company/booking.com/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amsterdam, Hollande Septentrionale, Pays-Bas",
+                    "date": {
+                        "start": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Booking.com",
+                    "description": null,
+                    "title": "Software Engineer ll",
+                    "employment_type": "Permanent"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 9866841,
+                "name": "Getir",
+                "logo": "https://media.licdn.com/dms/image/D4D0BAQFLnN5kdKqw0w/company-logo_400_400/0/1682325987600?e=1703721600&v=beta&t=xkDSX0IIb_MZfKsmMNdQV04x_j-b_-DD8BW5wLwSIIY",
+                "url": "https://www.linkedin.com/company/getir/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amsterdam, Hollande Septentrionale, Pays-Bas",
+                    "date": {
+                        "start": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "Getir",
+                    "description": null,
+                    "title": "Senior Frontend Engineer",
+                    "employment_type": "Permanent"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 17927250,
+                "name": "GUTS Tickets",
+                "logo": "https://media.licdn.com/dms/image/C510BAQE43KnBn_Ed-Q/company-logo_400_400/0/1519865290851?e=1703721600&v=beta&t=Vv_xUSM-QPA-xu1d1vMlAvSz1uaMMavQgk-5Z-C_ZgY",
+                "url": "https://www.linkedin.com/company/guts-tickets/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "R\u00e9gion de Amsterdam, Pays-Bas",
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2021
+                        }
+                    },
+                    "company": "GUTS Tickets",
+                    "description": null,
+                    "title": "Senior Frontend Engineer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 11811470,
+                "name": "Diner",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQH5IrMQKJVtOw/company-logo_400_400/0/1533586915621?e=1703721600&v=beta&t=bOqbsKHpwnonGuGMRCt-v7ZGWhhX2jm5ECRNq6NJems",
+                "url": "https://www.linkedin.com/company/diner/",
+                "employees": {
+                    "start": 2,
+                    "end": 10
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "R\u00e9gion de Toulouse, France",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "Diner",
+                    "description": "Co-fondateur de l'application Diner. Disponible sur iOS et Android, cette application centre la rencontre autour de la cuisine. Pour plus d'information rendez vous sur le site web de Diner",
+                    "title": "Co-founder",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 610690,
+                "name": "Pictarine",
+                "logo": "https://media.licdn.com/dms/image/C560BAQFJvuLX8T3w9Q/company-logo_400_400/0/1680078113325?e=1703721600&v=beta&t=Q0Z-GI9kyzuV-SH-t5Lc0TZlrJGfjEGML1XH7cKu888",
+                "url": "https://www.linkedin.com/company/pictarine/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "R\u00e9gion de Toulouse, France",
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2017
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "Pictarine",
+                    "description": null,
+                    "title": "Full-stack developer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 35418,
+                "name": "Viveris Technologies",
+                "logo": "https://media.licdn.com/dms/image/C560BAQHd6ZptLQZq4w/company-logo_400_400/0/1563538938991?e=1703721600&v=beta&t=ImtESrdtNs6B9dkAjRM1m6UraUWVyD-wdRkKjYDRhIw",
+                "url": "https://www.linkedin.com/company/viveris/",
+                "employees": {
+                    "start": 501,
+                    "end": 1000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "R\u00e9gion de Toulouse, France",
+                    "date": {
+                        "start": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2017
+                        }
+                    },
+                    "company": "Viveris",
+                    "description": "Full-stack developer, coffee drinker",
+                    "title": "Embedded Software Engineer",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "React.js",
+        "TypeScript",
+        "Python",
+        "AngularJS",
+        "Project management",
+        "Gestion de projet",
+        "Programmation web",
+        "Big data",
+        "Logiciel embarqu\u00e9",
+        "C",
+        "C++",
+        "Linux",
+        "JavaScript",
+        "Java",
+        "C#",
+        "Ionic Framework",
+        "Unity3D",
+        "MongoDB",
+        "CryEngine"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

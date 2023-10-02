@@ -1,0 +1,678 @@
+{
+    "profile_id": "sioannidis",
+    "first_name": "Stavros",
+    "last_name": "Ioannidis",
+    "sub_title": "Software Design Engineer @ ASML",
+    "profile_picture": "https://media.licdn.com/dms/image/C4D03AQG9N0lQeGfFNg/profile-displayphoto-shrink_800_800/0/1623000236501?e=1701302400&v=beta&t=iyzR3OTYl-HncwjaPNzcudWcXCSE5cNlEsQShE6164g",
+    "background_image": "https://media.licdn.com/dms/image/C4D16AQGXncB_-Kk6iA/profile-displaybackgroundimage-shrink_350_1400/0/1623006735047?e=1701302400&v=beta&t=I5fDEKrY-PIXxvSsCJEbr_nCAG_pnViI4Vkvd6n2K3c",
+    "profile_type": "personal",
+    "entity_urn": "ACoAAAsgULkBUSUMRUklvgtS55Ayxg6r6XpdEWk",
+    "object_urn": 186667193,
+    "birth_date": null,
+    "summary": "Stavros is an MSc Software Engineer and a C-programming enthusiast, currently contributing to the most sophisticated lithography systems in the world.",
+    "location": {
+        "country": "Netherlands",
+        "short": "Eindhoven, North Brabant",
+        "city": "Eindhoven",
+        "state": "North Brabant",
+        "default": "Eindhoven, North Brabant, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "English",
+                "proficiency": "PROFESSIONAL_WORKING"
+            },
+            {
+                "name": "Greek",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ]
+    },
+    "industry": "Semiconductors",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "school": {
+                "name": "University of Thessaly",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQFSftEigoxqAQ/company-logo_400_400/0/1519856320297?e=1703721600&v=beta&t=XKhEzLkUrJgrS9hmxkn_PTTmdxUnSYL6jsSa540tnv4",
+                "url": "https://www.linkedin.com/school/university-of-thessaly/"
+            },
+            "degree_name": "Master of Science (MSc)",
+            "field_of_study": "Computer Science",
+            "grade": "98.8%"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2006
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "school": {
+                "name": "University of Thessaly",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQFSftEigoxqAQ/company-logo_400_400/0/1519856320297?e=1703721600&v=beta&t=XKhEzLkUrJgrS9hmxkn_PTTmdxUnSYL6jsSa540tnv4",
+                "url": "https://www.linkedin.com/school/university-of-thessaly/"
+            },
+            "degree_name": "Bachelor of Engineering (BE)",
+            "field_of_study": "Computer Software Engineering",
+            "grade": "73.4%"
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "Implementation of a hierarchical method for power delivery network analysis",
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "description": "Implementation of a hierarchical iterative method that performs IR drop analysis on power delivery networks of large-scale integrated  circuits.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Stavros",
+                    "last_name": "Ioannidis",
+                    "name": null,
+                    "headline": "Software Design Engineer @ ASML"
+                }
+            ]
+        },
+        {
+            "title": "Accelerating a SPICE tool using MKL, CUDA and OpenMP",
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "description": "Acceleration of a SPICE-like circuit simulation tool that was originally developed in 2011. Implemented two different versions using Intel's Math Kernel Library (for multicore systems) and CUDA (for GPUs) respectively.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Stavros",
+                    "last_name": "Ioannidis",
+                    "name": null,
+                    "headline": "Software Design Engineer @ ASML"
+                }
+            ]
+        },
+        {
+            "title": "Development of a SPICE tool for simulating linear circuits",
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "description": "Development of a SPICE-like circuit simulation tool for performing DC analysis using LU factorization, Cholesky factorization and (Bi-)Conjugate Gradient method, and  Transient analysis using Backward Euler and Trapezoidal methods.  Tested on large-scale power grid benchmarks provided by IBM.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Stavros",
+                    "last_name": "Ioannidis",
+                    "name": null,
+                    "headline": "Software Design Engineer @ ASML"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Stella",
+                    "last_name": "Gaki",
+                    "name": null,
+                    "headline": "Software Design Engineer @ASML | Lifelong Learner | Teamwork Advocate | World Explorer"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Zoe",
+                    "last_name": "Vasileiou",
+                    "name": null,
+                    "headline": "Semantic Web & Machine Learning"
+                }
+            ]
+        },
+        {
+            "title": "Developement of a complete platform for deploying and executing applications on WSN",
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "description": "Implementation of protocols for efficient dissemination of applications and results in a WSN, and support of Over-the-air programming of the nodes using VM technology and portable code.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Stavros",
+                    "last_name": "Ioannidis",
+                    "name": null,
+                    "headline": "Software Design Engineer @ ASML"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Nasos",
+                    "last_name": "Grigoropoulos",
+                    "name": null,
+                    "headline": "Senior R&D Engineer | PhD"
+                }
+            ]
+        },
+        {
+            "title": "Kernel hacking of Minix, a UNIX-like Operating System",
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2008
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2008
+                }
+            },
+            "description": "Converted kernel scheduler from Multilevel Queue to Shortest Job First. Incorporated a semaphore mechanism in the kernel.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Stavros",
+                    "last_name": "Ioannidis",
+                    "name": null,
+                    "headline": "Software Design Engineer @ ASML"
+                }
+            ]
+        }
+    ],
+    "publications": [
+        {
+            "name": "Optimization of an Integrated Circuit Placement Algorithm in a Parallel Environment",
+            "publisher": "International Conference on Computer Science, Computer Engineering, and Social Media (CSCESM2014)",
+            "url": "http://inf-server.inf.uth.gr/~iostiv/projects/Papers/Gordian.pdf",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2014
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Stavros",
+                    "last_name": "Ioannidis",
+                    "name": null,
+                    "headline": "Software Design Engineer @ ASML"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Dimos",
+                    "last_name": "Ntioudis",
+                    "name": null,
+                    "headline": "Research Associate - Senior Software Developer at Centre for Research & Technology Hellas (CERTH)"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Charalampos",
+                    "last_name": "Antoniadis",
+                    "name": null,
+                    "headline": "Postdoc Research Fellow at KAUST"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Nestoras",
+                    "last_name": "Evmorfopoulos",
+                    "name": null,
+                    "headline": "Associate Professor at University of Thessaly"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "George",
+                    "last_name": "Stamoulis",
+                    "name": null,
+                    "headline": "Member of the Management Board, University of Thessaly"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Yota",
+                    "last_name": "Tsompanopoulou",
+                    "name": null,
+                    "headline": "Associate Professor at University of Thessaly"
+                }
+            ]
+        },
+        {
+            "name": "A Demonstration of the NITOS BikesNet Framework",
+            "publisher": "IEEE, 15th International Conference on Mobile Data Management",
+            "url": "http://ieeexplore.ieee.org/xpl/abstractAuthors.jsp?tp=&arnumber=6916947&searchWithin%3Dp_Authors%3A.QT.Ioannidis%2C+S..QT.",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2014
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Giannis",
+                    "last_name": "Kazdaridis",
+                    "name": null,
+                    "headline": "Senior Researcher and Lead Hardware Engineer at domX, PhD"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Donatos",
+                    "last_name": "Stavropoulos",
+                    "name": null,
+                    "headline": "Postgraduate Research Fellow at CERTH"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Stavros",
+                    "last_name": "Ioannidis",
+                    "name": null,
+                    "headline": "Software Design Engineer @ ASML"
+                }
+            ]
+        }
+    ],
+    "courses": [
+        {
+            "name": "Algorithms",
+            "number": "CE 216"
+        },
+        {
+            "name": "Circuit Simulation",
+            "number": "CE 530"
+        },
+        {
+            "name": "Compilers",
+            "number": "CE 320"
+        },
+        {
+            "name": "Computer Organization",
+            "number": "CE 238"
+        },
+        {
+            "name": "Data Structures",
+            "number": "CE 215"
+        },
+        {
+            "name": "Distributed Systems",
+            "number": "CE 342"
+        },
+        {
+            "name": "High Performance Computing",
+            "number": "CE 421"
+        },
+        {
+            "name": "Operating Systems",
+            "number": "CE 222"
+        },
+        {
+            "name": "Parallel Computer Architecture",
+            "number": "CE 538"
+        },
+        {
+            "name": "Parallel Programming",
+            "number": "CE 220"
+        },
+        {
+            "name": "Parallel and Distributed Computing",
+            "number": "CE 404"
+        }
+    ],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 3894,
+                "name": "ASML",
+                "logo": "https://media.licdn.com/dms/image/C560BAQGssQfw50QsaQ/company-logo_400_400/0/1519855871260?e=1703721600&v=beta&t=Dy9d-y1YEURWKW9gwgee0M1kiJhHIn_5C8HeOomdIr8",
+                "url": "https://www.linkedin.com/company/asml/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Eindhoven, North Brabant, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "ASML",
+                    "description": "Developing Calibration, Performance measuring, and Diagnostics (CPD) software for the UV level sensor of ASML's DUV lithography systems.",
+                    "title": "Design Engineer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1070,
+                "name": "Nokia",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQGL8hpduEqGKQ/company-logo_400_400/0/1677420438777?e=1703721600&v=beta&t=f71t3mqmcjrQMa43n0ZASv43aPIsPFYwKnX4eRtOOAc",
+                "url": "https://www.linkedin.com/company/nokia/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Antwerp, Belgium",
+                    "date": {
+                        "start": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "Nokia",
+                    "description": "\ud835\udddc\ud835\uddfb\ud835\ude03\ud835\uddfc\ud835\uddf9\ud835\ude03\ud835\uddf2\ud835\uddf1 \ud835\uddf6\ud835\uddfb \ud835\ude01\ud835\uddf5\ud835\uddf2 \ud835\uddf1\ud835\uddf2\ud835\ude03\ud835\uddf2\ud835\uddf9\ud835\uddfc\ud835\uddfd\ud835\uddfa\ud835\uddf2\ud835\uddfb\ud835\ude01 \ud835\uddfc\ud835\uddf3 \ud835\ude01\ud835\uddf5\ud835\uddf2 \ud835\udde7\ud835\uddea\ud835\uddd7\ud835\udde0-\ud835\udde3\ud835\udde2\ud835\udde1 \ud835\uddea\ud835\uddee\ud835\ude03\ud835\uddf2\ud835\uddf9\ud835\uddf2\ud835\uddfb\ud835\uddf4\ud835\ude01\ud835\uddf5 \ud835\udde0\ud835\uddfc\ud835\uddef\ud835\uddf6\ud835\uddf9\ud835\uddf6\ud835\ude01\ud835\ude06 \ud835\uddf3\ud835\uddf2\ud835\uddee\ud835\ude01\ud835\ude02\ud835\uddff\ud835\uddf2\n\u2022 Designed and developed real-time embedded software (in C and C++ on Linux) for Fiber Access network equipment.\n\u2022 Involved in feature estimation and planning, as a member of a multi-disciplinary agile team (scrum methodology).\n\u2022 Troubleshot 100+ issues within legacy software on target hardware and simulation environment.\n\u2022 Responsible for monitoring, maintaining, and enhancing continuous integration infrastructure (Jenkins).\n\u2022 Improved test automation by implementing automated test-cases (Robot Framework) and significantly increasing unit test coverage.\n\u2022 Improved system diagnostic capabilities and debug-ability by expanding the existing trace-and-debug command-line interface.",
+                    "title": "Software Design Engineer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 11308257,
+                "name": "Hellenic Army ",
+                "logo": "https://media.licdn.com/dms/image/C510BAQESrT_CnywVNw/company-logo_400_400/0/1519881053863?e=1703721600&v=beta&t=pwgSBv3S2nsaN3nuORbPLvS1oy90Z2r6qtVJ7NXnl5Y",
+                "url": "https://www.linkedin.com/company/hellenic-army-es/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Greece",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2014
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2015
+                        }
+                    },
+                    "company": "Hellenic Army ",
+                    "description": "\ud835\udde6\ud835\uddf2\ud835\uddff\ud835\ude03\ud835\uddf6\ud835\uddfb\ud835\uddf4 \ud835\uddfa\ud835\uddf6\ud835\uddf9\ud835\uddf6\ud835\ude01\ud835\uddee\ud835\uddff\ud835\ude06 \ud835\uddf1\ud835\ude02\ud835\ude01\ud835\ude06\n\u2022 Applied operating system updates, patches, and configuration changes.\n\u2022 Installed and configured new hardware and software.\n\u2022 Managed user account information.\n\u2022 Ensured that the network infrastructure was up and running.",
+                    "title": "Private - Computer Programmer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 38322,
+                "name": "University of Thessaly",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQFSftEigoxqAQ/company-logo_400_400/0/1519856320297?e=1703721600&v=beta&t=XKhEzLkUrJgrS9hmxkn_PTTmdxUnSYL6jsSa540tnv4",
+                "url": "https://www.linkedin.com/school/university-of-thessaly/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "V\u00f3los, Thessalia, Greece",
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2013
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2014
+                        }
+                    },
+                    "company": "University of Thessaly",
+                    "description": "In affiliation with the \ud835\udde1\ud835\uddf2\ud835\ude01\ud835\ude04\ud835\uddfc\ud835\uddff\ud835\uddf8 \ud835\udddc\ud835\uddfa\ud835\uddfd\ud835\uddf9\ud835\uddf2\ud835\uddfa\ud835\uddf2\ud835\uddfb\ud835\ude01\ud835\uddee\ud835\ude01\ud835\uddf6\ud835\uddfc\ud835\uddfb \ud835\udde7\ud835\uddf2\ud835\ude00\ud835\ude01\ud835\uddef\ud835\uddf2\ud835\uddf1 \ud835\udddf\ud835\uddee\ud835\uddef\ud835\uddfc\ud835\uddff\ud835\uddee\ud835\ude01\ud835\uddfc\ud835\uddff\ud835\ude06 (NITlab) and the \ud835\uddd6\ud835\uddf2\ud835\uddfb\ud835\ude01\ud835\uddff\ud835\uddf2 \ud835\uddf3\ud835\uddfc\ud835\uddff \ud835\udde5\ud835\uddf2\ud835\ude00\ud835\uddf2\ud835\uddee\ud835\uddff\ud835\uddf0\ud835\uddf5 & \ud835\udde7\ud835\uddf2\ud835\uddf0\ud835\uddf5\ud835\uddfb\ud835\uddfc\ud835\uddf9\ud835\uddfc\ud835\uddf4\ud835\ude06 \ud835\udddb\ud835\uddf2\ud835\uddf9\ud835\uddf9\ud835\uddee\ud835\ude00 (CERTH):\n\u2022 Developed software and hardware for a prototype wireless sensor network.\n\u2022 Hardware prototyping (PCB design, IC soldering).\n\u2022 Integrated various sensors and wireless interfaces to embedded devices.\n\u2022 Built web servers on Arduino boards using HTML, CSS, and JavaScript.",
+                    "title": "Software Engineer - Researcher",
+                    "employment_type": "Contract"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 374065,
+                "name": "CERTH - ITI",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQFzhUuJ23Y9Cg/company-logo_400_400/0/1583599606878?e=1703721600&v=beta&t=sK4KVYUpgiDleyu4KCdefSiDPYcoSjQD36t4Jz96DLA",
+                "url": "https://www.linkedin.com/company/certh/",
+                "employees": {
+                    "start": 501,
+                    "end": 1000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "V\u00f3los, Thessalia, Greece",
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2013
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2013
+                        }
+                    },
+                    "company": "Centre for Research & Technology Hellas (CERTH)",
+                    "description": "\u2022 Developed wireless sensor platforms for indoor wireless sensor networks, based on AVR microcontrollers and ZigBee wireless interfaces.",
+                    "title": "Software Engineer Intern",
+                    "employment_type": "Internship"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 115555,
+                "name": "Helic",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQGPxT26s9Mb2g/company-logo_400_400/0/1519866952619?e=1703721600&v=beta&t=ISkJFUShgyGF-se7Y9sSPBBF2TztWHDpAKIUI3Bwx5g",
+                "url": "https://www.linkedin.com/company/helic/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Athens, Attiki, Greece",
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2012
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2012
+                        }
+                    },
+                    "company": "Helic",
+                    "description": "\u2022 Developed a hierarchical iterative method for large-scale power delivery network analysis.",
+                    "title": "Software Engineer Intern",
+                    "employment_type": "Internship"
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "C",
+        "C++",
+        "Python (Programming Language)",
+        "Bash",
+        "Shell Scripting",
+        "Version Control",
+        "Microcontrollers",
+        "Simulations",
+        "Code Review",
+        "Continuous Integration",
+        "Distributed Systems",
+        "Programming",
+        "Engineering",
+        "Computer Science",
+        "Debugging",
+        "Linux",
+        "Arduino",
+        "Java",
+        "HTML",
+        "CSS"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

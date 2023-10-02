@@ -1,0 +1,668 @@
+{
+    "profile_id": "blazejmanczak",
+    "first_name": "Blaze(j)",
+    "last_name": "Manczak",
+    "sub_title": "Research Engineer @ Qualcomm",
+    "profile_picture": "https://media.licdn.com/dms/image/C4D03AQHYEhwXP9rHfA/profile-displayphoto-shrink_800_800/0/1580758683506?e=1701302400&v=beta&t=fM90DyFfxS60jFTk8nIJZ0zCpT6sAYkuZaoT3Azzi4w",
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAACRoq9cBMZXDlXowKvZvHyO5HkDxq8b_MDs",
+    "object_urn": 610839511,
+    "birth_date": null,
+    "summary": "I am an enthusiastic ML Engineer that does not shy away from Data Engineering challenges. I have a strong mathematical and programming background. \nCurrently, I am working at Qualcomm AI Research in a team focused on devising ML methods to tackle combinatorial optimisation problems.\n\nI've (co)-developed, maintained, and deployed products in various domains and technologies:\n\n- Reinforcement Learning: (hierarchical) reinforcement learning for congestion management in power grids.\n- Computer Vision: (resource-constrained) facial recognition and tracking, cluster segmentation, and matching.\n- NLP: speech recognition, summarization, weak-supervision classification, information extraction from unstructured data\n- Miscellaneous: data deduplication,  data pipelines, designing a data cleaning library",
+    "location": {
+        "country": "Netherlands",
+        "short": "Amsterdam, North Holland",
+        "city": "Amsterdam",
+        "state": "North Holland",
+        "default": "Amsterdam, North Holland, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "PL",
+            "language": "pl"
+        },
+        "supported_locales": [
+            {
+                "country": "PL",
+                "language": "pl"
+            }
+        ],
+        "profile_languages": []
+    },
+    "industry": "Information Technology & Services",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "school": {
+                "name": "University of Amsterdam",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQEfHBj_we-_kw/company-logo_400_400/0/1659945104460?e=1703721600&v=beta&t=nxt14hUDODg3MttkNj5Qa0fCu2FbgGbRXyFSapRtNv4",
+                "url": "https://www.linkedin.com/school/university-of-amsterdam/"
+            },
+            "degree_name": "Master of Science - MS",
+            "field_of_study": "Artificial Intelligence",
+            "grade": "Cum Laude"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "school": {
+                "name": "Eindhoven University of Technology",
+                "logo": "https://media.licdn.com/dms/image/C560BAQG4PGSYiNG4CA/company-logo_400_400/0/1642150189320?e=1703721600&v=beta&t=omf4Ziy8Suete_GTJ3Qn1mOBS7ZrKSPido6Ld2LseBU",
+                "url": "https://www.linkedin.com/school/eindhoven-university-of-technology/"
+            },
+            "degree_name": "Bachelor's degree",
+            "field_of_study": "Data Science",
+            "grade": "8.7/10"
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "Real-time emotion detection under resource-constrained environments",
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "description": "Interned at the intelligent automation department of Accenture. Researched the scientific literature and implemented the leading methods for face detection, imbalanced datasets, CNN architectures, model validation, deployment strategies and inference speed optimizations. Communicated, and presented the progress, shortcomings and results to external stakeholders. Achieved state-of-the-art results on representative facial expression recognition datasets. Successfully deployed the model on resource-constrained drone with real-time performance of over 7 frames per second. Was awarded an 8.5 for my efforts.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Blaze(j)",
+                    "last_name": "Manczak",
+                    "name": null,
+                    "headline": "Research Engineer @ Qualcomm"
+                }
+            ]
+        },
+        {
+            "title": "Optimization of the sewage system",
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "description": "Provided data-driven, actionable insights into the optimization of the sewage system. Through data-engineering methods gathered, cleaned, imputed and derived new information from raw data of different formats. Accurately modelled the flow in the sewage system to enable intelligent automation of the pumps. Developed well-defined research questions based on stakeholder interests, properties of the datasets, and independent research on relevant domain knowledge. Refined and translated initially only partially defined objectives into data analytics research phases.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Blaze(j)",
+                    "last_name": "Manczak",
+                    "name": null,
+                    "headline": "Research Engineer @ Qualcomm"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Waterschap Aa en Maas",
+                    "headline": null
+                }
+            ]
+        },
+        {
+            "title": "Image classification of retinal scans",
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "description": "Built an image classifying tool for detection and distinction of a phase of a disease diabetic retinopathy based on 35 thousand images using TensorFlow. Investigated and tested different pre-processing techniques, including cropping, applying filters and augmenting the data to tackle class imbalance. Experimented with different neural network architectures. Optimized the parameters of dropout, pooling and convolutional layers. Investigated and addressed ethical issues of the tool. Achieved sensitivity and specificity higher than optometrist-performed check-up.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Blaze(j)",
+                    "last_name": "Manczak",
+                    "name": null,
+                    "headline": "Research Engineer @ Qualcomm"
+                }
+            ]
+        },
+        {
+            "title": "Sentiment analysis of 5.5 million",
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "description": "Compared customer satisfaction between airlines using NLP techniques. In the course of pre-processing, tokenized and stemmed the words as well as removed stop words. Established correlations between customer satisfaction and conversation length, time of the day and year and overall volume of tweets. Achieved 83% accuracy on a pre-classified airline-related dataset with 3 satisfaction levels. Provided actionable insights to stakeholders.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Blaze(j)",
+                    "last_name": "Manczak",
+                    "name": null,
+                    "headline": "Research Engineer @ Qualcomm"
+                }
+            ]
+        }
+    ],
+    "publications": [],
+    "courses": [
+        {
+            "name": "Advanced Mathematics 2 for Data Science",
+            "number": "JBM080"
+        },
+        {
+            "name": "Advanced Mathematics I for Data Science",
+            "number": "JBM060"
+        },
+        {
+            "name": "Businees Analytics",
+            "number": "JBM040"
+        },
+        {
+            "name": "Calculus",
+            "number": "2WBB0"
+        },
+        {
+            "name": "Cognitive Science",
+            "number": "JBC090"
+        },
+        {
+            "name": "Computer Vision I",
+            "number": "52041COV6Y"
+        },
+        {
+            "name": "DBL Data Challenge",
+            "number": "JBG030"
+        },
+        {
+            "name": "DBL Process Mining",
+            "number": "2IOI0"
+        },
+        {
+            "name": "Data Analytics for Engineers",
+            "number": "2IAB0"
+        },
+        {
+            "name": "Data Management for data analytics",
+            "number": "JBI050"
+        },
+        {
+            "name": "Data Mining",
+            "number": "JBI030"
+        },
+        {
+            "name": "Data Science Ethics",
+            "number": "JBG000"
+        },
+        {
+            "name": "Data Science Research Methods",
+            "number": "JBM020"
+        },
+        {
+            "name": "Data Statistics",
+            "number": "JBM010"
+        },
+        {
+            "name": "Data Structures",
+            "number": "2IL50"
+        },
+        {
+            "name": "Data-intensive systems and applications",
+            "number": "2ID70"
+        },
+        {
+            "name": "Foundations of Computing",
+            "number": "JBI020"
+        },
+        {
+            "name": "Introduction numerical analysis",
+            "number": "2WN20"
+        },
+        {
+            "name": "Law and data science",
+            "number": "JBL120"
+        },
+        {
+            "name": "Linear Algebra for Data Science",
+            "number": "JBM070"
+        }
+    ],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 2017,
+                "name": "Qualcomm",
+                "logo": "https://media.licdn.com/dms/image/C560BAQHHmRgEadFrdA/company-logo_400_400/0/1611250856145?e=1703721600&v=beta&t=wrzOy57fVbVDLO8UGuCpsNhDBgAkjOBfujzNupRBFTk",
+                "url": "https://www.linkedin.com/company/qualcomm/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amsterdam, North Holland, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Qualcomm",
+                    "description": "- Developed (model-based) RL solutions for combinatorial problems\n- Currently teaching LLMs how to use planning to achieve high rewards",
+                    "title": "Research Engineer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Amsterdam Machine Learning Lab",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amsterdam, North Holland, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "Amsterdam Machine Learning Lab",
+                    "description": "Worked on hierarchical reinforcement learning methods with prof. Herke van Hoof.",
+                    "title": "Research Internship",
+                    "employment_type": "Internship"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 24205,
+                "name": "TenneT",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQErLFOLwDiRlw/company-logo_400_400/0/1593592438006?e=1703721600&v=beta&t=BcryOQ6k491obOngTSNN-pGcKOfV3-2kpRAPwNaNT3Y",
+                "url": "https://www.linkedin.com/company/tennet-tso-bv/",
+                "employees": {
+                    "start": 5001,
+                    "end": 10000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "TenneT TSO B.V.",
+                    "description": "Developed a hierarchical reinforcement learning system capable of operating a medium-sized power grid up to 6x better than a physics-based simulator.",
+                    "title": "Machine Learning Researcher",
+                    "employment_type": "Internship"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 13356734,
+                "name": "Zenit.",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQEfo32jCaR8bw/company-logo_400_400/0/1646992894175?e=1703721600&v=beta&t=0QgS9gKe6nQD9kxeoDnI5dJZ8ZIzhImgV2uYsA9UU4A",
+                "url": "https://www.linkedin.com/company/zenit-io/",
+                "employees": {
+                    "start": 2,
+                    "end": 10
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amsterdam, North Holland, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2021
+                        }
+                    },
+                    "company": "Zenit.",
+                    "description": "Building a software that automates data migration. \nWorking on smart solutions for data mapping, data cleansing and logical reorganisation of the database schema in collaboration with a large electrical equipment producer.",
+                    "title": "Data Engineer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Artemo",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amsterdam, North Holland, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2021
+                        }
+                    },
+                    "company": "Artemo",
+                    "description": "- Integrated and finetuned a state-of-the-art Speech-To-Text model to the domain of online meetings.\n- Developed text-cleaning routines such as punctuation restoration or interjection filtering for enhanced performance on the downstream tasks. \n- Implemented and benchmarked extractive and abstractive summarization models against user preferences. \n- Deployed the models in an ML pipeline hosted on AWS.",
+                    "title": "Machine Learning Engineer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 30951,
+                "name": "Nederlands Instituut voor Beeld en Geluid",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQGTy81tYvQHhQ/company-logo_400_400/0/1649310564961?e=1703721600&v=beta&t=CShTFqyARuLTrhjvTjpZbrwLBaRWZ_9W8zb72RMx--s",
+                "url": "https://www.linkedin.com/company/nederlands-instituut-voor-beeld-en-geluid/",
+                "employees": {
+                    "start": 201,
+                    "end": 500
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2020
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2020
+                        }
+                    },
+                    "company": "Nederlands Instituut voor Beeld en Geluid",
+                    "description": "- Decomposed video into frames and extracted the most informative features. \n- Performed clustering and matching of the detected features to the input query images.\n-  Developed an open-source module for the system: https://github.com/bmanczak/AoM-LineMatching\n- Facilitated and consulted the app developer on the application of the system in a mobile application.",
+                    "title": "Computer Vision Engineer",
+                    "employment_type": "Part-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1033,
+                "name": "Accenture",
+                "logo": "https://media.licdn.com/dms/image/D4E0BAQGTUswcRlgg9A/company-logo_400_400/0/1689352303421?e=1703721600&v=beta&t=QIEfFVt8aN4INiZ972M26UqvNOfNeO4juQ-oGQHfqis",
+                "url": "https://www.linkedin.com/company/accenture/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Heerlen, Limburg Province, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2020
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2020
+                        }
+                    },
+                    "company": "Accenture",
+                    "description": "-  Implemented the leading methods for face detection, CNN architectures, model validation and inference speed optimizations. \n- Achieved state-of-the-art results on representative facial expression recognition datasets.\n-  Successfully deployed the model on resource-constrained drone with real-time performance of over 7 frames per second. \n- Presented the summary notebook at company and university ML meetups.",
+                    "title": "Machine Learning Engineer",
+                    "employment_type": "Internship"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 4838,
+                "name": "Eindhoven University of Technology",
+                "logo": "https://media.licdn.com/dms/image/C560BAQG4PGSYiNG4CA/company-logo_400_400/0/1642150189320?e=1703721600&v=beta&t=omf4Ziy8Suete_GTJ3Qn1mOBS7ZrKSPido6Ld2LseBU",
+                "url": "https://www.linkedin.com/school/eindhoven-university-of-technology/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Rejon Eindhoven, Holandia",
+                    "date": {
+                        "start": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2020
+                        }
+                    },
+                    "company": "Eindhoven University of Technology",
+                    "description": "TA for courses: Data Analytics, Data Intensive Systems, Programming for DS, DS Ethics, Foundations of computing",
+                    "title": "Data Science Teaching Assistant",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Slurm Workload Manager",
+        "Resource Constrained Computing",
+        "OpenCV",
+        "Image Processing",
+        "NumPy",
+        "Natural Language Processing (NLP)",
+        "Docker",
+        "Amazon Web Services (AWS)",
+        "MySQL",
+        "Dataiku DSS",
+        "SAP S/4HANA",
+        "Reinforcement Learning",
+        "PyTorch",
+        "Rllib",
+        "Deep Learning",
+        "Deep learning",
+        "Python",
+        "R",
+        "Data Analysis",
+        "Microsoft Office"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

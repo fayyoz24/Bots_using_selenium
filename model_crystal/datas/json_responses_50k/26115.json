@@ -1,0 +1,569 @@
+{
+    "profile_id": "tushar-nimbhorkar",
+    "first_name": "Tushar",
+    "last_name": "Nimbhorkar",
+    "sub_title": "Senior Machine Learning Specialist at SensityAI",
+    "profile_picture": "https://media.licdn.com/dms/image/D5603AQF3E68KkpWvdA/profile-displayphoto-shrink_800_800/0/1694783700042?e=1701302400&v=beta&t=-ZNMxX3GgYN9GNr3QPaD5Ld1VJ0ADz9DtSNBybVpBHc",
+    "background_image": "https://media.licdn.com/dms/image/D4D16AQFSlr4YwMCQtQ/profile-displaybackgroundimage-shrink_350_1400/0/1684313358963?e=1701302400&v=beta&t=BQytgW04351nZz33dYY7TyleckJSXrDww2SWmRdR0lc",
+    "profile_type": "personal",
+    "entity_urn": "ACoAABE56oUBh7bF5qcvBF26ZuCas5GY6tATPNo",
+    "object_urn": 289008261,
+    "birth_date": null,
+    "summary": "I'm Tushar Nimbhorkar, a Senior Machine Learning Specialist with computer vision, deep learning, and anti-fraud applications expertise. With a Master's degree in Artificial Intelligence and a Bachelor's degree in Computer Engineering, I have a solid academic foundation.\n\nIn my current role at SensityAI, I lead projects focused on deep fake detection, gaze estimation, and blink detection using advanced convolutional neural network (CNN) models. Previously, at 3DUniversum, I developed mobile image enhancement solutions and worked on face relighting and perceptual color enhancement models.\n\nI have a solid technical skill set; I am proficient in Python, C++, Matlab, and various deep learning and machine learning frameworks like Tensorflow, PyTorch, Keras, Numpy, and SkLearn. I am also experienced in data cleaning/processing using tools like NumPy, SciPy, and pandas and data visualization using Matplotlib and Seaborn.\n\nIf you would like to connect or discuss potential opportunities, don't hesitate to get in touch with me via email or LinkedIn. I am passionate about leveraging my expertise to solve complex problems in artificial intelligence and machine learning.",
+    "location": {
+        "country": "Netherlands",
+        "short": "Amsterdam, North Holland",
+        "city": "Amsterdam",
+        "state": "North Holland",
+        "default": "Amsterdam, North Holland, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "English",
+                "proficiency": "FULL_PROFESSIONAL"
+            }
+        ]
+    },
+    "industry": "Computer Software",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "school": {
+                "name": "University of Amsterdam",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQEfHBj_we-_kw/company-logo_400_400/0/1659945104460?e=1703721600&v=beta&t=nxt14hUDODg3MttkNj5Qa0fCu2FbgGbRXyFSapRtNv4",
+                "url": "https://www.linkedin.com/school/university-of-amsterdam/"
+            },
+            "degree_name": "Master of Science (M.Sc.)",
+            "field_of_study": "Artificial Intelligence",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "school": {
+                "name": "National Institute of Technology Surat",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQETh3Pmw3pNxw/company-logo_400_400/0/1519905466330?e=1703721600&v=beta&t=8I0mh35XrTKWqEwm_wvW__ed9SU6CRTcvb9HN7d1H0s",
+                "url": "https://www.linkedin.com/school/national-institute-of-technology-surat/"
+            },
+            "degree_name": "Bachelor of Technology (B.Tech.)",
+            "field_of_study": "Computer Engineering",
+            "grade": "7.6"
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "Unsupervised Generation of Optical Flow Datasets",
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "description": "Dense optical flow ground truths of non-rigid motion for real-world images are not available due to the non-intuitive annotation. Aiming at training optical flow deep networks, we present an unsupervised algorithm to generate optical flow ground truth from real-world videos. The algorithm extracts and matches objects of interest from pairs of images in videos to find initial constraints, and applies as-rigid-as-possible deformation over the objects of interest to obtain dense flow fields. The ground truth correctness is enforced by warping the objects in the first frames using the flow fields. We apply the algorithm on the DAVIS dataset to obtain optical flow ground truths for non-rigid movement of real-world objects, using either ground truth or predicted segmentation. We discuss several methods to increase the optical flow variations in the dataset. Extensive experimental results show that training on non-rigid real motion is beneficial compared to training on rigid synthetic data. Moreover, we show that our pipeline generates training data suitable to train successfully FlowNet-S, PWC-Net, and LiteFlowNet deep networks.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Tushar",
+                    "last_name": "Nimbhorkar",
+                    "name": null,
+                    "headline": "Senior Machine Learning Specialist at SensityAI"
+                }
+            ]
+        },
+        {
+            "title": "Attention Based Hierarchical Recurrent Encoder-Decoder for Generative Context-Aware Query Suggestion",
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "description": "For search engines to be able to formulate adequate query suggestions, it is essential to bear in mind the users\u2019 search intent and to be aware of the context. Sordoni et al. proposed a Hierarchical Recurrent Encoder-Decoder architecture to suggest queries using the previous queries as context. This is an extension using an attention mechanism. The implementation is in Google's Tensorflow (Deep Learning Python library). It was developed during the AI course of Information Retrieval 2.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Tushar",
+                    "last_name": "Nimbhorkar",
+                    "name": null,
+                    "headline": "Senior Machine Learning Specialist at SensityAI"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Sofia",
+                    "last_name": "Herrero Villarroya",
+                    "name": null,
+                    "headline": "Machine Learning Engineer at Pacmed"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Daniela",
+                    "last_name": "Solis Morales",
+                    "name": null,
+                    "headline": "Data Science Product Owner at Picnic Technologies"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Martin",
+                    "last_name": "D.",
+                    "name": null,
+                    "headline": "Full Stack Developer"
+                }
+            ]
+        },
+        {
+            "title": "A Neural Network approach to Image Captioning",
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "description": "Neural network approach to Image Captioning, an end-to-end neural network system that can automatically view an image and generate a reasonable description in plain English. Image captioning is based on a Convolutional Neural Network that encodes an image into a compact representation, followed by a Recurrent Neural Network that generates a corresponding sentence.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Tushar",
+                    "last_name": "Nimbhorkar",
+                    "name": null,
+                    "headline": "Senior Machine Learning Specialist at SensityAI"
+                }
+            ]
+        },
+        {
+            "title": "Study of computer vision methods",
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "description": "Implemented Photometric Stereo, ColorSpace conversions, Filters(Gaussian, Laplacian, etc), Optical flow method, Image alignment, stitching, and Image Classification. ",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Tushar",
+                    "last_name": "Nimbhorkar",
+                    "name": null,
+                    "headline": "Senior Machine Learning Specialist at SensityAI"
+                }
+            ]
+        },
+        {
+            "title": "Long Short-Term Memory (LSTM) Based TORCS Driver.",
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "description": "Long Short-Term Memory (LSTM) Network controller to perform the task of driving a car in TORCS (Car racing simulator) from raw sensory inputs. It was later enhanced by using an evolutionary algorithm for the optimization of certain parameters. We evaluated our agent's performance against several standard agents in a racing simulation environment. Our results indicate that our LSTM agent is capable of successfully controlling a car to navigate around a simulation environment.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Tushar",
+                    "last_name": "Nimbhorkar",
+                    "name": null,
+                    "headline": "Senior Machine Learning Specialist at SensityAI"
+                }
+            ]
+        },
+        {
+            "title": "Weather Prediction using supervised learning. ",
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "description": "The project investigated the use of data mining techniques in forecasting attributes like maximum temperature, minimum temperature, and the chance of rain. This was carried out using Decision Tree algorithms and meteorological data collected between 2000 and 2010 from the city of Surat. This project involved developing a model using a decision tree to predict weather phenomena like full cold, full hot, and rainfall which can be very important information.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Tushar",
+                    "last_name": "Nimbhorkar",
+                    "name": null,
+                    "headline": "Senior Machine Learning Specialist at SensityAI"
+                }
+            ]
+        },
+        {
+            "title": "Bachelors Thesis: Speaker Recognition using Deep Belief Networks",
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "description": "Speaker recognition and verification are essential in confirming identity in numerous real-world applications. In general biometric systems, one of the challenges is to select proper features for the classifier. This thesis presents a comprehensive study of different features and the use of Deep Belief Networks. The thesis also proposes to use a novel combination of features and Networks to train a model that improves the accuracy against the baseline traditional models.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Tushar",
+                    "last_name": "Nimbhorkar",
+                    "name": null,
+                    "headline": "Senior Machine Learning Specialist at SensityAI"
+                }
+            ]
+        }
+    ],
+    "publications": [],
+    "courses": [
+        {
+            "name": " Deep learning for Natural Language Processing (This course details about using Artificial Neural Networks for solving NLP tasks) offered by Stanford University",
+            "number": "CS224D"
+        },
+        {
+            "name": "Algorithms and Data Structures",
+            "number": null
+        },
+        {
+            "name": "Computer Vision Learning (I & II)",
+            "number": "(CV 1, CV2)"
+        },
+        {
+            "name": "Cyber Security",
+            "number": null
+        },
+        {
+            "name": "Deep Learning",
+            "number": "DL"
+        },
+        {
+            "name": "Differential and Integral Calculus ",
+            "number": null
+        },
+        {
+            "name": "Information Retrival (I &II)",
+            "number": "(IR - I & IR II)"
+        },
+        {
+            "name": "Information Visualization",
+            "number": null
+        },
+        {
+            "name": "Knowledge Representation",
+            "number": null
+        },
+        {
+            "name": "Machine Learning (I & II)",
+            "number": "(ML - I & ML - II)"
+        },
+        {
+            "name": "Natural Language Processing",
+            "number": "NLP 1"
+        },
+        {
+            "name": "Software Engineering",
+            "number": null
+        }
+    ],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 18910820,
+                "name": "Sensity",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQEcb_vchUe6Rw/company-logo_400_400/0/1595928579697?e=1703721600&v=beta&t=TB5Ap1RBmBkoSqm49AfORvIYTlGCNlk7lvQtwTtMsVo",
+                "url": "https://www.linkedin.com/company/sensityai/",
+                "employees": {
+                    "start": 2,
+                    "end": 10
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amsterdam, North Holland, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2020
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Sensity",
+                    "description": "An AI consulting firm specializing in machine and deep learning, computer vision, biometrics, and anti-fraud applications. A few projects I have worked with:\n\n\u25cf Designed and implemented a deep learning model for Gaze Detection to accurately predict the gaze of a given facial image. Resulting in a 94% accuracy in test scenarios.\n\u25cf Developed and implemented a deep learning model for DeepFake Detection to determine if the facial image is fake or real, resulting in a 99% accuracy in detecting any GAN-generated images.\n\u25cf Developed and implemented an EAR-based model for Blink Detection to correctly predict if a person is blinking.",
+                    "title": "Senior Machine Learning Specialist",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 27169273,
+                "name": "3DUniversum",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQFp7jx3aV8_MA/company-logo_400_400/0/1536243894524?e=1703721600&v=beta&t=r2MeQ9LO92hFQkDMkqsLIVHcXs5ixOiFVmPgtc7rp4U",
+                "url": "https://www.linkedin.com/company/3duniversum/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amsterdam Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2020
+                        }
+                    },
+                    "company": "3DUniversum",
+                    "description": "3DUniversum (3DU) is developing breakthrough technology integrating state-of-the-art Computer Vision technology and business into new products. A few of the projects I've worked with: \n\n\u25cf  Developed and implemented a Convolutional Neural Network (CNN) model that enhances the picture taken from a commercial mobile to the quality of DSLR in real-time, resulting in a 92% accuracy and running under 50ms per image (On device).\n\u25cf  Implemented and Succeeded in designing a Deep learning model that can relight any selfie taken from a commercial mobile phone from any direction and improve the quality of the facial image. The model runs under 10ms.\n\u25cf  Designed and Implemented a new feature using a Deep learning-based model that allows an image taken from a mobile camera and enhances the perceptual color quality.",
+                    "title": "Computer Vision and Machine Learning Specialist",
+                    "employment_type": "Full-time"
+                },
+                {
+                    "location": "Amsterdam Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "3DUniversum",
+                    "description": "As a research intern, I was responsible for the generation of Optical flow datasets in an unsupervised manner. The project involved: \n\u25cf The use of the correspondence matching and semantic segmentation to warp an object in non-rigid fashion. \n\u25cf The training and evaluation of various deep learning models on the generated optical flow dataset.\n\u25cf Tools and 3rd party libraries: Python, C++, Optlang, PyTorch, CUDA, OpenCV, and matplotlib.",
+                    "title": " Deep Learning Research Intern",
+                    "employment_type": "Internship"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 44195,
+                "name": "FireEye, Inc.",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQEIq9gcQ3Yf4w/company-logo_400_400/0/1622666443673?e=1703721600&v=beta&t=Caw0hLnnipwJB6ccs5RwjrmVTbPBbqYZqiUwJLTSJtQ",
+                "url": "https://www.linkedin.com/company/fireeye/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amsterdam Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2017
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2017
+                        }
+                    },
+                    "company": "FireEye, Inc.",
+                    "description": "At FireEye, I was tasked with Data Analysis, Indexing, and context-based delivery. Some highlights from this internship involve: \n\u25cf Work with Graph Data Structure(Elasticsearch).\n\u25cf Building a data visualization dashboard (Kibana).\n\u25cf Delivering reports on new malware to the research analysts. \n\u25cf Tools and 3rd party libraries: Python, Pandas, Numpy, Elastic search and Flask",
+                    "title": "Data Analyst Intern",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 15114231,
+                "name": "National Institute of Technology Surat",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQETh3Pmw3pNxw/company-logo_400_400/0/1519905466330?e=1703721600&v=beta&t=8I0mh35XrTKWqEwm_wvW__ed9SU6CRTcvb9HN7d1H0s",
+                "url": "https://www.linkedin.com/school/national-institute-of-technology-surat/",
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Surat Area, India",
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2015
+                        }
+                    },
+                    "company": "National Institute of Technology Surat",
+                    "description": "As a data science intern, I was responsible for developing a weather prediction model using Supervised learning. The project involved:\n\u25cf Literature survey on several State-of-the-art weather prediction models. \n\u25cf Working demo to predict the weather for the next 2 weeks. \n\u25cf Tools and 3rd party libraries: Python,  Sklearn, Numpy, etc",
+                    "title": "Data Science Research Intern",
+                    "employment_type": "Internship"
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Scikit-Learn",
+        "pandas",
+        "NumPy",
+        "Elasticsearch",
+        "Flask",
+        "Amazon Web Services (AWS)",
+        "Amazon EC2",
+        "Python (Programming Language)",
+        "docker",
+        "GitHub",
+        "deep learning",
+        "Machine Learning",
+        "Artificial Intelligence",
+        "Programming",
+        "Algorithms",
+        "Research",
+        "Project Management",
+        "Python",
+        "SQL",
+        "C++"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}

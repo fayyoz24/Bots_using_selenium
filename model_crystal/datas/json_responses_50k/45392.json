@@ -1,0 +1,622 @@
+{
+    "profile_id": "am\u00e9lie-royer-aa4582168",
+    "first_name": "Am\u00e9lie",
+    "last_name": "Royer",
+    "sub_title": "Deep Learning Researcher",
+    "profile_picture": "https://media.licdn.com/dms/image/C5603AQGwYT8-PNblpQ/profile-displayphoto-shrink_800_800/0/1561221314548?e=1701302400&v=beta&t=1Cc5i81g_O6LPv1TbY4euChroDjA-8g-doZ8iLtyskg",
+    "background_image": null,
+    "profile_type": "personal",
+    "entity_urn": "ACoAACfzl5wB5vM_Amb_w01Df8c8OlQ_soEha9U",
+    "object_urn": 670275484,
+    "birth_date": null,
+    "summary": "Research Engineer.\nComputer Vision and Deep Learning.\nameroyer.github.io",
+    "location": {
+        "country": "Netherlands",
+        "short": "Amsterdam, North Holland",
+        "city": "Amsterdam",
+        "state": "North Holland",
+        "default": "Amsterdam, North Holland, Netherlands"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [
+        {
+            "url": null,
+            "title": "GLOW: Generative flow",
+            "description": "This notebook discusses/summarizes the Glow generative model. For a more complete review of the paper, see also the reading notes.This code can also be found as a github repository and a kaggle notebook.",
+            "image": null
+        },
+        {
+            "url": null,
+            "title": "VQ-VAE",
+            "description": "This notebook contains a Keras / Tensorflow implementation of the VQ-VAE model, which was introduced in Neural Discrete Representation Learning (van den Oord et al, NeurIPS 2017).",
+            "image": null
+        },
+        {
+            "url": "https://github.com",
+            "title": "Advent of Code on Github",
+            "description": "A collection of my solutions to past years' Advent of Code challenges in various programming languages",
+            "image": "https://media.licdn.com/dms/image/sync/C4D27AQGu39y2xMLhIA/articleshare-shrink_1280_800/0/1695830468743?e=1696438800&v=beta&t=TTdnQnajjXpG96wHS0iCZmT-JepAjrXYfGI49DrV3rg"
+        }
+    ],
+    "languages": {
+        "primary_locale": {
+            "country": "FR",
+            "language": "fr"
+        },
+        "supported_locales": [
+            {
+                "country": "FR",
+                "language": "fr"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "Allemand",
+                "proficiency": "PROFESSIONAL_WORKING"
+            },
+            {
+                "name": "Anglais",
+                "proficiency": "FULL_PROFESSIONAL"
+            },
+            {
+                "name": "Fran\u00e7ais",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ]
+    },
+    "industry": "Research",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "school": {
+                "name": "\u00c9cole normale sup\u00e9rieure de Rennes",
+                "logo": "https://media.licdn.com/dms/image/C510BAQEQrf1m-aj9TQ/company-logo_400_400/0/1519911513175?e=1703721600&v=beta&t=sorqggEw6SnU_APGq8PwoaK4OatYbgJ1xk3gur_9GFU",
+                "url": "https://www.linkedin.com/school/ensrennes/"
+            },
+            "degree_name": "Master's degree",
+            "field_of_study": "Computer Science and Mathematics",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "school": {
+                "name": "Universit\u00e9 de Rennes I",
+                "logo": "https://media.licdn.com/dms/image/C4E0BAQHaoCh9OzTBUQ/company-logo_400_400/0/1671609269109/univrennes1_logo?e=1703721600&v=beta&t=gjgf-Uk4X3epVobdz8y4aEJb-BY-JHMp7EhtXg9sA_w",
+                "url": "https://www.linkedin.com/school/rennesuniv/"
+            },
+            "degree_name": "Master's degree",
+            "field_of_study": "Computer Science and Mathematics",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2010
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "school": {
+                "name": "Lyc\u00e9e Georges Cl\u00e9menceau (CPGE)",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": null,
+            "field_of_study": "Mathematics",
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [],
+    "organizations": [],
+    "projects": [],
+    "publications": [
+        {
+            "name": "A Flexible Selection Scheme for Minimum-Effort Transfer Learning",
+            "publisher": "Winter Conference on Applications of Computer Vision (WACV) 2020",
+            "url": "http://openaccess.thecvf.com/content_WACV_2020/papers/Royer_A_Flexible_Selection_Scheme_for_Minimum-Effort_Transfer_Learning_WACV_2020_paper.pdf",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2020
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Am\u00e9lie",
+                    "last_name": "Royer",
+                    "name": null,
+                    "headline": "Deep Learning Researcher"
+                }
+            ]
+        },
+        {
+            "name": "Localizing Grouped Instances for Efficient Detection in Low-Resource Scenarios",
+            "publisher": "Winter Conference on Applications of Computer Vision (WACV) 2020",
+            "url": "http://openaccess.thecvf.com/content_WACV_2020/papers/Royer_Localizing_Grouped_Instances_for_Efficient_Detection_in_Low-Resource_Scenarios_WACV_2020_paper.pdf",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2020
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Am\u00e9lie",
+                    "last_name": "Royer",
+                    "name": null,
+                    "headline": "Deep Learning Researcher"
+                }
+            ]
+        },
+        {
+            "name": "XGAN: Unsupervised Image-to-Image Translation for Many-to-Many Mappings",
+            "publisher": "Domain Adaptation for Visual Understanding Workshop at ICML/IJCAI/EJCAI",
+            "url": "https://arxiv.org/abs/1711.05139",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2018
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Am\u00e9lie",
+                    "last_name": "Royer",
+                    "name": null,
+                    "headline": "Deep Learning Researcher"
+                }
+            ]
+        },
+        {
+            "name": "Probabilistic Image Colorization",
+            "publisher": "British Machine Vision Conference (BMVC)",
+            "url": "https://arxiv.org/abs/1705.04258",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2017
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Am\u00e9lie",
+                    "last_name": "Royer",
+                    "name": null,
+                    "headline": "Deep Learning Researcher"
+                }
+            ]
+        },
+        {
+            "name": "Audio word similarity for clustering with zero resources based on iterative HMM classification",
+            "publisher": "International Conference on Acoustics, Speech and Signal Processing (ICASSP)",
+            "url": "https://hal-imt.archives-ouvertes.fr/hal-01336100/",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2016
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Am\u00e9lie",
+                    "last_name": "Royer",
+                    "name": null,
+                    "headline": "Deep Learning Researcher"
+                }
+            ]
+        },
+        {
+            "name": "Classifier Adaptation at Prediction Time",
+            "publisher": "IEEE Conference on Computer Vision and Pattern Recognition (CVPR)",
+            "url": "http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Royer_Classifier_Adaptation_at_2015_CVPR_paper.pdf",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2015
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Am\u00e9lie",
+                    "last_name": "Royer",
+                    "name": null,
+                    "headline": "Deep Learning Researcher"
+                }
+            ]
+        }
+    ],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 2017,
+                "name": "Qualcomm",
+                "logo": "https://media.licdn.com/dms/image/C560BAQHHmRgEadFrdA/company-logo_400_400/0/1611250856145/qualcomm_logo?e=1703721600&v=beta&t=RkXUPj4mpb9Hysx7C-2_MQrYmc8NYJpKttzEYnIrlOw",
+                "url": "https://www.linkedin.com/company/qualcomm/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Pays-Bas",
+                    "date": {
+                        "start": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Qualcomm",
+                    "description": null,
+                    "title": "Deep Learning Researcher",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 364829,
+                "name": "Institute of Science and Technology Austria",
+                "logo": "https://media.licdn.com/dms/image/D4D0BAQHjpGA2PUe_zg/company-logo_400_400/0/1689328254771/istaustria_logo?e=1703721600&v=beta&t=D-qD3Al6Zt0AuQNHBxCH3CJlLOsyczwI-Jg6jFnUCHI",
+                "url": "https://www.linkedin.com/school/istaustria/",
+                "employees": {
+                    "start": 501,
+                    "end": 1000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Vienna, Austria",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2020
+                        }
+                    },
+                    "company": "Institute of Science and Technology Austria",
+                    "description": "PhD Candidate under the supervision of Professor Christoph Lampert at IST Austria",
+                    "title": "PHD Graduate Student",
+                    "employment_type": null
+                },
+                {
+                    "location": "Vienna, Austria",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2016
+                        }
+                    },
+                    "company": "Institute of Science and Technology Austria",
+                    "description": "Grad School Courses and Lab rotations",
+                    "title": "PhD Candidate",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1441,
+                "name": "Google",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQHiNSL4Or29cg/company-logo_400_400/0/1519856215226?e=1703721600&v=beta&t=45pPRW58DELKQ71b8pS1RIvn6yxBngEZqmTF1VwyxzQ",
+                "url": "https://www.linkedin.com/company/google/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Zurich, Suisse",
+                    "date": {
+                        "start": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2020
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2020
+                        }
+                    },
+                    "company": "Google",
+                    "description": "Internship in Google Brain, Zurich, Switzerland",
+                    "title": "Graduate Research Intern",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1441,
+                "name": "Google",
+                "logo": "https://media.licdn.com/dms/image/C4D0BAQHiNSL4Or29cg/company-logo_400_400/0/1519856215226?e=1703721600&v=beta&t=45pPRW58DELKQ71b8pS1RIvn6yxBngEZqmTF1VwyxzQ",
+                "url": "https://www.linkedin.com/company/google/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "London, Royaume-Uni",
+                    "date": {
+                        "start": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2017
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2017
+                        }
+                    },
+                    "company": "Google",
+                    "description": "Internship in the Google Brain team in Google, UK.\nXGAN: Unsupervised image-to-image Translation for many-to-many Mappings(see https://arxiv.org/abs/1711.05139).",
+                    "title": "Software Engineering Intern",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 164385,
+                "name": "Inria",
+                "logo": "https://media.licdn.com/dms/image/C560BAQErLWV8QlRjXg/company-logo_400_400/0/1530174436379/inria_logo?e=1703721600&v=beta&t=SMOXo3_Z-OrSB1N1xC7RwVd5GBbu_ZfTG2rkYHD2QJk",
+                "url": "https://www.linkedin.com/company/inria/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "R\u00e9gion de Rennes, France",
+                    "date": {
+                        "start": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2015
+                        }
+                    },
+                    "company": "Inria",
+                    "description": "Research Internship (Master's Thesis) in the Linkmedia team at INRIA.\nSimilarity by diverting supervised machine learning \u2014 Application to knowledge discovery in multimedia content (see https://hal.archives-ouvertes.fr/hal-01285965)",
+                    "title": "Research Intern",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 364829,
+                "name": "Institute of Science and Technology Austria",
+                "logo": "https://media.licdn.com/dms/image/D4D0BAQHjpGA2PUe_zg/company-logo_400_400/0/1689328254771/istaustria_logo?e=1703721600&v=beta&t=D-qD3Al6Zt0AuQNHBxCH3CJlLOsyczwI-Jg6jFnUCHI",
+                "url": "https://www.linkedin.com/school/istaustria/",
+                "employees": {
+                    "start": 501,
+                    "end": 1000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Vienna, Austria",
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2014
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2014
+                        }
+                    },
+                    "company": "Institute of Science and Technology Austria",
+                    "description": "Research Internship at IST Austria in the Computer Vision and Machine Learning Team.\nClassifier Adaptation at Prediction Time (see http://pub.ist.ac.at/~aroyer/Ressources/Internships/Stage_2014_Rapport_Royer.pdf)",
+                    "title": "Research Intern",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 164385,
+                "name": "Inria",
+                "logo": "https://media.licdn.com/dms/image/C560BAQErLWV8QlRjXg/company-logo_400_400/0/1530174436379/inria_logo?e=1703721600&v=beta&t=SMOXo3_Z-OrSB1N1xC7RwVd5GBbu_ZfTG2rkYHD2QJk",
+                "url": "https://www.linkedin.com/company/inria/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "R\u00e9gion de Rennes, France",
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2013
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2013
+                        }
+                    },
+                    "company": "Inria",
+                    "description": "Research Intern in the TexMex team at INRIA\nCirculant Temporal Encoding for Event Retrieval in Large Video Databases (see http://pub.ist.ac.at/~aroyer/Ressources/Internships/Stage_2013_Rapport_Royer.pdf)",
+                    "title": "Research Intern",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Deep Learning",
+        "Python (Programming Language)",
+        "Computer Vision",
+        "Machine Learning",
+        "Tensorflow",
+        "python",
+        "GIMP",
+        "inkscape",
+        "HTML5",
+        "Git",
+        "Research",
+        "LaTeX",
+        "Matlab",
+        "CSS",
+        "Feuilles de style en cascade (CSS)",
+        "Python",
+        "MATLAB",
+        "Jax",
+        "Generative models",
+        "Domain Adaptation"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null
+}
